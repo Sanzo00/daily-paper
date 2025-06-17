@@ -1,0 +1,26 @@
+title: Daily Paper
+description: Automatically update arXiv papers daily using GitHub Actions (updated every 6 hours)
+show_downloads: true
+
+# GitHub repo links
+github:
+  zip_url: https://github.com/Sanzo00/daily-paper
+  another_url: https://github.com/Sanzo00/daily-paper
+
+# Theme
+theme: just-the-docs
+
+# # Just the Docs settings
+# just_the_docs:
+#   logo: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+#   logo_alt: "Go to GitHub"
+#   logo_url: https://github.com/Sanzo00/daily-paper
+#   search_enabled: false
+#   heading_anchors: true
+  
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag

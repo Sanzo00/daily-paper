@@ -1,0 +1,50 @@
+base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
+user_name: "Sanzo00"
+repo_name: "daily-paper"
+show_authors: True
+show_links: True
+max_results: 100
+
+publish_readme: False
+publish_gitpage: True
+
+# file paths
+json_readme_path: './docs/arxiv-daily.json'
+json_gitpage_path: './docs/arxiv-daily-web.json'
+
+md_readme_path: 'README.md'
+md_gitpage_path: './docs/index.md'
+
+# keywords to search
+keywords:
+    
+    "RAG":
+        logic: AND
+        filters:
+        - ["RAG", "Cache"]
+        - ["RAG", "Memory"]
+        - ["RAG", "KG"]
+        - ["RAG", "Graph"]
+
+    "LLM":
+        logic: AND
+        filters:
+        - ["LLM", "Cache"]
+        - ["LLM", "Cache", "Serving"]
+        - ["LLM", "Cache", "Inference"]
+        - ["LLM", "Reasoning"]
+        - ["LLM", "Reasoning", "Cache"]
+        - ["LLM", "Thinking", "Cache"]
+        - ["LLM", "Prefix", "Cache"]
+        - ["LLM", "Inference", "Cache"]
+        - ["LLM", "Scheduling", "Cache"]
+        - ["LLM", "Agent", "Cache"]
+
+
+    "GNN":
+        filters: [
+            "GNN Training", "Distributed GNN", "Sample-based GNN Training", "Full-Graph GNN Training",
+            "Large-scale Graph Neural Network", "GNN System Optimization", "GNN Partitioning", 
+            "Graph Training Pipeline", "Graph Training Parallelism", "GNN Scheduling", "GNN Training Evaluation",
+            "Hybrid CPU-GPU GNN Training", "GNN Communication Optimization", "Graph Neural Network Serving"
+        ]
