@@ -9,9 +9,9 @@ on:
   schedule:
     - cron:  "0 */6 * * *" # every 6 hours
   # Triggers the workflow on push or pull request events but only for the main branch
-#   push:
-#     branches:
-#     - main
+  # push:
+  #   branches:
+  #   - main
 
 env:
   GITHUB_USER_NAME: Sanzo00
@@ -46,21 +46,13 @@ jobs:
       - name: Run daily arxiv 
         run: |
           python daily_arxiv.py --update_paper_links
-          
-      # - name: Push new llm-arxiv-daily.md
-      #   uses: github-actions-x/commit@v2.9
-      #   with:
-      #     github-token: ${{ secrets.GITHUB_TOKEN }}
-      #     commit-message: "Github Action Automatic Update LLM Arxiv Papers"
-      #     files: docs/arxiv-daily.json docs/arxiv-daily-web.json docs/index.md docs/*.md
-      #     rebase: 'true'
-      #     name: ${{ env.GITHUB_USER_NAME }}
-      #     email: ${{ env.GITHUB_USER_EMAIL }}
   
       - name: Commit and Push Generated Files
         uses: EndBug/add-and-commit@v9
         with:
           author_name: ${{ env.GITHUB_USER_NAME }}
           author_email: ${{ env.GITHUB_USER_EMAIL }}
-          message: "Update daily arxiv papers"
-          add: "docs/*.md docs/*.json"
+          message: "Update daily papers"
+          add: "docs/*.md docs/*.json docs/index.md"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

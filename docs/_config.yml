@@ -8,7 +8,7 @@ github:
   another_url: https://github.com/Sanzo00/daily-paper
 
 # Theme
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 # # Just the Docs settings
 # just_the_docs:
