@@ -7,7 +7,7 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
   schedule:
-    - cron:  "0 */6 * * *" # every 6 hours
+    - cron: "0 0 * * 1" # every 6 hours
   # Triggers the workflow on push or pull request events but only for the main branch
   # push:
   #   branches:
@@ -52,7 +52,7 @@ jobs:
         with:
           author_name: ${{ env.GITHUB_USER_NAME }}
           author_email: ${{ env.GITHUB_USER_EMAIL }}
-          message: "Update daily papers"
+          message: "Update paper links"
           add: "docs/*.md docs/*.json docs/index.md"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

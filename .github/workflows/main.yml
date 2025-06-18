@@ -1,13 +1,13 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Run Arxiv Papers Daily
+name: Update Daily Papers
 
 # Controls when the workflow will run
 on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
   schedule:
-    - cron:  "0 0/6 * * *"  #'*/60 * * * *'
+    - cron:  "0 */6 * * *"  #'*/60 * * * *'
   # Triggers the workflow on push or pull request events but only for the main branch
 #   push:
 #     branches:
@@ -15,8 +15,8 @@ on:
 
 env:
 
-  GITHUB_USER_NAME: Xuchen-Li
-  GITHUB_USER_EMAIL: lixuchen2024@ia.ac.cn
+  GITHUB_USER_NAME: Sanzo00
+  GITHUB_USER_EMAIL: arrangeman@163.com
   
   
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
@@ -48,12 +48,12 @@ jobs:
         run: |
           python daily_arxiv.py
           
-      - name: Push new llm-arxiv-daily.md
-        uses: github-actions-x/commit@v2.9
+      - name: Update Daily papers
+        uses: EndBug/add-and-commit@v9
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "Github Action Automatic Update LLM Arxiv Papers"
-          files: README.md docs/llm-arxiv-daily.json docs/llm-arxiv-daily-web.json docs/index.md
-          rebase: 'true'
-          name: ${{ env.GITHUB_USER_NAME }}
-          email: ${{ env.GITHUB_USER_EMAIL }}
+          author_name: ${{ env.GITHUB_USER_NAME }}
+          author_email: ${{ env.GITHUB_USER_EMAIL }}
+          message: "Update daily papers"
+          add: "docs/*.md docs/*.json docs/index.md"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
