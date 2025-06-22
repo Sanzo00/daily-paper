@@ -334,7 +334,7 @@ _Updated on 2025.06.22_
 |**2025-02-05**|**Qrazor: Reliable and Effortless 4-bit LLM Quantization by Significant Data Razoring**|Dongyoung Lee et.al.|[2501.13331](http://arxiv.org/abs/2501.13331)|null|
 |**2025-02-05**|**Cache-Craft: Managing Chunk-Caches for Efficient Retrieval-Augmented Generation**|Shubham Agarwal et.al.|[2502.15734](http://arxiv.org/abs/2502.15734)|null|
 |**2025-02-04**|**LightTransfer: Your Long-Context LLM is Secretly a Hybrid Model with Effortless Adaptation**|Xuan Zhang et.al.|[2410.13846](http://arxiv.org/abs/2410.13846)|**[link](https://github.com/sail-sg/simlayerkv)**|
-|**2025-02-02**|**RotateKV: Accurate and Robust 2-Bit KV Cache Quantization for LLMs via Outlier-Aware Adaptive Rotations**|Zunhai Su et.al.|[2501.16383](http://arxiv.org/abs/2501.16383)|**[link](https://github.com/ZunhaiSu/RotateKV)**|
+|**2025-02-02**|**RotateKV: Accurate and Robust 2-Bit KV Cache Quantization for LLMs via Outlier-Aware Adaptive Rotations**|Zunhai Su et.al.|[2501.16383](http://arxiv.org/abs/2501.16383)|null|
 |**2025-02-01**|**QSpec: Speculative Decoding with Complementary Quantization Schemes**|Juntao Zhao et.al.|[2410.11305](http://arxiv.org/abs/2410.11305)|null|
 |**2025-01-30**|**State Stream Transformer (SST) : Emergent Metacognitive Behaviours Through Latent State Persistence**|Thea Aviss et.al.|[2501.18356](http://arxiv.org/abs/2501.18356)|null|
 |**2025-01-29**|**vAttention: Dynamic Memory Management for Serving LLMs without PagedAttention**|Ramya Prabhu et.al.|[2405.04437](http://arxiv.org/abs/2405.04437)|**[link](https://github.com/microsoft/vattention)**|
