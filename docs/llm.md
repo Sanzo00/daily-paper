@@ -6,7 +6,7 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2025.06.22_
+_Updated on 2025.06.23_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
@@ -131,7 +131,7 @@ _Updated on 2025.06.22_
 |**2025-06-13**|**Efficient Long-Context LLM Inference via KV Cache Clustering**|Jie Hu et.al.|[2506.11418](http://arxiv.org/abs/2506.11418)|null|
 |**2025-06-13**|**Accelerating Diffusion Large Language Models with SlowFast Sampling: The Three Golden Principles**|Qingyan Wei et.al.|[2506.10848](http://arxiv.org/abs/2506.10848)|**[link](https://github.com/liangrunflora/slow-fast-sampling)**|
 |**2025-06-13**|**Investigating the Potential of Large Language Model-Based Router Multi-Agent Architectures for Foundation Design Automation: A Task Classification and Expert Selection Study**|Sompote Youwai et.al.|[2506.13811](http://arxiv.org/abs/2506.13811)|null|
-|**2025-06-13**|**From Emergence to Control: Probing and Modulating Self-Reflection in Language Models**|Xudong Zhu et.al.|[2506.12217](http://arxiv.org/abs/2506.12217)|null|
+|**2025-06-13**|**From Emergence to Control: Probing and Modulating Self-Reflection in Language Models**|Xudong Zhu et.al.|[2506.12217](http://arxiv.org/abs/2506.12217)|**[link](https://github.com/xzascc/probingreflection)**|
 |**2025-06-13**|**Supernova Event Dataset: Interpreting Large Language Model's Personality through Critical Event Analysis**|Pranav Agarwal et.al.|[2506.12189](http://arxiv.org/abs/2506.12189)|null|
 |**2025-06-13**|**Instruction Tuning and CoT Prompting for Contextual Medical QA with LLMs**|Chenqian Le et.al.|[2506.12182](http://arxiv.org/abs/2506.12182)|null|
 |**2025-06-13**|**code_transformed: The Influence of Large Language Models on Code**|Yuliang Xu et.al.|[2506.12014](http://arxiv.org/abs/2506.12014)|null|
@@ -139,7 +139,7 @@ _Updated on 2025.06.22_
 |**2025-06-13**|**How Visual Representations Map to Language Feature Space in Multimodal LLMs**|Constantin Venhoff et.al.|[2506.11976](http://arxiv.org/abs/2506.11976)|null|
 |**2025-06-13**|**Feedback Friction: LLMs Struggle to Fully Incorporate External Feedback**|Dongwei Jiang et.al.|[2506.11930](http://arxiv.org/abs/2506.11930)|null|
 |**2025-06-13**|**LiveCodeBench Pro: How Do Olympiad Medalists Judge LLMs in Competitive Programming?**|Zihan Zheng et.al.|[2506.11928](http://arxiv.org/abs/2506.11928)|null|
-|**2025-06-13**|**TreeRL: LLM Reinforcement Learning with On-Policy Tree Search**|Zhenyu Hou et.al.|[2506.11902](http://arxiv.org/abs/2506.11902)|null|
+|**2025-06-13**|**TreeRL: LLM Reinforcement Learning with On-Policy Tree Search**|Zhenyu Hou et.al.|[2506.11902](http://arxiv.org/abs/2506.11902)|**[link](https://github.com/thudm/treerl)**|
 |**2025-06-13**|**MapQaTor: An Extensible Framework for Efficient Annotation of Map-Based QA Datasets**|Mahir Labib Dihan et.al.|[2412.21015](http://arxiv.org/abs/2412.21015)|**[link](https://github.com/MapQaTor/.github/tree/main/profile)**|
 |**2025-06-12**|**SwiftSpec: Ultra-Low Latency LLM Decoding by Scaling Asynchronous Speculative Decoding**|Ziyi Zhang et.al.|[2506.11309](http://arxiv.org/abs/2506.11309)|null|
 |**2025-06-11**|**SAFEFLOW: A Principled Protocol for Trustworthy and Transactional Autonomous Agent Systems**|Peiran Li et.al.|[2506.07564](http://arxiv.org/abs/2506.07564)|null|
