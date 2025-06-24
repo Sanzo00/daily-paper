@@ -6,10 +6,13 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2025.06.23_
+_Updated on 2025.06.24_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
+|**2025-06-23**|**RAPID: Long-Context Inference with Retrieval-Augmented Speculative Decoding**|Guanzheng Chen et.al.|[2502.20330](http://arxiv.org/abs/2502.20330)|**[link](https://github.com/john-ai-lab/rapid)**|
+|**2025-06-23**|**Talking to GDELT Through Knowledge Graphs**|Audun Myers et.al.|[2503.07584](http://arxiv.org/abs/2503.07584)|null|
+|**2025-06-21**|**ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation**|Pengcheng Huang et.al.|[2502.15543](http://arxiv.org/abs/2502.15543)|**[link](https://github.com/openbmb/pip-kag)**|
 |**2025-06-20**|**Memory-enhanced Retrieval Augmentation for Long Video Understanding**|Huaying Yuan et.al.|[2503.09149](http://arxiv.org/abs/2503.09149)|null|
 |**2025-06-19**|**From RAG to Memory: Non-Parametric Continual Learning for Large Language Models**|Bernal Jiménez Gutiérrez et.al.|[2502.14802](http://arxiv.org/abs/2502.14802)|**[link](https://github.com/osu-nlp-group/hipporag)**|
 |**2025-06-19**|**Code Graph Model (CGM): A Graph-Integrated Large Language Model for Repository-Level Software Engineering Tasks**|Hongyuan Tao et.al.|[2505.16901](http://arxiv.org/abs/2505.16901)|null|
@@ -59,7 +62,6 @@ _Updated on 2025.06.23_
 |**2025-06-01**|**RARE: Retrieval-Aware Robustness Evaluation for Retrieval-Augmented Generation Systems**|Yixiao Zeng et.al.|[2506.00789](http://arxiv.org/abs/2506.00789)|**[link](https://github.com/leililab/rare)**|
 |**2025-05-31**|**OntoRAG: Enhancing Question-Answering through Automated Ontology Derivation from Unstructured Knowledge Bases**|Yash Tiwari et.al.|[2506.00664](http://arxiv.org/abs/2506.00664)|null|
 |**2025-05-29**|**AgentNet: Decentralized Evolutionary Coordination for LLM-based Multi-Agent Systems**|Yingxuan Yang et.al.|[2504.00587](http://arxiv.org/abs/2504.00587)|null|
-|**2025-05-29**|**ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation**|Pengcheng Huang et.al.|[2502.15543](http://arxiv.org/abs/2502.15543)|**[link](https://github.com/openbmb/pip-kag)**|
 |**2025-05-29**|**Diagnosing and Addressing Pitfalls in KG-RAG Datasets: Toward More Reliable Benchmarking**|Liangliang Zhang et.al.|[2505.23495](http://arxiv.org/abs/2505.23495)|null|
 |**2025-05-29**|**SimGRAG: Leveraging Similar Subgraphs for Knowledge Graphs Driven Retrieval-Augmented Generation**|Yuzheng Cai et.al.|[2412.15272](http://arxiv.org/abs/2412.15272)|**[link](https://github.com/YZ-Cai/SimGRAG)**|
 |**2025-05-29**|**Retrieval Augmented Generation based Large Language Models for Causality Mining**|Thushara Manjari Naduvilakandy et.al.|[2505.23944](http://arxiv.org/abs/2505.23944)|**[link](https://github.com/thusharamanjari/rag_llm_causalitymining)**|
@@ -185,7 +187,6 @@ _Updated on 2025.06.23_
 |**2025-03-20**|**Parameters vs. Context: Fine-Grained Control of Knowledge Reliance in Language Models**|Baolong Bi et.al.|[2503.15888](http://arxiv.org/abs/2503.15888)|**[link](https://github.com/byronbbl/ck-plug)**|
 |**2025-03-14**|**AIstorian lets AI be a historian: A KG-powered multi-agent system for accurate biography generation**|Fengyu Li et.al.|[2503.11346](http://arxiv.org/abs/2503.11346)|**[link](https://github.com/zju-daily/aistorian)**|
 |**2025-03-14**|**RAG-KG-IL: A Multi-Agent Hybrid Framework for Reducing Hallucinations and Enhancing LLM Reasoning through RAG and Incremental Knowledge Graph Learning Integration**|Hong Qing Yu et.al.|[2503.13514](http://arxiv.org/abs/2503.13514)|null|
-|**2025-03-10**|**Talking to GDELT Through Knowledge Graphs**|Audun Myers et.al.|[2503.07584](http://arxiv.org/abs/2503.07584)|null|
 |**2025-03-09**|**Training Sparse Mixture Of Experts Text Embedding Models**|Zach Nussbaum et.al.|[2502.07972](http://arxiv.org/abs/2502.07972)|**[link](https://github.com/nomic-ai/contrastors)**|
 |**2025-03-07**|**Leveraging Approximate Caching for Faster Retrieval-Augmented Generation**|Shai Bergman et.al.|[2503.05530](http://arxiv.org/abs/2503.05530)|null|
 |**2025-03-07**|**Interpersonal Memory Matters: A New Task for Proactive Dialogue Utilizing Conversational History**|Bowen Wu et.al.|[2503.05150](http://arxiv.org/abs/2503.05150)|**[link](https://github.com/frontierlabs/mapdia)**|
@@ -193,7 +194,6 @@ _Updated on 2025.06.23_
 |**2025-03-05**|**A Comprehensive Framework for Reliable Legal AI: Combining Specialized Expert Systems and Adaptive Refinement**|Sidra Nasir et.al.|[2412.20468](http://arxiv.org/abs/2412.20468)|null|
 |**2025-03-04**|**RAG-DDR: Optimizing Retrieval-Augmented Generation Using Differentiable Data Rewards**|Xinze Li et.al.|[2410.13509](http://arxiv.org/abs/2410.13509)|**[link](https://github.com/openmatch/rag-ddr)**|
 |**2025-02-28**|**TeleRAG: Efficient Retrieval-Augmented Generation Inference with Lookahead Retrieval**|Chien-Yu Lin et.al.|[2502.20969](http://arxiv.org/abs/2502.20969)|null|
-|**2025-02-27**|**Long-Context Inference with Retrieval-Augmented Speculative Decoding**|Guanzheng Chen et.al.|[2502.20330](http://arxiv.org/abs/2502.20330)|**[link](https://github.com/john-ai-lab/rapid)**|
 |**2025-02-26**|**CommGPT: A Graph and Retrieval-Augmented Multimodal Communication Foundation Model**|Feibo Jiang et.al.|[2502.18763](http://arxiv.org/abs/2502.18763)|null|
 |**2025-02-26**|**EMERGE: Enhancing Multimodal Electronic Health Records Predictive Modeling with Retrieval-Augmented Generation**|Yinghao Zhu et.al.|[2406.00036](http://arxiv.org/abs/2406.00036)|null|
 |**2025-02-25**|**Rank1: Test-Time Compute for Reranking in Information Retrieval**|Orion Weller et.al.|[2502.18418](http://arxiv.org/abs/2502.18418)|**[link](https://github.com/orionw/rank1)**|

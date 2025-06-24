@@ -6,10 +6,13 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2025.06.23_
+_Updated on 2025.06.24_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
+|**2025-06-23**|**RAPID: Long-Context Inference with Retrieval-Augmented Speculative Decoding**|Guanzheng Chen et.al.|[2502.20330](http://arxiv.org/abs/2502.20330)|**[link](https://github.com/john-ai-lab/rapid)**|
+|**2025-06-23**|**RealSR-R1: Reinforcement Learning for Real-World Image Super-Resolution with Vision-Language Chain-of-Thought**|Junbo Qiao et.al.|[2506.16796](http://arxiv.org/abs/2506.16796)|null|
+|**2025-06-23**|**SLR: An Automated Synthesis Framework for Scalable Logical Reasoning**|Lukas Helff et.al.|[2506.15787](http://arxiv.org/abs/2506.15787)|null|
 |**2025-06-20**|**Domain Specific Benchmarks for Evaluating Multimodal Large Language Models**|Khizar Anjum et.al.|[2506.12958](http://arxiv.org/abs/2506.12958)|null|
 |**2025-06-20**|**No Free Lunch: Rethinking Internal Feedback for LLM Reasoning**|Yanzhi Zhang et.al.|[2506.17219](http://arxiv.org/abs/2506.17219)|null|
 |**2025-06-20**|**Towards AI Search Paradigm**|Yuchen Li et.al.|[2506.17188](http://arxiv.org/abs/2506.17188)|null|
@@ -19,7 +22,6 @@ _Updated on 2025.06.23_
 |**2025-06-20**|**Tower+: Bridging Generality and Translation Specialization in Multilingual LLMs**|Ricardo Rei et.al.|[2506.17080](http://arxiv.org/abs/2506.17080)|null|
 |**2025-06-20**|**From Concepts to Components: Concept-Agnostic Attention Module Discovery in Transformers**|Jingtong Su et.al.|[2506.17052](http://arxiv.org/abs/2506.17052)|null|
 |**2025-06-20**|**Latent Concept Disentanglement in Transformer-based Language Models**|Guan Zhe Hong et.al.|[2506.16975](http://arxiv.org/abs/2506.16975)|null|
-|**2025-06-20**|**RealSR-R1: Reinforcement Learning for Real-World Image Super-Resolution with Vision-Language Chain-of-Thought**|Junbo Qiao et.al.|[2506.16796](http://arxiv.org/abs/2506.16796)|null|
 |**2025-06-20**|**LaVi: Efficient Large Vision-Language Models via Internal Feature Modulation**|Tongtian Yue et.al.|[2506.16691](http://arxiv.org/abs/2506.16691)|null|
 |**2025-06-19**|**Serving Large Language Models on Huawei CloudMatrix384**|Pengfei Zuo et.al.|[2506.12708](http://arxiv.org/abs/2506.12708)|null|
 |**2025-06-19**|**KVCache Cache in the Wild: Characterizing and Optimizing KVCache Cache at a Large Cloud Provider**|Jiahao Wang et.al.|[2506.02634](http://arxiv.org/abs/2506.02634)|**[link](https://github.com/alibaba-edu/qwen-bailian-usagetraces-anon)**|
@@ -74,7 +76,6 @@ _Updated on 2025.06.23_
 |**2025-06-18**|**Context Matters! Relaxing Goals with LLMs for Feasible 3D Scene Planning**|Emanuele Musumeci et.al.|[2506.15828](http://arxiv.org/abs/2506.15828)|null|
 |**2025-06-18**|**Veracity: An Open-Source AI Fact-Checking System**|Taylor Lynn Curtis et.al.|[2506.15794](http://arxiv.org/abs/2506.15794)|null|
 |**2025-06-18**|**ETrace:Event-Driven Vulnerability Detection in Smart Contracts via LLM-Based Trace Analysis**|Chenyang Peng et.al.|[2506.15790](http://arxiv.org/abs/2506.15790)|null|
-|**2025-06-18**|**SLR: An Automated Synthesis Framework for Scalable Logical Reasoning**|Lukas Helff et.al.|[2506.15787](http://arxiv.org/abs/2506.15787)|null|
 |**2025-06-17**|**Unified Software Engineering agent as AI Software Engineer**|Leonhard Applis et.al.|[2506.14683](http://arxiv.org/abs/2506.14683)|null|
 |**2025-06-17**|**Massive Supervised Fine-tuning Experiments Reveal How Data, Layer, and Training Factors Shape LLM Alignment Quality**|Yuto Harada et.al.|[2506.14681](http://arxiv.org/abs/2506.14681)|null|
 |**2025-06-17**|**Revisiting Chain-of-Thought Prompting: Zero-shot Can Be Stronger than Few-shot**|Xiang Cheng et.al.|[2506.14641](http://arxiv.org/abs/2506.14641)|null|
@@ -357,7 +358,6 @@ _Updated on 2025.06.23_
 |**2025-03-05**|**Enhancing Memory Efficiency in Large Language Model Training Through Chronos-aware Pipeline Parallelism**|Xinyuan Lin et.al.|[2503.03182](http://arxiv.org/abs/2503.03182)|null|
 |**2025-03-03**|**WeightedKV: Attention Scores Weighted Key-Value Cache Merging for Large Language Models**|Jian Yuan et.al.|[2503.01330](http://arxiv.org/abs/2503.01330)|null|
 |**2025-03-01**|**Progressive Sparse Attention: Algorithm and System Co-design for Efficient Attention in LLM Serving**|Qihui Zhou et.al.|[2503.00392](http://arxiv.org/abs/2503.00392)|null|
-|**2025-02-27**|**Long-Context Inference with Retrieval-Augmented Speculative Decoding**|Guanzheng Chen et.al.|[2502.20330](http://arxiv.org/abs/2502.20330)|**[link](https://github.com/john-ai-lab/rapid)**|
 |**2025-02-27**|**Dynamic Parallel Tree Search for Efficient LLM Reasoning**|Yifu Ding et.al.|[2502.16235](http://arxiv.org/abs/2502.16235)|null|
 |**2025-02-27**|**ThinK: Thinner Key Cache by Query-Driven Pruning**|Yuhui Xu et.al.|[2407.21018](http://arxiv.org/abs/2407.21018)|null|
 |**2025-02-24**|**ELMo-Tune-V2: LLM-Assisted Full-Cycle Auto-Tuning to Optimize LSM-Based Key-Value Stores**|Viraj Thakkar et.al.|[2502.17606](http://arxiv.org/abs/2502.17606)|**[link](https://github.com/asu-idi/ELMo-Tune-V2)**|
