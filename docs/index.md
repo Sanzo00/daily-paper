@@ -23,7 +23,7 @@ _Updated on 2025.06.24_
 |**2025-06-18**|**Research on Graph-Retrieval Augmented Generation Based on Historical Text Knowledge Graphs**|Yang Fan et.al.|[2506.15241](http://arxiv.org/abs/2506.15241)|null|
 |**2025-06-17**|**Automated Decision-Making on Networks with LLMs through Knowledge-Guided Evolution**|Xiaohan Zheng et.al.|[2506.14529](http://arxiv.org/abs/2506.14529)|null|
 |**2025-06-17**|**Graph RAG for Legal Norms: A Hierarchical, Temporal and Deterministic Approach**|Hudson de Martim et.al.|[2505.00039](http://arxiv.org/abs/2505.00039)|null|
-|**2025-06-16**|**SimpleDoc: Multi-Modal Document Understanding with Dual-Cue Page Retrieval and Iterative Refinement**|Chelsi Jain et.al.|[2506.14035](http://arxiv.org/abs/2506.14035)|null|
+|**2025-06-16**|**SimpleDoc: Multi-Modal Document Understanding with Dual-Cue Page Retrieval and Iterative Refinement**|Chelsi Jain et.al.|[2506.14035](http://arxiv.org/abs/2506.14035)|**[link](https://github.com/ag2ai/simpledoc)**|
 |**2025-06-16**|**Arctic Long Sequence Training: Scalable And Efficient Training For Multi-Million Token Sequences**|Stas Bekman et.al.|[2506.13996](http://arxiv.org/abs/2506.13996)|**[link](https://github.com/snowflakedb/ArcticTraining)**|
 |**2025-06-15**|**Reasoning with RAGged events: RAG-Enhanced Event Knowledge Base Construction and reasoning with proof-assistants**|Stergios Chatzikyriakidis et.al.|[2506.07042](http://arxiv.org/abs/2506.07042)|null|
 |**2025-06-15**|**SlimRAG: Retrieval without Graphs via Entity-Aware Context Selection**|Jiale Zhang et.al.|[2506.17288](http://arxiv.org/abs/2506.17288)|null|
@@ -36,7 +36,7 @@ _Updated on 2025.06.24_
 |**2025-06-11**|**Learning Efficient and Generalizable Graph Retriever for Knowledge-Graph Question Answering**|Tianjun Yao et.al.|[2506.09645](http://arxiv.org/abs/2506.09645)|**[link](https://github.com/tianyao-aka/rapl)**|
 |**2025-06-11**|**Traceable LLM-based validation of statements in knowledge graphs**|Daniel Adam et.al.|[2409.07507](http://arxiv.org/abs/2409.07507)|**[link](https://github.com/danieladam2001/llm-based-validation)**|
 |**2025-06-11**|**CC-RAG: Structured Multi-Hop Reasoning via Theme-Based Causal Graphs**|Jash Rajesh Parekh et.al.|[2506.08364](http://arxiv.org/abs/2506.08364)|null|
-|**2025-06-10**|**XGraphRAG: Interactive Visual Analysis for Graph-based Retrieval-Augmented Generation**|Ke Wang et.al.|[2506.13782](http://arxiv.org/abs/2506.13782)|null|
+|**2025-06-10**|**XGraphRAG: Interactive Visual Analysis for Graph-based Retrieval-Augmented Generation**|Ke Wang et.al.|[2506.13782](http://arxiv.org/abs/2506.13782)|**[link](https://github.com/gk0wk/xgraphrag)**|
 |**2025-06-09**|**Graph-KV: Breaking Sequence via Injecting Structural Biases into Large Language Models**|Haoyu Wang et.al.|[2506.07334](http://arxiv.org/abs/2506.07334)|null|
 |**2025-06-09**|**LEANN: A Low-Storage Vector Index**|Yichuan Wang et.al.|[2506.08276](http://arxiv.org/abs/2506.08276)|null|
 |**2025-06-09**|**Hierarchical Lexical Graph for Enhanced Multi-Hop Retrieval**|Abdellah Ghassel et.al.|[2506.08074](http://arxiv.org/abs/2506.08074)|**[link](https://github.com/awslabs/graphrag-toolkit)**|

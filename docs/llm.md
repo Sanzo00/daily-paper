@@ -11,7 +11,7 @@ _Updated on 2025.06.24_
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
 |**2025-06-23**|**RAPID: Long-Context Inference with Retrieval-Augmented Speculative Decoding**|Guanzheng Chen et.al.|[2502.20330](http://arxiv.org/abs/2502.20330)|**[link](https://github.com/john-ai-lab/rapid)**|
-|**2025-06-23**|**RealSR-R1: Reinforcement Learning for Real-World Image Super-Resolution with Vision-Language Chain-of-Thought**|Junbo Qiao et.al.|[2506.16796](http://arxiv.org/abs/2506.16796)|null|
+|**2025-06-23**|**RealSR-R1: Reinforcement Learning for Real-World Image Super-Resolution with Vision-Language Chain-of-Thought**|Junbo Qiao et.al.|[2506.16796](http://arxiv.org/abs/2506.16796)|**[link](https://github.com/junboooo/realsr-r1)**|
 |**2025-06-23**|**SLR: An Automated Synthesis Framework for Scalable Logical Reasoning**|Lukas Helff et.al.|[2506.15787](http://arxiv.org/abs/2506.15787)|null|
 |**2025-06-23**|**CommVQ: Commutative Vector Quantization for KV Cache Compression**|Junyan Li et.al.|[2506.18879](http://arxiv.org/abs/2506.18879)|null|
 |**2025-06-23**|**ReasonFlux-PRM: Trajectory-Aware PRMs for Long Chain-of-Thought Reasoning in LLMs**|Jiaru Zou et.al.|[2506.18896](http://arxiv.org/abs/2506.18896)|null|
@@ -77,16 +77,16 @@ _Updated on 2025.06.24_
 |**2025-06-19**|**Grounding Language Models with Semantic Digital Twins for Robotic Planning**|Mehreen Naeem et.al.|[2506.16493](http://arxiv.org/abs/2506.16493)|null|
 |**2025-06-19**|**How Far Can Off-the-Shelf Multimodal Large Language Models Go in Online Episodic Memory Question Answering?**|Giuseppe Lando et.al.|[2506.16450](http://arxiv.org/abs/2506.16450)|null|
 |**2025-06-19**|**Drag-and-Drop LLMs: Zero-Shot Prompt-to-Weights**|Zhiyuan Liang et.al.|[2506.16406](http://arxiv.org/abs/2506.16406)|null|
-|**2025-06-19**|**TrajSceneLLM: A Multimodal Perspective on Semantic GPS Trajectory Analysis**|Chunhou Ji et.al.|[2506.16401](http://arxiv.org/abs/2506.16401)|null|
+|**2025-06-19**|**TrajSceneLLM: A Multimodal Perspective on Semantic GPS Trajectory Analysis**|Chunhou Ji et.al.|[2506.16401](http://arxiv.org/abs/2506.16401)|**[link](https://github.com/februarysea/trajscenellm)**|
 |**2025-06-19**|**OJBench: A Competition Level Code Benchmark For Large Language Models**|Zhexu Wang et.al.|[2506.16395](http://arxiv.org/abs/2506.16395)|null|
 |**2025-06-19**|**From LLM-anation to LLM-orchestrator: Coordinating Small Models for Data Labeling**|Yao Lu et.al.|[2506.16393](http://arxiv.org/abs/2506.16393)|null|
-|**2025-06-19**|**RiOT: Efficient Prompt Refinement with Residual Optimization Tree**|Chenyi Zhou et.al.|[2506.16389](http://arxiv.org/abs/2506.16389)|null|
+|**2025-06-19**|**RiOT: Efficient Prompt Refinement with Residual Optimization Tree**|Chenyi Zhou et.al.|[2506.16389](http://arxiv.org/abs/2506.16389)|**[link](https://github.com/qing1zhong/riot)**|
 |**2025-06-19**|**Large Language Models in Argument Mining: A Survey**|Hao Li et.al.|[2506.16383](http://arxiv.org/abs/2506.16383)|null|
 |**2025-06-19**|**SHREC and PHEONA: Using Large Language Models to Advance Next-Generation Computational Phenotyping**|Sarah Pungitore et.al.|[2506.16359](http://arxiv.org/abs/2506.16359)|null|
 |**2025-06-19**|**Explainable Rule Application via Structured Prompting: A Neural-Symbolic Approach**|Albert Sadowski et.al.|[2506.16335](http://arxiv.org/abs/2506.16335)|**[link](https://github.com/albsadowski/structured-decomposition)**|
 |**2025-06-19**|**SGIC: A Self-Guided Iterative Calibration Framework for RAG**|Guanhua Chen et.al.|[2506.16172](http://arxiv.org/abs/2506.16172)|null|
 |**2025-06-19**|**Under the Shadow of Babel: How Language Shapes Reasoning in LLMs**|Chenxi Wang et.al.|[2506.16151](http://arxiv.org/abs/2506.16151)|null|
-|**2025-06-19**|**GRPO-CARE: Consistency-Aware Reinforcement Learning for Multimodal Reasoning**|Yi Chen et.al.|[2506.16141](http://arxiv.org/abs/2506.16141)|null|
+|**2025-06-19**|**GRPO-CARE: Consistency-Aware Reinforcement Learning for Multimodal Reasoning**|Yi Chen et.al.|[2506.16141](http://arxiv.org/abs/2506.16141)|**[link](https://github.com/tencentarc/grpo-care)**|
 |**2025-06-19**|**Seeing is Fixing: Cross-Modal Reasoning with Multimodal LLMs for Visual Software Issue Fixing**|Kai Huang et.al.|[2506.16136](http://arxiv.org/abs/2506.16136)|null|
 |**2025-06-19**|**AutoV: Learning to Retrieve Visual Prompt for Large Vision-Language Models**|Yuan Zhang et.al.|[2506.16112](http://arxiv.org/abs/2506.16112)|null|
 |**2025-06-19**|**Human-Centered Shared Autonomy for Motor Planning, Learning, and Control Applications**|MH Farhadi et.al.|[2506.16044](http://arxiv.org/abs/2506.16044)|null|
@@ -112,7 +112,7 @@ _Updated on 2025.06.24_
 |**2025-06-18**|**Cohort Discovery: A Survey on LLM-Assisted Clinical Trial Recruitment**|Shrestha Ghosh et.al.|[2506.15301](http://arxiv.org/abs/2506.15301)|null|
 |**2025-06-18**|**MinosEval: Distinguishing Factoid and Non-Factoid for Tailored Open-Ended QA Evaluation with LLMs**|Yongqi Fan et.al.|[2506.15215](http://arxiv.org/abs/2506.15215)|**[link](https://github.com/johnny-fans/minoseval)**|
 |**2025-06-18**|**ProtoReasoning: Prototypes as the Foundation for Generalizable Reasoning in LLMs**|Feng He et.al.|[2506.15211](http://arxiv.org/abs/2506.15211)|null|
-|**2025-06-18**|**Learning-Time Encoding Shapes Unlearning in LLMs**|Ruihan Wu et.al.|[2506.15076](http://arxiv.org/abs/2506.15076)|null|
+|**2025-06-18**|**Learning-Time Encoding Shapes Unlearning in LLMs**|Ruihan Wu et.al.|[2506.15076](http://arxiv.org/abs/2506.15076)|**[link](https://github.com/wrh14/learning_time_shapes_unlearning)**|
 |**2025-06-18**|**HEAL: An Empirical Study on Hallucinations in Embodied Agents Driven by Large Language Models**|Trishna Chakraborty et.al.|[2506.15065](http://arxiv.org/abs/2506.15065)|null|
 |**2025-06-18**|**Truncated Proximal Policy Optimization**|Tiantian Fan et.al.|[2506.15050](http://arxiv.org/abs/2506.15050)|null|
 |**2025-06-18**|**Language Models can perform Single-Utterance Self-Correction of Perturbed Reasoning**|Sam Silver et.al.|[2506.15894](http://arxiv.org/abs/2506.15894)|null|
