@@ -6,10 +6,13 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2025.06.24_
+_Updated on 2025.06.25_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
+|**2025-06-24**|**ReDit: Reward Dithering for Improved LLM Policy Optimization**|Chenxing Wei et.al.|[2506.18631](http://arxiv.org/abs/2506.18631)|null|
+|**2025-06-24**|**Understanding Reasoning in Thinking Language Models via Steering Vectors**|Constantin Venhoff et.al.|[2506.18167](http://arxiv.org/abs/2506.18167)|null|
+|**2025-06-24**|**KAG-Thinker: Interactive Thinking and Deep Reasoning in LLMs via Knowledge-Augmented Generation**|Dalong Zhang et.al.|[2506.17728](http://arxiv.org/abs/2506.17728)|null|
 |**2025-06-23**|**RAPID: Long-Context Inference with Retrieval-Augmented Speculative Decoding**|Guanzheng Chen et.al.|[2502.20330](http://arxiv.org/abs/2502.20330)|**[link](https://github.com/john-ai-lab/rapid)**|
 |**2025-06-23**|**RealSR-R1: Reinforcement Learning for Real-World Image Super-Resolution with Vision-Language Chain-of-Thought**|Junbo Qiao et.al.|[2506.16796](http://arxiv.org/abs/2506.16796)|**[link](https://github.com/junboooo/realsr-r1)**|
 |**2025-06-23**|**SLR: An Automated Synthesis Framework for Scalable Logical Reasoning**|Lukas Helff et.al.|[2506.15787](http://arxiv.org/abs/2506.15787)|null|
@@ -20,7 +23,6 @@ _Updated on 2025.06.24_
 |**2025-06-23**|**Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories**|Islem Bouzenia et.al.|[2506.18824](http://arxiv.org/abs/2506.18824)|null|
 |**2025-06-23**|**Existing LLMs Are Not Self-Consistent For Simple Tasks**|Zhenru Lin et.al.|[2506.18781](http://arxiv.org/abs/2506.18781)|null|
 |**2025-06-23**|**Programming by Backprop: LLMs Acquire Reusable Algorithmic Abstractions During Code Training**|Jonathan Cook et.al.|[2506.18777](http://arxiv.org/abs/2506.18777)|null|
-|**2025-06-23**|**ReDit: Reward Dithering for Improved LLM Policy Optimization**|Chenxing Wei et.al.|[2506.18631](http://arxiv.org/abs/2506.18631)|null|
 |**2025-06-23**|**MedTVT-R1: A Multimodal LLM Empowering Medical Reasoning and Diagnosis**|Yuting Zhang et.al.|[2506.18512](http://arxiv.org/abs/2506.18512)|null|
 |**2025-06-23**|**Comparative Evaluation of ChatGPT and DeepSeek Across Key NLP Tasks: Strengths, Weaknesses, and Domain-Specific Performance**|Wael Etaiwi et.al.|[2506.18501](http://arxiv.org/abs/2506.18501)|null|
 |**2025-06-23**|**MeRF: Motivation-enhanced Reinforcement Finetuning for Large Reasoning Models**|Junjie Zhang et.al.|[2506.18485](http://arxiv.org/abs/2506.18485)|null|
@@ -34,7 +36,6 @@ _Updated on 2025.06.24_
 |**2025-06-23**|**LLM-Integrated Digital Twins for Hierarchical Resource Allocation in 6G Networks**|Majumder Haider et.al.|[2506.18293](http://arxiv.org/abs/2506.18293)|null|
 |**2025-06-23**|**RLPR: Extrapolating RLVR to General Domains without Verifiers**|Tianyu Yu et.al.|[2506.18254](http://arxiv.org/abs/2506.18254)|null|
 |**2025-06-22**|**Integrating LLMs and Digital Twins for Adaptive Multi-Robot Task Allocation in Construction**|Min Deng et.al.|[2506.18178](http://arxiv.org/abs/2506.18178)|null|
-|**2025-06-22**|**Understanding Reasoning in Thinking Language Models via Steering Vectors**|Constantin Venhoff et.al.|[2506.18167](http://arxiv.org/abs/2506.18167)|null|
 |**2025-06-22**|**Programming Quantum Computers with Large Language Models**|Elena R. Henderson et.al.|[2506.18125](http://arxiv.org/abs/2506.18125)|null|
 |**2025-06-22**|**Mental Health Equity in LLMs: Leveraging Multi-Hop Question Answering to Detect Amplified and Silenced Perspectives**|Batool Haider et.al.|[2506.18116](http://arxiv.org/abs/2506.18116)|null|
 |**2025-06-22**|**InspireDebate: Multi-Dimensional Subjective-Objective Evaluation-Guided Reasoning and Optimization for Debating**|Fuyu Wang et.al.|[2506.18102](http://arxiv.org/abs/2506.18102)|null|
@@ -46,7 +47,6 @@ _Updated on 2025.06.24_
 |**2025-06-21**|**Bayesian Social Deduction with Graph-Informed Language Models**|Shahab Rahimirad et.al.|[2506.17788](http://arxiv.org/abs/2506.17788)|null|
 |**2025-06-21**|**PAGENT: Learning to Patch Software Engineering Agents**|Haoran Xue et.al.|[2506.17772](http://arxiv.org/abs/2506.17772)|null|
 |**2025-06-21**|**Towards a Unified Textual Graph Framework for Spectral Reasoning via Physical and Chemical Information Fusion**|Jiheng Liang et.al.|[2506.17761](http://arxiv.org/abs/2506.17761)|null|
-|**2025-06-21**|**KAG-Thinker: Teaching Large Language Models to Think with Human-like Reasoning Process**|Dalong Zhang et.al.|[2506.17728](http://arxiv.org/abs/2506.17728)|null|
 |**2025-06-21**|**Resource-Friendly Dynamic Enhancement Chain for Multi-Hop Question Answering**|Binquan Ji et.al.|[2506.17692](http://arxiv.org/abs/2506.17692)|null|
 |**2025-06-21**|**Measuring and Augmenting Large Language Models for Solving Capture-the-Flag Challenges**|Zimo Ji et.al.|[2506.17644](http://arxiv.org/abs/2506.17644)|null|
 |**2025-06-21**|**Answer-Centric or Reasoning-Driven? Uncovering the Latent Memory Anchor in LLMs**|Yang Wu et.al.|[2506.17630](http://arxiv.org/abs/2506.17630)|null|
