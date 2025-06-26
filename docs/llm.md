@@ -6,10 +6,13 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2025.06.25_
+_Updated on 2025.06.26_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
+|**2025-06-25**|**No Free Lunch: Rethinking Internal Feedback for LLM Reasoning**|Yanzhi Zhang et.al.|[2506.17219](http://arxiv.org/abs/2506.17219)|null|
+|**2025-06-25**|**Confucius3-Math: A Lightweight High-Performance Reasoning LLM for Chinese K-12 Mathematics Learning**|Lixin Wu et.al.|[2506.18330](http://arxiv.org/abs/2506.18330)|null|
+|**2025-06-25**|**Thought Anchors: Which LLM Reasoning Steps Matter?**|Paul C. Bogdan et.al.|[2506.19143](http://arxiv.org/abs/2506.19143)|null|
 |**2025-06-24**|**ReDit: Reward Dithering for Improved LLM Policy Optimization**|Chenxing Wei et.al.|[2506.18631](http://arxiv.org/abs/2506.18631)|null|
 |**2025-06-24**|**Understanding Reasoning in Thinking Language Models via Steering Vectors**|Constantin Venhoff et.al.|[2506.18167](http://arxiv.org/abs/2506.18167)|null|
 |**2025-06-24**|**KAG-Thinker: Interactive Thinking and Deep Reasoning in LLMs via Knowledge-Augmented Generation**|Dalong Zhang et.al.|[2506.17728](http://arxiv.org/abs/2506.17728)|null|
@@ -49,11 +52,9 @@ _Updated on 2025.06.25_
 |**2025-06-23**|**Dynamic Knowledge Exchange and Dual-diversity Review: Concisely Unleashing the Potential of a Multi-Agent Research Team**|Weilun Yu et.al.|[2506.18348](http://arxiv.org/abs/2506.18348)|null|
 |**2025-06-23**|**Less Data Less Tokens: Multilingual Unification Learning for Efficient Test-Time Reasoning in LLMs**|Kang Chen et.al.|[2506.18341](http://arxiv.org/abs/2506.18341)|null|
 |**2025-06-23**|**TranslationCorrect: A Unified Framework for Machine Translation Post-Editing with Predictive Error Assistance**|Syed Mekael Wasti et.al.|[2506.18337](http://arxiv.org/abs/2506.18337)|null|
-|**2025-06-23**|**Confucius3-Math: A Lightweight High-Performance Reasoning LLM for Chinese K-12 Mathematics Learning**|Lixin Wu et.al.|[2506.18330](http://arxiv.org/abs/2506.18330)|null|
 |**2025-06-23**|**LLM-Integrated Digital Twins for Hierarchical Resource Allocation in 6G Networks**|Majumder Haider et.al.|[2506.18293](http://arxiv.org/abs/2506.18293)|null|
 |**2025-06-23**|**RLPR: Extrapolating RLVR to General Domains without Verifiers**|Tianyu Yu et.al.|[2506.18254](http://arxiv.org/abs/2506.18254)|null|
 |**2025-06-23**|**Distilling Tool Knowledge into Language Models via Back-Translated Traces**|Xingyue Huang et.al.|[2506.19171](http://arxiv.org/abs/2506.19171)|null|
-|**2025-06-23**|**Thought Anchors: Which LLM Reasoning Steps Matter?**|Paul C. Bogdan et.al.|[2506.19143](http://arxiv.org/abs/2506.19143)|null|
 |**2025-06-23**|**Command-V: Pasting LLM Behaviors via Activation Profiles**|Barry Wang et.al.|[2506.19140](http://arxiv.org/abs/2506.19140)|null|
 |**2025-06-23**|**Human-Aligned Faithfulness in Toxicity Explanations of LLMs**|Ramaravind K. Mothilal et.al.|[2506.19113](http://arxiv.org/abs/2506.19113)|null|
 |**2025-06-23**|**Baba is LLM: Reasoning in a Game with Dynamic Rules**|Fien van Wetten et.al.|[2506.19095](http://arxiv.org/abs/2506.19095)|null|
@@ -82,7 +83,6 @@ _Updated on 2025.06.25_
 |**2025-06-21**|**DuaShepherd: Integrating Stepwise Correctness and Potential Rewards for Mathematical Reasoning**|Yuanhao Wu et.al.|[2506.17533](http://arxiv.org/abs/2506.17533)|null|
 |**2025-06-21**|**Do LLMs Know When to Flip a Coin? Strategic Randomization through Reasoning and Experience**|Lingyu Yang et.al.|[2506.18928](http://arxiv.org/abs/2506.18928)|null|
 |**2025-06-20**|**Domain Specific Benchmarks for Evaluating Multimodal Large Language Models**|Khizar Anjum et.al.|[2506.12958](http://arxiv.org/abs/2506.12958)|null|
-|**2025-06-20**|**No Free Lunch: Rethinking Internal Feedback for LLM Reasoning**|Yanzhi Zhang et.al.|[2506.17219](http://arxiv.org/abs/2506.17219)|null|
 |**2025-06-20**|**Towards AI Search Paradigm**|Yuchen Li et.al.|[2506.17188](http://arxiv.org/abs/2506.17188)|null|
 |**2025-06-20**|**When Can Model-Free Reinforcement Learning be Enough for Thinking?**|Josiah P. Hanna et.al.|[2506.17124](http://arxiv.org/abs/2506.17124)|null|
 |**2025-06-20**|**Towards Advanced Mathematical Reasoning for LLMs via First-Order Logic Theorem Proving**|Chuxue Cao et.al.|[2506.17104](http://arxiv.org/abs/2506.17104)|null|
