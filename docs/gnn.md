@@ -10,6 +10,8 @@ _Updated on 2025.06.27_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
+|**2025-06-26**|**Accelerating GNN Training through Locality-aware Dropout and Merge**|Gongjian Sun et.al.|[2506.21414](http://arxiv.org/abs/2506.21414)|null|
+|**2025-06-25**|**Demystifying Distributed Training of Graph Neural Networks for Link Prediction**|Xin Huang et.al.|[2506.20818](http://arxiv.org/abs/2506.20818)|null|
 |**2025-06-17**|**Delving into Instance-Dependent Label Noise in Graph Data: A Comprehensive Study and Benchmark**|Suyeon Kim et.al.|[2506.12468](http://arxiv.org/abs/2506.12468)|**[link](https://github.com/kimsu55/begin)**|
 |**2025-06-14**|**Optimizing Federated Learning using Remote Embeddings for Graph Neural Networks**|Pranjal Naman et.al.|[2506.12425](http://arxiv.org/abs/2506.12425)|null|
 |**2025-06-13**|**Graph Semi-Supervised Learning for Point Classification on Data Manifolds**|Caio F. Deberaldini Netto et.al.|[2506.12197](http://arxiv.org/abs/2506.12197)|null|

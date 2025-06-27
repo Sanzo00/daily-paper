@@ -11,6 +11,18 @@ _Updated on 2025.06.27_
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
 |**2025-06-26**|**From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents**|Weizhi Zhang et.al.|[2506.18959](http://arxiv.org/abs/2506.18959)|null|
+|**2025-06-26**|**Where to find Grokking in LLM Pretraining? Monitor Memorization-to-Generalization without Test**|Ziyue Li et.al.|[2506.21551](http://arxiv.org/abs/2506.21551)|null|
+|**2025-06-26**|**Enhancing User Engagement in Socially-Driven Dialogue through Interactive LLM Alignments**|Jiashuo Wang et.al.|[2506.21497](http://arxiv.org/abs/2506.21497)|null|
+|**2025-06-26**|**Double-Checker: Enhancing Reasoning of Slow-Thinking LLMs via Self-Critical Fine-Tuning**|Xin Xu et.al.|[2506.21285](http://arxiv.org/abs/2506.21285)|null|
+|**2025-06-26**|**HumanOmniV2: From Understanding to Omni-Modal Reasoning with Context**|Qize Yang et.al.|[2506.21277](http://arxiv.org/abs/2506.21277)|null|
+|**2025-06-26**|**Complexity-aware fine-tuning**|Andrey Goncharov et.al.|[2506.21220](http://arxiv.org/abs/2506.21220)|null|
+|**2025-06-26**|**Unveiling Causal Reasoning in Large Language Models: Reality or Mirage?**|Haoang Chi et.al.|[2506.21215](http://arxiv.org/abs/2506.21215)|null|
+|**2025-06-26**|**$T^3$: Multi-level Tree-based Automatic Program Repair with Large Language Models**|Quanming Liu et.al.|[2506.21211](http://arxiv.org/abs/2506.21211)|null|
+|**2025-06-26**|**MT2-CSD: A New Dataset and Multi-Semantic Knowledge Fusion Method for Conversational Stance Detection**|Fuqiang Niu et.al.|[2506.21053](http://arxiv.org/abs/2506.21053)|null|
+|**2025-06-26**|**Large Language Models Acing Chartered Accountancy**|Jatin Gupta et.al.|[2506.21031](http://arxiv.org/abs/2506.21031)|null|
+|**2025-06-26**|**STEP Planner: Constructing cross-hierarchical subgoal tree as an embodied long-horizon task planner**|Zhou Tianxing et.al.|[2506.21030](http://arxiv.org/abs/2506.21030)|null|
+|**2025-06-26**|**LLM-guided Chemical Process Optimization with a Multi-Agent Approach**|Tong Zeng et.al.|[2506.20921](http://arxiv.org/abs/2506.20921)|null|
+|**2025-06-26**|**FaSTA$^*$: Fast-Slow Toolpath Agent with Subroutine Mining for Efficient Multi-turn Image Editing**|Advait Gupta et.al.|[2506.20911](http://arxiv.org/abs/2506.20911)|null|
 |**2025-06-25**|**No Free Lunch: Rethinking Internal Feedback for LLM Reasoning**|Yanzhi Zhang et.al.|[2506.17219](http://arxiv.org/abs/2506.17219)|null|
 |**2025-06-25**|**Confucius3-Math: A Lightweight High-Performance Reasoning LLM for Chinese K-12 Mathematics Learning**|Lixin Wu et.al.|[2506.18330](http://arxiv.org/abs/2506.18330)|null|
 |**2025-06-25**|**Thought Anchors: Which LLM Reasoning Steps Matter?**|Paul C. Bogdan et.al.|[2506.19143](http://arxiv.org/abs/2506.19143)|null|
@@ -32,6 +44,12 @@ _Updated on 2025.06.27_
 |**2025-06-25**|**Enhancing Large Language Models through Structured Reasoning**|Yubo Dong et.al.|[2506.20241](http://arxiv.org/abs/2506.20241)|null|
 |**2025-06-25**|**SEED: A Structural Encoder for Embedding-Driven Decoding in Time Series Prediction with LLMs**|Fengze Li et.al.|[2506.20167](http://arxiv.org/abs/2506.20167)|null|
 |**2025-06-25**|**A Modular Multitask Reasoning Framework Integrating Spatio-temporal Models and LLMs**|Kethmi Hirushini Hettige et.al.|[2506.20073](http://arxiv.org/abs/2506.20073)|null|
+|**2025-06-25**|**Omniwise: Predicting GPU Kernels Performance with LLMs**|Zixian Wang et.al.|[2506.20886](http://arxiv.org/abs/2506.20886)|null|
+|**2025-06-25**|**Uncovering Hidden Violent Tendencies in LLMs: A Demographic Analysis via Behavioral Vignettes**|Quintin Myers et.al.|[2506.20822](http://arxiv.org/abs/2506.20822)|null|
+|**2025-06-25**|**MultiFinRAG: An Optimized Multimodal Retrieval-Augmented Generation (RAG) Framework for Financial Question Answering**|Chinmay Gondhalekar et.al.|[2506.20821](http://arxiv.org/abs/2506.20821)|null|
+|**2025-06-25**|**Dynamic Context-Aware Prompt Recommendation for Domain-Specific AI Applications**|Xinye Tang et.al.|[2506.20815](http://arxiv.org/abs/2506.20815)|null|
+|**2025-06-25**|**Towards Probabilistic Question Answering Over Tabular Data**|Chen Shen et.al.|[2506.20747](http://arxiv.org/abs/2506.20747)|null|
+|**2025-06-25**|**Test-time Scaling Techniques in Theoretical Physics -- A Comparison of Methods on the TPBench Dataset**|Zhiqi Gao et.al.|[2506.20729](http://arxiv.org/abs/2506.20729)|null|
 |**2025-06-24**|**ReDit: Reward Dithering for Improved LLM Policy Optimization**|Chenxing Wei et.al.|[2506.18631](http://arxiv.org/abs/2506.18631)|null|
 |**2025-06-24**|**Understanding Reasoning in Thinking Language Models via Steering Vectors**|Constantin Venhoff et.al.|[2506.18167](http://arxiv.org/abs/2506.18167)|null|
 |**2025-06-24**|**KAG-Thinker: Interactive Thinking and Deep Reasoning in LLMs via Knowledge-Augmented Generation**|Dalong Zhang et.al.|[2506.17728](http://arxiv.org/abs/2506.17728)|null|

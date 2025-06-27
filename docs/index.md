@@ -11,6 +11,8 @@ _Updated on 2025.06.27_
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
 |**2025-06-26**|**Towards Adaptive Memory-Based Optimization for Enhanced Retrieval-Augmented Generation**|Qitao Qin et.al.|[2504.05312](http://arxiv.org/abs/2504.05312)|null|
+|**2025-06-26**|**PsyLite Technical Report**|Fangjun Ding et.al.|[2506.21536](http://arxiv.org/abs/2506.21536)|null|
+|**2025-06-26**|**EraRAG: Efficient and Incremental Retrieval Augmented Generation for Growing Corpora**|Fangyuan Zhang et.al.|[2506.20963](http://arxiv.org/abs/2506.20963)|null|
 |**2025-06-24**|**Talking to GDELT Through Knowledge Graphs**|Audun Myers et.al.|[2503.07584](http://arxiv.org/abs/2503.07584)|null|
 |**2025-06-24**|**Conversational Intent-Driven GraphRAG: Enhancing Multi-Turn Dialogue Systems through Adaptive Dual-Retrieval of Flow Patterns and Context Semantics**|Ziqi Zhu et.al.|[2506.19385](http://arxiv.org/abs/2506.19385)|null|
 |**2025-06-24**|**Inference Scaled GraphRAG: Improving Multi Hop Question Answering on Knowledge Graphs**|Travis Thompson et.al.|[2506.19967](http://arxiv.org/abs/2506.19967)|null|
