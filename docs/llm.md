@@ -6,10 +6,11 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2025.06.26_
+_Updated on 2025.06.27_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
+|**2025-06-26**|**From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents**|Weizhi Zhang et.al.|[2506.18959](http://arxiv.org/abs/2506.18959)|null|
 |**2025-06-25**|**No Free Lunch: Rethinking Internal Feedback for LLM Reasoning**|Yanzhi Zhang et.al.|[2506.17219](http://arxiv.org/abs/2506.17219)|null|
 |**2025-06-25**|**Confucius3-Math: A Lightweight High-Performance Reasoning LLM for Chinese K-12 Mathematics Learning**|Lixin Wu et.al.|[2506.18330](http://arxiv.org/abs/2506.18330)|null|
 |**2025-06-25**|**Thought Anchors: Which LLM Reasoning Steps Matter?**|Paul C. Bogdan et.al.|[2506.19143](http://arxiv.org/abs/2506.19143)|null|
@@ -82,7 +83,6 @@ _Updated on 2025.06.26_
 |**2025-06-23**|**Language Models Might Not Understand You: Evaluating Theory of Mind via Story Prompting**|Nathaniel Getachew et.al.|[2506.19089](http://arxiv.org/abs/2506.19089)|null|
 |**2025-06-23**|**MFTCXplain: A Multilingual Benchmark Dataset for Evaluating the Moral Reasoning of LLMs through Hate Speech Multi-hop Explanation**|Jackson Trager et.al.|[2506.19073](http://arxiv.org/abs/2506.19073)|null|
 |**2025-06-23**|**Mirage of Mastery: Memorization Tricks LLMs into Artificially Inflated Self-Knowledge**|Sahil Kale et.al.|[2506.18998](http://arxiv.org/abs/2506.18998)|null|
-|**2025-06-23**|**From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents**|Weizhi Zhang et.al.|[2506.18959](http://arxiv.org/abs/2506.18959)|null|
 |**2025-06-23**|**SWE-SQL: Illuminating LLM Pathways to Solve User SQL Issues in Real-World Applications**|Jinyang Li et.al.|[2506.18951](http://arxiv.org/abs/2506.18951)|null|
 |**2025-06-22**|**Integrating LLMs and Digital Twins for Adaptive Multi-Robot Task Allocation in Construction**|Min Deng et.al.|[2506.18178](http://arxiv.org/abs/2506.18178)|null|
 |**2025-06-22**|**Programming Quantum Computers with Large Language Models**|Elena R. Henderson et.al.|[2506.18125](http://arxiv.org/abs/2506.18125)|null|

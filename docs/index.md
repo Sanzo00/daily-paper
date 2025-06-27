@@ -6,10 +6,11 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2025.06.26_
+_Updated on 2025.06.27_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
+|**2025-06-26**|**Towards Adaptive Memory-Based Optimization for Enhanced Retrieval-Augmented Generation**|Qitao Qin et.al.|[2504.05312](http://arxiv.org/abs/2504.05312)|null|
 |**2025-06-24**|**Talking to GDELT Through Knowledge Graphs**|Audun Myers et.al.|[2503.07584](http://arxiv.org/abs/2503.07584)|null|
 |**2025-06-24**|**Conversational Intent-Driven GraphRAG: Enhancing Multi-Turn Dialogue Systems through Adaptive Dual-Retrieval of Flow Patterns and Context Semantics**|Ziqi Zhu et.al.|[2506.19385](http://arxiv.org/abs/2506.19385)|null|
 |**2025-06-24**|**Inference Scaled GraphRAG: Improving Multi Hop Question Answering on Knowledge Graphs**|Travis Thompson et.al.|[2506.19967](http://arxiv.org/abs/2506.19967)|null|
@@ -210,7 +211,6 @@ _Updated on 2025.06.26_
 |**2025-02-21**|**From Documents to Dialogue: Building KG-RAG Enhanced AI Assistants**|Manisha Mukherjee et.al.|[2502.15237](http://arxiv.org/abs/2502.15237)|null|
 |**2025-02-21**|**Knowledge Pyramid Construction for Multi-Level Retrieval-Augmented Generation**|Rubing Chen et.al.|[2407.21276](http://arxiv.org/abs/2407.21276)|null|
 |**2025-02-19**|**DH-RAG: A Dynamic Historical Context-Powered Retrieval-Augmented Generation Method for Multi-Turn Dialogue**|Feiyuan Zhang et.al.|[2502.13847](http://arxiv.org/abs/2502.13847)|null|
-|**2025-02-19**|**Towards Adaptive Memory-Based Optimization for Enhanced Retrieval-Augmented Generation**|Qitao Qin et.al.|[2504.05312](http://arxiv.org/abs/2504.05312)|null|
 |**2025-02-18**|**RAPID: Retrieval Augmented Training of Differentially Private Diffusion Models**|Tanqiu Jiang et.al.|[2502.12794](http://arxiv.org/abs/2502.12794)|**[link](https://github.com/tanqiujiang/rapid)**|
 |**2025-02-17**|**Does RAG Really Perform Bad For Long-Context Processing?**|Kun Luo et.al.|[2502.11444](http://arxiv.org/abs/2502.11444)|null|
 |**2025-02-16**|**Streamlining the Collaborative Chain of Models into A Single Forward Pass in Generation-Based Tasks**|Yuanjie Lyu et.al.|[2502.11083](http://arxiv.org/abs/2502.11083)|**[link](https://github.com/haruhi-sudo/FTHSS)**|
