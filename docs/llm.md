@@ -6,7 +6,7 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2025.06.29_
+_Updated on 2025.06.30_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
@@ -196,7 +196,7 @@ _Updated on 2025.06.29_
 |**2025-06-17**|**M2BeamLLM: Multimodal Sensing-empowered mmWave Beam Prediction with Large Language Models**|Can Zheng et.al.|[2506.14532](http://arxiv.org/abs/2506.14532)|null|
 |**2025-06-17**|**SIRI-Bench: Challenging VLMs' Spatial Intelligence through Complex Reasoning Tasks**|Zijian Song et.al.|[2506.14512](http://arxiv.org/abs/2506.14512)|null|
 |**2025-06-17**|**LLM-Powered Swarms: A New Frontier or a Conceptual Stretch?**|Muhammad Atta Ur Rahman et.al.|[2506.14496](http://arxiv.org/abs/2506.14496)|null|
-|**2025-06-17**|**How Far Can LLMs Improve from Experience? Measuring Test-Time Learning Ability in LLMs with Human Comparison**|Jiayin Wang et.al.|[2506.14448](http://arxiv.org/abs/2506.14448)|null|
+|**2025-06-17**|**How Far Can LLMs Improve from Experience? Measuring Test-Time Learning Ability in LLMs with Human Comparison**|Jiayin Wang et.al.|[2506.14448](http://arxiv.org/abs/2506.14448)|**[link](https://github.com/alice1998/test-time-leaning)**|
 |**2025-06-17**|**Excessive Reasoning Attack on Reasoning LLMs**|Wai Man Si et.al.|[2506.14374](http://arxiv.org/abs/2506.14374)|null|
 |**2025-06-17**|**ELLIS Alicante at CQs-Gen 2025: Winning the critical thinking questions shared task: LLM-based question generation and selection**|Lucile Favero et.al.|[2506.14371](http://arxiv.org/abs/2506.14371)|null|
 |**2025-06-17**|**A Vision for Geo-Temporal Deep Research Systems: Towards Comprehensive, Transparent, and Reproducible Geo-Temporal Information Synthesis**|Bruno Martins et.al.|[2506.14345](http://arxiv.org/abs/2506.14345)|null|
@@ -204,7 +204,7 @@ _Updated on 2025.06.29_
 |**2025-06-17**|**Large Language Model Empowered Design of Fluid Antenna Systems: Challenges, Frameworks, and Case Studies for 6G**|Chao Wang et.al.|[2506.14288](http://arxiv.org/abs/2506.14288)|null|
 |**2025-06-17**|**Improving LoRA with Variational Learning**|Bai Cong et.al.|[2506.14280](http://arxiv.org/abs/2506.14280)|null|
 |**2025-06-17**|**Don't throw the baby out with the bathwater: How and why deep learning for ARC**|Jack Cole et.al.|[2506.14276](http://arxiv.org/abs/2506.14276)|null|
-|**2025-06-17**|**Re-Initialization Token Learning for Tool-Augmented Large Language Models**|Chenghao Li et.al.|[2506.14248](http://arxiv.org/abs/2506.14248)|null|
+|**2025-06-17**|**Re-Initialization Token Learning for Tool-Augmented Large Language Models**|Chenghao Li et.al.|[2506.14248](http://arxiv.org/abs/2506.14248)|**[link](https://github.com/lichenghaobuaa/tokenlearning)**|
 |**2025-06-17**|**Reinforcement Learning with Verifiable Rewards Implicitly Incentivizes Correct Reasoning in Base LLMs**|Xumeng Wen et.al.|[2506.14245](http://arxiv.org/abs/2506.14245)|null|
 |**2025-06-17**|**Causes in neuron diagrams, and testing causal reasoning in Large Language Models. A glimpse of the future of philosophy?**|Louis Vervoort et.al.|[2506.14239](http://arxiv.org/abs/2506.14239)|null|
 |**2025-06-17**|**Xolver: Multi-Agent Reasoning with Holistic Experience Learning Just Like an Olympiad Team**|Md Tanzib Hosain et.al.|[2506.14234](http://arxiv.org/abs/2506.14234)|null|
@@ -212,7 +212,7 @@ _Updated on 2025.06.29_
 |**2025-06-17**|**S$^4$C: Speculative Sampling with Syntactic and Semantic Coherence for Efficient Inference of Large Language Models**|Tao He et.al.|[2506.14158](http://arxiv.org/abs/2506.14158)|null|
 |**2025-06-17**|**InsertRank: LLMs can reason over BM25 scores to Improve Listwise Reranking**|Rahul Seetharaman et.al.|[2506.14086](http://arxiv.org/abs/2506.14086)|null|
 |**2025-06-17**|**AI-Facilitated Analysis of Abstracts and Conclusions: Flagging Unsubstantiated Claims and Ambiguous Pronouns**|Evgeny Markhasin et.al.|[2506.13172](http://arxiv.org/abs/2506.13172)|null|
-|**2025-06-17**|**AgentOrchestra: A Hierarchical Multi-Agent Framework for General-Purpose Task Solving**|Wentao Zhang et.al.|[2506.12508](http://arxiv.org/abs/2506.12508)|null|
+|**2025-06-17**|**AgentOrchestra: A Hierarchical Multi-Agent Framework for General-Purpose Task Solving**|Wentao Zhang et.al.|[2506.12508](http://arxiv.org/abs/2506.12508)|**[link](https://github.com/SkyworkAI/DeepResearchAgent)**|
 |**2025-06-17**|**LongSpec: Long-Context Lossless Speculative Decoding with Efficient Drafting and Verification**|Penghui Yang et.al.|[2502.17421](http://arxiv.org/abs/2502.17421)|**[link](https://github.com/sail-sg/longspec)**|
 |**2025-06-17**|**Cost-Efficient Serving of LLM Agents via Test-Time Plan Caching**|Qizheng Zhang et.al.|[2506.14852](http://arxiv.org/abs/2506.14852)|null|
 |**2025-06-17**|**Revisiting Reinforcement Learning for LLM Reasoning from A Cross-Domain Perspective**|Zhoujun Cheng et.al.|[2506.14965](http://arxiv.org/abs/2506.14965)|**[link](https://github.com/llm360/reasoning360)**|
@@ -221,8 +221,8 @@ _Updated on 2025.06.29_
 |**2025-06-17**|**MDBench: A Synthetic Multi-Document Reasoning Benchmark Generated with Knowledge Guidance**|Joseph J. Peper et.al.|[2506.14927](http://arxiv.org/abs/2506.14927)|null|
 |**2025-06-16**|**Steering LLM Thinking with Budget Guidance**|Junyan Li et.al.|[2506.13752](http://arxiv.org/abs/2506.13752)|**[link](https://github.com/umass-embodied-agi/budgetguidance)**|
 |**2025-06-16**|**Evaluating Large Language Models for Phishing Detection, Self-Consistency, Faithfulness, and Explainability**|Shova Kuikel et.al.|[2506.13746](http://arxiv.org/abs/2506.13746)|**[link](https://github.com/PsyberSecLab/Fine-Tuning-and-Explainability-for-Phishing-Detection)**|
-|**2025-06-16**|**TimeMaster: Training Time-Series Multimodal LLMs to Reason via Reinforcement Learning**|Junru Zhang et.al.|[2506.13705](http://arxiv.org/abs/2506.13705)|null|
-|**2025-06-16**|**Lost in the Mix: Evaluating LLM Understanding of Code-Switched Text**|Amr Mohamed et.al.|[2506.14012](http://arxiv.org/abs/2506.14012)|null|
+|**2025-06-16**|**TimeMaster: Training Time-Series Multimodal LLMs to Reason via Reinforcement Learning**|Junru Zhang et.al.|[2506.13705](http://arxiv.org/abs/2506.13705)|**[link](https://github.com/langfengq/timemaster)**|
+|**2025-06-16**|**Lost in the Mix: Evaluating LLM Understanding of Code-Switched Text**|Amr Mohamed et.al.|[2506.14012](http://arxiv.org/abs/2506.14012)|**[link](https://github.com/amr-mohamedd/lost-in-the-mix)**|
 |**2025-06-16**|**Arctic Long Sequence Training: Scalable And Efficient Training For Multi-Million Token Sequences**|Stas Bekman et.al.|[2506.13996](http://arxiv.org/abs/2506.13996)|**[link](https://github.com/snowflakedb/ArcticTraining)**|
 |**2025-06-16**|**How Does LLM Reasoning Work for Code? A Survey and a Call to Action**|Ira Ceka et.al.|[2506.13932](http://arxiv.org/abs/2506.13932)|null|
 |**2025-06-16**|**Spec2RTL-Agent: Automated Hardware Code Generation from Complex Specifications Using LLM Agent Systems**|Zhongzhi Yu et.al.|[2506.13905](http://arxiv.org/abs/2506.13905)|null|
