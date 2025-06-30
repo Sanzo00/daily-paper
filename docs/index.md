@@ -10,7 +10,8 @@ _Updated on 2025.06.30_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
-|**2025-06-26**|**Towards Adaptive Memory-Based Optimization for Enhanced Retrieval-Augmented Generation**|Qitao Qin et.al.|[2504.05312](http://arxiv.org/abs/2504.05312)|null|
+|**2025-06-27**|**Towards Adaptive Memory-Based Optimization for Enhanced Retrieval-Augmented Generation**|Qitao Qin et.al.|[2504.05312](http://arxiv.org/abs/2504.05312)|null|
+|**2025-06-27**|**MedRAG: Enhancing Retrieval-augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot**|Xuejiao Zhao et.al.|[2502.04413](http://arxiv.org/abs/2502.04413)|**[link](https://github.com/snowteam2023/medrag)**|
 |**2025-06-26**|**PsyLite Technical Report**|Fangjun Ding et.al.|[2506.21536](http://arxiv.org/abs/2506.21536)|null|
 |**2025-06-26**|**EraRAG: Efficient and Incremental Retrieval Augmented Generation for Growing Corpora**|Fangyuan Zhang et.al.|[2506.20963](http://arxiv.org/abs/2506.20963)|null|
 |**2025-06-24**|**Talking to GDELT Through Knowledge Graphs**|Audun Myers et.al.|[2503.07584](http://arxiv.org/abs/2503.07584)|null|
@@ -226,7 +227,6 @@ _Updated on 2025.06.30_
 |**2025-02-08**|**Knowledge Graph-Guided Retrieval Augmented Generation**|Xiangrong Zhu et.al.|[2502.06864](http://arxiv.org/abs/2502.06864)|**[link](https://github.com/nju-websoft/KG2RAG)**|
 |**2025-02-07**|**Efficient Knowledge Feeding to Language Models: A Novel Integrated Encoder-Decoder Architecture**|S Santosh Kumar et.al.|[2502.05233](http://arxiv.org/abs/2502.05233)|null|
 |**2025-02-07**|**Agentic Reasoning: Reasoning LLMs with Tools for the Deep Research**|Junde Wu et.al.|[2502.04644](http://arxiv.org/abs/2502.04644)|**[link](https://github.com/theworldofagents/agentic-reasoning)**|
-|**2025-02-06**|**MedRAG: Enhancing Retrieval-augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot**|Xuejiao Zhao et.al.|[2502.04413](http://arxiv.org/abs/2502.04413)|**[link](https://github.com/snowteam2023/medrag)**|
 |**2025-02-05**|**Cache-Craft: Managing Chunk-Caches for Efficient Retrieval-Augmented Generation**|Shubham Agarwal et.al.|[2502.15734](http://arxiv.org/abs/2502.15734)|null|
 |**2025-02-05**|**Simple Is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation**|Mufei Li et.al.|[2410.20724](http://arxiv.org/abs/2410.20724)|**[link](https://github.com/graph-com/subgraphrag)**|
 |**2025-02-04**|**Plan*RAG: Efficient Test-Time Planning for Retrieval Augmented Generation**|Prakhar Verma et.al.|[2410.20753](http://arxiv.org/abs/2410.20753)|null|

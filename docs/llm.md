@@ -10,6 +10,10 @@ _Updated on 2025.06.30_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
+|**2025-06-27**|**Round Attention: A Novel Round-Level Attention Mechanism to Accelerate LLM Inference**|Yaohua Tang et.al.|[2502.15294](http://arxiv.org/abs/2502.15294)|null|
+|**2025-06-27**|**Dynamic Knowledge Exchange and Dual-diversity Review: Concisely Unleashing the Potential of a Multi-Agent Research Team**|Weilun Yu et.al.|[2506.18348](http://arxiv.org/abs/2506.18348)|null|
+|**2025-06-27**|**SegChange-R1: LLM-Augmented Remote Sensing Change Detection**|Fei Zhou et.al.|[2506.17944](http://arxiv.org/abs/2506.17944)|null|
+|**2025-06-27**|**KunLunBaizeRAG: Reinforcement Learning Driven Inference Performance Leap for Large Language Models**|Cheng Li et.al.|[2506.19466](http://arxiv.org/abs/2506.19466)|null|
 |**2025-06-26**|**From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents**|Weizhi Zhang et.al.|[2506.18959](http://arxiv.org/abs/2506.18959)|null|
 |**2025-06-26**|**Where to find Grokking in LLM Pretraining? Monitor Memorization-to-Generalization without Test**|Ziyue Li et.al.|[2506.21551](http://arxiv.org/abs/2506.21551)|null|
 |**2025-06-26**|**Enhancing User Engagement in Socially-Driven Dialogue through Interactive LLM Alignments**|Jiashuo Wang et.al.|[2506.21497](http://arxiv.org/abs/2506.21497)|null|
@@ -67,7 +71,6 @@ _Updated on 2025.06.30_
 |**2025-06-24**|**KnowMap: Efficient Knowledge-Driven Task Adaptation for LLMs**|Kelin Fu et.al.|[2506.19527](http://arxiv.org/abs/2506.19527)|null|
 |**2025-06-24**|**Commonsense Generation and Evaluation for Dialogue Systems using Large Language Models**|Marcos Estecha-Garitagoitia et.al.|[2506.19483](http://arxiv.org/abs/2506.19483)|null|
 |**2025-06-24**|**Can Large Language Models Capture Human Annotator Disagreements?**|Jingwei Ni et.al.|[2506.19467](http://arxiv.org/abs/2506.19467)|null|
-|**2025-06-24**|**KunLunBaizeRAG: Reinforcement Learning Driven Inference Performance Leap for Large Language Models**|Cheng Li et.al.|[2506.19466](http://arxiv.org/abs/2506.19466)|null|
 |**2025-06-24**|**RecLLM-R1: A Two-Stage Training Paradigm with Reinforcement Learning and Chain-of-Thought v1**|Yu Xie et.al.|[2506.19235](http://arxiv.org/abs/2506.19235)|null|
 |**2025-06-24**|**Augmenting Multi-Agent Communication with State Delta Trajectory**|Yichen Tang et.al.|[2506.19209](http://arxiv.org/abs/2506.19209)|null|
 |**2025-06-24**|**Persona-Assigned Large Language Models Exhibit Human-Like Motivated Reasoning**|Saloni Dash et.al.|[2506.20020](http://arxiv.org/abs/2506.20020)|null|
@@ -89,7 +92,6 @@ _Updated on 2025.06.30_
 |**2025-06-23**|**TReB: A Comprehensive Benchmark for Evaluating Table Reasoning Capabilities of Large Language Models**|Ce Li et.al.|[2506.18421](http://arxiv.org/abs/2506.18421)|null|
 |**2025-06-23**|**Evaluating Causal Explanation in Medical Reports with LLM-Based and Human-Aligned Metrics**|Yousang Cho et.al.|[2506.18387](http://arxiv.org/abs/2506.18387)|null|
 |**2025-06-23**|**LOGICPO: Efficient Translation of NL-based Logical Problems to FOL using LLMs and Preference Optimization**|Koushik Viswanadha et.al.|[2506.18383](http://arxiv.org/abs/2506.18383)|null|
-|**2025-06-23**|**Dynamic Knowledge Exchange and Dual-diversity Review: Concisely Unleashing the Potential of a Multi-Agent Research Team**|Weilun Yu et.al.|[2506.18348](http://arxiv.org/abs/2506.18348)|null|
 |**2025-06-23**|**Less Data Less Tokens: Multilingual Unification Learning for Efficient Test-Time Reasoning in LLMs**|Kang Chen et.al.|[2506.18341](http://arxiv.org/abs/2506.18341)|null|
 |**2025-06-23**|**TranslationCorrect: A Unified Framework for Machine Translation Post-Editing with Predictive Error Assistance**|Syed Mekael Wasti et.al.|[2506.18337](http://arxiv.org/abs/2506.18337)|null|
 |**2025-06-23**|**LLM-Integrated Digital Twins for Hierarchical Resource Allocation in 6G Networks**|Majumder Haider et.al.|[2506.18293](http://arxiv.org/abs/2506.18293)|null|
@@ -107,7 +109,6 @@ _Updated on 2025.06.30_
 |**2025-06-22**|**Mental Health Equity in LLMs: Leveraging Multi-Hop Question Answering to Detect Amplified and Silenced Perspectives**|Batool Haider et.al.|[2506.18116](http://arxiv.org/abs/2506.18116)|null|
 |**2025-06-22**|**InspireDebate: Multi-Dimensional Subjective-Objective Evaluation-Guided Reasoning and Optimization for Debating**|Fuyu Wang et.al.|[2506.18102](http://arxiv.org/abs/2506.18102)|null|
 |**2025-06-22**|**Deep Research Agents: A Systematic Examination And Roadmap**|Yuxuan Huang et.al.|[2506.18096](http://arxiv.org/abs/2506.18096)|null|
-|**2025-06-22**|**SegChange-R1:Augmented Reasoning for Remote Sensing Change Detection via Large Language Models**|Fei Zhou et.al.|[2506.17944](http://arxiv.org/abs/2506.17944)|null|
 |**2025-06-22**|**Evolving Prompts In-Context: An Open-ended, Self-replicating Perspective**|Jianyu Wang et.al.|[2506.17930](http://arxiv.org/abs/2506.17930)|null|
 |**2025-06-22**|**Leveraging Large Language Model for Intelligent Log Processing and Autonomous Debugging in Cloud AI Platforms**|Cheng Ji et.al.|[2506.17900](http://arxiv.org/abs/2506.17900)|null|
 |**2025-06-22**|**How Alignment Shrinks the Generative Horizon**|Chenghao Yang et.al.|[2506.17871](http://arxiv.org/abs/2506.17871)|null|
@@ -474,7 +475,6 @@ _Updated on 2025.06.30_
 |**2025-02-27**|**Dynamic Parallel Tree Search for Efficient LLM Reasoning**|Yifu Ding et.al.|[2502.16235](http://arxiv.org/abs/2502.16235)|null|
 |**2025-02-27**|**ThinK: Thinner Key Cache by Query-Driven Pruning**|Yuhui Xu et.al.|[2407.21018](http://arxiv.org/abs/2407.21018)|null|
 |**2025-02-24**|**ELMo-Tune-V2: LLM-Assisted Full-Cycle Auto-Tuning to Optimize LSM-Based Key-Value Stores**|Viraj Thakkar et.al.|[2502.17606](http://arxiv.org/abs/2502.17606)|**[link](https://github.com/asu-idi/ELMo-Tune-V2)**|
-|**2025-02-24**|**Round Attention: A Novel Round-Level Attention Mechanism to Accelerate LLM Inference**|Yaohua Tang et.al.|[2502.15294](http://arxiv.org/abs/2502.15294)|null|
 |**2025-02-24**|**The Lottery LLM Hypothesis, Rethinking What Abilities Should LLM Compression Preserve?**|Zhenheng Tang et.al.|[2502.17535](http://arxiv.org/abs/2502.17535)|null|
 |**2025-02-22**|**AIBrix: Towards Scalable, Cost-Effective Large Language Model Inference Infrastructure**|The AIBrix Team et.al.|[2504.03648](http://arxiv.org/abs/2504.03648)|null|
 |**2025-02-20**|**SpinQuant: LLM quantization with learned rotations**|Zechun Liu et.al.|[2405.16406](http://arxiv.org/abs/2405.16406)|null|
