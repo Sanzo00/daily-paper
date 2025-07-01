@@ -6,10 +6,11 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2025.06.30_
+_Updated on 2025.07.01_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
+|**2025-06-30**|**FlexRAG: A Flexible and Comprehensive Framework for Retrieval-Augmented Generation**|Zhuocheng Zhang et.al.|[2506.12494](http://arxiv.org/abs/2506.12494)|**[link](https://github.com/ictnlp/flexrag)**|
 |**2025-06-27**|**Towards Adaptive Memory-Based Optimization for Enhanced Retrieval-Augmented Generation**|Qitao Qin et.al.|[2504.05312](http://arxiv.org/abs/2504.05312)|null|
 |**2025-06-27**|**MedRAG: Enhancing Retrieval-augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot**|Xuejiao Zhao et.al.|[2502.04413](http://arxiv.org/abs/2502.04413)|**[link](https://github.com/snowteam2023/medrag)**|
 |**2025-06-26**|**PsyLite Technical Report**|Fangjun Ding et.al.|[2506.21536](http://arxiv.org/abs/2506.21536)|null|
@@ -35,7 +36,6 @@ _Updated on 2025.06.30_
 |**2025-06-16**|**Arctic Long Sequence Training: Scalable And Efficient Training For Multi-Million Token Sequences**|Stas Bekman et.al.|[2506.13996](http://arxiv.org/abs/2506.13996)|**[link](https://github.com/snowflakedb/ArcticTraining)**|
 |**2025-06-15**|**Reasoning with RAGged events: RAG-Enhanced Event Knowledge Base Construction and reasoning with proof-assistants**|Stergios Chatzikyriakidis et.al.|[2506.07042](http://arxiv.org/abs/2506.07042)|null|
 |**2025-06-15**|**SlimRAG: Retrieval without Graphs via Entity-Aware Context Selection**|Jiale Zhang et.al.|[2506.17288](http://arxiv.org/abs/2506.17288)|null|
-|**2025-06-14**|**FlexRAG: A Flexible and Comprehensive Framework for Retrieval-Augmented Generation**|Zhuocheng Zhang et.al.|[2506.12494](http://arxiv.org/abs/2506.12494)|**[link](https://github.com/ictnlp/flexrag)**|
 |**2025-06-14**|**MALM: A Multi-Information Adapter for Large Language Models to Mitigate Hallucination**|Ao Jia et.al.|[2506.12483](http://arxiv.org/abs/2506.12483)|null|
 |**2025-06-14**|**FastRAG: Retrieval Augmented Generation for Semi-structured Data**|Amar Abane et.al.|[2411.13773](http://arxiv.org/abs/2411.13773)|null|
 |**2025-06-13**|**Maximally-Informative Retrieval for State Space Model Generation**|Evan Becker et.al.|[2506.12149](http://arxiv.org/abs/2506.12149)|null|
