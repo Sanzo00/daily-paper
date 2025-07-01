@@ -12,8 +12,38 @@ _Updated on 2025.07.01_
 |:-------------|:------|:--------|:----|:-----|
 |**2025-06-30**|**RetroInfer: A Vector-Storage Approach for Scalable Long-Context LLM Inference**|Yaoqi Chen et.al.|[2505.02922](http://arxiv.org/abs/2505.02922)|null|
 |**2025-06-30**|**EFRame: Deeper Reasoning via Exploration-Filter-Replay Reinforcement Learning Framework**|Chen Wang et.al.|[2506.22200](http://arxiv.org/abs/2506.22200)|null|
+|**2025-06-30**|**SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning**|Bo Liu et.al.|[2506.24119](http://arxiv.org/abs/2506.24119)|null|
+|**2025-06-30**|**Large Language Models Don't Make Sense of Word Problems. A Scoping Review from a Mathematics Education Perspective**|Anselm R. Strohmaier et.al.|[2506.24006](http://arxiv.org/abs/2506.24006)|null|
+|**2025-06-30**|**Advancing Multi-Step Mathematical Reasoning in Large Language Models through Multi-Layered Self-Reflection with Auto-Prompting**|André de Souza Loureiro et.al.|[2506.23888](http://arxiv.org/abs/2506.23888)|null|
+|**2025-06-30**|**Garbage In, Reasoning Out? Why Benchmark Scores are Unreliable and What to Do About It**|Seyed Mahed Mousavi et.al.|[2506.23864](http://arxiv.org/abs/2506.23864)|null|
+|**2025-06-30**|**A Survey on Autonomy-Induced Security Risks in Large Model-Based Agents**|Hang Su et.al.|[2506.23844](http://arxiv.org/abs/2506.23844)|null|
+|**2025-06-30**|**DABstep: Data Agent Benchmark for Multi-step Reasoning**|Alex Egg et.al.|[2506.23719](http://arxiv.org/abs/2506.23719)|null|
+|**2025-06-30**|**If You Had to Pitch Your Ideal Software -- Evaluating Large Language Models to Support User Scenario Writing for User Experience Experts and Laypersons**|Patrick Stadler et.al.|[2506.23694](http://arxiv.org/abs/2506.23694)|null|
+|**2025-06-30**|**PokéAI: A Goal-Generating, Battle-Optimizing Multi-agent System for Pokemon Red**|Zihao Liu et.al.|[2506.23689](http://arxiv.org/abs/2506.23689)|null|
+|**2025-06-30**|**Interactive Reasoning: Visualizing and Controlling Chain-of-Thought Reasoning in Large Language Models**|Rock Yuren Pang et.al.|[2506.23678](http://arxiv.org/abs/2506.23678)|null|
+|**2025-06-30**|**Act-With-Think: Chunk Auto-Regressive Modeling for Generative Recommendation**|Yifan Wang et.al.|[2506.23643](http://arxiv.org/abs/2506.23643)|null|
+|**2025-06-30**|**What to Keep and What to Drop: Adaptive Table Filtering Framework**|Jang Won June et.al.|[2506.23463](http://arxiv.org/abs/2506.23463)|null|
 |**2025-06-29**|**Comparative Evaluation of ChatGPT and DeepSeek Across Key NLP Tasks: Strengths, Weaknesses, and Domain-Specific Performance**|Wael Etaiwi et.al.|[2506.18501](http://arxiv.org/abs/2506.18501)|null|
+|**2025-06-29**|**Do LLMs Dream of Discrete Algorithms?**|Claudionor Coelho Jr et.al.|[2506.23408](http://arxiv.org/abs/2506.23408)|null|
+|**2025-06-29**|**GeoProg3D: Compositional Visual Reasoning for City-Scale 3D Language Fields**|Shunsuke Yasuki et.al.|[2506.23352](http://arxiv.org/abs/2506.23352)|null|
+|**2025-06-29**|**Corrupted by Reasoning: Reasoning Language Models Become Free-Riders in Public Goods Games**|David Guzman Piedrahita et.al.|[2506.23276](http://arxiv.org/abs/2506.23276)|null|
+|**2025-06-29**|**Predicting thinking time in Reasoning models**|Hans Peter Lynsgøe Raaschou-jensen et.al.|[2506.23274](http://arxiv.org/abs/2506.23274)|null|
+|**2025-06-29**|**Token Activation Map to Visually Explain Multimodal LLMs**|Yi Li et.al.|[2506.23270](http://arxiv.org/abs/2506.23270)|null|
+|**2025-06-29**|**Benchmarking Deep Search over Heterogeneous Enterprise Data**|Prafulla Kumar Choubey et.al.|[2506.23139](http://arxiv.org/abs/2506.23139)|null|
+|**2025-06-29**|**Format-Adapter: Improving Reasoning Capability of LLMs by Adapting Suitable Format**|Dingzirui Wang et.al.|[2506.23133](http://arxiv.org/abs/2506.23133)|null|
+|**2025-06-29**|**Are Large Language Models Capable of Deep Relational Reasoning? Insights from DeepSeek-R1 and Benchmark Comparisons**|Chi Chiu So et.al.|[2506.23128](http://arxiv.org/abs/2506.23128)|null|
+|**2025-06-29**|**Decoding Memes: Benchmarking Narrative Role Classification across Multilingual and Multimodal Models**|Shivam Sharma et.al.|[2506.23122](http://arxiv.org/abs/2506.23122)|null|
+|**2025-06-29**|**Enhancing Spatial Reasoning in Multimodal Large Language Models through Reasoning-based Segmentation**|Zhenhua Ning et.al.|[2506.23120](http://arxiv.org/abs/2506.23120)|null|
+|**2025-06-29**|**Repair Ingredients Are All You Need: Improving Large Language Model-Based Program Repair via Repair Ingredients Search**|Jiayi Zhang et.al.|[2506.23100](http://arxiv.org/abs/2506.23100)|null|
+|**2025-06-29**|**Boosting LLM's Molecular Structure Elucidation with Knowledge Enhanced Tree Search Reasoning**|Xiang Zhuang et.al.|[2506.23056](http://arxiv.org/abs/2506.23056)|null|
+|**2025-06-29**|**AURA: Agent for Understanding, Reasoning, and Automated Tool Use in Voice-Driven Tasks**|Leander Melroy Maben et.al.|[2506.23049](http://arxiv.org/abs/2506.23049)|null|
 |**2025-06-28**|**Efficiently Serving Large Multimodal Models Using EPD Disaggregation**|Gursimran Singh et.al.|[2501.05460](http://arxiv.org/abs/2501.05460)|**[link](https://github.com/vbdi/epdserve)**|
+|**2025-06-28**|**ContextCache: Context-Aware Semantic Cache for Multi-Turn Queries in Large Language Models**|Jianxin Yan et.al.|[2506.22791](http://arxiv.org/abs/2506.22791)|null|
+|**2025-06-28**|**Agent-to-Agent Theory of Mind: Testing Interlocutor Awareness among Large Language Models**|Younwoo Choi et.al.|[2506.22957](http://arxiv.org/abs/2506.22957)|null|
+|**2025-06-28**|**Evaluating and Improving Large Language Models for Competitive Program Generation**|Minnan Wei et.al.|[2506.22954](http://arxiv.org/abs/2506.22954)|null|
+|**2025-06-28**|**Improving Rationality in the Reasoning Process of Language Models through Self-playing Game**|Pinzheng Wang et.al.|[2506.22920](http://arxiv.org/abs/2506.22920)|null|
+|**2025-06-28**|**ReasonBridge: Efficient Reasoning Transfer from Closed to Open-Source Language Models**|Ziqi Zhong et.al.|[2506.22865](http://arxiv.org/abs/2506.22865)|null|
+|**2025-06-28**|**Prompting without Panic: Attribute-aware, Zero-shot, Test-Time Calibration**|Ramya Hebbalaguppe et.al.|[2506.22819](http://arxiv.org/abs/2506.22819)|null|
 |**2025-06-27**|**Round Attention: A Novel Round-Level Attention Mechanism to Accelerate LLM Inference**|Yaohua Tang et.al.|[2502.15294](http://arxiv.org/abs/2502.15294)|null|
 |**2025-06-27**|**Dynamic Knowledge Exchange and Dual-diversity Review: Concisely Unleashing the Potential of a Multi-Agent Research Team**|Weilun Yu et.al.|[2506.18348](http://arxiv.org/abs/2506.18348)|null|
 |**2025-06-27**|**SegChange-R1: LLM-Augmented Remote Sensing Change Detection**|Fei Zhou et.al.|[2506.17944](http://arxiv.org/abs/2506.17944)|null|
@@ -33,6 +63,10 @@ _Updated on 2025.07.01_
 |**2025-06-27**|**CAL-RAG: Retrieval-Augmented Multi-Agent Generation for Content-Aware Layout Design**|Najmeh Forouzandehmehr et.al.|[2506.21934](http://arxiv.org/abs/2506.21934)|null|
 |**2025-06-27**|**ARAG: Agentic Retrieval Augmented Generation for Personalized Recommendation**|Reza Yousefi Maragheh et.al.|[2506.21931](http://arxiv.org/abs/2506.21931)|null|
 |**2025-06-27**|**SPAZER: Spatial-Semantic Progressive Reasoning Agent for Zero-shot 3D Visual Grounding**|Zhao Jin et.al.|[2506.21924](http://arxiv.org/abs/2506.21924)|null|
+|**2025-06-27**|**URSA: The Universal Research and Scientific Agent**|Michael Grosskopf et.al.|[2506.22653](http://arxiv.org/abs/2506.22653)|null|
+|**2025-06-27**|**ReCo: Reminder Composition Mitigates Hallucinations in Vision-Language Models**|Sotirios Panagiotis Chytas et.al.|[2506.22636](http://arxiv.org/abs/2506.22636)|null|
+|**2025-06-27**|**The Hidden Link Between RLHF and Contrastive Learning**|Xufei Lv et.al.|[2506.22578](http://arxiv.org/abs/2506.22578)|null|
+|**2025-06-27**|**MetaCipher: A General and Extensible Reinforcement Learning Framework for Obfuscation-Based Jailbreak Attacks on Black-Box LLMs**|Boyuan Chen et.al.|[2506.22557](http://arxiv.org/abs/2506.22557)|null|
 |**2025-06-26**|**From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents**|Weizhi Zhang et.al.|[2506.18959](http://arxiv.org/abs/2506.18959)|null|
 |**2025-06-26**|**Where to find Grokking in LLM Pretraining? Monitor Memorization-to-Generalization without Test**|Ziyue Li et.al.|[2506.21551](http://arxiv.org/abs/2506.21551)|null|
 |**2025-06-26**|**Enhancing User Engagement in Socially-Driven Dialogue through Interactive LLM Alignments**|Jiashuo Wang et.al.|[2506.21497](http://arxiv.org/abs/2506.21497)|null|
@@ -51,6 +85,7 @@ _Updated on 2025.07.01_
 |**2025-06-26**|**Hierarchical Reasoning Model**|Guan Wang et.al.|[2506.21734](http://arxiv.org/abs/2506.21734)|null|
 |**2025-06-26**|**SEEA-R1: Tree-Structured Reinforcement Fine-Tuning for Self-Evolving Embodied Agents**|Wanxin Tian et.al.|[2506.21669](http://arxiv.org/abs/2506.21669)|null|
 |**2025-06-26**|**APO: Enhancing Reasoning Ability of MLLMs via Asymmetric Policy Optimization**|Minjie Hong et.al.|[2506.21655](http://arxiv.org/abs/2506.21655)|null|
+|**2025-06-26**|**Weak-to-Strong GraphRAG: Aligning Weak Retrievers with Large Language Models for Graph-based Retrieval Augmented Generation**|Deyu Zou et.al.|[2506.22518](http://arxiv.org/abs/2506.22518)|null|
 |**2025-06-25**|**No Free Lunch: Rethinking Internal Feedback for LLM Reasoning**|Yanzhi Zhang et.al.|[2506.17219](http://arxiv.org/abs/2506.17219)|null|
 |**2025-06-25**|**Confucius3-Math: A Lightweight High-Performance Reasoning LLM for Chinese K-12 Mathematics Learning**|Lixin Wu et.al.|[2506.18330](http://arxiv.org/abs/2506.18330)|null|
 |**2025-06-25**|**Thought Anchors: Which LLM Reasoning Steps Matter?**|Paul C. Bogdan et.al.|[2506.19143](http://arxiv.org/abs/2506.19143)|null|
