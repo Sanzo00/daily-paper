@@ -6,13 +6,14 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2025.07.01_
+_Updated on 2025.07.02_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
+|**2025-07-01**|**SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning**|Bo Liu et.al.|[2506.24119](http://arxiv.org/abs/2506.24119)|null|
 |**2025-06-30**|**RetroInfer: A Vector-Storage Approach for Scalable Long-Context LLM Inference**|Yaoqi Chen et.al.|[2505.02922](http://arxiv.org/abs/2505.02922)|null|
+|**2025-06-30**|**The Automated LLM Speedrunning Benchmark: Reproducing NanoGPT Improvements**|Bingchen Zhao et.al.|[2506.22419](http://arxiv.org/abs/2506.22419)|null|
 |**2025-06-30**|**EFRame: Deeper Reasoning via Exploration-Filter-Replay Reinforcement Learning Framework**|Chen Wang et.al.|[2506.22200](http://arxiv.org/abs/2506.22200)|null|
-|**2025-06-30**|**SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning**|Bo Liu et.al.|[2506.24119](http://arxiv.org/abs/2506.24119)|null|
 |**2025-06-30**|**Large Language Models Don't Make Sense of Word Problems. A Scoping Review from a Mathematics Education Perspective**|Anselm R. Strohmaier et.al.|[2506.24006](http://arxiv.org/abs/2506.24006)|null|
 |**2025-06-30**|**Advancing Multi-Step Mathematical Reasoning in Large Language Models through Multi-Layered Self-Reflection with Auto-Prompting**|André de Souza Loureiro et.al.|[2506.23888](http://arxiv.org/abs/2506.23888)|null|
 |**2025-06-30**|**Garbage In, Reasoning Out? Why Benchmark Scores are Unreliable and What to Do About It**|Seyed Mahed Mousavi et.al.|[2506.23864](http://arxiv.org/abs/2506.23864)|null|
@@ -51,7 +52,6 @@ _Updated on 2025.07.01_
 |**2025-06-27**|**QuickSilver -- Speeding up LLM Inference through Dynamic Token Halting, KV Skipping, Contextual Token Fusion, and Adaptive Matryoshka Quantization**|Danush Khanna et.al.|[2506.22396](http://arxiv.org/abs/2506.22396)|null|
 |**2025-06-27**|**SiPipe: Bridging the CPU-GPU Utilization Gap for Efficient Pipeline-Parallel LLM Inference**|Yongchao He et.al.|[2506.22033](http://arxiv.org/abs/2506.22033)|null|
 |**2025-06-27**|**A Survey of LLM Inference Systems**|James Pan et.al.|[2506.21901](http://arxiv.org/abs/2506.21901)|null|
-|**2025-06-27**|**The Automated LLM Speedrunning Benchmark: Reproducing NanoGPT Improvements**|Bingchen Zhao et.al.|[2506.22419](http://arxiv.org/abs/2506.22419)|null|
 |**2025-06-27**|**Can Video Large Multimodal Models Think Like Doubters-or Double-Down: A Study on Defeasible Video Entailment**|Yue Zhang et.al.|[2506.22385](http://arxiv.org/abs/2506.22385)|null|
 |**2025-06-27**|**Probabilistic Optimality for Inference-time Scaling**|Youkang Wang et.al.|[2506.22376](http://arxiv.org/abs/2506.22376)|null|
 |**2025-06-27**|**Concept-Level AI for Telecom: Moving Beyond Large Language Models**|Viswanath Kumarskandpriya et.al.|[2506.22359](http://arxiv.org/abs/2506.22359)|null|
