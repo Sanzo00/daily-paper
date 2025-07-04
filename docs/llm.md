@@ -16,6 +16,30 @@ _Updated on 2025.07.04_
 |**2025-07-03**|**Self-Guided Process Reward Optimization with Redefined Step-wise Advantage for Process Reinforcement Learning**|Wu Fei et.al.|[2507.01551](http://arxiv.org/abs/2507.01551)|null|
 |**2025-07-03**|**Symbolic or Numerical? Understanding Physics Problem Solving in Reasoning LLMs**|Nifu Dan et.al.|[2507.01334](http://arxiv.org/abs/2507.01334)|null|
 |**2025-07-03**|**Mixture of Reasonings: Teach Large Language Models to Reason with Adaptive Strategies**|Tao Xiong et.al.|[2507.00606](http://arxiv.org/abs/2507.00606)|null|
+|**2025-07-03**|**OmniDraft: A Cross-vocabulary, Online Adaptive Drafter for On-device Speculative Decoding**|Ramchalam Kinattinkara Ramakrishnan et.al.|[2507.02659](http://arxiv.org/abs/2507.02659)|null|
+|**2025-07-03**|**Bootstrapping Grounded Chain-of-Thought in Multimodal LLMs for Data-Efficient Model Adaptation**|Jiaer Xia et.al.|[2507.02859](http://arxiv.org/abs/2507.02859)|null|
+|**2025-07-03**|**MOTIF: Modular Thinking via Reinforcement Fine-tuning in LLMs**|Purbesh Mitra et.al.|[2507.02851](http://arxiv.org/abs/2507.02851)|null|
+|**2025-07-03**|**StepHint: Multi-level Stepwise Hints Enhance Reinforcement Learning to Reason**|Kaiyi Zhang et.al.|[2507.02841](http://arxiv.org/abs/2507.02841)|null|
+|**2025-07-03**|**SynapseRoute: An Auto-Route Switching Framework on Dual-State Large Language Model**|Wencheng Zhang et.al.|[2507.02822](http://arxiv.org/abs/2507.02822)|null|
+|**2025-07-03**|**Multimodal Mathematical Reasoning with Diverse Solving Perspective**|Wenhao Shi et.al.|[2507.02804](http://arxiv.org/abs/2507.02804)|null|
+|**2025-07-03**|**Is Reasoning All You Need? Probing Bias in the Age of Reasoning Language Models**|Riccardo Cantini et.al.|[2507.02799](http://arxiv.org/abs/2507.02799)|null|
+|**2025-07-03**|**Moral Responsibility or Obedience: What Do We Want from AI?**|Joseph Boland et.al.|[2507.02788](http://arxiv.org/abs/2507.02788)|null|
+|**2025-07-03**|**Self-Correction Bench: Revealing and Addressing the Self-Correction Blind Spot in LLMs**|Ken Tsui et.al.|[2507.02778](http://arxiv.org/abs/2507.02778)|null|
+|**2025-07-03**|**KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs**|Yuzhang Xie et.al.|[2507.02773](http://arxiv.org/abs/2507.02773)|null|
+|**2025-07-03**|**Knowledge Protocol Engineering: A New Paradigm for AI in Domain-Specific Knowledge Work**|Guangwei Zhang et.al.|[2507.02760](http://arxiv.org/abs/2507.02760)|null|
+|**2025-07-03**|**Early Signs of Steganographic Capabilities in Frontier LLMs**|Artur Zolkowski et.al.|[2507.02737](http://arxiv.org/abs/2507.02737)|null|
+|**2025-07-03**|**Bourbaki: Self-Generated and Goal-Conditioned MDPs for Theorem Proving**|Matthieu Zimmer et.al.|[2507.02726](http://arxiv.org/abs/2507.02726)|null|
+|**2025-07-03**|**Control at Stake: Evaluating the Security Landscape of LLM-Driven Email Agents**|Jiangrong Wu et.al.|[2507.02699](http://arxiv.org/abs/2507.02699)|null|
+|**2025-07-03**|**VRAgent-R1: Boosting Video Recommendation with MLLM-based Agents via Reinforcement Learning**|Siran Chen et.al.|[2507.02626](http://arxiv.org/abs/2507.02626)|null|
+|**2025-07-03**|**Strategic Intelligence in Large Language Models: Evidence from evolutionary Game Theory**|Kenneth Payne et.al.|[2507.02618](http://arxiv.org/abs/2507.02618)|null|
+|**2025-07-03**|**DynamiCare: A Dynamic Multi-Agent Framework for Interactive and Open-Ended Medical Decision-Making**|Tianqi Shang et.al.|[2507.02616](http://arxiv.org/abs/2507.02616)|null|
+|**2025-07-03**|**WebSailor: Navigating Super-human Reasoning for Web Agent**|Kuan Li et.al.|[2507.02592](http://arxiv.org/abs/2507.02592)|null|
+|**2025-07-03**|**Clarifying Before Reasoning: A Coq Prover with Structural Context**|Yanzhen Lu et.al.|[2507.02541](http://arxiv.org/abs/2507.02541)|null|
+|**2025-07-03**|**CyberRAG: An agentic RAG cyber attack classification and reporting tool**|Francesco Blefari et.al.|[2507.02424](http://arxiv.org/abs/2507.02424)|null|
+|**2025-07-03**|**OMS: On-the-fly, Multi-Objective, Self-Reflective Ad Keyword Generation via LLM Agent**|Bowen Chen et.al.|[2507.02353](http://arxiv.org/abs/2507.02353)|null|
+|**2025-07-03**|**Misaligned from Within: Large Language Models Reproduce Our Double-Loop Learning Blindness**|Tim Rogers et.al.|[2507.02283](http://arxiv.org/abs/2507.02283)|null|
+|**2025-07-03**|**Uncertainty-aware Reward Design Process**|Yang Yang et.al.|[2507.02256](http://arxiv.org/abs/2507.02256)|null|
+|**2025-07-03**|**Scaling LLM Planning: NL2FLOW for Parametric Problem Generation and Rigorous Evaluation**|Jungkoo Kang et.al.|[2507.02253](http://arxiv.org/abs/2507.02253)|null|
 |**2025-07-02**|**Breaking the Boundaries of Long-Context LLM Inference: Adaptive KV Management on a Single Commodity GPU**|He Sun et.al.|[2506.20187](http://arxiv.org/abs/2506.20187)|null|
 |**2025-07-02**|**EdgeLoRA: An Efficient Multi-Tenant LLM Serving System on Edge Devices**|Zheyu Shen et.al.|[2507.01438](http://arxiv.org/abs/2507.01438)|null|
 |**2025-07-02**|**The Thin Line Between Comprehension and Persuasion in LLMs**|Adrian de Wynter et.al.|[2507.01936](http://arxiv.org/abs/2507.01936)|null|
@@ -38,6 +62,12 @@ _Updated on 2025.07.04_
 |**2025-07-02**|**Evaluating Large Language Models for Multimodal Simulated Ophthalmic Decision-Making in Diabetic Retinopathy and Glaucoma Screening**|Cindy Lie Tabuse et.al.|[2507.01278](http://arxiv.org/abs/2507.01278)|null|
 |**2025-07-02**|**Can Large Language Models Develop Strategic Reasoning? Post-training Insights from Learning Chess**|Dongyoon Hwang et.al.|[2507.00726](http://arxiv.org/abs/2507.00726)|null|
 |**2025-07-02**|**$μ^2$Tokenizer: Differentiable Multi-Scale Multi-Modal Tokenizer for Radiology Report Generation**|Siyou Li et.al.|[2507.00316](http://arxiv.org/abs/2507.00316)|null|
+|**2025-07-02**|**Data Diversification Methods In Alignment Enhance Math Performance In LLMs**|Berkan Dokmeci et.al.|[2507.02173](http://arxiv.org/abs/2507.02173)|null|
+|**2025-07-02**|**Synergizing Logical Reasoning, Knowledge Management and Collaboration in Multi-Agent LLM System**|Adam Kostka et.al.|[2507.02170](http://arxiv.org/abs/2507.02170)|null|
+|**2025-07-02**|**Reasoning or Not? A Comprehensive Evaluation of Reasoning LLMs for Dialogue Summarization**|Keyan Jin et.al.|[2507.02145](http://arxiv.org/abs/2507.02145)|null|
+|**2025-07-02**|**Structural Code Search using Natural Language Queries**|Ben Limpanukorn et.al.|[2507.02107](http://arxiv.org/abs/2507.02107)|null|
+|**2025-07-02**|**Reasoning on a Budget: A Survey of Adaptive and Controllable Test-Time Compute in LLMs**|Mohammad Ali Alomrani et.al.|[2507.02076](http://arxiv.org/abs/2507.02076)|null|
+|**2025-07-02**|**Large Language Models for Crash Detection in Video: A Survey of Methods, Datasets, and Challenges**|Sanjeda Akter et.al.|[2507.02074](http://arxiv.org/abs/2507.02074)|null|
 |**2025-07-01**|**SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning**|Bo Liu et.al.|[2506.24119](http://arxiv.org/abs/2506.24119)|null|
 |**2025-07-01**|**PAE MobiLLM: Privacy-Aware and Efficient LLM Fine-Tuning on the Mobile Device via Additive Side-Tuning**|Xingke Yang et.al.|[2507.01216](http://arxiv.org/abs/2507.01216)|null|
 |**2025-07-01**|**FlashDP: Private Training Large Language Models with Efficient DP-SGD**|Liangyu Wang et.al.|[2507.01154](http://arxiv.org/abs/2507.01154)|null|
@@ -58,6 +88,8 @@ _Updated on 2025.07.04_
 |**2025-07-01**|**Does Math Reasoning Improve General LLM Capabilities? Understanding Transferability of LLM Reasoning**|Maggie Huan et.al.|[2507.00432](http://arxiv.org/abs/2507.00432)|null|
 |**2025-07-01**|**ASTRO: Teaching Language Models to Reason by Reflecting and Backtracking In-Context**|Joongwon Kim et.al.|[2507.00417](http://arxiv.org/abs/2507.00417)|null|
 |**2025-07-01**|**Causal Prompting for Implicit Sentiment Analysis with Large Language Models**|Jing Ren et.al.|[2507.00389](http://arxiv.org/abs/2507.00389)|null|
+|**2025-07-01**|**STELLA: Self-Evolving LLM Agent for Biomedical Research**|Ruofan Jin et.al.|[2507.02004](http://arxiv.org/abs/2507.02004)|null|
+|**2025-07-01**|**Dynamic Strategy Adaptation in Multi-Agent Environments with Large Language Models**|Shaurya Mallampati et.al.|[2507.02002](http://arxiv.org/abs/2507.02002)|null|
 |**2025-06-30**|**RetroInfer: A Vector-Storage Approach for Scalable Long-Context LLM Inference**|Yaoqi Chen et.al.|[2505.02922](http://arxiv.org/abs/2505.02922)|null|
 |**2025-06-30**|**The Automated LLM Speedrunning Benchmark: Reproducing NanoGPT Improvements**|Bingchen Zhao et.al.|[2506.22419](http://arxiv.org/abs/2506.22419)|null|
 |**2025-06-30**|**EFRame: Deeper Reasoning via Exploration-Filter-Replay Reinforcement Learning Framework**|Chen Wang et.al.|[2506.22200](http://arxiv.org/abs/2506.22200)|null|
