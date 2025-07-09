@@ -13,6 +13,29 @@ _Updated on 2025.07.09_
 |**2025-07-08**|**Activation Steering for Chain-of-Thought Compression**|Seyedarmin Azizi et.al.|[2507.04742](http://arxiv.org/abs/2507.04742)|null|
 |**2025-07-08**|**MemOS: A Memory OS for AI System**|Zhiyu Li et.al.|[2507.03724](http://arxiv.org/abs/2507.03724)|null|
 |**2025-07-08**|**Can LLMs Play Ô Ăn Quan Game? A Study of Multi-Step Planning and Decision Making**|Sang Quang Nguyen et.al.|[2507.03711](http://arxiv.org/abs/2507.03711)|null|
+|**2025-07-08**|**A Survey on Latent Reasoning**|Rui-Jie Zhu et.al.|[2507.06203](http://arxiv.org/abs/2507.06203)|null|
+|**2025-07-08**|**Skywork-R1V3 Technical Report**|Wei Shen et.al.|[2507.06167](http://arxiv.org/abs/2507.06167)|null|
+|**2025-07-08**|**Coding Triangle: How Does Large Language Model Understand Code?**|Taolin Zhang et.al.|[2507.06138](http://arxiv.org/abs/2507.06138)|null|
+|**2025-07-08**|**PrefixAgent: An LLM-Powered Design Framework for Efficient Prefix Adder Optimization**|Dongsheng Zuo et.al.|[2507.06127](http://arxiv.org/abs/2507.06127)|null|
+|**2025-07-08**|**FEVO: Financial Knowledge Expansion and Reasoning Evolution for Large Language Models**|Bo Pang et.al.|[2507.06057](http://arxiv.org/abs/2507.06057)|null|
+|**2025-07-08**|**Hierarchical Interaction Summarization and Contrastive Prompting for Explainable Recommendations**|Yibin Liu et.al.|[2507.06044](http://arxiv.org/abs/2507.06044)|null|
+|**2025-07-08**|**Conditional Multi-Stage Failure Recovery for Embodied Agents**|Youmna Farag et.al.|[2507.06016](http://arxiv.org/abs/2507.06016)|null|
+|**2025-07-08**|**CogniSQL-R1-Zero: Lightweight Reinforced Reasoning for Efficient SQL Generation**|Kushal Gajjar et.al.|[2507.06013](http://arxiv.org/abs/2507.06013)|null|
+|**2025-07-08**|**DocIE@XLLM25: In-Context Learning for Information Extraction using Fully Synthetic Demonstrations**|Nicholas Popovič et.al.|[2507.05997](http://arxiv.org/abs/2507.05997)|null|
+|**2025-07-08**|**Automatic Synthesis of High-Quality Triplet Data for Composed Image Retrieval**|Haiwen Li et.al.|[2507.05970](http://arxiv.org/abs/2507.05970)|null|
+|**2025-07-08**|**Current Practices for Building LLM-Powered Reasoning Tools Are Ad Hoc -- and We Can Do Better**|Aaron Bembenek et.al.|[2507.05886](http://arxiv.org/abs/2507.05886)|null|
+|**2025-07-08**|**KERAG_R: Knowledge-Enhanced Retrieval-Augmented Generation for Recommendation**|Zeyuan Meng et.al.|[2507.05863](http://arxiv.org/abs/2507.05863)|null|
+|**2025-07-08**|**Video Event Reasoning and Prediction by Fusing World Knowledge from LLMs with Vision Foundation Models**|L'ea Dubois et.al.|[2507.05822](http://arxiv.org/abs/2507.05822)|null|
+|**2025-07-08**|**Creating a customisable freely-accessible Socratic AI physics tutor**|Eugenio Tufino et.al.|[2507.05795](http://arxiv.org/abs/2507.05795)|null|
+|**2025-07-08**|**LeAD: The LLM Enhanced Planning System Converged with End-to-end Autonomous Driving**|Yuhang Zhang et.al.|[2507.05754](http://arxiv.org/abs/2507.05754)|null|
+|**2025-07-08**|**ContextASR-Bench: A Massive Contextual Speech Recognition Benchmark**|He Wang et.al.|[2507.05727](http://arxiv.org/abs/2507.05727)|null|
+|**2025-07-08**|**Large Language Models for Agent-Based Modelling: Current and possible uses across the modelling cycle**|Loïs Vanhée et.al.|[2507.05723](http://arxiv.org/abs/2507.05723)|null|
+|**2025-07-08**|**LLMs are Introvert**|Litian Zhang et.al.|[2507.05638](http://arxiv.org/abs/2507.05638)|null|
+|**2025-07-08**|**Flipping Knowledge Distillation: Leveraging Small Models' Expertise to Enhance LLMs in Text Matching**|Mingzhe Li et.al.|[2507.05617](http://arxiv.org/abs/2507.05617)|null|
+|**2025-07-08**|**Structured Task Solving via Modular Embodied Intelligence: A Case Study on Rubik's Cube**|Chongshan Fan et.al.|[2507.05607](http://arxiv.org/abs/2507.05607)|null|
+|**2025-07-08**|**MLlm-DR: Towards Explainable Depression Recognition with MultiModal Large Language Models**|Wei Zhang et.al.|[2507.05591](http://arxiv.org/abs/2507.05591)|null|
+|**2025-07-08**|**ReLayout: Integrating Relation Reasoning for Content-aware Layout Generation with Multi-modal Large Language Models**|Jiaxu Tian et.al.|[2507.05568](http://arxiv.org/abs/2507.05568)|null|
+|**2025-07-08**|**Enhancing Test-Time Scaling of Large Language Models with Hierarchical Retrieval-Augmented MCTS**|Alex ZH Dou et.al.|[2507.05557](http://arxiv.org/abs/2507.05557)|null|
 |**2025-07-07**|**Eka-Eval : A Comprehensive Evaluation Framework for Large Language Models in Indian Languages**|Samridhi Raj Sinha et.al.|[2507.01853](http://arxiv.org/abs/2507.01853)|null|
 |**2025-07-07**|**StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling**|Meng Wei et.al.|[2507.05240](http://arxiv.org/abs/2507.05240)|null|
 |**2025-07-07**|**The Case for Instance-Optimized LLMs in OLAP Databases**|Bardia Mohammadi et.al.|[2507.04967](http://arxiv.org/abs/2507.04967)|null|
@@ -36,6 +59,10 @@ _Updated on 2025.07.09_
 |**2025-07-07**|**VectorLLM: Human-like Extraction of Structured Building Contours vis Multimodal LLMs**|Tao Zhang et.al.|[2507.04664](http://arxiv.org/abs/2507.04664)|null|
 |**2025-07-07**|**Can Prompt Difficulty be Online Predicted for Accelerating RL Finetuning of Reasoning Models?**|Yun Qu et.al.|[2507.04632](http://arxiv.org/abs/2507.04632)|null|
 |**2025-07-07**|**Multimodal LLM Integrated Semantic Communications for 6G Immersive Experiences**|Yusong Zhang et.al.|[2507.04621](http://arxiv.org/abs/2507.04621)|null|
+|**2025-07-07**|**"Lost-in-the-Later": Framework for Quantifying Contextual Grounding in Large Language Models**|Yufei Tao et.al.|[2507.05424](http://arxiv.org/abs/2507.05424)|null|
+|**2025-07-07**|**Learn Globally, Speak Locally: Bridging the Gaps in Multilingual Reasoning**|Jaedong Hwang et.al.|[2507.05418](http://arxiv.org/abs/2507.05418)|null|
+|**2025-07-07**|**On the Bias of Next-Token Predictors Toward Systematically Inefficient Reasoning: A Shortest-Path Case Study**|Riccardo Alberghi et.al.|[2507.05362](http://arxiv.org/abs/2507.05362)|null|
+|**2025-07-07**|**MindFlow: Revolutionizing E-commerce Customer Support with Multimodal LLM Agents**|Ming Gong et.al.|[2507.05330](http://arxiv.org/abs/2507.05330)|null|
 |**2025-07-06**|**KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs**|Yuzhang Xie et.al.|[2507.02773](http://arxiv.org/abs/2507.02773)|null|
 |**2025-07-06**|**ESSA: Evolutionary Strategies for Scalable Alignment**|Daria Korotyshova et.al.|[2507.04453](http://arxiv.org/abs/2507.04453)|null|
 |**2025-07-06**|**SFOOD: A Multimodal Benchmark for Comprehensive Food Attribute Analysis Beyond RGB with Spectral Insights**|Zhenbo Xu et.al.|[2507.04412](http://arxiv.org/abs/2507.04412)|null|
@@ -57,6 +84,8 @@ _Updated on 2025.07.09_
 |**2025-07-05**|**CoT-Segmenter: Enhancing OOD Detection in Dense Road Scenes via Chain-of-Thought Reasoning**|Jeonghyo Song et.al.|[2507.03984](http://arxiv.org/abs/2507.03984)|null|
 |**2025-07-05**|**A Comparative Study of Specialized LLMs as Dense Retrievers**|Hengran Zhang et.al.|[2507.03958](http://arxiv.org/abs/2507.03958)|null|
 |**2025-07-05**|**CortexDebate: Debating Sparsely and Equally for Multi-Agent Debate**|Yiliu Sun et.al.|[2507.03928](http://arxiv.org/abs/2507.03928)|null|
+|**2025-07-05**|**Measuring how changes in code readability attributes affect code quality evaluation by Large Language Models**|Igor Regis da Silva Simoes et.al.|[2507.05289](http://arxiv.org/abs/2507.05289)|null|
+|**2025-07-05**|**A Survey on Proactive Defense Strategies Against Misinformation in Large Language Models**|Shuliang Liu et.al.|[2507.05288](http://arxiv.org/abs/2507.05288)|null|
 |**2025-07-04**|**Hunyuan-TurboS: Advancing Large Language Models through Mamba-Transformer Synergy and Adaptive Chain-of-Thought**|Tencent Hunyuan Team et.al.|[2505.15431](http://arxiv.org/abs/2505.15431)|null|
 |**2025-07-04**|**Economic Evaluation of LLMs**|Michael J. Zellinger et.al.|[2507.03834](http://arxiv.org/abs/2507.03834)|null|
 |**2025-07-04**|**Agent-Based Detection and Resolution of Incompleteness and Ambiguity in Interactions with Large Language Models**|Riya Naik et.al.|[2507.03726](http://arxiv.org/abs/2507.03726)|null|
