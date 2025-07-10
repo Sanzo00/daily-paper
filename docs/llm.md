@@ -14,6 +14,24 @@ _Updated on 2025.07.10_
 |**2025-07-09**|**Can LLMs Play Ô Ăn Quan Game? A Study of Multi-Step Planning and Decision Making**|Sang Quang Nguyen et.al.|[2507.03711](http://arxiv.org/abs/2507.03711)|null|
 |**2025-07-09**|**Skywork-R1V3 Technical Report**|Wei Shen et.al.|[2507.06167](http://arxiv.org/abs/2507.06167)|null|
 |**2025-07-09**|**FEVO: Financial Knowledge Expansion and Reasoning Evolution for Large Language Models**|Bo Pang et.al.|[2507.06057](http://arxiv.org/abs/2507.06057)|null|
+|**2025-07-09**|**SlimCaching: Edge Caching of Mixture-of-Experts for Distributed Inference**|Qian Chen et.al.|[2507.06567](http://arxiv.org/abs/2507.06567)|null|
+|**2025-07-09**|**SpindleKV: A Novel KV Cache Reduction Method Balancing Both Shallow and Deep Layers**|Zicong Tang et.al.|[2507.06517](http://arxiv.org/abs/2507.06517)|null|
+|**2025-07-09**|**Towards Multimodal Understanding via Stable Diffusion as a Task-Aware Feature Extractor**|Vatsal Agarwal et.al.|[2507.07106](http://arxiv.org/abs/2507.07106)|null|
+|**2025-07-09**|**Evaluating Large Multimodal Models for Nutrition Analysis: A Benchmark Enriched with Contextual Metadata**|Bruce Coburn et.al.|[2507.07048](http://arxiv.org/abs/2507.07048)|null|
+|**2025-07-09**|**First Return, Entropy-Eliciting Explore**|Tianyu Zheng et.al.|[2507.07017](http://arxiv.org/abs/2507.07017)|null|
+|**2025-07-09**|**Learning Deliberately, Acting Intuitively: Unlocking Test-Time Reasoning in Multimodal LLMs**|Yahan Yu et.al.|[2507.06999](http://arxiv.org/abs/2507.06999)|null|
+|**2025-07-09**|**Are They All Good? Evaluating the Quality of CoTs in LLM-based Code Generation**|Binquan Zhang et.al.|[2507.06980](http://arxiv.org/abs/2507.06980)|null|
+|**2025-07-09**|**Rethinking Verification for LLM Code Generation: From Generation to Testing**|Zihan Ma et.al.|[2507.06920](http://arxiv.org/abs/2507.06920)|null|
+|**2025-07-09**|**Squeeze the Soaked Sponge: Efficient Off-policy Reinforcement Finetuning for Large Language Model**|Jing Liang et.al.|[2507.06892](http://arxiv.org/abs/2507.06892)|null|
+|**2025-07-09**|**Shifting from Ranking to Set Selection for Retrieval Augmented Generation**|Dahyun Lee et.al.|[2507.06838](http://arxiv.org/abs/2507.06838)|null|
+|**2025-07-09**|**Adaptive Termination for Multi-round Parallel Reasoning: An Universal Semantic Entropy-Guided Framework**|Zenan Xu et.al.|[2507.06829](http://arxiv.org/abs/2507.06829)|null|
+|**2025-07-09**|**PenTest2.0: Towards Autonomous Privilege Escalation Using GenAI**|Haitham S. Al-Sinani et.al.|[2507.06742](http://arxiv.org/abs/2507.06742)|null|
+|**2025-07-09**|**A Neural Representation Framework with LLM-Driven Spatial Reasoning for Open-Vocabulary 3D Visual Grounding**|Zhenyang Liu et.al.|[2507.06719](http://arxiv.org/abs/2507.06719)|null|
+|**2025-07-09**|**From Data-Centric to Sample-Centric: Enhancing LLM Reasoning via Progressive Optimization**|Xinjie Chen et.al.|[2507.06573](http://arxiv.org/abs/2507.06573)|null|
+|**2025-07-09**|**Gradientsys: A Multi-Agent LLM Scheduler with ReAct Orchestration**|Xinyuan Song et.al.|[2507.06520](http://arxiv.org/abs/2507.06520)|null|
+|**2025-07-09**|**Towards LLM-based Root Cause Analysis of Hardware Design Failures**|Siyu Qiu et.al.|[2507.06512](http://arxiv.org/abs/2507.06512)|null|
+|**2025-07-09**|**GR-LLMs: Recent Advances in Generative Recommendation Based on Large Language Models**|Zhen Yang et.al.|[2507.06507](http://arxiv.org/abs/2507.06507)|null|
+|**2025-07-09**|**Video-RTS: Rethinking Reinforcement Learning and Test-Time Scaling for Efficient and Enhanced Video Reasoning**|Ziyang Wang et.al.|[2507.06485](http://arxiv.org/abs/2507.06485)|null|
 |**2025-07-08**|**Activation Steering for Chain-of-Thought Compression**|Seyedarmin Azizi et.al.|[2507.04742](http://arxiv.org/abs/2507.04742)|null|
 |**2025-07-08**|**MemOS: A Memory OS for AI System**|Zhiyu Li et.al.|[2507.03724](http://arxiv.org/abs/2507.03724)|null|
 |**2025-07-08**|**A Survey on Latent Reasoning**|Rui-Jie Zhu et.al.|[2507.06203](http://arxiv.org/abs/2507.06203)|null|
@@ -37,6 +55,10 @@ _Updated on 2025.07.10_
 |**2025-07-08**|**MLlm-DR: Towards Explainable Depression Recognition with MultiModal Large Language Models**|Wei Zhang et.al.|[2507.05591](http://arxiv.org/abs/2507.05591)|null|
 |**2025-07-08**|**ReLayout: Integrating Relation Reasoning for Content-aware Layout Generation with Multi-modal Large Language Models**|Jiaxu Tian et.al.|[2507.05568](http://arxiv.org/abs/2507.05568)|null|
 |**2025-07-08**|**Enhancing Test-Time Scaling of Large Language Models with Hierarchical Retrieval-Augmented MCTS**|Alex ZH Dou et.al.|[2507.05557](http://arxiv.org/abs/2507.05557)|null|
+|**2025-07-08**|**An Ensemble Embedding Approach for Improving Semantic Caching Performance in LLM-based Systems**|Shervin Ghaffari et.al.|[2507.07061](http://arxiv.org/abs/2507.07061)|null|
+|**2025-07-08**|**Perception-Aware Policy Optimization for Multimodal Reasoning**|Zhenhailong Wang et.al.|[2507.06448](http://arxiv.org/abs/2507.06448)|null|
+|**2025-07-08**|**Exploring Task Performance with Interpretable Models via Sparse Auto-Encoders**|Shun Wang et.al.|[2507.06427](http://arxiv.org/abs/2507.06427)|null|
+|**2025-07-08**|**Bridging AI and Software Security: A Comparative Vulnerability Assessment of LLM Agent Deployment Paradigms**|Tarek Gasmi et.al.|[2507.06323](http://arxiv.org/abs/2507.06323)|null|
 |**2025-07-07**|**Eka-Eval : A Comprehensive Evaluation Framework for Large Language Models in Indian Languages**|Samridhi Raj Sinha et.al.|[2507.01853](http://arxiv.org/abs/2507.01853)|null|
 |**2025-07-07**|**StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling**|Meng Wei et.al.|[2507.05240](http://arxiv.org/abs/2507.05240)|null|
 |**2025-07-07**|**The Case for Instance-Optimized LLMs in OLAP Databases**|Bardia Mohammadi et.al.|[2507.04967](http://arxiv.org/abs/2507.04967)|null|
@@ -64,6 +86,8 @@ _Updated on 2025.07.10_
 |**2025-07-07**|**Learn Globally, Speak Locally: Bridging the Gaps in Multilingual Reasoning**|Jaedong Hwang et.al.|[2507.05418](http://arxiv.org/abs/2507.05418)|null|
 |**2025-07-07**|**On the Bias of Next-Token Predictors Toward Systematically Inefficient Reasoning: A Shortest-Path Case Study**|Riccardo Alberghi et.al.|[2507.05362](http://arxiv.org/abs/2507.05362)|null|
 |**2025-07-07**|**MindFlow: Revolutionizing E-commerce Customer Support with Multimodal LLM Agents**|Ming Gong et.al.|[2507.05330](http://arxiv.org/abs/2507.05330)|null|
+|**2025-07-07**|**Towards Solving More Challenging IMO Problems via Decoupled Reasoning and Proving**|Zhenwen Liang et.al.|[2507.06804](http://arxiv.org/abs/2507.06804)|null|
+|**2025-07-07**|**DeepRetro: Retrosynthetic Pathway Discovery using Iterative LLM Reasoning**|Shreyas Vinaya Sathyanarayana et.al.|[2507.07060](http://arxiv.org/abs/2507.07060)|null|
 |**2025-07-06**|**KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs**|Yuzhang Xie et.al.|[2507.02773](http://arxiv.org/abs/2507.02773)|null|
 |**2025-07-06**|**ESSA: Evolutionary Strategies for Scalable Alignment**|Daria Korotyshova et.al.|[2507.04453](http://arxiv.org/abs/2507.04453)|null|
 |**2025-07-06**|**SFOOD: A Multimodal Benchmark for Comprehensive Food Attribute Analysis Beyond RGB with Spectral Insights**|Zhenbo Xu et.al.|[2507.04412](http://arxiv.org/abs/2507.04412)|null|
