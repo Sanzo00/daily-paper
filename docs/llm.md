@@ -6,18 +6,19 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2025.07.09_
+_Updated on 2025.07.10_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
+|**2025-07-09**|**Saffron-1: Safety Inference Scaling**|Ruizhong Qiu et.al.|[2506.06444](http://arxiv.org/abs/2506.06444)|**[link](https://github.com/q-rz/saffron)**|
+|**2025-07-09**|**Can LLMs Play Ô Ăn Quan Game? A Study of Multi-Step Planning and Decision Making**|Sang Quang Nguyen et.al.|[2507.03711](http://arxiv.org/abs/2507.03711)|null|
+|**2025-07-09**|**Skywork-R1V3 Technical Report**|Wei Shen et.al.|[2507.06167](http://arxiv.org/abs/2507.06167)|null|
+|**2025-07-09**|**FEVO: Financial Knowledge Expansion and Reasoning Evolution for Large Language Models**|Bo Pang et.al.|[2507.06057](http://arxiv.org/abs/2507.06057)|null|
 |**2025-07-08**|**Activation Steering for Chain-of-Thought Compression**|Seyedarmin Azizi et.al.|[2507.04742](http://arxiv.org/abs/2507.04742)|null|
 |**2025-07-08**|**MemOS: A Memory OS for AI System**|Zhiyu Li et.al.|[2507.03724](http://arxiv.org/abs/2507.03724)|null|
-|**2025-07-08**|**Can LLMs Play Ô Ăn Quan Game? A Study of Multi-Step Planning and Decision Making**|Sang Quang Nguyen et.al.|[2507.03711](http://arxiv.org/abs/2507.03711)|null|
 |**2025-07-08**|**A Survey on Latent Reasoning**|Rui-Jie Zhu et.al.|[2507.06203](http://arxiv.org/abs/2507.06203)|null|
-|**2025-07-08**|**Skywork-R1V3 Technical Report**|Wei Shen et.al.|[2507.06167](http://arxiv.org/abs/2507.06167)|null|
 |**2025-07-08**|**Coding Triangle: How Does Large Language Model Understand Code?**|Taolin Zhang et.al.|[2507.06138](http://arxiv.org/abs/2507.06138)|null|
 |**2025-07-08**|**PrefixAgent: An LLM-Powered Design Framework for Efficient Prefix Adder Optimization**|Dongsheng Zuo et.al.|[2507.06127](http://arxiv.org/abs/2507.06127)|null|
-|**2025-07-08**|**FEVO: Financial Knowledge Expansion and Reasoning Evolution for Large Language Models**|Bo Pang et.al.|[2507.06057](http://arxiv.org/abs/2507.06057)|null|
 |**2025-07-08**|**Hierarchical Interaction Summarization and Contrastive Prompting for Explainable Recommendations**|Yibin Liu et.al.|[2507.06044](http://arxiv.org/abs/2507.06044)|null|
 |**2025-07-08**|**Conditional Multi-Stage Failure Recovery for Embodied Agents**|Youmna Farag et.al.|[2507.06016](http://arxiv.org/abs/2507.06016)|null|
 |**2025-07-08**|**CogniSQL-R1-Zero: Lightweight Reinforced Reasoning for Efficient SQL Generation**|Kushal Gajjar et.al.|[2507.06013](http://arxiv.org/abs/2507.06013)|null|
@@ -546,7 +547,6 @@ _Updated on 2025.07.09_
 |**2025-06-08**|**Paged Attention Meets FlexAttention: Unlocking Long-Context Efficiency in Deployed Inference**|Thomas Joshi et.al.|[2506.07311](http://arxiv.org/abs/2506.07311)|null|
 |**2025-06-08**|**MiniKV: Pushing the Limits of LLM Inference via 2-Bit Layer-Discriminative KV Cache**|Akshat Sharma et.al.|[2411.18077](http://arxiv.org/abs/2411.18077)|null|
 |**2025-06-07**|**Parallel CPU-GPU Execution for LLM Inference on Constrained GPUs**|Jiakun Fan et.al.|[2506.03296](http://arxiv.org/abs/2506.03296)|null|
-|**2025-06-06**|**Saffron-1: Towards an Inference Scaling Paradigm for LLM Safety Assurance**|Ruizhong Qiu et.al.|[2506.06444](http://arxiv.org/abs/2506.06444)|**[link](https://github.com/q-rz/saffron)**|
 |**2025-06-05**|**Dynamic Context Tuning for Retrieval-Augmented Generation: Enhancing Multi-Turn Planning and Tool Adaptation**|Jubin Abhishek Soni et.al.|[2506.11092](http://arxiv.org/abs/2506.11092)|null|
 |**2025-06-05**|**Inference-Time Hyper-Scaling with KV Cache Compression**|Adrian Łańcucki et.al.|[2506.05345](http://arxiv.org/abs/2506.05345)|null|
 |**2025-06-05**|**Unleashing Hour-Scale Video Training for Long Video-Language Understanding**|Jingyang Lin et.al.|[2506.05332](http://arxiv.org/abs/2506.05332)|null|
