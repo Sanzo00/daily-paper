@@ -12,6 +12,27 @@ _Updated on 2025.07.14_
 |:-------------|:------|:--------|:----|:-----|
 |**2025-07-11**|**Squeeze the Soaked Sponge: Efficient Off-policy Reinforcement Finetuning for Large Language Model**|Jing Liang et.al.|[2507.06892](http://arxiv.org/abs/2507.06892)|null|
 |**2025-07-11**|**StarDojo: Benchmarking Open-Ended Behaviors of Agentic Multimodal LLMs in Production-Living Simulations with Stardew Valley**|Weihao Tan et.al.|[2507.07445](http://arxiv.org/abs/2507.07445)|null|
+|**2025-07-11**|**InferLog: Accelerating LLM Inference for Online Log Parsing via ICL-oriented Prefix Caching**|Yilun Wang et.al.|[2507.08523](http://arxiv.org/abs/2507.08523)|null|
+|**2025-07-11**|**xpSHACL: Explainable SHACL Validation using Retrieval-Augmented Generation and Large Language Models**|Gustavo Correa Publio et.al.|[2507.08432](http://arxiv.org/abs/2507.08432)|null|
+|**2025-07-11**|**One Token to Fool LLM-as-a-Judge**|Yulai Zhao et.al.|[2507.08794](http://arxiv.org/abs/2507.08794)|null|
+|**2025-07-11**|**ByDeWay: Boost Your multimodal LLM with DEpth prompting in a Training-Free Way**|Rajarshi Roy et.al.|[2507.08679](http://arxiv.org/abs/2507.08679)|null|
+|**2025-07-11**|**Introspection of Thought Helps AI Agents**|Haoran Sun et.al.|[2507.08664](http://arxiv.org/abs/2507.08664)|null|
+|**2025-07-11**|**Leanabell-Prover-V2: Verifier-integrated Reasoning for Formal Theorem Proving via Reinforcement Learning**|Xingguang Ji et.al.|[2507.08649](http://arxiv.org/abs/2507.08649)|null|
+|**2025-07-11**|**A comprehensive study of LLM-based argument classification: from LLAMA through GPT-4o to Deepseek-R1**|Marcin Pietroń et.al.|[2507.08621](http://arxiv.org/abs/2507.08621)|null|
+|**2025-07-11**|**Agentic Large Language Models for Conceptual Systems Engineering and Design**|Soheyl Massoudi et.al.|[2507.08619](http://arxiv.org/abs/2507.08619)|null|
+|**2025-07-11**|**AgentsNet: Coordination and Collaborative Reasoning in Multi-Agent LLMs**|Florian Grötschla et.al.|[2507.08616](http://arxiv.org/abs/2507.08616)|null|
+|**2025-07-11**|**AbbIE: Autoregressive Block-Based Iterative Encoder for Efficient Sequence Modeling**|Preslav Aleksandrov et.al.|[2507.08567](http://arxiv.org/abs/2507.08567)|null|
+|**2025-07-11**|**The AI Language Proficiency Monitor -- Tracking the Progress of LLMs on Multilingual Benchmarks**|David Pomerenke et.al.|[2507.08538](http://arxiv.org/abs/2507.08538)|null|
+|**2025-07-11**|**From Language to Logic: A Bi-Level Framework for Structured Reasoning**|Keying Yang et.al.|[2507.08501](http://arxiv.org/abs/2507.08501)|null|
+|**2025-07-11**|**LLaPa: A Vision-Language Model Framework for Counterfactual-Aware Procedural Planning**|Shibo Sun et.al.|[2507.08496](http://arxiv.org/abs/2507.08496)|null|
+|**2025-07-11**|**Using Large Language Models for Legal Decision-Making in Austrian Value-Added Tax Law: An Experimental Study**|Marina Luketina et.al.|[2507.08468](http://arxiv.org/abs/2507.08468)|null|
+|**2025-07-11**|**ChainEdit: Propagating Ripple Effects in LLM Knowledge Editing through Logical Rule-Guided Chains**|Zilu Dong et.al.|[2507.08427](http://arxiv.org/abs/2507.08427)|null|
+|**2025-07-11**|**Understanding Driving Risks using Large Language Models: Toward Elderly Driver Assessment**|Yuki Yoshihara et.al.|[2507.08367](http://arxiv.org/abs/2507.08367)|null|
+|**2025-07-11**|**What Factors Affect LLMs and RLLMs in Financial Question Answering?**|Peng Wang et.al.|[2507.08339](http://arxiv.org/abs/2507.08339)|null|
+|**2025-07-11**|**Agent Safety Alignment via Reinforcement Learning**|Zeyang Sha et.al.|[2507.08270](http://arxiv.org/abs/2507.08270)|null|
+|**2025-07-11**|**A Practical Two-Stage Recipe for Mathematical LLMs: Maximizing Accuracy with SFT and Efficiency with Reinforcement Learning**|Hiroshi Yoshihara et.al.|[2507.08267](http://arxiv.org/abs/2507.08267)|null|
+|**2025-07-11**|**InsightBuild: LLM-Powered Causal Reasoning in Smart Building Systems**|Pinaki Prasad Guha Neogi et.al.|[2507.08235](http://arxiv.org/abs/2507.08235)|null|
+|**2025-07-11**|**Making VLMs More Robot-Friendly: Self-Critical Distillation of Low-Level Procedural Reasoning**|Chan Young Park et.al.|[2507.08224](http://arxiv.org/abs/2507.08224)|null|
 |**2025-07-10**|**Parallel CPU-GPU Execution for LLM Inference on Constrained GPUs**|Jiakun Fan et.al.|[2506.03296](http://arxiv.org/abs/2506.03296)|null|
 |**2025-07-10**|**A Survey on Latent Reasoning**|Rui-Jie Zhu et.al.|[2507.06203](http://arxiv.org/abs/2507.06203)|null|
 |**2025-07-10**|**Skywork-R1V3 Technical Report**|Wei Shen et.al.|[2507.06167](http://arxiv.org/abs/2507.06167)|null|
@@ -36,6 +57,12 @@ _Updated on 2025.07.14_
 |**2025-07-10**|**RLEP: Reinforcement Learning with Experience Replay for LLM Reasoning**|Hongzhi Zhang et.al.|[2507.07451](http://arxiv.org/abs/2507.07451)|null|
 |**2025-07-10**|**SAND: Boosting LLM Agents with Self-Taught Action Deliberation**|Yu Xia et.al.|[2507.07441](http://arxiv.org/abs/2507.07441)|null|
 |**2025-07-10**|**DrugMCTS: a drug repurposing framework combining multi-agent, RAG and Monte Carlo Tree Search**|Zerui Yang et.al.|[2507.07426](http://arxiv.org/abs/2507.07426)|null|
+|**2025-07-10**|**Compactor: Calibrated Query-Agnostic KV Cache Compression with Approximate Leverage Scores**|Vivek Chari et.al.|[2507.08143](http://arxiv.org/abs/2507.08143)|null|
+|**2025-07-10**|**Krul: Efficient State Restoration for Multi-turn Conversations with Dynamic Cross-layer KV Sharing**|Junyi Wen et.al.|[2507.08045](http://arxiv.org/abs/2507.08045)|null|
+|**2025-07-10**|**Simple Mechanistic Explanations for Out-Of-Context Reasoning**|Atticus Wang et.al.|[2507.08218](http://arxiv.org/abs/2507.08218)|null|
+|**2025-07-10**|**Reasoning and Behavioral Equilibria in LLM-Nash Games: From Mindsets to Actions**|Quanyan Zhu et.al.|[2507.08208](http://arxiv.org/abs/2507.08208)|null|
+|**2025-07-10**|**CTRLS: Chain-of-Thought Reasoning via Latent State-Transition**|Junda Wu et.al.|[2507.08182](http://arxiv.org/abs/2507.08182)|null|
+|**2025-07-10**|**TableReasoner: Advancing Table Reasoning Framework with Large Language Models**|Sishi Xiong et.al.|[2507.08046](http://arxiv.org/abs/2507.08046)|null|
 |**2025-07-09**|**Saffron-1: Safety Inference Scaling**|Ruizhong Qiu et.al.|[2506.06444](http://arxiv.org/abs/2506.06444)|**[link](https://github.com/q-rz/saffron)**|
 |**2025-07-09**|**Can LLMs Play Ô Ăn Quan Game? A Study of Multi-Step Planning and Decision Making**|Sang Quang Nguyen et.al.|[2507.03711](http://arxiv.org/abs/2507.03711)|null|
 |**2025-07-09**|**FEVO: Financial Knowledge Expansion and Reasoning Evolution for Large Language Models**|Bo Pang et.al.|[2507.06057](http://arxiv.org/abs/2507.06057)|null|
@@ -58,6 +85,8 @@ _Updated on 2025.07.14_
 |**2025-07-09**|**Bridging the Plausibility-Validity Gap by Fine-Tuning a Reasoning-Enhanced LLM for Chemical Synthesis and Discovery**|Malikussaid et.al.|[2507.07328](http://arxiv.org/abs/2507.07328)|null|
 |**2025-07-09**|**Frontier LLMs Still Struggle with Simple Reasoning Tasks**|Alan Malek et.al.|[2507.07313](http://arxiv.org/abs/2507.07313)|null|
 |**2025-07-09**|**ViDove: A Translation Agent System with Multimodal Context and Memory-Augmented Reasoning**|Yichen Lu et.al.|[2507.07306](http://arxiv.org/abs/2507.07306)|null|
+|**2025-07-09**|**CRISP: Complex Reasoning with Interpretable Step-based Plans**|Matan Vetzler et.al.|[2507.08037](http://arxiv.org/abs/2507.08037)|null|
+|**2025-07-09**|**Integrating External Tools with Large Language Models to Improve Accuracy**|Nripesh Niketan et.al.|[2507.08034](http://arxiv.org/abs/2507.08034)|null|
 |**2025-07-08**|**Activation Steering for Chain-of-Thought Compression**|Seyedarmin Azizi et.al.|[2507.04742](http://arxiv.org/abs/2507.04742)|null|
 |**2025-07-08**|**MemOS: A Memory OS for AI System**|Zhiyu Li et.al.|[2507.03724](http://arxiv.org/abs/2507.03724)|null|
 |**2025-07-08**|**Coding Triangle: How Does Large Language Model Understand Code?**|Taolin Zhang et.al.|[2507.06138](http://arxiv.org/abs/2507.06138)|null|
@@ -85,6 +114,7 @@ _Updated on 2025.07.14_
 |**2025-07-08**|**Exploring Task Performance with Interpretable Models via Sparse Auto-Encoders**|Shun Wang et.al.|[2507.06427](http://arxiv.org/abs/2507.06427)|null|
 |**2025-07-08**|**Bridging AI and Software Security: A Comparative Vulnerability Assessment of LLM Agent Deployment Paradigms**|Tarek Gasmi et.al.|[2507.06323](http://arxiv.org/abs/2507.06323)|null|
 |**2025-07-08**|**Growing Transformers: Modular Composition and Layer-wise Expansion on a Frozen Substrate**|A. Bochkov et.al.|[2507.07129](http://arxiv.org/abs/2507.07129)|null|
+|**2025-07-08**|**"Amazing, They All Lean Left" -- Analyzing the Political Temperaments of Current LLMs**|W. Russell Neuman et.al.|[2507.08027](http://arxiv.org/abs/2507.08027)|null|
 |**2025-07-07**|**Eka-Eval : A Comprehensive Evaluation Framework for Large Language Models in Indian Languages**|Samridhi Raj Sinha et.al.|[2507.01853](http://arxiv.org/abs/2507.01853)|null|
 |**2025-07-07**|**StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling**|Meng Wei et.al.|[2507.05240](http://arxiv.org/abs/2507.05240)|null|
 |**2025-07-07**|**The Case for Instance-Optimized LLMs in OLAP Databases**|Bardia Mohammadi et.al.|[2507.04967](http://arxiv.org/abs/2507.04967)|null|

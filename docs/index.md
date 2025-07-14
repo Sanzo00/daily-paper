@@ -11,6 +11,9 @@ _Updated on 2025.07.14_
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
 |**2025-07-11**|**GNN-ACLP: Graph Neural Networks Based Analog Circuit Link Prediction**|Guanyuan Pan et.al.|[2504.10240](http://arxiv.org/abs/2504.10240)|null|
+|**2025-07-11**|**xpSHACL: Explainable SHACL Validation using Retrieval-Augmented Generation and Large Language Models**|Gustavo Correa Publio et.al.|[2507.08432](http://arxiv.org/abs/2507.08432)|null|
+|**2025-07-11**|**KGRAG-Ex: Explainable Retrieval-Augmented Generation with Knowledge Graph-based Perturbations**|Georgios Balanos et.al.|[2507.08443](http://arxiv.org/abs/2507.08443)|null|
+|**2025-07-11**|**CUE-RAG: Towards Accurate and Cost-Efficient Graph-Based RAG via Multi-Partite Graph and Query-Driven Iterative Retrieval**|Yaodong Su et.al.|[2507.08445](http://arxiv.org/abs/2507.08445)|null|
 |**2025-07-10**|**Long Context Scaling: Divide and Conquer via Multi-Agent Question-driven Collaboration**|Sibo Xiao et.al.|[2505.20625](http://arxiv.org/abs/2505.20625)|null|
 |**2025-07-10**|**MIRIX: Multi-Agent Memory System for LLM-Based Agents**|Yu Wang et.al.|[2507.07957](http://arxiv.org/abs/2507.07957)|null|
 |**2025-07-10**|**KeyKnowledgeRAG (K^2RAG): An Enhanced RAG method for improved LLM question-answering capabilities**|Hruday Markondapatnaikuni et.al.|[2507.07695](http://arxiv.org/abs/2507.07695)|null|
