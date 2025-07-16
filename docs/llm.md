@@ -14,6 +14,27 @@ _Updated on 2025.07.16_
 |**2025-07-15**|**VerifyBench: A Systematic Benchmark for Evaluating Reasoning Verifiers Across Domains**|Xuzhao Li et.al.|[2507.09884](http://arxiv.org/abs/2507.09884)|null|
 |**2025-07-15**|**Is Human-Written Data Enough? The Challenge of Teaching Reasoning to LLMs Without RL or Distillation**|Wei Du et.al.|[2507.09850](http://arxiv.org/abs/2507.09850)|null|
 |**2025-07-15**|**Mixture of LoRA Experts with Multi-Modal and Multi-Granularity LLM Generative Error Correction for Accented Speech Recognition**|Bingshen Mu et.al.|[2507.09116](http://arxiv.org/abs/2507.09116)|null|
+|**2025-07-15**|**MIRAGE: KV Cache Optimization through Parameter Remapping for Multi-tenant LLM Serving**|Ruihao Li et.al.|[2507.11507](http://arxiv.org/abs/2507.11507)|null|
+|**2025-07-15**|**KV-Latent: Dimensional-level KV Cache Reduction with Frequency-aware Rotary Positional Embedding**|Luohe Shi et.al.|[2507.11273](http://arxiv.org/abs/2507.11273)|null|
+|**2025-07-15**|**How Many Instructions Can LLMs Follow at Once?**|Daniel Jaroslawicz et.al.|[2507.11538](http://arxiv.org/abs/2507.11538)|null|
+|**2025-07-15**|**DrafterBench: Benchmarking Large Language Models for Tasks Automation in Civil Engineering**|Yinsheng Li et.al.|[2507.11527](http://arxiv.org/abs/2507.11527)|null|
+|**2025-07-15**|**Modeling Code: Is Text All You Need?**|Daniel Nichols et.al.|[2507.11467](http://arxiv.org/abs/2507.11467)|null|
+|**2025-07-15**|**LRMR: LLM-Driven Relational Multi-node Ranking for Lymph Node Metastasis Assessment in Rectal Cancer**|Yaoxian Dong et.al.|[2507.11457](http://arxiv.org/abs/2507.11457)|null|
+|**2025-07-15**|**Reasoning Strategies in Large Language Models: Can They Follow, Prefer, and Optimize?**|Yanjian Zhang et.al.|[2507.11423](http://arxiv.org/abs/2507.11423)|null|
+|**2025-07-15**|**KisMATH: Do LLMs Have Knowledge of Implicit Structures in Mathematical Reasoning?**|Soumadeep Saha et.al.|[2507.11408](http://arxiv.org/abs/2507.11408)|null|
+|**2025-07-15**|**DCR: Quantifying Data Contamination in LLMs Evaluation**|Cheng Xu et.al.|[2507.11405](http://arxiv.org/abs/2507.11405)|null|
+|**2025-07-15**|**Step-wise Policy for Rare-tool Knowledge (SPaRK): Offline RL that Drives Diverse Tool Use in LLMs**|Gabriel Bo et.al.|[2507.11371](http://arxiv.org/abs/2507.11371)|null|
+|**2025-07-15**|**Guiding LLM Decision-Making with Fairness Reward Models**|Zara Hall et.al.|[2507.11344](http://arxiv.org/abs/2507.11344)|null|
+|**2025-07-15**|**LRCTI: A Large Language Model-Based Framework for Multi-Step Evidence Retrieval and Reasoning in Cyber Threat Intelligence Credibility Verification**|Fengxiao Tang et.al.|[2507.11310](http://arxiv.org/abs/2507.11310)|null|
+|**2025-07-15**|**Taming Uncertainty via Automation: Observing, Analyzing, and Optimizing Agentic AI Systems**|Dany Moshkovich et.al.|[2507.11277](http://arxiv.org/abs/2507.11277)|null|
+|**2025-07-15**|**FMC: Formalization of Natural Language Mathematical Competition Problems**|Jiaxuan Xie et.al.|[2507.11275](http://arxiv.org/abs/2507.11275)|null|
+|**2025-07-15**|**An Agentic Flow for Finite State Machine Extraction using Prompt Chaining**|Fares Wael et.al.|[2507.11222](http://arxiv.org/abs/2507.11222)|null|
+|**2025-07-15**|**LLM-Augmented Symptom Analysis for Cardiovascular Disease Risk Prediction: A Clinical NLP**|Haowei Yang et.al.|[2507.11052](http://arxiv.org/abs/2507.11052)|null|
+|**2025-07-15**|**Teach Me Sign: Stepwise Prompting LLM for Sign Language Production**|Zhaoyi An et.al.|[2507.10972](http://arxiv.org/abs/2507.10972)|null|
+|**2025-07-15**|**Modeling Understanding of Story-Based Analogies Using Large Language Models**|Kalit Inani et.al.|[2507.10957](http://arxiv.org/abs/2507.10957)|null|
+|**2025-07-15**|**Artificial Finance: How AI Thinks About Money**|Orhan Erdem et.al.|[2507.10933](http://arxiv.org/abs/2507.10933)|null|
+|**2025-07-15**|**LLM-Driven Dual-Level Multi-Interest Modeling for Recommendation**|Ziyan Wang et.al.|[2507.10917](http://arxiv.org/abs/2507.10917)|null|
+|**2025-07-15**|**Evaluating Generated Commit Messages with Large Language Models**|Qunhong Zeng et.al.|[2507.10906](http://arxiv.org/abs/2507.10906)|null|
 |**2025-07-14**|**InstCache: A Predictive Cache for LLM Serving**|Longwei Zou et.al.|[2411.13820](http://arxiv.org/abs/2411.13820)|null|
 |**2025-07-14**|**DroidSpeak: KV Cache Sharing for Cross-LLM Communication and Multi-LLM Serving**|Yuhan Liu et.al.|[2411.02820](http://arxiv.org/abs/2411.02820)|null|
 |**2025-07-14**|**GR-LLMs: Recent Advances in Generative Recommendation Based on Large Language Models**|Zhen Yang et.al.|[2507.06507](http://arxiv.org/abs/2507.06507)|null|
@@ -36,6 +57,12 @@ _Updated on 2025.07.16_
 |**2025-07-14**|**DeepSeek: Paradigm Shifts and Technical Evolution in Large AI Models**|Luolin Xiong et.al.|[2507.09955](http://arxiv.org/abs/2507.09955)|null|
 |**2025-07-14**|**Mechanistic Interpretability of LoRA-Adapted Language Models for Nuclear Reactor Safety Applications**|Yoon Pyo Lee et.al.|[2507.09931](http://arxiv.org/abs/2507.09931)|null|
 |**2025-07-14**|**ViTCoT: Video-Text Interleaved Chain-of-Thought for Boosting Video Understanding in Large Language Models**|Yongheng Zhang et.al.|[2507.09876](http://arxiv.org/abs/2507.09876)|null|
+|**2025-07-14**|**Warehouse Spatial Question Answering with LLM Agent**|Hsiang-Wei Huang et.al.|[2507.10778](http://arxiv.org/abs/2507.10778)|null|
+|**2025-07-14**|**ARMOR: Aligning Secure and Safe Large Language Models via Meticulous Reasoning**|Zhengyue Zhao et.al.|[2507.11500](http://arxiv.org/abs/2507.11500)|null|
+|**2025-07-14**|**Enhancing the Capabilities of Large Language Models for API calls through Knowledge Graphs**|Ye Yang et.al.|[2507.10630](http://arxiv.org/abs/2507.10630)|null|
+|**2025-07-14**|**GHPO: Adaptive Guidance for Stable and Efficient LLM Reinforcement Learning**|Ziru Liu et.al.|[2507.10628](http://arxiv.org/abs/2507.10628)|null|
+|**2025-07-14**|**Comprehension Without Competence: Architectural Limits of LLMs in Symbolic Computation and Reasoning**|Zheng Zhang et.al.|[2507.10624](http://arxiv.org/abs/2507.10624)|null|
+|**2025-07-14**|**Game Theory Meets LLM and Agentic AI: Reimagining Cybersecurity for the Age of Intelligent Threats**|Quanyan Zhu et.al.|[2507.10621](http://arxiv.org/abs/2507.10621)|null|
 |**2025-07-13**|**Perception-Aware Policy Optimization for Multimodal Reasoning**|Zhenhailong Wang et.al.|[2507.06448](http://arxiv.org/abs/2507.06448)|null|
 |**2025-07-13**|**Prompting for Performance: Exploring LLMs for Configuring Software**|Helge Spieker et.al.|[2507.09790](http://arxiv.org/abs/2507.09790)|null|
 |**2025-07-13**|**Sound and Complete Neuro-symbolic Reasoning with LLM-Grounded Interpretations**|Bradley P. Allen et.al.|[2507.09751](http://arxiv.org/abs/2507.09751)|null|
@@ -45,6 +72,7 @@ _Updated on 2025.07.16_
 |**2025-07-13**|**AICrypto: A Comprehensive Benchmark For Evaluating Cryptography Capabilities of Large Language Models**|Yu Wang et.al.|[2507.09580](http://arxiv.org/abs/2507.09580)|null|
 |**2025-07-13**|**Reframing SAR Target Recognition as Visual Reasoning: A Chain-of-Thought Dataset with Multimodal LLMs**|Chaoran Li et.al.|[2507.09535](http://arxiv.org/abs/2507.09535)|null|
 |**2025-07-13**|**Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs**|Yangning Li et.al.|[2507.09477](http://arxiv.org/abs/2507.09477)|null|
+|**2025-07-13**|**Scalpel vs. Hammer: GRPO Amplifies Existing Capabilities, SFT Replaces Them**|Neel Rajani et.al.|[2507.10616](http://arxiv.org/abs/2507.10616)|null|
 |**2025-07-12**|**DrugMCTS: a drug repurposing framework combining multi-agent, RAG and Monte Carlo Tree Search**|Zerui Yang et.al.|[2507.07426](http://arxiv.org/abs/2507.07426)|null|
 |**2025-07-12**|**LLM-Stackelberg Games: Conjectural Reasoning Equilibria and Their Applications to Spearphishing**|Quanyan Zhu et.al.|[2507.09407](http://arxiv.org/abs/2507.09407)|null|
 |**2025-07-12**|**StockSim: A Dual-Mode Order-Level Simulator for Evaluating Multi-Agent LLMs in Financial Markets**|Charidimos Papadakis et.al.|[2507.09255](http://arxiv.org/abs/2507.09255)|null|
@@ -53,6 +81,8 @@ _Updated on 2025.07.16_
 |**2025-07-12**|**OPENXRD: A Comprehensive Benchmark and Enhancement Framework for LLM/MLLM XRD Question Answering**|Ali Vosoughi et.al.|[2507.09155](http://arxiv.org/abs/2507.09155)|null|
 |**2025-07-12**|**CompassJudger-2: Towards Generalist Judge Model via Verifiable Rewards**|Taolin Zhang et.al.|[2507.09104](http://arxiv.org/abs/2507.09104)|null|
 |**2025-07-12**|**Learning from Synthetic Labs: Language Models as Auction Participants**|Anand Shah et.al.|[2507.09083](http://arxiv.org/abs/2507.09083)|null|
+|**2025-07-12**|**Emergence of Hierarchical Emotion Organization in Large Language Models**|Bo Zhao et.al.|[2507.10599](http://arxiv.org/abs/2507.10599)|null|
+|**2025-07-12**|**PLEX: Perturbation-free Local Explanations for LLM-Based Text Classification**|Yogachandran Rahulamathavan et.al.|[2507.10596](http://arxiv.org/abs/2507.10596)|null|
 |**2025-07-11**|**Squeeze the Soaked Sponge: Efficient Off-policy Reinforcement Finetuning for Large Language Model**|Jing Liang et.al.|[2507.06892](http://arxiv.org/abs/2507.06892)|null|
 |**2025-07-11**|**StarDojo: Benchmarking Open-Ended Behaviors of Agentic Multimodal LLMs in Production-Living Simulations with Stardew Valley**|Weihao Tan et.al.|[2507.07445](http://arxiv.org/abs/2507.07445)|null|
 |**2025-07-11**|**InferLog: Accelerating LLM Inference for Online Log Parsing via ICL-oriented Prefix Caching**|Yilun Wang et.al.|[2507.08523](http://arxiv.org/abs/2507.08523)|null|
@@ -85,6 +115,8 @@ _Updated on 2025.07.16_
 |**2025-07-11**|**GraphRunner: A Multi-Stage Framework for Efficient and Accurate Graph-Based Retrieval**|Savini Kashmira et.al.|[2507.08945](http://arxiv.org/abs/2507.08945)|null|
 |**2025-07-11**|**Optimizing Sequential Multi-Step Tasks with Parallel LLM Agents**|Enhao Zhang et.al.|[2507.08944](http://arxiv.org/abs/2507.08944)|null|
 |**2025-07-11**|**From Sequence to Structure: Uncovering Substructure Reasoning in Transformers**|Xinnan Dai et.al.|[2507.10435](http://arxiv.org/abs/2507.10435)|null|
+|**2025-07-11**|**An Offline Mobile Conversational Agent for Mental Health Support: Learning from Emotional Dialogues and Psychological Texts with Student-Centered Evaluation**|Vimaleswar A et.al.|[2507.10580](http://arxiv.org/abs/2507.10580)|null|
+|**2025-07-11**|**Can Large Language Models Understand As Well As Apply Patent Regulations to Pass a Hands-On Patent Attorney Test?**|Bhakti Khera et.al.|[2507.10576](http://arxiv.org/abs/2507.10576)|null|
 |**2025-07-10**|**Parallel CPU-GPU Execution for LLM Inference on Constrained GPUs**|Jiakun Fan et.al.|[2506.03296](http://arxiv.org/abs/2506.03296)|null|
 |**2025-07-10**|**A Survey on Latent Reasoning**|Rui-Jie Zhu et.al.|[2507.06203](http://arxiv.org/abs/2507.06203)|null|
 |**2025-07-10**|**Skywork-R1V3 Technical Report**|Wei Shen et.al.|[2507.06167](http://arxiv.org/abs/2507.06167)|null|
