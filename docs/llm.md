@@ -6,21 +6,25 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2025.07.16_
+_Updated on 2025.07.17_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
+|**2025-07-16**|**Simple Mechanistic Explanations for Out-Of-Context Reasoning**|Atticus Wang et.al.|[2507.08218](http://arxiv.org/abs/2507.08218)|null|
+|**2025-07-16**|**The Challenge of Teaching Reasoning to LLMs Without RL or Distillation**|Wei Du et.al.|[2507.09850](http://arxiv.org/abs/2507.09850)|null|
+|**2025-07-16**|**Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs**|Yangning Li et.al.|[2507.09477](http://arxiv.org/abs/2507.09477)|null|
+|**2025-07-16**|**Reasoning Strategies in Large Language Models: Can They Follow, Prefer, and Optimize?**|Yanjian Zhang et.al.|[2507.11423](http://arxiv.org/abs/2507.11423)|null|
+|**2025-07-16**|**GHPO: Adaptive Guidance for Stable and Efficient LLM Reinforcement Learning**|Ziru Liu et.al.|[2507.10628](http://arxiv.org/abs/2507.10628)|null|
 |**2025-07-15**|**ContextCache: Context-Aware Semantic Cache for Multi-Turn Queries in Large Language Models**|Jianxin Yan et.al.|[2506.22791](http://arxiv.org/abs/2506.22791)|null|
 |**2025-07-15**|**VerifyBench: A Systematic Benchmark for Evaluating Reasoning Verifiers Across Domains**|Xuzhao Li et.al.|[2507.09884](http://arxiv.org/abs/2507.09884)|null|
-|**2025-07-15**|**Is Human-Written Data Enough? The Challenge of Teaching Reasoning to LLMs Without RL or Distillation**|Wei Du et.al.|[2507.09850](http://arxiv.org/abs/2507.09850)|null|
 |**2025-07-15**|**Mixture of LoRA Experts with Multi-Modal and Multi-Granularity LLM Generative Error Correction for Accented Speech Recognition**|Bingshen Mu et.al.|[2507.09116](http://arxiv.org/abs/2507.09116)|null|
+|**2025-07-15**|**Bridging Literature and the Universe Via A Multi-Agent Large Language Model System**|Xiaowen Zhang et.al.|[2507.08958](http://arxiv.org/abs/2507.08958)|null|
 |**2025-07-15**|**MIRAGE: KV Cache Optimization through Parameter Remapping for Multi-tenant LLM Serving**|Ruihao Li et.al.|[2507.11507](http://arxiv.org/abs/2507.11507)|null|
 |**2025-07-15**|**KV-Latent: Dimensional-level KV Cache Reduction with Frequency-aware Rotary Positional Embedding**|Luohe Shi et.al.|[2507.11273](http://arxiv.org/abs/2507.11273)|null|
 |**2025-07-15**|**How Many Instructions Can LLMs Follow at Once?**|Daniel Jaroslawicz et.al.|[2507.11538](http://arxiv.org/abs/2507.11538)|null|
 |**2025-07-15**|**DrafterBench: Benchmarking Large Language Models for Tasks Automation in Civil Engineering**|Yinsheng Li et.al.|[2507.11527](http://arxiv.org/abs/2507.11527)|null|
 |**2025-07-15**|**Modeling Code: Is Text All You Need?**|Daniel Nichols et.al.|[2507.11467](http://arxiv.org/abs/2507.11467)|null|
 |**2025-07-15**|**LRMR: LLM-Driven Relational Multi-node Ranking for Lymph Node Metastasis Assessment in Rectal Cancer**|Yaoxian Dong et.al.|[2507.11457](http://arxiv.org/abs/2507.11457)|null|
-|**2025-07-15**|**Reasoning Strategies in Large Language Models: Can They Follow, Prefer, and Optimize?**|Yanjian Zhang et.al.|[2507.11423](http://arxiv.org/abs/2507.11423)|null|
 |**2025-07-15**|**KisMATH: Do LLMs Have Knowledge of Implicit Structures in Mathematical Reasoning?**|Soumadeep Saha et.al.|[2507.11408](http://arxiv.org/abs/2507.11408)|null|
 |**2025-07-15**|**DCR: Quantifying Data Contamination in LLMs Evaluation**|Cheng Xu et.al.|[2507.11405](http://arxiv.org/abs/2507.11405)|null|
 |**2025-07-15**|**Step-wise Policy for Rare-tool Knowledge (SPaRK): Offline RL that Drives Diverse Tool Use in LLMs**|Gabriel Bo et.al.|[2507.11371](http://arxiv.org/abs/2507.11371)|null|
@@ -60,7 +64,6 @@ _Updated on 2025.07.16_
 |**2025-07-14**|**Warehouse Spatial Question Answering with LLM Agent**|Hsiang-Wei Huang et.al.|[2507.10778](http://arxiv.org/abs/2507.10778)|null|
 |**2025-07-14**|**ARMOR: Aligning Secure and Safe Large Language Models via Meticulous Reasoning**|Zhengyue Zhao et.al.|[2507.11500](http://arxiv.org/abs/2507.11500)|null|
 |**2025-07-14**|**Enhancing the Capabilities of Large Language Models for API calls through Knowledge Graphs**|Ye Yang et.al.|[2507.10630](http://arxiv.org/abs/2507.10630)|null|
-|**2025-07-14**|**GHPO: Adaptive Guidance for Stable and Efficient LLM Reinforcement Learning**|Ziru Liu et.al.|[2507.10628](http://arxiv.org/abs/2507.10628)|null|
 |**2025-07-14**|**Comprehension Without Competence: Architectural Limits of LLMs in Symbolic Computation and Reasoning**|Zheng Zhang et.al.|[2507.10624](http://arxiv.org/abs/2507.10624)|null|
 |**2025-07-14**|**Game Theory Meets LLM and Agentic AI: Reimagining Cybersecurity for the Age of Intelligent Threats**|Quanyan Zhu et.al.|[2507.10621](http://arxiv.org/abs/2507.10621)|null|
 |**2025-07-13**|**Perception-Aware Policy Optimization for Multimodal Reasoning**|Zhenhailong Wang et.al.|[2507.06448](http://arxiv.org/abs/2507.06448)|null|
@@ -71,7 +74,6 @@ _Updated on 2025.07.16_
 |**2025-07-13**|**Can Group Relative Policy Optimization Improve Thai Legal Reasoning and Question Answering?**|Pawitsapak Akarajaradwong et.al.|[2507.09638](http://arxiv.org/abs/2507.09638)|null|
 |**2025-07-13**|**AICrypto: A Comprehensive Benchmark For Evaluating Cryptography Capabilities of Large Language Models**|Yu Wang et.al.|[2507.09580](http://arxiv.org/abs/2507.09580)|null|
 |**2025-07-13**|**Reframing SAR Target Recognition as Visual Reasoning: A Chain-of-Thought Dataset with Multimodal LLMs**|Chaoran Li et.al.|[2507.09535](http://arxiv.org/abs/2507.09535)|null|
-|**2025-07-13**|**Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs**|Yangning Li et.al.|[2507.09477](http://arxiv.org/abs/2507.09477)|null|
 |**2025-07-13**|**Scalpel vs. Hammer: GRPO Amplifies Existing Capabilities, SFT Replaces Them**|Neel Rajani et.al.|[2507.10616](http://arxiv.org/abs/2507.10616)|null|
 |**2025-07-12**|**DrugMCTS: a drug repurposing framework combining multi-agent, RAG and Monte Carlo Tree Search**|Zerui Yang et.al.|[2507.07426](http://arxiv.org/abs/2507.07426)|null|
 |**2025-07-12**|**LLM-Stackelberg Games: Conjectural Reasoning Equilibria and Their Applications to Spearphishing**|Quanyan Zhu et.al.|[2507.09407](http://arxiv.org/abs/2507.09407)|null|
@@ -111,7 +113,6 @@ _Updated on 2025.07.16_
 |**2025-07-11**|**Infinite Video Understanding**|Dell Zhang et.al.|[2507.09068](http://arxiv.org/abs/2507.09068)|null|
 |**2025-07-11**|**ALIGN: Prompt-based Attribute Alignment for Reliable, Responsible, and Personalized LLM-based Decision-Making**|Bharadwaj Ravichandran et.al.|[2507.09037](http://arxiv.org/abs/2507.09037)|null|
 |**2025-07-11**|**How to Train a Leader: Hierarchical Reasoning in Multi-Agent LLMs**|Andrew Estornell et.al.|[2507.08960](http://arxiv.org/abs/2507.08960)|null|
-|**2025-07-11**|**Bridging Literature and the Universe Via A Multi-Agent Large Language Model System**|Xiaowen Zhang et.al.|[2507.08958](http://arxiv.org/abs/2507.08958)|null|
 |**2025-07-11**|**GraphRunner: A Multi-Stage Framework for Efficient and Accurate Graph-Based Retrieval**|Savini Kashmira et.al.|[2507.08945](http://arxiv.org/abs/2507.08945)|null|
 |**2025-07-11**|**Optimizing Sequential Multi-Step Tasks with Parallel LLM Agents**|Enhao Zhang et.al.|[2507.08944](http://arxiv.org/abs/2507.08944)|null|
 |**2025-07-11**|**From Sequence to Structure: Uncovering Substructure Reasoning in Transformers**|Xinnan Dai et.al.|[2507.10435](http://arxiv.org/abs/2507.10435)|null|
@@ -140,7 +141,6 @@ _Updated on 2025.07.16_
 |**2025-07-10**|**SAND: Boosting LLM Agents with Self-Taught Action Deliberation**|Yu Xia et.al.|[2507.07441](http://arxiv.org/abs/2507.07441)|null|
 |**2025-07-10**|**Compactor: Calibrated Query-Agnostic KV Cache Compression with Approximate Leverage Scores**|Vivek Chari et.al.|[2507.08143](http://arxiv.org/abs/2507.08143)|null|
 |**2025-07-10**|**Krul: Efficient State Restoration for Multi-turn Conversations with Dynamic Cross-layer KV Sharing**|Junyi Wen et.al.|[2507.08045](http://arxiv.org/abs/2507.08045)|null|
-|**2025-07-10**|**Simple Mechanistic Explanations for Out-Of-Context Reasoning**|Atticus Wang et.al.|[2507.08218](http://arxiv.org/abs/2507.08218)|null|
 |**2025-07-10**|**Reasoning and Behavioral Equilibria in LLM-Nash Games: From Mindsets to Actions**|Quanyan Zhu et.al.|[2507.08208](http://arxiv.org/abs/2507.08208)|null|
 |**2025-07-10**|**CTRLS: Chain-of-Thought Reasoning via Latent State-Transition**|Junda Wu et.al.|[2507.08182](http://arxiv.org/abs/2507.08182)|null|
 |**2025-07-10**|**TableReasoner: Advancing Table Reasoning Framework with Large Language Models**|Sishi Xiong et.al.|[2507.08046](http://arxiv.org/abs/2507.08046)|null|
