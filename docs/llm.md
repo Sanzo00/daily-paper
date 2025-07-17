@@ -15,6 +15,19 @@ _Updated on 2025.07.17_
 |**2025-07-16**|**Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs**|Yangning Li et.al.|[2507.09477](http://arxiv.org/abs/2507.09477)|null|
 |**2025-07-16**|**Reasoning Strategies in Large Language Models: Can They Follow, Prefer, and Optimize?**|Yanjian Zhang et.al.|[2507.11423](http://arxiv.org/abs/2507.11423)|null|
 |**2025-07-16**|**GHPO: Adaptive Guidance for Stable and Efficient LLM Reinforcement Learning**|Ziru Liu et.al.|[2507.10628](http://arxiv.org/abs/2507.10628)|null|
+|**2025-07-16**|**IAM: Efficient Inference through Attention Mapping between Different-scale LLMs**|Yi Zhao et.al.|[2507.11953](http://arxiv.org/abs/2507.11953)|null|
+|**2025-07-16**|**Assessing the Value of Visual Input: A Benchmark of Multimodal Large Language Models for Robotic Path Planning**|Jacinto Colan et.al.|[2507.12391](http://arxiv.org/abs/2507.12391)|null|
+|**2025-07-16**|**Web-Browsing LLMs Can Access Social Media Profiles and Infer User Demographics**|Meysam Alizadeh et.al.|[2507.12372](http://arxiv.org/abs/2507.12372)|null|
+|**2025-07-16**|**Thought Purity: Defense Paradigm For Chain-of-Thought Attack**|Zihao Xue et.al.|[2507.12314](http://arxiv.org/abs/2507.12314)|null|
+|**2025-07-16**|**MERA Code: A Unified Framework for Evaluating Code Generation Across Tasks**|Artem Chervyakov et.al.|[2507.12284](http://arxiv.org/abs/2507.12284)|null|
+|**2025-07-16**|**Xiangqi-R1: Enhancing Spatial Strategic Reasoning in LLMs for Chinese Chess via Reinforcement Learning**|Yuhao Chen et.al.|[2507.12215](http://arxiv.org/abs/2507.12215)|null|
+|**2025-07-16**|**Findings of MEGA: Maths Explanation with LLMs using the Socratic Method for Active Learning**|Tosin Adewumi et.al.|[2507.12079](http://arxiv.org/abs/2507.12079)|null|
+|**2025-07-16**|**Evaluating the Ability of Large Language Models to Reason about Cardinal Directions, Revisited**|Anthony G Cohn et.al.|[2507.12059](http://arxiv.org/abs/2507.12059)|null|
+|**2025-07-16**|**Aime: Towards Fully-Autonomous Multi-Agent Framework**|Yexuan Shi et.al.|[2507.11988](http://arxiv.org/abs/2507.11988)|null|
+|**2025-07-16**|**Watch, Listen, Understand, Mislead: Tri-modal Adversarial Attacks on Short Videos for Content Appropriateness Evaluation**|Sahid Hossain Mustakim et.al.|[2507.11968](http://arxiv.org/abs/2507.11968)|null|
+|**2025-07-16**|**PoTPTQ: A Two-step Power-of-Two Post-training for LLMs**|Xinyu Wang et.al.|[2507.11959](http://arxiv.org/abs/2507.11959)|null|
+|**2025-07-16**|**The benefits of query-based KGQA systems for complex and temporal questions in LLM era**|Artem Alekseev et.al.|[2507.11954](http://arxiv.org/abs/2507.11954)|null|
+|**2025-07-16**|**Hyperphantasia: A Benchmark for Evaluating the Mental Visualization Capabilities of Multimodal LLMs**|Mohammad Shahab Sepehri et.al.|[2507.11932](http://arxiv.org/abs/2507.11932)|null|
 |**2025-07-15**|**ContextCache: Context-Aware Semantic Cache for Multi-Turn Queries in Large Language Models**|Jianxin Yan et.al.|[2506.22791](http://arxiv.org/abs/2506.22791)|null|
 |**2025-07-15**|**VerifyBench: A Systematic Benchmark for Evaluating Reasoning Verifiers Across Domains**|Xuzhao Li et.al.|[2507.09884](http://arxiv.org/abs/2507.09884)|null|
 |**2025-07-15**|**Mixture of LoRA Experts with Multi-Modal and Multi-Granularity LLM Generative Error Correction for Accented Speech Recognition**|Bingshen Mu et.al.|[2507.09116](http://arxiv.org/abs/2507.09116)|null|
@@ -39,6 +52,7 @@ _Updated on 2025.07.17_
 |**2025-07-15**|**Artificial Finance: How AI Thinks About Money**|Orhan Erdem et.al.|[2507.10933](http://arxiv.org/abs/2507.10933)|null|
 |**2025-07-15**|**LLM-Driven Dual-Level Multi-Interest Modeling for Recommendation**|Ziyan Wang et.al.|[2507.10917](http://arxiv.org/abs/2507.10917)|null|
 |**2025-07-15**|**Evaluating Generated Commit Messages with Large Language Models**|Qunhong Zeng et.al.|[2507.10906](http://arxiv.org/abs/2507.10906)|null|
+|**2025-07-15**|**General Modular Harness for LLM Agents in Multi-Turn Gaming Environments**|Yuxuan Zhang et.al.|[2507.11633](http://arxiv.org/abs/2507.11633)|null|
 |**2025-07-14**|**InstCache: A Predictive Cache for LLM Serving**|Longwei Zou et.al.|[2411.13820](http://arxiv.org/abs/2411.13820)|null|
 |**2025-07-14**|**DroidSpeak: KV Cache Sharing for Cross-LLM Communication and Multi-LLM Serving**|Yuhan Liu et.al.|[2411.02820](http://arxiv.org/abs/2411.02820)|null|
 |**2025-07-14**|**GR-LLMs: Recent Advances in Generative Recommendation Based on Large Language Models**|Zhen Yang et.al.|[2507.06507](http://arxiv.org/abs/2507.06507)|null|
