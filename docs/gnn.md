@@ -10,6 +10,7 @@ _Updated on 2025.07.21_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
+|**2025-07-18**|**Binarizing Physics-Inspired GNNs for Combinatorial Optimization**|Martin Krutský et.al.|[2507.13703](http://arxiv.org/abs/2507.13703)|null|
 |**2025-07-08**|**DAFOS: Dynamic Adaptive Fanout Optimization Sampler**|Irfan Ullah et.al.|[2507.08845](http://arxiv.org/abs/2507.08845)|null|
 |**2025-06-26**|**Accelerating GNN Training through Locality-aware Dropout and Merge**|Gongjian Sun et.al.|[2506.21414](http://arxiv.org/abs/2506.21414)|null|
 |**2025-06-25**|**Demystifying Distributed Training of Graph Neural Networks for Link Prediction**|Xin Huang et.al.|[2506.20818](http://arxiv.org/abs/2506.20818)|null|
