@@ -6,12 +6,15 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2025.07.21_
+_Updated on 2025.07.22_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
+|**2025-07-21**|**A Survey of Context Engineering for Large Language Models**|Lingrui Mei et.al.|[2507.13334](http://arxiv.org/abs/2507.13334)|null|
+|**2025-07-21**|**EchoVoices: Preserving Generational Voices and Memories for Seniors and Children**|Haiying Xu et.al.|[2507.15221](http://arxiv.org/abs/2507.15221)|null|
+|**2025-07-20**|**Enhancing Repository-Level Code Generation with Call Chain-Aware Multi-View Context**|Yang Liu et.al.|[2507.14791](http://arxiv.org/abs/2507.14791)|null|
+|**2025-07-19**|**Dynamic Context Tuning for Retrieval-Augmented Generation: Enhancing Multi-Turn Planning and Tool Adaptation**|Jubin Abhishek Soni et.al.|[2506.11092](http://arxiv.org/abs/2506.11092)|null|
 |**2025-07-18**|**BifrostRAG: Bridging Dual Knowledge Graphs for Multi-Hop Question Answering in Construction Safety**|Yuxin Zhang et.al.|[2507.13625](http://arxiv.org/abs/2507.13625)|null|
-|**2025-07-17**|**A Survey of Context Engineering for Large Language Models**|Lingrui Mei et.al.|[2507.13334](http://arxiv.org/abs/2507.13334)|null|
 |**2025-07-16**|**Advancing Retrieval-Augmented Generation for Structured Enterprise and Internal Data**|Chandana Cheerla et.al.|[2507.12425](http://arxiv.org/abs/2507.12425)|null|
 |**2025-07-16**|**DyG-RAG: Dynamic Graph Retrieval-Augmented Generation with Event-Centric Reasoning**|Qingyun Sun et.al.|[2507.13396](http://arxiv.org/abs/2507.13396)|null|
 |**2025-07-15**|**DRAGON: Dynamic RAG Benchmark On News**|Fedor Chernogorskii et.al.|[2507.05713](http://arxiv.org/abs/2507.05713)|null|
@@ -96,7 +99,6 @@ _Updated on 2025.07.21_
 |**2025-06-06**|**Large Language Models are Good Relational Learners**|Fang Wu et.al.|[2506.05725](http://arxiv.org/abs/2506.05725)|null|
 |**2025-06-06**|**When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation**|Zhishang Xiang et.al.|[2506.05690](http://arxiv.org/abs/2506.05690)|**[link](https://github.com/graphrag-bench/graphrag-benchmark)**|
 |**2025-06-06**|**E^2GraphRAG: Streamlining Graph-based RAG for High Efficiency and Effectiveness**|Yibo Zhao et.al.|[2505.24226](http://arxiv.org/abs/2505.24226)|null|
-|**2025-06-05**|**Dynamic Context Tuning for Retrieval-Augmented Generation: Enhancing Multi-Turn Planning and Tool Adaptation**|Jubin Abhishek Soni et.al.|[2506.11092](http://arxiv.org/abs/2506.11092)|null|
 |**2025-06-05**|**From Standalone LLMs to Integrated Intelligence: A Survey of Compound Al Systems**|Jiayi Chen et.al.|[2506.04565](http://arxiv.org/abs/2506.04565)|null|
 |**2025-06-03**|**Beyond RAG: Reinforced Reasoning Augmented Generation for Clinical Notes**|Lo Pang-Yun Ting et.al.|[2506.05386](http://arxiv.org/abs/2506.05386)|null|
 |**2025-06-03**|**MotionRAG-Diff: A Retrieval-Augmented Diffusion Framework for Long-Term Music-to-Dance Generation**|Mingyang Huang et.al.|[2506.02661](http://arxiv.org/abs/2506.02661)|null|
