@@ -6,13 +6,16 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2025.07.22_
+_Updated on 2025.07.23_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
+|**2025-07-22**|**CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning**|Xiaoya Li et.al.|[2507.14111](http://arxiv.org/abs/2507.14111)|null|
+|**2025-07-22**|**Reasoning Models Can be Easily Hacked by Fake Reasoning Bias**|Qian Wang et.al.|[2507.13758](http://arxiv.org/abs/2507.13758)|null|
+|**2025-07-22**|**Seed-X: Building Strong Multilingual Translation LLM with 7B Parameters**|Shanbo Cheng et.al.|[2507.13618](http://arxiv.org/abs/2507.13618)|null|
+|**2025-07-22**|**Gemini 2.5 Pro Capable of Winning Gold at IMO 2025**|Yichen Huang et.al.|[2507.15855](http://arxiv.org/abs/2507.15855)|null|
+|**2025-07-22**|**X-Intelligence 3.0: Training and Evaluating Reasoning LLM for Semiconductor Display**|Xiaolin Yan et.al.|[2507.14430](http://arxiv.org/abs/2507.14430)|null|
 |**2025-07-21**|**A Survey of Context Engineering for Large Language Models**|Lingrui Mei et.al.|[2507.13334](http://arxiv.org/abs/2507.13334)|null|
-|**2025-07-21**|**CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning**|Xiaoya Li et.al.|[2507.14111](http://arxiv.org/abs/2507.14111)|null|
-|**2025-07-21**|**Gemini 2.5 Pro Capable of Winning Gold at IMO 2025**|Yichen Huang et.al.|[2507.15855](http://arxiv.org/abs/2507.15855)|null|
 |**2025-07-21**|**The Impact of Language Mixing on Bilingual LLM Reasoning**|Yihao Li et.al.|[2507.15849](http://arxiv.org/abs/2507.15849)|null|
 |**2025-07-21**|**Small LLMs Do Not Learn a Generalizable Theory of Mind via Reinforcement Learning**|Sneheel Sarangi et.al.|[2507.15788](http://arxiv.org/abs/2507.15788)|null|
 |**2025-07-21**|**Stabilizing Knowledge, Promoting Reasoning: Dual-Token Constraints for RLVR**|Jiakang Wang et.al.|[2507.15778](http://arxiv.org/abs/2507.15778)|null|
@@ -58,7 +61,6 @@ _Updated on 2025.07.22_
 |**2025-07-19**|**What do Large Language Models know about materials?**|Adrian Ehrenhofer et.al.|[2507.14586](http://arxiv.org/abs/2507.14586)|null|
 |**2025-07-19**|**Explainable Collaborative Problem Solving Diagnosis with BERT using SHAP and its Implications for Teacher Adoption**|Kester Wong et.al.|[2507.14584](http://arxiv.org/abs/2507.14584)|null|
 |**2025-07-19**|**Amico: An Event-Driven Modular Framework for Persistent and Embedded Autonomy**|Hongyi Yang et.al.|[2507.14513](http://arxiv.org/abs/2507.14513)|null|
-|**2025-07-19**|**X-Intelligence 3.0: Training and Evaluating Reasoning LLM for Semiconductor Display**|Xiaolin Yan et.al.|[2507.14430](http://arxiv.org/abs/2507.14430)|null|
 |**2025-07-18**|**LoopServe: An Adaptive Dual-phase LLM Inference Acceleration System for Multi-Turn Dialogues**|Haoyang Li et.al.|[2507.13681](http://arxiv.org/abs/2507.13681)|null|
 |**2025-07-18**|**DPMT: Dual Process Multi-scale Theory of Mind Framework for Real-time Human-AI Collaboration**|Xiyun Li et.al.|[2507.14088](http://arxiv.org/abs/2507.14088)|null|
 |**2025-07-18**|**Efficient Temporal Tokenization for Mobility Prediction with Large Language Models**|Haoyu He et.al.|[2507.14017](http://arxiv.org/abs/2507.14017)|null|
@@ -67,10 +69,8 @@ _Updated on 2025.07.22_
 |**2025-07-18**|**InTraVisTo: Inside Transformer Visualisation Tool**|Nicolò Brunello et.al.|[2507.13858](http://arxiv.org/abs/2507.13858)|null|
 |**2025-07-18**|**DistFlow: A Fully Distributed RL Framework for Scalable and Efficient LLM Post-Training**|Zhixin Wang et.al.|[2507.13833](http://arxiv.org/abs/2507.13833)|null|
 |**2025-07-18**|**Team of One: Cracking Complex Video QA with Model Synergy**|Jun Xie et.al.|[2507.13820](http://arxiv.org/abs/2507.13820)|null|
-|**2025-07-18**|**The Emperor's New Chain-of-Thought: Probing Reasoning Theater Bias in Large Reasoning Models**|Qian Wang et.al.|[2507.13758](http://arxiv.org/abs/2507.13758)|null|
 |**2025-07-18**|**Large Language Models in Cybersecurity: Applications, Vulnerabilities, and Defense Techniques**|Niveen O. Jaffal et.al.|[2507.13629](http://arxiv.org/abs/2507.13629)|null|
 |**2025-07-18**|**BifrostRAG: Bridging Dual Knowledge Graphs for Multi-Hop Question Answering in Construction Safety**|Yuxin Zhang et.al.|[2507.13625](http://arxiv.org/abs/2507.13625)|null|
-|**2025-07-18**|**Seed-X: Building Strong Multilingual Translation LLM with 7B Parameters**|Shanbo Cheng et.al.|[2507.13618](http://arxiv.org/abs/2507.13618)|null|
 |**2025-07-18**|**Fail Fast, or Ask: Mitigating the Deficiencies of Reasoning LLMs with Human-in-the-Loop Systems Engineering**|Michael J. Zellinger et.al.|[2507.14406](http://arxiv.org/abs/2507.14406)|null|
 |**2025-07-18**|**NPUEval: Optimizing NPU Kernels with LLMs and Open Source Compilers**|Sarunas Kalade et.al.|[2507.14403](http://arxiv.org/abs/2507.14403)|null|
 |**2025-07-18**|**NetIntent: Leveraging Large Language Models for End-to-End Intent-Based SDN Automation**|Md. Kamrul Hossain et.al.|[2507.14398](http://arxiv.org/abs/2507.14398)|null|

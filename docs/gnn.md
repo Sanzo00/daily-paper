@@ -6,10 +6,11 @@ nav_order: 3
 
 # GNN Papers
 
-_Updated on 2025.07.22_
+_Updated on 2025.07.23_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
+|**2025-07-21**|**Learning nuclear cross sections across the chart of nuclides with graph neural networks**|Hongjun Choi et.al.|[2404.02332](http://arxiv.org/abs/2404.02332)|null|
 |**2025-07-18**|**Binarizing Physics-Inspired GNNs for Combinatorial Optimization**|Martin Krutský et.al.|[2507.13703](http://arxiv.org/abs/2507.13703)|null|
 |**2025-07-08**|**DAFOS: Dynamic Adaptive Fanout Optimization Sampler**|Irfan Ullah et.al.|[2507.08845](http://arxiv.org/abs/2507.08845)|null|
 |**2025-06-26**|**Accelerating GNN Training through Locality-aware Dropout and Merge**|Gongjian Sun et.al.|[2506.21414](http://arxiv.org/abs/2506.21414)|null|
@@ -45,7 +46,6 @@ _Updated on 2025.07.22_
 |**2025-02-24**|**Detecting Code Vulnerabilities with Heterogeneous GNN Training**|Yu Luo et.al.|[2502.16835](http://arxiv.org/abs/2502.16835)|null|
 |**2025-02-23**|**Subsampling Graphs with GNN Performance Guarantees**|Mika Sarkin Jain et.al.|[2502.16703](http://arxiv.org/abs/2502.16703)|null|
 |**2025-02-21**|**Virtual Nodes Can Help: Tackling Distribution Shifts in Federated Graph Learning**|Xingbo Fu et.al.|[2412.19229](http://arxiv.org/abs/2412.19229)|**[link](https://github.com/xbfu/FedVN)**|
-|**2025-02-19**|**Learning nuclear cross sections across the chart of nuclides with graph neural networks**|Sinjini Mitra et.al.|[2404.02332](http://arxiv.org/abs/2404.02332)|null|
 |**2025-02-18**|**Unveiling Mode Connectivity in Graph Neural Networks**|Bingheng Li et.al.|[2502.12608](http://arxiv.org/abs/2502.12608)|null|
 |**2025-02-15**|**A Distillation-based Future-aware Graph Neural Network for Stock Trend Prediction**|Zhipeng Liu et.al.|[2502.10776](http://arxiv.org/abs/2502.10776)|null|
 |**2025-02-15**|**DiskGNN: Bridging I/O Efficiency and Model Accuracy for Out-of-Core GNN Training**|Renjie Liu et.al.|[2405.05231](http://arxiv.org/abs/2405.05231)|null|
