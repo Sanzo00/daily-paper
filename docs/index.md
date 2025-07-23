@@ -10,8 +10,11 @@ _Updated on 2025.07.23_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
+|**2025-07-22**|**Experience is the Best Teacher: Grounding VLMs for Robotics through Self-Generated Memory**|Guowei Lan et.al.|[2507.16713](http://arxiv.org/abs/2507.16713)|null|
+|**2025-07-22**|**Agentic RAG with Knowledge Graphs for Complex Multi-Hop Reasoning in Real-World Applications**|Jean Lelong et.al.|[2507.16507](http://arxiv.org/abs/2507.16507)|null|
 |**2025-07-21**|**A Survey of Context Engineering for Large Language Models**|Lingrui Mei et.al.|[2507.13334](http://arxiv.org/abs/2507.13334)|null|
 |**2025-07-21**|**EchoVoices: Preserving Generational Voices and Memories for Seniors and Children**|Haiying Xu et.al.|[2507.15221](http://arxiv.org/abs/2507.15221)|null|
+|**2025-07-21**|**mRAKL: Multilingual Retrieval-Augmented Knowledge Graph Construction for Low-Resourced Languages**|Hellina Hailu Nigatu et.al.|[2507.16011](http://arxiv.org/abs/2507.16011)|null|
 |**2025-07-20**|**Enhancing Repository-Level Code Generation with Call Chain-Aware Multi-View Context**|Yang Liu et.al.|[2507.14791](http://arxiv.org/abs/2507.14791)|null|
 |**2025-07-19**|**Dynamic Context Tuning for Retrieval-Augmented Generation: Enhancing Multi-Turn Planning and Tool Adaptation**|Jubin Abhishek Soni et.al.|[2506.11092](http://arxiv.org/abs/2506.11092)|null|
 |**2025-07-18**|**BifrostRAG: Bridging Dual Knowledge Graphs for Multi-Hop Question Answering in Construction Safety**|Yuxin Zhang et.al.|[2507.13625](http://arxiv.org/abs/2507.13625)|null|

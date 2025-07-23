@@ -15,6 +15,23 @@ _Updated on 2025.07.23_
 |**2025-07-22**|**Seed-X: Building Strong Multilingual Translation LLM with 7B Parameters**|Shanbo Cheng et.al.|[2507.13618](http://arxiv.org/abs/2507.13618)|null|
 |**2025-07-22**|**Gemini 2.5 Pro Capable of Winning Gold at IMO 2025**|Yichen Huang et.al.|[2507.15855](http://arxiv.org/abs/2507.15855)|null|
 |**2025-07-22**|**X-Intelligence 3.0: Training and Evaluating Reasoning LLM for Semiconductor Display**|Xiaolin Yan et.al.|[2507.14430](http://arxiv.org/abs/2507.14430)|null|
+|**2025-07-22**|**Beyond Context Limits: Subconscious Threads for Long-Horizon Reasoning**|Hongyin Luo et.al.|[2507.16784](http://arxiv.org/abs/2507.16784)|null|
+|**2025-07-22**|**WGRAMMAR: Leverage Prior Knowledge to Accelerate Structured Decoding**|Ran Wang et.al.|[2507.16768](http://arxiv.org/abs/2507.16768)|null|
+|**2025-07-22**|**Towards Compute-Optimal Many-Shot In-Context Learning**|Shahriar Golchin et.al.|[2507.16217](http://arxiv.org/abs/2507.16217)|null|
+|**2025-07-22**|**ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning**|Chi-Pin Huang et.al.|[2507.16815](http://arxiv.org/abs/2507.16815)|null|
+|**2025-07-22**|**LingBench++: A Linguistically-Informed Benchmark and Reasoning Framework for Multi-Step and Cross-Cultural Inference with LLMs**|Da-Chen Lian et.al.|[2507.16809](http://arxiv.org/abs/2507.16809)|null|
+|**2025-07-22**|**Agentar-Fin-R1: Enhancing Financial Intelligence through Domain Expertise, Training Efficiency, and Advanced Reasoning**|Yanjun Zheng et.al.|[2507.16802](http://arxiv.org/abs/2507.16802)|null|
+|**2025-07-22**|**When LLMs Copy to Think: Uncovering Copy-Guided Attacks in Reasoning LLMs**|Yue Li et.al.|[2507.16773](http://arxiv.org/abs/2507.16773)|null|
+|**2025-07-22**|**P-CoT: A Pedagogically-motivated Participatory Chain-of-Thought Prompting for Phonological Reasoning in LLMs**|Dongjun Jang et.al.|[2507.16656](http://arxiv.org/abs/2507.16656)|null|
+|**2025-07-22**|**Agentic RAG with Knowledge Graphs for Complex Multi-Hop Reasoning in Real-World Applications**|Jean Lelong et.al.|[2507.16507](http://arxiv.org/abs/2507.16507)|null|
+|**2025-07-22**|**Learning Temporal Abstractions via Variational Homomorphisms in Option-Induced Abstract MDPs**|Chang Li et.al.|[2507.16473](http://arxiv.org/abs/2507.16473)|null|
+|**2025-07-22**|**LLM-Driven Collaborative Model for Untangling Commits via Explicit and Implicit Dependency Reasoning**|Bo Hou et.al.|[2507.16395](http://arxiv.org/abs/2507.16395)|null|
+|**2025-07-22**|**Re:Form -- Reducing Human Priors in Scalable Formal Software Verification with RL in LLMs: A Preliminary Study on Dafny**|Chuanhao Yan et.al.|[2507.16331](http://arxiv.org/abs/2507.16331)|null|
+|**2025-07-22**|**Mind the Gap: Evaluating the Representativeness of Quantitative Medical Language Reasoning LLM Benchmarks for African Disease Burdens**|Fred Mutisya et.al.|[2507.16322](http://arxiv.org/abs/2507.16322)|null|
+|**2025-07-22**|**Perovskite-R1: A Domain-Specialized LLM for Intelligent Discovery of Precursor Additives and Experimental Design**|Xin-De Wang et.al.|[2507.16307](http://arxiv.org/abs/2507.16307)|null|
+|**2025-07-22**|**WakenLLM: A Fine-Grained Benchmark for Evaluating LLM Reasoning Potential and Reasoning Process Stability**|Zipeng Ling et.al.|[2507.16199](http://arxiv.org/abs/2507.16199)|null|
+|**2025-07-22**|**Do Large Language Models Have a Planning Theory of Mind? Evidence from MindGames: a Multi-Step Persuasion Task**|Jared Moore et.al.|[2507.16196](http://arxiv.org/abs/2507.16196)|null|
+|**2025-07-22**|**Emergent Cognitive Convergence via Implementation: A Structured Loop Reflecting Four Theories of Mind (A Position Paper)**|Myung Ho Kim et.al.|[2507.16184](http://arxiv.org/abs/2507.16184)|null|
 |**2025-07-21**|**A Survey of Context Engineering for Large Language Models**|Lingrui Mei et.al.|[2507.13334](http://arxiv.org/abs/2507.13334)|null|
 |**2025-07-21**|**The Impact of Language Mixing on Bilingual LLM Reasoning**|Yihao Li et.al.|[2507.15849](http://arxiv.org/abs/2507.15849)|null|
 |**2025-07-21**|**Small LLMs Do Not Learn a Generalizable Theory of Mind via Reinforcement Learning**|Sneheel Sarangi et.al.|[2507.15788](http://arxiv.org/abs/2507.15788)|null|
@@ -37,6 +54,11 @@ _Updated on 2025.07.23_
 |**2025-07-21**|**SPAR: Scholar Paper Retrieval with LLM-based Agents for Enhanced Academic Search**|Xiaofeng Shi et.al.|[2507.15245](http://arxiv.org/abs/2507.15245)|null|
 |**2025-07-21**|**FaultLine: Automated Proof-of-Vulnerability Generation Using LLM Agents**|Vikram Nitin et.al.|[2507.15241](http://arxiv.org/abs/2507.15241)|null|
 |**2025-07-21**|**Solving Formal Math Problems by Decomposition and Iterative Reflection**|Yichi Zhou et.al.|[2507.15225](http://arxiv.org/abs/2507.15225)|null|
+|**2025-07-21**|**Expert-Guided LLM Reasoning for Battery Discovery: From AI-Driven Hypothesis to Synthesis and Characterization**|Shengchao Liu et.al.|[2507.16110](http://arxiv.org/abs/2507.16110)|null|
+|**2025-07-21**|**Deep Researcher with Test-Time Diffusion**|Rujun Han et.al.|[2507.16075](http://arxiv.org/abs/2507.16075)|null|
+|**2025-07-21**|**Learning without training: The implicit dynamics of in-context learning**|Benoit Dherin et.al.|[2507.16003](http://arxiv.org/abs/2507.16003)|null|
+|**2025-07-21**|**Does More Inference-Time Compute Really Help Robustness?**|Tong Wu et.al.|[2507.15974](http://arxiv.org/abs/2507.15974)|null|
+|**2025-07-21**|**HyDRA: A Hybrid-Driven Reasoning Architecture for Verifiable Knowledge Graphs**|Adrian Kaiser et.al.|[2507.15917](http://arxiv.org/abs/2507.15917)|null|
 |**2025-07-20**|**Lizard: An Efficient Linearization Framework for Large Language Models**|Chien Van Nguyen et.al.|[2507.09025](http://arxiv.org/abs/2507.09025)|null|
 |**2025-07-20**|**Time-RA: Towards Time Series Reasoning for Anomaly with LLM Feedback**|Yiyuan Yang et.al.|[2507.15066](http://arxiv.org/abs/2507.15066)|null|
 |**2025-07-20**|**WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization**|Zhengwei Tao et.al.|[2507.15061](http://arxiv.org/abs/2507.15061)|null|
@@ -100,6 +122,7 @@ _Updated on 2025.07.23_
 |**2025-07-17**|**Revisiting Prompt Engineering: A Comprehensive Evaluation for LLM-based Personalized Recommendation**|Genki Kusano et.al.|[2507.13525](http://arxiv.org/abs/2507.13525)|null|
 |**2025-07-17**|**Paper Summary Attack: Jailbreaking LLMs through LLM Safety Papers**|Liang Lin et.al.|[2507.13474](http://arxiv.org/abs/2507.13474)|null|
 |**2025-07-17**|**Intent-Based Network for RAN Management with Large Language Models**|Fransiscus Asisi Bimo et.al.|[2507.14230](http://arxiv.org/abs/2507.14230)|null|
+|**2025-07-17**|**Why Braking? Scenario Extraction and Reasoning Utilizing LLM**|Yin Wu et.al.|[2507.15874](http://arxiv.org/abs/2507.15874)|null|
 |**2025-07-16**|**Simple Mechanistic Explanations for Out-Of-Context Reasoning**|Atticus Wang et.al.|[2507.08218](http://arxiv.org/abs/2507.08218)|null|
 |**2025-07-16**|**The Challenge of Teaching Reasoning to LLMs Without RL or Distillation**|Wei Du et.al.|[2507.09850](http://arxiv.org/abs/2507.09850)|null|
 |**2025-07-16**|**Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs**|Yangning Li et.al.|[2507.09477](http://arxiv.org/abs/2507.09477)|null|
