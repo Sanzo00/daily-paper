@@ -10,6 +10,9 @@ _Updated on 2025.07.24_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
+|**2025-07-23**|**HypoChainer: A Collaborative System Combining LLMs and Knowledge Graphs for Hypothesis-Driven Scientific Discovery**|Haoran Jiang et.al.|[2507.17209](http://arxiv.org/abs/2507.17209)|null|
+|**2025-07-23**|**Millions of $\text{GeAR}$-s: Extending GraphRAG to Millions of Documents**|Zhili Shen et.al.|[2507.17399](http://arxiv.org/abs/2507.17399)|null|
+|**2025-07-23**|**Threshold-Protected Searchable Sharing: Privacy Preserving Aggregated-ANN Search for Collaborative RAG**|Ruoyang Rykie Guo et.al.|[2507.17199](http://arxiv.org/abs/2507.17199)|null|
 |**2025-07-22**|**Experience is the Best Teacher: Grounding VLMs for Robotics through Self-Generated Memory**|Guowei Lan et.al.|[2507.16713](http://arxiv.org/abs/2507.16713)|null|
 |**2025-07-22**|**Agentic RAG with Knowledge Graphs for Complex Multi-Hop Reasoning in Real-World Applications**|Jean Lelong et.al.|[2507.16507](http://arxiv.org/abs/2507.16507)|null|
 |**2025-07-21**|**A Survey of Context Engineering for Large Language Models**|Lingrui Mei et.al.|[2507.13334](http://arxiv.org/abs/2507.13334)|null|
@@ -40,6 +43,7 @@ _Updated on 2025.07.24_
 |**2025-07-08**|**KERAG_R: Knowledge-Enhanced Retrieval-Augmented Generation for Recommendation**|Zeyuan Meng et.al.|[2507.05863](http://arxiv.org/abs/2507.05863)|null|
 |**2025-07-07**|**Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions**|Yuanzhe Hu et.al.|[2507.05257](http://arxiv.org/abs/2507.05257)|null|
 |**2025-07-07**|**DRAE: Dynamic Retrieval-Augmented Expert Networks for Lifelong Learning and Task Adaptation in Robotics**|Yayu Long et.al.|[2507.04661](http://arxiv.org/abs/2507.04661)|null|
+|**2025-07-07**|**A Query-Aware Multi-Path Knowledge Graph Fusion Approach for Enhancing Retrieval-Augmented Generation in Large Language Models**|Qikai Wei et.al.|[2507.16826](http://arxiv.org/abs/2507.16826)|null|
 |**2025-07-06**|**Multi-Modal Semantic Parsing for the Interpretation of Tombstone Inscriptions**|Xiao Zhang et.al.|[2507.04377](http://arxiv.org/abs/2507.04377)|null|
 |**2025-07-05**|**Frustratingly Simple Retrieval Improves Challenging, Reasoning-Intensive Benchmarks**|Xinxi Lyu et.al.|[2507.01297](http://arxiv.org/abs/2507.01297)|null|
 |**2025-07-05**|**BYOKG-RAG: Multi-Strategy Graph Retrieval for Knowledge Graph Question Answering**|Costas Mavromatis et.al.|[2507.04127](http://arxiv.org/abs/2507.04127)|null|

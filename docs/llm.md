@@ -17,6 +17,24 @@ _Updated on 2025.07.24_
 |**2025-07-23**|**Agentar-Fin-R1: Enhancing Financial Intelligence through Domain Expertise, Training Efficiency, and Advanced Reasoning**|Yanjun Zheng et.al.|[2507.16802](http://arxiv.org/abs/2507.16802)|null|
 |**2025-07-23**|**WAKENLLM: Evaluating Reasoning Potential and Stability in LLMs via Fine-Grained Benchmarking**|Zipeng Ling et.al.|[2507.16199](http://arxiv.org/abs/2507.16199)|null|
 |**2025-07-23**|**HyDRA: A Hybrid-Driven Reasoning Architecture for Verifiable Knowledge Graphs**|Adrian Kaiser et.al.|[2507.15917](http://arxiv.org/abs/2507.15917)|null|
+|**2025-07-23**|**Thinking Isn't an Illusion: Overcoming the Limitations of Reasoning Models via Tool Augmentations**|Zhao Song et.al.|[2507.17699](http://arxiv.org/abs/2507.17699)|null|
+|**2025-07-23**|**Symbiotic Agents: A Novel Paradigm for Trustworthy AGI-driven Networks**|Ilias Chatzistefanidis et.al.|[2507.17695](http://arxiv.org/abs/2507.17695)|null|
+|**2025-07-23**|**CodeReasoner: Enhancing the Code Reasoning Ability with Reinforcement Learning**|Lingxiao Tang et.al.|[2507.17548](http://arxiv.org/abs/2507.17548)|null|
+|**2025-07-23**|**Can One Domain Help Others? A Data-Centric Study on Multi-Domain Reasoning via Reinforcement Learning**|Yu Li et.al.|[2507.17512](http://arxiv.org/abs/2507.17512)|null|
+|**2025-07-23**|**An Uncertainty-Driven Adaptive Self-Alignment Framework for Large Language Models**|Haoran Sun et.al.|[2507.17477](http://arxiv.org/abs/2507.17477)|null|
+|**2025-07-23**|**MultiNRC: A Challenging and Native Multilingual Reasoning Evaluation Benchmark for LLMs**|Alexander R. Fabbri et.al.|[2507.17476](http://arxiv.org/abs/2507.17476)|null|
+|**2025-07-23**|**Reasoning-Driven Retrosynthesis Prediction with Large Language Models via Reinforcement Learning**|Situo Zhang et.al.|[2507.17448](http://arxiv.org/abs/2507.17448)|null|
+|**2025-07-23**|**HiProbe-VAD: Video Anomaly Detection via Hidden States Probing in Tuning-Free Multimodal LLMs**|Zhaolin Cai et.al.|[2507.17394](http://arxiv.org/abs/2507.17394)|null|
+|**2025-07-23**|**DynaSearcher: Dynamic Knowledge Graph Augmented Search Agent via Multi-Reward Reinforcement Learning**|Chuzhan Hao et.al.|[2507.17365](http://arxiv.org/abs/2507.17365)|null|
+|**2025-07-23**|**R-Stitch: Dynamic Trajectory Stitching for Efficient Reasoning**|Zhuokun Chen et.al.|[2507.17307](http://arxiv.org/abs/2507.17307)|null|
+|**2025-07-23**|**Triple X: A LLM-Based Multilingual Speech Recognition System for the INTERSPEECH2025 MLC-SLM Challenge**|Miaomiao Gao et.al.|[2507.17288](http://arxiv.org/abs/2507.17288)|null|
+|**2025-07-23**|**Leveraging Knowledge Graphs and LLM Reasoning to Identify Operational Bottlenecks for Warehouse Planning Assistance**|Rishi Parekh et.al.|[2507.17273](http://arxiv.org/abs/2507.17273)|null|
+|**2025-07-23**|**Agent Identity Evals: Measuring Agentic Identity**|Elija Perrier et.al.|[2507.17257](http://arxiv.org/abs/2507.17257)|null|
+|**2025-07-23**|**R4ec: A Reasoning, Reflection, and Refinement Framework for Recommendation Systems**|Hao Gu et.al.|[2507.17249](http://arxiv.org/abs/2507.17249)|null|
+|**2025-07-23**|**HypoChainer: A Collaborative System Combining LLMs and Knowledge Graphs for Hypothesis-Driven Scientific Discovery**|Haoran Jiang et.al.|[2507.17209](http://arxiv.org/abs/2507.17209)|null|
+|**2025-07-23**|**Improving LLMs' Generalized Reasoning Abilities by Graph Problems**|Qifan Zhang et.al.|[2507.17168](http://arxiv.org/abs/2507.17168)|null|
+|**2025-07-23**|**CogDual: Enhancing Dual Cognition of LLMs via Reinforcement Learning with Implicit Rule-Based Rewards**|Cheng Liu et.al.|[2507.17147](http://arxiv.org/abs/2507.17147)|null|
+|**2025-07-23**|**Resilient Multi-Agent Negotiation for Medical Supply Chains:Integrating LLMs and Blockchain for Transparent Coordination**|Mariam ALMutairi et.al.|[2507.17134](http://arxiv.org/abs/2507.17134)|null|
 |**2025-07-22**|**CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning**|Xiaoya Li et.al.|[2507.14111](http://arxiv.org/abs/2507.14111)|null|
 |**2025-07-22**|**Reasoning Models Can be Easily Hacked by Fake Reasoning Bias**|Qian Wang et.al.|[2507.13758](http://arxiv.org/abs/2507.13758)|null|
 |**2025-07-22**|**Seed-X: Building Strong Multilingual Translation LLM with 7B Parameters**|Shanbo Cheng et.al.|[2507.13618](http://arxiv.org/abs/2507.13618)|null|
@@ -37,6 +55,11 @@ _Updated on 2025.07.24_
 |**2025-07-22**|**Perovskite-R1: A Domain-Specialized LLM for Intelligent Discovery of Precursor Additives and Experimental Design**|Xin-De Wang et.al.|[2507.16307](http://arxiv.org/abs/2507.16307)|null|
 |**2025-07-22**|**Do Large Language Models Have a Planning Theory of Mind? Evidence from MindGames: a Multi-Step Persuasion Task**|Jared Moore et.al.|[2507.16196](http://arxiv.org/abs/2507.16196)|null|
 |**2025-07-22**|**Emergent Cognitive Convergence via Implementation: A Structured Loop Reflecting Four Theories of Mind (A Position Paper)**|Myung Ho Kim et.al.|[2507.16184](http://arxiv.org/abs/2507.16184)|null|
+|**2025-07-22**|**LoRA is All You Need for Safety Alignment of Reasoning LLMs**|Yihao Xue et.al.|[2507.17075](http://arxiv.org/abs/2507.17075)|null|
+|**2025-07-22**|**Controllable Hybrid Captioner for Improved Long-form Video Understanding**|Kuleen Sasse et.al.|[2507.17047](http://arxiv.org/abs/2507.17047)|null|
+|**2025-07-22**|**Text-to-SPARQL Goes Beyond English: Multilingual Question Answering Over Knowledge Graphs through Human-Inspired Reasoning**|Aleksandr Perevalov et.al.|[2507.16971](http://arxiv.org/abs/2507.16971)|null|
+|**2025-07-22**|**AURA: A Multi-Modal Medical Agent for Understanding, Reasoning & Annotation**|Nima Fathi et.al.|[2507.16940](http://arxiv.org/abs/2507.16940)|null|
+|**2025-07-22**|**CausalStep: A Benchmark for Explicit Stepwise Causal Reasoning in Videos**|Xuchen Li et.al.|[2507.16878](http://arxiv.org/abs/2507.16878)|null|
 |**2025-07-21**|**A Survey of Context Engineering for Large Language Models**|Lingrui Mei et.al.|[2507.13334](http://arxiv.org/abs/2507.13334)|null|
 |**2025-07-21**|**The Impact of Language Mixing on Bilingual LLM Reasoning**|Yihao Li et.al.|[2507.15849](http://arxiv.org/abs/2507.15849)|null|
 |**2025-07-21**|**Small LLMs Do Not Learn a Generalizable Theory of Mind via Reinforcement Learning**|Sneheel Sarangi et.al.|[2507.15788](http://arxiv.org/abs/2507.15788)|null|
