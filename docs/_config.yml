@@ -17,7 +17,7 @@ remote_theme: just-the-docs/just-the-docs
 #   logo_url: https://github.com/Sanzo00/daily-paper
 #   search_enabled: false
 #   heading_anchors: true
-  
+
 
 # Plugins
 plugins:

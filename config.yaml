@@ -17,7 +17,7 @@ md_gitpage_path: './docs/index.md'
 
 # keywords to search
 keywords:
-    
+
     "RAG":
         logic: AND
         filters:
@@ -44,7 +44,7 @@ keywords:
     "GNN":
         filters: [
             "GNN Training", "Distributed GNN", "Sample-based GNN Training", "Full-Graph GNN Training",
-            "Large-scale Graph Neural Network", "GNN System Optimization", "GNN Partitioning", 
+            "Large-scale Graph Neural Network", "GNN System Optimization", "GNN Partitioning",
             "Graph Training Pipeline", "Graph Training Parallelism", "GNN Scheduling", "GNN Training Evaluation",
             "Hybrid CPU-GPU GNN Training", "GNN Communication Optimization", "Graph Neural Network Serving"
         ]
