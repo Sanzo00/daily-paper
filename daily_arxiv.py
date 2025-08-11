@@ -7,6 +7,7 @@ import logging
 import argparse
 import datetime
 import requests
+import time
 
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
@@ -74,7 +75,6 @@ def sort_papers(papers):
     for key in keys:
         output[key] = papers[key]
     return output    
-import requests
 
 def get_code_link(qword:str) -> str:
     """
@@ -97,6 +97,92 @@ def get_code_link(qword:str) -> str:
         code_link = results["items"][0]["html_url"]
     return code_link
   
+
+
+
+
+# 常见会议简称（按领域分组；尽量去重）
+CONFS_BY_FIELD = {
+    # 数据库 / 数据挖掘 / 信息检索
+    "DB/DM/IR": [
+        "SIGMOD","VLDB","ICDE","PODS","CIDR",
+        "KDD","ICDM","SDM","PAKDD","ECML-PKDD","RecSys",
+        "SIGIR","CIKM","WSDM","ECIR","EDBT","DASFAA","ISWC","ICDT","WAIM","SSDBM","SSTD","WebDB","WISE","MDM","ADMA","APWeb"
+    ],
+    # 人工智能 / 机器学习 / NLP / CV / 机器人
+    "AI/ML/NLP/CV/Robotics": [
+        "AAAI","IJCAI","NeurIPS","NIPS","ICML","ICLR","AISTATS","UAI","COLT","ALT",
+        "ACL","EMNLP","NAACL","EACL","COLING","TACL","CoNLL","NLPCC","ACML",
+        "CVPR","ICCV","ECCV","BMVC","ACCV",
+        "ICRA","IROS","FG","ICPR","IJCB"
+    ],
+    # 体系结构 / 并行与分布式 / 操作系统 / 编程语言 / 软件工程 / 系统
+    "Systems/PL/SE/Arch": [
+        "ASPLOS","ISCA","MICRO","HPCA","SC","PPoPP","FAST","DAC","ATC","EuroSys","USENIX ATC","VEE","SOCC",
+        "OSDI","SOSP","HotOS","HotStorage","HotEdge","Middleware","LISA",
+        "PLDI","POPL","OOPSLA","ICFP","SAS","VMCAI","LCTES","CGO","PACT","HiPEAC","SPAA","PODC","ICS","ICPP","IPDPS","HPDC","CLUSTER","Euro-Par","HiPC","ICDCS","MSST","RTAS","Performance","VEE","DATE","FPGA","CODES+ISSS","CASES","ASP-DAC","FPT","ISPASS"
+    ],
+    # 计算机网络
+    "Networking": [
+        "SIGCOMM","NSDI","INFOCOM","MobiCom","CoNEXT","SenSys","IPSN","IMC",
+        "MobiSys","ICNP","MobiHoc","IWQoS","SECON","NOSSDAV","APNet","HotNets","WCNC","GLOBECOM","ICC","LCN","Networking","WoWMoM","ANCS","APNOMS"
+    ],
+    # 网络与信息安全 / 密码学 / 可靠性
+    "Security/Crypto": [
+        "S&P","IEEE S&P","Oakland","USENIX Security","CCS","NDSS",
+        "CRYPTO","EUROCRYPT","ASIACRYPT","TCC","PKC","FSE","CHES",
+        "RAID","DSN","SRDS","PETS","CSFW","EuroS&P"
+    ],
+    # 人机交互 / 普适计算 / 社会计算
+    "HCI/UbiComp": [
+        "CHI","UIST","CSCW","UbiComp","IMWUT","IUI","MobileHCI","ISS","ECSCW","PERCOM","ICWSM","DIS","ICMI","ASSETS","AVI","GROUP"
+    ],
+    # 图形学 / 多媒体 / 可视化 / 信号图像
+    "Graphics/Multimedia/Vis": [
+        "SIGGRAPH","Eurographics","EGSR","SGP","SPM","EuroVis","IEEE VIS",
+        "ACM MM","ICMR","ICME","ICASSP","ICIP","3DV","PacificVis","DCC","MMAsia","PG","SMI"
+    ],
+    # 计算机科学理论
+    "Theory": [
+        "STOC","FOCS","SODA","LICS","CAV","ICALP","ESA","CCC","SAT","HSCC","CONCUR","SoCG","COCOON","ISAAC","MFCS","STACS","IPCO"
+    ],
+    # 交叉 / Web / 空间信息
+    "Cross/Web/Geo": [
+        "WWW","TheWebConf","WWW Companion","SIGSPATIAL","WINE","MICCAI","RECOMB","BIBM","CogSci","IR-RAG"
+    ],
+}
+
+# 展平为去重列表（如果你还需要一个平面集合用于简单 in 判断）
+CONFS = sorted({c for lst in CONFS_BY_FIELD.values() for c in lst})
+
+URL_RE = re.compile(r"https?://[^\s)]+", re.IGNORECASE)
+
+def parse_comment(comment: str | None):
+    if not comment:
+        return None, None
+
+    text = " ".join(comment.split())  # 简单去掉多余空白
+
+    urls = URL_RE.findall(text)
+
+    url = urls[0] if len(urls) > 0 else None
+
+    for u in urls:
+        if 'github' in u:
+            url = u
+            break
+
+    venue = None
+    lower_text = text.lower()
+    for v in CONFS:
+        if v.lower() in lower_text:
+            venue = v
+            break
+
+    return url, venue
+
+
+
 def get_daily_papers(topic,query="slam", max_results=2):
     """
     @param topic: str
@@ -140,45 +226,48 @@ def get_daily_papers(topic,query="slam", max_results=2):
         paper_url = arxiv_url + 'abs/' + paper_key
 
 
-        # 先假设 repo_url = None
-        repo_url = None
-
-        if error_count < max_errors:
-            try:
-                # source code link
-                r = requests.get(code_url, timeout=10).json()
-                error_count = 0  # 成功则清零
-
-                if "official" in r and r["official"]:
-                    repo_url = r["official"]["url"]
-
-            except Exception as e:
-                error_count += 1
-                logging.error(f"exception: {e} with id: {paper_key} (error_count={error_count})")
-
-        else:
-            logging.warning(f"Skip API request due to {error_count} consecutive errors")
-
-
-        # 统一写入 content / content_to_web
-        if repo_url is not None:
-            content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
-                update_time, paper_title, paper_first_author, paper_key, paper_url, repo_url)
-            content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
-                update_time, paper_title, paper_first_author, paper_url, paper_url, repo_url, repo_url)
-        else:
-            content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
-                update_time, paper_title, paper_first_author, paper_key, paper_url)
-            content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
-                update_time, paper_title, paper_first_author, paper_url, paper_url)
-
-        
-        # TODO: select useful comments
-        # comments = None
+        repo_url, venue = parse_comment(comments)
+        venue = "" if venue is None else "_(" + venue + ")"
         # if comments != None:
         #     content_to_web[paper_key] += f", {comments}\n"
         # else:
         #     content_to_web[paper_key] += f"\n"
+        
+        # 先假设 repo_url = None
+        # repo_url = None
+
+        if repo_url is None:
+            if error_count < max_errors:
+                try:
+                    # source code link
+                    r = requests.get(code_url, timeout=10).json()
+                    error_count = 0  # 成功则清零
+
+                    if "official" in r and r["official"]:
+                        repo_url = r["official"]["url"]
+
+                except Exception as e:
+                    error_count += 1
+                    logging.error(f"exception: {e} with id: {paper_key} (error_count={error_count})")
+
+            else:
+                logging.warning(f"Skip API request due to {error_count} consecutive errors")
+
+
+        # 统一写入 content / content_to_web
+        if repo_url is not None:
+            content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}{}]({})|**[link]({})**|\n".format(
+                update_time, paper_title, paper_first_author, paper_key, venue, paper_url, repo_url)
+            content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}{}]({}), Code: **[{}]({})**".format(
+                update_time, paper_title, paper_first_author, paper_url, venue, paper_url, repo_url, repo_url)
+        else:
+            content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}{}]({})|null|\n".format(
+                update_time, paper_title, paper_first_author, paper_key, venue, paper_url)
+            content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}{}]({})".format(
+                update_time, paper_title, paper_first_author, paper_url, venue, paper_url)
+
+        
+        
 
     data = {topic:content}
     data_web = {topic:content_to_web}
@@ -534,6 +623,8 @@ def demo(**config):
                     #     for topic in data_collector_web[0].keys():
                     #         filename = topic.replace(" ", "_").lower() + ".md"
                     #         f.write(f"- [{topic}](topics/{filename})\n")
+
+                time.sleep(3)
         logging.info(f"GET daily papers end")
 
 if __name__ == "__main__":
