@@ -16,6 +16,27 @@ _Updated on 2025.08.11_
 |**2025-08-08**|**KV Cache Compression for Inference Efficiency in LLMs: A Review**|Yanyu Liu et.al.|[2508.06297](http://arxiv.org/abs/2508.06297)|null|
 |**2025-08-08**|**LLM Serving Optimization with Variable Prefill and Decode Lengths**|Meixuan Wang et.al.|[2508.06133](http://arxiv.org/abs/2508.06133)|null|
 |**2025-08-08**|**LLM meets ML: Data-efficient Anomaly Detection on Unstable Logs**|Fatemeh Hadadi et.al.|[2406.07467](http://arxiv.org/abs/2406.07467)|null|
+|**2025-08-08**|**Non-programmers Assessing AI-Generated Code: A Case Study of Business Users Analyzing Data**|Yuvraj Virk et.al.|[2508.06484](http://arxiv.org/abs/2508.06484)|null|
+|**2025-08-08**|**ScamAgents: How AI Agents Can Simulate Human-Level Scam Calls**|Sanket Badhe et.al.|[2508.06457_(CHI)](http://arxiv.org/abs/2508.06457)|null|
+|**2025-08-08**|**Sample-efficient LLM Optimization with Reset Replay**|Zichuan Liu et.al.|[2508.06412](http://arxiv.org/abs/2508.06412)|null|
+|**2025-08-08**|**Beyond Prompt-Induced Lies: Investigating LLM Deception on Benign Prompts**|Zhaomin Wu et.al.|[2508.06361](http://arxiv.org/abs/2508.06361)|null|
+|**2025-08-08**|**M2IO-R1: An Efficient RL-Enhanced Reasoning Framework for Multimodal Retrieval Augmented Multimodal Generation**|Zhiyou Xiao et.al.|[2508.06328](http://arxiv.org/abs/2508.06328)|null|
+|**2025-08-08**|**EICAP: Deep Dive in Assessment and Enhancement of Large Language Models in Emotional Intelligence through Multi-Turn Conversations**|Nizi Nazar et.al.|[2508.06196](http://arxiv.org/abs/2508.06196)|null|
+|**2025-08-08**|**MA-CBP: A Criminal Behavior Prediction Framework Based on Multi-Agent Asynchronous Collaboration**|Cheng Liu et.al.|[2508.06189](http://arxiv.org/abs/2508.06189)|null|
+|**2025-08-08**|**Improving Table Retrieval with Question Generation from Partial Tables**|Hsing-Ping Liang et.al.|[2508.06168_(ACL)](http://arxiv.org/abs/2508.06168)|null|
+|**2025-08-08**|**UR$^2$: Unify RAG and Reasoning through Reinforcement Learning**|Weitao Li et.al.|[2508.06165](http://arxiv.org/abs/2508.06165)|null|
+|**2025-08-08**|**AURA: Affordance-Understanding and Risk-aware Alignment Technique for Large Language Models**|Sayantan Adak et.al.|[2508.06124](http://arxiv.org/abs/2508.06124)|null|
+|**2025-08-08**|**SKATE, a Scalable Tournament Eval: Weaker LLMs differentiate between stronger ones using verifiable challenges**|Dewi S. W. Gould et.al.|[2508.06111](http://arxiv.org/abs/2508.06111)|null|
+|**2025-08-08**|**PanelTR: Zero-Shot Table Reasoning Framework Through Multi-Agent Scientific Discussion**|Yiran Rex Ma et.al.|[2508.06110](http://arxiv.org/abs/2508.06110)|null|
+|**2025-08-08**|**You Don't Need Pre-built Graphs for RAG: Retrieval Augmented Generation with Adaptive Reasoning Structures**|Shengyuan Chen et.al.|[2508.06105](http://arxiv.org/abs/2508.06105)|null|
+|**2025-08-08**|**ConlangCrafter: Constructing Languages with a Multi-Hop LLM Pipeline**|Morris Alper et.al.|[2508.06094](http://arxiv.org/abs/2508.06094)|**[link](https://conlangcrafter.github.io)**|
+|**2025-08-08**|**LLMs for Resource Allocation: A Participatory Budgeting Approach to Inferring Preferences**|Sankarshan Damle et.al.|[2508.06060](http://arxiv.org/abs/2508.06060)|null|
+|**2025-08-08**|**EvolvR: Self-Evolving Pairwise Reasoning for Story Evaluation to Enhance Generation**|Xinda Wang et.al.|[2508.06046](http://arxiv.org/abs/2508.06046)|null|
+|**2025-08-08**|**Society of Mind Meets Real-Time Strategy: A Hierarchical Multi-Agent Framework for Strategic Reasoning**|Daechul Ahn et.al.|[2508.06042](http://arxiv.org/abs/2508.06042)|null|
+|**2025-08-08**|**Temporal Self-Rewarding Language Models: Decoupling Chosen-Rejected via Past-Future**|Yidong Wang et.al.|[2508.06026](http://arxiv.org/abs/2508.06026)|null|
+|**2025-08-08**|**Optimizing Prompt Sequences using Monte Carlo Tree Search for LLM-Based Optimization**|Fei Xu Yu et.al.|[2508.05995](http://arxiv.org/abs/2508.05995)|null|
+|**2025-08-08**|**Bifrost-1: Bridging Multimodal LLMs and Diffusion Models with Patch-level CLIP Latents**|Han Lin et.al.|[2508.05954](http://arxiv.org/abs/2508.05954)|**[link](https://bifrost-1.github.io)**|
+|**2025-08-08**|**Mitigating Think-Answer Mismatch in LLM Reasoning Through Noise-Aware Advantage Reweighting**|Si Shen et.al.|[2508.05928](http://arxiv.org/abs/2508.05928)|null|
 |**2025-08-07**|**Making Prompts First-Class Citizens for Adaptive LLM Pipelines**|Ugur Cetintemel et.al.|[2508.05012](http://arxiv.org/abs/2508.05012)|null|
 |**2025-08-07**|**Cooper: Co-Optimizing Policy and Reward Models in Reinforcement Learning for Large Language Models**|Haitao Hong et.al.|[2508.05613](http://arxiv.org/abs/2508.05613)|**[link](https://zju-real.github.io/cooper)**|
 |**2025-08-07**|**Uni-cot: Towards Unified Chain-of-Thought Reasoning Across Text and Vision**|Luozheng Qin et.al.|[2508.05606](http://arxiv.org/abs/2508.05606)|**[link](https://sais-fuxi.github.io/projects/uni-cot/)**|
@@ -57,6 +78,12 @@ _Updated on 2025.08.11_
 |**2025-08-07**|**CAMA: Enhancing Mathematical Reasoning in Large Language Models with Causal Knowledge**|Lei Zan et.al.|[2508.02583](http://arxiv.org/abs/2508.02583)|null|
 |**2025-08-07**|**SE-Agent: Self-Evolution Trajectory Optimization in Multi-Step Reasoning with LLM-Based Agents**|Jiaye Lin et.al.|[2508.02085](http://arxiv.org/abs/2508.02085)|null|
 |**2025-08-07**|**The SMeL Test: A simple benchmark for media literacy in language models**|Gustaf Ahdritz et.al.|[2508.02074](http://arxiv.org/abs/2508.02074)|null|
+|**2025-08-07**|**Do Machines Think Emotionally? Cognitive Appraisal Analysis of Large Language Models**|Sree Bhattacharyya et.al.|[2508.05880](http://arxiv.org/abs/2508.05880)|null|
+|**2025-08-07**|**FineDialFact: A benchmark for Fine-grained Dialogue Fact Verification**|Xiangyan Chen et.al.|[2508.05782](http://arxiv.org/abs/2508.05782)|null|
+|**2025-08-07**|**Guardians and Offenders: A Survey on Harmful Content Generation and Safety Mitigation**|Chi Zhang et.al.|[2508.05775](http://arxiv.org/abs/2508.05775)|null|
+|**2025-08-07**|**A Framework for Inherently Safer AGI through Language-Mediated Active Inference**|Bo Wen et.al.|[2508.05766](http://arxiv.org/abs/2508.05766)|null|
+|**2025-08-07**|**G-UBS: Towards Robust Understanding of Implicit Feedback via Group-Aware User Behavior Simulation**|Boyu Chen et.al.|[2508.05709](http://arxiv.org/abs/2508.05709)|null|
+|**2025-08-07**|**Semantic Reasoning Meets Numerical Precision: An LLM-Powered Multi-Agent System for Power Grid Control**|Yan Zhang et.al.|[2508.05702](http://arxiv.org/abs/2508.05702)|null|
 |**2025-08-06**|**Share Your Attention: Transformer Weight Sharing via Matrix-based Dictionary Learning**|Magauiya Zhussip et.al.|[2508.04581](http://arxiv.org/abs/2508.04581)|null|
 |**2025-08-06**|**CARD: Cache-Assisted Parallel Speculative Decoding for Efficient Large Language Model Inference**|Enyu Zhou et.al.|[2508.04462](http://arxiv.org/abs/2508.04462)|null|
 |**2025-08-06**|**KVSink: Understanding and Enhancing the Preservation of Attention Sinks in KV Cache Quantization for LLMs**|Zunhai Su et.al.|[2508.04257](http://arxiv.org/abs/2508.04257)|null|
@@ -99,6 +126,7 @@ _Updated on 2025.08.11_
 |**2025-08-06**|**p-MoD: Building Mixture-of-Depths MLLMs via Progressive Ratio Decay**|Jun Zhang et.al.|[2412.04449_(ICC)](http://arxiv.org/abs/2412.04449)|**[link](https://github.com/MCG-NJU/p-MoD)**|
 |**2025-08-06**|**RL-PLUS: Countering Capability Boundary Collapse of LLMs in Reinforcement Learning with Hybrid-policy Optimization**|Yihong Dong et.al.|[2508.00222](http://arxiv.org/abs/2508.00222)|null|
 |**2025-08-06**|**From Sufficiency to Reflection: Reinforcement-Guided Thinking Quality in Retrieval-Augmented Reasoning for LLMs**|Jie He et.al.|[2507.22716](http://arxiv.org/abs/2507.22716)|null|
+|**2025-08-06**|**DMFI: Dual-Modality Fine-Tuning and Inference Framework for LLM-Based Insider Threat Detection**|Kaichuan Kong et.al.|[2508.05694_(ICDM)](http://arxiv.org/abs/2508.05694)|null|
 |**2025-08-05**|**R-Stitch: Dynamic Trajectory Stitching for Efficient Reasoning**|Zhuokun Chen et.al.|[2507.17307](http://arxiv.org/abs/2507.17307)|null|
 |**2025-08-05**|**SmartLLMs Scheduler: A Framework for Cost-Effective LLMs Utilization**|Yueyue Liu et.al.|[2508.03258](http://arxiv.org/abs/2508.03258)|null|
 |**2025-08-05**|**Hallucination to Truth: A Review of Fact-Checking and Factuality Evaluation in Large Language Models**|Subhey Sadi Rahman et.al.|[2508.03860](http://arxiv.org/abs/2508.03860)|null|

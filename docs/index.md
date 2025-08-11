@@ -15,6 +15,7 @@ _Updated on 2025.08.11_
 |**2025-08-08**|**Rank1: Test-Time Compute for Reranking in Information Retrieval**|Orion Weller et.al.|[2502.18418](http://arxiv.org/abs/2502.18418)|null|
 |**2025-08-08**|**A Systematic Literature Review of Retrieval-Augmented Generation: Techniques, Metrics, and Challenges**|Andrew Brown et.al.|[2508.06401](http://arxiv.org/abs/2508.06401)|null|
 |**2025-08-08**|**ArchRAG: Attributed Community-based Hierarchical Retrieval-Augmented Generation**|Shu Wang et.al.|[2502.09891](http://arxiv.org/abs/2502.09891)|null|
+|**2025-08-08**|**You Don't Need Pre-built Graphs for RAG: Retrieval Augmented Generation with Adaptive Reasoning Structures**|Shengyuan Chen et.al.|[2508.06105](http://arxiv.org/abs/2508.06105)|null|
 |**2025-08-07**|**Efficient Knowledge Graph Construction and Retrieval from Unstructured Text for Large-Scale RAG Systems**|Congmin Min et.al.|[2507.03226](http://arxiv.org/abs/2507.03226)|null|
 |**2025-08-07**|**mKG-RAG: Multimodal Knowledge Graph-Enhanced RAG for Visual Question Answering**|Xu Yuan et.al.|[2508.05318](http://arxiv.org/abs/2508.05318)|null|
 |**2025-08-07**|**GRAIL:Learning to Interact with Large Knowledge Graphs for Retrieval Augmented Reasoning**|Ge Chang et.al.|[2508.05498](http://arxiv.org/abs/2508.05498)|null|
@@ -40,10 +41,13 @@ _Updated on 2025.08.11_
 |**2025-08-02**|**Prompting Large Language Models with Partial Knowledge for Answering Questions with Unseen Entities**|Zhichao Yan et.al.|[2508.01290](http://arxiv.org/abs/2508.01290)|null|
 |**2025-08-02**|**DBAIOps: A Reasoning LLM-Enhanced Database Operation and Maintenance System using Knowledge Graphs**|Wei Zhou et.al.|[2508.01136_(ALT)](http://arxiv.org/abs/2508.01136)|**[link](https://github.com/weAIDB/DBAIOps/)**|
 |**2025-08-01**|**FinKario: Event-Enhanced Automated Construction of Financial Knowledge Graph**|Xiang Li et.al.|[2508.00961](http://arxiv.org/abs/2508.00961)|null|
+|**2025-08-01**|**HySemRAG: A Hybrid Semantic Retrieval-Augmented Generation Framework for Automated Literature Synthesis and Methodological Gap Analysis**|Alejandro Godinez et.al.|[2508.05666](http://arxiv.org/abs/2508.05666)|**[link](https://github.com/agodinezmm2007/docling_mod.)**|
+|**2025-08-01**|**Enhancing Retrieval-Augmented Generation for Electric Power Industry Customer Support**|Hei Yu Chan et.al.|[2508.05664](http://arxiv.org/abs/2508.05664)|null|
 |**2025-07-31**|**MemInsight: Autonomous Memory Augmentation for LLM Agents**|Rana Salama et.al.|[2503.21760](http://arxiv.org/abs/2503.21760)|null|
 |**2025-07-31**|**KeyKnowledgeRAG (K^2RAG): An Enhanced RAG method for improved LLM question-answering capabilities**|Hruday Markondapatnaikuni et.al.|[2507.07695](http://arxiv.org/abs/2507.07695)|null|
 |**2025-07-31**|**From Static to Dynamic: A Streaming RAG Approach to Real-time Knowledge Base**|Yuzhou Zhu et.al.|[2508.05662](http://arxiv.org/abs/2508.05662)|null|
 |**2025-07-30**|**CliCARE: Grounding Large Language Models in Clinical Guidelines for Decision Support over Longitudinal Cancer Electronic Health Records**|Dongchen Li et.al.|[2507.22533](http://arxiv.org/abs/2507.22533)|null|
+|**2025-07-30**|**Open-Source Agentic Hybrid RAG Framework for Scientific Literature Review**|Aditya Nagori et.al.|[2508.05660](http://arxiv.org/abs/2508.05660)|null|
 |**2025-07-29**|**Simulated patient systems are intelligent when powered by large language model-based AI agents**|Huizi Yu et.al.|[2409.18924](http://arxiv.org/abs/2409.18924)|null|
 |**2025-07-29**|**MAGIC: A Multi-Hop and Graph-Based Benchmark for Inter-Context Conflicts in Retrieval-Augmented Generation**|Jungyeon Lee et.al.|[2507.21544](http://arxiv.org/abs/2507.21544)|null|
 |**2025-07-29**|**Graph-R1: Towards Agentic GraphRAG Framework via End-to-end Reinforcement Learning**|Haoran Luo et.al.|[2507.21892](http://arxiv.org/abs/2507.21892)|null|
@@ -52,6 +56,7 @@ _Updated on 2025.08.11_
 |**2025-07-27**|**Advancing Shared and Multi-Agent Autonomy in Underwater Missions: Integrating Knowledge Graphs and Retrieval-Augmented Generation**|Michele Grimaldi et.al.|[2507.20370](http://arxiv.org/abs/2507.20370)|null|
 |**2025-07-25**|**Beyond Nearest Neighbors: Semantic Compression and Graph-Augmented Retrieval for Enhanced Vector Search**|Rahul Raja et.al.|[2507.19715](http://arxiv.org/abs/2507.19715)|null|
 |**2025-07-25**|**A Graph-based Approach for Multi-Modal Question Answering from Flowcharts in Telecom Documents**|Sumit Soman et.al.|[2507.22938_(KDD)](http://arxiv.org/abs/2507.22938)|null|
+|**2025-07-25**|**Query-Aware Graph Neural Networks for Enhanced Retrieval-Augmented Generation**|Vibhor Agrawal et.al.|[2508.05647](http://arxiv.org/abs/2508.05647)|null|
 |**2025-07-24**|**GNN-ACLP: Graph Neural Networks Based Analog Circuit Link Prediction**|Guanyuan Pan et.al.|[2504.10240_(DATE)](http://arxiv.org/abs/2504.10240)|null|
 |**2025-07-23**|**HypoChainer: A Collaborative System Combining LLMs and Knowledge Graphs for Hypothesis-Driven Scientific Discovery**|Haoran Jiang et.al.|[2507.17209](http://arxiv.org/abs/2507.17209)|null|
 |**2025-07-23**|**Millions of $\text{GeAR}$-s: Extending GraphRAG to Millions of Documents**|Zhili Shen et.al.|[2507.17399_(SIGIR)](http://arxiv.org/abs/2507.17399)|null|
