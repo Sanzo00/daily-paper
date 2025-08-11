@@ -112,6 +112,9 @@ def get_daily_papers(topic,query="slam", max_results=2):
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
 
+    error_count = 0
+    max_errors = 5
+
     for result in search_engine.results():
 
         paper_id            = result.get_short_id()
@@ -135,39 +138,47 @@ def get_daily_papers(topic,query="slam", max_results=2):
         else:
             paper_key = paper_id[0:ver_pos]    
         paper_url = arxiv_url + 'abs/' + paper_key
+
+
+        # 先假设 repo_url = None
+        repo_url = None
+
+        if error_count < max_errors:
+            try:
+                # source code link
+                r = requests.get(code_url, timeout=10).json()
+                error_count = 0  # 成功则清零
+
+                if "official" in r and r["official"]:
+                    repo_url = r["official"]["url"]
+
+            except Exception as e:
+                error_count += 1
+                logging.error(f"exception: {e} with id: {paper_key} (error_count={error_count})")
+
+        else:
+            logging.warning(f"Skip API request due to {error_count} consecutive errors")
+
+
+        # 统一写入 content / content_to_web
+        if repo_url is not None:
+            content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
+                update_time, paper_title, paper_first_author, paper_key, paper_url, repo_url)
+            content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
+                update_time, paper_title, paper_first_author, paper_url, paper_url, repo_url, repo_url)
+        else:
+            content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
+                update_time, paper_title, paper_first_author, paper_key, paper_url)
+            content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
+                update_time, paper_title, paper_first_author, paper_url, paper_url)
+
         
-        try:
-            # source code link    
-            r = requests.get(code_url).json()
-            repo_url = None
-            if "official" in r and r["official"]:
-                repo_url = r["official"]["url"]
-            # TODO: not found, two more chances  
-            # else: 
-            #    repo_url = get_code_link(paper_title)
-            #    if repo_url is None:
-            #        repo_url = get_code_link(paper_key)
-            if repo_url is not None:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
-                       update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
-                       update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
-
-            else:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
-                       update_time,paper_title,paper_first_author,paper_key,paper_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
-                       update_time,paper_title,paper_first_author,paper_url,paper_url)
-
-            # TODO: select useful comments
-            comments = None
-            if comments != None:
-                content_to_web[paper_key] += f", {comments}\n"
-            else:
-                content_to_web[paper_key] += f"\n"
-
-        except Exception as e:
-            logging.error(f"exception: {e} with id: {paper_key}")
+        # TODO: select useful comments
+        # comments = None
+        # if comments != None:
+        #     content_to_web[paper_key] += f", {comments}\n"
+        # else:
+        #     content_to_web[paper_key] += f"\n"
 
     data = {topic:content}
     data_web = {topic:content_to_web}
@@ -478,52 +489,52 @@ def demo(**config):
                 data_collector.append(data)
                 data_collector_web.append(data_web)
                 print("\n")
+
+                # 1. update README.md file
+                if publish_readme:
+                    json_file = config['json_readme_path']
+                    md_file   = config['md_readme_path']
+                    # update paper links
+                    if config['update_paper_links']:
+                        update_paper_links(json_file)
+                    else:    
+                        # update json data
+                        update_json_file(json_file,data_collector)
+                    # json data to markdown
+                    json_to_md(json_file,md_file, task ='Update Readme')
+
+                # 2. update docs/index.md file (to gitpage)
+                # if publish_gitpage:
+                #     json_file = config['json_gitpage_path']
+                #     md_file   = config['md_gitpage_path']
+                #     # TODO: duplicated update paper links!!!
+                #     if config['update_paper_links']:
+                #         update_paper_links(json_file)
+                #     else:    
+                #         update_json_file(json_file,data_collector)
+                #     json_to_md(json_file, md_file, task ='Update GitPage', \
+                #         to_web = True, use_tc=False, use_b2t=False)
+
+                if publish_gitpage:
+                    json_file = config['json_gitpage_path']
+                    md_file   = config['md_gitpage_path']
+                    if config['update_paper_links']:
+                        update_paper_links(json_file)
+                    else:    
+                        update_json_file(json_file,data_collector)
+
+                    # ✅ 改为多页面输出：
+                    json_to_multi_md(json_file, output_dir="docs/")
+
+                    # # ✅ index.md 提供总目录
+                    # with open("docs/index.md", "w") as f:
+                    #     f.write("---\nlayout: default\ntitle: Home\nnav_order: 1\n---\n\n")
+                    #     f.write("# LLM Arxiv Daily\n\n")
+                    #     f.write("## Topics\n\n")
+                    #     for topic in data_collector_web[0].keys():
+                    #         filename = topic.replace(" ", "_").lower() + ".md"
+                    #         f.write(f"- [{topic}](topics/{filename})\n")
         logging.info(f"GET daily papers end")
-
-    # 1. update README.md file
-    if publish_readme:
-        json_file = config['json_readme_path']
-        md_file   = config['md_readme_path']
-        # update paper links
-        if config['update_paper_links']:
-            update_paper_links(json_file)
-        else:    
-            # update json data
-            update_json_file(json_file,data_collector)
-        # json data to markdown
-        json_to_md(json_file,md_file, task ='Update Readme')
-
-    # 2. update docs/index.md file (to gitpage)
-    # if publish_gitpage:
-    #     json_file = config['json_gitpage_path']
-    #     md_file   = config['md_gitpage_path']
-    #     # TODO: duplicated update paper links!!!
-    #     if config['update_paper_links']:
-    #         update_paper_links(json_file)
-    #     else:    
-    #         update_json_file(json_file,data_collector)
-    #     json_to_md(json_file, md_file, task ='Update GitPage', \
-    #         to_web = True, use_tc=False, use_b2t=False)
-
-    if publish_gitpage:
-        json_file = config['json_gitpage_path']
-        md_file   = config['md_gitpage_path']
-        if config['update_paper_links']:
-            update_paper_links(json_file)
-        else:    
-            update_json_file(json_file,data_collector)
-
-        # ✅ 改为多页面输出：
-        json_to_multi_md(json_file, output_dir="docs/")
-
-        # # ✅ index.md 提供总目录
-        # with open("docs/index.md", "w") as f:
-        #     f.write("---\nlayout: default\ntitle: Home\nnav_order: 1\n---\n\n")
-        #     f.write("# LLM Arxiv Daily\n\n")
-        #     f.write("## Topics\n\n")
-        #     for topic in data_collector_web[0].keys():
-        #         filename = topic.replace(" ", "_").lower() + ".md"
-        #         f.write(f"- [{topic}](topics/{filename})\n")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
