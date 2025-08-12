@@ -10,6 +10,7 @@ _Updated on 2025.08.12_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
+|**2025-08-11**|**Enhancing Egocentric Object Detection in Static Environments using Graph-based Spatial Anomaly Detection and Correction**|Vishakha Lall et.al.|[2508.07624](http://arxiv.org/abs/2508.07624)|null|
 |**2025-08-06**|**Reliable and Real-Time Highway Trajectory Planning via Hybrid Learning-Optimization Frameworks**|Yujia Lu et.al.|[2508.04436](http://arxiv.org/abs/2508.04436)|null|
 |**2025-08-01**|**Binarizing Physics-Inspired GNNs for Combinatorial Optimization**|Martin Krutský et.al.|[2507.13703_(CHI)](http://arxiv.org/abs/2507.13703)|null|
 |**2025-07-25**|**Mean flow data assimilation using physics-constrained Graph Neural Networks**|M. Quattromini et.al.|[2411.09476](http://arxiv.org/abs/2411.09476)|null|

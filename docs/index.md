@@ -13,13 +13,20 @@ _Updated on 2025.08.12_
 |**2025-08-11**|**Structure-Augmented Reasoning Generation**|Jash Rajesh Parekh et.al.|[2506.08364](http://arxiv.org/abs/2506.08364)|null|
 |**2025-08-11**|**Multi-Modal Semantic Parsing for the Interpretation of Tombstone Inscriptions**|Xiao Zhang et.al.|[2507.04377](http://arxiv.org/abs/2507.04377)|null|
 |**2025-08-11**|**ReaGAN: Node-as-Agent-Reasoning Graph Agentic Network**|Minghao Guo et.al.|[2508.00429](http://arxiv.org/abs/2508.00429)|null|
+|**2025-08-11**|**Understanding Users' Privacy Perceptions Towards LLM's RAG-based Memory**|Shuning Zhang et.al.|[2508.07664](http://arxiv.org/abs/2508.07664)|null|
+|**2025-08-11**|**PersonalAI: A Systematic Comparison of Knowledge Graph Storage and Retrieval Approaches for Personalized LLM agents**|Mikhail Menschikov et.al.|[2506.17001](http://arxiv.org/abs/2506.17001)|null|
+|**2025-08-11**|**DAGR: Decomposition Augmented Graph Retrieval with LLMs**|Valentin Six et.al.|[2506.13380](http://arxiv.org/abs/2506.13380)|null|
+|**2025-08-11**|**Reviewing Clinical Knowledge in Medical Large Language Models: Training and Beyond**|Qiyuan Li et.al.|[2502.20988](http://arxiv.org/abs/2502.20988)|null|
+|**2025-08-10**|**DySK-Attn: A Framework for Efficient, Real-Time Knowledge Updating in Large Language Models via Dynamic Sparse Knowledge Attention**|Kabir Khan et.al.|[2508.07185](http://arxiv.org/abs/2508.07185)|null|
 |**2025-08-09**|**Leaps Beyond the Seen: Reinforced Reasoning Augmented Generation for Clinical Notes**|Lo Pang-Yun Ting et.al.|[2506.05386](http://arxiv.org/abs/2506.05386)|null|
+|**2025-08-09**|**QuiZSF: An efficient data-model interaction framework for zero-shot time-series forecasting**|Shichao Ma et.al.|[2508.06915](http://arxiv.org/abs/2508.06915)|null|
 |**2025-08-08**|**LLM meets ML: Data-efficient Anomaly Detection on Unstable Logs**|Fatemeh Hadadi et.al.|[2406.07467](http://arxiv.org/abs/2406.07467)|null|
 |**2025-08-08**|**CUB: Benchmarking Context Utilisation Techniques for Language Models**|Lovisa Hagström et.al.|[2505.16518](http://arxiv.org/abs/2505.16518)|null|
 |**2025-08-08**|**Rank1: Test-Time Compute for Reranking in Information Retrieval**|Orion Weller et.al.|[2502.18418](http://arxiv.org/abs/2502.18418)|null|
 |**2025-08-08**|**A Systematic Literature Review of Retrieval-Augmented Generation: Techniques, Metrics, and Challenges**|Andrew Brown et.al.|[2508.06401](http://arxiv.org/abs/2508.06401)|null|
 |**2025-08-08**|**ArchRAG: Attributed Community-based Hierarchical Retrieval-Augmented Generation**|Shu Wang et.al.|[2502.09891](http://arxiv.org/abs/2502.09891)|null|
 |**2025-08-08**|**You Don't Need Pre-built Graphs for RAG: Retrieval Augmented Generation with Adaptive Reasoning Structures**|Shengyuan Chen et.al.|[2508.06105](http://arxiv.org/abs/2508.06105)|null|
+|**2025-08-08**|**Large Language Models for Oral History Understanding with Text Classification and Sentiment Analysis**|Komala Subramanyam Cherukuri et.al.|[2508.06729](http://arxiv.org/abs/2508.06729)|null|
 |**2025-08-07**|**Efficient Knowledge Graph Construction and Retrieval from Unstructured Text for Large-Scale RAG Systems**|Congmin Min et.al.|[2507.03226](http://arxiv.org/abs/2507.03226)|null|
 |**2025-08-07**|**mKG-RAG: Multimodal Knowledge Graph-Enhanced RAG for Visual Question Answering**|Xu Yuan et.al.|[2508.05318](http://arxiv.org/abs/2508.05318)|null|
 |**2025-08-07**|**GRAIL:Learning to Interact with Large Knowledge Graphs for Retrieval Augmented Reasoning**|Ge Chang et.al.|[2508.05498](http://arxiv.org/abs/2508.05498)|null|
@@ -69,6 +76,7 @@ _Updated on 2025.08.12_
 |**2025-07-21**|**EchoVoices: Preserving Generational Voices and Memories for Seniors and Children**|Haiying Xu et.al.|[2507.15221](http://arxiv.org/abs/2507.15221)|null|
 |**2025-07-21**|**mRAKL: Multilingual Retrieval-Augmented Knowledge Graph Construction for Low-Resourced Languages**|Hellina Hailu Nigatu et.al.|[2507.16011_(ACL)](http://arxiv.org/abs/2507.16011)|null|
 |**2025-07-20**|**Enhancing Repository-Level Code Generation with Call Chain-Aware Multi-View Context**|Yang Liu et.al.|[2507.14791](http://arxiv.org/abs/2507.14791)|null|
+|**2025-07-20**|**Med-GRIM: Enhanced Zero-Shot Medical VQA using prompt-embedded Multimodal Graph RAG**|Rakesh Raj Madavan et.al.|[2508.06496](http://arxiv.org/abs/2508.06496)|null|
 |**2025-07-19**|**Dynamic Context Tuning for Retrieval-Augmented Generation: Enhancing Multi-Turn Planning and Tool Adaptation**|Jubin Abhishek Soni et.al.|[2506.11092_(ISS)](http://arxiv.org/abs/2506.11092)|null|
 |**2025-07-18**|**BifrostRAG: Bridging Dual Knowledge Graphs for Multi-Hop Question Answering in Construction Safety**|Yuxin Zhang et.al.|[2507.13625](http://arxiv.org/abs/2507.13625)|null|
 |**2025-07-16**|**Advancing Retrieval-Augmented Generation for Structured Enterprise and Internal Data**|Chandana Cheerla et.al.|[2507.12425](http://arxiv.org/abs/2507.12425)|null|
