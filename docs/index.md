@@ -6,10 +6,14 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2025.08.11_
+_Updated on 2025.08.12_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
+|**2025-08-11**|**Structure-Augmented Reasoning Generation**|Jash Rajesh Parekh et.al.|[2506.08364](http://arxiv.org/abs/2506.08364)|null|
+|**2025-08-11**|**Multi-Modal Semantic Parsing for the Interpretation of Tombstone Inscriptions**|Xiao Zhang et.al.|[2507.04377](http://arxiv.org/abs/2507.04377)|null|
+|**2025-08-11**|**ReaGAN: Node-as-Agent-Reasoning Graph Agentic Network**|Minghao Guo et.al.|[2508.00429](http://arxiv.org/abs/2508.00429)|null|
+|**2025-08-09**|**Leaps Beyond the Seen: Reinforced Reasoning Augmented Generation for Clinical Notes**|Lo Pang-Yun Ting et.al.|[2506.05386](http://arxiv.org/abs/2506.05386)|null|
 |**2025-08-08**|**LLM meets ML: Data-efficient Anomaly Detection on Unstable Logs**|Fatemeh Hadadi et.al.|[2406.07467](http://arxiv.org/abs/2406.07467)|null|
 |**2025-08-08**|**CUB: Benchmarking Context Utilisation Techniques for Language Models**|Lovisa Hagström et.al.|[2505.16518](http://arxiv.org/abs/2505.16518)|null|
 |**2025-08-08**|**Rank1: Test-Time Compute for Reranking in Information Retrieval**|Orion Weller et.al.|[2502.18418](http://arxiv.org/abs/2502.18418)|null|
@@ -23,15 +27,12 @@ _Updated on 2025.08.11_
 |**2025-08-05**|**MemOS: A Memory OS for AI System**|Zhiyu Li et.al.|[2507.03724](http://arxiv.org/abs/2507.03724)|null|
 |**2025-08-05**|**AttnTrace: Attention-based Context Traceback for Long-Context LLMs**|Yanting Wang et.al.|[2508.03793](http://arxiv.org/abs/2508.03793)|**[link](https://github.com/Wang-Yanting/AttnTrace.)**|
 |**2025-08-05**|**AIC CTU@FEVER 8: On-premise fact checking through long context RAG**|Herbert Ullrich et.al.|[2508.04390](http://arxiv.org/abs/2508.04390)|null|
-|**2025-08-05**|**ReaGAN: Node-as-Agent-Reasoning Graph Agentic Network**|Minghao Guo et.al.|[2508.00429](http://arxiv.org/abs/2508.00429)|null|
 |**2025-08-05**|**MultiRAG: A Knowledge-guided Framework for Mitigating Hallucination in Multi-source Retrieval Augmented Generation**|Wenlong Wu et.al.|[2508.03553_(ICDE)](http://arxiv.org/abs/2508.03553)|null|
 |**2025-08-05**|**A Foundational Schema.org Mapping for a Legal Knowledge Graph: Representing Brazilian Legal Norms as FRBR Works**|Hudson de Martim et.al.|[2508.00827_(SC)](http://arxiv.org/abs/2508.00827)|null|
 |**2025-08-05**|**The Multi-Round Diagnostic RAG Framework for Emulating Clinical Reasoning**|Penglei Sun et.al.|[2504.07724](http://arxiv.org/abs/2504.07724)|null|
-|**2025-08-04**|**Leaps Beyond the Seen: Reinforced Reasoning Augmented Generation for Clinical Notes**|Lo Pang-Yun Ting et.al.|[2506.05386](http://arxiv.org/abs/2506.05386)|null|
 |**2025-08-04**|**Contextual Graph Transformer: A Small Language Model for Enhanced Engineering Document Information Extraction**|Karan Reddy et.al.|[2508.02532](http://arxiv.org/abs/2508.02532)|null|
 |**2025-08-04**|**Beyond Chunks and Graphs: Retrieval-Augmented Generation through Triplet-Driven Thinking**|Shengbo Gong et.al.|[2508.02435](http://arxiv.org/abs/2508.02435)|null|
 |**2025-08-04**|**Hypercube-Based Retrieval-Augmented Generation for Scientific Question-Answering**|Jimeng Shi et.al.|[2505.19288](http://arxiv.org/abs/2505.19288)|null|
-|**2025-08-03**|**Multi-Modal Semantic Parsing for the Interpretation of Tombstone Inscriptions**|Xiao Zhang et.al.|[2507.04377](http://arxiv.org/abs/2507.04377)|null|
 |**2025-08-03**|**Clue-RAG: Towards Accurate and Cost-Efficient Graph-based RAG via Multi-Partite Graph and Query-Driven Iterative Retrieval**|Yaodong Su et.al.|[2507.08445](http://arxiv.org/abs/2507.08445)|null|
 |**2025-08-03**|**Quantum-RAG and PunGPT2: Advancing Low-Resource Language Generation and Retrieval for the Punjabi Language**|Jaskaranjeet Singh et.al.|[2508.01918](http://arxiv.org/abs/2508.01918)|null|
 |**2025-08-03**|**MLP Memory: Language Modeling with Retriever-pretrained External Memory**|Rubin Wei et.al.|[2508.01832](http://arxiv.org/abs/2508.01832)|null|
@@ -138,7 +139,6 @@ _Updated on 2025.08.11_
 |**2025-06-11**|**KG-Infused RAG: Augmenting Corpus-Based RAG with External Knowledge Graphs**|Dingjun Wu et.al.|[2506.09542](http://arxiv.org/abs/2506.09542)|null|
 |**2025-06-11**|**Learning Efficient and Generalizable Graph Retriever for Knowledge-Graph Question Answering**|Tianjun Yao et.al.|[2506.09645](http://arxiv.org/abs/2506.09645)|null|
 |**2025-06-11**|**Traceable LLM-based validation of statements in knowledge graphs**|Daniel Adam et.al.|[2409.07507](http://arxiv.org/abs/2409.07507)|null|
-|**2025-06-11**|**CC-RAG: Structured Multi-Hop Reasoning via Theme-Based Causal Graphs**|Jash Rajesh Parekh et.al.|[2506.08364](http://arxiv.org/abs/2506.08364)|null|
 |**2025-06-11**|**VAT-KG: Knowledge-Intensive Multimodal Knowledge Graph Dataset for Retrieval-Augmented Generation**|Hyeongcheol Park et.al.|[2506.21556](http://arxiv.org/abs/2506.21556)|**[link](https://vatkg.github.io/)**|
 |**2025-06-10**|**XGraphRAG: Interactive Visual Analysis for Graph-based Retrieval-Augmented Generation**|Ke Wang et.al.|[2506.13782](http://arxiv.org/abs/2506.13782)|null|
 |**2025-06-09**|**Graph-KV: Breaking Sequence via Injecting Structural Biases into Large Language Models**|Haoyu Wang et.al.|[2506.07334](http://arxiv.org/abs/2506.07334)|null|

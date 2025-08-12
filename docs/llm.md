@@ -6,10 +6,14 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2025.08.11_
+_Updated on 2025.08.12_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
+|**2025-08-11**|**MathSmith: Towards Extremely Hard Mathematical Reasoning by Forging Synthetic Problems with a Reinforced Policy**|Shaoxiong Zhan et.al.|[2508.05592](http://arxiv.org/abs/2508.05592)|null|
+|**2025-08-11**|**LAG: Logic-Augmented Generation from a Cartesian Perspective**|Yilin Xiao et.al.|[2508.05509](http://arxiv.org/abs/2508.05509)|null|
+|**2025-08-10**|**RCR-Router: Efficient Role-Aware Context Routing for Multi-Agent LLM Systems with Structured Memory**|Jun Liu et.al.|[2508.04903](http://arxiv.org/abs/2508.04903)|null|
+|**2025-08-09**|**PAE MobiLLM: Privacy-Aware and Efficient LLM Fine-Tuning on the Mobile Device via Additive Side-Tuning**|Xingke Yang et.al.|[2507.01216](http://arxiv.org/abs/2507.01216)|null|
 |**2025-08-08**|**Exploring Superior Function Calls via Reinforcement Learning**|Bingguang Hao et.al.|[2508.05118](http://arxiv.org/abs/2508.05118)|null|
 |**2025-08-08**|**Can Large Language Models Adequately Perform Symbolic Reasoning Over Time Series?**|Zewen Liu et.al.|[2508.03963](http://arxiv.org/abs/2508.03963)|null|
 |**2025-08-08**|**SlimInfer: Accelerating Long-Context LLM Inference via Dynamic Token Pruning**|Lingkun Long et.al.|[2508.06447](http://arxiv.org/abs/2508.06447)|null|
@@ -40,11 +44,9 @@ _Updated on 2025.08.11_
 |**2025-08-07**|**Making Prompts First-Class Citizens for Adaptive LLM Pipelines**|Ugur Cetintemel et.al.|[2508.05012](http://arxiv.org/abs/2508.05012)|null|
 |**2025-08-07**|**Cooper: Co-Optimizing Policy and Reward Models in Reinforcement Learning for Large Language Models**|Haitao Hong et.al.|[2508.05613](http://arxiv.org/abs/2508.05613)|**[link](https://zju-real.github.io/cooper)**|
 |**2025-08-07**|**Uni-cot: Towards Unified Chain-of-Thought Reasoning Across Text and Vision**|Luozheng Qin et.al.|[2508.05606](http://arxiv.org/abs/2508.05606)|**[link](https://sais-fuxi.github.io/projects/uni-cot/)**|
-|**2025-08-07**|**MathSmith: Towards Extremely Hard Mathematical Reasoning by Forging Synthetic Problems with a Reinforced Policy**|Shaoxiong Zhan et.al.|[2508.05592](http://arxiv.org/abs/2508.05592)|null|
 |**2025-08-07**|**DART: Dual Adaptive Refinement Transfer for Open-Vocabulary Multi-Label Recognition**|Haijing Liu et.al.|[2508.05585_(ACM MM)](http://arxiv.org/abs/2508.05585)|null|
 |**2025-08-07**|**Iterative Learning of Computable Phenotypes for Treatment Resistant Hypertension using Large Language Models**|Guilherme Seidyo Imai Aldeia et.al.|[2508.05581_(ALT)](http://arxiv.org/abs/2508.05581)|null|
 |**2025-08-07**|**The World According to LLMs: How Geographic Origin Influences LLMs' Entity Deduction Capabilities**|Harsh Nishant Lalai et.al.|[2508.05525](http://arxiv.org/abs/2508.05525)|null|
-|**2025-08-07**|**LAG: Logic-Augmented Generation from a Cartesian Perspective**|Yilin Xiao et.al.|[2508.05509](http://arxiv.org/abs/2508.05509)|null|
 |**2025-08-07**|**Auto-Eval Judge: Towards a General Agentic Framework for Task Completion Evaluation**|Roshita Bhonsle et.al.|[2508.05508](http://arxiv.org/abs/2508.05508)|null|
 |**2025-08-07**|**GRAIL:Learning to Interact with Large Knowledge Graphs for Retrieval Augmented Reasoning**|Ge Chang et.al.|[2508.05498](http://arxiv.org/abs/2508.05498)|null|
 |**2025-08-07**|**InfiAlign: A Scalable and Sample-Efficient Framework for Aligning LLMs to Enhance Reasoning Capabilities**|Shuo Cai et.al.|[2508.05496](http://arxiv.org/abs/2508.05496)|null|
@@ -88,7 +90,6 @@ _Updated on 2025.08.11_
 |**2025-08-06**|**CARD: Cache-Assisted Parallel Speculative Decoding for Efficient Large Language Model Inference**|Enyu Zhou et.al.|[2508.04462](http://arxiv.org/abs/2508.04462)|null|
 |**2025-08-06**|**KVSink: Understanding and Enhancing the Preservation of Attention Sinks in KV Cache Quantization for LLMs**|Zunhai Su et.al.|[2508.04257](http://arxiv.org/abs/2508.04257)|null|
 |**2025-08-06**|**EdgeInfinite-Instruct: Bridging SFT-Based Optimization and NPU-Level Efficiency for Edge Devices**|Jiyu Chen et.al.|[2508.00370](http://arxiv.org/abs/2508.00370)|null|
-|**2025-08-06**|**RCR-Router: Efficient Role-Aware Context Routing for Multi-Agent LLM Systems with Structured Memory**|Jun Liu et.al.|[2508.04903](http://arxiv.org/abs/2508.04903)|null|
 |**2025-08-06**|**Large Language Models Reasoning Abilities Under Non-Ideal Conditions After RL-Fine-Tuning**|Chang Tian et.al.|[2508.04848](http://arxiv.org/abs/2508.04848)|null|
 |**2025-08-06**|**Persistent Instability in LLM's Personality Measurements: Effects of Scale, Reasoning, and Conversation History**|Tommaso Tosato et.al.|[2508.04826](http://arxiv.org/abs/2508.04826)|null|
 |**2025-08-06**|**Sculptor: Empowering LLMs with Cognitive Agency via Active Context Management**|Mo Li et.al.|[2508.04664](http://arxiv.org/abs/2508.04664)|null|
@@ -896,7 +897,6 @@ _Updated on 2025.08.11_
 |**2025-07-02**|**Reasoning on a Budget: A Survey of Adaptive and Controllable Test-Time Compute in LLMs**|Mohammad Ali Alomrani et.al.|[2507.02076](http://arxiv.org/abs/2507.02076)|null|
 |**2025-07-02**|**Large Language Models for Crash Detection in Video: A Survey of Methods, Datasets, and Challenges**|Sanjeda Akter et.al.|[2507.02074](http://arxiv.org/abs/2507.02074)|null|
 |**2025-07-01**|**SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning**|Bo Liu et.al.|[2506.24119](http://arxiv.org/abs/2506.24119)|null|
-|**2025-07-01**|**PAE MobiLLM: Privacy-Aware and Efficient LLM Fine-Tuning on the Mobile Device via Additive Side-Tuning**|Xingke Yang et.al.|[2507.01216](http://arxiv.org/abs/2507.01216)|null|
 |**2025-07-01**|**FlashDP: Private Training Large Language Models with Efficient DP-SGD**|Liangyu Wang et.al.|[2507.01154](http://arxiv.org/abs/2507.01154)|null|
 |**2025-07-01**|**VEDA: Efficient LLM Generation Through Voting-based KV Cache Eviction and Dataflow-flexible Accelerator**|Zhican Wang et.al.|[2507.00797_(DAC)](http://arxiv.org/abs/2507.00797)|null|
 |**2025-07-01**|**EARN: Efficient Inference Acceleration for LLM-based Generative Recommendation by Register Tokens**|Chaoqun Yang et.al.|[2507.00715_(KDD)](http://arxiv.org/abs/2507.00715)|null|
