@@ -10,6 +10,8 @@ _Updated on 2025.08.13_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
+|**2025-08-12**|**Privacy-protected Retrieval-Augmented Generation for Knowledge Graph Question Answering**|Yunfeng Ning et.al.|[2508.08785](http://arxiv.org/abs/2508.08785)|null|
+|**2025-08-12**|**AgriGPT: a Large Language Model Ecosystem for Agriculture**|Bo Yang et.al.|[2508.08632](http://arxiv.org/abs/2508.08632)|null|
 |**2025-08-11**|**Structure-Augmented Reasoning Generation**|Jash Rajesh Parekh et.al.|[2506.08364](http://arxiv.org/abs/2506.08364)|null|
 |**2025-08-11**|**Multi-Modal Semantic Parsing for the Interpretation of Tombstone Inscriptions**|Xiao Zhang et.al.|[2507.04377](http://arxiv.org/abs/2507.04377)|null|
 |**2025-08-11**|**ReaGAN: Node-as-Agent-Reasoning Graph Agentic Network**|Minghao Guo et.al.|[2508.00429](http://arxiv.org/abs/2508.00429)|null|
@@ -17,6 +19,8 @@ _Updated on 2025.08.13_
 |**2025-08-11**|**PersonalAI: A Systematic Comparison of Knowledge Graph Storage and Retrieval Approaches for Personalized LLM agents**|Mikhail Menschikov et.al.|[2506.17001](http://arxiv.org/abs/2506.17001)|null|
 |**2025-08-11**|**DAGR: Decomposition Augmented Graph Retrieval with LLMs**|Valentin Six et.al.|[2506.13380](http://arxiv.org/abs/2506.13380)|null|
 |**2025-08-11**|**Reviewing Clinical Knowledge in Medical Large Language Models: Training and Beyond**|Qiyuan Li et.al.|[2502.20988](http://arxiv.org/abs/2502.20988)|null|
+|**2025-08-11**|**Vector-Centric Machine Learning Systems: A Cross-Stack Approach**|Wenqi Jiang et.al.|[2508.08469](http://arxiv.org/abs/2508.08469)|null|
+|**2025-08-11**|**What Breaks Knowledge Graph based RAG? Empirical Insights into Reasoning under Incomplete Knowledge**|Dongzhuoran Zhou et.al.|[2508.08344](http://arxiv.org/abs/2508.08344)|null|
 |**2025-08-10**|**DySK-Attn: A Framework for Efficient, Real-Time Knowledge Updating in Large Language Models via Dynamic Sparse Knowledge Attention**|Kabir Khan et.al.|[2508.07185](http://arxiv.org/abs/2508.07185)|null|
 |**2025-08-09**|**Leaps Beyond the Seen: Reinforced Reasoning Augmented Generation for Clinical Notes**|Lo Pang-Yun Ting et.al.|[2506.05386](http://arxiv.org/abs/2506.05386)|null|
 |**2025-08-09**|**QuiZSF: An efficient data-model interaction framework for zero-shot time-series forecasting**|Shichao Ma et.al.|[2508.06915](http://arxiv.org/abs/2508.06915)|null|
