@@ -28,7 +28,7 @@ _Updated on 2025.08.13_
 |**2025-08-12**|**OdysseyBench: Evaluating LLM Agents on Long-Horizon Complex Office Application Workflows**|Weixuan Wang et.al.|[2508.09124](http://arxiv.org/abs/2508.09124)|null|
 |**2025-08-12**|**ColorGPT: Leveraging Large Language Models for Multimodal Color Recommendation**|Ding Xia et.al.|[2508.08987](http://arxiv.org/abs/2508.08987)|null|
 |**2025-08-12**|**Train Long, Think Short: Curriculum Learning for Efficient Reasoning**|Hasan Abed Al Kader Hammoud et.al.|[2508.08940](http://arxiv.org/abs/2508.08940)|null|
-|**2025-08-12**|**How Does a Virtual Agent Decide Where to Look? - Symbolic Cognitive Reasoning for Embodied Head Rotation**|Juyeong Hwang et.al.|[2508.08930](http://arxiv.org/abs/2508.08930)|null|
+|**2025-08-12**|**How Does a Virtual Agent Decide Where to Look? -- Symbolic Cognitive Reasoning for Embodied Head Rotation**|Juyeong Hwang et.al.|[2508.08930](http://arxiv.org/abs/2508.08930)|null|
 |**2025-08-12**|**Compass-Thinker-7B Technical Report**|Anxiang Zeng et.al.|[2508.08909](http://arxiv.org/abs/2508.08909)|null|
 |**2025-08-12**|**The Roots of International Perceptions: Simulating US Attitude Changes Towards China with LLM Agents**|Nicholas Sukiennik et.al.|[2508.08837_(AAAI)](http://arxiv.org/abs/2508.08837)|null|
 |**2025-08-12**|**An Investigation of Robustness of LLMs in Mathematical Reasoning: Benchmarking with Mathematically-Equivalent Transformation of Advanced Mathematical Problems**|Yuren Hao et.al.|[2508.08833](http://arxiv.org/abs/2508.08833)|null|
