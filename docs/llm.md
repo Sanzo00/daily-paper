@@ -6,10 +6,13 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2025.08.13_
+_Updated on 2025.08.14_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
+|**2025-08-13**|**The Early Bird Catches the Leak: Unveiling Timing Side Channels in LLM Serving Systems**|Linke Song et.al.|[2409.20002_(DATE)](http://arxiv.org/abs/2409.20002)|null|
+|**2025-08-13**|**Capabilities of GPT-5 on Multimodal Medical Reasoning**|Shansong Wang et.al.|[2508.08224](http://arxiv.org/abs/2508.08224)|null|
+|**2025-08-13**|**Aryabhata: An exam-focused language model for JEE Math**|Ritvik Rastogi et.al.|[2508.08665](http://arxiv.org/abs/2508.08665)|null|
 |**2025-08-12**|**InfiAlign: A Scalable and Sample-Efficient Framework for Aligning LLMs to Enhance Reasoning Capabilities**|Shuo Cai et.al.|[2508.05496](http://arxiv.org/abs/2508.05496)|null|
 |**2025-08-12**|**Semantic Caching for Low-Cost LLM Serving: From Offline Learning to Online Adaptation**|Xutong Liu et.al.|[2508.07675](http://arxiv.org/abs/2508.07675)|null|
 |**2025-08-12**|**Jinx: Unlimited LLMs for Probing Alignment Failures**|Jiahao Zhao et.al.|[2508.08243](http://arxiv.org/abs/2508.08243)|**[link](https://huggingface.co/Jinx-org)**|
@@ -37,7 +40,6 @@ _Updated on 2025.08.13_
 |**2025-08-12**|**Evaluating Podcast Recommendations with Profile-Aware LLM-as-a-Judge**|Francesco Fabbri et.al.|[2508.08777_(RecSys)](http://arxiv.org/abs/2508.08777)|null|
 |**2025-08-12**|**Interpretable Reward Model via Sparse Autoencoder**|Shuyi Zhang et.al.|[2508.08746](http://arxiv.org/abs/2508.08746)|null|
 |**2025-08-12**|**Simulating Generative Social Agents via Theory-Informed Workflow Design**|Yuwei Yan et.al.|[2508.08726](http://arxiv.org/abs/2508.08726)|null|
-|**2025-08-12**|**Aryabhata: An exam-focused language model for JEE Math**|Ritvik Rastogi et.al.|[2508.08665](http://arxiv.org/abs/2508.08665)|null|
 |**2025-08-12**|**$\text{M}^{2}$LLM: Multi-view Molecular Representation Learning with Large Language Models**|Jiaxin Ju et.al.|[2508.08657_(IJCAI)](http://arxiv.org/abs/2508.08657)|null|
 |**2025-08-12**|**LLM driven Text-to-Table Generation through Sub-Tasks Guidance and Iterative Refinement**|Rajmohan C et.al.|[2508.08653](http://arxiv.org/abs/2508.08653)|null|
 |**2025-08-12**|**Prompt-and-Check: Using Large Language Models to Evaluate Communication Protocol Compliance in Simulation-Based Training**|Vishakha Lall et.al.|[2508.08652](http://arxiv.org/abs/2508.08652)|null|
@@ -47,7 +49,6 @@ _Updated on 2025.08.13_
 |**2025-08-11**|**MathSmith: Towards Extremely Hard Mathematical Reasoning by Forging Synthetic Problems with a Reinforced Policy**|Shaoxiong Zhan et.al.|[2508.05592](http://arxiv.org/abs/2508.05592)|null|
 |**2025-08-11**|**LAG: Logic-Augmented Generation from a Cartesian Perspective**|Yilin Xiao et.al.|[2508.05509](http://arxiv.org/abs/2508.05509)|null|
 |**2025-08-11**|**Exploring Safety Alignment Evaluation of LLMs in Chinese Mental Health Dialogues via LLM-as-Judge**|Yunna Cai et.al.|[2508.08236](http://arxiv.org/abs/2508.08236)|null|
-|**2025-08-11**|**Capabilities of GPT-5 on Multimodal Medical Reasoning**|Shansong Wang et.al.|[2508.08224](http://arxiv.org/abs/2508.08224)|null|
 |**2025-08-11**|**Part I: Tricks or Traps? A Deep Dive into RL for LLM Reasoning**|Zihe Liu et.al.|[2508.08221](http://arxiv.org/abs/2508.08221)|null|
 |**2025-08-11**|**PyVeritas: On Verifying Python via LLM-Based Transpilation and Bounded Model Checking for C**|Pedro Orvalho et.al.|[2508.08171](http://arxiv.org/abs/2508.08171)|null|
 |**2025-08-11**|**MuaLLM: A Multimodal Large Language Model Agent for Circuit Design Assistance with Hybrid Contextual Retrieval-Augmented Generation**|Pravallika Abbineni et.al.|[2508.08137](http://arxiv.org/abs/2508.08137)|null|
@@ -1611,7 +1612,6 @@ _Updated on 2025.08.13_
 |**2025-02-15**|**Pushing up to the Limit of Memory Bandwidth and Capacity Utilization for Efficient LLM Decoding on Embedded FPGA**|Jindong Li et.al.|[2502.10659_(DATE)](http://arxiv.org/abs/2502.10659)|null|
 |**2025-02-14**|**INF^2: High-Throughput Generative Inference of Large Language Models using Near-Storage Processing**|Hongsun Jang et.al.|[2502.09921](http://arxiv.org/abs/2502.09921)|null|
 |**2025-02-13**|**InfiniteHiP: Extending Language Model Context Up to 3 Million Tokens on a Single GPU**|Heejun Lee et.al.|[2502.08910](http://arxiv.org/abs/2502.08910)|null|
-|**2025-02-12**|**The Early Bird Catches the Leak: Unveiling Timing Side Channels in LLM Serving Systems**|Linke Song et.al.|[2409.20002_(DATE)](http://arxiv.org/abs/2409.20002)|null|
 |**2025-02-12**|**Top-Theta Attention: Sparsifying Transformers by Compensated Thresholding**|Konstantin Berestizshevsky et.al.|[2502.08363_(ISS)](http://arxiv.org/abs/2502.08363)|null|
 |**2025-02-12**|**How Sparse Attention Approximates Exact Attention? Your Attention is Naturally $n^C$-Sparse**|Yichuan Deng et.al.|[2404.02690](http://arxiv.org/abs/2404.02690)|null|
 |**2025-02-11**|**HexGen-2: Disaggregated Generative Inference of LLMs in Heterogeneous Environment**|Youhe Jiang et.al.|[2502.07903_(ICLR)](http://arxiv.org/abs/2502.07903)|null|
