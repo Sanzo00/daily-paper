@@ -10,6 +10,10 @@ _Updated on 2025.08.14_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
+|**2025-08-13**|**Memory Decoder: A Pretrained, Plug-and-Play Memory for Large Language Models**|Jiaqi Cao et.al.|[2508.09874](http://arxiv.org/abs/2508.09874)|null|
+|**2025-08-13**|**MemGuide: Intent-Driven Memory Selection for Goal-Oriented Multi-Session LLM Agents**|Yiming Du et.al.|[2505.20231](http://arxiv.org/abs/2505.20231)|null|
+|**2025-08-13**|**RAGulating Compliance: A Multi-Agent Knowledge Graph for Regulatory QA**|Bhavik Agarwal et.al.|[2508.09893](http://arxiv.org/abs/2508.09893)|null|
+|**2025-08-13**|**Towards Self-cognitive Exploration: Metacognitive Knowledge Graph Retrieval Augmented Generation**|Xujie Yuan et.al.|[2508.09460](http://arxiv.org/abs/2508.09460)|null|
 |**2025-08-12**|**Privacy-protected Retrieval-Augmented Generation for Knowledge Graph Question Answering**|Yunfeng Ning et.al.|[2508.08785](http://arxiv.org/abs/2508.08785)|null|
 |**2025-08-12**|**AgriGPT: a Large Language Model Ecosystem for Agriculture**|Bo Yang et.al.|[2508.08632](http://arxiv.org/abs/2508.08632)|null|
 |**2025-08-11**|**Structure-Augmented Reasoning Generation**|Jash Rajesh Parekh et.al.|[2506.08364](http://arxiv.org/abs/2506.08364)|null|

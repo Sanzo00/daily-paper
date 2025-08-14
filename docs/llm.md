@@ -13,6 +13,27 @@ _Updated on 2025.08.14_
 |**2025-08-13**|**The Early Bird Catches the Leak: Unveiling Timing Side Channels in LLM Serving Systems**|Linke Song et.al.|[2409.20002_(DATE)](http://arxiv.org/abs/2409.20002)|null|
 |**2025-08-13**|**Capabilities of GPT-5 on Multimodal Medical Reasoning**|Shansong Wang et.al.|[2508.08224](http://arxiv.org/abs/2508.08224)|null|
 |**2025-08-13**|**Aryabhata: An exam-focused language model for JEE Math**|Ritvik Rastogi et.al.|[2508.08665](http://arxiv.org/abs/2508.08665)|null|
+|**2025-08-13**|**Shadow in the Cache: Unveiling and Mitigating Privacy Risks of KV-cache in LLM Inference**|Zhifan Luo et.al.|[2508.09442](http://arxiv.org/abs/2508.09442)|null|
+|**2025-08-13**|**Noise Hypernetworks: Amortizing Test-Time Compute in Diffusion Models**|Luca Eyring et.al.|[2508.09968](http://arxiv.org/abs/2508.09968)|**[link](https://noisehypernetworks.github.io/)**|
+|**2025-08-13**|**Performance of GPT-5 Frontier Models in Ophthalmology Question Answering**|Fares Antaki et.al.|[2508.09956](http://arxiv.org/abs/2508.09956)|null|
+|**2025-08-13**|**Mathematical Computation and Reasoning Errors by Large Language Models**|Liang Zhang et.al.|[2508.09932](http://arxiv.org/abs/2508.09932)|null|
+|**2025-08-13**|**Wisdom of the Crowd, Without the Crowd: A Socratic LLM for Asynchronous Deliberation on Perspectivist Data**|Malik Khadar et.al.|[2508.09911_(CSCW)](http://arxiv.org/abs/2508.09911)|null|
+|**2025-08-13**|**Beyond Naïve Prompting: Strategies for Improved Zero-shot Context-aided Forecasting with LLMs**|Arjun Ashok et.al.|[2508.09904](http://arxiv.org/abs/2508.09904)|null|
+|**2025-08-13**|**Finetuning Large Language Model as an Effective Symbolic Regressor**|Yingfan Hua et.al.|[2508.09897](http://arxiv.org/abs/2508.09897)|null|
+|**2025-08-13**|**RAGulating Compliance: A Multi-Agent Knowledge Graph for Regulatory QA**|Bhavik Agarwal et.al.|[2508.09893](http://arxiv.org/abs/2508.09893)|null|
+|**2025-08-13**|**AWorld: Dynamic Multi-Agent System with Stable Maneuvering for Robust GAIA Problem Solving**|Zhitian Xie et.al.|[2508.09889](http://arxiv.org/abs/2508.09889)|null|
+|**2025-08-13**|**Beyond Scaling Law: A Data-Efficient Distillation Framework for Reasoning**|Xiaojun Wu et.al.|[2508.09883](http://arxiv.org/abs/2508.09883)|null|
+|**2025-08-13**|**PRELUDE: A Benchmark Designed to Require Global Comprehension and Reasoning over Long Contexts**|Mo Yu et.al.|[2508.09848](http://arxiv.org/abs/2508.09848)|**[link](https://gorov.github.io/prelude)**|
+|**2025-08-13**|**Speed Always Wins: A Survey on Efficient Architectures for Large Language Models**|Weigao Sun et.al.|[2508.09834](http://arxiv.org/abs/2508.09834)|**[link](https://github.com/weigao266/Awesome-Efficient-Arch)**|
+|**2025-08-13**|**Extending the OWASP Multi-Agentic System Threat Modeling Guide: Insights from Multi-Agent Security Research**|Klaudia Krawiecka et.al.|[2508.09815](http://arxiv.org/abs/2508.09815)|null|
+|**2025-08-13**|**Evaluating the Role of Large Language Models in Legal Practice in India**|Rahul Hemrajani et.al.|[2508.09713](http://arxiv.org/abs/2508.09713)|null|
+|**2025-08-13**|**MEML-GRPO: Heterogeneous Multi-Expert Mutual Learning for RLVR Advancement**|Weitao Jia et.al.|[2508.09670](http://arxiv.org/abs/2508.09670)|null|
+|**2025-08-13**|**Slow Tuning and Low-Entropy Masking for Safe Chain-of-Thought Distillation**|Ziyang Ma et.al.|[2508.09666](http://arxiv.org/abs/2508.09666)|null|
+|**2025-08-13**|**EvoCurr: Self-evolving Curriculum with Behavior Code Generation for Complex Decision-making**|Yang Cheng et.al.|[2508.09586](http://arxiv.org/abs/2508.09586)|null|
+|**2025-08-13**|**TFRank: Think-Free Reasoning Enables Practical Pointwise LLM Ranking**|Yongqi Fan et.al.|[2508.09539](http://arxiv.org/abs/2508.09539)|null|
+|**2025-08-13**|**Your Coding Intent is Secretly in the Context and You Should Deliberately Infer It Before Completion**|Yanzhou Li et.al.|[2508.09537](http://arxiv.org/abs/2508.09537)|null|
+|**2025-08-13**|**Episodic Memory Representation for Long-form Video Understanding**|Yun Wang et.al.|[2508.09486](http://arxiv.org/abs/2508.09486)|null|
+|**2025-08-13**|**Columbo: Expanding Abbreviated Column Names for Tabular Data Using Large Language Models**|Ting Cai et.al.|[2508.09403](http://arxiv.org/abs/2508.09403)|null|
 |**2025-08-12**|**InfiAlign: A Scalable and Sample-Efficient Framework for Aligning LLMs to Enhance Reasoning Capabilities**|Shuo Cai et.al.|[2508.05496](http://arxiv.org/abs/2508.05496)|null|
 |**2025-08-12**|**Semantic Caching for Low-Cost LLM Serving: From Offline Learning to Online Adaptation**|Xutong Liu et.al.|[2508.07675](http://arxiv.org/abs/2508.07675)|null|
 |**2025-08-12**|**Jinx: Unlimited LLMs for Probing Alignment Failures**|Jiahao Zhao et.al.|[2508.08243](http://arxiv.org/abs/2508.08243)|**[link](https://huggingface.co/Jinx-org)**|
@@ -46,6 +67,7 @@ _Updated on 2025.08.14_
 |**2025-08-12**|**MiGrATe: Mixed-Policy GRPO for Adaptation at Test-Time**|Peter Phan et.al.|[2508.08641](http://arxiv.org/abs/2508.08641)|null|
 |**2025-08-12**|**InternBootcamp Technical Report: Boosting LLM Reasoning with Verifiable Task Scaling**|Peiji Li et.al.|[2508.08636](http://arxiv.org/abs/2508.08636)|null|
 |**2025-08-12**|**AgriGPT: a Large Language Model Ecosystem for Agriculture**|Bo Yang et.al.|[2508.08632](http://arxiv.org/abs/2508.08632)|null|
+|**2025-08-12**|**ParallelSearch: Train your LLMs to Decompose Query and Search Sub-queries in Parallel with Reinforcement Learning**|Shu Zhao et.al.|[2508.09303](http://arxiv.org/abs/2508.09303)|null|
 |**2025-08-11**|**MathSmith: Towards Extremely Hard Mathematical Reasoning by Forging Synthetic Problems with a Reinforced Policy**|Shaoxiong Zhan et.al.|[2508.05592](http://arxiv.org/abs/2508.05592)|null|
 |**2025-08-11**|**LAG: Logic-Augmented Generation from a Cartesian Perspective**|Yilin Xiao et.al.|[2508.05509](http://arxiv.org/abs/2508.05509)|null|
 |**2025-08-11**|**Exploring Safety Alignment Evaluation of LLMs in Chinese Mental Health Dialogues via LLM-as-Judge**|Yunna Cai et.al.|[2508.08236](http://arxiv.org/abs/2508.08236)|null|
@@ -93,6 +115,7 @@ _Updated on 2025.08.14_
 |**2025-08-10**|**Schema Lineage Extraction at Scale: Multilingual Pipelines, Composite Evaluation, and Language-Model Benchmarks**|Jiaqi Yin et.al.|[2508.07179](http://arxiv.org/abs/2508.07179)|null|
 |**2025-08-10**|**How Effectively Can Large Language Models Connect SNP Variants and ECG Phenotypes for Cardiovascular Risk Prediction?**|Niranjana Arun Menon et.al.|[2508.07127](http://arxiv.org/abs/2508.07127)|null|
 |**2025-08-10**|**Energy-Aware Code Generation with LLMs: Benchmarking Small vs. Large Language Models for Sustainable AI Programming**|Humza Ashraf et.al.|[2508.08332](http://arxiv.org/abs/2508.08332)|null|
+|**2025-08-10**|**CoMoE: Collaborative Optimization of Expert Aggregation and Offloading for MoE-based LLMs at Edge**|Muqing Li et.al.|[2508.09208](http://arxiv.org/abs/2508.09208)|null|
 |**2025-08-09**|**PAE MobiLLM: Privacy-Aware and Efficient LLM Fine-Tuning on the Mobile Device via Additive Side-Tuning**|Xingke Yang et.al.|[2507.01216](http://arxiv.org/abs/2507.01216)|null|
 |**2025-08-09**|**From Nodes to Narratives: Explaining Graph Neural Networks with LLMs and Graph Context**|Peyman Baghershahi et.al.|[2508.07117](http://arxiv.org/abs/2508.07117)|null|
 |**2025-08-09**|**Investigating Intersectional Bias in Large Language Models using Confidence Disparities in Coreference Resolution**|Falaah Arif Khan et.al.|[2508.07111](http://arxiv.org/abs/2508.07111)|null|
@@ -131,6 +154,7 @@ _Updated on 2025.08.14_
 |**2025-08-08**|**Mitigating Think-Answer Mismatch in LLM Reasoning Through Noise-Aware Advantage Reweighting**|Si Shen et.al.|[2508.05928](http://arxiv.org/abs/2508.05928)|null|
 |**2025-08-08**|**BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent**|Zijian Chen et.al.|[2508.06600](http://arxiv.org/abs/2508.06600)|null|
 |**2025-08-08**|**First Ask Then Answer: A Framework Design for AI Dialogue Based on Supplementary Questioning with Large Language Models**|Chuanruo Fu et.al.|[2508.08308](http://arxiv.org/abs/2508.08308)|null|
+|**2025-08-08**|**Diffusion LLMs Can Do Faster-Than-AR Inference via Discrete Diffusion Forcing**|Xu Wang et.al.|[2508.09192](http://arxiv.org/abs/2508.09192)|null|
 |**2025-08-07**|**Making Prompts First-Class Citizens for Adaptive LLM Pipelines**|Ugur Cetintemel et.al.|[2508.05012](http://arxiv.org/abs/2508.05012)|null|
 |**2025-08-07**|**Cooper: Co-Optimizing Policy and Reward Models in Reinforcement Learning for Large Language Models**|Haitao Hong et.al.|[2508.05613](http://arxiv.org/abs/2508.05613)|**[link](https://zju-real.github.io/cooper)**|
 |**2025-08-07**|**Uni-cot: Towards Unified Chain-of-Thought Reasoning Across Text and Vision**|Luozheng Qin et.al.|[2508.05606](http://arxiv.org/abs/2508.05606)|**[link](https://sais-fuxi.github.io/projects/uni-cot/)**|
