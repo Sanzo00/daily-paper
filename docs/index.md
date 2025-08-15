@@ -10,10 +10,15 @@ _Updated on 2025.08.15_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
+|**2025-08-14**|**ComoRAG: A Cognitive-Inspired Memory-Organized RAG for Stateful Long Narrative Reasoning**|Juyuan Wang et.al.|[2508.10419](http://arxiv.org/abs/2508.10419)|null|
+|**2025-08-14**|**FIRESPARQL: A LLM-based Framework for SPARQL Query Generation over Scholarly Knowledge Graphs**|Xueli Pan et.al.|[2508.10467_(DIS)](http://arxiv.org/abs/2508.10467)|null|
+|**2025-08-14**|**LeanRAG: Knowledge-Graph-Based Generation with Semantic Aggregation and Hierarchical Retrieval**|Yaoze Zhang et.al.|[2508.10391](http://arxiv.org/abs/2508.10391)|null|
+|**2025-08-14**|**A Curriculum Learning Approach to Reinforcement Learning: Leveraging RAG for Multimodal Question Answering**|Chenliang Zhang et.al.|[2508.10337](http://arxiv.org/abs/2508.10337)|null|
 |**2025-08-13**|**Memory Decoder: A Pretrained, Plug-and-Play Memory for Large Language Models**|Jiaqi Cao et.al.|[2508.09874](http://arxiv.org/abs/2508.09874)|null|
 |**2025-08-13**|**MemGuide: Intent-Driven Memory Selection for Goal-Oriented Multi-Session LLM Agents**|Yiming Du et.al.|[2505.20231](http://arxiv.org/abs/2505.20231)|null|
 |**2025-08-13**|**RAGulating Compliance: A Multi-Agent Knowledge Graph for Regulatory QA**|Bhavik Agarwal et.al.|[2508.09893](http://arxiv.org/abs/2508.09893)|null|
 |**2025-08-13**|**Towards Self-cognitive Exploration: Metacognitive Knowledge Graph Retrieval Augmented Generation**|Xujie Yuan et.al.|[2508.09460](http://arxiv.org/abs/2508.09460)|null|
+|**2025-08-13**|**SaraCoder: Orchestrating Semantic and Structural Cues for Profit-Oriented Repository-Level Code Completion**|Xiaohan Chen et.al.|[2508.10068](http://arxiv.org/abs/2508.10068)|null|
 |**2025-08-12**|**Privacy-protected Retrieval-Augmented Generation for Knowledge Graph Question Answering**|Yunfeng Ning et.al.|[2508.08785](http://arxiv.org/abs/2508.08785)|null|
 |**2025-08-12**|**AgriGPT: a Large Language Model Ecosystem for Agriculture**|Bo Yang et.al.|[2508.08632](http://arxiv.org/abs/2508.08632)|null|
 |**2025-08-11**|**Structure-Augmented Reasoning Generation**|Jash Rajesh Parekh et.al.|[2506.08364](http://arxiv.org/abs/2506.08364)|null|
@@ -38,6 +43,7 @@ _Updated on 2025.08.15_
 |**2025-08-07**|**Efficient Knowledge Graph Construction and Retrieval from Unstructured Text for Large-Scale RAG Systems**|Congmin Min et.al.|[2507.03226](http://arxiv.org/abs/2507.03226)|null|
 |**2025-08-07**|**mKG-RAG: Multimodal Knowledge Graph-Enhanced RAG for Visual Question Answering**|Xu Yuan et.al.|[2508.05318](http://arxiv.org/abs/2508.05318)|null|
 |**2025-08-07**|**GRAIL:Learning to Interact with Large Knowledge Graphs for Retrieval Augmented Reasoning**|Ge Chang et.al.|[2508.05498](http://arxiv.org/abs/2508.05498)|null|
+|**2025-08-07**|**RTTC: Reward-Guided Collaborative Test-Time Compute**|J. Pablo Muñoz et.al.|[2508.10024](http://arxiv.org/abs/2508.10024)|null|
 |**2025-08-06**|**TURA: Tool-Augmented Unified Retrieval Agent for AI Search**|Zhejun Zhao et.al.|[2508.04604](http://arxiv.org/abs/2508.04604)|null|
 |**2025-08-05**|**MemOS: A Memory OS for AI System**|Zhiyu Li et.al.|[2507.03724](http://arxiv.org/abs/2507.03724)|null|
 |**2025-08-05**|**AttnTrace: Attention-based Context Traceback for Long-Context LLMs**|Yanting Wang et.al.|[2508.03793](http://arxiv.org/abs/2508.03793)|**[link](https://github.com/Wang-Yanting/AttnTrace.)**|

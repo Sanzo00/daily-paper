@@ -18,6 +18,22 @@ _Updated on 2025.08.15_
 |**2025-08-14**|**Mathematical Computation and Reasoning Errors by Large Language Models**|Liang Zhang et.al.|[2508.09932](http://arxiv.org/abs/2508.09932)|null|
 |**2025-08-14**|**PRELUDE: A Benchmark Designed to Require Global Comprehension and Reasoning over Long Contexts**|Mo Yu et.al.|[2508.09848](http://arxiv.org/abs/2508.09848)|**[link](https://gorov.github.io/prelude)**|
 |**2025-08-14**|**Columbo: Expanding Abbreviated Column Names for Tabular Data Using Large Language Models**|Ting Cai et.al.|[2508.09403](http://arxiv.org/abs/2508.09403)|null|
+|**2025-08-14**|**XQuant: Breaking the Memory Wall for LLM Inference with KV Cache Rematerialization**|Aditya Tomar et.al.|[2508.10395](http://arxiv.org/abs/2508.10395)|null|
+|**2025-08-14**|**A Dataset for Distilling Knowledge Priors from Literature for Therapeutic Design**|Haydn Thomas Jones et.al.|[2508.10899](http://arxiv.org/abs/2508.10899)|null|
+|**2025-08-14**|**Performance of GPT-5 in Brain Tumor MRI Reasoning**|Mojtaba Safari et.al.|[2508.10865](http://arxiv.org/abs/2508.10865)|null|
+|**2025-08-14**|**Psyche-R1: Towards Reliable Psychological LLMs through Unified Empathy, Expertise, and Reasoning**|Chongyuan Dai et.al.|[2508.10848](http://arxiv.org/abs/2508.10848)|null|
+|**2025-08-14**|**Beyond "Not Novel Enough": Enriching Scholarly Critique with LLM-Assisted Feedback**|Osama Mohammed Afzal et.al.|[2508.10795](http://arxiv.org/abs/2508.10795)|null|
+|**2025-08-14**|**The Knowledge-Reasoning Dissociation: Fundamental Limitations of LLMs in Clinical Natural Language Inference**|Maël Jullien et.al.|[2508.10777](http://arxiv.org/abs/2508.10777)|null|
+|**2025-08-14**|**Pass@k Training for Adaptively Balancing Exploration and Exploitation of Large Reasoning Models**|Zhipeng Chen et.al.|[2508.10751](http://arxiv.org/abs/2508.10751)|null|
+|**2025-08-14**|**Towards Agentic AI for Multimodal-Guided Video Object Segmentation**|Tuyen Tran et.al.|[2508.10572](http://arxiv.org/abs/2508.10572)|null|
+|**2025-08-14**|**Improving Value-based Process Verifier via Low-Cost Variance Reduction**|Zetian Sun et.al.|[2508.10539](http://arxiv.org/abs/2508.10539)|null|
+|**2025-08-14**|**A Unified Multi-Agent Framework for Universal Multimodal Understanding and Generation**|Jiulin Li et.al.|[2508.10494](http://arxiv.org/abs/2508.10494)|null|
+|**2025-08-14**|**X-Node: Self-Explanation is All We Need**|Prajit Sengupta et.al.|[2508.10461](http://arxiv.org/abs/2508.10461)|null|
+|**2025-08-14**|**SC2Arena and StarEvolve: Benchmark and Self-Improvement Framework for LLMs in Complex Decision-Making Tasks**|Pengbo Shen et.al.|[2508.10428](http://arxiv.org/abs/2508.10428)|null|
+|**2025-08-14**|**ComoRAG: A Cognitive-Inspired Memory-Organized RAG for Stateful Long Narrative Reasoning**|Juyuan Wang et.al.|[2508.10419](http://arxiv.org/abs/2508.10419)|null|
+|**2025-08-14**|**What to Ask Next? Probing the Imaginative Reasoning of LLMs with TurtleSoup Puzzles**|Mengtao Zhou et.al.|[2508.10358](http://arxiv.org/abs/2508.10358)|null|
+|**2025-08-14**|**JRDB-Reasoning: A Difficulty-Graded Benchmark for Visual Reasoning in Robotics**|Simindokht Jahangard et.al.|[2508.10287](http://arxiv.org/abs/2508.10287)|null|
+|**2025-08-14**|**Why Cannot Large Language Models Ever Make True Correct Reasoning?**|Jingde Cheng et.al.|[2508.10265](http://arxiv.org/abs/2508.10265)|null|
 |**2025-08-13**|**The Early Bird Catches the Leak: Unveiling Timing Side Channels in LLM Serving Systems**|Linke Song et.al.|[2409.20002_(DATE)](http://arxiv.org/abs/2409.20002)|null|
 |**2025-08-13**|**Capabilities of GPT-5 on Multimodal Medical Reasoning**|Shansong Wang et.al.|[2508.08224](http://arxiv.org/abs/2508.08224)|null|
 |**2025-08-13**|**Aryabhata: An exam-focused language model for JEE Math**|Ritvik Rastogi et.al.|[2508.08665](http://arxiv.org/abs/2508.08665)|null|
@@ -38,6 +54,14 @@ _Updated on 2025.08.15_
 |**2025-08-13**|**TFRank: Think-Free Reasoning Enables Practical Pointwise LLM Ranking**|Yongqi Fan et.al.|[2508.09539](http://arxiv.org/abs/2508.09539)|null|
 |**2025-08-13**|**Your Coding Intent is Secretly in the Context and You Should Deliberately Infer It Before Completion**|Yanzhou Li et.al.|[2508.09537](http://arxiv.org/abs/2508.09537)|null|
 |**2025-08-13**|**Episodic Memory Representation for Long-form Video Understanding**|Yun Wang et.al.|[2508.09486](http://arxiv.org/abs/2508.09486)|null|
+|**2025-08-13**|**Agentic AI Frameworks: Architectures, Protocols, and Design Challenges**|Hana Derouiche et.al.|[2508.10146](http://arxiv.org/abs/2508.10146)|null|
+|**2025-08-13**|**Multi-Turn Puzzles: Evaluating Interactive Reasoning and Strategic Dialogue in LLMs**|Kartikeya Badola et.al.|[2508.10142](http://arxiv.org/abs/2508.10142)|null|
+|**2025-08-13**|**mSCoRe: a $M$ultilingual and Scalable Benchmark for $S$kill-based $Co$mmonsense $Re$asoning**|Nghia Trung Ngo et.al.|[2508.10137](http://arxiv.org/abs/2508.10137)|null|
+|**2025-08-13**|**Nested-ReFT: Efficient Reinforcement Learning for Large Language Model Fine-Tuning via Off-Policy Rollouts**|Maxime Heuillet et.al.|[2508.10123](http://arxiv.org/abs/2508.10123)|null|
+|**2025-08-13**|**From Intent to Execution: Multimodal Chain-of-Thought Reinforcement Learning for Precise CAD Code Generation**|Ke Niu et.al.|[2508.10118](http://arxiv.org/abs/2508.10118)|null|
+|**2025-08-13**|**Less is More: Learning Graph Tasks with Just LLMs**|Sola Shirai et.al.|[2508.10115](http://arxiv.org/abs/2508.10115)|null|
+|**2025-08-13**|**Amazon Nova AI Challenge -- Trusted AI: Advancing secure, AI-assisted software development**|Sattvik Sahai et.al.|[2508.10108](http://arxiv.org/abs/2508.10108)|null|
+|**2025-08-13**|**Teaching LLMs to Speak Spectroscopy**|Nesar Ramachandra et.al.|[2508.10075_(CHI)](http://arxiv.org/abs/2508.10075)|null|
 |**2025-08-12**|**InfiAlign: A Scalable and Sample-Efficient Framework for Aligning LLMs to Enhance Reasoning Capabilities**|Shuo Cai et.al.|[2508.05496](http://arxiv.org/abs/2508.05496)|null|
 |**2025-08-12**|**Semantic Caching for Low-Cost LLM Serving: From Offline Learning to Online Adaptation**|Xutong Liu et.al.|[2508.07675](http://arxiv.org/abs/2508.07675)|null|
 |**2025-08-12**|**Jinx: Unlimited LLMs for Probing Alignment Failures**|Jiahao Zhao et.al.|[2508.08243](http://arxiv.org/abs/2508.08243)|**[link](https://huggingface.co/Jinx-org)**|
@@ -69,6 +93,7 @@ _Updated on 2025.08.15_
 |**2025-08-12**|**InternBootcamp Technical Report: Boosting LLM Reasoning with Verifiable Task Scaling**|Peiji Li et.al.|[2508.08636](http://arxiv.org/abs/2508.08636)|null|
 |**2025-08-12**|**AgriGPT: a Large Language Model Ecosystem for Agriculture**|Bo Yang et.al.|[2508.08632](http://arxiv.org/abs/2508.08632)|null|
 |**2025-08-12**|**ParallelSearch: Train your LLMs to Decompose Query and Search Sub-queries in Parallel with Reinforcement Learning**|Shu Zhao et.al.|[2508.09303](http://arxiv.org/abs/2508.09303)|null|
+|**2025-08-12**|**Large Language Models Show Signs of Alignment with Human Neurocognition During Abstract Reasoning**|Christopher Pinier et.al.|[2508.10057_(SC)](http://arxiv.org/abs/2508.10057)|null|
 |**2025-08-11**|**MathSmith: Towards Extremely Hard Mathematical Reasoning by Forging Synthetic Problems with a Reinforced Policy**|Shaoxiong Zhan et.al.|[2508.05592](http://arxiv.org/abs/2508.05592)|null|
 |**2025-08-11**|**LAG: Logic-Augmented Generation from a Cartesian Perspective**|Yilin Xiao et.al.|[2508.05509](http://arxiv.org/abs/2508.05509)|null|
 |**2025-08-11**|**Exploring Safety Alignment Evaluation of LLMs in Chinese Mental Health Dialogues via LLM-as-Judge**|Yunna Cai et.al.|[2508.08236](http://arxiv.org/abs/2508.08236)|null|
@@ -200,6 +225,7 @@ _Updated on 2025.08.15_
 |**2025-08-07**|**A Framework for Inherently Safer AGI through Language-Mediated Active Inference**|Bo Wen et.al.|[2508.05766](http://arxiv.org/abs/2508.05766)|null|
 |**2025-08-07**|**G-UBS: Towards Robust Understanding of Implicit Feedback via Group-Aware User Behavior Simulation**|Boyu Chen et.al.|[2508.05709](http://arxiv.org/abs/2508.05709)|null|
 |**2025-08-07**|**Semantic Reasoning Meets Numerical Precision: An LLM-Powered Multi-Agent System for Power Grid Control**|Yan Zhang et.al.|[2508.05702](http://arxiv.org/abs/2508.05702)|null|
+|**2025-08-07**|**RTTC: Reward-Guided Collaborative Test-Time Compute**|J. Pablo Muñoz et.al.|[2508.10024](http://arxiv.org/abs/2508.10024)|null|
 |**2025-08-06**|**Share Your Attention: Transformer Weight Sharing via Matrix-based Dictionary Learning**|Magauiya Zhussip et.al.|[2508.04581](http://arxiv.org/abs/2508.04581)|null|
 |**2025-08-06**|**CARD: Cache-Assisted Parallel Speculative Decoding for Efficient Large Language Model Inference**|Enyu Zhou et.al.|[2508.04462](http://arxiv.org/abs/2508.04462)|null|
 |**2025-08-06**|**KVSink: Understanding and Enhancing the Preservation of Attention Sinks in KV Cache Quantization for LLMs**|Zunhai Su et.al.|[2508.04257](http://arxiv.org/abs/2508.04257)|null|
