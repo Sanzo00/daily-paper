@@ -6,24 +6,29 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2025.08.14_
+_Updated on 2025.08.15_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
+|**2025-08-14**|**FreeKV: Boosting KV Cache Retrieval for Efficient LLM Inference**|Guangda Liu et.al.|[2505.13109](http://arxiv.org/abs/2505.13109)|null|
+|**2025-08-14**|**ASPD: Unlocking Adaptive Serial-Parallel Decoding by Exploring Intrinsic Parallelism in LLMs**|Keyu Chen et.al.|[2508.08895](http://arxiv.org/abs/2508.08895)|null|
+|**2025-08-14**|**Compass-Thinker-7B Technical Report**|Anxiang Zeng et.al.|[2508.08909](http://arxiv.org/abs/2508.08909)|null|
+|**2025-08-14**|**Interpretable Reward Model via Sparse Autoencoder**|Shuyi Zhang et.al.|[2508.08746](http://arxiv.org/abs/2508.08746)|null|
+|**2025-08-14**|**Performance of GPT-5 Frontier Models in Ophthalmology Question Answering**|Fares Antaki et.al.|[2508.09956](http://arxiv.org/abs/2508.09956)|null|
+|**2025-08-14**|**Mathematical Computation and Reasoning Errors by Large Language Models**|Liang Zhang et.al.|[2508.09932](http://arxiv.org/abs/2508.09932)|null|
+|**2025-08-14**|**PRELUDE: A Benchmark Designed to Require Global Comprehension and Reasoning over Long Contexts**|Mo Yu et.al.|[2508.09848](http://arxiv.org/abs/2508.09848)|**[link](https://gorov.github.io/prelude)**|
+|**2025-08-14**|**Columbo: Expanding Abbreviated Column Names for Tabular Data Using Large Language Models**|Ting Cai et.al.|[2508.09403](http://arxiv.org/abs/2508.09403)|null|
 |**2025-08-13**|**The Early Bird Catches the Leak: Unveiling Timing Side Channels in LLM Serving Systems**|Linke Song et.al.|[2409.20002_(DATE)](http://arxiv.org/abs/2409.20002)|null|
 |**2025-08-13**|**Capabilities of GPT-5 on Multimodal Medical Reasoning**|Shansong Wang et.al.|[2508.08224](http://arxiv.org/abs/2508.08224)|null|
 |**2025-08-13**|**Aryabhata: An exam-focused language model for JEE Math**|Ritvik Rastogi et.al.|[2508.08665](http://arxiv.org/abs/2508.08665)|null|
 |**2025-08-13**|**Shadow in the Cache: Unveiling and Mitigating Privacy Risks of KV-cache in LLM Inference**|Zhifan Luo et.al.|[2508.09442](http://arxiv.org/abs/2508.09442)|null|
 |**2025-08-13**|**Noise Hypernetworks: Amortizing Test-Time Compute in Diffusion Models**|Luca Eyring et.al.|[2508.09968](http://arxiv.org/abs/2508.09968)|**[link](https://noisehypernetworks.github.io/)**|
-|**2025-08-13**|**Performance of GPT-5 Frontier Models in Ophthalmology Question Answering**|Fares Antaki et.al.|[2508.09956](http://arxiv.org/abs/2508.09956)|null|
-|**2025-08-13**|**Mathematical Computation and Reasoning Errors by Large Language Models**|Liang Zhang et.al.|[2508.09932](http://arxiv.org/abs/2508.09932)|null|
 |**2025-08-13**|**Wisdom of the Crowd, Without the Crowd: A Socratic LLM for Asynchronous Deliberation on Perspectivist Data**|Malik Khadar et.al.|[2508.09911_(CSCW)](http://arxiv.org/abs/2508.09911)|null|
 |**2025-08-13**|**Beyond Naïve Prompting: Strategies for Improved Zero-shot Context-aided Forecasting with LLMs**|Arjun Ashok et.al.|[2508.09904](http://arxiv.org/abs/2508.09904)|null|
 |**2025-08-13**|**Finetuning Large Language Model as an Effective Symbolic Regressor**|Yingfan Hua et.al.|[2508.09897](http://arxiv.org/abs/2508.09897)|null|
 |**2025-08-13**|**RAGulating Compliance: A Multi-Agent Knowledge Graph for Regulatory QA**|Bhavik Agarwal et.al.|[2508.09893](http://arxiv.org/abs/2508.09893)|null|
 |**2025-08-13**|**AWorld: Dynamic Multi-Agent System with Stable Maneuvering for Robust GAIA Problem Solving**|Zhitian Xie et.al.|[2508.09889](http://arxiv.org/abs/2508.09889)|null|
 |**2025-08-13**|**Beyond Scaling Law: A Data-Efficient Distillation Framework for Reasoning**|Xiaojun Wu et.al.|[2508.09883](http://arxiv.org/abs/2508.09883)|null|
-|**2025-08-13**|**PRELUDE: A Benchmark Designed to Require Global Comprehension and Reasoning over Long Contexts**|Mo Yu et.al.|[2508.09848](http://arxiv.org/abs/2508.09848)|**[link](https://gorov.github.io/prelude)**|
 |**2025-08-13**|**Speed Always Wins: A Survey on Efficient Architectures for Large Language Models**|Weigao Sun et.al.|[2508.09834](http://arxiv.org/abs/2508.09834)|**[link](https://github.com/weigao266/Awesome-Efficient-Arch)**|
 |**2025-08-13**|**Extending the OWASP Multi-Agentic System Threat Modeling Guide: Insights from Multi-Agent Security Research**|Klaudia Krawiecka et.al.|[2508.09815](http://arxiv.org/abs/2508.09815)|null|
 |**2025-08-13**|**Evaluating the Role of Large Language Models in Legal Practice in India**|Rahul Hemrajani et.al.|[2508.09713](http://arxiv.org/abs/2508.09713)|null|
@@ -33,7 +38,6 @@ _Updated on 2025.08.14_
 |**2025-08-13**|**TFRank: Think-Free Reasoning Enables Practical Pointwise LLM Ranking**|Yongqi Fan et.al.|[2508.09539](http://arxiv.org/abs/2508.09539)|null|
 |**2025-08-13**|**Your Coding Intent is Secretly in the Context and You Should Deliberately Infer It Before Completion**|Yanzhou Li et.al.|[2508.09537](http://arxiv.org/abs/2508.09537)|null|
 |**2025-08-13**|**Episodic Memory Representation for Long-form Video Understanding**|Yun Wang et.al.|[2508.09486](http://arxiv.org/abs/2508.09486)|null|
-|**2025-08-13**|**Columbo: Expanding Abbreviated Column Names for Tabular Data Using Large Language Models**|Ting Cai et.al.|[2508.09403](http://arxiv.org/abs/2508.09403)|null|
 |**2025-08-12**|**InfiAlign: A Scalable and Sample-Efficient Framework for Aligning LLMs to Enhance Reasoning Capabilities**|Shuo Cai et.al.|[2508.05496](http://arxiv.org/abs/2508.05496)|null|
 |**2025-08-12**|**Semantic Caching for Low-Cost LLM Serving: From Offline Learning to Online Adaptation**|Xutong Liu et.al.|[2508.07675](http://arxiv.org/abs/2508.07675)|null|
 |**2025-08-12**|**Jinx: Unlimited LLMs for Probing Alignment Failures**|Jiahao Zhao et.al.|[2508.08243](http://arxiv.org/abs/2508.08243)|**[link](https://huggingface.co/Jinx-org)**|
@@ -45,7 +49,6 @@ _Updated on 2025.08.14_
 |**2025-08-12**|**Technical Report: Full-Stack Fine-Tuning for the Q Programming Language**|Brendan R. Hogan et.al.|[2508.06813](http://arxiv.org/abs/2508.06813)|null|
 |**2025-08-12**|**READER: Retrieval-Assisted Drafter for Efficient LLM Inference**|Maxim Divilkovskiy et.al.|[2508.09072](http://arxiv.org/abs/2508.09072)|null|
 |**2025-08-12**|**Retrospective Sparse Attention for Efficient Long-Context Generation**|Seonghwan Choi et.al.|[2508.09001](http://arxiv.org/abs/2508.09001)|null|
-|**2025-08-12**|**ASPD: Unlocking Adaptive Serial-Parallel Decoding by Exploring Intrinsic Parallelism in LLMs**|Keyu Chen et.al.|[2508.08895](http://arxiv.org/abs/2508.08895)|null|
 |**2025-08-12**|**Profiling Large Language Model Inference on Apple Silicon: A Quantization Perspective**|Afsara Benazir et.al.|[2508.08531](http://arxiv.org/abs/2508.08531)|null|
 |**2025-08-12**|**BrowseMaster: Towards Scalable Web Browsing via Tool-Augmented Programmatic Agent Pair**|Xianghe Pang et.al.|[2508.09129](http://arxiv.org/abs/2508.09129)|null|
 |**2025-08-12**|**Complex Logical Instruction Generation**|Mian Zhang et.al.|[2508.09125](http://arxiv.org/abs/2508.09125)|null|
@@ -53,13 +56,11 @@ _Updated on 2025.08.14_
 |**2025-08-12**|**ColorGPT: Leveraging Large Language Models for Multimodal Color Recommendation**|Ding Xia et.al.|[2508.08987](http://arxiv.org/abs/2508.08987)|null|
 |**2025-08-12**|**Train Long, Think Short: Curriculum Learning for Efficient Reasoning**|Hasan Abed Al Kader Hammoud et.al.|[2508.08940](http://arxiv.org/abs/2508.08940)|null|
 |**2025-08-12**|**How Does a Virtual Agent Decide Where to Look? -- Symbolic Cognitive Reasoning for Embodied Head Rotation**|Juyeong Hwang et.al.|[2508.08930](http://arxiv.org/abs/2508.08930)|null|
-|**2025-08-12**|**Compass-Thinker-7B Technical Report**|Anxiang Zeng et.al.|[2508.08909](http://arxiv.org/abs/2508.08909)|null|
 |**2025-08-12**|**The Roots of International Perceptions: Simulating US Attitude Changes Towards China with LLM Agents**|Nicholas Sukiennik et.al.|[2508.08837_(AAAI)](http://arxiv.org/abs/2508.08837)|null|
 |**2025-08-12**|**An Investigation of Robustness of LLMs in Mathematical Reasoning: Benchmarking with Mathematically-Equivalent Transformation of Advanced Mathematical Problems**|Yuren Hao et.al.|[2508.08833](http://arxiv.org/abs/2508.08833)|null|
 |**2025-08-12**|**3DFroMLLM: 3D Prototype Generation only from Pretrained Multimodal LLMs**|Noor Ahmed et.al.|[2508.08821](http://arxiv.org/abs/2508.08821)|null|
 |**2025-08-12**|**Feedback-Driven Tool-Use Improvements in Large Language Models via Automated Build Environments**|Junjie Ye et.al.|[2508.08791](http://arxiv.org/abs/2508.08791)|null|
 |**2025-08-12**|**Evaluating Podcast Recommendations with Profile-Aware LLM-as-a-Judge**|Francesco Fabbri et.al.|[2508.08777_(RecSys)](http://arxiv.org/abs/2508.08777)|null|
-|**2025-08-12**|**Interpretable Reward Model via Sparse Autoencoder**|Shuyi Zhang et.al.|[2508.08746](http://arxiv.org/abs/2508.08746)|null|
 |**2025-08-12**|**Simulating Generative Social Agents via Theory-Informed Workflow Design**|Yuwei Yan et.al.|[2508.08726](http://arxiv.org/abs/2508.08726)|null|
 |**2025-08-12**|**$\text{M}^{2}$LLM: Multi-view Molecular Representation Learning with Large Language Models**|Jiaxin Ju et.al.|[2508.08657_(IJCAI)](http://arxiv.org/abs/2508.08657)|null|
 |**2025-08-12**|**LLM driven Text-to-Table Generation through Sub-Tasks Guidance and Iterative Refinement**|Rajmohan C et.al.|[2508.08653](http://arxiv.org/abs/2508.08653)|null|
@@ -1477,7 +1478,6 @@ _Updated on 2025.08.14_
 |**2025-05-20**|**KeyDiff: Key Similarity-Based KV Cache Eviction for Long-Context LLM Inference in Resource-Constrained Environments**|Junyoung Park et.al.|[2504.15364](http://arxiv.org/abs/2504.15364)|null|
 |**2025-05-20**|**Scaling Test-Time Inference with Policy-Optimized, Dynamic Retrieval-Augmented Generation via KV Caching and Decoding**|Sakhinana Sagar Srinivas et.al.|[2504.01281](http://arxiv.org/abs/2504.01281)|null|
 |**2025-05-20**|**Online Scheduling for LLM Inference with KV Cache Constraints**|Patrick Jaillet et.al.|[2502.07115](http://arxiv.org/abs/2502.07115)|null|
-|**2025-05-19**|**FreeKV: Boosting KV Cache Retrieval for Efficient LLM Inference**|Guangda Liu et.al.|[2505.13109](http://arxiv.org/abs/2505.13109)|null|
 |**2025-05-19**|**AD-AGENT: A Multi-agent Framework for End-to-end Anomaly Detection**|Tiankai Yang et.al.|[2505.12594](http://arxiv.org/abs/2505.12594)|null|
 |**2025-05-19**|**SubGCache: Accelerating Graph-based RAG with Subgraph-level KV Cache**|Qiuyu Zhu et.al.|[2505.10951](http://arxiv.org/abs/2505.10951)|null|
 |**2025-05-19**|**FreqKV: Frequency Domain Key-Value Compression for Efficient Context Window Extension**|Jushi Kai et.al.|[2505.00570](http://arxiv.org/abs/2505.00570)|null|
