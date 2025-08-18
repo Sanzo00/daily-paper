@@ -13,6 +13,23 @@ _Updated on 2025.08.18_
 |**2025-08-15**|**ElasticMM: Efficient Multimodal LLMs Serving with Elastic Multimodal Parallelism**|Zedong Liu et.al.|[2507.10069](http://arxiv.org/abs/2507.10069)|null|
 |**2025-08-15**|**The Roots of International Perceptions: Simulating US Attitude Changes Towards China with LLM Agents**|Nicholas Sukiennik et.al.|[2508.08837_(AAAI)](http://arxiv.org/abs/2508.08837)|null|
 |**2025-08-15**|**Slow Tuning and Low-Entropy Masking for Safe Chain-of-Thought Distillation**|Ziyang Ma et.al.|[2508.09666](http://arxiv.org/abs/2508.09666)|null|
+|**2025-08-15**|**Dynamic Quality-Latency Aware Routing for LLM Inference in Wireless Edge-Device Networks**|Rui Bao et.al.|[2508.11291_(CCC)](http://arxiv.org/abs/2508.11291)|null|
+|**2025-08-15**|**Is ChatGPT-5 Ready for Mammogram VQA?**|Qiang Li et.al.|[2508.11628](http://arxiv.org/abs/2508.11628)|null|
+|**2025-08-15**|**Aware First, Think Less: Dynamic Boundary Self-Awareness Drives Extreme Reasoning Efficiency in Large Language Models**|Qiguang Chen et.al.|[2508.11582](http://arxiv.org/abs/2508.11582)|null|
+|**2025-08-15**|**Reference Points in LLM Sentiment Analysis: The Role of Structured Context**|Junichiro Niimi et.al.|[2508.11454](http://arxiv.org/abs/2508.11454)|null|
+|**2025-08-15**|**HumorPlanSearch: Structured Planning and HuCoT for Contextual AI Humor**|Shivam Dubey et.al.|[2508.11429](http://arxiv.org/abs/2508.11429)|null|
+|**2025-08-15**|**AIM-Bench: Evaluating Decision-making Biases of Agentic LLM as Inventory Manager**|Xuhua Zhao et.al.|[2508.11416](http://arxiv.org/abs/2508.11416)|null|
+|**2025-08-15**|**Trustworthy AI Psychotherapy: Multi-Agent LLM Workflow for Counseling and Explainable Mental Disorder Diagnosis**|Mithat Can Ozgun et.al.|[2508.11398_(CIKM)](http://arxiv.org/abs/2508.11398)|null|
+|**2025-08-15**|**ETTRL: Balancing Exploration and Exploitation in LLM Test-Time Reinforcement Learning Via Entropy Mechanism**|Jia Liu et.al.|[2508.11356](http://arxiv.org/abs/2508.11356)|null|
+|**2025-08-15**|**LLM Compression: How Far Can We Go in Balancing Size and Performance?**|Sahil Sk et.al.|[2508.11318](http://arxiv.org/abs/2508.11318)|null|
+|**2025-08-15**|**Defects4Log: Benchmarking LLMs for Logging Code Defect Detection and Reasoning**|Xin Wang et.al.|[2508.11305](http://arxiv.org/abs/2508.11305)|null|
+|**2025-08-15**|**LETToT: Label-Free Evaluation of Large Language Models On Tourism Using Expert Tree-of-Thought**|Ruiyan Qi et.al.|[2508.11280](http://arxiv.org/abs/2508.11280)|null|
+|**2025-08-15**|**Is General-Purpose AI Reasoning Sensitive to Data-Induced Cognitive Biases? Dynamic Benchmarking on Typical Software Engineering Dilemmas**|Francesco Sovrano et.al.|[2508.11278](http://arxiv.org/abs/2508.11278)|null|
+|**2025-08-15**|**UNVEILING: What Makes Linguistics Olympiad Puzzles Tricky for LLMs?**|Mukund Choudhary et.al.|[2508.11260](http://arxiv.org/abs/2508.11260)|null|
+|**2025-08-15**|**ORFuzz: Fuzzing the "Other Side" of LLM Safety -- Testing Over-Refusal**|Haonan Zhang et.al.|[2508.11222](http://arxiv.org/abs/2508.11222)|null|
+|**2025-08-15**|**Personalized Distractor Generation via MCTS-Guided Reasoning Reconstruction**|Tao Wu et.al.|[2508.11184](http://arxiv.org/abs/2508.11184)|null|
+|**2025-08-15**|**MobQA: A Benchmark Dataset for Semantic Understanding of Human Mobility Data through Question Answering**|Hikaru Asano et.al.|[2508.11163](http://arxiv.org/abs/2508.11163)|null|
+|**2025-08-15**|**MoNaCo: More Natural and Complex Questions for Reasoning Across Dozens of Documents**|Tomer Wolfson et.al.|[2508.11133_(ACL)](http://arxiv.org/abs/2508.11133)|null|
 |**2025-08-14**|**FreeKV: Boosting KV Cache Retrieval for Efficient LLM Inference**|Guangda Liu et.al.|[2505.13109](http://arxiv.org/abs/2505.13109)|null|
 |**2025-08-14**|**ASPD: Unlocking Adaptive Serial-Parallel Decoding by Exploring Intrinsic Parallelism in LLMs**|Keyu Chen et.al.|[2508.08895](http://arxiv.org/abs/2508.08895)|null|
 |**2025-08-14**|**Compass-Thinker-7B Technical Report**|Anxiang Zeng et.al.|[2508.08909](http://arxiv.org/abs/2508.08909)|null|
@@ -37,6 +54,12 @@ _Updated on 2025.08.18_
 |**2025-08-14**|**What to Ask Next? Probing the Imaginative Reasoning of LLMs with TurtleSoup Puzzles**|Mengtao Zhou et.al.|[2508.10358](http://arxiv.org/abs/2508.10358)|null|
 |**2025-08-14**|**JRDB-Reasoning: A Difficulty-Graded Benchmark for Visual Reasoning in Robotics**|Simindokht Jahangard et.al.|[2508.10287](http://arxiv.org/abs/2508.10287)|null|
 |**2025-08-14**|**Why Cannot Large Language Models Ever Make True Correct Reasoning?**|Jingde Cheng et.al.|[2508.10265](http://arxiv.org/abs/2508.10265)|null|
+|**2025-08-14**|**Utilizing Vision-Language Models as Action Models for Intent Recognition and Assistance**|Cesar Alan Contreras et.al.|[2508.11093](http://arxiv.org/abs/2508.11093)|null|
+|**2025-08-14**|**Can Multi-modal (reasoning) LLMs detect document manipulation?**|Zisheng Liang et.al.|[2508.11021](http://arxiv.org/abs/2508.11021)|null|
+|**2025-08-14**|**CURE: Critical-Token-Guided Re-concatenation for Entropy-collapse Prevention**|Qingbin Li et.al.|[2508.11016](http://arxiv.org/abs/2508.11016)|null|
+|**2025-08-14**|**Rule2Text: A Framework for Generating and Evaluating Natural Language Explanations of Knowledge Graph Rules**|Nasim Shirvani-Mahdavi et.al.|[2508.10971](http://arxiv.org/abs/2508.10971)|null|
+|**2025-08-14**|**Retro-Expert: Collaborative Reasoning for Interpretable Retrosynthesis**|Xinyi Li et.al.|[2508.10967](http://arxiv.org/abs/2508.10967)|null|
+|**2025-08-14**|**Empowering Multimodal LLMs with External Tools: A Comprehensive Survey**|Wenbin An et.al.|[2508.10955](http://arxiv.org/abs/2508.10955)|null|
 |**2025-08-13**|**The Early Bird Catches the Leak: Unveiling Timing Side Channels in LLM Serving Systems**|Linke Song et.al.|[2409.20002_(DATE)](http://arxiv.org/abs/2409.20002)|null|
 |**2025-08-13**|**Capabilities of GPT-5 on Multimodal Medical Reasoning**|Shansong Wang et.al.|[2508.08224](http://arxiv.org/abs/2508.08224)|null|
 |**2025-08-13**|**Aryabhata: An exam-focused language model for JEE Math**|Ritvik Rastogi et.al.|[2508.08665](http://arxiv.org/abs/2508.08665)|null|
@@ -64,6 +87,8 @@ _Updated on 2025.08.18_
 |**2025-08-13**|**Less is More: Learning Graph Tasks with Just LLMs**|Sola Shirai et.al.|[2508.10115](http://arxiv.org/abs/2508.10115)|null|
 |**2025-08-13**|**Amazon Nova AI Challenge -- Trusted AI: Advancing secure, AI-assisted software development**|Sattvik Sahai et.al.|[2508.10108](http://arxiv.org/abs/2508.10108)|null|
 |**2025-08-13**|**Teaching LLMs to Speak Spectroscopy**|Nesar Ramachandra et.al.|[2508.10075_(CHI)](http://arxiv.org/abs/2508.10075)|null|
+|**2025-08-13**|**Apriel-Nemotron-15B-Thinker**|Shruthan Radhakrishna et.al.|[2508.10948](http://arxiv.org/abs/2508.10948)|null|
+|**2025-08-13**|**MedAtlas: Evaluating LLMs for Multi-Round, Multi-Task Medical Reasoning Across Diverse Imaging Modalities and Clinical Text**|Ronghao Xu et.al.|[2508.10947](http://arxiv.org/abs/2508.10947)|null|
 |**2025-08-12**|**InfiAlign: A Scalable and Sample-Efficient Framework for Aligning LLMs to Enhance Reasoning Capabilities**|Shuo Cai et.al.|[2508.05496](http://arxiv.org/abs/2508.05496)|null|
 |**2025-08-12**|**Semantic Caching for Low-Cost LLM Serving: From Offline Learning to Online Adaptation**|Xutong Liu et.al.|[2508.07675](http://arxiv.org/abs/2508.07675)|null|
 |**2025-08-12**|**Jinx: Unlimited LLMs for Probing Alignment Failures**|Jiahao Zhao et.al.|[2508.08243](http://arxiv.org/abs/2508.08243)|**[link](https://huggingface.co/Jinx-org)**|

@@ -11,6 +11,7 @@ _Updated on 2025.08.18_
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
 |**2025-08-15**|**A Systematic Literature Review of Retrieval-Augmented Generation: Techniques, Metrics, and Challenges**|Andrew Brown et.al.|[2508.06401](http://arxiv.org/abs/2508.06401)|null|
+|**2025-08-15**|**Cross-Granularity Hypergraph Retrieval-Augmented Generation for Multi-hop Question Answering**|Changjian Wang et.al.|[2508.11247](http://arxiv.org/abs/2508.11247)|null|
 |**2025-08-14**|**ComoRAG: A Cognitive-Inspired Memory-Organized RAG for Stateful Long Narrative Reasoning**|Juyuan Wang et.al.|[2508.10419](http://arxiv.org/abs/2508.10419)|null|
 |**2025-08-14**|**FIRESPARQL: A LLM-based Framework for SPARQL Query Generation over Scholarly Knowledge Graphs**|Xueli Pan et.al.|[2508.10467_(DIS)](http://arxiv.org/abs/2508.10467)|null|
 |**2025-08-14**|**LeanRAG: Knowledge-Graph-Based Generation with Semantic Aggregation and Hierarchical Retrieval**|Yaoze Zhang et.al.|[2508.10391](http://arxiv.org/abs/2508.10391)|null|
