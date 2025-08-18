@@ -6,10 +6,13 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2025.08.17_
+_Updated on 2025.08.18_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
+|**2025-08-15**|**ElasticMM: Efficient Multimodal LLMs Serving with Elastic Multimodal Parallelism**|Zedong Liu et.al.|[2507.10069](http://arxiv.org/abs/2507.10069)|null|
+|**2025-08-15**|**The Roots of International Perceptions: Simulating US Attitude Changes Towards China with LLM Agents**|Nicholas Sukiennik et.al.|[2508.08837_(AAAI)](http://arxiv.org/abs/2508.08837)|null|
+|**2025-08-15**|**Slow Tuning and Low-Entropy Masking for Safe Chain-of-Thought Distillation**|Ziyang Ma et.al.|[2508.09666](http://arxiv.org/abs/2508.09666)|null|
 |**2025-08-14**|**FreeKV: Boosting KV Cache Retrieval for Efficient LLM Inference**|Guangda Liu et.al.|[2505.13109](http://arxiv.org/abs/2505.13109)|null|
 |**2025-08-14**|**ASPD: Unlocking Adaptive Serial-Parallel Decoding by Exploring Intrinsic Parallelism in LLMs**|Keyu Chen et.al.|[2508.08895](http://arxiv.org/abs/2508.08895)|null|
 |**2025-08-14**|**Compass-Thinker-7B Technical Report**|Anxiang Zeng et.al.|[2508.08909](http://arxiv.org/abs/2508.08909)|null|
@@ -49,7 +52,6 @@ _Updated on 2025.08.17_
 |**2025-08-13**|**Extending the OWASP Multi-Agentic System Threat Modeling Guide: Insights from Multi-Agent Security Research**|Klaudia Krawiecka et.al.|[2508.09815](http://arxiv.org/abs/2508.09815)|null|
 |**2025-08-13**|**Evaluating the Role of Large Language Models in Legal Practice in India**|Rahul Hemrajani et.al.|[2508.09713](http://arxiv.org/abs/2508.09713)|null|
 |**2025-08-13**|**MEML-GRPO: Heterogeneous Multi-Expert Mutual Learning for RLVR Advancement**|Weitao Jia et.al.|[2508.09670](http://arxiv.org/abs/2508.09670)|null|
-|**2025-08-13**|**Slow Tuning and Low-Entropy Masking for Safe Chain-of-Thought Distillation**|Ziyang Ma et.al.|[2508.09666](http://arxiv.org/abs/2508.09666)|null|
 |**2025-08-13**|**EvoCurr: Self-evolving Curriculum with Behavior Code Generation for Complex Decision-making**|Yang Cheng et.al.|[2508.09586](http://arxiv.org/abs/2508.09586)|null|
 |**2025-08-13**|**TFRank: Think-Free Reasoning Enables Practical Pointwise LLM Ranking**|Yongqi Fan et.al.|[2508.09539](http://arxiv.org/abs/2508.09539)|null|
 |**2025-08-13**|**Your Coding Intent is Secretly in the Context and You Should Deliberately Infer It Before Completion**|Yanzhou Li et.al.|[2508.09537](http://arxiv.org/abs/2508.09537)|null|
@@ -80,7 +82,6 @@ _Updated on 2025.08.17_
 |**2025-08-12**|**ColorGPT: Leveraging Large Language Models for Multimodal Color Recommendation**|Ding Xia et.al.|[2508.08987](http://arxiv.org/abs/2508.08987)|null|
 |**2025-08-12**|**Train Long, Think Short: Curriculum Learning for Efficient Reasoning**|Hasan Abed Al Kader Hammoud et.al.|[2508.08940](http://arxiv.org/abs/2508.08940)|null|
 |**2025-08-12**|**How Does a Virtual Agent Decide Where to Look? -- Symbolic Cognitive Reasoning for Embodied Head Rotation**|Juyeong Hwang et.al.|[2508.08930](http://arxiv.org/abs/2508.08930)|null|
-|**2025-08-12**|**The Roots of International Perceptions: Simulating US Attitude Changes Towards China with LLM Agents**|Nicholas Sukiennik et.al.|[2508.08837_(AAAI)](http://arxiv.org/abs/2508.08837)|null|
 |**2025-08-12**|**An Investigation of Robustness of LLMs in Mathematical Reasoning: Benchmarking with Mathematically-Equivalent Transformation of Advanced Mathematical Problems**|Yuren Hao et.al.|[2508.08833](http://arxiv.org/abs/2508.08833)|null|
 |**2025-08-12**|**3DFroMLLM: 3D Prototype Generation only from Pretrained Multimodal LLMs**|Noor Ahmed et.al.|[2508.08821](http://arxiv.org/abs/2508.08821)|null|
 |**2025-08-12**|**Feedback-Driven Tool-Use Improvements in Large Language Models via Automated Build Environments**|Junjie Ye et.al.|[2508.08791](http://arxiv.org/abs/2508.08791)|null|
@@ -746,7 +747,6 @@ _Updated on 2025.08.17_
 |**2025-07-14**|**GR-LLMs: Recent Advances in Generative Recommendation Based on Large Language Models**|Zhen Yang et.al.|[2507.06507](http://arxiv.org/abs/2507.06507)|null|
 |**2025-07-14**|**PyVision: Agentic Vision with Dynamic Tooling**|Shitian Zhao et.al.|[2507.07998](http://arxiv.org/abs/2507.07998)|null|
 |**2025-07-14**|**Teaching LLM to Reason: Reinforcement Learning from Algorithmic Problems without Code**|Keqin Bao et.al.|[2507.07498](http://arxiv.org/abs/2507.07498)|null|
-|**2025-07-14**|**ElasticMM: Efficient Multimodal LLMs Serving with Elastic Multimodal Parallelism**|Zedong Liu et.al.|[2507.10069](http://arxiv.org/abs/2507.10069)|null|
 |**2025-07-14**|**Fusing LLM Capabilities with Routing Data**|Tao Feng et.al.|[2507.10540](http://arxiv.org/abs/2507.10540)|null|
 |**2025-07-14**|**CodeJudgeBench: Benchmarking LLM-as-a-Judge for Coding Tasks**|Hongchao Jiang et.al.|[2507.10535](http://arxiv.org/abs/2507.10535)|null|
 |**2025-07-14**|**Reasoning or Memorization? Unreliable Results of Reinforcement Learning Due to Data Contamination**|Mingqi Wu et.al.|[2507.10532](http://arxiv.org/abs/2507.10532)|null|

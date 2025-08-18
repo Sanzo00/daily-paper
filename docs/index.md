@@ -6,10 +6,11 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2025.08.17_
+_Updated on 2025.08.18_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
+|**2025-08-15**|**A Systematic Literature Review of Retrieval-Augmented Generation: Techniques, Metrics, and Challenges**|Andrew Brown et.al.|[2508.06401](http://arxiv.org/abs/2508.06401)|null|
 |**2025-08-14**|**ComoRAG: A Cognitive-Inspired Memory-Organized RAG for Stateful Long Narrative Reasoning**|Juyuan Wang et.al.|[2508.10419](http://arxiv.org/abs/2508.10419)|null|
 |**2025-08-14**|**FIRESPARQL: A LLM-based Framework for SPARQL Query Generation over Scholarly Knowledge Graphs**|Xueli Pan et.al.|[2508.10467_(DIS)](http://arxiv.org/abs/2508.10467)|null|
 |**2025-08-14**|**LeanRAG: Knowledge-Graph-Based Generation with Semantic Aggregation and Hierarchical Retrieval**|Yaoze Zhang et.al.|[2508.10391](http://arxiv.org/abs/2508.10391)|null|
@@ -36,7 +37,6 @@ _Updated on 2025.08.17_
 |**2025-08-08**|**LLM meets ML: Data-efficient Anomaly Detection on Unstable Logs**|Fatemeh Hadadi et.al.|[2406.07467](http://arxiv.org/abs/2406.07467)|null|
 |**2025-08-08**|**CUB: Benchmarking Context Utilisation Techniques for Language Models**|Lovisa Hagström et.al.|[2505.16518](http://arxiv.org/abs/2505.16518)|null|
 |**2025-08-08**|**Rank1: Test-Time Compute for Reranking in Information Retrieval**|Orion Weller et.al.|[2502.18418](http://arxiv.org/abs/2502.18418)|null|
-|**2025-08-08**|**A Systematic Literature Review of Retrieval-Augmented Generation: Techniques, Metrics, and Challenges**|Andrew Brown et.al.|[2508.06401](http://arxiv.org/abs/2508.06401)|null|
 |**2025-08-08**|**ArchRAG: Attributed Community-based Hierarchical Retrieval-Augmented Generation**|Shu Wang et.al.|[2502.09891](http://arxiv.org/abs/2502.09891)|null|
 |**2025-08-08**|**You Don't Need Pre-built Graphs for RAG: Retrieval Augmented Generation with Adaptive Reasoning Structures**|Shengyuan Chen et.al.|[2508.06105](http://arxiv.org/abs/2508.06105)|null|
 |**2025-08-08**|**Large Language Models for Oral History Understanding with Text Classification and Sentiment Analysis**|Komala Subramanyam Cherukuri et.al.|[2508.06729](http://arxiv.org/abs/2508.06729)|null|
