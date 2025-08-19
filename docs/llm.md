@@ -6,10 +6,14 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2025.08.18_
+_Updated on 2025.08.19_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
+|**2025-08-18**|**Dynamic Multi-Agent System with Stable Maneuvering for Robust GAIA Problem Solving by AWorld**|Zhitian Xie et.al.|[2508.09889](http://arxiv.org/abs/2508.09889)|null|
+|**2025-08-18**|**From Intent to Execution: Multimodal Chain-of-Thought Reinforcement Learning for Precise CAD Code Generation**|Ke Niu et.al.|[2508.10118](http://arxiv.org/abs/2508.10118)|null|
+|**2025-08-17**|**Beyond "Not Novel Enough": Enriching Scholarly Critique with LLM-Assisted Feedback**|Osama Mohammed Afzal et.al.|[2508.10795](http://arxiv.org/abs/2508.10795)|null|
+|**2025-08-16**|**Why Cannot Large Language Models Ever Make True Correct Reasoning?**|Jingde Cheng et.al.|[2508.10265](http://arxiv.org/abs/2508.10265)|null|
 |**2025-08-15**|**ElasticMM: Efficient Multimodal LLMs Serving with Elastic Multimodal Parallelism**|Zedong Liu et.al.|[2507.10069](http://arxiv.org/abs/2507.10069)|null|
 |**2025-08-15**|**The Roots of International Perceptions: Simulating US Attitude Changes Towards China with LLM Agents**|Nicholas Sukiennik et.al.|[2508.08837_(AAAI)](http://arxiv.org/abs/2508.08837)|null|
 |**2025-08-15**|**Slow Tuning and Low-Entropy Masking for Safe Chain-of-Thought Distillation**|Ziyang Ma et.al.|[2508.09666](http://arxiv.org/abs/2508.09666)|null|
@@ -42,7 +46,6 @@ _Updated on 2025.08.18_
 |**2025-08-14**|**A Dataset for Distilling Knowledge Priors from Literature for Therapeutic Design**|Haydn Thomas Jones et.al.|[2508.10899](http://arxiv.org/abs/2508.10899)|null|
 |**2025-08-14**|**Performance of GPT-5 in Brain Tumor MRI Reasoning**|Mojtaba Safari et.al.|[2508.10865](http://arxiv.org/abs/2508.10865)|null|
 |**2025-08-14**|**Psyche-R1: Towards Reliable Psychological LLMs through Unified Empathy, Expertise, and Reasoning**|Chongyuan Dai et.al.|[2508.10848](http://arxiv.org/abs/2508.10848)|null|
-|**2025-08-14**|**Beyond "Not Novel Enough": Enriching Scholarly Critique with LLM-Assisted Feedback**|Osama Mohammed Afzal et.al.|[2508.10795](http://arxiv.org/abs/2508.10795)|null|
 |**2025-08-14**|**The Knowledge-Reasoning Dissociation: Fundamental Limitations of LLMs in Clinical Natural Language Inference**|Maël Jullien et.al.|[2508.10777](http://arxiv.org/abs/2508.10777)|null|
 |**2025-08-14**|**Pass@k Training for Adaptively Balancing Exploration and Exploitation of Large Reasoning Models**|Zhipeng Chen et.al.|[2508.10751](http://arxiv.org/abs/2508.10751)|null|
 |**2025-08-14**|**Towards Agentic AI for Multimodal-Guided Video Object Segmentation**|Tuyen Tran et.al.|[2508.10572](http://arxiv.org/abs/2508.10572)|null|
@@ -53,7 +56,6 @@ _Updated on 2025.08.18_
 |**2025-08-14**|**ComoRAG: A Cognitive-Inspired Memory-Organized RAG for Stateful Long Narrative Reasoning**|Juyuan Wang et.al.|[2508.10419](http://arxiv.org/abs/2508.10419)|null|
 |**2025-08-14**|**What to Ask Next? Probing the Imaginative Reasoning of LLMs with TurtleSoup Puzzles**|Mengtao Zhou et.al.|[2508.10358](http://arxiv.org/abs/2508.10358)|null|
 |**2025-08-14**|**JRDB-Reasoning: A Difficulty-Graded Benchmark for Visual Reasoning in Robotics**|Simindokht Jahangard et.al.|[2508.10287](http://arxiv.org/abs/2508.10287)|null|
-|**2025-08-14**|**Why Cannot Large Language Models Ever Make True Correct Reasoning?**|Jingde Cheng et.al.|[2508.10265](http://arxiv.org/abs/2508.10265)|null|
 |**2025-08-14**|**Utilizing Vision-Language Models as Action Models for Intent Recognition and Assistance**|Cesar Alan Contreras et.al.|[2508.11093](http://arxiv.org/abs/2508.11093)|null|
 |**2025-08-14**|**Can Multi-modal (reasoning) LLMs detect document manipulation?**|Zisheng Liang et.al.|[2508.11021](http://arxiv.org/abs/2508.11021)|null|
 |**2025-08-14**|**CURE: Critical-Token-Guided Re-concatenation for Entropy-collapse Prevention**|Qingbin Li et.al.|[2508.11016](http://arxiv.org/abs/2508.11016)|null|
@@ -69,7 +71,6 @@ _Updated on 2025.08.18_
 |**2025-08-13**|**Beyond Naïve Prompting: Strategies for Improved Zero-shot Context-aided Forecasting with LLMs**|Arjun Ashok et.al.|[2508.09904](http://arxiv.org/abs/2508.09904)|null|
 |**2025-08-13**|**Finetuning Large Language Model as an Effective Symbolic Regressor**|Yingfan Hua et.al.|[2508.09897](http://arxiv.org/abs/2508.09897)|null|
 |**2025-08-13**|**RAGulating Compliance: A Multi-Agent Knowledge Graph for Regulatory QA**|Bhavik Agarwal et.al.|[2508.09893](http://arxiv.org/abs/2508.09893)|null|
-|**2025-08-13**|**AWorld: Dynamic Multi-Agent System with Stable Maneuvering for Robust GAIA Problem Solving**|Zhitian Xie et.al.|[2508.09889](http://arxiv.org/abs/2508.09889)|null|
 |**2025-08-13**|**Beyond Scaling Law: A Data-Efficient Distillation Framework for Reasoning**|Xiaojun Wu et.al.|[2508.09883](http://arxiv.org/abs/2508.09883)|null|
 |**2025-08-13**|**Speed Always Wins: A Survey on Efficient Architectures for Large Language Models**|Weigao Sun et.al.|[2508.09834](http://arxiv.org/abs/2508.09834)|**[link](https://github.com/weigao266/Awesome-Efficient-Arch)**|
 |**2025-08-13**|**Extending the OWASP Multi-Agentic System Threat Modeling Guide: Insights from Multi-Agent Security Research**|Klaudia Krawiecka et.al.|[2508.09815](http://arxiv.org/abs/2508.09815)|null|
@@ -83,7 +84,6 @@ _Updated on 2025.08.18_
 |**2025-08-13**|**Multi-Turn Puzzles: Evaluating Interactive Reasoning and Strategic Dialogue in LLMs**|Kartikeya Badola et.al.|[2508.10142](http://arxiv.org/abs/2508.10142)|null|
 |**2025-08-13**|**mSCoRe: a $M$ultilingual and Scalable Benchmark for $S$kill-based $Co$mmonsense $Re$asoning**|Nghia Trung Ngo et.al.|[2508.10137](http://arxiv.org/abs/2508.10137)|null|
 |**2025-08-13**|**Nested-ReFT: Efficient Reinforcement Learning for Large Language Model Fine-Tuning via Off-Policy Rollouts**|Maxime Heuillet et.al.|[2508.10123](http://arxiv.org/abs/2508.10123)|null|
-|**2025-08-13**|**From Intent to Execution: Multimodal Chain-of-Thought Reinforcement Learning for Precise CAD Code Generation**|Ke Niu et.al.|[2508.10118](http://arxiv.org/abs/2508.10118)|null|
 |**2025-08-13**|**Less is More: Learning Graph Tasks with Just LLMs**|Sola Shirai et.al.|[2508.10115](http://arxiv.org/abs/2508.10115)|null|
 |**2025-08-13**|**Amazon Nova AI Challenge -- Trusted AI: Advancing secure, AI-assisted software development**|Sattvik Sahai et.al.|[2508.10108](http://arxiv.org/abs/2508.10108)|null|
 |**2025-08-13**|**Teaching LLMs to Speak Spectroscopy**|Nesar Ramachandra et.al.|[2508.10075_(CHI)](http://arxiv.org/abs/2508.10075)|null|
