@@ -11,6 +11,8 @@ _Updated on 2025.08.19_
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
 |**2025-08-18**|**LeanRAG: Knowledge-Graph-Based Generation with Semantic Aggregation and Hierarchical Retrieval**|Yaoze Zhang et.al.|[2508.10391](http://arxiv.org/abs/2508.10391)|null|
+|**2025-08-18**|**Semantic Anchoring in Agentic Memory: Leveraging Linguistic Structures for Persistent Conversational Context**|Maitreyi Chatterjee et.al.|[2508.12630](http://arxiv.org/abs/2508.12630)|null|
+|**2025-08-17**|**MedKGent: A Large Language Model Agent Framework for Constructing Temporally Evolving Medical Knowledge Graph**|Duzhen Zhang et.al.|[2508.12393](http://arxiv.org/abs/2508.12393)|null|
 |**2025-08-15**|**A Systematic Literature Review of Retrieval-Augmented Generation: Techniques, Metrics, and Challenges**|Andrew Brown et.al.|[2508.06401](http://arxiv.org/abs/2508.06401)|null|
 |**2025-08-15**|**Cross-Granularity Hypergraph Retrieval-Augmented Generation for Multi-hop Question Answering**|Changjian Wang et.al.|[2508.11247](http://arxiv.org/abs/2508.11247)|null|
 |**2025-08-14**|**ComoRAG: A Cognitive-Inspired Memory-Organized RAG for Stateful Long Narrative Reasoning**|Juyuan Wang et.al.|[2508.10419](http://arxiv.org/abs/2508.10419)|null|
@@ -46,6 +48,7 @@ _Updated on 2025.08.19_
 |**2025-08-07**|**GRAIL:Learning to Interact with Large Knowledge Graphs for Retrieval Augmented Reasoning**|Ge Chang et.al.|[2508.05498](http://arxiv.org/abs/2508.05498)|null|
 |**2025-08-07**|**RTTC: Reward-Guided Collaborative Test-Time Compute**|J. Pablo Muñoz et.al.|[2508.10024](http://arxiv.org/abs/2508.10024)|null|
 |**2025-08-06**|**TURA: Tool-Augmented Unified Retrieval Agent for AI Search**|Zhejun Zhao et.al.|[2508.04604](http://arxiv.org/abs/2508.04604)|null|
+|**2025-08-06**|**Sparse Attention across Multiple-context KV Cache**|Ziyi Cao et.al.|[2508.11661](http://arxiv.org/abs/2508.11661)|null|
 |**2025-08-05**|**MemOS: A Memory OS for AI System**|Zhiyu Li et.al.|[2507.03724](http://arxiv.org/abs/2507.03724)|null|
 |**2025-08-05**|**AttnTrace: Attention-based Context Traceback for Long-Context LLMs**|Yanting Wang et.al.|[2508.03793](http://arxiv.org/abs/2508.03793)|**[link](https://github.com/Wang-Yanting/AttnTrace.)**|
 |**2025-08-05**|**AIC CTU@FEVER 8: On-premise fact checking through long context RAG**|Herbert Ullrich et.al.|[2508.04390](http://arxiv.org/abs/2508.04390)|null|
