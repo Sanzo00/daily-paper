@@ -6,13 +6,14 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2025.08.19_
+_Updated on 2025.08.20_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
+|**2025-08-19**|**MedKGent: A Large Language Model Agent Framework for Constructing Temporally Evolving Medical Knowledge Graph**|Duzhen Zhang et.al.|[2508.12393](http://arxiv.org/abs/2508.12393)|null|
+|**2025-08-19**|**ReviewGraph: A Knowledge Graph Embedding Based Framework for Review Rating Prediction with Sentiment Features**|A. J. W. de Vink et.al.|[2508.13953](http://arxiv.org/abs/2508.13953)|null|
 |**2025-08-18**|**LeanRAG: Knowledge-Graph-Based Generation with Semantic Aggregation and Hierarchical Retrieval**|Yaoze Zhang et.al.|[2508.10391](http://arxiv.org/abs/2508.10391)|null|
 |**2025-08-18**|**Semantic Anchoring in Agentic Memory: Leveraging Linguistic Structures for Persistent Conversational Context**|Maitreyi Chatterjee et.al.|[2508.12630](http://arxiv.org/abs/2508.12630)|null|
-|**2025-08-17**|**MedKGent: A Large Language Model Agent Framework for Constructing Temporally Evolving Medical Knowledge Graph**|Duzhen Zhang et.al.|[2508.12393](http://arxiv.org/abs/2508.12393)|null|
 |**2025-08-15**|**A Systematic Literature Review of Retrieval-Augmented Generation: Techniques, Metrics, and Challenges**|Andrew Brown et.al.|[2508.06401](http://arxiv.org/abs/2508.06401)|null|
 |**2025-08-15**|**Cross-Granularity Hypergraph Retrieval-Augmented Generation for Multi-hop Question Answering**|Changjian Wang et.al.|[2508.11247](http://arxiv.org/abs/2508.11247)|null|
 |**2025-08-14**|**ComoRAG: A Cognitive-Inspired Memory-Organized RAG for Stateful Long Narrative Reasoning**|Juyuan Wang et.al.|[2508.10419](http://arxiv.org/abs/2508.10419)|null|
@@ -43,6 +44,7 @@ _Updated on 2025.08.19_
 |**2025-08-08**|**ArchRAG: Attributed Community-based Hierarchical Retrieval-Augmented Generation**|Shu Wang et.al.|[2502.09891](http://arxiv.org/abs/2502.09891)|null|
 |**2025-08-08**|**You Don't Need Pre-built Graphs for RAG: Retrieval Augmented Generation with Adaptive Reasoning Structures**|Shengyuan Chen et.al.|[2508.06105](http://arxiv.org/abs/2508.06105)|null|
 |**2025-08-08**|**Large Language Models for Oral History Understanding with Text Classification and Sentiment Analysis**|Komala Subramanyam Cherukuri et.al.|[2508.06729](http://arxiv.org/abs/2508.06729)|null|
+|**2025-08-08**|**Cognitive Workspace: Active Memory Management for LLMs -- An Empirical Study of Functional Infinite Context**|Tao An et.al.|[2508.13171](http://arxiv.org/abs/2508.13171)|**[link](https://github.com/tao-hpu/cognitive-workspace)**|
 |**2025-08-07**|**Efficient Knowledge Graph Construction and Retrieval from Unstructured Text for Large-Scale RAG Systems**|Congmin Min et.al.|[2507.03226](http://arxiv.org/abs/2507.03226)|null|
 |**2025-08-07**|**mKG-RAG: Multimodal Knowledge Graph-Enhanced RAG for Visual Question Answering**|Xu Yuan et.al.|[2508.05318](http://arxiv.org/abs/2508.05318)|null|
 |**2025-08-07**|**GRAIL:Learning to Interact with Large Knowledge Graphs for Retrieval Augmented Reasoning**|Ge Chang et.al.|[2508.05498](http://arxiv.org/abs/2508.05498)|null|

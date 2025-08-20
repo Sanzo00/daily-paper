@@ -6,10 +6,11 @@ nav_order: 3
 
 # GNN Papers
 
-_Updated on 2025.08.19_
+_Updated on 2025.08.20_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
+|**2025-08-19**|**CaPGNN: Optimizing Parallel Graph Neural Network Training with Joint Caching and Resource-Aware Graph Partitioning**|Xianfeng Song et.al.|[2508.13716](http://arxiv.org/abs/2508.13716)|null|
 |**2025-08-11**|**Enhancing Egocentric Object Detection in Static Environments using Graph-based Spatial Anomaly Detection and Correction**|Vishakha Lall et.al.|[2508.07624](http://arxiv.org/abs/2508.07624)|null|
 |**2025-08-06**|**Reliable and Real-Time Highway Trajectory Planning via Hybrid Learning-Optimization Frameworks**|Yujia Lu et.al.|[2508.04436](http://arxiv.org/abs/2508.04436)|null|
 |**2025-08-01**|**Binarizing Physics-Inspired GNNs for Combinatorial Optimization**|Martin Krutský et.al.|[2507.13703_(CHI)](http://arxiv.org/abs/2507.13703)|null|
