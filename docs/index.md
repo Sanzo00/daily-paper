@@ -6,10 +6,11 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2025.08.20_
+_Updated on 2025.08.21_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
+|**2025-08-20**|**Benchmarking Vector, Graph and Hybrid Retrieval Augmented Generation (RAG) Pipelines for Open Radio Access Networks (ORAN)**|Sarat Ahmad et.al.|[2507.03608](http://arxiv.org/abs/2507.03608)|null|
 |**2025-08-19**|**MedKGent: A Large Language Model Agent Framework for Constructing Temporally Evolving Medical Knowledge Graph**|Duzhen Zhang et.al.|[2508.12393](http://arxiv.org/abs/2508.12393)|null|
 |**2025-08-19**|**ReviewGraph: A Knowledge Graph Embedding Based Framework for Review Rating Prediction with Sentiment Features**|A. J. W. de Vink et.al.|[2508.13953](http://arxiv.org/abs/2508.13953)|null|
 |**2025-08-18**|**LeanRAG: Knowledge-Graph-Based Generation with Semantic Aggregation and Hierarchical Retrieval**|Yaoze Zhang et.al.|[2508.10391](http://arxiv.org/abs/2508.10391)|null|
@@ -124,7 +125,6 @@ _Updated on 2025.08.20_
 |**2025-07-05**|**Frustratingly Simple Retrieval Improves Challenging, Reasoning-Intensive Benchmarks**|Xinxi Lyu et.al.|[2507.01297](http://arxiv.org/abs/2507.01297)|null|
 |**2025-07-05**|**BYOKG-RAG: Multi-Strategy Graph Retrieval for Knowledge Graph Question Answering**|Costas Mavromatis et.al.|[2507.04127](http://arxiv.org/abs/2507.04127)|null|
 |**2025-07-04**|**EraRAG: Efficient and Incremental Retrieval Augmented Generation for Growing Corpora**|Fangyuan Zhang et.al.|[2506.20963](http://arxiv.org/abs/2506.20963)|null|
-|**2025-07-04**|**Benchmarking Vector, Graph and Hybrid Retrieval Augmented Generation (RAG) Pipelines for Open Radio Access Networks (ORAN)**|Sarat Ahmad et.al.|[2507.03608](http://arxiv.org/abs/2507.03608)|null|
 |**2025-07-04**|**NDAI-NeuroMAP: A Neuroscience-Specific Embedding Model for Domain-Specific Retrieval**|Devendra Patel et.al.|[2507.03329](http://arxiv.org/abs/2507.03329)|null|
 |**2025-07-04**|**ReservoirChat: Interactive Documentation Enhanced with LLM and Knowledge Graph for ReservoirPy**|Virgile Boraud et.al.|[2507.05279](http://arxiv.org/abs/2507.05279)|null|
 |**2025-07-02**|**WebANNS: Fast and Efficient Approximate Nearest Neighbor Search in Web Browsers**|Mugeng Liu et.al.|[2507.00521_(SIGIR)](http://arxiv.org/abs/2507.00521)|null|

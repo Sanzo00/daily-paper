@@ -6,16 +6,18 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2025.08.20_
+_Updated on 2025.08.21_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
+|**2025-08-20**|**CRED-SQL: Enhancing Real-world Large Scale Database Text-to-SQL Parsing through Cluster Retrieval and Execution Description**|Shaoming Duan et.al.|[2508.12769](http://arxiv.org/abs/2508.12769)|null|
+|**2025-08-20**|**STEM: Efficient Relative Capability Evaluation of LLMs through Structured Transition Samples**|Haiquan Hu et.al.|[2508.12096_(AAAI)](http://arxiv.org/abs/2508.12096)|null|
+|**2025-08-20**|**Beyond Pass@1: Self-Play with Variational Problem Synthesis Sustains RLVR**|Xiao Liang et.al.|[2508.14029](http://arxiv.org/abs/2508.14029)|null|
+|**2025-08-20**|**Input Time Scaling**|Rapheal Huang et.al.|[2508.13654](http://arxiv.org/abs/2508.13654)|null|
 |**2025-08-19**|**Atom-Searcher: Enhancing Agentic Deep Research via Fine-Grained Atomic Thought Reward**|Yong Deng et.al.|[2508.12800](http://arxiv.org/abs/2508.12800)|null|
-|**2025-08-19**|**CRED-SQL: Enhancing Real-world Large Scale Database Text-to-SQL Parsing through Cluster Retrieval and Execution Description**|Shaoming Duan et.al.|[2508.12769](http://arxiv.org/abs/2508.12769)|null|
 |**2025-08-19**|**MedKGent: A Large Language Model Agent Framework for Constructing Temporally Evolving Medical Knowledge Graph**|Duzhen Zhang et.al.|[2508.12393](http://arxiv.org/abs/2508.12393)|null|
 |**2025-08-19**|**Legal$Δ$: Enhancing Legal Reasoning in LLMs via Reinforcement Learning with Chain-of-Thought Guided Information Gain**|Xin Dai et.al.|[2508.12281](http://arxiv.org/abs/2508.12281)|null|
 |**2025-08-19**|**FutureX: An Advanced Live Benchmark for LLM Agents in Future Prediction**|Zhiyuan Zeng et.al.|[2508.11987_(DATE)](http://arxiv.org/abs/2508.11987)|null|
-|**2025-08-19**|**Beyond Pass@1: Self-Play with Variational Problem Synthesis Sustains RLVR**|Xiao Liang et.al.|[2508.14029](http://arxiv.org/abs/2508.14029)|null|
 |**2025-08-19**|**Chunks as Arms: Multi-Armed Bandit-Guided Sampling for Long-Context LLM Preference Optimization**|Shaohua Duan et.al.|[2508.13993](http://arxiv.org/abs/2508.13993)|null|
 |**2025-08-19**|**Structured Agentic Workflows for Financial Time-Series Modeling with LLMs and Reflective Feedback**|Yihao Ang et.al.|[2508.13915](http://arxiv.org/abs/2508.13915)|null|
 |**2025-08-19**|**Driving Style Recognition Like an Expert Using Semantic Privileged Information from Large Language Models**|Zhaokun Chen et.al.|[2508.13881](http://arxiv.org/abs/2508.13881)|null|
@@ -26,7 +28,6 @@ _Updated on 2025.08.20_
 |**2025-08-19**|**CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning**|Minh Hoang Nguyen et.al.|[2508.13721](http://arxiv.org/abs/2508.13721)|null|
 |**2025-08-19**|**Generics and Default Reasoning in Large Language Models**|James Ravi Kirkpatrick et.al.|[2508.13718](http://arxiv.org/abs/2508.13718)|null|
 |**2025-08-19**|**Neuro-Symbolic Artificial Intelligence: Towards Improving the Reasoning Abilities of Large Language Models**|Xiao-Wen Yang et.al.|[2508.13678_(IJCAI)](http://arxiv.org/abs/2508.13678)|null|
-|**2025-08-19**|**Input Time Scaling**|Rapheal Huang et.al.|[2508.13654](http://arxiv.org/abs/2508.13654)|null|
 |**2025-08-19**|**Toward Better EHR Reasoning in LLMs: Reinforcement Learning with Expert Attention Guidance**|Yue Fang et.al.|[2508.13579](http://arxiv.org/abs/2508.13579)|null|
 |**2025-08-19**|**From Scores to Skills: A Cognitive Diagnosis Framework for Evaluating Financial Large Language Models**|Ziyan Kuang et.al.|[2508.13491](http://arxiv.org/abs/2508.13491)|null|
 |**2025-08-19**|**AdaptJobRec: Enhancing Conversational Career Recommendation through an LLM-Powered Agentic System**|Qixin Wang et.al.|[2508.13423](http://arxiv.org/abs/2508.13423)|null|
@@ -80,7 +81,6 @@ _Updated on 2025.08.20_
 |**2025-08-17**|**Accelerating LLM Inference via Dynamic KV Cache Placement in Heterogeneous Memory System**|Yunhua Fang et.al.|[2508.13231](http://arxiv.org/abs/2508.13231)|null|
 |**2025-08-16**|**Why Cannot Large Language Models Ever Make True Correct Reasoning?**|Jingde Cheng et.al.|[2508.10265](http://arxiv.org/abs/2508.10265)|null|
 |**2025-08-16**|**LLM-as-a-Judge for Privacy Evaluation? Exploring the Alignment of Human and LLM Perceptions of Privacy in Textual Data**|Stephen Meisenbacher et.al.|[2508.12158_(CCS)](http://arxiv.org/abs/2508.12158)|null|
-|**2025-08-16**|**STEM: Efficient Relative Capability Evaluation of LLMs through Structured Transition Samples**|Haiquan Hu et.al.|[2508.12096_(AAAI)](http://arxiv.org/abs/2508.12096)|null|
 |**2025-08-16**|**J6: Jacobian-Driven Role Attribution for Multi-Objective Prompt Optimization in LLMs**|Yao Wu et.al.|[2508.12086](http://arxiv.org/abs/2508.12086)|null|
 |**2025-08-16**|**AgentCDM: Enhancing Multi-Agent Collaborative Decision-Making via ACH-Inspired Structured Reasoning**|Xuyang Zhao et.al.|[2508.11995](http://arxiv.org/abs/2508.11995)|null|
 |**2025-08-16**|**CHBench: A Cognitive Hierarchy Benchmark for Evaluating Strategic Reasoning Capability of LLMs**|Hongtao Liu et.al.|[2508.11944](http://arxiv.org/abs/2508.11944)|null|
