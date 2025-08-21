@@ -14,6 +14,23 @@ _Updated on 2025.08.21_
 |**2025-08-20**|**STEM: Efficient Relative Capability Evaluation of LLMs through Structured Transition Samples**|Haiquan Hu et.al.|[2508.12096_(AAAI)](http://arxiv.org/abs/2508.12096)|null|
 |**2025-08-20**|**Beyond Pass@1: Self-Play with Variational Problem Synthesis Sustains RLVR**|Xiao Liang et.al.|[2508.14029](http://arxiv.org/abs/2508.14029)|null|
 |**2025-08-20**|**Input Time Scaling**|Rapheal Huang et.al.|[2508.13654](http://arxiv.org/abs/2508.13654)|null|
+|**2025-08-20**|**MedReseacher-R1: Expert-Level Medical Deep Researcher via A Knowledge-Informed Trajectory Synthesis Framework**|Ailing Yu et.al.|[2508.14880](http://arxiv.org/abs/2508.14880)|null|
+|**2025-08-20**|**MeshCoder: LLM-Powered Structured Mesh Code Generation from Point Clouds**|Bingquan Dai et.al.|[2508.14879](http://arxiv.org/abs/2508.14879)|null|
+|**2025-08-20**|**Long Chain-of-Thought Reasoning Across Languages**|Josh Barua et.al.|[2508.14828_(SC)](http://arxiv.org/abs/2508.14828)|null|
+|**2025-08-20**|**Evaluating Retrieval-Augmented Generation vs. Long-Context Input for Clinical Reasoning over EHRs**|Skatje Myers et.al.|[2508.14817](http://arxiv.org/abs/2508.14817)|null|
+|**2025-08-20**|**Privileged Self-Access Matters for Introspection in AI**|Siyuan Song et.al.|[2508.14802](http://arxiv.org/abs/2508.14802)|null|
+|**2025-08-20**|**TransLLM: A Unified Multi-Task Foundation Framework for Urban Transportation via Learnable Prompting**|Jiaming Leng et.al.|[2508.14782](http://arxiv.org/abs/2508.14782)|null|
+|**2025-08-20**|**PepThink-R1: LLM for Interpretable Cyclic Peptide Optimization with CoT SFT and Reinforcement Learning**|Ruheng Wang et.al.|[2508.14765](http://arxiv.org/abs/2508.14765)|null|
+|**2025-08-20**|**MissionHD: Data-Driven Refinement of Reasoning Graph Structure through Hyperdimensional Causal Path Encoding and Decoding**|Sanggeon Yun et.al.|[2508.14746](http://arxiv.org/abs/2508.14746)|null|
+|**2025-08-20**|**Evaluating Multilingual and Code-Switched Alignment in LLMs via Synthetic Natural Language Inference**|Samir Abdaljalil et.al.|[2508.14735](http://arxiv.org/abs/2508.14735)|null|
+|**2025-08-20**|**ShizhenGPT: Towards Multimodal LLMs for Traditional Chinese Medicine**|Junying Chen et.al.|[2508.14706](http://arxiv.org/abs/2508.14706)|null|
+|**2025-08-20**|**MCP-Universe: Benchmarking Large Language Models with Real-World Model Context Protocol Servers**|Ziyang Luo et.al.|[2508.14704](http://arxiv.org/abs/2508.14704)|**[link](https://mcp-universe.github.io)**|
+|**2025-08-20**|**Can LLM Agents Solve Collaborative Tasks? A Study on Urgency-Aware Planning and Coordination**|João Vitor de Carvalho Silva et.al.|[2508.14635](http://arxiv.org/abs/2508.14635)|null|
+|**2025-08-20**|**Who Sees What? Structured Thought-Action Sequences for Epistemic Reasoning in LLMs**|Luca Annese et.al.|[2508.14564_(ICS)](http://arxiv.org/abs/2508.14564)|null|
+|**2025-08-20**|**DuPO: Enabling Reliable LLM Self-Verification via Dual Preference Optimization**|Shuaijie She et.al.|[2508.14460](http://arxiv.org/abs/2508.14460)|null|
+|**2025-08-20**|**Automated Optimization Modeling through Expert-Guided Large Language Model Reasoning**|Beinuo Yang et.al.|[2508.14410](http://arxiv.org/abs/2508.14410)|null|
+|**2025-08-20**|**Cognitive Surgery: The Awakening of Implicit Territorial Awareness in LLMs**|Yinghan Zhou et.al.|[2508.14408](http://arxiv.org/abs/2508.14408)|null|
+|**2025-08-20**|**DEXTER-LLM: Dynamic and Explainable Coordination of Multi-Robot Systems in Unknown Environments via Large Language Models**|Yuxiao Zhu et.al.|[2508.14387_(IROS)](http://arxiv.org/abs/2508.14387)|null|
 |**2025-08-19**|**Atom-Searcher: Enhancing Agentic Deep Research via Fine-Grained Atomic Thought Reward**|Yong Deng et.al.|[2508.12800](http://arxiv.org/abs/2508.12800)|null|
 |**2025-08-19**|**MedKGent: A Large Language Model Agent Framework for Constructing Temporally Evolving Medical Knowledge Graph**|Duzhen Zhang et.al.|[2508.12393](http://arxiv.org/abs/2508.12393)|null|
 |**2025-08-19**|**Legal$Δ$: Enhancing Legal Reasoning in LLMs via Reinforcement Learning with Chain-of-Thought Guided Information Gain**|Xin Dai et.al.|[2508.12281](http://arxiv.org/abs/2508.12281)|null|
@@ -31,6 +48,10 @@ _Updated on 2025.08.21_
 |**2025-08-19**|**Toward Better EHR Reasoning in LLMs: Reinforcement Learning with Expert Attention Guidance**|Yue Fang et.al.|[2508.13579](http://arxiv.org/abs/2508.13579)|null|
 |**2025-08-19**|**From Scores to Skills: A Cognitive Diagnosis Framework for Evaluating Financial Large Language Models**|Ziyan Kuang et.al.|[2508.13491](http://arxiv.org/abs/2508.13491)|null|
 |**2025-08-19**|**AdaptJobRec: Enhancing Conversational Career Recommendation through an LLM-Powered Agentic System**|Qixin Wang et.al.|[2508.13423](http://arxiv.org/abs/2508.13423)|null|
+|**2025-08-19**|**Your Reward Function for RL is Your Best PRM for Search: Unifying RL and Search-Based TTS**|Can Jin et.al.|[2508.14313](http://arxiv.org/abs/2508.14313)|null|
+|**2025-08-19**|**MultiFuzz: A Dense Retrieval-based Multi-Agent System for Network Protocol Fuzzing**|Youssef Maklad et.al.|[2508.14300](http://arxiv.org/abs/2508.14300)|null|
+|**2025-08-19**|**GRILE: A Benchmark for Grammar Reasoning and Explanation in Romanian LLMs**|Adrian-Marius Dumitran et.al.|[2508.14279](http://arxiv.org/abs/2508.14279)|null|
+|**2025-08-19**|**Disentangling concept semantics via multilingual averaging in Sparse Autoencoders**|Cliff O'Reilly et.al.|[2508.14275](http://arxiv.org/abs/2508.14275)|null|
 |**2025-08-18**|**Dynamic Multi-Agent System with Stable Maneuvering for Robust GAIA Problem Solving by AWorld**|Zhitian Xie et.al.|[2508.09889](http://arxiv.org/abs/2508.09889)|null|
 |**2025-08-18**|**From Intent to Execution: Multimodal Chain-of-Thought Reinforcement Learning for Precise CAD Code Generation**|Ke Niu et.al.|[2508.10118](http://arxiv.org/abs/2508.10118)|null|
 |**2025-08-18**|**OptimalThinkingBench: Evaluating Over and Underthinking in LLMs**|Pranjal Aggarwal et.al.|[2508.13141](http://arxiv.org/abs/2508.13141)|null|
