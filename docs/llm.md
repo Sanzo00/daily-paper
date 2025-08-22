@@ -10,6 +10,35 @@ _Updated on 2025.08.22_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
+|**2025-08-21**|**Efficient Mixed-Precision Large Language Model Inference with TurboMind**|Li Zhang et.al.|[2508.15601](http://arxiv.org/abs/2508.15601)|null|
+|**2025-08-21**|**SparK: Query-Aware Unstructured Sparsity with Recoverable KV Cache Channel Pruning**|Huanxuan Liao et.al.|[2508.15212](http://arxiv.org/abs/2508.15212)|null|
+|**2025-08-21**|**LiveMCP-101: Stress Testing and Diagnosing MCP-enabled Agents on Challenging Queries**|Ming Yin et.al.|[2508.15760](http://arxiv.org/abs/2508.15760)|null|
+|**2025-08-21**|**Dissecting Tool-Integrated Reasoning: An Empirical Study and Analysis**|Yufeng Zhao et.al.|[2508.15754](http://arxiv.org/abs/2508.15754)|null|
+|**2025-08-21**|**End-to-End Agentic RAG System Training for Traceable Diagnostic Reasoning**|Qiaoyu Zheng et.al.|[2508.15746](http://arxiv.org/abs/2508.15746)|null|
+|**2025-08-21**|**When and What: Diffusion-Grounded VideoLLM with Entity Aware Segmentation for Long Video Understanding**|Pengcheng Fang et.al.|[2508.15641](http://arxiv.org/abs/2508.15641)|null|
+|**2025-08-21**|**Transduction is All You Need for Structured Data Workflows**|Alfio Gliozzo et.al.|[2508.15610](http://arxiv.org/abs/2508.15610)|null|
+|**2025-08-21**|**DeepThink3D: Enhancing Large Language Models with Programmatic Reasoning in Complex 3D Situated Reasoning Tasks**|Jiayi Song et.al.|[2508.15548](http://arxiv.org/abs/2508.15548)|null|
+|**2025-08-21**|**Think in Blocks: Adaptive Reasoning from Direct Response to Deep Reasoning**|Yekun Zhu et.al.|[2508.15507](http://arxiv.org/abs/2508.15507)|null|
+|**2025-08-21**|**LLM-Driven Self-Refinement for Embodied Drone Task Planning**|Deyu Zhang et.al.|[2508.15501](http://arxiv.org/abs/2508.15501)|null|
+|**2025-08-21**|**Test-time Corpus Feedback: From Retrieval to RAG**|Mandeep Rathee et.al.|[2508.15437](http://arxiv.org/abs/2508.15437)|null|
+|**2025-08-21**|**TrackRec: Iterative Alternating Feedback with Chain-of-Thought via Preference Alignment for Recommendation**|Yu Xia et.al.|[2508.15388](http://arxiv.org/abs/2508.15388)|null|
+|**2025-08-21**|**Unveiling Trust in Multimodal Large Language Models: Evaluation, Analysis, and Mitigation**|Yichi Zhang et.al.|[2508.15370](http://arxiv.org/abs/2508.15370)|null|
+|**2025-08-21**|**An Empirical Study on How Video-LLMs Answer Video Questions**|Chenhui Gou et.al.|[2508.15360](http://arxiv.org/abs/2508.15360)|null|
+|**2025-08-21**|**DiagECG: An LLM-Driven Framework for Diagnostic Reasoning via Discretized ECG Tokenization**|Jinning Yang et.al.|[2508.15338](http://arxiv.org/abs/2508.15338)|null|
+|**2025-08-21**|**AmbiSQL: Interactive Ambiguity Detection and Resolution for Text-to-SQL**|Zhongjun Ding et.al.|[2508.15276](http://arxiv.org/abs/2508.15276)|null|
+|**2025-08-21**|**TComQA: Extracting Temporal Commonsense from Text**|Lekshmi R Nair et.al.|[2508.15274](http://arxiv.org/abs/2508.15274)|null|
+|**2025-08-21**|**Deep Think with Confidence**|Yichao Fu et.al.|[2508.15260](http://arxiv.org/abs/2508.15260)|null|
+|**2025-08-21**|**Conflict-Aware Soft Prompting for Retrieval-Augmented Generation**|Eunseong Choi et.al.|[2508.15253_(EMNLP)](http://arxiv.org/abs/2508.15253)|null|
+|**2025-08-21**|**EMNLP: Educator-role Moral and Normative Large Language Models Profiling**|Yilin Jiang et.al.|[2508.15250_(EMNLP)](http://arxiv.org/abs/2508.15250)|null|
+|**2025-08-21**|**Comp-X: On Defining an Interactive Learned Image Compression Paradigm With Expert-driven LLM Agent**|Yixin Gao et.al.|[2508.15243](http://arxiv.org/abs/2508.15243)|null|
+|**2025-08-21**|**AeroDuo: Aerial Duo for UAV-based Vision and Language Navigation**|Ruipu Wu et.al.|[2508.15232_(ACM MM)](http://arxiv.org/abs/2508.15232)|null|
+|**2025-08-21**|**See it. Say it. Sorted: Agentic System for Compositional Diagram Generation**|Hantao Zhang et.al.|[2508.15222](http://arxiv.org/abs/2508.15222)|null|
+|**2025-08-21**|**Select to Know: An Internal-External Knowledge Self-Selection Framework for Domain-Specific Question Answering**|Bolei He et.al.|[2508.15213_(EMNLP)](http://arxiv.org/abs/2508.15213)|null|
+|**2025-08-21**|**R-ConstraintBench: Evaluating LLMs on NP-Complete Scheduling**|Raj Jain et.al.|[2508.15204](http://arxiv.org/abs/2508.15204)|null|
+|**2025-08-21**|**Fin-PRM: A Domain-Specialized Process Reward Model for Financial Reasoning in Large Language Models**|Yuanchen Zhou et.al.|[2508.15202](http://arxiv.org/abs/2508.15202)|null|
+|**2025-08-21**|**PuzzleClone: An SMT-Powered Framework for Synthesizing Verifiable Data**|Kai Xiong et.al.|[2508.15180](http://arxiv.org/abs/2508.15180)|null|
+|**2025-08-21**|**ContextualLVLM-Agent: A Holistic Framework for Multi-Turn Visually-Grounded Dialogue and Complex Instruction Following**|Seungmin Han et.al.|[2508.15164](http://arxiv.org/abs/2508.15164)|null|
+|**2025-08-21**|**QueryGenie: Making LLM-Based Database Querying Transparent and Controllable**|Longfei Chen et.al.|[2508.15146_(UIST)](http://arxiv.org/abs/2508.15146)|null|
 |**2025-08-20**|**CRED-SQL: Enhancing Real-world Large Scale Database Text-to-SQL Parsing through Cluster Retrieval and Execution Description**|Shaoming Duan et.al.|[2508.12769](http://arxiv.org/abs/2508.12769)|null|
 |**2025-08-20**|**STEM: Efficient Relative Capability Evaluation of LLMs through Structured Transition Samples**|Haiquan Hu et.al.|[2508.12096_(AAAI)](http://arxiv.org/abs/2508.12096)|null|
 |**2025-08-20**|**Beyond Pass@1: Self-Play with Variational Problem Synthesis Sustains RLVR**|Xiao Liang et.al.|[2508.14029](http://arxiv.org/abs/2508.14029)|null|
@@ -31,6 +60,14 @@ _Updated on 2025.08.22_
 |**2025-08-20**|**Automated Optimization Modeling through Expert-Guided Large Language Model Reasoning**|Beinuo Yang et.al.|[2508.14410](http://arxiv.org/abs/2508.14410)|null|
 |**2025-08-20**|**Cognitive Surgery: The Awakening of Implicit Territorial Awareness in LLMs**|Yinghan Zhou et.al.|[2508.14408](http://arxiv.org/abs/2508.14408)|null|
 |**2025-08-20**|**DEXTER-LLM: Dynamic and Explainable Coordination of Multi-Robot Systems in Unknown Environments via Large Language Models**|Yuxiao Zhu et.al.|[2508.14387_(IROS)](http://arxiv.org/abs/2508.14387)|null|
+|**2025-08-20**|**MoEcho: Exploiting Side-Channel Attacks to Compromise User Privacy in Mixture-of-Experts LLMs**|Ruyi Ding et.al.|[2508.15036_(CCS)](http://arxiv.org/abs/2508.15036)|null|
+|**2025-08-20**|**Open-Universe Assistance Games**|Rachel Ma et.al.|[2508.15119](http://arxiv.org/abs/2508.15119)|null|
+|**2025-08-20**|**Nemotron-CC-Math: A 133 Billion-Token-Scale High Quality Math Pretraining Dataset**|Rabeeh Karimi Mahabadi et.al.|[2508.15096](http://arxiv.org/abs/2508.15096)|null|
+|**2025-08-20**|**Mapping the Course for Prompt-based Structured Prediction**|Matt Pauk et.al.|[2508.15090](http://arxiv.org/abs/2508.15090)|null|
+|**2025-08-20**|**Don't Think Twice! Over-Reasoning Impairs Confidence Calibration**|Romain Lacombe et.al.|[2508.15050_(ICML)](http://arxiv.org/abs/2508.15050)|null|
+|**2025-08-20**|**Reward-Shifted Speculative Sampling Is An Efficient Test-Time Weak-to-Strong Aligner**|Bolian Li et.al.|[2508.15044](http://arxiv.org/abs/2508.15044)|null|
+|**2025-08-20**|**In-Context Iterative Policy Improvement for Dynamic Manipulation**|Mark Van der Merwe et.al.|[2508.15021](http://arxiv.org/abs/2508.15021)|null|
+|**2025-08-20**|**Cohort-Aware Agents for Individualized Lung Cancer Risk Prediction Using a Retrieval-Augmented Model Selection Framework**|Chongyu Qu et.al.|[2508.14940](http://arxiv.org/abs/2508.14940)|null|
 |**2025-08-19**|**Atom-Searcher: Enhancing Agentic Deep Research via Fine-Grained Atomic Thought Reward**|Yong Deng et.al.|[2508.12800](http://arxiv.org/abs/2508.12800)|null|
 |**2025-08-19**|**MedKGent: A Large Language Model Agent Framework for Constructing Temporally Evolving Medical Knowledge Graph**|Duzhen Zhang et.al.|[2508.12393](http://arxiv.org/abs/2508.12393)|null|
 |**2025-08-19**|**Legal$Δ$: Enhancing Legal Reasoning in LLMs via Reinforcement Learning with Chain-of-Thought Guided Information Gain**|Xin Dai et.al.|[2508.12281](http://arxiv.org/abs/2508.12281)|null|
