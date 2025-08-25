@@ -6,10 +6,15 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2025.08.24_
+_Updated on 2025.08.25_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
+|**2025-08-22**|**SpecExtend: A Drop-in Enhancement for Speculative Decoding of Long Sequences**|Jungyoub Cha et.al.|[2505.20776](http://arxiv.org/abs/2505.20776)|null|
+|**2025-08-22**|**MeshCoder: LLM-Powered Structured Mesh Code Generation from Point Clouds**|Bingquan Dai et.al.|[2508.14879](http://arxiv.org/abs/2508.14879)|null|
+|**2025-08-22**|**Automated Optimization Modeling through Expert-Guided Large Language Model Reasoning**|Beinuo Yang et.al.|[2508.14410](http://arxiv.org/abs/2508.14410)|null|
+|**2025-08-22**|**Your Reward Function for RL is Your Best PRM for Search: Unifying RL and Search-Based TTS**|Can Jin et.al.|[2508.14313](http://arxiv.org/abs/2508.14313)|null|
+|**2025-08-21**|**MedResearcher-R1: Expert-Level Medical Deep Researcher via A Knowledge-Informed Trajectory Synthesis Framework**|Ailing Yu et.al.|[2508.14880](http://arxiv.org/abs/2508.14880)|null|
 |**2025-08-21**|**Efficient Mixed-Precision Large Language Model Inference with TurboMind**|Li Zhang et.al.|[2508.15601](http://arxiv.org/abs/2508.15601)|null|
 |**2025-08-21**|**SparK: Query-Aware Unstructured Sparsity with Recoverable KV Cache Channel Pruning**|Huanxuan Liao et.al.|[2508.15212](http://arxiv.org/abs/2508.15212)|null|
 |**2025-08-21**|**LiveMCP-101: Stress Testing and Diagnosing MCP-enabled Agents on Challenging Queries**|Ming Yin et.al.|[2508.15760](http://arxiv.org/abs/2508.15760)|null|
@@ -43,8 +48,6 @@ _Updated on 2025.08.24_
 |**2025-08-20**|**STEM: Efficient Relative Capability Evaluation of LLMs through Structured Transition Samples**|Haiquan Hu et.al.|[2508.12096_(AAAI)](http://arxiv.org/abs/2508.12096)|null|
 |**2025-08-20**|**Beyond Pass@1: Self-Play with Variational Problem Synthesis Sustains RLVR**|Xiao Liang et.al.|[2508.14029](http://arxiv.org/abs/2508.14029)|null|
 |**2025-08-20**|**Input Time Scaling**|Rapheal Huang et.al.|[2508.13654](http://arxiv.org/abs/2508.13654)|null|
-|**2025-08-20**|**MedReseacher-R1: Expert-Level Medical Deep Researcher via A Knowledge-Informed Trajectory Synthesis Framework**|Ailing Yu et.al.|[2508.14880](http://arxiv.org/abs/2508.14880)|null|
-|**2025-08-20**|**MeshCoder: LLM-Powered Structured Mesh Code Generation from Point Clouds**|Bingquan Dai et.al.|[2508.14879](http://arxiv.org/abs/2508.14879)|null|
 |**2025-08-20**|**Long Chain-of-Thought Reasoning Across Languages**|Josh Barua et.al.|[2508.14828_(SC)](http://arxiv.org/abs/2508.14828)|null|
 |**2025-08-20**|**Evaluating Retrieval-Augmented Generation vs. Long-Context Input for Clinical Reasoning over EHRs**|Skatje Myers et.al.|[2508.14817](http://arxiv.org/abs/2508.14817)|null|
 |**2025-08-20**|**Privileged Self-Access Matters for Introspection in AI**|Siyuan Song et.al.|[2508.14802](http://arxiv.org/abs/2508.14802)|null|
@@ -57,7 +60,6 @@ _Updated on 2025.08.24_
 |**2025-08-20**|**Can LLM Agents Solve Collaborative Tasks? A Study on Urgency-Aware Planning and Coordination**|João Vitor de Carvalho Silva et.al.|[2508.14635](http://arxiv.org/abs/2508.14635)|null|
 |**2025-08-20**|**Who Sees What? Structured Thought-Action Sequences for Epistemic Reasoning in LLMs**|Luca Annese et.al.|[2508.14564_(ICS)](http://arxiv.org/abs/2508.14564)|null|
 |**2025-08-20**|**DuPO: Enabling Reliable LLM Self-Verification via Dual Preference Optimization**|Shuaijie She et.al.|[2508.14460](http://arxiv.org/abs/2508.14460)|null|
-|**2025-08-20**|**Automated Optimization Modeling through Expert-Guided Large Language Model Reasoning**|Beinuo Yang et.al.|[2508.14410](http://arxiv.org/abs/2508.14410)|null|
 |**2025-08-20**|**Cognitive Surgery: The Awakening of Implicit Territorial Awareness in LLMs**|Yinghan Zhou et.al.|[2508.14408](http://arxiv.org/abs/2508.14408)|null|
 |**2025-08-20**|**DEXTER-LLM: Dynamic and Explainable Coordination of Multi-Robot Systems in Unknown Environments via Large Language Models**|Yuxiao Zhu et.al.|[2508.14387_(IROS)](http://arxiv.org/abs/2508.14387)|null|
 |**2025-08-20**|**MoEcho: Exploiting Side-Channel Attacks to Compromise User Privacy in Mixture-of-Experts LLMs**|Ruyi Ding et.al.|[2508.15036_(CCS)](http://arxiv.org/abs/2508.15036)|null|
@@ -85,7 +87,6 @@ _Updated on 2025.08.24_
 |**2025-08-19**|**Toward Better EHR Reasoning in LLMs: Reinforcement Learning with Expert Attention Guidance**|Yue Fang et.al.|[2508.13579](http://arxiv.org/abs/2508.13579)|null|
 |**2025-08-19**|**From Scores to Skills: A Cognitive Diagnosis Framework for Evaluating Financial Large Language Models**|Ziyan Kuang et.al.|[2508.13491](http://arxiv.org/abs/2508.13491)|null|
 |**2025-08-19**|**AdaptJobRec: Enhancing Conversational Career Recommendation through an LLM-Powered Agentic System**|Qixin Wang et.al.|[2508.13423](http://arxiv.org/abs/2508.13423)|null|
-|**2025-08-19**|**Your Reward Function for RL is Your Best PRM for Search: Unifying RL and Search-Based TTS**|Can Jin et.al.|[2508.14313](http://arxiv.org/abs/2508.14313)|null|
 |**2025-08-19**|**MultiFuzz: A Dense Retrieval-based Multi-Agent System for Network Protocol Fuzzing**|Youssef Maklad et.al.|[2508.14300](http://arxiv.org/abs/2508.14300)|null|
 |**2025-08-19**|**GRILE: A Benchmark for Grammar Reasoning and Explanation in Romanian LLMs**|Adrian-Marius Dumitran et.al.|[2508.14279](http://arxiv.org/abs/2508.14279)|null|
 |**2025-08-19**|**Disentangling concept semantics via multilingual averaging in Sparse Autoencoders**|Cliff O'Reilly et.al.|[2508.14275](http://arxiv.org/abs/2508.14275)|null|
@@ -1616,7 +1617,6 @@ _Updated on 2025.08.24_
 |**2025-05-28**|**KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization**|Coleman Hooper et.al.|[2401.18079_(NeurIPS)](http://arxiv.org/abs/2401.18079)|null|
 |**2025-05-28**|**FIER: Fine-Grained and Efficient KV Cache Retrieval for Long-context LLM Inference**|Dongwei Wang et.al.|[2508.08256_(EMNLP)](http://arxiv.org/abs/2508.08256)|null|
 |**2025-05-27**|**Hardware-Efficient Attention for Fast Decoding**|Ted Zadouri et.al.|[2505.21487](http://arxiv.org/abs/2505.21487)|null|
-|**2025-05-27**|**SpecExtend: A Drop-in Enhancement for Speculative Decoding of Long Sequences**|Jungyoub Cha et.al.|[2505.20776_(EMNLP)](http://arxiv.org/abs/2505.20776)|null|
 |**2025-05-27**|**TailorKV: A Hybrid Framework for Long-Context Inference via Tailored KV Cache Optimization**|Dingyu Yao et.al.|[2505.19586](http://arxiv.org/abs/2505.19586)|null|
 |**2025-05-27**|**EPIC: Efficient Position-Independent Caching for Serving Large Language Models**|Junhao Hu et.al.|[2410.15332](http://arxiv.org/abs/2410.15332)|null|
 |**2025-05-27**|**vCache: Verified Semantic Prompt Caching**|Luis Gaspar Schroeder et.al.|[2502.03771](http://arxiv.org/abs/2502.03771)|null|
