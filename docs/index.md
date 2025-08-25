@@ -10,6 +10,7 @@ _Updated on 2025.08.25_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
+|**2025-08-22**|**Graph RAG as Human Choice Model: Building a Data-Driven Mobility Agent with Preference Chain**|Kai Hu et.al.|[2508.16172](http://arxiv.org/abs/2508.16172)|null|
 |**2025-08-21**|**Conflict-Aware Soft Prompting for Retrieval-Augmented Generation**|Eunseong Choi et.al.|[2508.15253_(EMNLP)](http://arxiv.org/abs/2508.15253)|null|
 |**2025-08-20**|**Benchmarking Vector, Graph and Hybrid Retrieval Augmented Generation (RAG) Pipelines for Open Radio Access Networks (ORAN)**|Sarat Ahmad et.al.|[2507.03608](http://arxiv.org/abs/2507.03608)|null|
 |**2025-08-19**|**MedKGent: A Large Language Model Agent Framework for Constructing Temporally Evolving Medical Knowledge Graph**|Duzhen Zhang et.al.|[2508.12393](http://arxiv.org/abs/2508.12393)|null|

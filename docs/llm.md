@@ -14,6 +14,26 @@ _Updated on 2025.08.25_
 |**2025-08-22**|**MeshCoder: LLM-Powered Structured Mesh Code Generation from Point Clouds**|Bingquan Dai et.al.|[2508.14879](http://arxiv.org/abs/2508.14879)|null|
 |**2025-08-22**|**Automated Optimization Modeling through Expert-Guided Large Language Model Reasoning**|Beinuo Yang et.al.|[2508.14410](http://arxiv.org/abs/2508.14410)|null|
 |**2025-08-22**|**Your Reward Function for RL is Your Best PRM for Search: Unifying RL and Search-Based TTS**|Can Jin et.al.|[2508.14313](http://arxiv.org/abs/2508.14313)|null|
+|**2025-08-22**|**CommonKV: Compressing KV Cache with Cross-layer Parameter Sharing**|Yixuan Wang et.al.|[2508.16134](http://arxiv.org/abs/2508.16134)|null|
+|**2025-08-22**|**ARSP: Automated Repair of Verilog Designs via Semantic Partitioning**|Bingkun Yao et.al.|[2508.16517](http://arxiv.org/abs/2508.16517)|null|
+|**2025-08-22**|**FLAMES: Improving LLM Math Reasoning via a Fine-Grained Analysis of the Data Synthesis Pipeline**|Parker Seegmiller et.al.|[2508.16514_(EMNLP)](http://arxiv.org/abs/2508.16514)|null|
+|**2025-08-22**|**OPERA: A Reinforcement Learning--Enhanced Orchestrated Planner-Executor Architecture for Reasoning-Oriented Multi-Hop Retrieval**|Yu Liu et.al.|[2508.16438](http://arxiv.org/abs/2508.16438)|null|
+|**2025-08-22**|**LLM-GUARD: Large Language Model-Based Detection and Repair of Bugs and Security Vulnerabilities in C++ and Python**|Akshay Mhatre et.al.|[2508.16419](http://arxiv.org/abs/2508.16419)|null|
+|**2025-08-22**|**AetherCode: Evaluating LLMs' Ability to Win In Premier Programming Competitions**|Zihan Wang et.al.|[2508.16402](http://arxiv.org/abs/2508.16402)|null|
+|**2025-08-22**|**RoMedQA: The First Benchmark for Romanian Medical Question Answering**|Ana-Cristina Rogoz et.al.|[2508.16390](http://arxiv.org/abs/2508.16390)|null|
+|**2025-08-22**|**GLARE: Agentic Reasoning for Legal Judgment Prediction**|Xinyu Yang et.al.|[2508.16383](http://arxiv.org/abs/2508.16383)|null|
+|**2025-08-22**|**MizanQA: Benchmarking Large Language Models on Moroccan Legal Question Answering**|Adil Bahaj et.al.|[2508.16357](http://arxiv.org/abs/2508.16357)|null|
+|**2025-08-22**|**From Linear to Hierarchical: Evolving Tree-structured Thoughts for Efficient Alpha Mining**|Junji Ren et.al.|[2508.16334](http://arxiv.org/abs/2508.16334)|null|
+|**2025-08-22**|**OwkinZero: Accelerating Biological Discovery with AI**|Nathan Bigaud et.al.|[2508.16315](http://arxiv.org/abs/2508.16315)|null|
+|**2025-08-22**|**Retrieval Enhanced Feedback via In-context Neural Error-book**|Jongyeop Hyun et.al.|[2508.16313_(EMNLP)](http://arxiv.org/abs/2508.16313)|null|
+|**2025-08-22**|**From Confidence to Collapse in LLM Factual Robustness**|Alina Fastowski et.al.|[2508.16267](http://arxiv.org/abs/2508.16267)|null|
+|**2025-08-22**|**M3TQA: Massively Multilingual Multitask Table Question Answering**|Daixin Shu et.al.|[2508.16265](http://arxiv.org/abs/2508.16265)|null|
+|**2025-08-22**|**MCPVerse: An Expansive, Real-World Benchmark for Agentic Tool Use**|Fei Lei et.al.|[2508.16260](http://arxiv.org/abs/2508.16260)|null|
+|**2025-08-22**|**MedOmni-45°: A Safety-Performance Benchmark for Reasoning-Oriented LLMs in Medicine**|Kaiyuan Ji et.al.|[2508.16213](http://arxiv.org/abs/2508.16213)|null|
+|**2025-08-22**|**ParamBench: A Graduate-Level Benchmark for Evaluating LLM Understanding on Indic Subjects**|Kaushal Sharma et.al.|[2508.16185](http://arxiv.org/abs/2508.16185)|null|
+|**2025-08-22**|**IR-Agent: Expert-Inspired LLM Agents for Structure Elucidation from Infrared Spectra**|Heewoong Noh et.al.|[2508.16112](http://arxiv.org/abs/2508.16112)|null|
+|**2025-08-22**|**Cooperative Design Optimization through Natural Language Interaction**|Ryogo Niwa et.al.|[2508.16077_(UIST)](http://arxiv.org/abs/2508.16077)|null|
+|**2025-08-22**|**InMind: Evaluating LLMs in Capturing and Applying Individual Human Reasoning Styles**|Zizhen Li et.al.|[2508.16072_(EMNLP)](http://arxiv.org/abs/2508.16072)|null|
 |**2025-08-21**|**MedResearcher-R1: Expert-Level Medical Deep Researcher via A Knowledge-Informed Trajectory Synthesis Framework**|Ailing Yu et.al.|[2508.14880](http://arxiv.org/abs/2508.14880)|null|
 |**2025-08-21**|**Efficient Mixed-Precision Large Language Model Inference with TurboMind**|Li Zhang et.al.|[2508.15601](http://arxiv.org/abs/2508.15601)|null|
 |**2025-08-21**|**SparK: Query-Aware Unstructured Sparsity with Recoverable KV Cache Channel Pruning**|Huanxuan Liao et.al.|[2508.15212](http://arxiv.org/abs/2508.15212)|null|
@@ -44,6 +64,12 @@ _Updated on 2025.08.25_
 |**2025-08-21**|**PuzzleClone: An SMT-Powered Framework for Synthesizing Verifiable Data**|Kai Xiong et.al.|[2508.15180](http://arxiv.org/abs/2508.15180)|null|
 |**2025-08-21**|**ContextualLVLM-Agent: A Holistic Framework for Multi-Turn Visually-Grounded Dialogue and Complex Instruction Following**|Seungmin Han et.al.|[2508.15164](http://arxiv.org/abs/2508.15164)|null|
 |**2025-08-21**|**QueryGenie: Making LLM-Based Database Querying Transparent and Controllable**|Longfei Chen et.al.|[2508.15146_(UIST)](http://arxiv.org/abs/2508.15146)|null|
+|**2025-08-21**|**HyperFlexis: Joint Design of Algorithms and Systems for Multi-SLO Serving and Fast Scaling**|Zahra Yousefijamarani et.al.|[2508.15919](http://arxiv.org/abs/2508.15919)|null|
+|**2025-08-21**|**Dancing with Deer: A Constructional Perspective on MWEs in the Era of LLMs**|Claire Bonial et.al.|[2508.15977_(SC)](http://arxiv.org/abs/2508.15977)|null|
+|**2025-08-21**|**Noise, Adaptation, and Strategy: Assessing LLM Fidelity in Decision-Making**|Yuanjun Feng et.al.|[2508.15926_(EMNLP)](http://arxiv.org/abs/2508.15926)|null|
+|**2025-08-21**|**VT-LVLM-AR: A Video-Temporal Large Vision-Language Model Adapter for Fine-Grained Action Recognition in Long-Term Videos**|Kaining Li et.al.|[2508.15903](http://arxiv.org/abs/2508.15903)|null|
+|**2025-08-21**|**DeepMEL: A Multi-Agent Collaboration Framework for Multimodal Entity Linking**|Fang Wang et.al.|[2508.15876](http://arxiv.org/abs/2508.15876)|null|
+|**2025-08-21**|**CARFT: Boosting LLM Reasoning via Contrastive Learning with Annotated Chain-of-Thought-based Reinforced Fine-Tuning**|Wenqiao Zhu et.al.|[2508.15868_(EMNLP)](http://arxiv.org/abs/2508.15868)|null|
 |**2025-08-20**|**CRED-SQL: Enhancing Real-world Large Scale Database Text-to-SQL Parsing through Cluster Retrieval and Execution Description**|Shaoming Duan et.al.|[2508.12769](http://arxiv.org/abs/2508.12769)|null|
 |**2025-08-20**|**STEM: Efficient Relative Capability Evaluation of LLMs through Structured Transition Samples**|Haiquan Hu et.al.|[2508.12096_(AAAI)](http://arxiv.org/abs/2508.12096)|null|
 |**2025-08-20**|**Beyond Pass@1: Self-Play with Variational Problem Synthesis Sustains RLVR**|Xiao Liang et.al.|[2508.14029](http://arxiv.org/abs/2508.14029)|null|
@@ -70,6 +96,10 @@ _Updated on 2025.08.25_
 |**2025-08-20**|**Reward-Shifted Speculative Sampling Is An Efficient Test-Time Weak-to-Strong Aligner**|Bolian Li et.al.|[2508.15044](http://arxiv.org/abs/2508.15044)|null|
 |**2025-08-20**|**In-Context Iterative Policy Improvement for Dynamic Manipulation**|Mark Van der Merwe et.al.|[2508.15021](http://arxiv.org/abs/2508.15021)|null|
 |**2025-08-20**|**Cohort-Aware Agents for Individualized Lung Cancer Risk Prediction Using a Retrieval-Augmented Model Selection Framework**|Chongyu Qu et.al.|[2508.14940](http://arxiv.org/abs/2508.14940)|null|
+|**2025-08-20**|**XFinBench: Benchmarking LLMs in Complex Financial Problem Solving and Reasoning**|Zhihan Zhang et.al.|[2508.15861](http://arxiv.org/abs/2508.15861)|null|
+|**2025-08-20**|**QU-NLP at QIAS 2025 Shared Task: A Two-Phase LLM Fine-Tuning and Retrieval-Augmented Generation Approach for Islamic Inheritance Reasoning**|Mohammad AL-Smadi et.al.|[2508.15854](http://arxiv.org/abs/2508.15854)|null|
+|**2025-08-20**|**DocHop-QA: Towards Multi-Hop Reasoning over Multimodal Document Collections**|Jiwon Park et.al.|[2508.15851](http://arxiv.org/abs/2508.15851)|null|
+|**2025-08-20**|**MedCoT-RAG: Causal Chain-of-Thought RAG for Medical Question Answering**|Ziyu Wang et.al.|[2508.15849](http://arxiv.org/abs/2508.15849)|null|
 |**2025-08-19**|**Atom-Searcher: Enhancing Agentic Deep Research via Fine-Grained Atomic Thought Reward**|Yong Deng et.al.|[2508.12800](http://arxiv.org/abs/2508.12800)|null|
 |**2025-08-19**|**MedKGent: A Large Language Model Agent Framework for Constructing Temporally Evolving Medical Knowledge Graph**|Duzhen Zhang et.al.|[2508.12393](http://arxiv.org/abs/2508.12393)|null|
 |**2025-08-19**|**Legal$Δ$: Enhancing Legal Reasoning in LLMs via Reinforcement Learning with Chain-of-Thought Guided Information Gain**|Xin Dai et.al.|[2508.12281](http://arxiv.org/abs/2508.12281)|null|
@@ -90,6 +120,8 @@ _Updated on 2025.08.25_
 |**2025-08-19**|**MultiFuzz: A Dense Retrieval-based Multi-Agent System for Network Protocol Fuzzing**|Youssef Maklad et.al.|[2508.14300](http://arxiv.org/abs/2508.14300)|null|
 |**2025-08-19**|**GRILE: A Benchmark for Grammar Reasoning and Explanation in Romanian LLMs**|Adrian-Marius Dumitran et.al.|[2508.14279](http://arxiv.org/abs/2508.14279)|null|
 |**2025-08-19**|**Disentangling concept semantics via multilingual averaging in Sparse Autoencoders**|Cliff O'Reilly et.al.|[2508.14275](http://arxiv.org/abs/2508.14275)|null|
+|**2025-08-19**|**Lexical Hints of Accuracy in LLM Reasoning Chains**|Arne Vanhoyweghen et.al.|[2508.15842](http://arxiv.org/abs/2508.15842)|null|
+|**2025-08-19**|**CIA+TA Risk Assessment for AI Reasoning Vulnerabilities**|Yuksel Aydin et.al.|[2508.15839](http://arxiv.org/abs/2508.15839)|null|
 |**2025-08-18**|**Dynamic Multi-Agent System with Stable Maneuvering for Robust GAIA Problem Solving by AWorld**|Zhitian Xie et.al.|[2508.09889](http://arxiv.org/abs/2508.09889)|null|
 |**2025-08-18**|**From Intent to Execution: Multimodal Chain-of-Thought Reinforcement Learning for Precise CAD Code Generation**|Ke Niu et.al.|[2508.10118](http://arxiv.org/abs/2508.10118)|null|
 |**2025-08-18**|**OptimalThinkingBench: Evaluating Over and Underthinking in LLMs**|Pranjal Aggarwal et.al.|[2508.13141](http://arxiv.org/abs/2508.13141)|null|
@@ -194,6 +226,7 @@ _Updated on 2025.08.25_
 |**2025-08-14**|**Rule2Text: A Framework for Generating and Evaluating Natural Language Explanations of Knowledge Graph Rules**|Nasim Shirvani-Mahdavi et.al.|[2508.10971](http://arxiv.org/abs/2508.10971)|null|
 |**2025-08-14**|**Retro-Expert: Collaborative Reasoning for Interpretable Retrosynthesis**|Xinyi Li et.al.|[2508.10967](http://arxiv.org/abs/2508.10967)|null|
 |**2025-08-14**|**Empowering Multimodal LLMs with External Tools: A Comprehensive Survey**|Wenbin An et.al.|[2508.10955](http://arxiv.org/abs/2508.10955)|null|
+|**2025-08-14**|**SurfaceLogicKV: Surface and Logic Attention Behaviors are All You Need for Robust KV Cache Compression**|Mengjie Li et.al.|[2508.15806](http://arxiv.org/abs/2508.15806)|null|
 |**2025-08-13**|**The Early Bird Catches the Leak: Unveiling Timing Side Channels in LLM Serving Systems**|Linke Song et.al.|[2409.20002_(DATE)](http://arxiv.org/abs/2409.20002)|null|
 |**2025-08-13**|**Capabilities of GPT-5 on Multimodal Medical Reasoning**|Shansong Wang et.al.|[2508.08224](http://arxiv.org/abs/2508.08224)|null|
 |**2025-08-13**|**Aryabhata: An exam-focused language model for JEE Math**|Ritvik Rastogi et.al.|[2508.08665](http://arxiv.org/abs/2508.08665)|null|

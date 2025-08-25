@@ -10,6 +10,7 @@ _Updated on 2025.08.25_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
+|**2025-08-22**|**HePGA: A Heterogeneous Processing-in-Memory based GNN Training Accelerator**|Chukwufumnanya Ogbogu et.al.|[2508.16011](http://arxiv.org/abs/2508.16011)|null|
 |**2025-08-19**|**CaPGNN: Optimizing Parallel Graph Neural Network Training with Joint Caching and Resource-Aware Graph Partitioning**|Xianfeng Song et.al.|[2508.13716](http://arxiv.org/abs/2508.13716)|null|
 |**2025-08-11**|**Enhancing Egocentric Object Detection in Static Environments using Graph-based Spatial Anomaly Detection and Correction**|Vishakha Lall et.al.|[2508.07624](http://arxiv.org/abs/2508.07624)|null|
 |**2025-08-06**|**Reliable and Real-Time Highway Trajectory Planning via Hybrid Learning-Optimization Frameworks**|Yujia Lu et.al.|[2508.04436](http://arxiv.org/abs/2508.04436)|null|
