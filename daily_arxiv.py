@@ -188,7 +188,7 @@ def parse_comment(comment: str | None):
     return url, venue
 
 
-def get_daily_papers(topic, query="slam", max_results=2):
+def get_daily_papers(topic, query="slam", max_results=5):
     """
     @param topic: str
     @param query: str
@@ -204,7 +204,13 @@ def get_daily_papers(topic, query="slam", max_results=2):
     error_count = 0
     max_errors = 5
 
-    for result in search_engine.results():
+    try:
+        results = list(search_engine.results())
+    except Exception as e:
+        logging.error(f"Error while fetching results: {e}")
+        return {topic: content}, {topic: content_to_web}
+
+    for result in results:
 
         paper_id = result.get_short_id()
         paper_title = result.title
