@@ -21,30 +21,41 @@ keywords:
     "RAG":
         logic: AND
         filters:
-        - ["RAG", "Cache"]
-        - ["RAG", "Memory"]
-        - ["RAG", "KG"]
-        - ["RAG", "Graph"]
+        - ["LLM", "RAG", "KV"]
+        - ["LLM", "RAG", "KG"]
+        - ["LLM", "RAG", "Graph"]
+
 
     "LLM":
         logic: AND
         filters:
-        - ["LLM", "Cache"]
-        - ["LLM", "Cache", "Serving"]
-        - ["LLM", "Cache", "Inference"]
-        - ["LLM", "Reasoning"]
-        - ["LLM", "Reasoning", "Cache"]
-        - ["LLM", "Thinking", "Cache"]
-        - ["LLM", "Prefix", "Cache"]
-        - ["LLM", "Inference", "Cache"]
-        - ["LLM", "Scheduling", "Cache"]
-        - ["LLM", "Agent", "Cache"]
+        ## - ["LLM", "KV", "Inference"]
+        - ["LLM", "KV", "Serving"]
+        - ["LLM", "KV", "Retrieve"]
+        - ["LLM", "KV", "Scheduling"]
+        - ["LLM", "KV", "Agent"]
+        - ["LLM", "KV", "Reasoning"]
+        - ["LLM", "KV", "Thinking"]
+        - ["LLM", "KV", "Prefix"]
+        - ["LLM", "Agent", "Scheduling"]
+        - ["Agent", "Scheduling", "KV"]
 
 
     "GNN":
-        filters: [
-            "GNN Training", "Distributed GNN", "Sample-based GNN Training", "Full-Graph GNN Training",
-            "Large-scale Graph Neural Network", "GNN System Optimization", "GNN Partitioning",
-            "Graph Training Pipeline", "Graph Training Parallelism", "GNN Scheduling", "GNN Training Evaluation",
-            "Hybrid CPU-GPU GNN Training", "GNN Communication Optimization", "Graph Neural Network Serving"
-        ]
+        logic: AND
+        filters:
+        - ["GNN", "Training", "System", "GPU"]
+        - ["GNN", "Training", "System", "Disk"]
+        - ["GNN", "Training", "System", "Partition"]
+        - ["GNN", "Training", "System", "Communication"]
+        - ["GNN", "Inference", "System", "Partition"]
+        - ["GNN", "Inference", "System", "Communication"]
+        - ["GNN", "System", "Asynchronous"]
+
+
+        # filters: [
+        #     "GNN Training", "Distributed GNN", "Sample-based GNN Training", "Full-Graph GNN Training",
+        #     "Large-scale Graph Neural Network", "GNN System Optimization", "GNN Partitioning",
+        #     "Graph Training Pipeline", "Graph Training Parallelism", "GNN Scheduling", "GNN Training Evaluation",
+        #     "Hybrid CPU-GPU GNN Training", "GNN Communication Optimization", "Graph Neural Network Serving"
+        # ]
