@@ -11,6 +11,7 @@ _Updated on 2025.08.27_
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
 |**2025-08-26**|**Krul: Efficient State Restoration for Multi-turn Conversations with Dynamic Cross-layer KV Sharing**|Junyi Wen et.al.|[2507.08045](http://arxiv.org/abs/2507.08045)|null|
+|**2025-08-26**|**Strata: Hierarchical Context Caching for Long Context Language Model Serving**|Zhiqiang Xie et.al.|[2508.18572](http://arxiv.org/abs/2508.18572)|null|
 |**2025-08-24**|**PRISM: Efficient Long-Range Reasoning With Short-Context LLMs**|Dulhan Jayalath et.al.|[2412.18914_(EMNLP)](http://arxiv.org/abs/2412.18914)|null|
 |**2025-08-23**|**Learned Structure in CARTRIDGES: Keys as Shareable Routers in Self-Studied Representations**|Maurizio Diaz et.al.|[2508.17032](http://arxiv.org/abs/2508.17032)|null|
 |**2025-08-22**|**SpecExtend: A Drop-in Enhancement for Speculative Decoding of Long Sequences**|Jungyoub Cha et.al.|[2505.20776](http://arxiv.org/abs/2505.20776)|null|
