@@ -6,10 +6,11 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2025.08.26_
+_Updated on 2025.08.27_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
+|**2025-08-26**|**Krul: Efficient State Restoration for Multi-turn Conversations with Dynamic Cross-layer KV Sharing**|Junyi Wen et.al.|[2507.08045](http://arxiv.org/abs/2507.08045)|null|
 |**2025-08-24**|**PRISM: Efficient Long-Range Reasoning With Short-Context LLMs**|Dulhan Jayalath et.al.|[2412.18914_(EMNLP)](http://arxiv.org/abs/2412.18914)|null|
 |**2025-08-23**|**Learned Structure in CARTRIDGES: Keys as Shareable Routers in Self-Studied Representations**|Maurizio Diaz et.al.|[2508.17032](http://arxiv.org/abs/2508.17032)|null|
 |**2025-08-22**|**SpecExtend: A Drop-in Enhancement for Speculative Decoding of Long Sequences**|Jungyoub Cha et.al.|[2505.20776](http://arxiv.org/abs/2505.20776)|null|
@@ -57,7 +58,6 @@ _Updated on 2025.08.26_
 |**2025-07-14**|**DroidSpeak: KV Cache Sharing for Cross-LLM Communication and Multi-LLM Serving**|Yuhan Liu et.al.|[2411.02820](http://arxiv.org/abs/2411.02820)|null|
 |**2025-07-10**|**Compactor: Calibrated Query-Agnostic KV Cache Compression with Approximate Leverage Scores**|Vivek Chari et.al.|[2507.08143](http://arxiv.org/abs/2507.08143)|null|
 |**2025-07-10**|**KVFlow: Efficient Prefix Caching for Accelerating LLM-Based Multi-Agent Workflows**|Zaifeng Pan et.al.|[2507.07400](http://arxiv.org/abs/2507.07400)|null|
-|**2025-07-10**|**Krul: Efficient State Restoration for Multi-turn Conversations with Dynamic Cross-layer KV Sharing**|Junyi Wen et.al.|[2507.08045](http://arxiv.org/abs/2507.08045)|null|
 |**2025-07-10**|**Parallel CPU-GPU Execution for LLM Inference on Constrained GPUs**|Jiakun Fan et.al.|[2506.03296](http://arxiv.org/abs/2506.03296)|null|
 |**2025-07-09**|**Gradientsys: A Multi-Agent LLM Scheduler with ReAct Orchestration**|Xinyuan Song et.al.|[2507.06520](http://arxiv.org/abs/2507.06520)|null|
 |**2025-07-08**|**OpenAgentSafety: A Comprehensive Framework for Evaluating Real-World AI Agent Safety**|Sanidhya Vijayvargiya et.al.|[2507.06134](http://arxiv.org/abs/2507.06134)|null|
