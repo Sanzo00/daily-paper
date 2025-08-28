@@ -12,6 +12,7 @@ _Updated on 2025.08.28_
 |:-------------|:------|:--------|:----|:-----|
 |**2025-08-27**|**Hydra: Structured Cross-Source Enhanced Large Language Model Reasoning**|Xingyu Tan et.al.|[2505.17464_(EMNLP)](http://arxiv.org/abs/2505.17464)|null|
 |**2025-08-26**|**An Ontology-Driven Graph RAG for Legal Norms: A Hierarchical, Temporal, and Deterministic Approach**|Hudson de Martim et.al.|[2505.00039_(SC)](http://arxiv.org/abs/2505.00039)|null|
+|**2025-08-26**|**Heterogeneous LLM Methods for Ontology Learning (Few-Shot Prompting, Ensemble Typing, and Attention-Based Taxonomies)**|Aleksandra Beliaeva et.al.|[2508.19428](http://arxiv.org/abs/2508.19428)|null|
 |**2025-08-24**|**PRISM: Efficient Long-Range Reasoning With Short-Context LLMs**|Dulhan Jayalath et.al.|[2412.18914_(EMNLP)](http://arxiv.org/abs/2412.18914)|null|
 |**2025-08-24**|**Exposing Privacy Risks in Graph Retrieval-Augmented Generation**|Jiale Liu et.al.|[2508.17222](http://arxiv.org/abs/2508.17222)|null|
 |**2025-08-23**|**ReFactX: Scalable Reasoning with Reliable Facts via Constrained Generation**|Riccardo Pozzi et.al.|[2508.16983_(ISWC)](http://arxiv.org/abs/2508.16983)|null|
