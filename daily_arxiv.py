@@ -623,7 +623,7 @@ def json_to_multi_md(json_file, output_dir):
                 # f.write(content)
                 parts = content.strip().rsplit("|", 2)
                 clean_line = parts[0] + "|"
-                f.write(clean_line)
+                f.write(clean_line + "\n")
 
 
 def demo(**config):
