@@ -10,6 +10,7 @@ _Updated on 2025.08.29_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-08-28**|**KG-CQR: Leveraging Structured Relation Representations in Knowledge Graphs for Contextual Query Retrieval**|Chi Minh Bui et.al.|[2508.20417_(EMNLP)](http://arxiv.org/abs/2508.20417)|
 |**2025-08-27**|**Hydra: Structured Cross-Source Enhanced Large Language Model Reasoning**|Xingyu Tan et.al.|[2505.17464_(EMNLP)](http://arxiv.org/abs/2505.17464)|
 |**2025-08-26**|**An Ontology-Driven Graph RAG for Legal Norms: A Hierarchical, Temporal, and Deterministic Approach**|Hudson de Martim et.al.|[2505.00039_(SC)](http://arxiv.org/abs/2505.00039)|
 |**2025-08-26**|**Heterogeneous LLM Methods for Ontology Learning (Few-Shot Prompting, Ensemble Typing, and Attention-Based Taxonomies)**|Aleksandra Beliaeva et.al.|[2508.19428](http://arxiv.org/abs/2508.19428)|
