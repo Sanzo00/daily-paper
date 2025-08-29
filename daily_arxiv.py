@@ -612,12 +612,18 @@ def json_to_multi_md(json_file, output_dir):
             f.write(f"---\nlayout: default\ntitle: {topic}\nnav_order: {i}\n---\n\n")
             f.write(f"# {topic} Papers\n\n")
             f.write(f"_Updated on {today}_\n\n")
-            f.write("| Publish Date | Title | Authors | PDF | Code |\n")
-            f.write("|:-------------|:------|:--------|:----|:-----|\n")
+            # f.write("| Publish Date | Title | Authors | PDF | Code |\n")
+            # f.write("|:-------------|:------|:--------|:----|:-----|\n")
+
+            f.write("| Publish Date | Title | Authors | PDF |\n")
+            f.write("|:-------------|:------|:--------|:----|\n")
 
             sorted_items = sorted(papers.items(), key=lambda x: x[1][:13], reverse=True)
             for _, content in sorted_items:
-                f.write(content)
+                # f.write(content)
+                parts = content.strip().rsplit("|", 2)
+                clean_line = parts[0] + "|"
+                f.write(clean_line)
 
 
 def demo(**config):

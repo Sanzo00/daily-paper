@@ -2,7 +2,8 @@ base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
 user_name: "Sanzo00"
 repo_name: "daily-paper"
 show_authors: True
-show_links: True
+# show_links: True
+show_links: False
 max_results: 100
 
 publish_readme: False
