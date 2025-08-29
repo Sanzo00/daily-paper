@@ -6,10 +6,11 @@ nav_order: 3
 
 # GNN Papers
 
-_Updated on 2025.08.28_
+_Updated on 2025.08.29_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:-------------|:------|:--------|:----|:-----|
+|**2025-08-28**|**ADAGE: Active Defenses Against GNN Extraction**|Jing Xu et.al.|[2503.00065](http://arxiv.org/abs/2503.00065)|null|
 |**2025-08-27**|**GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network**|Xianfeng Song et.al.|[2412.18221](http://arxiv.org/abs/2412.18221)|null|
 |**2025-08-25**|**Weisfeiler-Lehman meets Events: An Expressivity Analysis for Continuous-Time Dynamic Graph Neural Networks**|Silvia Beddar-Wiesing et.al.|[2508.18052](http://arxiv.org/abs/2508.18052)|null|
 |**2025-07-22**|**Graph Neural Networks Gone Hogwild**|Olga Solodova et.al.|[2407.00494](http://arxiv.org/abs/2407.00494)|null|
@@ -23,7 +24,6 @@ _Updated on 2025.08.28_
 |**2025-05-17**|**Ripple: Scalable Incremental GNN Inferencing on Large Streaming Graphs**|Pranjal Naman et.al.|[2505.12112_(DIS)](http://arxiv.org/abs/2505.12112)|null|
 |**2025-04-28**|**Graph Reinforcement Learning for QoS-Aware Load Balancing in Open Radio Access Networks**|Omid Semiari et.al.|[2504.19499_(ICC)](http://arxiv.org/abs/2504.19499)|null|
 |**2025-04-22**|**GraphEdge: Dynamic Graph Partition and Task Scheduling for GNNs Computing in Edge Network**|Wenjing Xiao et.al.|[2504.15905](http://arxiv.org/abs/2504.15905)|null|
-|**2025-03-29**|**ADAGE: Active Defenses Against GNN Extraction**|Jing Xu et.al.|[2503.00065](http://arxiv.org/abs/2503.00065)|null|
 |**2025-03-04**|**Deal: Distributed End-to-End GNN Inference for All Nodes**|Shiyang Chen et.al.|[2503.02960](http://arxiv.org/abs/2503.02960)|null|
 |**2025-03-04**|**Learning Precoding in Multi-user Multi-antenna Systems: Transformer or Graph Transformer?**|Yuxuan Duan et.al.|[2503.02998](http://arxiv.org/abs/2503.02998)|null|
 |**2025-03-03**|**Meta Flow Matching: Integrating Vector Fields on the Wasserstein Manifold**|Lazar Atanackovic et.al.|[2408.14608_(ICLR)](http://arxiv.org/abs/2408.14608)|null|
