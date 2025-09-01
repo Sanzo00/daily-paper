@@ -6,12 +6,13 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2025.08.31_
+_Updated on 2025.09.01_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
-|**2025-08-28**|**KG-CQR: Leveraging Structured Relation Representations in Knowledge Graphs for Contextual Query Retrieval**|Chi Minh Bui et.al.|[2508.20417_(EMNLP)](http://arxiv.org/abs/2508.20417)|
-|**2025-08-27**|**Hydra: Structured Cross-Source Enhanced Large Language Model Reasoning**|Xingyu Tan et.al.|[2505.17464_(EMNLP)](http://arxiv.org/abs/2505.17464)|
+|**2025-08-29**|**Hydra: Structured Cross-Source Enhanced Large Language Model Reasoning**|Xingyu Tan et.al.|[2505.17464_(EMNLP)](http://arxiv.org/abs/2505.17464)|
+|**2025-08-29**|**Evaluating Knowledge Graph Based Retrieval Augmented Generation Methods under Knowledge Incompleteness**|Dongzhuoran Zhou et.al.|[2504.05163](http://arxiv.org/abs/2504.05163)|
+|**2025-08-29**|**KG-CQR: Leveraging Structured Relation Representations in Knowledge Graphs for Contextual Query Retrieval**|Chi Minh Bui et.al.|[2508.20417_(EMNLP)](http://arxiv.org/abs/2508.20417)|
 |**2025-08-26**|**An Ontology-Driven Graph RAG for Legal Norms: A Hierarchical, Temporal, and Deterministic Approach**|Hudson de Martim et.al.|[2505.00039_(SC)](http://arxiv.org/abs/2505.00039)|
 |**2025-08-26**|**Heterogeneous LLM Methods for Ontology Learning (Few-Shot Prompting, Ensemble Typing, and Attention-Based Taxonomies)**|Aleksandra Beliaeva et.al.|[2508.19428](http://arxiv.org/abs/2508.19428)|
 |**2025-08-24**|**PRISM: Efficient Long-Range Reasoning With Short-Context LLMs**|Dulhan Jayalath et.al.|[2412.18914_(EMNLP)](http://arxiv.org/abs/2412.18914)|
@@ -143,7 +144,6 @@ _Updated on 2025.08.31_
 |**2025-04-10**|**ConceptFormer: Towards Efficient Use of Knowledge-Graph Embeddings in Large Language Models**|Joel Barmettler et.al.|[2504.07624](http://arxiv.org/abs/2504.07624)|
 |**2025-04-09**|**MemoRAG: Boosting Long Context Processing with Global Memory-Enhanced Retrieval Augmentation**|Hongjin Qian et.al.|[2409.05591_(TheWebConf)](http://arxiv.org/abs/2409.05591)|
 |**2025-04-07**|**GraphRAFT: Retrieval Augmented Fine-Tuning for Knowledge Graphs on Graph Databases**|Alfred Clemedtson et.al.|[2504.05478](http://arxiv.org/abs/2504.05478)|
-|**2025-04-07**|**Evaluating Knowledge Graph Based Retrieval Augmented Generation Methods under Knowledge Incompleteness**|Dongzhuoran Zhou et.al.|[2504.05163](http://arxiv.org/abs/2504.05163)|
 |**2025-04-03**|**HyperRAG: Enhancing Quality-Efficiency Tradeoffs in Retrieval-Augmented Generation with Reranker KV-Cache Reuse**|Yuwei An et.al.|[2504.02921](http://arxiv.org/abs/2504.02921)|
 |**2025-04-03**|**CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion**|Jiayi Yao et.al.|[2405.16444](http://arxiv.org/abs/2405.16444)|
 |**2025-03-28**|**Knowledge graph enhanced retrieval-augmented generation for failure mode and effects analysis**|Lukas Bahr et.al.|[2406.18114](http://arxiv.org/abs/2406.18114)|
