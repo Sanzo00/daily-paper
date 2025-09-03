@@ -6,10 +6,13 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2025.09.02_
+_Updated on 2025.09.03_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-09-01**|**TRACE-CS: A Hybrid Logic-LLM System for Explainable Course Scheduling**|Stylianos Loukas Vasileiou et.al.|[2409.03671](http://arxiv.org/abs/2409.03671)|
+|**2025-08-31**|**LLM Serving Optimization with Variable Prefill and Decode Lengths**|Meixuan Wang et.al.|[2508.06133](http://arxiv.org/abs/2508.06133)|
+|**2025-08-30**|**DiffKV: Differentiated Memory Management for Large Language Models with Parallel KV Compaction**|Yanqi Zhang et.al.|[2412.03131_(SOSP)](http://arxiv.org/abs/2412.03131)|
 |**2025-08-29**|**Atom-Searcher: Enhancing Agentic Deep Research via Fine-Grained Atomic Thought Reward**|Yong Deng et.al.|[2508.12800](http://arxiv.org/abs/2508.12800)|
 |**2025-08-27**|**Spotlight Attention: Towards Efficient LLM Generation via Non-linear Hashing-based KV Cache Retrieval**|Wenhao Li et.al.|[2508.19740](http://arxiv.org/abs/2508.19740)|
 |**2025-08-26**|**Krul: Efficient State Restoration for Multi-turn Conversations with Dynamic Cross-layer KV Sharing**|Junyi Wen et.al.|[2507.08045](http://arxiv.org/abs/2507.08045)|
@@ -36,7 +39,6 @@ _Updated on 2025.09.02_
 |**2025-08-11**|**Architecting Long-Context LLM Acceleration with Packing-Prefetch Scheduler and Ultra-Large Capacity On-Chip Memories**|Ming-Yen Lee et.al.|[2508.08457](http://arxiv.org/abs/2508.08457)|
 |**2025-08-11**|**From Natural Language to Solver-Ready Power System Optimization: An LLM-Assisted, Validation-in-the-Loop Framework**|Yunkai Hu et.al.|[2508.08147](http://arxiv.org/abs/2508.08147)|
 |**2025-08-09**|**Kairos: Low-latency Multi-Agent Serving with Shared LLMs and Excessive Loads in the Public Cloud**|Jinyuan Chen et.al.|[2508.06948](http://arxiv.org/abs/2508.06948)|
-|**2025-08-08**|**LLM Serving Optimization with Variable Prefill and Decode Lengths**|Meixuan Wang et.al.|[2508.06133](http://arxiv.org/abs/2508.06133)|
 |**2025-08-06**|**p-MoD: Building Mixture-of-Depths MLLMs via Progressive Ratio Decay**|Jun Zhang et.al.|[2412.04449_(ICC)](http://arxiv.org/abs/2412.04449)|
 |**2025-08-06**|**StackPilot: Autonomous Function Agents for Scalable and Environment-Free Code Execution**|Xinkui Zhao et.al.|[2508.11665](http://arxiv.org/abs/2508.11665)|
 |**2025-08-06**|**AquaChat++: LLM-Assisted Multi-ROV Inspection for Aquaculture Net Pens with Integrated Battery Management and Thruster Fault Tolerance**|Abdelhaleem Saad et.al.|[2508.06554](http://arxiv.org/abs/2508.06554)|
@@ -174,7 +176,6 @@ _Updated on 2025.09.02_
 |**2025-04-10**|**Apt-Serve: Adaptive Request Scheduling on Hybrid Cache for Scalable LLM Inference Serving**|Shihong Gao et.al.|[2504.07494](http://arxiv.org/abs/2504.07494)|
 |**2025-04-09**|**Optimizing LLM Queries in Relational Data Analytics Workloads**|Shu Liu et.al.|[2403.05821](http://arxiv.org/abs/2403.05821)|
 |**2025-04-09**|**MemoRAG: Boosting Long Context Processing with Global Memory-Enhanced Retrieval Augmentation**|Hongjin Qian et.al.|[2409.05591_(TheWebConf)](http://arxiv.org/abs/2409.05591)|
-|**2025-04-08**|**Unifying KV Cache Compression for Large Language Models with LeanKV**|Yanqi Zhang et.al.|[2412.03131](http://arxiv.org/abs/2412.03131)|
 |**2025-04-08**|**Accelerating LLM Inference Throughput via Asynchronous KV Cache Prefetching**|Yanhao Dong et.al.|[2504.06319](http://arxiv.org/abs/2504.06319)|
 |**2025-04-03**|**CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion**|Jiayi Yao et.al.|[2405.16444](http://arxiv.org/abs/2405.16444)|
 |**2025-04-03**|**HyperRAG: Enhancing Quality-Efficiency Tradeoffs in Retrieval-Augmented Generation with Reranker KV-Cache Reuse**|Yuwei An et.al.|[2504.02921](http://arxiv.org/abs/2504.02921)|
@@ -278,7 +279,6 @@ _Updated on 2025.09.02_
 |**2024-10-11**|**OpenCity: A Scalable Platform to Simulate Urban Activities with Massive LLM Agents**|Yuwei Yan et.al.|[2410.21286](http://arxiv.org/abs/2410.21286)|
 |**2024-10-09**|**LayerKV: Optimizing Large Language Model Serving with Layer-wise KV Cache Management**|Yi Xiong et.al.|[2410.00428](http://arxiv.org/abs/2410.00428)|
 |**2024-10-08**|**KV Cache Compression, But What Must We Give in Return? A Comprehensive Benchmark of Long Context Capable Approaches**|Jiayi Yuan et.al.|[2407.01527](http://arxiv.org/abs/2407.01527)|
-|**2024-10-08**|**TRACE-CS: A Synergistic Approach to Explainable Course Scheduling Using LLMs and Logic**|Stylianos Loukas Vasileiou et.al.|[2409.03671](http://arxiv.org/abs/2409.03671)|
 |**2024-10-07**|**Fast State Restoration in LLM Serving with HCache**|Shiwei Gao et.al.|[2410.05004_(EuroSys)](http://arxiv.org/abs/2410.05004)|
 |**2024-10-07**|**KV-Compress: Paged KV-Cache Compression with Variable Compression Rates per Attention Head**|Isaac Rehg et.al.|[2410.00161](http://arxiv.org/abs/2410.00161)|
 |**2024-10-06**|**SafeLLM: Domain-Specific Safety Monitoring for Large Language Models: A Case Study of Offshore Wind Maintenance**|Connor Walker et.al.|[2410.10852](http://arxiv.org/abs/2410.10852)|
