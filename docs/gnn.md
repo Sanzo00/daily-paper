@@ -10,6 +10,7 @@ _Updated on 2025.09.04_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-09-02**|**HydroGAT: Distributed Heterogeneous Graph Attention Transformer for Spatiotemporal Flood Prediction**|Aishwarya Sarkar et.al.|[2509.02481_(SIGSPATIAL)](http://arxiv.org/abs/2509.02481)|
 |**2025-08-28**|**ADAGE: Active Defenses Against GNN Extraction**|Jing Xu et.al.|[2503.00065](http://arxiv.org/abs/2503.00065)|
 |**2025-08-27**|**GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network**|Xianfeng Song et.al.|[2412.18221](http://arxiv.org/abs/2412.18221)|
 |**2025-08-25**|**Weisfeiler-Lehman meets Events: An Expressivity Analysis for Continuous-Time Dynamic Graph Neural Networks**|Silvia Beddar-Wiesing et.al.|[2508.18052](http://arxiv.org/abs/2508.18052)|
