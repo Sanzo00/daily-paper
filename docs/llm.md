@@ -6,10 +6,11 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2025.09.04_
+_Updated on 2025.09.05_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-09-04**|**Spotlight Attention: Towards Efficient LLM Generation via Non-linear Hashing-based KV Cache Retrieval**|Wenhao Li et.al.|[2508.19740](http://arxiv.org/abs/2508.19740)|
 |**2025-09-03**|**Amplifying Effective CXL Memory Bandwidth for LLM Inference via Transparent Near-Data Processing**|Rui Xie et.al.|[2509.03377](http://arxiv.org/abs/2509.03377)|
 |**2025-09-03**|**Towards Agentic OS: An LLM Agent Framework for Linux Schedulers**|Yusheng Zheng et.al.|[2509.01245](http://arxiv.org/abs/2509.01245)|
 |**2025-09-02**|**Batch Query Processing and Optimization for Agentic Workflows**|Junyi Shen et.al.|[2509.02121](http://arxiv.org/abs/2509.02121)|
@@ -21,7 +22,6 @@ _Updated on 2025.09.04_
 |**2025-08-29**|**Atom-Searcher: Enhancing Agentic Deep Research via Fine-Grained Atomic Thought Reward**|Yong Deng et.al.|[2508.12800](http://arxiv.org/abs/2508.12800)|
 |**2025-08-29**|**Democratizing Agentic AI with Fast Test-Time Scaling on the Edge**|Hao Mark Chen et.al.|[2509.00195](http://arxiv.org/abs/2509.00195)|
 |**2025-08-28**|**AdaptCache: KV Cache Native Storage Hierarchy for Low-Delay and High-Quality Language Model Serving**|Shaoting Feng et.al.|[2509.00105](http://arxiv.org/abs/2509.00105)|
-|**2025-08-27**|**Spotlight Attention: Towards Efficient LLM Generation via Non-linear Hashing-based KV Cache Retrieval**|Wenhao Li et.al.|[2508.19740](http://arxiv.org/abs/2508.19740)|
 |**2025-08-26**|**Krul: Efficient State Restoration for Multi-turn Conversations with Dynamic Cross-layer KV Sharing**|Junyi Wen et.al.|[2507.08045](http://arxiv.org/abs/2507.08045)|
 |**2025-08-26**|**Strata: Hierarchical Context Caching for Long Context Language Model Serving**|Zhiqiang Xie et.al.|[2508.18572](http://arxiv.org/abs/2508.18572)|
 |**2025-08-24**|**PRISM: Efficient Long-Range Reasoning With Short-Context LLMs**|Dulhan Jayalath et.al.|[2412.18914_(EMNLP)](http://arxiv.org/abs/2412.18914)|
