@@ -10,7 +10,10 @@ _Updated on 2025.09.05_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-09-04**|**MTQA:Matrix of Thought for Enhanced Reasoning in Complex Question Answering**|Fengxiao Tang et.al.|[2509.03918](http://arxiv.org/abs/2509.03918)|
+|**2025-09-03**|**Explainable Knowledge Graph Retrieval-Augmented Generation (KG-RAG) with KG-SMILE**|Zahra Zehtabi Sabeti Moghaddam et.al.|[2509.03626](http://arxiv.org/abs/2509.03626)|
 |**2025-09-01**|**Towards Open-World Retrieval-Augmented Generation on Knowledge Graph: A Multi-Agent Collaboration Framework**|Jiasheng Xu et.al.|[2509.01238](http://arxiv.org/abs/2509.01238)|
+|**2025-08-31**|**Improving Factuality in LLMs via Inference-Time Knowledge Graph Construction**|Shanglin Wu et.al.|[2509.03540](http://arxiv.org/abs/2509.03540)|
 |**2025-08-30**|**KG-RAG: Enhancing GUI Agent Decision-Making via Knowledge Graph-Driven Retrieval-Augmented Generation**|Ziyi Guan et.al.|[2509.00366_(EMNLP)](http://arxiv.org/abs/2509.00366)|
 |**2025-08-29**|**Hydra: Structured Cross-Source Enhanced Large Language Model Reasoning**|Xingyu Tan et.al.|[2505.17464_(EMNLP)](http://arxiv.org/abs/2505.17464)|
 |**2025-08-29**|**Evaluating Knowledge Graph Based Retrieval Augmented Generation Methods under Knowledge Incompleteness**|Dongzhuoran Zhou et.al.|[2504.05163](http://arxiv.org/abs/2504.05163)|
@@ -19,6 +22,7 @@ _Updated on 2025.09.05_
 |**2025-08-28**|**Addressing accuracy and hallucination of LLMs in Alzheimer's disease research through knowledge graphs**|Tingxuan Xu et.al.|[2508.21238](http://arxiv.org/abs/2508.21238)|
 |**2025-08-26**|**An Ontology-Driven Graph RAG for Legal Norms: A Hierarchical, Temporal, and Deterministic Approach**|Hudson de Martim et.al.|[2505.00039_(SC)](http://arxiv.org/abs/2505.00039)|
 |**2025-08-26**|**Heterogeneous LLM Methods for Ontology Learning (Few-Shot Prompting, Ensemble Typing, and Attention-Based Taxonomies)**|Aleksandra Beliaeva et.al.|[2508.19428](http://arxiv.org/abs/2508.19428)|
+|**2025-08-25**|**Multilevel Analysis of Cryptocurrency News using RAG Approach with Fine-Tuned Mistral Large Language Model**|Bohdan M. Pavlyshenko et.al.|[2509.03527](http://arxiv.org/abs/2509.03527)|
 |**2025-08-24**|**PRISM: Efficient Long-Range Reasoning With Short-Context LLMs**|Dulhan Jayalath et.al.|[2412.18914_(EMNLP)](http://arxiv.org/abs/2412.18914)|
 |**2025-08-24**|**Exposing Privacy Risks in Graph Retrieval-Augmented Generation**|Jiale Liu et.al.|[2508.17222](http://arxiv.org/abs/2508.17222)|
 |**2025-08-23**|**ReFactX: Scalable Reasoning with Reliable Facts via Constrained Generation**|Riccardo Pozzi et.al.|[2508.16983_(ISWC)](http://arxiv.org/abs/2508.16983)|
