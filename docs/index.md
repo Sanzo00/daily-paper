@@ -6,10 +6,11 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2025.09.07_
+_Updated on 2025.09.08_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-09-05**|**Graph RAG as Human Choice Model: Building a Data-Driven Mobility Agent with Preference Chain**|Kai Hu et.al.|[2508.16172](http://arxiv.org/abs/2508.16172)|
 |**2025-09-04**|**MTQA:Matrix of Thought for Enhanced Reasoning in Complex Question Answering**|Fengxiao Tang et.al.|[2509.03918](http://arxiv.org/abs/2509.03918)|
 |**2025-09-03**|**Explainable Knowledge Graph Retrieval-Augmented Generation (KG-RAG) with KG-SMILE**|Zahra Zehtabi Sabeti Moghaddam et.al.|[2509.03626](http://arxiv.org/abs/2509.03626)|
 |**2025-09-01**|**Towards Open-World Retrieval-Augmented Generation on Knowledge Graph: A Multi-Agent Collaboration Framework**|Jiasheng Xu et.al.|[2509.01238](http://arxiv.org/abs/2509.01238)|
@@ -27,7 +28,6 @@ _Updated on 2025.09.07_
 |**2025-08-24**|**Exposing Privacy Risks in Graph Retrieval-Augmented Generation**|Jiale Liu et.al.|[2508.17222](http://arxiv.org/abs/2508.17222)|
 |**2025-08-23**|**ReFactX: Scalable Reasoning with Reliable Facts via Constrained Generation**|Riccardo Pozzi et.al.|[2508.16983_(ISWC)](http://arxiv.org/abs/2508.16983)|
 |**2025-08-23**|**Reasoning with RAGged events: RAG-Enhanced Event Knowledge Base Construction and reasoning with proof-assistants**|Stergios Chatzikyriakidis et.al.|[2506.07042](http://arxiv.org/abs/2506.07042)|
-|**2025-08-22**|**Graph RAG as Human Choice Model: Building a Data-Driven Mobility Agent with Preference Chain**|Kai Hu et.al.|[2508.16172](http://arxiv.org/abs/2508.16172)|
 |**2025-08-20**|**Benchmarking Vector, Graph and Hybrid Retrieval Augmented Generation (RAG) Pipelines for Open Radio Access Networks (ORAN)**|Sarat Ahmad et.al.|[2507.03608](http://arxiv.org/abs/2507.03608)|
 |**2025-08-19**|**MedKGent: A Large Language Model Agent Framework for Constructing Temporally Evolving Medical Knowledge Graph**|Duzhen Zhang et.al.|[2508.12393](http://arxiv.org/abs/2508.12393)|
 |**2025-08-19**|**ReviewGraph: A Knowledge Graph Embedding Based Framework for Review Rating Prediction with Sentiment Features**|A. J. W. de Vink et.al.|[2508.13953](http://arxiv.org/abs/2508.13953)|
