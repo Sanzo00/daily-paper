@@ -11,7 +11,9 @@ _Updated on 2025.09.08_
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
 |**2025-09-05**|**Graph RAG as Human Choice Model: Building a Data-Driven Mobility Agent with Preference Chain**|Kai Hu et.al.|[2508.16172](http://arxiv.org/abs/2508.16172)|
+|**2025-09-05**|**KERAG: Knowledge-Enhanced Retrieval-Augmented Generation for Advanced Question Answering**|Yushi Sun et.al.|[2509.04716_(EMNLP)](http://arxiv.org/abs/2509.04716)|
 |**2025-09-04**|**MTQA:Matrix of Thought for Enhanced Reasoning in Complex Question Answering**|Fengxiao Tang et.al.|[2509.03918](http://arxiv.org/abs/2509.03918)|
+|**2025-09-04**|**Maestro: Joint Graph & Config Optimization for Reliable AI Agents**|Wenxiao Wang et.al.|[2509.04642](http://arxiv.org/abs/2509.04642)|
 |**2025-09-03**|**Explainable Knowledge Graph Retrieval-Augmented Generation (KG-RAG) with KG-SMILE**|Zahra Zehtabi Sabeti Moghaddam et.al.|[2509.03626](http://arxiv.org/abs/2509.03626)|
 |**2025-09-01**|**Towards Open-World Retrieval-Augmented Generation on Knowledge Graph: A Multi-Agent Collaboration Framework**|Jiasheng Xu et.al.|[2509.01238](http://arxiv.org/abs/2509.01238)|
 |**2025-08-31**|**Improving Factuality in LLMs via Inference-Time Knowledge Graph Construction**|Shanglin Wu et.al.|[2509.03540](http://arxiv.org/abs/2509.03540)|
