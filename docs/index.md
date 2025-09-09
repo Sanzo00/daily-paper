@@ -6,10 +6,11 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2025.09.08_
+_Updated on 2025.09.09_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-09-06**|**KG-CQR: Leveraging Structured Relation Representations in Knowledge Graphs for Contextual Query Retrieval**|Chi Minh Bui et.al.|[2508.20417_(EMNLP)](http://arxiv.org/abs/2508.20417)|
 |**2025-09-05**|**Graph RAG as Human Choice Model: Building a Data-Driven Mobility Agent with Preference Chain**|Kai Hu et.al.|[2508.16172](http://arxiv.org/abs/2508.16172)|
 |**2025-09-05**|**KERAG: Knowledge-Enhanced Retrieval-Augmented Generation for Advanced Question Answering**|Yushi Sun et.al.|[2509.04716_(EMNLP)](http://arxiv.org/abs/2509.04716)|
 |**2025-09-04**|**MTQA:Matrix of Thought for Enhanced Reasoning in Complex Question Answering**|Fengxiao Tang et.al.|[2509.03918](http://arxiv.org/abs/2509.03918)|
@@ -20,7 +21,6 @@ _Updated on 2025.09.08_
 |**2025-08-30**|**KG-RAG: Enhancing GUI Agent Decision-Making via Knowledge Graph-Driven Retrieval-Augmented Generation**|Ziyi Guan et.al.|[2509.00366_(EMNLP)](http://arxiv.org/abs/2509.00366)|
 |**2025-08-29**|**Hydra: Structured Cross-Source Enhanced Large Language Model Reasoning**|Xingyu Tan et.al.|[2505.17464_(EMNLP)](http://arxiv.org/abs/2505.17464)|
 |**2025-08-29**|**Evaluating Knowledge Graph Based Retrieval Augmented Generation Methods under Knowledge Incompleteness**|Dongzhuoran Zhou et.al.|[2504.05163](http://arxiv.org/abs/2504.05163)|
-|**2025-08-29**|**KG-CQR: Leveraging Structured Relation Representations in Knowledge Graphs for Contextual Query Retrieval**|Chi Minh Bui et.al.|[2508.20417_(EMNLP)](http://arxiv.org/abs/2508.20417)|
 |**2025-08-29**|**OpenAIs HealthBench in Action: Evaluating an LLM-Based Medical Assistant on Realistic Clinical Queries**|Sandhanakrishnan Ravichandran et.al.|[2509.02594](http://arxiv.org/abs/2509.02594)|
 |**2025-08-28**|**Addressing accuracy and hallucination of LLMs in Alzheimer's disease research through knowledge graphs**|Tingxuan Xu et.al.|[2508.21238](http://arxiv.org/abs/2508.21238)|
 |**2025-08-26**|**An Ontology-Driven Graph RAG for Legal Norms: A Hierarchical, Temporal, and Deterministic Approach**|Hudson de Martim et.al.|[2505.00039_(SC)](http://arxiv.org/abs/2505.00039)|
