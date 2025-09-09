@@ -10,6 +10,7 @@ _Updated on 2025.09.09_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-09-08**|**Graph Neural Networks for Resource Allocation in Interference-limited Multi-Channel Wireless Networks with QoS Constraints**|Lili Chen et.al.|[2509.06395](http://arxiv.org/abs/2509.06395)|
 |**2025-09-02**|**HydroGAT: Distributed Heterogeneous Graph Attention Transformer for Spatiotemporal Flood Prediction**|Aishwarya Sarkar et.al.|[2509.02481_(SIGSPATIAL)](http://arxiv.org/abs/2509.02481)|
 |**2025-08-28**|**ADAGE: Active Defenses Against GNN Extraction**|Jing Xu et.al.|[2503.00065](http://arxiv.org/abs/2503.00065)|
 |**2025-08-27**|**GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network**|Xianfeng Song et.al.|[2412.18221](http://arxiv.org/abs/2412.18221)|

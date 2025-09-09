@@ -10,6 +10,9 @@ _Updated on 2025.09.09_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-09-08**|**Seeing the Forest Through the Trees: Knowledge Retrieval for Streamlining Particle Physics Analysis**|James McGreivy et.al.|[2509.06855](http://arxiv.org/abs/2509.06855)|
+|**2025-09-08**|**HyFedRAG: A Federated Retrieval-Augmented Generation Framework for Heterogeneous and Privacy-Sensitive Data**|Cheng Qian et.al.|[2509.06444](http://arxiv.org/abs/2509.06444)|
+|**2025-09-07**|**GRACE: Graph-Guided Repository-Aware Code Completion through Hierarchical Code Fusion**|Xingliang Wang et.al.|[2509.05980](http://arxiv.org/abs/2509.05980)|
 |**2025-09-06**|**KG-CQR: Leveraging Structured Relation Representations in Knowledge Graphs for Contextual Query Retrieval**|Chi Minh Bui et.al.|[2508.20417_(EMNLP)](http://arxiv.org/abs/2508.20417)|
 |**2025-09-05**|**Graph RAG as Human Choice Model: Building a Data-Driven Mobility Agent with Preference Chain**|Kai Hu et.al.|[2508.16172](http://arxiv.org/abs/2508.16172)|
 |**2025-09-05**|**KERAG: Knowledge-Enhanced Retrieval-Augmented Generation for Advanced Question Answering**|Yushi Sun et.al.|[2509.04716_(EMNLP)](http://arxiv.org/abs/2509.04716)|
