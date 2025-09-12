@@ -10,6 +10,7 @@ _Updated on 2025.09.12_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-09-11**|**Fusing Knowledge and Language: A Comparative Study of Knowledge Graph-Based Question Answering with LLMs**|Vaibhav Chaudhary et.al.|[2509.09272](http://arxiv.org/abs/2509.09272)|
 |**2025-09-09**|**Query Expansion in the Age of Pre-trained and Large Language Models: A Comprehensive Survey**|Minghan Li et.al.|[2509.07794](http://arxiv.org/abs/2509.07794)|
 |**2025-09-09**|**KLIPA: A Knowledge Graph and LLM-Driven QA Framework for IP Analysis**|Guanzhi Deng et.al.|[2509.07860](http://arxiv.org/abs/2509.07860)|
 |**2025-09-09**|**Aligning LLMs for the Classroom with Knowledge-Based Retrieval -- A Comparative RAG Study**|Amay Jain et.al.|[2509.07846](http://arxiv.org/abs/2509.07846)|
