@@ -6,13 +6,14 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2025.09.15_
+_Updated on 2025.09.16_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-09-15**|**Accelerating LLM Inference via Dynamic KV Cache Placement in Heterogeneous Memory System**|Yunhua Fang et.al.|[2508.13231_(CHI)](http://arxiv.org/abs/2508.13231)|
+|**2025-09-15**|**FineServe: Precision-Aware KV Slab and Two-Level Scheduling for Heterogeneous Precision LLM Serving**|Kyungmin Bin et.al.|[2509.06261](http://arxiv.org/abs/2509.06261)|
 |**2025-09-11**|**Spotlight Attention: Towards Efficient LLM Generation via Non-linear Hashing-based KV Cache Retrieval**|Wenhao Li et.al.|[2508.19740](http://arxiv.org/abs/2508.19740)|
 |**2025-09-08**|**Amplifying Effective CXL Memory Bandwidth for LLM Inference via Transparent Near-Data Processing**|Rui Xie et.al.|[2509.03377](http://arxiv.org/abs/2509.03377)|
-|**2025-09-08**|**FineServe: Precision-Aware KV Slab and Two-Level Scheduling for Heterogeneous Precision LLM Serving**|Kyungmin Bin et.al.|[2509.06261](http://arxiv.org/abs/2509.06261)|
 |**2025-09-08**|**Revolutionizing Reinforcement Learning Framework for Diffusion Large Language Models**|Yinjie Wang et.al.|[2509.06949](http://arxiv.org/abs/2509.06949)|
 |**2025-09-03**|**Towards Agentic OS: An LLM Agent Framework for Linux Schedulers**|Yusheng Zheng et.al.|[2509.01245](http://arxiv.org/abs/2509.01245)|
 |**2025-09-03**|**ConServe: Fine-Grained GPU Harvesting for LLM Online and Offline Co-Serving**|Yifan Qiao et.al.|[2410.01228](http://arxiv.org/abs/2410.01228)|
@@ -35,7 +36,6 @@ _Updated on 2025.09.15_
 |**2025-08-20**|**H2EAL: Hybrid-Bonding Architecture with Hybrid Sparse Attention for Efficient Long-Context LLM Inference**|Zizhuo Fu et.al.|[2508.16653_(ICC)](http://arxiv.org/abs/2508.16653)|
 |**2025-08-20**|**Entropy-Constrained Strategy Optimization in Urban Floods: A Multi-Agent Framework with LLM and Knowledge Graph Integration**|Peilin Ji et.al.|[2508.14654](http://arxiv.org/abs/2508.14654)|
 |**2025-08-18**|**Datarus-R1: An Adaptive Multi-Step Reasoning LLM for Automated Data Analysis**|Ayoub Ben Chaliah et.al.|[2508.13382](http://arxiv.org/abs/2508.13382)|
-|**2025-08-17**|**Accelerating LLM Inference via Dynamic KV Cache Placement in Heterogeneous Memory System**|Yunhua Fang et.al.|[2508.13231](http://arxiv.org/abs/2508.13231)|
 |**2025-08-17**|**ZigzagAttention: Efficient Long-Context Inference with Exclusive Retrieval and Streaming Heads**|Zhuorui Liu et.al.|[2508.12407](http://arxiv.org/abs/2508.12407)|
 |**2025-08-15**|**UNVEILING: What Makes Linguistics Olympiad Puzzles Tricky for LLMs?**|Mukund Choudhary et.al.|[2508.11260](http://arxiv.org/abs/2508.11260)|
 |**2025-08-14**|**SurfaceLogicKV: Surface and Logic Attention Behaviors are All You Need for Robust KV Cache Compression**|Mengjie Li et.al.|[2508.15806](http://arxiv.org/abs/2508.15806)|
