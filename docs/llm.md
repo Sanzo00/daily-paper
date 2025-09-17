@@ -6,7 +6,7 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2025.09.16_
+_Updated on 2025.09.17_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|

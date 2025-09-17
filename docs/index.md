@@ -6,10 +6,11 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2025.09.16_
+_Updated on 2025.09.17_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-09-16**|**Clue-RAG: Towards Accurate and Cost-Efficient Graph-based RAG via Multi-Partite Graph and Query-Driven Iterative Retrieval**|Yaodong Su et.al.|[2507.08445](http://arxiv.org/abs/2507.08445)|
 |**2025-09-11**|**Fusing Knowledge and Language: A Comparative Study of Knowledge Graph-Based Question Answering with LLMs**|Vaibhav Chaudhary et.al.|[2509.09272](http://arxiv.org/abs/2509.09272)|
 |**2025-09-09**|**Query Expansion in the Age of Pre-trained and Large Language Models: A Comprehensive Survey**|Minghan Li et.al.|[2509.07794](http://arxiv.org/abs/2509.07794)|
 |**2025-09-09**|**KLIPA: A Knowledge Graph and LLM-Driven QA Framework for IP Analysis**|Guanzhi Deng et.al.|[2509.07860](http://arxiv.org/abs/2509.07860)|
@@ -61,7 +62,6 @@ _Updated on 2025.09.16_
 |**2025-08-04**|**Beyond Chunks and Graphs: Retrieval-Augmented Generation through Triplet-Driven Thinking**|Shengbo Gong et.al.|[2508.02435](http://arxiv.org/abs/2508.02435)|
 |**2025-08-04**|**Hypercube-Based Retrieval-Augmented Generation for Scientific Question-Answering**|Jimeng Shi et.al.|[2505.19288](http://arxiv.org/abs/2505.19288)|
 |**2025-08-03**|**T-GRAG: A Dynamic GraphRAG Framework for Resolving Temporal Conflicts and Redundancy in Knowledge Retrieval**|Dong Li et.al.|[2508.01680](http://arxiv.org/abs/2508.01680)|
-|**2025-08-03**|**Clue-RAG: Towards Accurate and Cost-Efficient Graph-based RAG via Multi-Partite Graph and Query-Driven Iterative Retrieval**|Yaodong Su et.al.|[2507.08445](http://arxiv.org/abs/2507.08445)|
 |**2025-08-02**|**Prompting Large Language Models with Partial Knowledge for Answering Questions with Unseen Entities**|Zhichao Yan et.al.|[2508.01290](http://arxiv.org/abs/2508.01290)|
 |**2025-08-02**|**DBAIOps: A Reasoning LLM-Enhanced Database Operation and Maintenance System using Knowledge Graphs**|Wei Zhou et.al.|[2508.01136_(ALT)](http://arxiv.org/abs/2508.01136)|
 |**2025-08-01**|**HySemRAG: A Hybrid Semantic Retrieval-Augmented Generation Framework for Automated Literature Synthesis and Methodological Gap Analysis**|Alejandro Godinez et.al.|[2508.05666](http://arxiv.org/abs/2508.05666)|
