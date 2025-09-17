@@ -11,6 +11,7 @@ _Updated on 2025.09.17_
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
 |**2025-09-16**|**Clue-RAG: Towards Accurate and Cost-Efficient Graph-based RAG via Multi-Partite Graph and Query-Driven Iterative Retrieval**|Yaodong Su et.al.|[2507.08445](http://arxiv.org/abs/2507.08445)|
+|**2025-09-16**|**Zero-shot Graph Reasoning via Retrieval Augmented Framework with LLMs**|Hanqing Li et.al.|[2509.12743](http://arxiv.org/abs/2509.12743)|
 |**2025-09-11**|**Fusing Knowledge and Language: A Comparative Study of Knowledge Graph-Based Question Answering with LLMs**|Vaibhav Chaudhary et.al.|[2509.09272](http://arxiv.org/abs/2509.09272)|
 |**2025-09-09**|**Query Expansion in the Age of Pre-trained and Large Language Models: A Comprehensive Survey**|Minghan Li et.al.|[2509.07794](http://arxiv.org/abs/2509.07794)|
 |**2025-09-09**|**KLIPA: A Knowledge Graph and LLM-Driven QA Framework for IP Analysis**|Guanzhi Deng et.al.|[2509.07860](http://arxiv.org/abs/2509.07860)|
