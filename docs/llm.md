@@ -10,6 +10,8 @@ _Updated on 2025.09.18_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-09-17**|**Reasoning Efficiently Through Adaptive Chain-of-Thought Compression: A Self-Optimizing Framework**|Kerui Huang et.al.|[2509.14093](http://arxiv.org/abs/2509.14093)|
+|**2025-09-17**|**CrowdAgent: Multi-Agent Managed Multi-Source Annotation System**|Maosheng Qin et.al.|[2509.14030](http://arxiv.org/abs/2509.14030)|
 |**2025-09-16**|**FIER: Fine-Grained and Efficient KV Cache Retrieval for Long-context LLM Inference**|Dongwei Wang et.al.|[2508.08256_(EMNLP)](http://arxiv.org/abs/2508.08256)|
 |**2025-09-15**|**Accelerating LLM Inference via Dynamic KV Cache Placement in Heterogeneous Memory System**|Yunhua Fang et.al.|[2508.13231_(CHI)](http://arxiv.org/abs/2508.13231)|
 |**2025-09-15**|**FineServe: Precision-Aware KV Slab and Two-Level Scheduling for Heterogeneous Precision LLM Serving**|Kyungmin Bin et.al.|[2509.06261](http://arxiv.org/abs/2509.06261)|
