@@ -6,10 +6,11 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2025.09.21_
+_Updated on 2025.09.22_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-09-19**|**HydraRAG: Structured Cross-Source Enhanced Large Language Model Reasoning**|Xingyu Tan et.al.|[2505.17464_(EMNLP)](http://arxiv.org/abs/2505.17464)|
 |**2025-09-17**|**Causal-Counterfactual RAG: The Integration of Causal-Counterfactual Reasoning into RAG**|Harshad Khadilkar et.al.|[2509.14435](http://arxiv.org/abs/2509.14435)|
 |**2025-09-16**|**Clue-RAG: Towards Accurate and Cost-Efficient Graph-based RAG via Multi-Partite Graph and Query-Driven Iterative Retrieval**|Yaodong Su et.al.|[2507.08445](http://arxiv.org/abs/2507.08445)|
 |**2025-09-16**|**Zero-shot Graph Reasoning via Retrieval Augmented Framework with LLMs**|Hanqing Li et.al.|[2509.12743](http://arxiv.org/abs/2509.12743)|
@@ -31,7 +32,6 @@ _Updated on 2025.09.21_
 |**2025-09-01**|**Towards Open-World Retrieval-Augmented Generation on Knowledge Graph: A Multi-Agent Collaboration Framework**|Jiasheng Xu et.al.|[2509.01238](http://arxiv.org/abs/2509.01238)|
 |**2025-08-31**|**Improving Factuality in LLMs via Inference-Time Knowledge Graph Construction**|Shanglin Wu et.al.|[2509.03540](http://arxiv.org/abs/2509.03540)|
 |**2025-08-30**|**KG-RAG: Enhancing GUI Agent Decision-Making via Knowledge Graph-Driven Retrieval-Augmented Generation**|Ziyi Guan et.al.|[2509.00366_(EMNLP)](http://arxiv.org/abs/2509.00366)|
-|**2025-08-29**|**Hydra: Structured Cross-Source Enhanced Large Language Model Reasoning**|Xingyu Tan et.al.|[2505.17464_(EMNLP)](http://arxiv.org/abs/2505.17464)|
 |**2025-08-29**|**Evaluating Knowledge Graph Based Retrieval Augmented Generation Methods under Knowledge Incompleteness**|Dongzhuoran Zhou et.al.|[2504.05163](http://arxiv.org/abs/2504.05163)|
 |**2025-08-29**|**OpenAIs HealthBench in Action: Evaluating an LLM-Based Medical Assistant on Realistic Clinical Queries**|Sandhanakrishnan Ravichandran et.al.|[2509.02594](http://arxiv.org/abs/2509.02594)|
 |**2025-08-28**|**Addressing accuracy and hallucination of LLMs in Alzheimer's disease research through knowledge graphs**|Tingxuan Xu et.al.|[2508.21238](http://arxiv.org/abs/2508.21238)|
