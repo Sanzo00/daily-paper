@@ -6,10 +6,11 @@ nav_order: 3
 
 # GNN Papers
 
-_Updated on 2025.09.22_
+_Updated on 2025.09.23_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-09-21**|**A Scalable Multi-Robot Framework for Decentralized and Asynchronous Perception-Action-Communication Loops**|Saurav Agarwal et.al.|[2309.10164](http://arxiv.org/abs/2309.10164)|
 |**2025-09-18**|**Federated Hypergraph Learning with Local Differential Privacy: Toward Privacy-Aware Hypergraph Structure Completion**|Linfeng Luo et.al.|[2408.05160_(ICDM)](http://arxiv.org/abs/2408.05160)|
 |**2025-09-08**|**Graph Neural Networks for Resource Allocation in Interference-limited Multi-Channel Wireless Networks with QoS Constraints**|Lili Chen et.al.|[2509.06395](http://arxiv.org/abs/2509.06395)|
 |**2025-09-02**|**HydroGAT: Distributed Heterogeneous Graph Attention Transformer for Spatiotemporal Flood Prediction**|Aishwarya Sarkar et.al.|[2509.02481_(SIGSPATIAL)](http://arxiv.org/abs/2509.02481)|
@@ -84,7 +85,6 @@ _Updated on 2025.09.22_
 |**2023-10-02**|**Helios: An Efficient Out-of-core GNN Training System on Terabyte-scale Graphs with In-memory Performance**|Jie Sun et.al.|[2310.00837](http://arxiv.org/abs/2310.00837)|
 |**2023-09-27**|**Advancing Federated Learning in 6G: A Trusted Architecture with Graph-based Analysis**|Wenxuan Ye et.al.|[2309.05525_(GLOBECOM)](http://arxiv.org/abs/2309.05525)|
 |**2023-09-24**|**GNNPipe: Scaling Deep GNN Training with Pipelined Model Parallelism**|Jingji Chen et.al.|[2308.10087](http://arxiv.org/abs/2308.10087)|
-|**2023-09-18**|**Asynchronous Perception-Action-Communication with Graph Neural Networks**|Saurav Agarwal et.al.|[2309.10164_(ICRA)](http://arxiv.org/abs/2309.10164)|
 |**2023-09-01**|**Tango: rethinking quantization for graph neural network training on GPUs**|Shiyang Chen et.al.|[2308.00890](http://arxiv.org/abs/2308.00890)|
 |**2023-08-29**|**Everything Perturbed All at Once: Enabling Differentiable Graph Attacks**|Haoran Liu et.al.|[2308.15614](http://arxiv.org/abs/2308.15614)|
 |**2023-08-25**|**Distributed Graph Neural Network Training: A Survey**|Yingxia Shao et.al.|[2211.00216](http://arxiv.org/abs/2211.00216)|

@@ -6,10 +6,11 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2025.09.22_
+_Updated on 2025.09.23_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-09-22**|**A Large Language Model-based multi-agent manufacturing system for intelligent shopfloor**|Zhen Zhao et.al.|[2405.16887](http://arxiv.org/abs/2405.16887)|
 |**2025-09-17**|**Reasoning Efficiently Through Adaptive Chain-of-Thought Compression: A Self-Optimizing Framework**|Kerui Huang et.al.|[2509.14093](http://arxiv.org/abs/2509.14093)|
 |**2025-09-17**|**CrowdAgent: Multi-Agent Managed Multi-Source Annotation System**|Maosheng Qin et.al.|[2509.14030](http://arxiv.org/abs/2509.14030)|
 |**2025-09-16**|**FIER: Fine-Grained and Efficient KV Cache Retrieval for Long-context LLM Inference**|Dongwei Wang et.al.|[2508.08256_(EMNLP)](http://arxiv.org/abs/2508.08256)|
@@ -320,7 +321,6 @@ _Updated on 2025.09.22_
 |**2024-06-16**|**EE-LLM: Large-Scale Training and Inference of Early-Exit Large Language Models with 3D Parallelism**|Yanxi Chen et.al.|[2312.04916_(ICML)](http://arxiv.org/abs/2312.04916)|
 |**2024-06-08**|**QCQA: Quality and Capacity-aware grouped Query Attention**|Vinay Joshi et.al.|[2406.10247](http://arxiv.org/abs/2406.10247)|
 |**2024-06-06**|**SGLang: Efficient Execution of Structured Language Model Programs**|Lianmin Zheng et.al.|[2312.07104](http://arxiv.org/abs/2312.07104)|
-|**2024-05-27**|**A Large Language Model-based multi-agent manufacturing system for intelligent shopfloor**|Zhen Zhao et.al.|[2405.16887](http://arxiv.org/abs/2405.16887)|
 |**2024-05-13**|**Hydragen: High-Throughput LLM Inference with Shared Prefixes**|Jordan Juravsky et.al.|[2402.05099](http://arxiv.org/abs/2402.05099)|
 |**2024-05-06**|**Federated Reinforcement Learning with Constraint Heterogeneity**|Hao Jin et.al.|[2405.03236](http://arxiv.org/abs/2405.03236)|
 |**2024-05-01**|**Harnessing the Power of Multiple Minds: Lessons Learned from LLM Routing**|KV Aditya Srivatsa et.al.|[2405.00467_(ACL)](http://arxiv.org/abs/2405.00467)|
