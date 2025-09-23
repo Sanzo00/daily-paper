@@ -11,6 +11,13 @@ _Updated on 2025.09.23_
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
 |**2025-09-22**|**A Large Language Model-based multi-agent manufacturing system for intelligent shopfloor**|Zhen Zhao et.al.|[2405.16887](http://arxiv.org/abs/2405.16887)|
+|**2025-09-22**|**Attention Sinks: A 'Catch, Tag, Release' Mechanism for Embeddings**|Stephen Zhang et.al.|[2502.00919](http://arxiv.org/abs/2502.00919)|
+|**2025-09-22**|**Asteria: Semantic-Aware Cross-Region Caching for Agentic LLM Tool Access**|Chaoyi Ruan et.al.|[2509.17360](http://arxiv.org/abs/2509.17360)|
+|**2025-09-21**|**ShadowServe: Interference-Free KV Cache Fetching for Distributed Prefix Caching**|Xingyu Xiang et.al.|[2509.16857](http://arxiv.org/abs/2509.16857)|
+|**2025-09-21**|**MoEs Are Stronger than You Think: Hyper-Parallel Inference Scaling with RoE**|Soheil Zibakhsh et.al.|[2509.17238](http://arxiv.org/abs/2509.17238)|
+|**2025-09-20**|**EG-MLA: Embedding-Gated Multi-head Latent Attention for Scalable and Efficient LLMs**|Zhengge Cai et.al.|[2509.16686](http://arxiv.org/abs/2509.16686)|
+|**2025-09-20**|**Time to Talk: LLM Agents for Asynchronous Group Communication in Mafia Games**|Niv Eckhaus et.al.|[2506.05309](http://arxiv.org/abs/2506.05309)|
+|**2025-09-19**|**Overhearing LLM Agents: A Survey, Taxonomy, and Roadmap**|Andrew Zhu et.al.|[2509.16325](http://arxiv.org/abs/2509.16325)|
 |**2025-09-17**|**Reasoning Efficiently Through Adaptive Chain-of-Thought Compression: A Self-Optimizing Framework**|Kerui Huang et.al.|[2509.14093](http://arxiv.org/abs/2509.14093)|
 |**2025-09-17**|**CrowdAgent: Multi-Agent Managed Multi-Source Annotation System**|Maosheng Qin et.al.|[2509.14030](http://arxiv.org/abs/2509.14030)|
 |**2025-09-16**|**FIER: Fine-Grained and Efficient KV Cache Retrieval for Long-context LLM Inference**|Dongwei Wang et.al.|[2508.08256_(EMNLP)](http://arxiv.org/abs/2508.08256)|
