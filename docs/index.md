@@ -10,7 +10,10 @@ _Updated on 2025.09.24_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-09-23**|**A Knowledge Graph and a Tripartite Evaluation Framework Make Retrieval-Augmented Generation Scalable and Transparent**|Olalekan K. Akindele et.al.|[2509.19209](http://arxiv.org/abs/2509.19209)|
+|**2025-09-23**|**TERAG: Token-Efficient Graph-Based Retrieval-Augmented Generation**|Qiao Xiao et.al.|[2509.18667_(CHI)](http://arxiv.org/abs/2509.18667)|
 |**2025-09-22**|**A Knowledge Graph-based Retrieval-Augmented Generation Framework for Algorithm Selection in the Facility Layout Problem**|Nikhil N S et.al.|[2509.18054](http://arxiv.org/abs/2509.18054)|
+|**2025-09-22**|**From "What to Eat?" to Perfect Recipe: ChefMind's Chain-of-Exploration for Ambiguous User Intent in Recipe Recommendation**|Yu Fu et.al.|[2509.18226_(ICASSP)](http://arxiv.org/abs/2509.18226)|
 |**2025-09-20**|**Comparing RAG and GraphRAG for Page-Level Retrieval Question Answering on Math Textbook**|Eason Chen et.al.|[2509.16780](http://arxiv.org/abs/2509.16780)|
 |**2025-09-20**|**GRIL: Knowledge Graph Retrieval-Integrated Learning with Large Language Models**|Jialin Chen et.al.|[2509.16502](http://arxiv.org/abs/2509.16502)|
 |**2025-09-19**|**HydraRAG: Structured Cross-Source Enhanced Large Language Model Reasoning**|Xingyu Tan et.al.|[2505.17464_(EMNLP)](http://arxiv.org/abs/2505.17464)|
