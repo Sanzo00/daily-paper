@@ -11,6 +11,8 @@ _Updated on 2025.09.25_
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
 |**2025-09-24**|**UNComp: Can Matrix Entropy Uncover Sparsity? -- A Compressor Design from an Uncertainty-Aware Perspective**|Jing Xiong et.al.|[2410.03090_(EMNLP)](http://arxiv.org/abs/2410.03090)|
+|**2025-09-24**|**Gyges: Dynamic Cross-Instance Parallelism Transformation for Efficient LLM Inference**|Haoyu Chen et.al.|[2509.19729](http://arxiv.org/abs/2509.19729)|
+|**2025-09-24**|**CollaPipe: Adaptive Segment-Optimized Pipeline Parallelism for Collaborative LLM Training in Heterogeneous Edge Networks**|Jiewei Chen et.al.|[2509.19855](http://arxiv.org/abs/2509.19855)|
 |**2025-09-22**|**A Large Language Model-based multi-agent manufacturing system for intelligent shopfloor**|Zhen Zhao et.al.|[2405.16887](http://arxiv.org/abs/2405.16887)|
 |**2025-09-22**|**Attention Sinks: A 'Catch, Tag, Release' Mechanism for Embeddings**|Stephen Zhang et.al.|[2502.00919](http://arxiv.org/abs/2502.00919)|
 |**2025-09-22**|**Asteria: Semantic-Aware Cross-Region Caching for Agentic LLM Tool Access**|Chaoyi Ruan et.al.|[2509.17360](http://arxiv.org/abs/2509.17360)|
