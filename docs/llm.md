@@ -6,10 +6,11 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2025.09.24_
+_Updated on 2025.09.25_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-09-24**|**UNComp: Can Matrix Entropy Uncover Sparsity? -- A Compressor Design from an Uncertainty-Aware Perspective**|Jing Xiong et.al.|[2410.03090_(EMNLP)](http://arxiv.org/abs/2410.03090)|
 |**2025-09-22**|**A Large Language Model-based multi-agent manufacturing system for intelligent shopfloor**|Zhen Zhao et.al.|[2405.16887](http://arxiv.org/abs/2405.16887)|
 |**2025-09-22**|**Attention Sinks: A 'Catch, Tag, Release' Mechanism for Embeddings**|Stephen Zhang et.al.|[2502.00919](http://arxiv.org/abs/2502.00919)|
 |**2025-09-22**|**Asteria: Semantic-Aware Cross-Region Caching for Agentic LLM Tool Access**|Chaoyi Ruan et.al.|[2509.17360](http://arxiv.org/abs/2509.17360)|
@@ -304,7 +305,6 @@ _Updated on 2025.09.24_
 |**2024-10-07**|**KV-Compress: Paged KV-Cache Compression with Variable Compression Rates per Attention Head**|Isaac Rehg et.al.|[2410.00161](http://arxiv.org/abs/2410.00161)|
 |**2024-10-06**|**SafeLLM: Domain-Specific Safety Monitoring for Large Language Models: A Case Study of Offshore Wind Maintenance**|Connor Walker et.al.|[2410.10852](http://arxiv.org/abs/2410.10852)|
 |**2024-10-04**|**LoRC: Low-Rank Compression for LLMs KV Cache with a Progressive Compression Strategy**|Rongzhi Zhang et.al.|[2410.03111](http://arxiv.org/abs/2410.03111)|
-|**2024-10-04**|**UNComp: Uncertainty-Aware Long-Context Compressor for Efficient Large Language Model Inference**|Jing Xiong et.al.|[2410.03090](http://arxiv.org/abs/2410.03090)|
 |**2024-10-03**|**Preble: Efficient Distributed Prompt Scheduling for LLM Serving**|Vikranth Srivatsa et.al.|[2407.00023](http://arxiv.org/abs/2407.00023)|
 |**2024-10-03**|**Planning in Strawberry Fields: Evaluating and Improving the Planning and Scheduling Capabilities of LRM o1**|Karthik Valmeekam et.al.|[2410.02162](http://arxiv.org/abs/2410.02162)|
 |**2024-09-23**|**BlockLLM: Multi-tenant Finer-grained Serving for Large Language Models**|Bodun Hu et.al.|[2404.18322](http://arxiv.org/abs/2404.18322)|
