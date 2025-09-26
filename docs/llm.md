@@ -13,6 +13,7 @@ _Updated on 2025.09.26_
 |**2025-09-25**|**HyperFlexis: Joint Design of Algorithms and Systems for Multi-SLO Serving and Fast Scaling**|Zahra Yousefijamarani et.al.|[2508.15919](http://arxiv.org/abs/2508.15919)|
 |**2025-09-25**|**Runtime-Adaptive Pruning for LLM Inference**|Huanrong Liu et.al.|[2505.17138](http://arxiv.org/abs/2505.17138)|
 |**2025-09-25**|**InComeS: Integrating Compression and Selection Mechanisms into LLMs for Efficient Model Editing**|Shuaiyi Li et.al.|[2505.22156](http://arxiv.org/abs/2505.22156)|
+|**2025-09-25**|**Nova: Real-Time Agentic Vision-Language Model Serving with Adaptive Cross-Stage Parallelization**|Yuhang Xu et.al.|[2509.21301](http://arxiv.org/abs/2509.21301)|
 |**2025-09-24**|**UNComp: Can Matrix Entropy Uncover Sparsity? -- A Compressor Design from an Uncertainty-Aware Perspective**|Jing Xiong et.al.|[2410.03090_(EMNLP)](http://arxiv.org/abs/2410.03090)|
 |**2025-09-24**|**Gyges: Dynamic Cross-Instance Parallelism Transformation for Efficient LLM Inference**|Haoyu Chen et.al.|[2509.19729](http://arxiv.org/abs/2509.19729)|
 |**2025-09-24**|**CollaPipe: Adaptive Segment-Optimized Pipeline Parallelism for Collaborative LLM Training in Heterogeneous Edge Networks**|Jiewei Chen et.al.|[2509.19855](http://arxiv.org/abs/2509.19855)|

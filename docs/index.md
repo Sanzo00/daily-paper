@@ -10,6 +10,7 @@ _Updated on 2025.09.26_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-09-25**|**Query-Centric Graph Retrieval Augmented Generation**|Yaxiong Wu et.al.|[2509.21237](http://arxiv.org/abs/2509.21237)|
 |**2025-09-24**|**Causal-Counterfactual RAG: The Integration of Causal-Counterfactual Reasoning into RAG**|Harshad Khadilkar et.al.|[2509.14435](http://arxiv.org/abs/2509.14435)|
 |**2025-09-23**|**A Knowledge Graph and a Tripartite Evaluation Framework Make Retrieval-Augmented Generation Scalable and Transparent**|Olalekan K. Akindele et.al.|[2509.19209](http://arxiv.org/abs/2509.19209)|
 |**2025-09-23**|**TERAG: Token-Efficient Graph-Based Retrieval-Augmented Generation**|Qiao Xiao et.al.|[2509.18667_(CHI)](http://arxiv.org/abs/2509.18667)|
