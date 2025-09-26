@@ -6,10 +6,13 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2025.09.25_
+_Updated on 2025.09.26_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-09-25**|**HyperFlexis: Joint Design of Algorithms and Systems for Multi-SLO Serving and Fast Scaling**|Zahra Yousefijamarani et.al.|[2508.15919](http://arxiv.org/abs/2508.15919)|
+|**2025-09-25**|**Runtime-Adaptive Pruning for LLM Inference**|Huanrong Liu et.al.|[2505.17138](http://arxiv.org/abs/2505.17138)|
+|**2025-09-25**|**InComeS: Integrating Compression and Selection Mechanisms into LLMs for Efficient Model Editing**|Shuaiyi Li et.al.|[2505.22156](http://arxiv.org/abs/2505.22156)|
 |**2025-09-24**|**UNComp: Can Matrix Entropy Uncover Sparsity? -- A Compressor Design from an Uncertainty-Aware Perspective**|Jing Xiong et.al.|[2410.03090_(EMNLP)](http://arxiv.org/abs/2410.03090)|
 |**2025-09-24**|**Gyges: Dynamic Cross-Instance Parallelism Transformation for Efficient LLM Inference**|Haoyu Chen et.al.|[2509.19729](http://arxiv.org/abs/2509.19729)|
 |**2025-09-24**|**CollaPipe: Adaptive Segment-Optimized Pipeline Parallelism for Collaborative LLM Training in Heterogeneous Edge Networks**|Jiewei Chen et.al.|[2509.19855](http://arxiv.org/abs/2509.19855)|
@@ -46,7 +49,6 @@ _Updated on 2025.09.25_
 |**2025-08-24**|**PRISM: Efficient Long-Range Reasoning With Short-Context LLMs**|Dulhan Jayalath et.al.|[2412.18914_(EMNLP)](http://arxiv.org/abs/2412.18914)|
 |**2025-08-23**|**Learned Structure in CARTRIDGES: Keys as Shareable Routers in Self-Studied Representations**|Maurizio Diaz et.al.|[2508.17032](http://arxiv.org/abs/2508.17032)|
 |**2025-08-22**|**SpecExtend: A Drop-in Enhancement for Speculative Decoding of Long Sequences**|Jungyoub Cha et.al.|[2505.20776](http://arxiv.org/abs/2505.20776)|
-|**2025-08-21**|**HyperFlexis: Joint Design of Algorithms and Systems for Multi-SLO Serving and Fast Scaling**|Zahra Yousefijamarani et.al.|[2508.15919](http://arxiv.org/abs/2508.15919)|
 |**2025-08-21**|**Efficient Mixed-Precision Large Language Model Inference with TurboMind**|Li Zhang et.al.|[2508.15601](http://arxiv.org/abs/2508.15601)|
 |**2025-08-20**|**H2EAL: Hybrid-Bonding Architecture with Hybrid Sparse Attention for Efficient Long-Context LLM Inference**|Zizhuo Fu et.al.|[2508.16653_(ICC)](http://arxiv.org/abs/2508.16653)|
 |**2025-08-20**|**Entropy-Constrained Strategy Optimization in Urban Floods: A Multi-Agent Framework with LLM and Knowledge Graph Integration**|Peilin Ji et.al.|[2508.14654](http://arxiv.org/abs/2508.14654)|
@@ -139,7 +141,6 @@ _Updated on 2025.09.25_
 |**2025-05-29**|**KVzip: Query-Agnostic KV Cache Compression with Context Reconstruction**|Jang-Hyun Kim et.al.|[2505.23416](http://arxiv.org/abs/2505.23416)|
 |**2025-05-28**|**gLLM: Global Balanced Pipeline Parallelism System for Distributed LLM Serving with Token Throttling**|Tianyu Guo et.al.|[2504.14775](http://arxiv.org/abs/2504.14775)|
 |**2025-05-28**|**KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization**|Coleman Hooper et.al.|[2401.18079_(NeurIPS)](http://arxiv.org/abs/2401.18079)|
-|**2025-05-28**|**InComeS: Integrating Compression and Selection Mechanisms into LLMs for Efficient Model Editing**|Shuaiyi Li et.al.|[2505.22156](http://arxiv.org/abs/2505.22156)|
 |**2025-05-28**|**Design and testing of an agent chatbot supporting decision making with public transport data**|Luca Fantin et.al.|[2505.22698](http://arxiv.org/abs/2505.22698)|
 |**2025-05-28**|**AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges**|Ranjan Sapkota et.al.|[2505.10468](http://arxiv.org/abs/2505.10468)|
 |**2025-05-27**|**Hardware-Efficient Attention for Fast Decoding**|Ted Zadouri et.al.|[2505.21487](http://arxiv.org/abs/2505.21487)|
@@ -147,7 +148,6 @@ _Updated on 2025.09.25_
 |**2025-05-27**|**EPIC: Efficient Position-Independent Caching for Serving Large Language Models**|Junhao Hu et.al.|[2410.15332](http://arxiv.org/abs/2410.15332)|
 |**2025-05-26**|**PRESERVE: Prefetching Model Weights and KV-Cache in Distributed LLM Serving**|Ahmet Caner Yüzügüler et.al.|[2501.08192](http://arxiv.org/abs/2501.08192)|
 |**2025-05-26**|**BurstGPT: A Real-world Workload Dataset to Optimize LLM Serving Systems**|Yuxin Wang et.al.|[2401.17644](http://arxiv.org/abs/2401.17644)|
-|**2025-05-26**|**RAP: Runtime-Adaptive Pruning for LLM Inference**|Huanrong Liu et.al.|[2505.17138](http://arxiv.org/abs/2505.17138)|
 |**2025-05-26**|**Task Memory Engine: Spatial Memory for Robust Multi-Step LLM Agents**|Ye Ye et.al.|[2505.19436](http://arxiv.org/abs/2505.19436)|
 |**2025-05-24**|**Efficient and Workload-Aware LLM Serving via Runtime Layer Swapping and KV Cache Resizing**|Zhaoyuan Su et.al.|[2506.02006](http://arxiv.org/abs/2506.02006)|
 |**2025-05-24**|**PM-KVQ: Progressive Mixed-precision KV Cache Quantization for Long-CoT LLMs**|Tengxuan Liu et.al.|[2505.18610](http://arxiv.org/abs/2505.18610)|
