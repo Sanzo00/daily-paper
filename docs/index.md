@@ -12,8 +12,11 @@ _Updated on 2025.09.29_
 |:-------------|:------|:--------|:----|
 |**2025-09-26**|**Chain or tree? Re-evaluating complex reasoning from the perspective of a matrix of thought**|Fengxiao Tang et.al.|[2509.03918](http://arxiv.org/abs/2509.03918)|
 |**2025-09-26**|**Comparing RAG and GraphRAG for Page-Level Retrieval Question Answering on Math Textbook**|Eason Chen et.al.|[2509.16780](http://arxiv.org/abs/2509.16780)|
+|**2025-09-26**|**GraphSearch: An Agentic Deep Searching Workflow for Graph Retrieval-Augmented Generation**|Cehao Yang et.al.|[2509.22009](http://arxiv.org/abs/2509.22009)|
+|**2025-09-26**|**Think-on-Graph 3.0: Efficient and Adaptive LLM Reasoning on Heterogeneous Graphs via Multi-Agent Dual-Evolving Context Retrieval**|Xiaojun Wu et.al.|[2509.21710](http://arxiv.org/abs/2509.21710)|
 |**2025-09-25**|**Query-Centric Graph Retrieval Augmented Generation**|Yaxiong Wu et.al.|[2509.21237](http://arxiv.org/abs/2509.21237)|
 |**2025-09-24**|**Causal-Counterfactual RAG: The Integration of Causal-Counterfactual Reasoning into RAG**|Harshad Khadilkar et.al.|[2509.14435](http://arxiv.org/abs/2509.14435)|
+|**2025-09-24**|**MIXRAG : Mixture-of-Experts Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering**|Lihui Liu et.al.|[2509.21391](http://arxiv.org/abs/2509.21391)|
 |**2025-09-23**|**A Knowledge Graph and a Tripartite Evaluation Framework Make Retrieval-Augmented Generation Scalable and Transparent**|Olalekan K. Akindele et.al.|[2509.19209](http://arxiv.org/abs/2509.19209)|
 |**2025-09-23**|**TERAG: Token-Efficient Graph-Based Retrieval-Augmented Generation**|Qiao Xiao et.al.|[2509.18667_(CHI)](http://arxiv.org/abs/2509.18667)|
 |**2025-09-22**|**A Knowledge Graph-based Retrieval-Augmented Generation Framework for Algorithm Selection in the Facility Layout Problem**|Nikhil N S et.al.|[2509.18054](http://arxiv.org/abs/2509.18054)|
@@ -23,6 +26,7 @@ _Updated on 2025.09.29_
 |**2025-09-16**|**Clue-RAG: Towards Accurate and Cost-Efficient Graph-based RAG via Multi-Partite Graph and Query-Driven Iterative Retrieval**|Yaodong Su et.al.|[2507.08445](http://arxiv.org/abs/2507.08445)|
 |**2025-09-16**|**Zero-shot Graph Reasoning via Retrieval Augmented Framework with LLMs**|Hanqing Li et.al.|[2509.12743](http://arxiv.org/abs/2509.12743)|
 |**2025-09-15**|**Graph-Enhanced Retrieval-Augmented Question Answering for E-Commerce Customer Support**|Piyushkumar Patel et.al.|[2509.14267](http://arxiv.org/abs/2509.14267)|
+|**2025-09-12**|**HetaRAG: Hybrid Deep Retrieval-Augmented Generation across Heterogeneous Data Stores**|Guohang Yan et.al.|[2509.21336](http://arxiv.org/abs/2509.21336)|
 |**2025-09-11**|**Fusing Knowledge and Language: A Comparative Study of Knowledge Graph-Based Question Answering with LLMs**|Vaibhav Chaudhary et.al.|[2509.09272](http://arxiv.org/abs/2509.09272)|
 |**2025-09-09**|**Query Expansion in the Age of Pre-trained and Large Language Models: A Comprehensive Survey**|Minghan Li et.al.|[2509.07794](http://arxiv.org/abs/2509.07794)|
 |**2025-09-09**|**KLIPA: A Knowledge Graph and LLM-Driven QA Framework for IP Analysis**|Guanzhi Deng et.al.|[2509.07860](http://arxiv.org/abs/2509.07860)|
@@ -37,6 +41,7 @@ _Updated on 2025.09.29_
 |**2025-09-04**|**Maestro: Joint Graph & Config Optimization for Reliable AI Agents**|Wenxiao Wang et.al.|[2509.04642](http://arxiv.org/abs/2509.04642)|
 |**2025-09-03**|**Explainable Knowledge Graph Retrieval-Augmented Generation (KG-RAG) with KG-SMILE**|Zahra Zehtabi Sabeti Moghaddam et.al.|[2509.03626](http://arxiv.org/abs/2509.03626)|
 |**2025-09-01**|**Towards Open-World Retrieval-Augmented Generation on Knowledge Graph: A Multi-Agent Collaboration Framework**|Jiasheng Xu et.al.|[2509.01238](http://arxiv.org/abs/2509.01238)|
+|**2025-09-01**|**PIR-RAG: A System for Private Information Retrieval in Retrieval-Augmented Generation**|Baiqiang Wang et.al.|[2509.21325](http://arxiv.org/abs/2509.21325)|
 |**2025-08-31**|**Improving Factuality in LLMs via Inference-Time Knowledge Graph Construction**|Shanglin Wu et.al.|[2509.03540](http://arxiv.org/abs/2509.03540)|
 |**2025-08-30**|**KG-RAG: Enhancing GUI Agent Decision-Making via Knowledge Graph-Driven Retrieval-Augmented Generation**|Ziyi Guan et.al.|[2509.00366_(EMNLP)](http://arxiv.org/abs/2509.00366)|
 |**2025-08-29**|**Evaluating Knowledge Graph Based Retrieval Augmented Generation Methods under Knowledge Incompleteness**|Dongzhuoran Zhou et.al.|[2504.05163](http://arxiv.org/abs/2504.05163)|
