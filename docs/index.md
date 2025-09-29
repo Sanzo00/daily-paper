@@ -6,17 +6,18 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2025.09.28_
+_Updated on 2025.09.29_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-09-26**|**Chain or tree? Re-evaluating complex reasoning from the perspective of a matrix of thought**|Fengxiao Tang et.al.|[2509.03918](http://arxiv.org/abs/2509.03918)|
+|**2025-09-26**|**Comparing RAG and GraphRAG for Page-Level Retrieval Question Answering on Math Textbook**|Eason Chen et.al.|[2509.16780](http://arxiv.org/abs/2509.16780)|
 |**2025-09-25**|**Query-Centric Graph Retrieval Augmented Generation**|Yaxiong Wu et.al.|[2509.21237](http://arxiv.org/abs/2509.21237)|
 |**2025-09-24**|**Causal-Counterfactual RAG: The Integration of Causal-Counterfactual Reasoning into RAG**|Harshad Khadilkar et.al.|[2509.14435](http://arxiv.org/abs/2509.14435)|
 |**2025-09-23**|**A Knowledge Graph and a Tripartite Evaluation Framework Make Retrieval-Augmented Generation Scalable and Transparent**|Olalekan K. Akindele et.al.|[2509.19209](http://arxiv.org/abs/2509.19209)|
 |**2025-09-23**|**TERAG: Token-Efficient Graph-Based Retrieval-Augmented Generation**|Qiao Xiao et.al.|[2509.18667_(CHI)](http://arxiv.org/abs/2509.18667)|
 |**2025-09-22**|**A Knowledge Graph-based Retrieval-Augmented Generation Framework for Algorithm Selection in the Facility Layout Problem**|Nikhil N S et.al.|[2509.18054](http://arxiv.org/abs/2509.18054)|
 |**2025-09-22**|**From "What to Eat?" to Perfect Recipe: ChefMind's Chain-of-Exploration for Ambiguous User Intent in Recipe Recommendation**|Yu Fu et.al.|[2509.18226_(ICASSP)](http://arxiv.org/abs/2509.18226)|
-|**2025-09-20**|**Comparing RAG and GraphRAG for Page-Level Retrieval Question Answering on Math Textbook**|Eason Chen et.al.|[2509.16780](http://arxiv.org/abs/2509.16780)|
 |**2025-09-20**|**GRIL: Knowledge Graph Retrieval-Integrated Learning with Large Language Models**|Jialin Chen et.al.|[2509.16502](http://arxiv.org/abs/2509.16502)|
 |**2025-09-19**|**HydraRAG: Structured Cross-Source Enhanced Large Language Model Reasoning**|Xingyu Tan et.al.|[2505.17464_(EMNLP)](http://arxiv.org/abs/2505.17464)|
 |**2025-09-16**|**Clue-RAG: Towards Accurate and Cost-Efficient Graph-based RAG via Multi-Partite Graph and Query-Driven Iterative Retrieval**|Yaodong Su et.al.|[2507.08445](http://arxiv.org/abs/2507.08445)|
@@ -33,7 +34,6 @@ _Updated on 2025.09.28_
 |**2025-09-06**|**MoLoRAG: Bootstrapping Document Understanding via Multi-modal Logic-aware Retrieval**|Xixi Wu et.al.|[2509.07666_(EMNLP)](http://arxiv.org/abs/2509.07666)|
 |**2025-09-05**|**Graph RAG as Human Choice Model: Building a Data-Driven Mobility Agent with Preference Chain**|Kai Hu et.al.|[2508.16172](http://arxiv.org/abs/2508.16172)|
 |**2025-09-05**|**KERAG: Knowledge-Enhanced Retrieval-Augmented Generation for Advanced Question Answering**|Yushi Sun et.al.|[2509.04716_(EMNLP)](http://arxiv.org/abs/2509.04716)|
-|**2025-09-04**|**MTQA:Matrix of Thought for Enhanced Reasoning in Complex Question Answering**|Fengxiao Tang et.al.|[2509.03918](http://arxiv.org/abs/2509.03918)|
 |**2025-09-04**|**Maestro: Joint Graph & Config Optimization for Reliable AI Agents**|Wenxiao Wang et.al.|[2509.04642](http://arxiv.org/abs/2509.04642)|
 |**2025-09-03**|**Explainable Knowledge Graph Retrieval-Augmented Generation (KG-RAG) with KG-SMILE**|Zahra Zehtabi Sabeti Moghaddam et.al.|[2509.03626](http://arxiv.org/abs/2509.03626)|
 |**2025-09-01**|**Towards Open-World Retrieval-Augmented Generation on Knowledge Graph: A Multi-Agent Collaboration Framework**|Jiasheng Xu et.al.|[2509.01238](http://arxiv.org/abs/2509.01238)|
