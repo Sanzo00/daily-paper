@@ -6,16 +6,21 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2025.09.29_
+_Updated on 2025.09.30_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-09-29**|**Plug-and-Play 1.x-Bit KV Cache Quantization for Video Large Language Models**|Keda Tao et.al.|[2503.16257](http://arxiv.org/abs/2503.16257)|
+|**2025-09-29**|**SentenceKV: Efficient LLM Inference via Sentence-Level Semantic KV Caching**|Yuxuan Zhu et.al.|[2504.00970](http://arxiv.org/abs/2504.00970)|
+|**2025-09-28**|**From An LLM Swarm To A PDDL-Empowered HIVE: Planning Self-Executed Instructions In A Multi-Modal Jungle**|Kaustubh Vyas et.al.|[2412.12839_(ICLR)](http://arxiv.org/abs/2412.12839)|
+|**2025-09-27**|**Runtime Adaptive Pruning for LLM Inference**|Huanrong Liu et.al.|[2505.17138](http://arxiv.org/abs/2505.17138)|
+|**2025-09-27**|**ReCalKV: Low-Rank KV Cache Compression via Head Reordering and Offline Calibration**|Xianglong Yan et.al.|[2505.24357](http://arxiv.org/abs/2505.24357)|
+|**2025-09-27**|**READER: Retrieval-Assisted Drafter for Efficient LLM Inference**|Maxim Divilkovskiy et.al.|[2508.09072](http://arxiv.org/abs/2508.09072)|
 |**2025-09-26**|**Towards Agentic OS: An LLM Agent Framework for Linux Schedulers**|Yusheng Zheng et.al.|[2509.01245](http://arxiv.org/abs/2509.01245)|
 |**2025-09-26**|**KV Cache Steering for Controlling Frozen LLMs**|Max Belitsky et.al.|[2507.08799](http://arxiv.org/abs/2507.08799)|
 |**2025-09-26**|**Bottlenecked Transformers: Periodic KV Cache Consolidation for Generalised Reasoning**|Adnan Oomerjee et.al.|[2505.16950](http://arxiv.org/abs/2505.16950)|
 |**2025-09-26**|**ProRe: A Proactive Reward System for GUI Agents via Reasoner-Actor Collaboration**|Gaole Dai et.al.|[2509.21823](http://arxiv.org/abs/2509.21823)|
 |**2025-09-25**|**HyperFlexis: Joint Design of Algorithms and Systems for Multi-SLO Serving and Fast Scaling**|Zahra Yousefijamarani et.al.|[2508.15919](http://arxiv.org/abs/2508.15919)|
-|**2025-09-25**|**Runtime-Adaptive Pruning for LLM Inference**|Huanrong Liu et.al.|[2505.17138](http://arxiv.org/abs/2505.17138)|
 |**2025-09-25**|**InComeS: Integrating Compression and Selection Mechanisms into LLMs for Efficient Model Editing**|Shuaiyi Li et.al.|[2505.22156](http://arxiv.org/abs/2505.22156)|
 |**2025-09-25**|**Nova: Real-Time Agentic Vision-Language Model Serving with Adaptive Cross-Stage Parallelization**|Yuhang Xu et.al.|[2509.21301](http://arxiv.org/abs/2509.21301)|
 |**2025-09-24**|**UNComp: Can Matrix Entropy Uncover Sparsity? -- A Compressor Design from an Uncertainty-Aware Perspective**|Jing Xiong et.al.|[2410.03090_(EMNLP)](http://arxiv.org/abs/2410.03090)|
@@ -66,7 +71,6 @@ _Updated on 2025.09.29_
 |**2025-08-12**|**Retrospective Sparse Attention for Efficient Long-Context Generation**|Seonghwan Choi et.al.|[2508.09001](http://arxiv.org/abs/2508.09001)|
 |**2025-08-12**|**Chimera: Harnessing Multi-Agent LLMs for Automatic Insider Threat Simulation**|Jiongchi Yu et.al.|[2508.07745](http://arxiv.org/abs/2508.07745)|
 |**2025-08-12**|**AIOS: LLM Agent Operating System**|Kai Mei et.al.|[2403.16971](http://arxiv.org/abs/2403.16971)|
-|**2025-08-12**|**READER: Retrieval-Assisted Drafter for Efficient LLM Inference**|Maxim Divilkovskiy et.al.|[2508.09072](http://arxiv.org/abs/2508.09072)|
 |**2025-08-11**|**Architecting Long-Context LLM Acceleration with Packing-Prefetch Scheduler and Ultra-Large Capacity On-Chip Memories**|Ming-Yen Lee et.al.|[2508.08457](http://arxiv.org/abs/2508.08457)|
 |**2025-08-11**|**From Natural Language to Solver-Ready Power System Optimization: An LLM-Assisted, Validation-in-the-Loop Framework**|Yunkai Hu et.al.|[2508.08147](http://arxiv.org/abs/2508.08147)|
 |**2025-08-09**|**Kairos: Low-latency Multi-Agent Serving with Shared LLMs and Excessive Loads in the Public Cloud**|Jinyuan Chen et.al.|[2508.06948](http://arxiv.org/abs/2508.06948)|
@@ -127,7 +131,6 @@ _Updated on 2025.09.29_
 |**2025-06-07**|**EconEvals: Benchmarks and Litmus Tests for LLM Agents in Unknown Environments**|Sara Fish et.al.|[2503.18825](http://arxiv.org/abs/2503.18825)|
 |**2025-06-05**|**Inference-Time Hyper-Scaling with KV Cache Compression**|Adrian Łańcucki et.al.|[2506.05345](http://arxiv.org/abs/2506.05345)|
 |**2025-06-05**|**Simulating LLM-to-LLM Tutoring for Multilingual Math Feedback**|Junior Cedric Tonga et.al.|[2506.04920_(ISS)](http://arxiv.org/abs/2506.04920)|
-|**2025-06-05**|**ReCalKV: Low-Rank KV Cache Compression via Head Reordering and Offline Calibration**|Xianglong Yan et.al.|[2505.24357](http://arxiv.org/abs/2505.24357)|
 |**2025-06-04**|**KVPR: Efficient LLM Inference with I/O-Aware KV Cache Partial Recomputation**|Chaoyi Jiang et.al.|[2411.17089_(ACL)](http://arxiv.org/abs/2411.17089)|
 |**2025-06-04**|**HashEvict: A Pre-Attention KV Cache Eviction Strategy using Locality-Sensitive Hashing**|Minghui Liu et.al.|[2412.16187](http://arxiv.org/abs/2412.16187)|
 |**2025-06-04**|**AssetOpsBench: Benchmarking AI Agents for Task Automation in Industrial Asset Operations and Maintenance**|Dhaval Patel et.al.|[2506.03828](http://arxiv.org/abs/2506.03828)|
@@ -210,12 +213,10 @@ _Updated on 2025.09.29_
 |**2025-04-02**|**MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding**|Ranajoy Sadhukhan et.al.|[2408.11049](http://arxiv.org/abs/2408.11049)|
 |**2025-04-01**|**Personality-Driven Decision-Making in LLM-Based Autonomous Agents**|Lewis Newsham et.al.|[2504.00727](http://arxiv.org/abs/2504.00727)|
 |**2025-04-01**|**HERA: Hybrid Edge-cloud Resource Allocation for Cost-Efficient AI Agents**|Shiyi Liu et.al.|[2504.00434](http://arxiv.org/abs/2504.00434)|
-|**2025-04-01**|**SentenceKV: Efficient LLM Inference via Sentence-Level Semantic KV Caching**|Yuxuan Zhu et.al.|[2504.00970](http://arxiv.org/abs/2504.00970)|
 |**2025-03-31**|**Rethinking Key-Value Cache Compression Techniques for Large Language Model Serving**|Wei Gao et.al.|[2503.24000](http://arxiv.org/abs/2503.24000)|
 |**2025-03-31**|**Training-Free Exponential Context Extension via Cascading KV Cache**|Jeffrey Willette et.al.|[2406.17808](http://arxiv.org/abs/2406.17808)|
 |**2025-03-25**|**Agent-Initiated Interaction in Phone UI Automation**|Noam Kahlon et.al.|[2503.19537](http://arxiv.org/abs/2503.19537)|
 |**2025-03-24**|**Mitigating KV Cache Competition to Enhance User Experience in LLM Inference**|Haiying Shen et.al.|[2503.13773](http://arxiv.org/abs/2503.13773)|
-|**2025-03-20**|**Plug-and-Play 1.x-Bit KV Cache Quantization for Video Large Language Models**|Keda Tao et.al.|[2503.16257](http://arxiv.org/abs/2503.16257)|
 |**2025-03-19**|**Exploring Large Language Models for Word Games:Who is the Spy?**|Chentian Wei et.al.|[2503.15235](http://arxiv.org/abs/2503.15235)|
 |**2025-03-12**|**COLA: A Scalable Multi-Agent Framework For Windows UI Task Automation**|Di Zhao et.al.|[2503.09263](http://arxiv.org/abs/2503.09263)|
 |**2025-03-11**|**FastCache: Optimizing Multimodal LLM Serving through Lightweight KV-Cache Compression Framework**|Jianian Zhu et.al.|[2503.08461](http://arxiv.org/abs/2503.08461)|
@@ -281,7 +282,6 @@ _Updated on 2025.09.29_
 |**2024-12-21**|**SYMPHONY: Improving Memory Management for LLM Inference Workloads**|Saurabh Agarwal et.al.|[2412.16434](http://arxiv.org/abs/2412.16434)|
 |**2024-12-18**|**MagicPIG: LSH Sampling for Efficient LLM Generation**|Zhuoming Chen et.al.|[2410.16179](http://arxiv.org/abs/2410.16179)|
 |**2024-12-17**|**A System for Microserving of LLMs**|Hongyi Jin et.al.|[2412.12488](http://arxiv.org/abs/2412.12488)|
-|**2024-12-17**|**From An LLM Swarm To A PDDL-Empowered HIVE: Planning Self-Executed Instructions In A Multi-Modal Jungle**|Kaustubh Vyas et.al.|[2412.12839](http://arxiv.org/abs/2412.12839)|
 |**2024-12-16**|**CSR:Achieving 1 Bit Key-Value Cache via Sparse Representation**|Hongxuan Zhang et.al.|[2412.11741](http://arxiv.org/abs/2412.11741)|
 |**2024-12-16**|**Steering Language Models with Game-Theoretic Solvers**|Ian Gemp et.al.|[2402.01704](http://arxiv.org/abs/2402.01704)|
 |**2024-12-15**|**LAW: Legal Agentic Workflows for Custody and Fund Services Contracts**|William Watson et.al.|[2412.11063_(COLING)](http://arxiv.org/abs/2412.11063)|
