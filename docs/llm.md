@@ -11,8 +11,14 @@ _Updated on 2025.09.30_
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
 |**2025-09-29**|**Plug-and-Play 1.x-Bit KV Cache Quantization for Video Large Language Models**|Keda Tao et.al.|[2503.16257](http://arxiv.org/abs/2503.16257)|
+|**2025-09-29**|**KAQG: A Knowledge-Graph-Enhanced RAG for Difficulty-Controlled Question Generation**|Ching Han Chen et.al.|[2505.07618](http://arxiv.org/abs/2505.07618)|
+|**2025-09-29**|**SpecExtend: A Drop-in Enhancement for Speculative Decoding of Long Sequences**|Jungyoub Cha et.al.|[2505.20776](http://arxiv.org/abs/2505.20776)|
 |**2025-09-29**|**SentenceKV: Efficient LLM Inference via Sentence-Level Semantic KV Caching**|Yuxuan Zhu et.al.|[2504.00970](http://arxiv.org/abs/2504.00970)|
+|**2025-09-29**|**SparseServe: Unlocking Parallelism for Dynamic Sparse Attention in Long-Context LLM Serving**|Qihui Zhou et.al.|[2509.24626](http://arxiv.org/abs/2509.24626)|
+|**2025-09-29**|**SemShareKV: Efficient KVCache Sharing for Semantically Similar Prompts via Token-Level LSH Matching**|Xinye Zhao et.al.|[2509.24832](http://arxiv.org/abs/2509.24832)|
+|**2025-09-29**|**SimuHome: A Temporal- and Environment-Aware Benchmark for Smart Home LLM Agents**|Gyuhyeon Seo et.al.|[2509.24282](http://arxiv.org/abs/2509.24282)|
 |**2025-09-28**|**From An LLM Swarm To A PDDL-Empowered HIVE: Planning Self-Executed Instructions In A Multi-Modal Jungle**|Kaustubh Vyas et.al.|[2412.12839_(ICLR)](http://arxiv.org/abs/2412.12839)|
+|**2025-09-28**|**HiViS: Hiding Visual Tokens from the Drafter for Speculative Decoding in Vision-Language Models**|Zhinan Xie et.al.|[2509.23928](http://arxiv.org/abs/2509.23928)|
 |**2025-09-27**|**Runtime Adaptive Pruning for LLM Inference**|Huanrong Liu et.al.|[2505.17138](http://arxiv.org/abs/2505.17138)|
 |**2025-09-27**|**ReCalKV: Low-Rank KV Cache Compression via Head Reordering and Offline Calibration**|Xianglong Yan et.al.|[2505.24357](http://arxiv.org/abs/2505.24357)|
 |**2025-09-27**|**READER: Retrieval-Assisted Drafter for Efficient LLM Inference**|Maxim Divilkovskiy et.al.|[2508.09072](http://arxiv.org/abs/2508.09072)|
@@ -57,7 +63,6 @@ _Updated on 2025.09.30_
 |**2025-08-26**|**Strata: Hierarchical Context Caching for Long Context Language Model Serving**|Zhiqiang Xie et.al.|[2508.18572](http://arxiv.org/abs/2508.18572)|
 |**2025-08-24**|**PRISM: Efficient Long-Range Reasoning With Short-Context LLMs**|Dulhan Jayalath et.al.|[2412.18914_(EMNLP)](http://arxiv.org/abs/2412.18914)|
 |**2025-08-23**|**Learned Structure in CARTRIDGES: Keys as Shareable Routers in Self-Studied Representations**|Maurizio Diaz et.al.|[2508.17032](http://arxiv.org/abs/2508.17032)|
-|**2025-08-22**|**SpecExtend: A Drop-in Enhancement for Speculative Decoding of Long Sequences**|Jungyoub Cha et.al.|[2505.20776](http://arxiv.org/abs/2505.20776)|
 |**2025-08-21**|**Efficient Mixed-Precision Large Language Model Inference with TurboMind**|Li Zhang et.al.|[2508.15601](http://arxiv.org/abs/2508.15601)|
 |**2025-08-20**|**H2EAL: Hybrid-Bonding Architecture with Hybrid Sparse Attention for Efficient Long-Context LLM Inference**|Zizhuo Fu et.al.|[2508.16653_(ICC)](http://arxiv.org/abs/2508.16653)|
 |**2025-08-20**|**Entropy-Constrained Strategy Optimization in Urban Floods: A Multi-Agent Framework with LLM and Knowledge Graph Integration**|Peilin Ji et.al.|[2508.14654](http://arxiv.org/abs/2508.14654)|
@@ -183,7 +188,6 @@ _Updated on 2025.09.30_
 |**2025-05-13**|**Gradual Binary Search and Dimension Expansion : A general method for activation quantization in LLMs**|Lucas Maisonnave et.al.|[2504.13989](http://arxiv.org/abs/2504.13989)|
 |**2025-05-12**|**SpecRouter: Adaptive Routing for Multi-Level Speculative Decoding in Large Language Models**|Hang Wu et.al.|[2505.07680](http://arxiv.org/abs/2505.07680)|
 |**2025-05-12**|**PrefillOnly: An Inference Engine for Prefill-only Workloads in Large Language Model Applications**|Kuntai Du et.al.|[2505.07203](http://arxiv.org/abs/2505.07203)|
-|**2025-05-12**|**KAQG: A Knowledge-Graph-Enhanced RAG for Difficulty-Controlled Question Generation**|Ching Han Chen et.al.|[2505.07618](http://arxiv.org/abs/2505.07618)|
 |**2025-05-09**|**Sparse Attention Remapping with Clustering for Efficient LLM Decoding on PIM**|Zehao Fan et.al.|[2505.05772](http://arxiv.org/abs/2505.05772)|
 |**2025-05-08**|**HEXGEN-TEXT2SQL: Optimizing LLM Inference Request Scheduling for Agentic Text-to-SQL Workflow**|You Peng et.al.|[2505.05286](http://arxiv.org/abs/2505.05286)|
 |**2025-05-01**|**QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving**|Yujun Lin et.al.|[2405.04532](http://arxiv.org/abs/2405.04532)|

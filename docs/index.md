@@ -10,6 +10,9 @@ _Updated on 2025.09.30_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-09-29**|**KAQG: A Knowledge-Graph-Enhanced RAG for Difficulty-Controlled Question Generation**|Ching Han Chen et.al.|[2505.07618](http://arxiv.org/abs/2505.07618)|
+|**2025-09-29**|**G-reasoner: Foundation Models for Unified Reasoning over Graph-structured Knowledge**|Linhao Luo et.al.|[2509.24276](http://arxiv.org/abs/2509.24276)|
+|**2025-09-27**|**ReliabilityRAG: Effective and Provably Robust Defense for RAG-based Web-Search**|Zeyu Shen et.al.|[2509.23519_(NeurIPS)](http://arxiv.org/abs/2509.23519)|
 |**2025-09-26**|**Chain or tree? Re-evaluating complex reasoning from the perspective of a matrix of thought**|Fengxiao Tang et.al.|[2509.03918](http://arxiv.org/abs/2509.03918)|
 |**2025-09-26**|**Comparing RAG and GraphRAG for Page-Level Retrieval Question Answering on Math Textbook**|Eason Chen et.al.|[2509.16780](http://arxiv.org/abs/2509.16780)|
 |**2025-09-26**|**GraphSearch: An Agentic Deep Searching Workflow for Graph Retrieval-Augmented Generation**|Cehao Yang et.al.|[2509.22009](http://arxiv.org/abs/2509.22009)|
@@ -159,7 +162,6 @@ _Updated on 2025.09.30_
 |**2025-05-16**|**Leveraging Graph Retrieval-Augmented Generation to Support Learners' Understanding of Knowledge Concepts in MOOCs**|Mohamed Abdelmagied et.al.|[2505.10074](http://arxiv.org/abs/2505.10074)|
 |**2025-05-15**|**Personalizing Large Language Models using Retrieval Augmented Generation and Knowledge Graph**|Deeksha Prahlad et.al.|[2505.09945_(WWW)](http://arxiv.org/abs/2505.09945)|
 |**2025-05-15**|**GE-Chat: A Graph Enhanced RAG Framework for Evidential Response Generation of LLMs**|Longchao Da et.al.|[2505.10143_(IJCAI)](http://arxiv.org/abs/2505.10143)|
-|**2025-05-12**|**KAQG: A Knowledge-Graph-Enhanced RAG for Difficulty-Controlled Question Generation**|Ching Han Chen et.al.|[2505.07618](http://arxiv.org/abs/2505.07618)|
 |**2025-05-12**|**GRADA: Graph-based Reranker against Adversarial Documents Attack**|Jingjie Zheng et.al.|[2505.07546](http://arxiv.org/abs/2505.07546)|
 |**2025-05-09**|**Bridging Legal Knowledge and AI: Retrieval-Augmented Generation with Vector Stores, Knowledge Graphs, and Hierarchical Non-negative Matrix Factorization**|Ryan C. Barron et.al.|[2502.20364](http://arxiv.org/abs/2502.20364)|
 |**2025-05-08**|**KG-HTC: Integrating Knowledge Graphs into LLMs for Effective Zero-shot Hierarchical Text Classification**|Qianbo Zang et.al.|[2505.05583](http://arxiv.org/abs/2505.05583)|
