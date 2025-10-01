@@ -6,16 +6,16 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2025.09.30_
+_Updated on 2025.10.01_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-09-30**|**GraphSearch: An Agentic Deep Searching Workflow for Graph Retrieval-Augmented Generation**|Cehao Yang et.al.|[2509.22009](http://arxiv.org/abs/2509.22009)|
 |**2025-09-29**|**KAQG: A Knowledge-Graph-Enhanced RAG for Difficulty-Controlled Question Generation**|Ching Han Chen et.al.|[2505.07618](http://arxiv.org/abs/2505.07618)|
 |**2025-09-29**|**G-reasoner: Foundation Models for Unified Reasoning over Graph-structured Knowledge**|Linhao Luo et.al.|[2509.24276](http://arxiv.org/abs/2509.24276)|
 |**2025-09-27**|**ReliabilityRAG: Effective and Provably Robust Defense for RAG-based Web-Search**|Zeyu Shen et.al.|[2509.23519_(NeurIPS)](http://arxiv.org/abs/2509.23519)|
 |**2025-09-26**|**Chain or tree? Re-evaluating complex reasoning from the perspective of a matrix of thought**|Fengxiao Tang et.al.|[2509.03918](http://arxiv.org/abs/2509.03918)|
 |**2025-09-26**|**Comparing RAG and GraphRAG for Page-Level Retrieval Question Answering on Math Textbook**|Eason Chen et.al.|[2509.16780](http://arxiv.org/abs/2509.16780)|
-|**2025-09-26**|**GraphSearch: An Agentic Deep Searching Workflow for Graph Retrieval-Augmented Generation**|Cehao Yang et.al.|[2509.22009](http://arxiv.org/abs/2509.22009)|
 |**2025-09-26**|**Think-on-Graph 3.0: Efficient and Adaptive LLM Reasoning on Heterogeneous Graphs via Multi-Agent Dual-Evolving Context Retrieval**|Xiaojun Wu et.al.|[2509.21710](http://arxiv.org/abs/2509.21710)|
 |**2025-09-25**|**Query-Centric Graph Retrieval Augmented Generation**|Yaxiong Wu et.al.|[2509.21237](http://arxiv.org/abs/2509.21237)|
 |**2025-09-24**|**Causal-Counterfactual RAG: The Integration of Causal-Counterfactual Reasoning into RAG**|Harshad Khadilkar et.al.|[2509.14435](http://arxiv.org/abs/2509.14435)|
