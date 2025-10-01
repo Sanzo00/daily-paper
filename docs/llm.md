@@ -13,6 +13,7 @@ _Updated on 2025.10.01_
 |**2025-09-30**|**KVzip: Query-Agnostic KV Cache Compression with Context Reconstruction**|Jang-Hyun Kim et.al.|[2505.23416_(NeurIPS)](http://arxiv.org/abs/2505.23416)|
 |**2025-09-30**|**AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges**|Ranjan Sapkota et.al.|[2505.10468](http://arxiv.org/abs/2505.10468)|
 |**2025-09-30**|**Towards Agentic OS: An LLM Agent Framework for Linux Schedulers**|Yusheng Zheng et.al.|[2509.01245](http://arxiv.org/abs/2509.01245)|
+|**2025-09-30**|**AdaBlock-dLLM: Semantic-Aware Diffusion LLM Inference via Adaptive Block Size**|Guanxi Lu et.al.|[2509.26432](http://arxiv.org/abs/2509.26432)|
 |**2025-09-29**|**Plug-and-Play 1.x-Bit KV Cache Quantization for Video Large Language Models**|Keda Tao et.al.|[2503.16257](http://arxiv.org/abs/2503.16257)|
 |**2025-09-29**|**KAQG: A Knowledge-Graph-Enhanced RAG for Difficulty-Controlled Question Generation**|Ching Han Chen et.al.|[2505.07618](http://arxiv.org/abs/2505.07618)|
 |**2025-09-29**|**SpecExtend: A Drop-in Enhancement for Speculative Decoding of Long Sequences**|Jungyoub Cha et.al.|[2505.20776](http://arxiv.org/abs/2505.20776)|
