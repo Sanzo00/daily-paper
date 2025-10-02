@@ -6,12 +6,12 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2025.10.01_
+_Updated on 2025.10.02_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-10-01**|**Efficient and Transferable Agentic Knowledge Graph RAG via Reinforcement Learning**|Jinyeop Song et.al.|[2509.26383_(ICLR)](http://arxiv.org/abs/2509.26383)|
 |**2025-09-30**|**GraphSearch: An Agentic Deep Searching Workflow for Graph Retrieval-Augmented Generation**|Cehao Yang et.al.|[2509.22009](http://arxiv.org/abs/2509.22009)|
-|**2025-09-30**|**Efficient and Transferable Agentic Knowledge Graph RAG via Reinforcement Learning**|Jinyeop Song et.al.|[2509.26383_(ICLR)](http://arxiv.org/abs/2509.26383)|
 |**2025-09-30**|**ConfRAG: Confidence-Guided Retrieval-Augmenting Generation**|Yin Huang et.al.|[2506.07309](http://arxiv.org/abs/2506.07309)|
 |**2025-09-29**|**KAQG: A Knowledge-Graph-Enhanced RAG for Difficulty-Controlled Question Generation**|Ching Han Chen et.al.|[2505.07618](http://arxiv.org/abs/2505.07618)|
 |**2025-09-29**|**G-reasoner: Foundation Models for Unified Reasoning over Graph-structured Knowledge**|Linhao Luo et.al.|[2509.24276](http://arxiv.org/abs/2509.24276)|
