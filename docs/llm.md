@@ -11,7 +11,9 @@ _Updated on 2025.10.03_
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
 |**2025-10-02**|**QSpec: Speculative Decoding with Complementary Quantization Schemes**|Juntao Zhao et.al.|[2410.11305](http://arxiv.org/abs/2410.11305)|
+|**2025-10-02**|**KaVa: Latent Reasoning via Compressed KV-Cache Distillation**|Anna Kuzina et.al.|[2510.02312](http://arxiv.org/abs/2510.02312)|
 |**2025-10-01**|**AdaBlock-dLLM: Semantic-Aware Diffusion LLM Inference via Adaptive Block Size**|Guanxi Lu et.al.|[2509.26432](http://arxiv.org/abs/2509.26432)|
+|**2025-10-01**|**Faster LLM Inference using DBMS-Inspired Preemption and Cache Replacement Policies**|Kyoungmin Kim et.al.|[2411.07447](http://arxiv.org/abs/2411.07447)|
 |**2025-09-30**|**KVzip: Query-Agnostic KV Cache Compression with Context Reconstruction**|Jang-Hyun Kim et.al.|[2505.23416_(NeurIPS)](http://arxiv.org/abs/2505.23416)|
 |**2025-09-30**|**AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges**|Ranjan Sapkota et.al.|[2505.10468](http://arxiv.org/abs/2505.10468)|
 |**2025-09-30**|**Towards Agentic OS: An LLM Agent Framework for Linux Schedulers**|Yusheng Zheng et.al.|[2509.01245](http://arxiv.org/abs/2509.01245)|

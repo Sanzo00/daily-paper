@@ -10,8 +10,15 @@ _Updated on 2025.10.03_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-10-02**|**Stream RAG: Instant and Accurate Spoken Dialogue Systems with Streaming Tool Usage**|Siddhant Arora et.al.|[2510.02044](http://arxiv.org/abs/2510.02044)|
+|**2025-10-02**|**Are LLMs Better GNN Helpers? Rethinking Robust Graph Learning under Deficiencies with Iterative Refinement**|Zhaoyan Wang et.al.|[2510.01910](http://arxiv.org/abs/2510.01910)|
+|**2025-10-02**|**REBot: From RAG to CatRAG with Semantic Enrichment and Graph Routing**|Thanh Ma et.al.|[2510.01800](http://arxiv.org/abs/2510.01800)|
+|**2025-10-02**|**Benchmarking Foundation Models with Retrieval-Augmented Generation in Olympic-Level Physics Problem Solving**|Shunfeng Zheng et.al.|[2510.00919_(EMNLP)](http://arxiv.org/abs/2510.00919)|
 |**2025-10-01**|**Diagnosing and Addressing Pitfalls in KG-RAG Datasets: Toward More Reliable Benchmarking**|Liangliang Zhang et.al.|[2505.23495_(NeurIPS)](http://arxiv.org/abs/2505.23495)|
 |**2025-10-01**|**Efficient and Transferable Agentic Knowledge Graph RAG via Reinforcement Learning**|Jinyeop Song et.al.|[2509.26383_(ICLR)](http://arxiv.org/abs/2509.26383)|
+|**2025-10-01**|**OntoLogX: Ontology-Guided Knowledge Graph Extraction from Cybersecurity Logs with Large Language Models**|Luca Cotti et.al.|[2510.01409](http://arxiv.org/abs/2510.01409)|
+|**2025-10-01**|**Exploring Network-Knowledge Graph Duality: A Case Study in Agentic Supply Chain Risk Analysis**|Evan Heus et.al.|[2510.01115](http://arxiv.org/abs/2510.01115)|
+|**2025-10-01**|**KeySG: Hierarchical Keyframe-Based 3D Scene Graphs**|Abdelrhman Werby et.al.|[2510.01049](http://arxiv.org/abs/2510.01049)|
 |**2025-09-30**|**GraphSearch: An Agentic Deep Searching Workflow for Graph Retrieval-Augmented Generation**|Cehao Yang et.al.|[2509.22009](http://arxiv.org/abs/2509.22009)|
 |**2025-09-30**|**ConfRAG: Confidence-Guided Retrieval-Augmenting Generation**|Yin Huang et.al.|[2506.07309](http://arxiv.org/abs/2506.07309)|
 |**2025-09-29**|**KAQG: A Knowledge-Graph-Enhanced RAG for Difficulty-Controlled Question Generation**|Ching Han Chen et.al.|[2505.07618](http://arxiv.org/abs/2505.07618)|
