@@ -6,10 +6,11 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2025.10.02_
+_Updated on 2025.10.03_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-10-01**|**Diagnosing and Addressing Pitfalls in KG-RAG Datasets: Toward More Reliable Benchmarking**|Liangliang Zhang et.al.|[2505.23495_(NeurIPS)](http://arxiv.org/abs/2505.23495)|
 |**2025-10-01**|**Efficient and Transferable Agentic Knowledge Graph RAG via Reinforcement Learning**|Jinyeop Song et.al.|[2509.26383_(ICLR)](http://arxiv.org/abs/2509.26383)|
 |**2025-09-30**|**GraphSearch: An Agentic Deep Searching Workflow for Graph Retrieval-Augmented Generation**|Cehao Yang et.al.|[2509.22009](http://arxiv.org/abs/2509.22009)|
 |**2025-09-30**|**ConfRAG: Confidence-Guided Retrieval-Augmenting Generation**|Yin Huang et.al.|[2506.07309](http://arxiv.org/abs/2506.07309)|
@@ -137,7 +138,6 @@ _Updated on 2025.10.02_
 |**2025-06-01**|**A Survey of LLM $\times$ DATA**|Xuanhe Zhou et.al.|[2505.18458](http://arxiv.org/abs/2505.18458)|
 |**2025-06-01**|**A Graph-Retrieval-Augmented Generation Framework Enhances Decision-Making in the Circular Economy**|Yang Zhao et.al.|[2506.04252](http://arxiv.org/abs/2506.04252)|
 |**2025-05-31**|**OntoRAG: Enhancing Question-Answering through Automated Ontology Derivation from Unstructured Knowledge Bases**|Yash Tiwari et.al.|[2506.00664](http://arxiv.org/abs/2506.00664)|
-|**2025-05-29**|**Diagnosing and Addressing Pitfalls in KG-RAG Datasets: Toward More Reliable Benchmarking**|Liangliang Zhang et.al.|[2505.23495](http://arxiv.org/abs/2505.23495)|
 |**2025-05-29**|**SimGRAG: Leveraging Similar Subgraphs for Knowledge Graphs Driven Retrieval-Augmented Generation**|Yuzheng Cai et.al.|[2412.15272_(ACL)](http://arxiv.org/abs/2412.15272)|
 |**2025-05-29**|**Retrieval Augmented Generation based Large Language Models for Causality Mining**|Thushara Manjari Naduvilakandy et.al.|[2505.23944_(ACL)](http://arxiv.org/abs/2505.23944)|
 |**2025-05-29**|**BugRepro: Enhancing Android Bug Reproduction with Domain-Specific Knowledge Integration**|Hongrong Yin et.al.|[2505.14528](http://arxiv.org/abs/2505.14528)|

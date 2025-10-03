@@ -6,10 +6,11 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2025.10.02_
+_Updated on 2025.10.03_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-10-02**|**QSpec: Speculative Decoding with Complementary Quantization Schemes**|Juntao Zhao et.al.|[2410.11305](http://arxiv.org/abs/2410.11305)|
 |**2025-10-01**|**AdaBlock-dLLM: Semantic-Aware Diffusion LLM Inference via Adaptive Block Size**|Guanxi Lu et.al.|[2509.26432](http://arxiv.org/abs/2509.26432)|
 |**2025-09-30**|**KVzip: Query-Agnostic KV Cache Compression with Context Reconstruction**|Jang-Hyun Kim et.al.|[2505.23416_(NeurIPS)](http://arxiv.org/abs/2505.23416)|
 |**2025-09-30**|**AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges**|Ranjan Sapkota et.al.|[2505.10468](http://arxiv.org/abs/2505.10468)|
@@ -266,7 +267,6 @@ _Updated on 2025.10.02_
 |**2025-02-05**|**Cache-Craft: Managing Chunk-Caches for Efficient Retrieval-Augmented Generation**|Shubham Agarwal et.al.|[2502.15734_(SIGMOD)](http://arxiv.org/abs/2502.15734)|
 |**2025-02-04**|**LightTransfer: Your Long-Context LLM is Secretly a Hybrid Model with Effortless Adaptation**|Xuan Zhang et.al.|[2410.13846](http://arxiv.org/abs/2410.13846)|
 |**2025-02-02**|**RotateKV: Accurate and Robust 2-Bit KV Cache Quantization for LLMs via Outlier-Aware Adaptive Rotations**|Zunhai Su et.al.|[2501.16383](http://arxiv.org/abs/2501.16383)|
-|**2025-02-01**|**QSpec: Speculative Decoding with Complementary Quantization Schemes**|Juntao Zhao et.al.|[2410.11305](http://arxiv.org/abs/2410.11305)|
 |**2025-02-01**|**OrcaLoca: An LLM Agent Framework for Software Issue Localization**|Zhongming Yu et.al.|[2502.00350](http://arxiv.org/abs/2502.00350)|
 |**2025-01-29**|**vAttention: Dynamic Memory Management for Serving LLMs without PagedAttention**|Ramya Prabhu et.al.|[2405.04437_(ASPLOS)](http://arxiv.org/abs/2405.04437)|
 |**2025-01-29**|**MACI: Multi-Agent Collaborative Intelligence for Adaptive Reasoning and Temporal Planning**|Edward Y. Chang et.al.|[2501.16689](http://arxiv.org/abs/2501.16689)|
