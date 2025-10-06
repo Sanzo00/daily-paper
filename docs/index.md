@@ -6,10 +6,11 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2025.10.05_
+_Updated on 2025.10.06_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-10-03**|**PropRAG: Guiding Retrieval with Beam Search over Proposition Paths**|Jingjin Wang et.al.|[2504.18070_(EMNLP)](http://arxiv.org/abs/2504.18070)|
 |**2025-10-02**|**Stream RAG: Instant and Accurate Spoken Dialogue Systems with Streaming Tool Usage**|Siddhant Arora et.al.|[2510.02044](http://arxiv.org/abs/2510.02044)|
 |**2025-10-02**|**Are LLMs Better GNN Helpers? Rethinking Robust Graph Learning under Deficiencies with Iterative Refinement**|Zhaoyan Wang et.al.|[2510.01910](http://arxiv.org/abs/2510.01910)|
 |**2025-10-02**|**REBot: From RAG to CatRAG with Semantic Enrichment and Graph Routing**|Thanh Ma et.al.|[2510.01800](http://arxiv.org/abs/2510.01800)|
@@ -181,7 +182,6 @@ _Updated on 2025.10.05_
 |**2025-04-28**|**Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory**|Prateek Chhikara et.al.|[2504.19413](http://arxiv.org/abs/2504.19413)|
 |**2025-04-26**|**Exploring the Role of Knowledge Graph-Based RAG in Japanese Medical Question Answering with Small-Scale LLMs**|Yingjian Chen et.al.|[2504.10982](http://arxiv.org/abs/2504.10982)|
 |**2025-04-26**|**Building Scalable AI-Powered Applications with Cloud Databases: Architectures, Best Practices and Performance Considerations**|Santosh Bhupathi et.al.|[2504.18793](http://arxiv.org/abs/2504.18793)|
-|**2025-04-25**|**PropRAG: Guiding Retrieval with Beam Search over Proposition Paths**|Jingjin Wang et.al.|[2504.18070](http://arxiv.org/abs/2504.18070)|
 |**2025-04-23**|**LLM-assisted Graph-RAG Information Extraction from IFC Data**|Sima Iranmanesh et.al.|[2504.16813](http://arxiv.org/abs/2504.16813)|
 |**2025-04-20**|**Understanding and Optimizing Multi-Stage AI Inference Pipelines**|Abhimanyu Rajeshkumar Bambhaniya et.al.|[2504.09775](http://arxiv.org/abs/2504.09775)|
 |**2025-04-20**|**Reasoning-Enhanced Healthcare Predictions with Knowledge Graph Community Retrieval**|Pengcheng Jiang et.al.|[2410.04585_(ICLR)](http://arxiv.org/abs/2410.04585)|
