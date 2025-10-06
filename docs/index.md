@@ -15,6 +15,7 @@ _Updated on 2025.10.06_
 |**2025-10-02**|**Are LLMs Better GNN Helpers? Rethinking Robust Graph Learning under Deficiencies with Iterative Refinement**|Zhaoyan Wang et.al.|[2510.01910](http://arxiv.org/abs/2510.01910)|
 |**2025-10-02**|**REBot: From RAG to CatRAG with Semantic Enrichment and Graph Routing**|Thanh Ma et.al.|[2510.01800](http://arxiv.org/abs/2510.01800)|
 |**2025-10-02**|**Benchmarking Foundation Models with Retrieval-Augmented Generation in Olympic-Level Physics Problem Solving**|Shunfeng Zheng et.al.|[2510.00919_(EMNLP)](http://arxiv.org/abs/2510.00919)|
+|**2025-10-02**|**Knowledge-Graph Based RAG System Evaluation Framework**|Sicheng Dong et.al.|[2510.02549](http://arxiv.org/abs/2510.02549)|
 |**2025-10-01**|**Diagnosing and Addressing Pitfalls in KG-RAG Datasets: Toward More Reliable Benchmarking**|Liangliang Zhang et.al.|[2505.23495_(NeurIPS)](http://arxiv.org/abs/2505.23495)|
 |**2025-10-01**|**Efficient and Transferable Agentic Knowledge Graph RAG via Reinforcement Learning**|Jinyeop Song et.al.|[2509.26383_(ICLR)](http://arxiv.org/abs/2509.26383)|
 |**2025-10-01**|**OntoLogX: Ontology-Guided Knowledge Graph Extraction from Cybersecurity Logs with Large Language Models**|Luca Cotti et.al.|[2510.01409](http://arxiv.org/abs/2510.01409)|

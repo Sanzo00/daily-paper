@@ -10,8 +10,11 @@ _Updated on 2025.10.06_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-10-03**|**TokenFlow: Responsive LLM Text Streaming Serving under Request Burst via Preemptive Scheduling**|Junyi Chen et.al.|[2510.02758_(EuroSys)](http://arxiv.org/abs/2510.02758)|
+|**2025-10-03**|**Automatic Building Code Review: A Case Study**|Hanlong Wan et.al.|[2510.02634](http://arxiv.org/abs/2510.02634)|
 |**2025-10-02**|**QSpec: Speculative Decoding with Complementary Quantization Schemes**|Juntao Zhao et.al.|[2410.11305](http://arxiv.org/abs/2410.11305)|
 |**2025-10-02**|**KaVa: Latent Reasoning via Compressed KV-Cache Distillation**|Anna Kuzina et.al.|[2510.02312](http://arxiv.org/abs/2510.02312)|
+|**2025-10-02**|**ElasticMoE: An Efficient Auto Scaling Method for Mixture-of-Experts Models**|Gursimran Singh et.al.|[2510.02613_(ISS)](http://arxiv.org/abs/2510.02613)|
 |**2025-10-01**|**AdaBlock-dLLM: Semantic-Aware Diffusion LLM Inference via Adaptive Block Size**|Guanxi Lu et.al.|[2509.26432](http://arxiv.org/abs/2509.26432)|
 |**2025-10-01**|**Faster LLM Inference using DBMS-Inspired Preemption and Cache Replacement Policies**|Kyoungmin Kim et.al.|[2411.07447](http://arxiv.org/abs/2411.07447)|
 |**2025-09-30**|**KVzip: Query-Agnostic KV Cache Compression with Context Reconstruction**|Jang-Hyun Kim et.al.|[2505.23416_(NeurIPS)](http://arxiv.org/abs/2505.23416)|
