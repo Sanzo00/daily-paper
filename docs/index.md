@@ -6,10 +6,11 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2025.10.06_
+_Updated on 2025.10.07_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-10-06**|**MAGIC: A Multi-Hop and Graph-Based Benchmark for Inter-Context Conflicts in Retrieval-Augmented Generation**|Jungyeon Lee et.al.|[2507.21544](http://arxiv.org/abs/2507.21544)|
 |**2025-10-03**|**PropRAG: Guiding Retrieval with Beam Search over Proposition Paths**|Jingjin Wang et.al.|[2504.18070_(EMNLP)](http://arxiv.org/abs/2504.18070)|
 |**2025-10-02**|**Stream RAG: Instant and Accurate Spoken Dialogue Systems with Streaming Tool Usage**|Siddhant Arora et.al.|[2510.02044](http://arxiv.org/abs/2510.02044)|
 |**2025-10-02**|**Are LLMs Better GNN Helpers? Rethinking Robust Graph Learning under Deficiencies with Iterative Refinement**|Zhaoyan Wang et.al.|[2510.01910](http://arxiv.org/abs/2510.01910)|
@@ -100,7 +101,6 @@ _Updated on 2025.10.06_
 |**2025-08-01**|**FinKario: Event-Enhanced Automated Construction of Financial Knowledge Graph**|Xiang Li et.al.|[2508.00961](http://arxiv.org/abs/2508.00961)|
 |**2025-07-31**|**KeyKnowledgeRAG (K^2RAG): An Enhanced RAG method for improved LLM question-answering capabilities**|Hruday Markondapatnaikuni et.al.|[2507.07695](http://arxiv.org/abs/2507.07695)|
 |**2025-07-30**|**CliCARE: Grounding Large Language Models in Clinical Guidelines for Decision Support over Longitudinal Cancer Electronic Health Records**|Dongchen Li et.al.|[2507.22533](http://arxiv.org/abs/2507.22533)|
-|**2025-07-29**|**MAGIC: A Multi-Hop and Graph-Based Benchmark for Inter-Context Conflicts in Retrieval-Augmented Generation**|Jungyeon Lee et.al.|[2507.21544](http://arxiv.org/abs/2507.21544)|
 |**2025-07-29**|**Simulated patient systems are intelligent when powered by large language model-based AI agents**|Huizi Yu et.al.|[2409.18924](http://arxiv.org/abs/2409.18924)|
 |**2025-07-29**|**Graph-R1: Towards Agentic GraphRAG Framework via End-to-end Reinforcement Learning**|Haoran Luo et.al.|[2507.21892](http://arxiv.org/abs/2507.21892)|
 |**2025-07-27**|**Advancing Shared and Multi-Agent Autonomy in Underwater Missions: Integrating Knowledge Graphs and Retrieval-Augmented Generation**|Michele Grimaldi et.al.|[2507.20370](http://arxiv.org/abs/2507.20370)|

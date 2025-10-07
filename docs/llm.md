@@ -6,10 +6,11 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2025.10.06_
+_Updated on 2025.10.07_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-10-06**|**ALE-Bench: A Benchmark for Long-Horizon Objective-Driven Algorithm Engineering**|Yuki Imajuku et.al.|[2506.09050_(NeurIPS)](http://arxiv.org/abs/2506.09050)|
 |**2025-10-03**|**TokenFlow: Responsive LLM Text Streaming Serving under Request Burst via Preemptive Scheduling**|Junyi Chen et.al.|[2510.02758_(EuroSys)](http://arxiv.org/abs/2510.02758)|
 |**2025-10-03**|**Automatic Building Code Review: A Case Study**|Hanlong Wan et.al.|[2510.02634](http://arxiv.org/abs/2510.02634)|
 |**2025-10-02**|**QSpec: Speculative Decoding with Complementary Quantization Schemes**|Juntao Zhao et.al.|[2410.11305](http://arxiv.org/abs/2410.11305)|
@@ -138,7 +139,6 @@ _Updated on 2025.10.06_
 |**2025-06-12**|**SwiftSpec: Ultra-Low Latency LLM Decoding by Scaling Asynchronous Speculative Decoding**|Ziyi Zhang et.al.|[2506.11309](http://arxiv.org/abs/2506.11309)|
 |**2025-06-12**|**SelectLLM: Query-Aware Efficient Selection Algorithm for Large Language Models**|Kaushal Kumar Maurya et.al.|[2408.08545](http://arxiv.org/abs/2408.08545)|
 |**2025-06-11**|**SAFEFLOW: A Principled Protocol for Trustworthy and Transactional Autonomous Agent Systems**|Peiran Li et.al.|[2506.07564](http://arxiv.org/abs/2506.07564)|
-|**2025-06-10**|**ALE-Bench: A Benchmark for Long-Horizon Objective-Driven Algorithm Engineering**|Yuki Imajuku et.al.|[2506.09050](http://arxiv.org/abs/2506.09050)|
 |**2025-06-09**|**Graph-KV: Breaking Sequence via Injecting Structural Biases into Large Language Models**|Haoyu Wang et.al.|[2506.07334](http://arxiv.org/abs/2506.07334)|
 |**2025-06-09**|**DeepServe: Serverless Large Language Model Serving at Scale**|Junhao Hu et.al.|[2501.14417](http://arxiv.org/abs/2501.14417)|
 |**2025-06-08**|**MiniKV: Pushing the Limits of LLM Inference via 2-Bit Layer-Discriminative KV Cache**|Akshat Sharma et.al.|[2411.18077](http://arxiv.org/abs/2411.18077)|
