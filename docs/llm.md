@@ -11,11 +11,13 @@ _Updated on 2025.10.07_
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
 |**2025-10-06**|**ALE-Bench: A Benchmark for Long-Horizon Objective-Driven Algorithm Engineering**|Yuki Imajuku et.al.|[2506.09050_(NeurIPS)](http://arxiv.org/abs/2506.09050)|
+|**2025-10-06**|**Multi-Agent Collaborative Intelligence: Dual-Dial Control for Reliable LLM Reasoning**|Edward Y. Chang et.al.|[2510.04488](http://arxiv.org/abs/2510.04488)|
 |**2025-10-03**|**TokenFlow: Responsive LLM Text Streaming Serving under Request Burst via Preemptive Scheduling**|Junyi Chen et.al.|[2510.02758_(EuroSys)](http://arxiv.org/abs/2510.02758)|
 |**2025-10-03**|**Automatic Building Code Review: A Case Study**|Hanlong Wan et.al.|[2510.02634](http://arxiv.org/abs/2510.02634)|
 |**2025-10-02**|**QSpec: Speculative Decoding with Complementary Quantization Schemes**|Juntao Zhao et.al.|[2410.11305](http://arxiv.org/abs/2410.11305)|
 |**2025-10-02**|**KaVa: Latent Reasoning via Compressed KV-Cache Distillation**|Anna Kuzina et.al.|[2510.02312](http://arxiv.org/abs/2510.02312)|
 |**2025-10-02**|**ElasticMoE: An Efficient Auto Scaling Method for Mixture-of-Experts Models**|Gursimran Singh et.al.|[2510.02613_(ISS)](http://arxiv.org/abs/2510.02613)|
+|**2025-10-02**|**KVComm: Enabling Efficient LLM Communication through Selective KV Sharing**|Xiangyu Shi et.al.|[2510.03346](http://arxiv.org/abs/2510.03346)|
 |**2025-10-01**|**AdaBlock-dLLM: Semantic-Aware Diffusion LLM Inference via Adaptive Block Size**|Guanxi Lu et.al.|[2509.26432](http://arxiv.org/abs/2509.26432)|
 |**2025-10-01**|**Faster LLM Inference using DBMS-Inspired Preemption and Cache Replacement Policies**|Kyoungmin Kim et.al.|[2411.07447](http://arxiv.org/abs/2411.07447)|
 |**2025-09-30**|**KVzip: Query-Agnostic KV Cache Compression with Context Reconstruction**|Jang-Hyun Kim et.al.|[2505.23416_(NeurIPS)](http://arxiv.org/abs/2505.23416)|
@@ -36,6 +38,7 @@ _Updated on 2025.10.07_
 |**2025-09-26**|**KV Cache Steering for Controlling Frozen LLMs**|Max Belitsky et.al.|[2507.08799](http://arxiv.org/abs/2507.08799)|
 |**2025-09-26**|**Bottlenecked Transformers: Periodic KV Cache Consolidation for Generalised Reasoning**|Adnan Oomerjee et.al.|[2505.16950](http://arxiv.org/abs/2505.16950)|
 |**2025-09-26**|**ProRe: A Proactive Reward System for GUI Agents via Reasoner-Actor Collaboration**|Gaole Dai et.al.|[2509.21823](http://arxiv.org/abs/2509.21823)|
+|**2025-09-26**|**Solving the Granularity Mismatch: Hierarchical Preference Learning for Long-Horizon LLM Agents**|Heyang Gao et.al.|[2510.03253](http://arxiv.org/abs/2510.03253)|
 |**2025-09-25**|**HyperFlexis: Joint Design of Algorithms and Systems for Multi-SLO Serving and Fast Scaling**|Zahra Yousefijamarani et.al.|[2508.15919](http://arxiv.org/abs/2508.15919)|
 |**2025-09-25**|**InComeS: Integrating Compression and Selection Mechanisms into LLMs for Efficient Model Editing**|Shuaiyi Li et.al.|[2505.22156](http://arxiv.org/abs/2505.22156)|
 |**2025-09-25**|**Nova: Real-Time Agentic Vision-Language Model Serving with Adaptive Cross-Stage Parallelization**|Yuhang Xu et.al.|[2509.21301](http://arxiv.org/abs/2509.21301)|
