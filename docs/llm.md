@@ -10,6 +10,8 @@ _Updated on 2025.10.08_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-10-07**|**VecInfer: Efficient LLM Inference with Low-Bit KV Cache via Outlier-Suppressed Vector Quantization**|Dingyu Yao et.al.|[2510.06175](http://arxiv.org/abs/2510.06175)|
+|**2025-10-07**|**H1B-KV: Hybrid One-Bit Caches for Memory-Efficient Large Language Model Inference**|Harshil Vejendla et.al.|[2510.05529](http://arxiv.org/abs/2510.05529)|
 |**2025-10-06**|**ALE-Bench: A Benchmark for Long-Horizon Objective-Driven Algorithm Engineering**|Yuki Imajuku et.al.|[2506.09050_(NeurIPS)](http://arxiv.org/abs/2506.09050)|
 |**2025-10-06**|**Multi-Agent Collaborative Intelligence: Dual-Dial Control for Reliable LLM Reasoning**|Edward Y. Chang et.al.|[2510.04488](http://arxiv.org/abs/2510.04488)|
 |**2025-10-03**|**TokenFlow: Responsive LLM Text Streaming Serving under Request Burst via Preemptive Scheduling**|Junyi Chen et.al.|[2510.02758_(EuroSys)](http://arxiv.org/abs/2510.02758)|
