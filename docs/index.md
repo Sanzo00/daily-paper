@@ -6,11 +6,12 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2025.10.08_
+_Updated on 2025.10.09_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
 |**2025-10-07**|**Diagnosing and Addressing Pitfalls in KG-RAG Datasets: Toward More Reliable Benchmarking**|Liangliang Zhang et.al.|[2505.23495_(NeurIPS)](http://arxiv.org/abs/2505.23495)|
+|**2025-10-07**|**Improving Factuality in LLMs via Inference-Time Knowledge Graph Construction**|Shanglin Wu et.al.|[2509.03540](http://arxiv.org/abs/2509.03540)|
 |**2025-10-07**|**KEO: Knowledge Extraction on OMIn via Knowledge Graphs and RAG for Safety-Critical Aviation Maintenance**|Kuangshi Ai et.al.|[2510.05524](http://arxiv.org/abs/2510.05524)|
 |**2025-10-06**|**MAGIC: A Multi-Hop and Graph-Based Benchmark for Inter-Context Conflicts in Retrieval-Augmented Generation**|Jungyeon Lee et.al.|[2507.21544](http://arxiv.org/abs/2507.21544)|
 |**2025-10-03**|**PropRAG: Guiding Retrieval with Beam Search over Proposition Paths**|Jingjin Wang et.al.|[2504.18070_(EMNLP)](http://arxiv.org/abs/2504.18070)|
@@ -61,7 +62,6 @@ _Updated on 2025.10.08_
 |**2025-09-03**|**Explainable Knowledge Graph Retrieval-Augmented Generation (KG-RAG) with KG-SMILE**|Zahra Zehtabi Sabeti Moghaddam et.al.|[2509.03626](http://arxiv.org/abs/2509.03626)|
 |**2025-09-01**|**Towards Open-World Retrieval-Augmented Generation on Knowledge Graph: A Multi-Agent Collaboration Framework**|Jiasheng Xu et.al.|[2509.01238](http://arxiv.org/abs/2509.01238)|
 |**2025-09-01**|**PIR-RAG: A System for Private Information Retrieval in Retrieval-Augmented Generation**|Baiqiang Wang et.al.|[2509.21325](http://arxiv.org/abs/2509.21325)|
-|**2025-08-31**|**Improving Factuality in LLMs via Inference-Time Knowledge Graph Construction**|Shanglin Wu et.al.|[2509.03540](http://arxiv.org/abs/2509.03540)|
 |**2025-08-30**|**KG-RAG: Enhancing GUI Agent Decision-Making via Knowledge Graph-Driven Retrieval-Augmented Generation**|Ziyi Guan et.al.|[2509.00366_(EMNLP)](http://arxiv.org/abs/2509.00366)|
 |**2025-08-29**|**Evaluating Knowledge Graph Based Retrieval Augmented Generation Methods under Knowledge Incompleteness**|Dongzhuoran Zhou et.al.|[2504.05163](http://arxiv.org/abs/2504.05163)|
 |**2025-08-29**|**OpenAIs HealthBench in Action: Evaluating an LLM-Based Medical Assistant on Realistic Clinical Queries**|Sandhanakrishnan Ravichandran et.al.|[2509.02594](http://arxiv.org/abs/2509.02594)|
