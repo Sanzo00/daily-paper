@@ -10,6 +10,7 @@ _Updated on 2025.10.09_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-10-08**|**AudioMarathon: A Comprehensive Benchmark for Long-Context Audio Understanding and Efficiency in Audio LLMs**|Peize He et.al.|[2510.07293](http://arxiv.org/abs/2510.07293)|
 |**2025-10-07**|**VecInfer: Efficient LLM Inference with Low-Bit KV Cache via Outlier-Suppressed Vector Quantization**|Dingyu Yao et.al.|[2510.06175](http://arxiv.org/abs/2510.06175)|
 |**2025-10-07**|**H1B-KV: Hybrid One-Bit Caches for Memory-Efficient Large Language Model Inference**|Harshil Vejendla et.al.|[2510.05529](http://arxiv.org/abs/2510.05529)|
 |**2025-10-06**|**ALE-Bench: A Benchmark for Long-Horizon Objective-Driven Algorithm Engineering**|Yuki Imajuku et.al.|[2506.09050_(NeurIPS)](http://arxiv.org/abs/2506.09050)|
