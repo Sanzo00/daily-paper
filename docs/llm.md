@@ -6,10 +6,11 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2025.10.09_
+_Updated on 2025.10.10_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-10-09**|**Spotlight Attention: Towards Efficient LLM Generation via Non-linear Hashing-based KV Cache Retrieval**|Wenhao Li et.al.|[2508.19740](http://arxiv.org/abs/2508.19740)|
 |**2025-10-08**|**AudioMarathon: A Comprehensive Benchmark for Long-Context Audio Understanding and Efficiency in Audio LLMs**|Peize He et.al.|[2510.07293](http://arxiv.org/abs/2510.07293)|
 |**2025-10-07**|**VecInfer: Efficient LLM Inference with Low-Bit KV Cache via Outlier-Suppressed Vector Quantization**|Dingyu Yao et.al.|[2510.06175](http://arxiv.org/abs/2510.06175)|
 |**2025-10-07**|**H1B-KV: Hybrid One-Bit Caches for Memory-Efficient Large Language Model Inference**|Harshil Vejendla et.al.|[2510.05529](http://arxiv.org/abs/2510.05529)|
@@ -61,7 +62,6 @@ _Updated on 2025.10.09_
 |**2025-09-16**|**FIER: Fine-Grained and Efficient KV Cache Retrieval for Long-context LLM Inference**|Dongwei Wang et.al.|[2508.08256_(EMNLP)](http://arxiv.org/abs/2508.08256)|
 |**2025-09-15**|**Accelerating LLM Inference via Dynamic KV Cache Placement in Heterogeneous Memory System**|Yunhua Fang et.al.|[2508.13231_(CHI)](http://arxiv.org/abs/2508.13231)|
 |**2025-09-15**|**FineServe: Precision-Aware KV Slab and Two-Level Scheduling for Heterogeneous Precision LLM Serving**|Kyungmin Bin et.al.|[2509.06261](http://arxiv.org/abs/2509.06261)|
-|**2025-09-11**|**Spotlight Attention: Towards Efficient LLM Generation via Non-linear Hashing-based KV Cache Retrieval**|Wenhao Li et.al.|[2508.19740](http://arxiv.org/abs/2508.19740)|
 |**2025-09-08**|**Amplifying Effective CXL Memory Bandwidth for LLM Inference via Transparent Near-Data Processing**|Rui Xie et.al.|[2509.03377](http://arxiv.org/abs/2509.03377)|
 |**2025-09-08**|**Revolutionizing Reinforcement Learning Framework for Diffusion Large Language Models**|Yinjie Wang et.al.|[2509.06949](http://arxiv.org/abs/2509.06949)|
 |**2025-09-03**|**ConServe: Fine-Grained GPU Harvesting for LLM Online and Offline Co-Serving**|Yifan Qiao et.al.|[2410.01228](http://arxiv.org/abs/2410.01228)|
