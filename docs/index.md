@@ -13,6 +13,7 @@ _Updated on 2025.10.10_
 |**2025-10-09**|**MAGIC: A Multi-Hop and Graph-Based Benchmark for Inter-Context Conflicts in Retrieval-Augmented Generation**|Jungyeon Lee et.al.|[2507.21544_(EMNLP)](http://arxiv.org/abs/2507.21544)|
 |**2025-10-09**|**Efficient and Transferable Agentic Knowledge Graph RAG via Reinforcement Learning**|Jinyeop Song et.al.|[2509.26383_(ICLR)](http://arxiv.org/abs/2509.26383)|
 |**2025-10-08**|**LAD-RAG: Layout-aware Dynamic RAG for Visually-Rich Document Understanding**|Zhivar Sourati et.al.|[2510.07233](http://arxiv.org/abs/2510.07233)|
+|**2025-10-08**|**Reasoning by Exploration: A Unified Approach to Retrieval and Generation over Graphs**|Haoyu Han et.al.|[2510.07484](http://arxiv.org/abs/2510.07484)|
 |**2025-10-07**|**Diagnosing and Addressing Pitfalls in KG-RAG Datasets: Toward More Reliable Benchmarking**|Liangliang Zhang et.al.|[2505.23495_(NeurIPS)](http://arxiv.org/abs/2505.23495)|
 |**2025-10-07**|**Improving Factuality in LLMs via Inference-Time Knowledge Graph Construction**|Shanglin Wu et.al.|[2509.03540](http://arxiv.org/abs/2509.03540)|
 |**2025-10-07**|**KEO: Knowledge Extraction on OMIn via Knowledge Graphs and RAG for Safety-Critical Aviation Maintenance**|Kuangshi Ai et.al.|[2510.05524](http://arxiv.org/abs/2510.05524)|
