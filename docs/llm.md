@@ -10,6 +10,7 @@ _Updated on 2025.10.13_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-10-10**|**OrcaLoca: An LLM Agent Framework for Software Issue Localization**|Zhongming Yu et.al.|[2502.00350](http://arxiv.org/abs/2502.00350)|
 |**2025-10-09**|**Spotlight Attention: Towards Efficient LLM Generation via Non-linear Hashing-based KV Cache Retrieval**|Wenhao Li et.al.|[2508.19740](http://arxiv.org/abs/2508.19740)|
 |**2025-10-08**|**AudioMarathon: A Comprehensive Benchmark for Long-Context Audio Understanding and Efficiency in Audio LLMs**|Peize He et.al.|[2510.07293](http://arxiv.org/abs/2510.07293)|
 |**2025-10-08**|**AsyncSpade: Efficient Test-Time Scaling with Asynchronous Sparse Decoding**|Shuqing Luo et.al.|[2510.07486](http://arxiv.org/abs/2510.07486)|
@@ -280,7 +281,6 @@ _Updated on 2025.10.13_
 |**2025-02-05**|**Cache-Craft: Managing Chunk-Caches for Efficient Retrieval-Augmented Generation**|Shubham Agarwal et.al.|[2502.15734_(SIGMOD)](http://arxiv.org/abs/2502.15734)|
 |**2025-02-04**|**LightTransfer: Your Long-Context LLM is Secretly a Hybrid Model with Effortless Adaptation**|Xuan Zhang et.al.|[2410.13846](http://arxiv.org/abs/2410.13846)|
 |**2025-02-02**|**RotateKV: Accurate and Robust 2-Bit KV Cache Quantization for LLMs via Outlier-Aware Adaptive Rotations**|Zunhai Su et.al.|[2501.16383](http://arxiv.org/abs/2501.16383)|
-|**2025-02-01**|**OrcaLoca: An LLM Agent Framework for Software Issue Localization**|Zhongming Yu et.al.|[2502.00350](http://arxiv.org/abs/2502.00350)|
 |**2025-01-29**|**vAttention: Dynamic Memory Management for Serving LLMs without PagedAttention**|Ramya Prabhu et.al.|[2405.04437_(ASPLOS)](http://arxiv.org/abs/2405.04437)|
 |**2025-01-29**|**MACI: Multi-Agent Collaborative Intelligence for Adaptive Reasoning and Temporal Planning**|Edward Y. Chang et.al.|[2501.16689](http://arxiv.org/abs/2501.16689)|
 |**2025-01-27**|**PrefixQuant: Eliminating Outliers by Prefixed Tokens for Large Language Models Quantization**|Mengzhao Chen et.al.|[2410.05265](http://arxiv.org/abs/2410.05265)|
