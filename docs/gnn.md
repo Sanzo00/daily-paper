@@ -10,6 +10,7 @@ _Updated on 2025.10.14_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-10-11**|**Learning Joint Embeddings of Function and Process Call Graphs for Malware Detection**|Kartikeya Aneja et.al.|[2510.09984](http://arxiv.org/abs/2510.09984)|
 |**2025-10-01**|**Graph Neural Networks in Large Scale Wireless Communication Networks: Scalability Across Random Geometric Graphs**|Romina Garcia Camargo et.al.|[2510.00896](http://arxiv.org/abs/2510.00896)|
 |**2025-09-21**|**A Scalable Multi-Robot Framework for Decentralized and Asynchronous Perception-Action-Communication Loops**|Saurav Agarwal et.al.|[2309.10164](http://arxiv.org/abs/2309.10164)|
 |**2025-09-18**|**Federated Hypergraph Learning with Local Differential Privacy: Toward Privacy-Aware Hypergraph Structure Completion**|Linfeng Luo et.al.|[2408.05160_(ICDM)](http://arxiv.org/abs/2408.05160)|

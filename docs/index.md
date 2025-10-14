@@ -10,7 +10,11 @@ _Updated on 2025.10.14_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-10-13**|**Query-Specific GNN: A Comprehensive Graph Representation Learning Method for Retrieval Augmented Generation**|Yuchen Yan et.al.|[2510.11541](http://arxiv.org/abs/2510.11541)|
+|**2025-10-12**|**Agentic RAG for Software Testing with Hybrid Vector-Graph and Multi-Agent Orchestration**|Mohanakrishnan Hariharan et.al.|[2510.10824](http://arxiv.org/abs/2510.10824)|
 |**2025-10-11**|**SkewRoute: Training-Free LLM Routing for Knowledge Graph Retrieval-Augmented Generation via Score Skewness of Retrieved Context**|Hairu Wang et.al.|[2505.23841](http://arxiv.org/abs/2505.23841)|
+|**2025-10-11**|**CacheClip: Accelerating RAG with Effective KV Cache Reuse**|Bin Yang et.al.|[2510.10129](http://arxiv.org/abs/2510.10129)|
+|**2025-10-11**|**LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora**|Luyao Zhuang et.al.|[2510.10114](http://arxiv.org/abs/2510.10114)|
 |**2025-10-10**|**Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval**|Yingyi Zhang et.al.|[2510.08935](http://arxiv.org/abs/2510.08935)|
 |**2025-10-09**|**MAGIC: A Multi-Hop and Graph-Based Benchmark for Inter-Context Conflicts in Retrieval-Augmented Generation**|Jungyeon Lee et.al.|[2507.21544_(EMNLP)](http://arxiv.org/abs/2507.21544)|
 |**2025-10-09**|**Efficient and Transferable Agentic Knowledge Graph RAG via Reinforcement Learning**|Jinyeop Song et.al.|[2509.26383_(ICLR)](http://arxiv.org/abs/2509.26383)|

@@ -10,11 +10,16 @@ _Updated on 2025.10.14_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-10-13**|**Not All Bits Are Equal: Scale-Dependent Memory Optimization Strategies for Reasoning Models**|Junhyuck Kim et.al.|[2510.10964](http://arxiv.org/abs/2510.10964)|
+|**2025-10-13**|**Part II: ROLL Flash -- Accelerating RLVR and Agentic Training with Asynchrony**|Han Lu et.al.|[2510.11345](http://arxiv.org/abs/2510.11345)|
+|**2025-10-11**|**CacheClip: Accelerating RAG with Effective KV Cache Reuse**|Bin Yang et.al.|[2510.10129](http://arxiv.org/abs/2510.10129)|
+|**2025-10-11**|**Agentic Troubleshooting Guide Automation for Incident Management**|Jiayi Mao et.al.|[2510.10074](http://arxiv.org/abs/2510.10074)|
 |**2025-10-10**|**OrcaLoca: An LLM Agent Framework for Software Issue Localization**|Zhongming Yu et.al.|[2502.00350](http://arxiv.org/abs/2502.00350)|
 |**2025-10-09**|**Spotlight Attention: Towards Efficient LLM Generation via Non-linear Hashing-based KV Cache Retrieval**|Wenhao Li et.al.|[2508.19740](http://arxiv.org/abs/2508.19740)|
 |**2025-10-08**|**AudioMarathon: A Comprehensive Benchmark for Long-Context Audio Understanding and Efficiency in Audio LLMs**|Peize He et.al.|[2510.07293](http://arxiv.org/abs/2510.07293)|
 |**2025-10-08**|**AsyncSpade: Efficient Test-Time Scaling with Asynchronous Sparse Decoding**|Shuqing Luo et.al.|[2510.07486](http://arxiv.org/abs/2510.07486)|
 |**2025-10-08**|**FLEET: Formal Language-Grounded Scheduling for Heterogeneous Robot Teams**|Corban Rivera et.al.|[2510.07417](http://arxiv.org/abs/2510.07417)|
+|**2025-10-08**|**LMCache: An Efficient KV Cache Layer for Enterprise-Scale LLM Inference**|Yihua Cheng et.al.|[2510.09665](http://arxiv.org/abs/2510.09665)|
 |**2025-10-07**|**VecInfer: Efficient LLM Inference with Low-Bit KV Cache via Outlier-Suppressed Vector Quantization**|Dingyu Yao et.al.|[2510.06175](http://arxiv.org/abs/2510.06175)|
 |**2025-10-07**|**H1B-KV: Hybrid One-Bit Caches for Memory-Efficient Large Language Model Inference**|Harshil Vejendla et.al.|[2510.05529](http://arxiv.org/abs/2510.05529)|
 |**2025-10-06**|**ALE-Bench: A Benchmark for Long-Horizon Objective-Driven Algorithm Engineering**|Yuki Imajuku et.al.|[2506.09050_(NeurIPS)](http://arxiv.org/abs/2506.09050)|
