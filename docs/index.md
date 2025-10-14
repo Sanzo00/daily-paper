@@ -6,10 +6,11 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2025.10.13_
+_Updated on 2025.10.14_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-10-11**|**SkewRoute: Training-Free LLM Routing for Knowledge Graph Retrieval-Augmented Generation via Score Skewness of Retrieved Context**|Hairu Wang et.al.|[2505.23841](http://arxiv.org/abs/2505.23841)|
 |**2025-10-10**|**Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval**|Yingyi Zhang et.al.|[2510.08935](http://arxiv.org/abs/2510.08935)|
 |**2025-10-09**|**MAGIC: A Multi-Hop and Graph-Based Benchmark for Inter-Context Conflicts in Retrieval-Augmented Generation**|Jungyeon Lee et.al.|[2507.21544_(EMNLP)](http://arxiv.org/abs/2507.21544)|
 |**2025-10-09**|**Efficient and Transferable Agentic Knowledge Graph RAG via Reinforcement Learning**|Jinyeop Song et.al.|[2509.26383_(ICLR)](http://arxiv.org/abs/2509.26383)|
@@ -155,7 +156,6 @@ _Updated on 2025.10.13_
 |**2025-05-29**|**SimGRAG: Leveraging Similar Subgraphs for Knowledge Graphs Driven Retrieval-Augmented Generation**|Yuzheng Cai et.al.|[2412.15272_(ACL)](http://arxiv.org/abs/2412.15272)|
 |**2025-05-29**|**Retrieval Augmented Generation based Large Language Models for Causality Mining**|Thushara Manjari Naduvilakandy et.al.|[2505.23944_(ACL)](http://arxiv.org/abs/2505.23944)|
 |**2025-05-29**|**BugRepro: Enhancing Android Bug Reproduction with Domain-Specific Knowledge Integration**|Hongrong Yin et.al.|[2505.14528](http://arxiv.org/abs/2505.14528)|
-|**2025-05-28**|**SkewRoute: Training-Free LLM Routing for Knowledge Graph Retrieval-Augmented Generation via Score Skewness of Retrieved Context**|Hairu Wang et.al.|[2505.23841](http://arxiv.org/abs/2505.23841)|
 |**2025-05-28**|**Walk&Retrieve: Simple Yet Effective Zero-shot Retrieval-Augmented Generation via Knowledge Graph Walks**|Martin Böckling et.al.|[2505.16849_(IR-RAG)](http://arxiv.org/abs/2505.16849)|
 |**2025-05-28**|**Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation**|Shijie Wang et.al.|[2501.02226_(ACL)](http://arxiv.org/abs/2501.02226)|
 |**2025-05-28**|**Rethinking Hybrid Retrieval: When Small Embeddings and LLM Re-ranking Beat Bigger Models**|Arjun Rao et.al.|[2506.00049](http://arxiv.org/abs/2506.00049)|
