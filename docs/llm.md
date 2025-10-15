@@ -6,10 +6,12 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2025.10.14_
+_Updated on 2025.10.15_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-10-14**|**LazyEviction: Lagged KV Eviction with Attention Pattern Observation for Efficient Long Reasoning**|Haoyue Zhang et.al.|[2506.15969](http://arxiv.org/abs/2506.15969)|
+|**2025-10-13**|**MoEs Are Stronger than You Think: Hyper-Parallel Inference Scaling with RoE**|Soheil Zibakhsh et.al.|[2509.17238](http://arxiv.org/abs/2509.17238)|
 |**2025-10-13**|**Not All Bits Are Equal: Scale-Dependent Memory Optimization Strategies for Reasoning Models**|Junhyuck Kim et.al.|[2510.10964](http://arxiv.org/abs/2510.10964)|
 |**2025-10-13**|**Part II: ROLL Flash -- Accelerating RLVR and Agentic Training with Asynchrony**|Han Lu et.al.|[2510.11345](http://arxiv.org/abs/2510.11345)|
 |**2025-10-11**|**CacheClip: Accelerating RAG with Effective KV Cache Reuse**|Bin Yang et.al.|[2510.10129](http://arxiv.org/abs/2510.10129)|
@@ -61,7 +63,6 @@ _Updated on 2025.10.14_
 |**2025-09-22**|**Attention Sinks: A 'Catch, Tag, Release' Mechanism for Embeddings**|Stephen Zhang et.al.|[2502.00919](http://arxiv.org/abs/2502.00919)|
 |**2025-09-22**|**Asteria: Semantic-Aware Cross-Region Caching for Agentic LLM Tool Access**|Chaoyi Ruan et.al.|[2509.17360](http://arxiv.org/abs/2509.17360)|
 |**2025-09-21**|**ShadowServe: Interference-Free KV Cache Fetching for Distributed Prefix Caching**|Xingyu Xiang et.al.|[2509.16857](http://arxiv.org/abs/2509.16857)|
-|**2025-09-21**|**MoEs Are Stronger than You Think: Hyper-Parallel Inference Scaling with RoE**|Soheil Zibakhsh et.al.|[2509.17238](http://arxiv.org/abs/2509.17238)|
 |**2025-09-20**|**EG-MLA: Embedding-Gated Multi-head Latent Attention for Scalable and Efficient LLMs**|Zhengge Cai et.al.|[2509.16686](http://arxiv.org/abs/2509.16686)|
 |**2025-09-20**|**Time to Talk: LLM Agents for Asynchronous Group Communication in Mafia Games**|Niv Eckhaus et.al.|[2506.05309](http://arxiv.org/abs/2506.05309)|
 |**2025-09-19**|**Overhearing LLM Agents: A Survey, Taxonomy, and Roadmap**|Andrew Zhu et.al.|[2509.16325](http://arxiv.org/abs/2509.16325)|
@@ -142,7 +143,6 @@ _Updated on 2025.10.14_
 |**2025-06-26**|**MobiVerse: Scaling Urban Mobility Simulation with Hybrid Lightweight Domain-Specific Generator and Large Language Models**|Yifan Liu et.al.|[2506.21784](http://arxiv.org/abs/2506.21784)|
 |**2025-06-25**|**MAGPIE: A dataset for Multi-AGent contextual PrIvacy Evaluation**|Gurusha Juneja et.al.|[2506.20737](http://arxiv.org/abs/2506.20737)|
 |**2025-06-23**|**RAPID: Long-Context Inference with Retrieval-Augmented Speculative Decoding**|Guanzheng Chen et.al.|[2502.20330_(ICML)](http://arxiv.org/abs/2502.20330)|
-|**2025-06-19**|**LazyEviction: Lagged KV Eviction with Attention Pattern Observation for Efficient Long Reasoning**|Haoyue Zhang et.al.|[2506.15969](http://arxiv.org/abs/2506.15969)|
 |**2025-06-18**|**eLLM: Elastic Memory Management Framework for Efficient LLM Serving**|Jiale Xu et.al.|[2506.15155](http://arxiv.org/abs/2506.15155)|
 |**2025-06-18**|**Medha: Efficiently Serving Multi-Million Context Length LLM Inference Requests Without Approximations**|Amey Agrawal et.al.|[2409.17264](http://arxiv.org/abs/2409.17264)|
 |**2025-06-18**|**Moment Sampling in Video LLMs for Long-Form Video QA**|Mustafa Chasmai et.al.|[2507.00033_(CVPR)](http://arxiv.org/abs/2507.00033)|
