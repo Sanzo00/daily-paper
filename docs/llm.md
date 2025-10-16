@@ -6,11 +6,11 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2025.10.15_
+_Updated on 2025.10.16_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
-|**2025-10-14**|**LazyEviction: Lagged KV Eviction with Attention Pattern Observation for Efficient Long Reasoning**|Haoyue Zhang et.al.|[2506.15969](http://arxiv.org/abs/2506.15969)|
+|**2025-10-15**|**LazyEviction: Lagged KV Eviction with Attention Pattern Observation for Efficient Long Reasoning**|Haoyue Zhang et.al.|[2506.15969](http://arxiv.org/abs/2506.15969)|
 |**2025-10-14**|**Evaluating the Quality of Randomness and Entropy in Tasks Supported by Large Language Models**|Rabimba Karanjai et.al.|[2510.12080](http://arxiv.org/abs/2510.12080)|
 |**2025-10-13**|**MoEs Are Stronger than You Think: Hyper-Parallel Inference Scaling with RoE**|Soheil Zibakhsh et.al.|[2509.17238](http://arxiv.org/abs/2509.17238)|
 |**2025-10-13**|**Not All Bits Are Equal: Scale-Dependent Memory Optimization Strategies for Reasoning Models**|Junhyuck Kim et.al.|[2510.10964](http://arxiv.org/abs/2510.10964)|
