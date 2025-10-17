@@ -11,9 +11,12 @@ _Updated on 2025.10.17_
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
 |**2025-10-16**|**ReMindRAG: Low-Cost LLM-Guided Knowledge Graph Traversal for Efficient RAG**|Yikuan Hu et.al.|[2510.13193_(NeurIPS)](http://arxiv.org/abs/2510.13193)|
+|**2025-10-16**|**Less is More: Denoising Knowledge Graphs For Retrieval Augmented Generation**|Yilun Zheng et.al.|[2510.14271](http://arxiv.org/abs/2510.14271)|
+|**2025-10-16**|**PluriHop: Exhaustive, Recall-Sensitive QA over Distractor-Rich Corpora**|Mykolas Sveistrys et.al.|[2510.14377](http://arxiv.org/abs/2510.14377)|
 |**2025-10-15**|**KG2QA: Knowledge Graph-enhanced Retrieval-augmented Generation for Communication Standards Question Answering**|Zhongze Luo et.al.|[2506.07037](http://arxiv.org/abs/2506.07037)|
 |**2025-10-15**|**RAG Meets Temporal Graphs: Time-Sensitive Modeling and Retrieval for Evolving Knowledge**|Jiale Han et.al.|[2510.13590](http://arxiv.org/abs/2510.13590)|
 |**2025-10-15**|**D-SMART: Enhancing LLM Dialogue Consistency via Dynamic Structured Memory And Reasoning Tree**|Xiang Lei et.al.|[2510.13363](http://arxiv.org/abs/2510.13363)|
+|**2025-10-15**|**Vgent: Graph-based Retrieval-Reasoning-Augmented Generation For Long Video Understanding**|Xiaoqian Shen et.al.|[2510.14032_(NeurIPS)](http://arxiv.org/abs/2510.14032)|
 |**2025-10-13**|**Query-Specific GNN: A Comprehensive Graph Representation Learning Method for Retrieval Augmented Generation**|Yuchen Yan et.al.|[2510.11541](http://arxiv.org/abs/2510.11541)|
 |**2025-10-12**|**Agentic RAG for Software Testing with Hybrid Vector-Graph and Multi-Agent Orchestration**|Mohanakrishnan Hariharan et.al.|[2510.10824](http://arxiv.org/abs/2510.10824)|
 |**2025-10-11**|**SkewRoute: Training-Free LLM Routing for Knowledge Graph Retrieval-Augmented Generation via Score Skewness of Retrieved Context**|Hairu Wang et.al.|[2505.23841](http://arxiv.org/abs/2505.23841)|
