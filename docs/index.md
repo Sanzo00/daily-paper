@@ -6,11 +6,11 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2025.10.16_
+_Updated on 2025.10.17_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
-|**2025-10-15**|**ReMindRAG: Low-Cost LLM-Guided Knowledge Graph Traversal for Efficient RAG**|Yikuan Hu et.al.|[2510.13193](http://arxiv.org/abs/2510.13193)|
+|**2025-10-16**|**ReMindRAG: Low-Cost LLM-Guided Knowledge Graph Traversal for Efficient RAG**|Yikuan Hu et.al.|[2510.13193_(NeurIPS)](http://arxiv.org/abs/2510.13193)|
 |**2025-10-15**|**KG2QA: Knowledge Graph-enhanced Retrieval-augmented Generation for Communication Standards Question Answering**|Zhongze Luo et.al.|[2506.07037](http://arxiv.org/abs/2506.07037)|
 |**2025-10-15**|**RAG Meets Temporal Graphs: Time-Sensitive Modeling and Retrieval for Evolving Knowledge**|Jiale Han et.al.|[2510.13590](http://arxiv.org/abs/2510.13590)|
 |**2025-10-15**|**D-SMART: Enhancing LLM Dialogue Consistency via Dynamic Structured Memory And Reasoning Tree**|Xiang Lei et.al.|[2510.13363](http://arxiv.org/abs/2510.13363)|
