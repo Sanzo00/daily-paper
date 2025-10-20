@@ -10,6 +10,11 @@ _Updated on 2025.10.20_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-10-17**|**Think Parallax: Solving Multi-Hop Problems via Multi-View Knowledge-Graph-Based Retrieval-Augmented Generation**|Jinliang Liu et.al.|[2510.15552](http://arxiv.org/abs/2510.15552)|
+|**2025-10-17**|**AutoGraph-R1: End-to-End Reinforcement Learning for Knowledge Graph Construction**|Hong Ting Tsang et.al.|[2510.15339](http://arxiv.org/abs/2510.15339)|
+|**2025-10-17**|**Fault Cause Identification across Manufacturing Lines through Ontology-Guided and Process-Aware FMEA Graph Learning with LLMs**|Sho Okazaki et.al.|[2510.15428](http://arxiv.org/abs/2510.15428)|
+|**2025-10-17**|**AUGUSTUS: An LLM-Driven Multimodal Agent System with Contextualized User Memory**|Jitesh Jain et.al.|[2510.15261_(NeurIPS)](http://arxiv.org/abs/2510.15261)|
+|**2025-10-17**|**Scaling Beyond Context: A Survey of Multimodal Retrieval-Augmented Generation for Document Understanding**|Sensen Gao et.al.|[2510.15253](http://arxiv.org/abs/2510.15253)|
 |**2025-10-16**|**ReMindRAG: Low-Cost LLM-Guided Knowledge Graph Traversal for Efficient RAG**|Yikuan Hu et.al.|[2510.13193_(NeurIPS)](http://arxiv.org/abs/2510.13193)|
 |**2025-10-16**|**Less is More: Denoising Knowledge Graphs For Retrieval Augmented Generation**|Yilun Zheng et.al.|[2510.14271](http://arxiv.org/abs/2510.14271)|
 |**2025-10-16**|**PluriHop: Exhaustive, Recall-Sensitive QA over Distractor-Rich Corpora**|Mykolas Sveistrys et.al.|[2510.14377](http://arxiv.org/abs/2510.14377)|

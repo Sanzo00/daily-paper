@@ -10,6 +10,7 @@ _Updated on 2025.10.20_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-10-17**|**Accelerating Mobile Language Model Generation via Hybrid Context and Hardware Coordination**|Zhiyang Chen et.al.|[2510.15312](http://arxiv.org/abs/2510.15312)|
 |**2025-10-16**|**xLLM Technical Report**|Tongxuan Liu et.al.|[2510.14686](http://arxiv.org/abs/2510.14686)|
 |**2025-10-16**|**Attention Is All You Need for KV Cache in Diffusion LLMs**|Quan Nguyen-Tri et.al.|[2510.14973](http://arxiv.org/abs/2510.14973)|
 |**2025-10-16**|**Terrarium: Revisiting the Blackboard for Multi-Agent Safety, Privacy, and Security Studies**|Mason Nakamura et.al.|[2510.14312](http://arxiv.org/abs/2510.14312)|
