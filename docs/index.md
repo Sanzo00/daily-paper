@@ -6,12 +6,13 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2025.10.20_
+_Updated on 2025.10.21_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-10-20**|**AutoGraph-R1: End-to-End Reinforcement Learning for Knowledge Graph Construction**|Hong Ting Tsang et.al.|[2510.15339](http://arxiv.org/abs/2510.15339)|
+|**2025-10-18**|**ReaGAN: Node-as-Agent-Reasoning Graph Agentic Network**|Minghao Guo et.al.|[2508.00429](http://arxiv.org/abs/2508.00429)|
 |**2025-10-17**|**Think Parallax: Solving Multi-Hop Problems via Multi-View Knowledge-Graph-Based Retrieval-Augmented Generation**|Jinliang Liu et.al.|[2510.15552](http://arxiv.org/abs/2510.15552)|
-|**2025-10-17**|**AutoGraph-R1: End-to-End Reinforcement Learning for Knowledge Graph Construction**|Hong Ting Tsang et.al.|[2510.15339](http://arxiv.org/abs/2510.15339)|
 |**2025-10-17**|**Fault Cause Identification across Manufacturing Lines through Ontology-Guided and Process-Aware FMEA Graph Learning with LLMs**|Sho Okazaki et.al.|[2510.15428](http://arxiv.org/abs/2510.15428)|
 |**2025-10-17**|**AUGUSTUS: An LLM-Driven Multimodal Agent System with Contextualized User Memory**|Jitesh Jain et.al.|[2510.15261_(NeurIPS)](http://arxiv.org/abs/2510.15261)|
 |**2025-10-17**|**Scaling Beyond Context: A Survey of Multimodal Retrieval-Augmented Generation for Document Understanding**|Sensen Gao et.al.|[2510.15253](http://arxiv.org/abs/2510.15253)|
@@ -105,7 +106,6 @@ _Updated on 2025.10.20_
 |**2025-08-12**|**AgriGPT: a Large Language Model Ecosystem for Agriculture**|Bo Yang et.al.|[2508.08632](http://arxiv.org/abs/2508.08632)|
 |**2025-08-11**|**DAGR: Decomposition Augmented Graph Retrieval with LLMs**|Valentin Six et.al.|[2506.13380](http://arxiv.org/abs/2506.13380)|
 |**2025-08-11**|**Reviewing Clinical Knowledge in Medical Large Language Models: Training and Beyond**|Qiyuan Li et.al.|[2502.20988](http://arxiv.org/abs/2502.20988)|
-|**2025-08-11**|**ReaGAN: Node-as-Agent-Reasoning Graph Agentic Network**|Minghao Guo et.al.|[2508.00429](http://arxiv.org/abs/2508.00429)|
 |**2025-08-11**|**PersonalAI: A Systematic Comparison of Knowledge Graph Storage and Retrieval Approaches for Personalized LLM agents**|Mikhail Menschikov et.al.|[2506.17001](http://arxiv.org/abs/2506.17001)|
 |**2025-08-10**|**DySK-Attn: A Framework for Efficient, Real-Time Knowledge Updating in Large Language Models via Dynamic Sparse Knowledge Attention**|Kabir Khan et.al.|[2508.07185](http://arxiv.org/abs/2508.07185)|
 |**2025-08-09**|**Leaps Beyond the Seen: Reinforced Reasoning Augmented Generation for Clinical Notes**|Lo Pang-Yun Ting et.al.|[2506.05386](http://arxiv.org/abs/2506.05386)|
