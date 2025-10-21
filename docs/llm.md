@@ -11,9 +11,14 @@ _Updated on 2025.10.21_
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
 |**2025-10-20**|**Accelerating Mobile Language Model via Speculative Decoding and NPU-Coordinated Execution**|Zhiyang Chen et.al.|[2510.15312](http://arxiv.org/abs/2510.15312)|
+|**2025-10-20**|**Can Transformer Memory Be Corrupted? Investigating Cache-Side Vulnerabilities in Large Language Models**|Elias Hossain et.al.|[2510.17098](http://arxiv.org/abs/2510.17098)|
+|**2025-10-20**|**StreamingThinker: Large Language Models Can Think While Reading**|Junlong Tong et.al.|[2510.17238](http://arxiv.org/abs/2510.17238)|
+|**2025-10-19**|**STARK: Strategic Team of Agents for Refining Kernels**|Juncheng Dong et.al.|[2510.16996](http://arxiv.org/abs/2510.16996)|
+|**2025-10-18**|**Ripple Effect Protocol: Coordinating Agent Populations**|Ayush Chopra et.al.|[2510.16572](http://arxiv.org/abs/2510.16572)|
 |**2025-10-16**|**xLLM Technical Report**|Tongxuan Liu et.al.|[2510.14686](http://arxiv.org/abs/2510.14686)|
 |**2025-10-16**|**Attention Is All You Need for KV Cache in Diffusion LLMs**|Quan Nguyen-Tri et.al.|[2510.14973](http://arxiv.org/abs/2510.14973)|
 |**2025-10-16**|**Terrarium: Revisiting the Blackboard for Multi-Agent Safety, Privacy, and Security Studies**|Mason Nakamura et.al.|[2510.14312](http://arxiv.org/abs/2510.14312)|
+|**2025-10-16**|**Kelle: Co-design KV Caching and eDRAM for Efficient LLM Serving in Edge Computing**|Tianhua Xia et.al.|[2510.16040](http://arxiv.org/abs/2510.16040)|
 |**2025-10-15**|**LazyEviction: Lagged KV Eviction with Attention Pattern Observation for Efficient Long Reasoning**|Haoyue Zhang et.al.|[2506.15969](http://arxiv.org/abs/2506.15969)|
 |**2025-10-15**|**BanaServe: Unified KV Cache and Dynamic Module Migration for Balancing Disaggregated LLM Serving in AI Infrastructure**|Yiyuan He et.al.|[2510.13223](http://arxiv.org/abs/2510.13223)|
 |**2025-10-15**|**Less is More: Improving LLM Reasoning with Minimal Test-Time Intervention**|Zhen Yang et.al.|[2510.13940](http://arxiv.org/abs/2510.13940)|

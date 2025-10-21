@@ -11,7 +11,11 @@ _Updated on 2025.10.21_
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
 |**2025-10-20**|**AutoGraph-R1: End-to-End Reinforcement Learning for Knowledge Graph Construction**|Hong Ting Tsang et.al.|[2510.15339](http://arxiv.org/abs/2510.15339)|
+|**2025-10-20**|**Executable Knowledge Graphs for Replicating AI Research**|Yujie Luo et.al.|[2510.17795](http://arxiv.org/abs/2510.17795)|
 |**2025-10-18**|**ReaGAN: Node-as-Agent-Reasoning Graph Agentic Network**|Minghao Guo et.al.|[2508.00429](http://arxiv.org/abs/2508.00429)|
+|**2025-10-18**|**Can Knowledge-Graph-based Retrieval Augmented Generation Really Retrieve What You Need?**|Junchi Yu et.al.|[2510.16582_(NeurIPS)](http://arxiv.org/abs/2510.16582)|
+|**2025-10-18**|**DTKG: Dual-Track Knowledge Graph-Verified Reasoning Framework for Multi-Hop QA**|Changhao Wang et.al.|[2510.16302](http://arxiv.org/abs/2510.16302)|
+|**2025-10-18**|**Prior Makes It Possible: From Sublinear Graph Algorithms to LLM Test-Time Methods**|Avrim Blum et.al.|[2510.16609](http://arxiv.org/abs/2510.16609)|
 |**2025-10-17**|**Think Parallax: Solving Multi-Hop Problems via Multi-View Knowledge-Graph-Based Retrieval-Augmented Generation**|Jinliang Liu et.al.|[2510.15552](http://arxiv.org/abs/2510.15552)|
 |**2025-10-17**|**Fault Cause Identification across Manufacturing Lines through Ontology-Guided and Process-Aware FMEA Graph Learning with LLMs**|Sho Okazaki et.al.|[2510.15428](http://arxiv.org/abs/2510.15428)|
 |**2025-10-17**|**AUGUSTUS: An LLM-Driven Multimodal Agent System with Contextualized User Memory**|Jitesh Jain et.al.|[2510.15261_(NeurIPS)](http://arxiv.org/abs/2510.15261)|
