@@ -6,10 +6,11 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2025.10.21_
+_Updated on 2025.10.22_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-10-21**|**The Early Bird Catches the Leak: Unveiling Timing Side Channels in LLM Serving Systems**|Linke Song et.al.|[2409.20002_(ICS)](http://arxiv.org/abs/2409.20002)|
 |**2025-10-20**|**Accelerating Mobile Language Model via Speculative Decoding and NPU-Coordinated Execution**|Zhiyang Chen et.al.|[2510.15312](http://arxiv.org/abs/2510.15312)|
 |**2025-10-20**|**Can Transformer Memory Be Corrupted? Investigating Cache-Side Vulnerabilities in Large Language Models**|Elias Hossain et.al.|[2510.17098](http://arxiv.org/abs/2510.17098)|
 |**2025-10-20**|**StreamingThinker: Large Language Models Can Think While Reading**|Junlong Tong et.al.|[2510.17238](http://arxiv.org/abs/2510.17238)|
@@ -111,7 +112,6 @@ _Updated on 2025.10.21_
 |**2025-08-14**|**SurfaceLogicKV: Surface and Logic Attention Behaviors are All You Need for Robust KV Cache Compression**|Mengjie Li et.al.|[2508.15806](http://arxiv.org/abs/2508.15806)|
 |**2025-08-14**|**ASPD: Unlocking Adaptive Serial-Parallel Decoding by Exploring Intrinsic Parallelism in LLMs**|Keyu Chen et.al.|[2508.08895](http://arxiv.org/abs/2508.08895)|
 |**2025-08-14**|**FreeKV: Boosting KV Cache Retrieval for Efficient LLM Inference**|Guangda Liu et.al.|[2505.13109](http://arxiv.org/abs/2505.13109)|
-|**2025-08-13**|**The Early Bird Catches the Leak: Unveiling Timing Side Channels in LLM Serving Systems**|Linke Song et.al.|[2409.20002_(DATE)](http://arxiv.org/abs/2409.20002)|
 |**2025-08-12**|**Retrospective Sparse Attention for Efficient Long-Context Generation**|Seonghwan Choi et.al.|[2508.09001](http://arxiv.org/abs/2508.09001)|
 |**2025-08-12**|**Chimera: Harnessing Multi-Agent LLMs for Automatic Insider Threat Simulation**|Jiongchi Yu et.al.|[2508.07745](http://arxiv.org/abs/2508.07745)|
 |**2025-08-12**|**AIOS: LLM Agent Operating System**|Kai Mei et.al.|[2403.16971](http://arxiv.org/abs/2403.16971)|
