@@ -12,6 +12,7 @@ _Updated on 2025.10.22_
 |:-------------|:------|:--------|:----|
 |**2025-10-20**|**AutoGraph-R1: End-to-End Reinforcement Learning for Knowledge Graph Construction**|Hong Ting Tsang et.al.|[2510.15339](http://arxiv.org/abs/2510.15339)|
 |**2025-10-20**|**Executable Knowledge Graphs for Replicating AI Research**|Yujie Luo et.al.|[2510.17795](http://arxiv.org/abs/2510.17795)|
+|**2025-10-20**|**AtlasKV: Augmenting LLMs with Billion-Scale Knowledge Graphs in 20GB VRAM**|Haoyu Huang et.al.|[2510.17934](http://arxiv.org/abs/2510.17934)|
 |**2025-10-18**|**ReaGAN: Node-as-Agent-Reasoning Graph Agentic Network**|Minghao Guo et.al.|[2508.00429](http://arxiv.org/abs/2508.00429)|
 |**2025-10-18**|**Can Knowledge-Graph-based Retrieval Augmented Generation Really Retrieve What You Need?**|Junchi Yu et.al.|[2510.16582_(NeurIPS)](http://arxiv.org/abs/2510.16582)|
 |**2025-10-18**|**DTKG: Dual-Track Knowledge Graph-Verified Reasoning Framework for Multi-Hop QA**|Changhao Wang et.al.|[2510.16302](http://arxiv.org/abs/2510.16302)|

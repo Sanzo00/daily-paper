@@ -11,6 +11,11 @@ _Updated on 2025.10.22_
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
 |**2025-10-21**|**The Early Bird Catches the Leak: Unveiling Timing Side Channels in LLM Serving Systems**|Linke Song et.al.|[2409.20002_(ICS)](http://arxiv.org/abs/2409.20002)|
+|**2025-10-21**|**Reasoning Language Model Inference Serving Unveiled: An Empirical Study**|Qi Li et.al.|[2510.18672](http://arxiv.org/abs/2510.18672)|
+|**2025-10-21**|**Tokencake: A KV-Cache-centric Serving Framework for LLM-based Multi-Agent Applications**|Zhuohang Bian et.al.|[2510.18586](http://arxiv.org/abs/2510.18586)|
+|**2025-10-21**|**EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval**|Zebin Yang et.al.|[2510.18546_(NeurIPS)](http://arxiv.org/abs/2510.18546)|
+|**2025-10-21**|**StreamingTOM: Streaming Token Compression for Efficient Video Understanding**|Xueyi Chen et.al.|[2510.18269](http://arxiv.org/abs/2510.18269)|
+|**2025-10-21**|**The Trust Paradox in LLM-Based Multi-Agent Systems: When Collaboration Becomes a Security Vulnerability**|Zijie Xu et.al.|[2510.18563](http://arxiv.org/abs/2510.18563)|
 |**2025-10-20**|**Accelerating Mobile Language Model via Speculative Decoding and NPU-Coordinated Execution**|Zhiyang Chen et.al.|[2510.15312](http://arxiv.org/abs/2510.15312)|
 |**2025-10-20**|**Can Transformer Memory Be Corrupted? Investigating Cache-Side Vulnerabilities in Large Language Models**|Elias Hossain et.al.|[2510.17098](http://arxiv.org/abs/2510.17098)|
 |**2025-10-20**|**StreamingThinker: Large Language Models Can Think While Reading**|Junlong Tong et.al.|[2510.17238](http://arxiv.org/abs/2510.17238)|
@@ -68,6 +73,7 @@ _Updated on 2025.10.22_
 |**2025-09-26**|**Bottlenecked Transformers: Periodic KV Cache Consolidation for Generalised Reasoning**|Adnan Oomerjee et.al.|[2505.16950](http://arxiv.org/abs/2505.16950)|
 |**2025-09-26**|**ProRe: A Proactive Reward System for GUI Agents via Reasoner-Actor Collaboration**|Gaole Dai et.al.|[2509.21823](http://arxiv.org/abs/2509.21823)|
 |**2025-09-26**|**Solving the Granularity Mismatch: Hierarchical Preference Learning for Long-Horizon LLM Agents**|Heyang Gao et.al.|[2510.03253](http://arxiv.org/abs/2510.03253)|
+|**2025-09-26**|**LLM Assisted Alpha Fairness for 6 GHz WiFi and NR_U Coexistence: An Agentic Orchestrator for Throughput, Energy, and SLA**|Qun Wang et.al.|[2510.17814](http://arxiv.org/abs/2510.17814)|
 |**2025-09-25**|**HyperFlexis: Joint Design of Algorithms and Systems for Multi-SLO Serving and Fast Scaling**|Zahra Yousefijamarani et.al.|[2508.15919](http://arxiv.org/abs/2508.15919)|
 |**2025-09-25**|**InComeS: Integrating Compression and Selection Mechanisms into LLMs for Efficient Model Editing**|Shuaiyi Li et.al.|[2505.22156](http://arxiv.org/abs/2505.22156)|
 |**2025-09-25**|**Nova: Real-Time Agentic Vision-Language Model Serving with Adaptive Cross-Stage Parallelization**|Yuhang Xu et.al.|[2509.21301](http://arxiv.org/abs/2509.21301)|
