@@ -10,6 +10,8 @@ _Updated on 2025.10.23_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-10-22**|**CoSense-LLM: Semantics at the Edge with Cost- and Uncertainty-Aware Cloud-Edge Cooperation**|Hasan Akgul et.al.|[2510.19670](http://arxiv.org/abs/2510.19670)|
+|**2025-10-22**|**PTFA: An LLM-based Agent that Facilitates Online Consensus Building through Parallel Thinking**|Wen Gu et.al.|[2503.12499](http://arxiv.org/abs/2503.12499)|
 |**2025-10-21**|**The Early Bird Catches the Leak: Unveiling Timing Side Channels in LLM Serving Systems**|Linke Song et.al.|[2409.20002_(ICS)](http://arxiv.org/abs/2409.20002)|
 |**2025-10-21**|**Reasoning Language Model Inference Serving Unveiled: An Empirical Study**|Qi Li et.al.|[2510.18672](http://arxiv.org/abs/2510.18672)|
 |**2025-10-21**|**Tokencake: A KV-Cache-centric Serving Framework for LLM-based Multi-Agent Applications**|Zhuohang Bian et.al.|[2510.18586](http://arxiv.org/abs/2510.18586)|

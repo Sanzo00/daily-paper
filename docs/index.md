@@ -10,6 +10,8 @@ _Updated on 2025.10.23_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-10-22**|**CoSense-LLM: Semantics at the Edge with Cost- and Uncertainty-Aware Cloud-Edge Cooperation**|Hasan Akgul et.al.|[2510.19670](http://arxiv.org/abs/2510.19670)|
+|**2025-10-22**|**Interpretable Question Answering with Knowledge Graphs**|Kartikeya Aneja et.al.|[2510.19181](http://arxiv.org/abs/2510.19181)|
 |**2025-10-20**|**AutoGraph-R1: End-to-End Reinforcement Learning for Knowledge Graph Construction**|Hong Ting Tsang et.al.|[2510.15339](http://arxiv.org/abs/2510.15339)|
 |**2025-10-20**|**Executable Knowledge Graphs for Replicating AI Research**|Yujie Luo et.al.|[2510.17795](http://arxiv.org/abs/2510.17795)|
 |**2025-10-20**|**AtlasKV: Augmenting LLMs with Billion-Scale Knowledge Graphs in 20GB VRAM**|Haoyu Huang et.al.|[2510.17934](http://arxiv.org/abs/2510.17934)|
