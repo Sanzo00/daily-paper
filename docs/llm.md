@@ -13,6 +13,7 @@ _Updated on 2025.10.27_
 |**2025-10-24**|**Reasoning Path Compression: Compressing Generation Trajectories for Efficient LLM Reasoning**|Jiwon Song et.al.|[2505.13866](http://arxiv.org/abs/2505.13866)|
 |**2025-10-23**|**Not All Heads Matter: A Head-Level KV Cache Compression Method with Integrated Retrieval and Reasoning**|Yu Fu et.al.|[2410.19258_(ICLR)](http://arxiv.org/abs/2410.19258)|
 |**2025-10-23**|**Accelerating Mobile Language Model via Speculative Decoding and NPU-Coordinated Execution**|Zhiyang Chen et.al.|[2510.15312](http://arxiv.org/abs/2510.15312)|
+|**2025-10-23**|**HA-RAG: Hotness-Aware RAG Acceleration via Mixed Precision and Data Placement**|Danying Ge et.al.|[2510.20878](http://arxiv.org/abs/2510.20878)|
 |**2025-10-22**|**CoSense-LLM: Semantics at the Edge with Cost- and Uncertainty-Aware Cloud-Edge Cooperation**|Hasan Akgul et.al.|[2510.19670](http://arxiv.org/abs/2510.19670)|
 |**2025-10-22**|**PTFA: An LLM-based Agent that Facilitates Online Consensus Building through Parallel Thinking**|Wen Gu et.al.|[2503.12499](http://arxiv.org/abs/2503.12499)|
 |**2025-10-21**|**The Early Bird Catches the Leak: Unveiling Timing Side Channels in LLM Serving Systems**|Linke Song et.al.|[2409.20002_(ICS)](http://arxiv.org/abs/2409.20002)|
