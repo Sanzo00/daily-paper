@@ -6,10 +6,12 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2025.10.27_
+_Updated on 2025.10.28_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-10-27**|**LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora**|Luyao Zhuang et.al.|[2510.10114](http://arxiv.org/abs/2510.10114)|
+|**2025-10-25**|**Query Expansion in the Age of Pre-trained and Large Language Models: A Comprehensive Survey**|Minghan Li et.al.|[2509.07794](http://arxiv.org/abs/2509.07794)|
 |**2025-10-23**|**MultiHal: Multilingual Dataset for Knowledge-Graph Grounded Evaluation of LLM Hallucinations**|Ernests Lavrinovics et.al.|[2505.14101](http://arxiv.org/abs/2505.14101)|
 |**2025-10-23**|**HA-RAG: Hotness-Aware RAG Acceleration via Mixed Precision and Data Placement**|Danying Ge et.al.|[2510.20878](http://arxiv.org/abs/2510.20878)|
 |**2025-10-22**|**CoSense-LLM: Semantics at the Edge with Cost- and Uncertainty-Aware Cloud-Edge Cooperation**|Hasan Akgul et.al.|[2510.19670](http://arxiv.org/abs/2510.19670)|
@@ -36,7 +38,6 @@ _Updated on 2025.10.27_
 |**2025-10-12**|**Agentic RAG for Software Testing with Hybrid Vector-Graph and Multi-Agent Orchestration**|Mohanakrishnan Hariharan et.al.|[2510.10824](http://arxiv.org/abs/2510.10824)|
 |**2025-10-11**|**SkewRoute: Training-Free LLM Routing for Knowledge Graph Retrieval-Augmented Generation via Score Skewness of Retrieved Context**|Hairu Wang et.al.|[2505.23841](http://arxiv.org/abs/2505.23841)|
 |**2025-10-11**|**CacheClip: Accelerating RAG with Effective KV Cache Reuse**|Bin Yang et.al.|[2510.10129](http://arxiv.org/abs/2510.10129)|
-|**2025-10-11**|**LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora**|Luyao Zhuang et.al.|[2510.10114](http://arxiv.org/abs/2510.10114)|
 |**2025-10-10**|**Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval**|Yingyi Zhang et.al.|[2510.08935](http://arxiv.org/abs/2510.08935)|
 |**2025-10-09**|**MAGIC: A Multi-Hop and Graph-Based Benchmark for Inter-Context Conflicts in Retrieval-Augmented Generation**|Jungyeon Lee et.al.|[2507.21544_(EMNLP)](http://arxiv.org/abs/2507.21544)|
 |**2025-10-09**|**Efficient and Transferable Agentic Knowledge Graph RAG via Reinforcement Learning**|Jinyeop Song et.al.|[2509.26383_(ICLR)](http://arxiv.org/abs/2509.26383)|
@@ -79,7 +80,6 @@ _Updated on 2025.10.27_
 |**2025-09-15**|**Graph-Enhanced Retrieval-Augmented Question Answering for E-Commerce Customer Support**|Piyushkumar Patel et.al.|[2509.14267](http://arxiv.org/abs/2509.14267)|
 |**2025-09-12**|**HetaRAG: Hybrid Deep Retrieval-Augmented Generation across Heterogeneous Data Stores**|Guohang Yan et.al.|[2509.21336](http://arxiv.org/abs/2509.21336)|
 |**2025-09-11**|**Fusing Knowledge and Language: A Comparative Study of Knowledge Graph-Based Question Answering with LLMs**|Vaibhav Chaudhary et.al.|[2509.09272](http://arxiv.org/abs/2509.09272)|
-|**2025-09-09**|**Query Expansion in the Age of Pre-trained and Large Language Models: A Comprehensive Survey**|Minghan Li et.al.|[2509.07794](http://arxiv.org/abs/2509.07794)|
 |**2025-09-09**|**KLIPA: A Knowledge Graph and LLM-Driven QA Framework for IP Analysis**|Guanzhi Deng et.al.|[2509.07860](http://arxiv.org/abs/2509.07860)|
 |**2025-09-09**|**Aligning LLMs for the Classroom with Knowledge-Based Retrieval -- A Comparative RAG Study**|Amay Jain et.al.|[2509.07846](http://arxiv.org/abs/2509.07846)|
 |**2025-09-08**|**Seeing the Forest Through the Trees: Knowledge Retrieval for Streamlining Particle Physics Analysis**|James McGreivy et.al.|[2509.06855](http://arxiv.org/abs/2509.06855)|
