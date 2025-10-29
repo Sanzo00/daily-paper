@@ -10,6 +10,8 @@ _Updated on 2025.10.29_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-10-28**|**Pie: A Programmable Serving System for Emerging LLM Applications**|In Gim et.al.|[2510.24051_(SOSP)](http://arxiv.org/abs/2510.24051)|
+|**2025-10-28**|**Improving LLM Reasoning via Dependency-Aware Query Decomposition and Logic-Parallel Content Expansion**|Xianjun Gao et.al.|[2510.24390](http://arxiv.org/abs/2510.24390)|
 |**2025-10-26**|**Batch Speculative Decoding Done Right**|Ranran Haoran Zhang et.al.|[2510.22876](http://arxiv.org/abs/2510.22876)|
 |**2025-10-26**|**SABlock: Semantic-Aware KV Cache Eviction with Adaptive Compression Block Size**|Jinhan Chen et.al.|[2510.22556](http://arxiv.org/abs/2510.22556)|
 |**2025-10-26**|**SwiftSolve: A Self-Iterative, Complexity-Aware Multi-Agent Framework for Competitive Programming**|Adhyayan Veer Singh et.al.|[2510.22626](http://arxiv.org/abs/2510.22626)|
