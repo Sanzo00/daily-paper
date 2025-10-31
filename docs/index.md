@@ -11,6 +11,7 @@ _Updated on 2025.10.31_
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
 |**2025-10-30**|**TERAG: Token-Efficient Graph-Based Retrieval-Augmented Generation**|Qiao Xiao et.al.|[2509.18667_(CHI)](http://arxiv.org/abs/2509.18667)|
+|**2025-10-30**|**GraphCompliance: Aligning Policy and Context Graphs for LLM-Based Regulatory Compliance**|Jiseong Chung et.al.|[2510.26309_(ICS)](http://arxiv.org/abs/2510.26309)|
 |**2025-10-28**|**LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora**|Luyao Zhuang et.al.|[2510.10114](http://arxiv.org/abs/2510.10114)|
 |**2025-10-28**|**Graph-Guided Concept Selection for Efficient Retrieval-Augmented Generation**|Ziyu Liu et.al.|[2510.24120](http://arxiv.org/abs/2510.24120)|
 |**2025-10-26**|**Batch Speculative Decoding Done Right**|Ranran Haoran Zhang et.al.|[2510.22876](http://arxiv.org/abs/2510.22876)|

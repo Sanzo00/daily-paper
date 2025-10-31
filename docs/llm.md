@@ -10,6 +10,7 @@ _Updated on 2025.10.31_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-10-30**|**Agentic AI Home Energy Management System: A Large Language Model Framework for Residential Load Scheduling**|Reda El Makroum et.al.|[2510.26603](http://arxiv.org/abs/2510.26603)|
 |**2025-10-29**|**Oneiros: KV Cache Optimization through Parameter Remapping for Multi-tenant LLM Serving**|Ruihao Li et.al.|[2507.11507](http://arxiv.org/abs/2507.11507)|
 |**2025-10-29**|**Serve Programs, Not Prompts**|In Gim et.al.|[2510.25412_(HotOS)](http://arxiv.org/abs/2510.25412)|
 |**2025-10-29**|**KnowCoder-A1: Incentivizing Agentic Reasoning Capability with Outcome Supervision for KBQA**|Zhuo Chen et.al.|[2510.25101](http://arxiv.org/abs/2510.25101)|
