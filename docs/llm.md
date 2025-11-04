@@ -6,10 +6,11 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2025.11.03_
+_Updated on 2025.11.04_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-11-01**|**KVCOMM: Online Cross-context KV-cache Communication for Efficient LLM-based Multi-agent Systems**|Hancheng Ye et.al.|[2510.12872_(FAST)](http://arxiv.org/abs/2510.12872)|
 |**2025-10-31**|**Tokencake: A KV-Cache-centric Serving Framework for LLM-based Multi-Agent Applications**|Zhuohang Bian et.al.|[2510.18586](http://arxiv.org/abs/2510.18586)|
 |**2025-10-31**|**Glia: A Human-Inspired AI for Automated Systems Design and Optimization**|Pouya Hamadanian et.al.|[2510.27176](http://arxiv.org/abs/2510.27176)|
 |**2025-10-30**|**Agentic AI Home Energy Management System: A Large Language Model Framework for Residential Load Scheduling**|Reda El Makroum et.al.|[2510.26603](http://arxiv.org/abs/2510.26603)|
@@ -46,7 +47,6 @@ _Updated on 2025.11.03_
 |**2025-10-15**|**Less is More: Improving LLM Reasoning with Minimal Test-Time Intervention**|Zhen Yang et.al.|[2510.13940](http://arxiv.org/abs/2510.13940)|
 |**2025-10-15**|**Cortex: Workflow-Aware Resource Pooling and Scheduling for Agentic Serving**|Nikos Pagonas et.al.|[2510.14126](http://arxiv.org/abs/2510.14126)|
 |**2025-10-14**|**Evaluating the Quality of Randomness and Entropy in Tasks Supported by Large Language Models**|Rabimba Karanjai et.al.|[2510.12080](http://arxiv.org/abs/2510.12080)|
-|**2025-10-14**|**KVCOMM: Online Cross-context KV-cache Communication for Efficient LLM-based Multi-agent Systems**|Hancheng Ye et.al.|[2510.12872_(NeurIPS)](http://arxiv.org/abs/2510.12872)|
 |**2025-10-13**|**MoEs Are Stronger than You Think: Hyper-Parallel Inference Scaling with RoE**|Soheil Zibakhsh et.al.|[2509.17238](http://arxiv.org/abs/2509.17238)|
 |**2025-10-13**|**Not All Bits Are Equal: Scale-Dependent Memory Optimization Strategies for Reasoning Models**|Junhyuck Kim et.al.|[2510.10964](http://arxiv.org/abs/2510.10964)|
 |**2025-10-13**|**Part II: ROLL Flash -- Accelerating RLVR and Agentic Training with Asynchrony**|Han Lu et.al.|[2510.11345](http://arxiv.org/abs/2510.11345)|
