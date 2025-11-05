@@ -11,6 +11,8 @@ _Updated on 2025.11.05_
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
 |**2025-11-03**|**Diagnosing and Addressing Pitfalls in KG-RAG Datasets: Toward More Reliable Benchmarking**|Liangliang Zhang et.al.|[2505.23495_(NeurIPS)](http://arxiv.org/abs/2505.23495)|
+|**2025-11-03**|**A Graph-based RAG for Energy Efficiency Question Answering**|Riccardo Campi et.al.|[2511.01643](http://arxiv.org/abs/2511.01643)|
+|**2025-11-03**|**PROPEX-RAG: Enhanced GraphRAG using Prompt-Driven Prompt Execution**|Tejas Sarnaik et.al.|[2511.01802](http://arxiv.org/abs/2511.01802)|
 |**2025-10-30**|**TERAG: Token-Efficient Graph-Based Retrieval-Augmented Generation**|Qiao Xiao et.al.|[2509.18667_(CHI)](http://arxiv.org/abs/2509.18667)|
 |**2025-10-30**|**GraphCompliance: Aligning Policy and Context Graphs for LLM-Based Regulatory Compliance**|Jiseong Chung et.al.|[2510.26309_(ICS)](http://arxiv.org/abs/2510.26309)|
 |**2025-10-28**|**LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora**|Luyao Zhuang et.al.|[2510.10114](http://arxiv.org/abs/2510.10114)|
