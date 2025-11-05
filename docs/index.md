@@ -6,10 +6,11 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2025.11.04_
+_Updated on 2025.11.05_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-11-03**|**Diagnosing and Addressing Pitfalls in KG-RAG Datasets: Toward More Reliable Benchmarking**|Liangliang Zhang et.al.|[2505.23495_(NeurIPS)](http://arxiv.org/abs/2505.23495)|
 |**2025-10-30**|**TERAG: Token-Efficient Graph-Based Retrieval-Augmented Generation**|Qiao Xiao et.al.|[2509.18667_(CHI)](http://arxiv.org/abs/2509.18667)|
 |**2025-10-30**|**GraphCompliance: Aligning Policy and Context Graphs for LLM-Based Regulatory Compliance**|Jiseong Chung et.al.|[2510.26309_(ICS)](http://arxiv.org/abs/2510.26309)|
 |**2025-10-28**|**LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora**|Luyao Zhuang et.al.|[2510.10114](http://arxiv.org/abs/2510.10114)|
@@ -47,7 +48,6 @@ _Updated on 2025.11.04_
 |**2025-10-09**|**Efficient and Transferable Agentic Knowledge Graph RAG via Reinforcement Learning**|Jinyeop Song et.al.|[2509.26383_(ICLR)](http://arxiv.org/abs/2509.26383)|
 |**2025-10-08**|**LAD-RAG: Layout-aware Dynamic RAG for Visually-Rich Document Understanding**|Zhivar Sourati et.al.|[2510.07233](http://arxiv.org/abs/2510.07233)|
 |**2025-10-08**|**Reasoning by Exploration: A Unified Approach to Retrieval and Generation over Graphs**|Haoyu Han et.al.|[2510.07484](http://arxiv.org/abs/2510.07484)|
-|**2025-10-07**|**Diagnosing and Addressing Pitfalls in KG-RAG Datasets: Toward More Reliable Benchmarking**|Liangliang Zhang et.al.|[2505.23495_(NeurIPS)](http://arxiv.org/abs/2505.23495)|
 |**2025-10-07**|**Improving Factuality in LLMs via Inference-Time Knowledge Graph Construction**|Shanglin Wu et.al.|[2509.03540](http://arxiv.org/abs/2509.03540)|
 |**2025-10-07**|**KEO: Knowledge Extraction on OMIn via Knowledge Graphs and RAG for Safety-Critical Aviation Maintenance**|Kuangshi Ai et.al.|[2510.05524](http://arxiv.org/abs/2510.05524)|
 |**2025-10-07**|**Mnemosyne: An Unsupervised, Human-Inspired Long-Term Memory Architecture for Edge-Based LLMs**|Aneesh Jonelagadda et.al.|[2510.08601](http://arxiv.org/abs/2510.08601)|
