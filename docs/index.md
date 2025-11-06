@@ -11,6 +11,7 @@ _Updated on 2025.11.06_
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
 |**2025-11-05**|**Beyond Single Pass, Looping Through Time: KG-IRAG with Iterative Knowledge Retrieval**|Ruiyi Yang et.al.|[2503.14234](http://arxiv.org/abs/2503.14234)|
+|**2025-11-05**|**LGM: Enhancing Large Language Models with Conceptual Meta-Relations and Iterative Retrieval**|Wenchang Lei et.al.|[2511.03214](http://arxiv.org/abs/2511.03214)|
 |**2025-11-03**|**Diagnosing and Addressing Pitfalls in KG-RAG Datasets: Toward More Reliable Benchmarking**|Liangliang Zhang et.al.|[2505.23495_(NeurIPS)](http://arxiv.org/abs/2505.23495)|
 |**2025-11-03**|**A Graph-based RAG for Energy Efficiency Question Answering**|Riccardo Campi et.al.|[2511.01643](http://arxiv.org/abs/2511.01643)|
 |**2025-11-03**|**PROPEX-RAG: Enhanced GraphRAG using Prompt-Driven Prompt Execution**|Tejas Sarnaik et.al.|[2511.01802](http://arxiv.org/abs/2511.01802)|

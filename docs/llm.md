@@ -10,6 +10,9 @@ _Updated on 2025.11.06_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-11-05**|**FREESH: Fair, Resource- and Energy-Efficient Scheduling for LLM Serving on Heterogeneous GPUs**|Xuan He et.al.|[2511.00807_(ISS)](http://arxiv.org/abs/2511.00807)|
+|**2025-11-05**|**SnapStream: Efficient Long Sequence Decoding on Dataflow Accelerators**|Jonathan Li et.al.|[2511.03092](http://arxiv.org/abs/2511.03092)|
+|**2025-11-05**|**ALAS: Transactional and Dynamic Multi-Agent LLM Planning**|Longling Geng et.al.|[2511.03094](http://arxiv.org/abs/2511.03094)|
 |**2025-11-04**|**Continuum: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live**|Hanchen Li et.al.|[2511.02230](http://arxiv.org/abs/2511.02230)|
 |**2025-11-04**|**LiveSecBench: A Dynamic and Culturally-Relevant AI Safety Benchmark for LLMs in Chinese Context**|Yudong Li et.al.|[2511.02366](http://arxiv.org/abs/2511.02366)|
 |**2025-11-04**|**Optimal-Agent-Selection: State-Aware Routing Framework for Efficient Multi-Agent Collaboration**|Jingbo Wang et.al.|[2511.02200](http://arxiv.org/abs/2511.02200)|
@@ -18,7 +21,6 @@ _Updated on 2025.11.06_
 |**2025-11-03**|**TPS-Bench: Evaluating AI Agents' Tool Planning \& Scheduling Abilities in Compounding Tasks**|Hanwen Xu et.al.|[2511.01527](http://arxiv.org/abs/2511.01527)|
 |**2025-11-02**|**HEXGEN-FLOW: Optimizing LLM Inference Request Scheduling for Agentic Text-to-SQL**|You Peng et.al.|[2505.05286](http://arxiv.org/abs/2505.05286)|
 |**2025-11-02**|**FlexiCache: Leveraging Temporal Stability of Attention Heads for Efficient KV Cache Management**|Nazmul Takbir et.al.|[2511.00868](http://arxiv.org/abs/2511.00868)|
-|**2025-11-02**|**FREESH: Fair, Resource- and Energy-Efficient Scheduling for LLM Serving on Heterogeneous GPUs**|Xuan He et.al.|[2511.00807_(ISS)](http://arxiv.org/abs/2511.00807)|
 |**2025-11-01**|**KVCOMM: Online Cross-context KV-cache Communication for Efficient LLM-based Multi-agent Systems**|Hancheng Ye et.al.|[2510.12872_(FAST)](http://arxiv.org/abs/2510.12872)|
 |**2025-11-01**|**A CPU-Centric Perspective on Agentic AI**|Ritik Raj et.al.|[2511.00739](http://arxiv.org/abs/2511.00739)|
 |**2025-11-01**|**EvoMem: Improving Multi-Agent Planning with Dual-Evolving Memory**|Wenzhe Fan et.al.|[2511.01912](http://arxiv.org/abs/2511.01912)|
