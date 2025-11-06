@@ -6,10 +6,11 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2025.11.05_
+_Updated on 2025.11.06_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-11-05**|**Beyond Single Pass, Looping Through Time: KG-IRAG with Iterative Knowledge Retrieval**|Ruiyi Yang et.al.|[2503.14234](http://arxiv.org/abs/2503.14234)|
 |**2025-11-03**|**Diagnosing and Addressing Pitfalls in KG-RAG Datasets: Toward More Reliable Benchmarking**|Liangliang Zhang et.al.|[2505.23495_(NeurIPS)](http://arxiv.org/abs/2505.23495)|
 |**2025-11-03**|**A Graph-based RAG for Energy Efficiency Question Answering**|Riccardo Campi et.al.|[2511.01643](http://arxiv.org/abs/2511.01643)|
 |**2025-11-03**|**PROPEX-RAG: Enhanced GraphRAG using Prompt-Driven Prompt Execution**|Tejas Sarnaik et.al.|[2511.01802](http://arxiv.org/abs/2511.01802)|
@@ -203,7 +204,6 @@ _Updated on 2025.11.05_
 |**2025-05-20**|**Divide by Question, Conquer by Agent: SPLIT-RAG with Question-Driven Graph Partitioning**|Ruiyi Yang et.al.|[2505.13994](http://arxiv.org/abs/2505.13994)|
 |**2025-05-19**|**SubGCache: Accelerating Graph-based RAG with Subgraph-level KV Cache**|Qiuyu Zhu et.al.|[2505.10951](http://arxiv.org/abs/2505.10951)|
 |**2025-05-19**|**Know3-RAG: A Knowledge-aware RAG Framework with Adaptive Retrieval, Generation, and Filtering**|Xukai Liu et.al.|[2505.12662](http://arxiv.org/abs/2505.12662)|
-|**2025-05-19**|**Beyond Single Pass, Looping Through Time: KG-IRAG with Iterative Knowledge Retrieval**|Ruiyi Yang et.al.|[2503.14234](http://arxiv.org/abs/2503.14234)|
 |**2025-05-17**|**A Pilot Empirical Study on When and How to Use Knowledge Graphs as Retrieval Augmented Generation**|Xujie Yuan et.al.|[2502.20854](http://arxiv.org/abs/2502.20854)|
 |**2025-05-17**|**ELITE: Embedding-Less retrieval with Iterative Text Exploration**|Zhangyu Wang et.al.|[2505.11908](http://arxiv.org/abs/2505.11908)|
 |**2025-05-16**|**Leveraging Graph Retrieval-Augmented Generation to Support Learners' Understanding of Knowledge Concepts in MOOCs**|Mohamed Abdelmagied et.al.|[2505.10074](http://arxiv.org/abs/2505.10074)|
