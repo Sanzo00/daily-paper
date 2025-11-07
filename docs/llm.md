@@ -11,8 +11,9 @@ _Updated on 2025.11.07_
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
 |**2025-11-06**|**HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts**|Neil He et.al.|[2505.24722](http://arxiv.org/abs/2505.24722)|
+|**2025-11-06**|**SnapStream: Efficient Long Sequence Decoding on Dataflow Accelerators**|Jonathan Li et.al.|[2511.03092](http://arxiv.org/abs/2511.03092)|
+|**2025-11-06**|**Memory- and Latency-Constrained Inference of Large Language Models via Adaptive Split Computing**|Mingyu Sung et.al.|[2511.04002](http://arxiv.org/abs/2511.04002)|
 |**2025-11-05**|**FREESH: Fair, Resource- and Energy-Efficient Scheduling for LLM Serving on Heterogeneous GPUs**|Xuan He et.al.|[2511.00807_(ISS)](http://arxiv.org/abs/2511.00807)|
-|**2025-11-05**|**SnapStream: Efficient Long Sequence Decoding on Dataflow Accelerators**|Jonathan Li et.al.|[2511.03092](http://arxiv.org/abs/2511.03092)|
 |**2025-11-05**|**ALAS: Transactional and Dynamic Multi-Agent LLM Planning**|Longling Geng et.al.|[2511.03094](http://arxiv.org/abs/2511.03094)|
 |**2025-11-04**|**Continuum: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live**|Hanchen Li et.al.|[2511.02230](http://arxiv.org/abs/2511.02230)|
 |**2025-11-04**|**LiveSecBench: A Dynamic and Culturally-Relevant AI Safety Benchmark for LLMs in Chinese Context**|Yudong Li et.al.|[2511.02366](http://arxiv.org/abs/2511.02366)|
