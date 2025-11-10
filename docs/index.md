@@ -10,6 +10,8 @@ _Updated on 2025.11.10_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-11-07**|**Large Language Models for Explainable Threat Intelligence**|Tiago Dinis et.al.|[2511.05406](http://arxiv.org/abs/2511.05406)|
+|**2025-11-07**|**TeaRAG: A Token-Efficient Agentic Retrieval-Augmented Generation Framework**|Chao Zhang et.al.|[2511.05385](http://arxiv.org/abs/2511.05385)|
 |**2025-11-05**|**Beyond Single Pass, Looping Through Time: KG-IRAG with Iterative Knowledge Retrieval**|Ruiyi Yang et.al.|[2503.14234](http://arxiv.org/abs/2503.14234)|
 |**2025-11-05**|**LGM: Enhancing Large Language Models with Conceptual Meta-Relations and Iterative Retrieval**|Wenchang Lei et.al.|[2511.03214](http://arxiv.org/abs/2511.03214)|
 |**2025-11-03**|**Diagnosing and Addressing Pitfalls in KG-RAG Datasets: Toward More Reliable Benchmarking**|Liangliang Zhang et.al.|[2505.23495_(NeurIPS)](http://arxiv.org/abs/2505.23495)|
