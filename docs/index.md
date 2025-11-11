@@ -10,6 +10,11 @@ _Updated on 2025.11.11_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-11-10**|**TERAG: Token-Efficient Graph-Based Retrieval-Augmented Generation**|Qiao Xiao et.al.|[2509.18667](http://arxiv.org/abs/2509.18667)|
+|**2025-11-10**|**CoSense-LLM: Semantics at the Edge with Cost- and Uncertainty-Aware Cloud-Edge Cooperation**|Hasan Akgul et.al.|[2510.19670](http://arxiv.org/abs/2510.19670)|
+|**2025-11-09**|**LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora**|Luyao Zhuang et.al.|[2510.10114](http://arxiv.org/abs/2510.10114)|
+|**2025-11-09**|**BookAsSumQA: An Evaluation Framework for Aspect-Based Book Summarization via Question Answering**|Ryuhei Miyazato et.al.|[2511.06183](http://arxiv.org/abs/2511.06183)|
+|**2025-11-08**|**Ontology Learning and Knowledge Graph Construction: A Comparison of Approaches and Their Impact on RAG Performance**|Tiago da Cruz et.al.|[2511.05991](http://arxiv.org/abs/2511.05991)|
 |**2025-11-07**|**Large Language Models for Explainable Threat Intelligence**|Tiago Dinis et.al.|[2511.05406](http://arxiv.org/abs/2511.05406)|
 |**2025-11-07**|**TeaRAG: A Token-Efficient Agentic Retrieval-Augmented Generation Framework**|Chao Zhang et.al.|[2511.05385](http://arxiv.org/abs/2511.05385)|
 |**2025-11-05**|**Beyond Single Pass, Looping Through Time: KG-IRAG with Iterative Knowledge Retrieval**|Ruiyi Yang et.al.|[2503.14234](http://arxiv.org/abs/2503.14234)|
@@ -17,15 +22,13 @@ _Updated on 2025.11.11_
 |**2025-11-03**|**Diagnosing and Addressing Pitfalls in KG-RAG Datasets: Toward More Reliable Benchmarking**|Liangliang Zhang et.al.|[2505.23495_(NeurIPS)](http://arxiv.org/abs/2505.23495)|
 |**2025-11-03**|**A Graph-based RAG for Energy Efficiency Question Answering**|Riccardo Campi et.al.|[2511.01643](http://arxiv.org/abs/2511.01643)|
 |**2025-11-03**|**PROPEX-RAG: Enhanced GraphRAG using Prompt-Driven Prompt Execution**|Tejas Sarnaik et.al.|[2511.01802](http://arxiv.org/abs/2511.01802)|
-|**2025-10-30**|**TERAG: Token-Efficient Graph-Based Retrieval-Augmented Generation**|Qiao Xiao et.al.|[2509.18667_(CHI)](http://arxiv.org/abs/2509.18667)|
+|**2025-11-02**|**AGRAG: Advanced Graph-based Retrieval-Augmented Generation for LLMs**|Yubo Wang et.al.|[2511.05549](http://arxiv.org/abs/2511.05549)|
 |**2025-10-30**|**GraphCompliance: Aligning Policy and Context Graphs for LLM-Based Regulatory Compliance**|Jiseong Chung et.al.|[2510.26309_(ICS)](http://arxiv.org/abs/2510.26309)|
-|**2025-10-28**|**LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora**|Luyao Zhuang et.al.|[2510.10114](http://arxiv.org/abs/2510.10114)|
 |**2025-10-28**|**Graph-Guided Concept Selection for Efficient Retrieval-Augmented Generation**|Ziyu Liu et.al.|[2510.24120](http://arxiv.org/abs/2510.24120)|
 |**2025-10-26**|**Batch Speculative Decoding Done Right**|Ranran Haoran Zhang et.al.|[2510.22876](http://arxiv.org/abs/2510.22876)|
 |**2025-10-25**|**Query Expansion in the Age of Pre-trained and Large Language Models: A Comprehensive Survey**|Minghan Li et.al.|[2509.07794](http://arxiv.org/abs/2509.07794)|
 |**2025-10-23**|**MultiHal: Multilingual Dataset for Knowledge-Graph Grounded Evaluation of LLM Hallucinations**|Ernests Lavrinovics et.al.|[2505.14101](http://arxiv.org/abs/2505.14101)|
 |**2025-10-23**|**HA-RAG: Hotness-Aware RAG Acceleration via Mixed Precision and Data Placement**|Danying Ge et.al.|[2510.20878](http://arxiv.org/abs/2510.20878)|
-|**2025-10-22**|**CoSense-LLM: Semantics at the Edge with Cost- and Uncertainty-Aware Cloud-Edge Cooperation**|Hasan Akgul et.al.|[2510.19670](http://arxiv.org/abs/2510.19670)|
 |**2025-10-22**|**Interpretable Question Answering with Knowledge Graphs**|Kartikeya Aneja et.al.|[2510.19181](http://arxiv.org/abs/2510.19181)|
 |**2025-10-20**|**AutoGraph-R1: End-to-End Reinforcement Learning for Knowledge Graph Construction**|Hong Ting Tsang et.al.|[2510.15339](http://arxiv.org/abs/2510.15339)|
 |**2025-10-20**|**Executable Knowledge Graphs for Replicating AI Research**|Yujie Luo et.al.|[2510.17795](http://arxiv.org/abs/2510.17795)|

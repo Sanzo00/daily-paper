@@ -10,7 +10,12 @@ _Updated on 2025.11.11_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-11-10**|**KVLink: Accelerating Large Language Models via Efficient KV Cache Reuse**|Jingbo Yang et.al.|[2502.16002](http://arxiv.org/abs/2502.16002)|
+|**2025-11-10**|**CoSense-LLM: Semantics at the Edge with Cost- and Uncertainty-Aware Cloud-Edge Cooperation**|Hasan Akgul et.al.|[2510.19670](http://arxiv.org/abs/2510.19670)|
+|**2025-11-10**|**StreamKV: Streaming Video Question-Answering with Segment-based KV Cache Retrieval and Compression**|Yilong Chen et.al.|[2511.07278](http://arxiv.org/abs/2511.07278)|
+|**2025-11-09**|**SR-KI: Scalable and Real-Time Knowledge Integration into LLMs via Supervised Attention**|Bohan Yu et.al.|[2511.06446_(AAAI)](http://arxiv.org/abs/2511.06446)|
 |**2025-11-08**|**Accelerating LLM Inference Throughput via Asynchronous KV Cache Prefetching**|Yanhao Dong et.al.|[2504.06319](http://arxiv.org/abs/2504.06319)|
+|**2025-11-08**|**Lethe: Layer- and Time-Adaptive KV Cache Pruning for Reasoning-Intensive LLM Serving**|Hui Zeng et.al.|[2511.06029_(AAAI)](http://arxiv.org/abs/2511.06029)|
 |**2025-11-07**|**Inference-Time Hyper-Scaling with KV Cache Compression**|Adrian Łańcucki et.al.|[2506.05345_(NeurIPS)](http://arxiv.org/abs/2506.05345)|
 |**2025-11-07**|**Learned Structure in Cartridges: Keys as Shareable Routers in Self-Studied Representations**|Maurizio Diaz et.al.|[2508.17032](http://arxiv.org/abs/2508.17032)|
 |**2025-11-07**|**SnapStream: Efficient Long Sequence Decoding on Dataflow Accelerators**|Jonathan Li et.al.|[2511.03092](http://arxiv.org/abs/2511.03092)|
@@ -48,7 +53,6 @@ _Updated on 2025.11.11_
 |**2025-10-23**|**Not All Heads Matter: A Head-Level KV Cache Compression Method with Integrated Retrieval and Reasoning**|Yu Fu et.al.|[2410.19258_(ICLR)](http://arxiv.org/abs/2410.19258)|
 |**2025-10-23**|**Accelerating Mobile Language Model via Speculative Decoding and NPU-Coordinated Execution**|Zhiyang Chen et.al.|[2510.15312](http://arxiv.org/abs/2510.15312)|
 |**2025-10-23**|**HA-RAG: Hotness-Aware RAG Acceleration via Mixed Precision and Data Placement**|Danying Ge et.al.|[2510.20878](http://arxiv.org/abs/2510.20878)|
-|**2025-10-22**|**CoSense-LLM: Semantics at the Edge with Cost- and Uncertainty-Aware Cloud-Edge Cooperation**|Hasan Akgul et.al.|[2510.19670](http://arxiv.org/abs/2510.19670)|
 |**2025-10-22**|**PTFA: An LLM-based Agent that Facilitates Online Consensus Building through Parallel Thinking**|Wen Gu et.al.|[2503.12499](http://arxiv.org/abs/2503.12499)|
 |**2025-10-21**|**The Early Bird Catches the Leak: Unveiling Timing Side Channels in LLM Serving Systems**|Linke Song et.al.|[2409.20002_(ICS)](http://arxiv.org/abs/2409.20002)|
 |**2025-10-21**|**Reasoning Language Model Inference Serving Unveiled: An Empirical Study**|Qi Li et.al.|[2510.18672](http://arxiv.org/abs/2510.18672)|
@@ -175,7 +179,6 @@ _Updated on 2025.11.11_
 |**2025-07-23**|**KVCache Cache in the Wild: Characterizing and Optimizing KVCache Cache at a Large Cloud Provider**|Jiahao Wang et.al.|[2506.02634_(ATC)](http://arxiv.org/abs/2506.02634)|
 |**2025-07-22**|**Beyond Context Limits: Subconscious Threads for Long-Horizon Reasoning**|Hongyin Luo et.al.|[2507.16784](http://arxiv.org/abs/2507.16784)|
 |**2025-07-21**|**LLM Economist: Large Population Models and Mechanism Design in Multi-Agent Generative Simulacra**|Seth Karten et.al.|[2507.15815](http://arxiv.org/abs/2507.15815)|
-|**2025-07-19**|**KVLink: Accelerating Large Language Models via Efficient KV Cache Reuse**|Jingbo Yang et.al.|[2502.16002](http://arxiv.org/abs/2502.16002)|
 |**2025-07-18**|**DREAMS: Density Functional Theory Based Research Engine for Agentic Materials Simulation**|Ziqi Wang et.al.|[2507.14267](http://arxiv.org/abs/2507.14267)|
 |**2025-07-18**|**CodeEdu: A Multi-Agent Collaborative Platform for Personalized Coding Education**|Jianing Zhao et.al.|[2507.13814](http://arxiv.org/abs/2507.13814)|
 |**2025-07-14**|**InstCache: A Predictive Cache for LLM Serving**|Longwei Zou et.al.|[2411.13820](http://arxiv.org/abs/2411.13820)|
