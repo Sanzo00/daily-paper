@@ -135,10 +135,10 @@ _Updated on 2025.11.12_
 |**2025-08-12**|**DySK-Attn: A Framework for Efficient, Real-Time Knowledge Updating in Large Language Models via Dynamic Sparse Knowledge Attention**|Kabir Khan et.al.|[2508.07185](http://arxiv.org/abs/2508.07185)|
 |**2025-08-12**|**DAGR: Decomposition Augmented Graph Retrieval with LLMs**|Valentin Six et.al.|[2506.13380](http://arxiv.org/abs/2506.13380)|
 |**2025-08-12**|**AgriGPT: a Large Language Model Ecosystem for Agriculture**|Bo Yang et.al.|[2508.08632](http://arxiv.org/abs/2508.08632)|
+|**2025-08-12**|**PersonalAI: A Systematic Comparison of Knowledge Graph Storage and Retrieval Approaches for Personalized LLM agents**|Mikhail Menschikov et.al.|[2506.17001](http://arxiv.org/abs/2506.17001)|
 |**2025-08-11**|**Reviewing Clinical Knowledge in Medical Large Language Models: Training and Beyond**|Qiyuan Li et.al.|[2502.20988](http://arxiv.org/abs/2502.20988)|
 |**2025-08-11**|**You Don't Need Pre-built Graphs for RAG: Retrieval Augmented Generation with Adaptive Reasoning Structures**|Shengyuan Chen et.al.|[2508.06105](http://arxiv.org/abs/2508.06105)|
 |**2025-08-11**|**Efficient Knowledge Graph Construction and Retrieval from Unstructured Text for Large-Scale RAG Systems**|Congmin Min et.al.|[2507.03226](http://arxiv.org/abs/2507.03226)|
-|**2025-08-11**|**PersonalAI: A Systematic Comparison of Knowledge Graph Storage and Retrieval Approaches for Personalized LLM agents**|Mikhail Menschikov et.al.|[2506.17001](http://arxiv.org/abs/2506.17001)|
 |**2025-08-09**|**Leaps Beyond the Seen: Reinforced Reasoning Augmented Generation for Clinical Notes**|Lo Pang-Yun Ting et.al.|[2506.05386](http://arxiv.org/abs/2506.05386)|
 |**2025-08-07**|**GRAIL:Learning to Interact with Large Knowledge Graphs for Retrieval Augmented Reasoning**|Ge Chang et.al.|[2508.05498](http://arxiv.org/abs/2508.05498)|
 |**2025-08-06**|**TURA: Tool-Augmented Unified Retrieval Agent for AI Search**|Zhejun Zhao et.al.|[2508.04604](http://arxiv.org/abs/2508.04604)|
