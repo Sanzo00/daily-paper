@@ -207,8 +207,8 @@ _Updated on 2025.11.12_
 |**2025-05-29**|**Retrieval Augmented Generation based Large Language Models for Causality Mining**|Thushara Manjari Naduvilakandy et.al.|[2505.23944_(ACL)](http://arxiv.org/abs/2505.23944)|
 |**2025-05-29**|**BugRepro: Enhancing Android Bug Reproduction with Domain-Specific Knowledge Integration**|Hongrong Yin et.al.|[2505.14528](http://arxiv.org/abs/2505.14528)|
 |**2025-05-28**|**DynamicKV: Task-Aware Adaptive KV Cache Compression for Long Context LLMs**|Xiabin Zhou et.al.|[2412.14838](http://arxiv.org/abs/2412.14838)|
+|**2025-05-28**|**Path Pooling: Training-Free Structure Enhancement for Efficient Knowledge Graph Retrieval-Augmented Generation**|Hairu Wang et.al.|[2503.05203](http://arxiv.org/abs/2503.05203)|
 |**2025-05-28**|**Rethinking Hybrid Retrieval: When Small Embeddings and LLM Re-ranking Beat Bigger Models**|Arjun Rao et.al.|[2506.00049](http://arxiv.org/abs/2506.00049)|
-|**2025-05-27**|**Path Pooling: Training-Free Structure Enhancement for Efficient Knowledge Graph Retrieval-Augmented Generation**|Hairu Wang et.al.|[2503.05203](http://arxiv.org/abs/2503.05203)|
 |**2025-05-26**|**KnowTrace: Bootstrapping Iterative Retrieval-Augmented Generation with Structured Knowledge Tracing**|Rui Li et.al.|[2505.20245_(KDD)](http://arxiv.org/abs/2505.20245)|
 |**2025-05-23**|**FiDeLiS: Faithful Reasoning in Large Language Model for Knowledge Graph Question Answering**|Yuan Sui et.al.|[2405.13873_(ACL)](http://arxiv.org/abs/2405.13873)|
 |**2025-05-22**|**Enhancing Large Language Models (LLMs) for Telecommunications using Knowledge Graphs and Retrieval-Augmented Generation**|Dun Yuan et.al.|[2503.24245_(ICC)](http://arxiv.org/abs/2503.24245)|
