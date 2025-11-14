@@ -10,6 +10,8 @@ _Updated on 2025.11.14_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-11-14**|**TruthfulRAG: Resolving Factual-level Conflicts in Retrieval-Augmented Generation with Knowledge Graphs**|Shuyi Liu et.al.|[2511.10375_(AAAI)](http://arxiv.org/abs/2511.10375)|
+|**2025-11-14**|**fastbmRAG: A Fast Graph-Based RAG Framework for Efficient Processing of Large-Scale Biomedical Literature**|Guofeng Meng et.al.|[2511.10014](http://arxiv.org/abs/2511.10014)|
 |**2025-11-11**|**CoSense-LLM: Semantics at the Edge with Cost- and Uncertainty-Aware Cloud-Edge Cooperation**|Hasan Akgul et.al.|[2510.19670](http://arxiv.org/abs/2510.19670)|
 |**2025-11-11**|**Ontology Learning and Knowledge Graph Construction: A Comparison of Approaches and Their Impact on RAG Performance**|Tiago da Cruz et.al.|[2511.05991](http://arxiv.org/abs/2511.05991)|
 |**2025-11-11**|**AGRAG: Advanced Graph-based Retrieval-Augmented Generation for LLMs**|Yubo Wang et.al.|[2511.05549](http://arxiv.org/abs/2511.05549)|

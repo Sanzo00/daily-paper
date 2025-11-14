@@ -10,6 +10,7 @@ _Updated on 2025.11.14_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-11-14**|**ASSENT: Learning-Based Association Optimization for Distributed Cell-Free ISAC**|Mehdi Zafari et.al.|[2511.09992](http://arxiv.org/abs/2511.09992)|
 |**2025-10-17**|**Spatial Computing Communications for Multi-User Virtual Reality in Distributed Mobile Edge Computing Network**|Caolu Xu et.al.|[2510.14243](http://arxiv.org/abs/2510.14243)|
 |**2025-10-14**|**Learning Joint Embeddings of Function and Process Call Graphs for Malware Detection**|Kartikeya Aneja et.al.|[2510.09984](http://arxiv.org/abs/2510.09984)|
 |**2025-10-02**|**Graph Neural Networks in Large Scale Wireless Communication Networks: Scalability Across Random Geometric Graphs**|Romina Garcia Camargo et.al.|[2510.00896](http://arxiv.org/abs/2510.00896)|
