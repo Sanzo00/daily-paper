@@ -12,6 +12,7 @@ _Updated on 2025.11.15_
 |:-------------|:------|:--------|:----|
 |**2025-11-13**|**LLM-YOLOMS: Large Language Model-based Semantic Interpretation and Fault Diagnosis for Wind Turbine Components**|Yaru Li et.al.|[2511.10394_(ISS)](http://arxiv.org/abs/2511.10394)|
 |**2025-11-12**|**Lethe: Layer- and Time-Adaptive KV Cache Pruning for Reasoning-Intensive LLM Serving**|Hui Zeng et.al.|[2511.06029_(AAAI)](http://arxiv.org/abs/2511.06029)|
+|**2025-11-11**|**Glia: A Human-Inspired AI for Automated Systems Design and Optimization**|Pouya Hamadanian et.al.|[2510.27176](http://arxiv.org/abs/2510.27176)|
 |**2025-11-10**|**KVLink: Accelerating Large Language Models via Efficient KV Cache Reuse**|Jingbo Yang et.al.|[2502.16002](http://arxiv.org/abs/2502.16002)|
 |**2025-11-10**|**CoSense-LLM: Semantics at the Edge with Cost- and Uncertainty-Aware Cloud-Edge Cooperation**|Hasan Akgul et.al.|[2510.19670](http://arxiv.org/abs/2510.19670)|
 |**2025-11-10**|**StreamKV: Streaming Video Question-Answering with Segment-based KV Cache Retrieval and Compression**|Yilong Chen et.al.|[2511.07278](http://arxiv.org/abs/2511.07278)|
@@ -39,7 +40,6 @@ _Updated on 2025.11.15_
 |**2025-11-01**|**EvoMem: Improving Multi-Agent Planning with Dual-Evolving Memory**|Wenzhe Fan et.al.|[2511.01912](http://arxiv.org/abs/2511.01912)|
 |**2025-11-01**|**Agentic Auto-Scheduling: An Experimental Study of LLM-Guided Loop Optimization**|Massinissa Merouani et.al.|[2511.00592_(CHI)](http://arxiv.org/abs/2511.00592)|
 |**2025-10-31**|**Tokencake: A KV-Cache-centric Serving Framework for LLM-based Multi-Agent Applications**|Zhuohang Bian et.al.|[2510.18586](http://arxiv.org/abs/2510.18586)|
-|**2025-10-31**|**Glia: A Human-Inspired AI for Automated Systems Design and Optimization**|Pouya Hamadanian et.al.|[2510.27176](http://arxiv.org/abs/2510.27176)|
 |**2025-10-31**|**Scalable Processing-Near-Memory for 1M-Token LLM Inference: CXL-Enabled KV-Cache Management Beyond GPU Limits**|Dowon Kim et.al.|[2511.00321](http://arxiv.org/abs/2511.00321)|
 |**2025-10-30**|**Agentic AI Home Energy Management System: A Large Language Model Framework for Residential Load Scheduling**|Reda El Makroum et.al.|[2510.26603](http://arxiv.org/abs/2510.26603)|
 |**2025-10-29**|**Oneiros: KV Cache Optimization through Parameter Remapping for Multi-tenant LLM Serving**|Ruihao Li et.al.|[2507.11507](http://arxiv.org/abs/2507.11507)|

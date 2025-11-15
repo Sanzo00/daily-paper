@@ -12,8 +12,12 @@ _Updated on 2025.11.15_
 |:-------------|:------|:--------|:----|
 |**2025-11-13**|**TruthfulRAG: Resolving Factual-level Conflicts in Retrieval-Augmented Generation with Knowledge Graphs**|Shuyi Liu et.al.|[2511.10375_(AAAI)](http://arxiv.org/abs/2511.10375)|
 |**2025-11-13**|**fastbmRAG: A Fast Graph-Based RAG Framework for Efficient Processing of Large-Scale Biomedical Literature**|Guofeng Meng et.al.|[2511.10014](http://arxiv.org/abs/2511.10014)|
+|**2025-11-12**|**GraphRAFT: Retrieval Augmented Fine-Tuning for Knowledge Graphs on Graph Databases**|Alfred Clemedtson et.al.|[2504.05478](http://arxiv.org/abs/2504.05478)|
+|**2025-11-11**|**Multi-Agent GraphRAG: A Text-to-Cypher Framework for Labeled Property Graphs**|Anton Gusarov et.al.|[2511.08274](http://arxiv.org/abs/2511.08274)|
+|**2025-11-11**|**MARC: Multimodal and Multi-Task Agentic Retrieval-Augmented Generation for Cold-Start Recommender System**|Seung Hwan Cho et.al.|[2511.08181_(CIKM)](http://arxiv.org/abs/2511.08181)|
 |**2025-11-10**|**TERAG: Token-Efficient Graph-Based Retrieval-Augmented Generation**|Qiao Xiao et.al.|[2509.18667](http://arxiv.org/abs/2509.18667)|
 |**2025-11-10**|**CoSense-LLM: Semantics at the Edge with Cost- and Uncertainty-Aware Cloud-Edge Cooperation**|Hasan Akgul et.al.|[2510.19670](http://arxiv.org/abs/2510.19670)|
+|**2025-11-10**|**Beyond Fact Retrieval: Episodic Memory for RAG with Generative Semantic Workspaces**|Shreyas Rajesh et.al.|[2511.07587_(AAAI)](http://arxiv.org/abs/2511.07587)|
 |**2025-11-09**|**LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora**|Luyao Zhuang et.al.|[2510.10114](http://arxiv.org/abs/2510.10114)|
 |**2025-11-09**|**BookAsSumQA: An Evaluation Framework for Aspect-Based Book Summarization via Question Answering**|Ryuhei Miyazato et.al.|[2511.06183](http://arxiv.org/abs/2511.06183)|
 |**2025-11-08**|**Ontology Learning and Knowledge Graph Construction: A Comparison of Approaches and Their Impact on RAG Performance**|Tiago da Cruz et.al.|[2511.05991](http://arxiv.org/abs/2511.05991)|
@@ -28,6 +32,7 @@ _Updated on 2025.11.15_
 |**2025-11-03**|**PROPEX-RAG: Enhanced GraphRAG using Prompt-Driven Prompt Execution**|Tejas Sarnaik et.al.|[2511.01802](http://arxiv.org/abs/2511.01802)|
 |**2025-11-02**|**AGRAG: Advanced Graph-based Retrieval-Augmented Generation for LLMs**|Yubo Wang et.al.|[2511.05549](http://arxiv.org/abs/2511.05549)|
 |**2025-10-30**|**GraphCompliance: Aligning Policy and Context Graphs for LLM-Based Regulatory Compliance**|Jiseong Chung et.al.|[2510.26309_(ICS)](http://arxiv.org/abs/2510.26309)|
+|**2025-10-29**|**Knowledge Graph Analysis of Legal Understanding and Violations in LLMs**|Abha Jha et.al.|[2511.08593](http://arxiv.org/abs/2511.08593)|
 |**2025-10-28**|**Graph-Guided Concept Selection for Efficient Retrieval-Augmented Generation**|Ziyu Liu et.al.|[2510.24120](http://arxiv.org/abs/2510.24120)|
 |**2025-10-26**|**Batch Speculative Decoding Done Right**|Ranran Haoran Zhang et.al.|[2510.22876](http://arxiv.org/abs/2510.22876)|
 |**2025-10-25**|**Query Expansion in the Age of Pre-trained and Large Language Models: A Comprehensive Survey**|Minghan Li et.al.|[2509.07794](http://arxiv.org/abs/2509.07794)|
@@ -54,7 +59,7 @@ _Updated on 2025.11.15_
 |**2025-10-15**|**RAG Meets Temporal Graphs: Time-Sensitive Modeling and Retrieval for Evolving Knowledge**|Jiale Han et.al.|[2510.13590](http://arxiv.org/abs/2510.13590)|
 |**2025-10-15**|**D-SMART: Enhancing LLM Dialogue Consistency via Dynamic Structured Memory And Reasoning Tree**|Xiang Lei et.al.|[2510.13363](http://arxiv.org/abs/2510.13363)|
 |**2025-10-15**|**Vgent: Graph-based Retrieval-Reasoning-Augmented Generation For Long Video Understanding**|Xiaoqian Shen et.al.|[2510.14032_(NeurIPS)](http://arxiv.org/abs/2510.14032)|
-|**2025-10-14**|**Query-Specific GNN: A Comprehensive Graph Representation Learning Method for Retrieval Augmented Generation**|Yuchen Yan et.al.|[2510.11541](http://arxiv.org/abs/2510.11541)|
+|**2025-10-13**|**Query-Specific GNN: A Comprehensive Graph Representation Learning Method for Retrieval Augmented Generation**|Yuchen Yan et.al.|[2510.11541](http://arxiv.org/abs/2510.11541)|
 |**2025-10-12**|**Agentic RAG for Software Testing with Hybrid Vector-Graph and Multi-Agent Orchestration**|Mohanakrishnan Hariharan et.al.|[2510.10824](http://arxiv.org/abs/2510.10824)|
 |**2025-10-11**|**SkewRoute: Training-Free LLM Routing for Knowledge Graph Retrieval-Augmented Generation via Score Skewness of Retrieved Context**|Hairu Wang et.al.|[2505.23841](http://arxiv.org/abs/2505.23841)|
 |**2025-10-11**|**CacheClip: Accelerating RAG with Effective KV Cache Reuse**|Bin Yang et.al.|[2510.10129](http://arxiv.org/abs/2510.10129)|
@@ -206,11 +211,11 @@ _Updated on 2025.11.15_
 |**2025-05-29**|**Retrieval Augmented Generation based Large Language Models for Causality Mining**|Thushara Manjari Naduvilakandy et.al.|[2505.23944_(ACL)](http://arxiv.org/abs/2505.23944)|
 |**2025-05-29**|**BugRepro: Enhancing Android Bug Reproduction with Domain-Specific Knowledge Integration**|Hongrong Yin et.al.|[2505.14528](http://arxiv.org/abs/2505.14528)|
 |**2025-05-28**|**Walk&Retrieve: Simple Yet Effective Zero-shot Retrieval-Augmented Generation via Knowledge Graph Walks**|Martin Böckling et.al.|[2505.16849_(IR-RAG)](http://arxiv.org/abs/2505.16849)|
-|**2025-05-28**|**Path Pooling: Training-Free Structure Enhancement for Efficient Knowledge Graph Retrieval-Augmented Generation**|Hairu Wang et.al.|[2503.05203](http://arxiv.org/abs/2503.05203)|
 |**2025-05-28**|**Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation**|Shijie Wang et.al.|[2501.02226_(ACL)](http://arxiv.org/abs/2501.02226)|
 |**2025-05-28**|**Rethinking Hybrid Retrieval: When Small Embeddings and LLM Re-ranking Beat Bigger Models**|Arjun Rao et.al.|[2506.00049](http://arxiv.org/abs/2506.00049)|
 |**2025-05-27**|**DynamicKV: Task-Aware Adaptive KV Cache Compression for Long Context LLMs**|Xiabin Zhou et.al.|[2412.14838](http://arxiv.org/abs/2412.14838)|
 |**2025-05-27**|**Complex System Diagnostics Using a Knowledge Graph-Informed and Large Language Model-Enhanced Framework**|Saman Marandi et.al.|[2505.21291](http://arxiv.org/abs/2505.21291)|
+|**2025-05-27**|**Path Pooling: Training-Free Structure Enhancement for Efficient Knowledge Graph Retrieval-Augmented Generation**|Hairu Wang et.al.|[2503.05203](http://arxiv.org/abs/2503.05203)|
 |**2025-05-26**|**KnowTrace: Bootstrapping Iterative Retrieval-Augmented Generation with Structured Knowledge Tracing**|Rui Li et.al.|[2505.20245_(KDD)](http://arxiv.org/abs/2505.20245)|
 |**2025-05-22**|**FiDeLiS: Faithful Reasoning in Large Language Model for Knowledge Graph Question Answering**|Yuan Sui et.al.|[2405.13873_(ACL)](http://arxiv.org/abs/2405.13873)|
 |**2025-05-22**|**Align-GRAG: Reasoning-Guided Dual Alignment for Graph Retrieval-Augmented Generation**|Derong Xu et.al.|[2505.16237](http://arxiv.org/abs/2505.16237)|
@@ -247,7 +252,6 @@ _Updated on 2025.11.15_
 |**2025-04-11**|**Knowledge Graph-extended Retrieval Augmented Generation for Question Answering**|Jasper Linders et.al.|[2504.08893](http://arxiv.org/abs/2504.08893)|
 |**2025-04-10**|**ConceptFormer: Towards Efficient Use of Knowledge-Graph Embeddings in Large Language Models**|Joel Barmettler et.al.|[2504.07624](http://arxiv.org/abs/2504.07624)|
 |**2025-04-09**|**MemoRAG: Boosting Long Context Processing with Global Memory-Enhanced Retrieval Augmentation**|Hongjin Qian et.al.|[2409.05591_(TheWebConf)](http://arxiv.org/abs/2409.05591)|
-|**2025-04-07**|**GraphRAFT: Retrieval Augmented Fine-Tuning for Knowledge Graphs on Graph Databases**|Alfred Clemedtson et.al.|[2504.05478](http://arxiv.org/abs/2504.05478)|
 |**2025-04-06**|**Driving-RAG: Driving Scenarios Embedding, Search, and RAG Applications**|Cheng Chang et.al.|[2504.04419](http://arxiv.org/abs/2504.04419)|
 |**2025-04-06**|**Hierarchical Planning for Complex Tasks with Knowledge Graph-RAG and Symbolic Verification**|Cristina Cornelio et.al.|[2504.04578](http://arxiv.org/abs/2504.04578)|
 |**2025-04-03**|**HyperRAG: Enhancing Quality-Efficiency Tradeoffs in Retrieval-Augmented Generation with Reranker KV-Cache Reuse**|Yuwei An et.al.|[2504.02921](http://arxiv.org/abs/2504.02921)|
