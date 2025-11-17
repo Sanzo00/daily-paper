@@ -26,6 +26,14 @@ keywords:
         - ["LLM", "RAG", "KG"]
         - ["LLM", "RAG", "Graph"]
 
+    "Agent":
+        logic: AND
+        filters:
+        - ["LLM", "KV", "Agent"]
+        - ["LLM", "Agent", "Scheduling"]
+        - ["Agent", "Scheduling", "KV"]
+        - ["Agent", "Inference", "KV"]
+
 
     "LLM":
         logic: AND
@@ -34,12 +42,10 @@ keywords:
         - ["LLM", "KV", "Serving"]
         - ["LLM", "KV", "Retrieve"]
         - ["LLM", "KV", "Scheduling"]
-        - ["LLM", "KV", "Agent"]
         - ["LLM", "KV", "Reasoning"]
         - ["LLM", "KV", "Thinking"]
         - ["LLM", "KV", "Prefix"]
-        - ["LLM", "Agent", "Scheduling"]
-        - ["Agent", "Scheduling", "KV"]
+
 
 
     "GNN":
