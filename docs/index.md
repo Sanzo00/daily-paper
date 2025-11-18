@@ -10,11 +10,15 @@ _Updated on 2025.11.18_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-11-17**|**Beyond Chains: Bridging Large Language Models and Knowledge Bases in Complex Question Answering**|Yihua Zhu et.al.|[2505.14099_(AAAI)](http://arxiv.org/abs/2505.14099)|
+|**2025-11-17**|**Automated Construction of Medical Indicator Knowledge Graphs Using Retrieval Augmented Large Language Models**|Zhengda Wang et.al.|[2511.13526](http://arxiv.org/abs/2511.13526)|
+|**2025-11-17**|**Cog-RAG: Cognitive-Inspired Dual-Hypergraph with Theme Alignment Retrieval-Augmented Generation**|Hao Hu et.al.|[2511.13201_(AAAI)](http://arxiv.org/abs/2511.13201)|
+|**2025-11-15**|**ReviewGraph: A Knowledge Graph Embedding Based Framework for Review Rating Prediction with Sentiment Features**|A. J. W. de Vink et.al.|[2508.13953](http://arxiv.org/abs/2508.13953)|
+|**2025-11-15**|**MARC: Multimodal and Multi-Task Agentic Retrieval-Augmented Generation for Cold-Start Recommender System**|Seung Hwan Cho et.al.|[2511.08181_(CIKM)](http://arxiv.org/abs/2511.08181)|
 |**2025-11-13**|**TruthfulRAG: Resolving Factual-level Conflicts in Retrieval-Augmented Generation with Knowledge Graphs**|Shuyi Liu et.al.|[2511.10375_(AAAI)](http://arxiv.org/abs/2511.10375)|
 |**2025-11-13**|**fastbmRAG: A Fast Graph-Based RAG Framework for Efficient Processing of Large-Scale Biomedical Literature**|Guofeng Meng et.al.|[2511.10014](http://arxiv.org/abs/2511.10014)|
 |**2025-11-12**|**GraphRAFT: Retrieval Augmented Fine-Tuning for Knowledge Graphs on Graph Databases**|Alfred Clemedtson et.al.|[2504.05478](http://arxiv.org/abs/2504.05478)|
 |**2025-11-11**|**Multi-Agent GraphRAG: A Text-to-Cypher Framework for Labeled Property Graphs**|Anton Gusarov et.al.|[2511.08274](http://arxiv.org/abs/2511.08274)|
-|**2025-11-11**|**MARC: Multimodal and Multi-Task Agentic Retrieval-Augmented Generation for Cold-Start Recommender System**|Seung Hwan Cho et.al.|[2511.08181_(CIKM)](http://arxiv.org/abs/2511.08181)|
 |**2025-11-10**|**TERAG: Token-Efficient Graph-Based Retrieval-Augmented Generation**|Qiao Xiao et.al.|[2509.18667](http://arxiv.org/abs/2509.18667)|
 |**2025-11-10**|**CoSense-LLM: Semantics at the Edge with Cost- and Uncertainty-Aware Cloud-Edge Cooperation**|Hasan Akgul et.al.|[2510.19670](http://arxiv.org/abs/2510.19670)|
 |**2025-11-10**|**Beyond Fact Retrieval: Episodic Memory for RAG with Generative Semantic Workspaces**|Shreyas Rajesh et.al.|[2511.07587_(AAAI)](http://arxiv.org/abs/2511.07587)|
@@ -68,6 +72,7 @@ _Updated on 2025.11.18_
 |**2025-10-09**|**Efficient and Transferable Agentic Knowledge Graph RAG via Reinforcement Learning**|Jinyeop Song et.al.|[2509.26383_(ICLR)](http://arxiv.org/abs/2509.26383)|
 |**2025-10-08**|**LAD-RAG: Layout-aware Dynamic RAG for Visually-Rich Document Understanding**|Zhivar Sourati et.al.|[2510.07233](http://arxiv.org/abs/2510.07233)|
 |**2025-10-08**|**Reasoning by Exploration: A Unified Approach to Retrieval and Generation over Graphs**|Haoyu Han et.al.|[2510.07484](http://arxiv.org/abs/2510.07484)|
+|**2025-10-08**|**Parallel and Multi-Stage Knowledge Graph Retrieval for Behaviorally Aligned Financial Asset Recommendations**|Fernando Spadea et.al.|[2511.11583](http://arxiv.org/abs/2511.11583)|
 |**2025-10-07**|**When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation**|Zhishang Xiang et.al.|[2506.05690](http://arxiv.org/abs/2506.05690)|
 |**2025-10-07**|**Improving Factuality in LLMs via Inference-Time Knowledge Graph Construction**|Shanglin Wu et.al.|[2509.03540](http://arxiv.org/abs/2509.03540)|
 |**2025-10-07**|**KEO: Knowledge Extraction on OMIn via Knowledge Graphs and RAG for Safety-Critical Aviation Maintenance**|Kuangshi Ai et.al.|[2510.05524](http://arxiv.org/abs/2510.05524)|
@@ -133,7 +138,6 @@ _Updated on 2025.11.18_
 |**2025-08-22**|**DSRAG: A Domain-Specific Retrieval Framework Based on Document-derived Multimodal Knowledge Graph**|Mengzheng Yang et.al.|[2509.10467](http://arxiv.org/abs/2509.10467)|
 |**2025-08-20**|**Benchmarking Vector, Graph and Hybrid Retrieval Augmented Generation (RAG) Pipelines for Open Radio Access Networks (ORAN)**|Sarat Ahmad et.al.|[2507.03608](http://arxiv.org/abs/2507.03608)|
 |**2025-08-19**|**MedKGent: A Large Language Model Agent Framework for Constructing Temporally Evolving Medical Knowledge Graph**|Duzhen Zhang et.al.|[2508.12393](http://arxiv.org/abs/2508.12393)|
-|**2025-08-19**|**ReviewGraph: A Knowledge Graph Embedding Based Framework for Review Rating Prediction with Sentiment Features**|A. J. W. de Vink et.al.|[2508.13953](http://arxiv.org/abs/2508.13953)|
 |**2025-08-15**|**Cross-Granularity Hypergraph Retrieval-Augmented Generation for Multi-hop Question Answering**|Changjian Wang et.al.|[2508.11247](http://arxiv.org/abs/2508.11247)|
 |**2025-08-14**|**FIRESPARQL: A LLM-based Framework for SPARQL Query Generation over Scholarly Knowledge Graphs**|Xueli Pan et.al.|[2508.10467_(DIS)](http://arxiv.org/abs/2508.10467)|
 |**2025-08-13**|**RAGulating Compliance: A Multi-Agent Knowledge Graph for Regulatory QA**|Bhavik Agarwal et.al.|[2508.09893](http://arxiv.org/abs/2508.09893)|
@@ -223,7 +227,6 @@ _Updated on 2025.11.18_
 |**2025-05-21**|**HDLxGraph: Bridging Large Language Models and HDL Repositories via HDL Graph Databases**|Pingqing Zheng et.al.|[2505.15701](http://arxiv.org/abs/2505.15701)|
 |**2025-05-21**|**Single LLM, Multiple Roles: A Unified Retrieval-Augmented Generation Framework Using Role-Specific Token Optimization**|Yutao Zhu et.al.|[2505.15444](http://arxiv.org/abs/2505.15444)|
 |**2025-05-20**|**Scaling Test-Time Inference with Policy-Optimized, Dynamic Retrieval-Augmented Generation via KV Caching and Decoding**|Sakhinana Sagar Srinivas et.al.|[2504.01281](http://arxiv.org/abs/2504.01281)|
-|**2025-05-20**|**Beyond Chains: Bridging Large Language Models and Knowledge Bases in Complex Question Answering**|Yihua Zhu et.al.|[2505.14099](http://arxiv.org/abs/2505.14099)|
 |**2025-05-19**|**SubGCache: Accelerating Graph-based RAG with Subgraph-level KV Cache**|Qiuyu Zhu et.al.|[2505.10951](http://arxiv.org/abs/2505.10951)|
 |**2025-05-19**|**Know3-RAG: A Knowledge-aware RAG Framework with Adaptive Retrieval, Generation, and Filtering**|Xukai Liu et.al.|[2505.12662](http://arxiv.org/abs/2505.12662)|
 |**2025-05-17**|**A Pilot Empirical Study on When and How to Use Knowledge Graphs as Retrieval Augmented Generation**|Xujie Yuan et.al.|[2502.20854](http://arxiv.org/abs/2502.20854)|

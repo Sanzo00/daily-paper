@@ -10,6 +10,8 @@ _Updated on 2025.11.18_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-11-17**|**Hogwild! Inference: Parallel LLM Generation via Concurrent Attention**|Gleb Rodionov et.al.|[2504.06261_(NeurIPS)](http://arxiv.org/abs/2504.06261)|
+|**2025-11-14**|**SnapStream: Efficient Long Sequence Decoding on Dataflow Accelerators**|Jonathan Li et.al.|[2511.03092](http://arxiv.org/abs/2511.03092)|
 |**2025-11-13**|**LLM-YOLOMS: Large Language Model-based Semantic Interpretation and Fault Diagnosis for Wind Turbine Components**|Yaru Li et.al.|[2511.10394_(ISS)](http://arxiv.org/abs/2511.10394)|
 |**2025-11-12**|**Lethe: Layer- and Time-Adaptive KV Cache Pruning for Reasoning-Intensive LLM Serving**|Hui Zeng et.al.|[2511.06029_(AAAI)](http://arxiv.org/abs/2511.06029)|
 |**2025-11-11**|**Glia: A Human-Inspired AI for Automated Systems Design and Optimization**|Pouya Hamadanian et.al.|[2510.27176](http://arxiv.org/abs/2510.27176)|
@@ -20,13 +22,13 @@ _Updated on 2025.11.18_
 |**2025-11-08**|**Accelerating LLM Inference Throughput via Asynchronous KV Cache Prefetching**|Yanhao Dong et.al.|[2504.06319](http://arxiv.org/abs/2504.06319)|
 |**2025-11-07**|**Inference-Time Hyper-Scaling with KV Cache Compression**|Adrian Łańcucki et.al.|[2506.05345_(NeurIPS)](http://arxiv.org/abs/2506.05345)|
 |**2025-11-07**|**Learned Structure in Cartridges: Keys as Shareable Routers in Self-Studied Representations**|Maurizio Diaz et.al.|[2508.17032](http://arxiv.org/abs/2508.17032)|
-|**2025-11-07**|**SnapStream: Efficient Long Sequence Decoding on Dataflow Accelerators**|Jonathan Li et.al.|[2511.03092](http://arxiv.org/abs/2511.03092)|
 |**2025-11-06**|**SkyWalker: A Locality-Aware Cross-Region Load Balancer for LLM Inference**|Tian Xia et.al.|[2505.24095](http://arxiv.org/abs/2505.24095)|
 |**2025-11-06**|**HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts**|Neil He et.al.|[2505.24722](http://arxiv.org/abs/2505.24722)|
 |**2025-11-06**|**Memory- and Latency-Constrained Inference of Large Language Models via Adaptive Split Computing**|Mingyu Sung et.al.|[2511.04002](http://arxiv.org/abs/2511.04002)|
 |**2025-11-06**|**DuetServe: Harmonizing Prefill and Decode for LLM Serving via Adaptive GPU Multiplexing**|Lei Gao et.al.|[2511.04791](http://arxiv.org/abs/2511.04791)|
 |**2025-11-05**|**FREESH: Fair, Resource- and Energy-Efficient Scheduling for LLM Serving on Heterogeneous GPUs**|Xuan He et.al.|[2511.00807_(ISS)](http://arxiv.org/abs/2511.00807)|
 |**2025-11-05**|**ALAS: Transactional and Dynamic Multi-Agent LLM Planning**|Longling Geng et.al.|[2511.03094](http://arxiv.org/abs/2511.03094)|
+|**2025-11-05**|**AnchorTP: Resilient LLM Inference with State-Preserving Elastic Tensor Parallelism**|Wendong Xu et.al.|[2511.11617_(DATE)](http://arxiv.org/abs/2511.11617)|
 |**2025-11-04**|**Continuum: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live**|Hanchen Li et.al.|[2511.02230](http://arxiv.org/abs/2511.02230)|
 |**2025-11-04**|**LiveSecBench: A Dynamic and Culturally-Relevant AI Safety Benchmark for LLMs in Chinese Context**|Yudong Li et.al.|[2511.02366](http://arxiv.org/abs/2511.02366)|
 |**2025-11-04**|**Optimal-Agent-Selection: State-Aware Routing Framework for Efficient Multi-Agent Collaboration**|Jingbo Wang et.al.|[2511.02200](http://arxiv.org/abs/2511.02200)|
@@ -244,7 +246,6 @@ _Updated on 2025.11.18_
 |**2025-05-23**|**FlashForge: Ultra-Efficient Prefix-Aware Attention for LLM Decoding**|Zhibin Wang et.al.|[2505.17694](http://arxiv.org/abs/2505.17694)|
 |**2025-05-23**|**Guided by Gut: Efficient Test-Time Scaling with Reinforced Intrinsic Confidence**|Amirhosein Ghasemabadi et.al.|[2505.20325](http://arxiv.org/abs/2505.20325)|
 |**2025-05-23**|**ThinkLess: A Training-Free Inference-Efficient Method for Reducing Reasoning Redundancy**|Gengyang Li et.al.|[2505.15684](http://arxiv.org/abs/2505.15684)|
-|**2025-05-23**|**Hogwild! Inference: Parallel LLM Generation via Concurrent Attention**|Gleb Rodionov et.al.|[2504.06261](http://arxiv.org/abs/2504.06261)|
 |**2025-05-23**|**Curriculum Guided Reinforcement Learning for Efficient Multi Hop Retrieval Augmented Generation**|Yuelyu Ji et.al.|[2505.17391](http://arxiv.org/abs/2505.17391)|
 |**2025-05-23**|**Boosting Long-Context Management via Query-Guided Activation Refilling**|Hongjin Qian et.al.|[2412.12486_(ACL)](http://arxiv.org/abs/2412.12486)|
 |**2025-05-23**|**Mitigate Position Bias in Large Language Models via Scaling a Single Dimension**|Yijiong Yu et.al.|[2406.02536_(ACL)](http://arxiv.org/abs/2406.02536)|
