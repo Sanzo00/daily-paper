@@ -10,6 +10,8 @@ _Updated on 2025.11.19_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-11-18**|**CoSense-LLM: Semantics at the Edge with Cost- and Uncertainty-Aware Cloud-Edge Cooperation**|Hasan Akgul et.al.|[2510.19670](http://arxiv.org/abs/2510.19670)|
+|**2025-11-18**|**NeuroPath: Neurobiology-Inspired Path Tracking and Reflection for Semantically Coherent Retrieval**|Junchen Li et.al.|[2511.14096_(NeurIPS)](http://arxiv.org/abs/2511.14096)|
 |**2025-11-17**|**Beyond Chains: Bridging Large Language Models and Knowledge Bases in Complex Question Answering**|Yihua Zhu et.al.|[2505.14099_(AAAI)](http://arxiv.org/abs/2505.14099)|
 |**2025-11-17**|**Automated Construction of Medical Indicator Knowledge Graphs Using Retrieval Augmented Large Language Models**|Zhengda Wang et.al.|[2511.13526](http://arxiv.org/abs/2511.13526)|
 |**2025-11-17**|**Cog-RAG: Cognitive-Inspired Dual-Hypergraph with Theme Alignment Retrieval-Augmented Generation**|Hao Hu et.al.|[2511.13201_(AAAI)](http://arxiv.org/abs/2511.13201)|
@@ -20,7 +22,6 @@ _Updated on 2025.11.19_
 |**2025-11-12**|**GraphRAFT: Retrieval Augmented Fine-Tuning for Knowledge Graphs on Graph Databases**|Alfred Clemedtson et.al.|[2504.05478](http://arxiv.org/abs/2504.05478)|
 |**2025-11-11**|**Multi-Agent GraphRAG: A Text-to-Cypher Framework for Labeled Property Graphs**|Anton Gusarov et.al.|[2511.08274](http://arxiv.org/abs/2511.08274)|
 |**2025-11-10**|**TERAG: Token-Efficient Graph-Based Retrieval-Augmented Generation**|Qiao Xiao et.al.|[2509.18667](http://arxiv.org/abs/2509.18667)|
-|**2025-11-10**|**CoSense-LLM: Semantics at the Edge with Cost- and Uncertainty-Aware Cloud-Edge Cooperation**|Hasan Akgul et.al.|[2510.19670](http://arxiv.org/abs/2510.19670)|
 |**2025-11-10**|**Beyond Fact Retrieval: Episodic Memory for RAG with Generative Semantic Workspaces**|Shreyas Rajesh et.al.|[2511.07587_(AAAI)](http://arxiv.org/abs/2511.07587)|
 |**2025-11-09**|**LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora**|Luyao Zhuang et.al.|[2510.10114](http://arxiv.org/abs/2510.10114)|
 |**2025-11-09**|**BookAsSumQA: An Evaluation Framework for Aspect-Based Book Summarization via Question Answering**|Ryuhei Miyazato et.al.|[2511.06183](http://arxiv.org/abs/2511.06183)|

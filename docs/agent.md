@@ -10,6 +10,7 @@ _Updated on 2025.11.19_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-11-18**|**KnowCoder-A1: Incentivizing Agentic Reasoning Capability with Outcome Supervision for KBQA**|Zhuo Chen et.al.|[2510.25101](http://arxiv.org/abs/2510.25101)|
 |**2025-11-17**|**Glia: A Human-Inspired AI for Automated Systems Design and Optimization**|Pouya Hamadanian et.al.|[2510.27176](http://arxiv.org/abs/2510.27176)|
 |**2025-11-17**|**ENGRAM: Effective, Lightweight Memory Orchestration for Conversational Agents**|Daivik Patel et.al.|[2511.12960](http://arxiv.org/abs/2511.12960)|
 |**2025-11-05**|**ALAS: Transactional and Dynamic Multi-Agent LLM Planning**|Longling Geng et.al.|[2511.03094](http://arxiv.org/abs/2511.03094)|
@@ -27,7 +28,6 @@ _Updated on 2025.11.19_
 |**2025-11-01**|**EvoMem: Improving Multi-Agent Planning with Dual-Evolving Memory**|Wenzhe Fan et.al.|[2511.01912](http://arxiv.org/abs/2511.01912)|
 |**2025-10-31**|**Tokencake: A KV-Cache-centric Serving Framework for LLM-based Multi-Agent Applications**|Zhuohang Bian et.al.|[2510.18586](http://arxiv.org/abs/2510.18586)|
 |**2025-10-30**|**Agentic AI Home Energy Management System: A Large Language Model Framework for Residential Load Scheduling**|Reda El Makroum et.al.|[2510.26603](http://arxiv.org/abs/2510.26603)|
-|**2025-10-29**|**KnowCoder-A1: Incentivizing Agentic Reasoning Capability with Outcome Supervision for KBQA**|Zhuo Chen et.al.|[2510.25101](http://arxiv.org/abs/2510.25101)|
 |**2025-10-28**|**Pie: A Programmable Serving System for Emerging LLM Applications**|In Gim et.al.|[2510.24051_(SOSP)](http://arxiv.org/abs/2510.24051)|
 |**2025-10-28**|**Improving LLM Reasoning via Dependency-Aware Query Decomposition and Logic-Parallel Content Expansion**|Xianjun Gao et.al.|[2510.24390](http://arxiv.org/abs/2510.24390)|
 |**2025-10-28**|**From Narrative to Action: A Hierarchical LLM-Agent Framework for Human Mobility Generation**|Qiumeng Li et.al.|[2510.24802](http://arxiv.org/abs/2510.24802)|
