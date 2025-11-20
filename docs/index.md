@@ -10,6 +10,7 @@ _Updated on 2025.11.20_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-11-19**|**ReFactX: Scalable Reasoning with Reliable Facts via Constrained Generation**|Riccardo Pozzi et.al.|[2508.16983_(ISWC)](http://arxiv.org/abs/2508.16983)|
 |**2025-11-18**|**CoSense-LLM: Semantics at the Edge with Cost- and Uncertainty-Aware Cloud-Edge Cooperation**|Hasan Akgul et.al.|[2510.19670](http://arxiv.org/abs/2510.19670)|
 |**2025-11-18**|**NeuroPath: Neurobiology-Inspired Path Tracking and Reflection for Semantically Coherent Retrieval**|Junchen Li et.al.|[2511.14096_(NeurIPS)](http://arxiv.org/abs/2511.14096)|
 |**2025-11-17**|**Beyond Chains: Bridging Large Language Models and Knowledge Bases in Complex Question Answering**|Yihua Zhu et.al.|[2505.14099_(AAAI)](http://arxiv.org/abs/2505.14099)|
@@ -134,7 +135,6 @@ _Updated on 2025.11.20_
 |**2025-08-25**|**Multilevel Analysis of Cryptocurrency News using RAG Approach with Fine-Tuned Mistral Large Language Model**|Bohdan M. Pavlyshenko et.al.|[2509.03527](http://arxiv.org/abs/2509.03527)|
 |**2025-08-24**|**PRISM: Efficient Long-Range Reasoning With Short-Context LLMs**|Dulhan Jayalath et.al.|[2412.18914_(EMNLP)](http://arxiv.org/abs/2412.18914)|
 |**2025-08-24**|**Exposing Privacy Risks in Graph Retrieval-Augmented Generation**|Jiale Liu et.al.|[2508.17222](http://arxiv.org/abs/2508.17222)|
-|**2025-08-23**|**ReFactX: Scalable Reasoning with Reliable Facts via Constrained Generation**|Riccardo Pozzi et.al.|[2508.16983_(ISWC)](http://arxiv.org/abs/2508.16983)|
 |**2025-08-23**|**Reasoning with RAGged events: RAG-Enhanced Event Knowledge Base Construction and reasoning with proof-assistants**|Stergios Chatzikyriakidis et.al.|[2506.07042](http://arxiv.org/abs/2506.07042)|
 |**2025-08-22**|**DSRAG: A Domain-Specific Retrieval Framework Based on Document-derived Multimodal Knowledge Graph**|Mengzheng Yang et.al.|[2509.10467](http://arxiv.org/abs/2509.10467)|
 |**2025-08-20**|**Benchmarking Vector, Graph and Hybrid Retrieval Augmented Generation (RAG) Pipelines for Open Radio Access Networks (ORAN)**|Sarat Ahmad et.al.|[2507.03608](http://arxiv.org/abs/2507.03608)|
