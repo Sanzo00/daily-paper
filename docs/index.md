@@ -10,6 +10,7 @@ _Updated on 2025.11.21_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-11-20**|**ARK: Answer-Centric Retriever Tuning via KG-augmented Curriculum Learning**|Jiawei Zhou et.al.|[2511.16326](http://arxiv.org/abs/2511.16326)|
 |**2025-11-19**|**ReFactX: Scalable Reasoning with Reliable Facts via Constrained Generation**|Riccardo Pozzi et.al.|[2508.16983_(ISWC)](http://arxiv.org/abs/2508.16983)|
 |**2025-11-18**|**CoSense-LLM: Semantics at the Edge with Cost- and Uncertainty-Aware Cloud-Edge Cooperation**|Hasan Akgul et.al.|[2510.19670](http://arxiv.org/abs/2510.19670)|
 |**2025-11-18**|**NeuroPath: Neurobiology-Inspired Path Tracking and Reflection for Semantically Coherent Retrieval**|Junchen Li et.al.|[2511.14096_(NeurIPS)](http://arxiv.org/abs/2511.14096)|

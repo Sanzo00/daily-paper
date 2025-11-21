@@ -10,6 +10,8 @@ _Updated on 2025.11.21_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-11-20**|**KVTuner: Sensitivity-Aware Layer-Wise Mixed-Precision KV Cache Quantization for Efficient and Nearly Lossless LLM Inference**|Xing Li et.al.|[2502.04420_(ICML)](http://arxiv.org/abs/2502.04420)|
+|**2025-11-20**|**On 10x Better Scalability: KV Stores Scale Up KV Cache**|Weiping Yu et.al.|[2511.16138](http://arxiv.org/abs/2511.16138)|
 |**2025-11-18**|**CoSense-LLM: Semantics at the Edge with Cost- and Uncertainty-Aware Cloud-Edge Cooperation**|Hasan Akgul et.al.|[2510.19670](http://arxiv.org/abs/2510.19670)|
 |**2025-11-18**|**Near-Lossless Model Compression Enables Longer Context Inference in DNA Large Language Models**|Rui Zhu et.al.|[2511.14694](http://arxiv.org/abs/2511.14694)|
 |**2025-11-17**|**Hogwild! Inference: Parallel LLM Generation via Concurrent Attention**|Gleb Rodionov et.al.|[2504.06261_(NeurIPS)](http://arxiv.org/abs/2504.06261)|
@@ -228,7 +230,6 @@ _Updated on 2025.11.21_
 |**2025-06-03**|**SCOPE: Optimizing Key-Value Cache Compression in Long-context Generation**|Jialong Wu et.al.|[2412.13649_(ACL)](http://arxiv.org/abs/2412.13649)|
 |**2025-06-02**|**SwiftKV: Fast Prefill-Optimized Inference with Knowledge-Preserving Model Transformation**|Aurick Qiao et.al.|[2410.03960](http://arxiv.org/abs/2410.03960)|
 |**2025-06-01**|**A Survey of LLM $\times$ DATA**|Xuanhe Zhou et.al.|[2505.18458](http://arxiv.org/abs/2505.18458)|
-|**2025-05-31**|**KVTuner: Sensitivity-Aware Layer-Wise Mixed-Precision KV Cache Quantization for Efficient and Nearly Lossless LLM Inference**|Xing Li et.al.|[2502.04420_(ICML)](http://arxiv.org/abs/2502.04420)|
 |**2025-05-30**|**RaaS: Reasoning-Aware Attention Sparsity for Efficient LLM Reasoning**|Junhao Hu et.al.|[2502.11147](http://arxiv.org/abs/2502.11147)|
 |**2025-05-30**|**Learn from the Past: Fast Sparse Indexing for Large Language Model Decoding**|Feiyu Yao et.al.|[2506.15704](http://arxiv.org/abs/2506.15704)|
 |**2025-05-29**|**EmbAdvisor: Adaptive Cache Management for Sustainable LLM Serving**|Yuyang Tian et.al.|[2505.23970](http://arxiv.org/abs/2505.23970)|
