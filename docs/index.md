@@ -22,6 +22,7 @@ _Updated on 2025.11.25_
 |**2025-11-15**|**MARC: Multimodal and Multi-Task Agentic Retrieval-Augmented Generation for Cold-Start Recommender System**|Seung Hwan Cho et.al.|[2511.08181_(CIKM)](http://arxiv.org/abs/2511.08181)|
 |**2025-11-13**|**TruthfulRAG: Resolving Factual-level Conflicts in Retrieval-Augmented Generation with Knowledge Graphs**|Shuyi Liu et.al.|[2511.10375_(AAAI)](http://arxiv.org/abs/2511.10375)|
 |**2025-11-13**|**fastbmRAG: A Fast Graph-Based RAG Framework for Efficient Processing of Large-Scale Biomedical Literature**|Guofeng Meng et.al.|[2511.10014](http://arxiv.org/abs/2511.10014)|
+|**2025-11-13**|**$A^3$: Attention-Aware Accurate KV Cache Fusion for Fast Large Language Model Serving**|Yuechi Zhou et.al.|[2511.17560](http://arxiv.org/abs/2511.17560)|
 |**2025-11-12**|**GraphRAFT: Retrieval Augmented Fine-Tuning for Knowledge Graphs on Graph Databases**|Alfred Clemedtson et.al.|[2504.05478](http://arxiv.org/abs/2504.05478)|
 |**2025-11-11**|**Multi-Agent GraphRAG: A Text-to-Cypher Framework for Labeled Property Graphs**|Anton Gusarov et.al.|[2511.08274](http://arxiv.org/abs/2511.08274)|
 |**2025-11-10**|**TERAG: Token-Efficient Graph-Based Retrieval-Augmented Generation**|Qiao Xiao et.al.|[2509.18667](http://arxiv.org/abs/2509.18667)|
