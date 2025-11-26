@@ -10,6 +10,7 @@ _Updated on 2025.11.26_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-11-25**|**RIS-Assisted Downlink Pinching-Antenna Systems: GNN-Enabled Optimization Approaches**|Changpeng He et.al.|[2511.20305](http://arxiv.org/abs/2511.20305)|
 |**2025-11-13**|**ASSENT: Learning-Based Association Optimization for Distributed Cell-Free ISAC**|Mehdi Zafari et.al.|[2511.09992](http://arxiv.org/abs/2511.09992)|
 |**2025-10-16**|**Spatial Computing Communications for Multi-User Virtual Reality in Distributed Mobile Edge Computing Network**|Caolu Xu et.al.|[2510.14243](http://arxiv.org/abs/2510.14243)|
 |**2025-10-15**|**ACE-GNN: Adaptive GNN Co-Inference with System-Aware Scheduling in Dynamic Edge Environments**|Ao Zhou et.al.|[2511.11586](http://arxiv.org/abs/2511.11586)|
