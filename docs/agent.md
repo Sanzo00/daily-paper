@@ -10,6 +10,7 @@ _Updated on 2025.12.01_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-11-28**|**Beyond Curve Fitting: Neuro-Symbolic Agents for Context-Aware Epidemic Forecasting**|Joongwon Chae et.al.|[2511.23276](http://arxiv.org/abs/2511.23276)|
 |**2025-11-27**|**EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval**|Zebin Yang et.al.|[2510.18546_(NeurIPS)](http://arxiv.org/abs/2510.18546)|
 |**2025-11-27**|**Optimizing NetGPT via Routing-Based Synergy and Reinforcement Learning**|Yuxuan Chen et.al.|[2511.22217](http://arxiv.org/abs/2511.22217)|
 |**2025-11-26**|**Aragog: Just-in-Time Model Routing for Scalable Serving of Agentic Workflows**|Yinwei Dai et.al.|[2511.20975](http://arxiv.org/abs/2511.20975)|
