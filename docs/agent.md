@@ -10,6 +10,8 @@ _Updated on 2025.12.03_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-12-02**|**DynTaskMAS: A Dynamic Task Graph-driven Framework for Asynchronous and Parallel LLM-based Multi-Agent Systems**|Junwei Yu et.al.|[2503.07675](http://arxiv.org/abs/2503.07675)|
+|**2025-12-02**|**PaperDebugger: A Plugin-Based Multi-Agent System for In-Editor Academic Writing, Review, and Editing**|Junyi Hou et.al.|[2512.02589](http://arxiv.org/abs/2512.02589)|
 |**2025-11-29**|**A CPU-Centric Perspective on Agentic AI**|Ritik Raj et.al.|[2511.00739](http://arxiv.org/abs/2511.00739)|
 |**2025-11-28**|**Beyond Curve Fitting: Neuro-Symbolic Agents for Context-Aware Epidemic Forecasting**|Joongwon Chae et.al.|[2511.23276](http://arxiv.org/abs/2511.23276)|
 |**2025-11-27**|**EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval**|Zebin Yang et.al.|[2510.18546_(NeurIPS)](http://arxiv.org/abs/2510.18546)|
@@ -129,7 +131,6 @@ _Updated on 2025.12.03_
 |**2025-03-19**|**Exploring Large Language Models for Word Games:Who is the Spy?**|Chentian Wei et.al.|[2503.15235](http://arxiv.org/abs/2503.15235)|
 |**2025-03-12**|**COLA: A Scalable Multi-Agent Framework For Windows UI Task Automation**|Di Zhao et.al.|[2503.09263](http://arxiv.org/abs/2503.09263)|
 |**2025-03-11**|**LLM4MAC: An LLM-Driven Reinforcement Learning Framework for MAC Protocol Emergence**|Renxuan Tan et.al.|[2503.08123](http://arxiv.org/abs/2503.08123)|
-|**2025-03-10**|**DynTaskMAS: A Dynamic Task Graph-driven Framework for Asynchronous and Parallel LLM-based Multi-Agent Systems**|Junwei Yu et.al.|[2503.07675](http://arxiv.org/abs/2503.07675)|
 |**2025-03-05**|**Pretrained LLMs as Real-Time Controllers for Robot Operated Serial Production Line**|Muhammad Waseem et.al.|[2503.03889](http://arxiv.org/abs/2503.03889)|
 |**2025-02-28**|**ARIES: Autonomous Reasoning with LLMs on Interactive Thought Graph Environments**|Pedro Gimenes et.al.|[2502.21208](http://arxiv.org/abs/2502.21208)|
 |**2025-02-27**|**TripCraft: A Benchmark for Spatio-Temporally Fine Grained Travel Planning**|Soumyabrata Chaudhuri et.al.|[2502.20508](http://arxiv.org/abs/2502.20508)|

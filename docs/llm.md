@@ -10,6 +10,7 @@ _Updated on 2025.12.03_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-12-02**|**SpecPV: Improving Self-Speculative Decoding for Long-Context Generation via Partial Verification**|Zhendong Tan et.al.|[2512.02337](http://arxiv.org/abs/2512.02337)|
 |**2025-12-01**|**Tangram: Accelerating Serverless LLM Loading through GPU Memory Reuse and Affinity**|Wenbin Zhu et.al.|[2512.01357](http://arxiv.org/abs/2512.01357)|
 |**2025-11-30**|**SIMPLE: Disaggregating Sampling from GPU Inference into a Decision Plane for Faster Distributed LLM Serving**|Bohan Zhao et.al.|[2512.00719](http://arxiv.org/abs/2512.00719)|
 |**2025-11-30**|**SpeContext: Enabling Efficient Long-context Reasoning with Speculative Context Sparsity in LLMs**|Jiaming Xu et.al.|[2512.00722_(ASPLOS)](http://arxiv.org/abs/2512.00722)|

@@ -10,6 +10,8 @@ _Updated on 2025.12.03_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-12-02**|**PersonaAgent with GraphRAG: Community-Aware Knowledge Graphs for Personalized LLM**|Siqi Liang et.al.|[2511.17467](http://arxiv.org/abs/2511.17467)|
+|**2025-12-02**|**AskNearby: An LLM-Based Application for Neighborhood Information Retrieval and Personalized Cognitive-Map Recommendations**|Luyao Niu et.al.|[2512.02502](http://arxiv.org/abs/2512.02502)|
 |**2025-11-30**|**Advancing Academic Chatbots: Evaluation of Non Traditional Outputs**|Nicole Favero et.al.|[2512.00991](http://arxiv.org/abs/2512.00991)|
 |**2025-11-29**|**REBot: From RAG to CatRAG with Semantic Enrichment and Graph Routing**|Thanh Ma et.al.|[2510.01800](http://arxiv.org/abs/2510.01800)|
 |**2025-11-27**|**PAT: Accelerating LLM Decoding via Prefix-Aware Attention with Resource Efficient Multi-Tile Kernel**|Jinjun Yi et.al.|[2511.22333_(ASPLOS)](http://arxiv.org/abs/2511.22333)|
@@ -18,7 +20,6 @@ _Updated on 2025.12.03_
 |**2025-11-25**|**HyperbolicRAG: Enhancing Retrieval-Augmented Generation with Hyperbolic Representations**|Linxiao Cao et.al.|[2511.18808](http://arxiv.org/abs/2511.18808)|
 |**2025-11-24**|**Human Cognition Inspired RAG with Knowledge Graph for Complex Problem Solving**|Yao Cheng et.al.|[2503.06567_(AAAI)](http://arxiv.org/abs/2503.06567)|
 |**2025-11-24**|**Concept than Document: Context Compression via AMR-based Conceptual Entropy**|Kaize Shi et.al.|[2511.18832](http://arxiv.org/abs/2511.18832)|
-|**2025-11-21**|**PersonaAgent with GraphRAG: Community-Aware Knowledge Graphs for Personalized LLM**|Siqi Liang et.al.|[2511.17467](http://arxiv.org/abs/2511.17467)|
 |**2025-11-20**|**ARK: Answer-Centric Retriever Tuning via KG-augmented Curriculum Learning**|Jiawei Zhou et.al.|[2511.16326](http://arxiv.org/abs/2511.16326)|
 |**2025-11-19**|**ReFactX: Scalable Reasoning with Reliable Facts via Constrained Generation**|Riccardo Pozzi et.al.|[2508.16983_(ISWC)](http://arxiv.org/abs/2508.16983)|
 |**2025-11-18**|**CoSense-LLM: Semantics at the Edge with Cost- and Uncertainty-Aware Cloud-Edge Cooperation**|Hasan Akgul et.al.|[2510.19670](http://arxiv.org/abs/2510.19670)|
