@@ -10,6 +10,8 @@ _Updated on 2025.12.04_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-12-03**|**Privacy-protected Retrieval-Augmented Generation for Knowledge Graph Question Answering**|Yunfeng Ning et.al.|[2508.08785_(AAAI)](http://arxiv.org/abs/2508.08785)|
+|**2025-12-03**|**BookRAG: A Hierarchical Structure-aware Index-based Approach for Retrieval-Augmented Generation on Complex Documents**|Shu Wang et.al.|[2512.03413](http://arxiv.org/abs/2512.03413)|
 |**2025-12-02**|**PersonaAgent with GraphRAG: Community-Aware Knowledge Graphs for Personalized LLM**|Siqi Liang et.al.|[2511.17467](http://arxiv.org/abs/2511.17467)|
 |**2025-12-02**|**AskNearby: An LLM-Based Application for Neighborhood Information Retrieval and Personalized Cognitive-Map Recommendations**|Luyao Niu et.al.|[2512.02502](http://arxiv.org/abs/2512.02502)|
 |**2025-11-30**|**Advancing Academic Chatbots: Evaluation of Non Traditional Outputs**|Nicole Favero et.al.|[2512.00991](http://arxiv.org/abs/2512.00991)|
@@ -154,7 +156,6 @@ _Updated on 2025.12.04_
 |**2025-08-15**|**Cross-Granularity Hypergraph Retrieval-Augmented Generation for Multi-hop Question Answering**|Changjian Wang et.al.|[2508.11247](http://arxiv.org/abs/2508.11247)|
 |**2025-08-14**|**FIRESPARQL: A LLM-based Framework for SPARQL Query Generation over Scholarly Knowledge Graphs**|Xueli Pan et.al.|[2508.10467_(DIS)](http://arxiv.org/abs/2508.10467)|
 |**2025-08-13**|**RAGulating Compliance: A Multi-Agent Knowledge Graph for Regulatory QA**|Bhavik Agarwal et.al.|[2508.09893](http://arxiv.org/abs/2508.09893)|
-|**2025-08-12**|**Privacy-protected Retrieval-Augmented Generation for Knowledge Graph Question Answering**|Yunfeng Ning et.al.|[2508.08785](http://arxiv.org/abs/2508.08785)|
 |**2025-08-12**|**AgriGPT: a Large Language Model Ecosystem for Agriculture**|Bo Yang et.al.|[2508.08632](http://arxiv.org/abs/2508.08632)|
 |**2025-08-12**|**PersonalAI: A Systematic Comparison of Knowledge Graph Storage and Retrieval Approaches for Personalized LLM agents**|Mikhail Menschikov et.al.|[2506.17001](http://arxiv.org/abs/2506.17001)|
 |**2025-08-11**|**DAGR: Decomposition Augmented Graph Retrieval with LLMs**|Valentin Six et.al.|[2506.13380](http://arxiv.org/abs/2506.13380)|
