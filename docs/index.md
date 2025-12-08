@@ -10,6 +10,7 @@ _Updated on 2025.12.08_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-12-05**|**LA-RL: Language Action-guided Reinforcement Learning with Safety Guarantees for Autonomous Highway Driving**|Yiming Shu et.al.|[2512.05686](http://arxiv.org/abs/2512.05686)|
 |**2025-12-03**|**Privacy-protected Retrieval-Augmented Generation for Knowledge Graph Question Answering**|Yunfeng Ning et.al.|[2508.08785_(AAAI)](http://arxiv.org/abs/2508.08785)|
 |**2025-12-03**|**BookRAG: A Hierarchical Structure-aware Index-based Approach for Retrieval-Augmented Generation on Complex Documents**|Shu Wang et.al.|[2512.03413](http://arxiv.org/abs/2512.03413)|
 |**2025-12-02**|**PersonaAgent with GraphRAG: Community-Aware Knowledge Graphs for Personalized LLM**|Siqi Liang et.al.|[2511.17467](http://arxiv.org/abs/2511.17467)|
