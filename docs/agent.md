@@ -6,7 +6,7 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2025.12.07_
+_Updated on 2025.12.08_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
