@@ -10,6 +10,9 @@ _Updated on 2025.12.09_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-12-08**|**EvoMem: Improving Multi-Agent Planning with Dual-Evolving Memory**|Wenzhe Fan et.al.|[2511.01912](http://arxiv.org/abs/2511.01912)|
+|**2025-12-08**|**SimuHome: A Temporal- and Environment-Aware Benchmark for Smart Home LLM Agents**|Gyuhyeon Seo et.al.|[2509.24282](http://arxiv.org/abs/2509.24282)|
+|**2025-12-07**|**Learn the Ropes, Then Trust the Wins: Self-imitation with Progressive Exploration for Agentic Reinforcement Learning**|Yulei Qin et.al.|[2509.22601](http://arxiv.org/abs/2509.22601)|
 |**2025-12-03**|**KVNAND: Efficient On-Device Large Language Model Inference Using DRAM-Free In-Flash Computing**|Lishuo Deng et.al.|[2512.03608](http://arxiv.org/abs/2512.03608)|
 |**2025-12-02**|**DynTaskMAS: A Dynamic Task Graph-driven Framework for Asynchronous and Parallel LLM-based Multi-Agent Systems**|Junwei Yu et.al.|[2503.07675](http://arxiv.org/abs/2503.07675)|
 |**2025-12-02**|**PaperDebugger: A Plugin-Based Multi-Agent System for In-Editor Academic Writing, Review, and Editing**|Junyi Hou et.al.|[2512.02589](http://arxiv.org/abs/2512.02589)|
@@ -20,7 +23,6 @@ _Updated on 2025.12.09_
 |**2025-11-27**|**Optimizing NetGPT via Routing-Based Synergy and Reinforcement Learning**|Yuxuan Chen et.al.|[2511.22217](http://arxiv.org/abs/2511.22217)|
 |**2025-11-26**|**Aragog: Just-in-Time Model Routing for Scalable Serving of Agentic Workflows**|Yinwei Dai et.al.|[2511.20975](http://arxiv.org/abs/2511.20975)|
 |**2025-11-25**|**Reducing Latency of LLM Search Agent via Speculation-based Algorithm-System Co-Design**|Zixiao Huang et.al.|[2511.20048](http://arxiv.org/abs/2511.20048)|
-|**2025-11-25**|**Learn the Ropes, Then Trust the Wins: Self-imitation with Progressive Exploration for Agentic Reinforcement Learning**|Yulei Qin et.al.|[2509.22601](http://arxiv.org/abs/2509.22601)|
 |**2025-11-25**|**Inferix: A Block-Diffusion based Next-Generation Inference Engine for World Simulation**|Inferix Team et.al.|[2511.20714](http://arxiv.org/abs/2511.20714)|
 |**2025-11-23**|**Hybrid Agentic AI and Multi-Agent Systems in Smart Manufacturing**|Mojtaba A. Farahani et.al.|[2511.18258](http://arxiv.org/abs/2511.18258)|
 |**2025-11-18**|**KnowCoder-A1: Incentivizing Agentic Reasoning Capability with Outcome Supervision for KBQA**|Zhuo Chen et.al.|[2510.25101](http://arxiv.org/abs/2510.25101)|
@@ -37,7 +39,6 @@ _Updated on 2025.12.09_
 |**2025-11-02**|**HEXGEN-FLOW: Optimizing LLM Inference Request Scheduling for Agentic Text-to-SQL**|You Peng et.al.|[2505.05286](http://arxiv.org/abs/2505.05286)|
 |**2025-11-01**|**KVCOMM: Online Cross-context KV-cache Communication for Efficient LLM-based Multi-agent Systems**|Hancheng Ye et.al.|[2510.12872_(FAST)](http://arxiv.org/abs/2510.12872)|
 |**2025-11-01**|**Agentic Auto-Scheduling: An Experimental Study of LLM-Guided Loop Optimization**|Massinissa Merouani et.al.|[2511.00592_(CHI)](http://arxiv.org/abs/2511.00592)|
-|**2025-11-01**|**EvoMem: Improving Multi-Agent Planning with Dual-Evolving Memory**|Wenzhe Fan et.al.|[2511.01912](http://arxiv.org/abs/2511.01912)|
 |**2025-10-31**|**Tokencake: A KV-Cache-centric Serving Framework for LLM-based Multi-Agent Applications**|Zhuohang Bian et.al.|[2510.18586](http://arxiv.org/abs/2510.18586)|
 |**2025-10-30**|**Agentic AI Home Energy Management System: A Large Language Model Framework for Residential Load Scheduling**|Reda El Makroum et.al.|[2510.26603](http://arxiv.org/abs/2510.26603)|
 |**2025-10-28**|**Pie: A Programmable Serving System for Emerging LLM Applications**|In Gim et.al.|[2510.24051_(SOSP)](http://arxiv.org/abs/2510.24051)|
@@ -68,7 +69,6 @@ _Updated on 2025.12.09_
 |**2025-09-30**|**Towards Agentic OS: An LLM Agent Framework for Linux Schedulers**|Yusheng Zheng et.al.|[2509.01245](http://arxiv.org/abs/2509.01245)|
 |**2025-09-30**|**AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges**|Ranjan Sapkota et.al.|[2505.10468](http://arxiv.org/abs/2505.10468)|
 |**2025-09-29**|**SemShareKV: Efficient KVCache Sharing for Semantically Similar Prompts via Token-Level LSH Matching**|Xinye Zhao et.al.|[2509.24832](http://arxiv.org/abs/2509.24832)|
-|**2025-09-29**|**SimuHome: A Temporal- and Environment-Aware Benchmark for Smart Home LLM Agents**|Gyuhyeon Seo et.al.|[2509.24282](http://arxiv.org/abs/2509.24282)|
 |**2025-09-27**|**Runtime Adaptive Pruning for LLM Inference**|Huanrong Liu et.al.|[2505.17138](http://arxiv.org/abs/2505.17138)|
 |**2025-09-26**|**LLM Assisted Alpha Fairness for 6 GHz WiFi and NR_U Coexistence: An Agentic Orchestrator for Throughput, Energy, and SLA**|Qun Wang et.al.|[2510.17814](http://arxiv.org/abs/2510.17814)|
 |**2025-09-26**|**Solving the Granularity Mismatch: Hierarchical Preference Learning for Long-Horizon LLM Agents**|Heyang Gao et.al.|[2510.03253](http://arxiv.org/abs/2510.03253)|

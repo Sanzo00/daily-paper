@@ -10,6 +10,9 @@ _Updated on 2025.12.09_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-12-08**|**H2EAL: Hybrid-Bonding Architecture with Hybrid Sparse Attention for Efficient Long-Context LLM Inference**|Zizhuo Fu et.al.|[2508.16653_(ICC)](http://arxiv.org/abs/2508.16653)|
+|**2025-12-08**|**Leveraging KV Similarity for Online Structured Pruning in LLMs**|Jungmin Lee et.al.|[2512.07090](http://arxiv.org/abs/2512.07090)|
+|**2025-12-07**|**KV-CAR: KV Cache Compression using Autoencoders and KV Reuse in Large Language Models**|Sourjya Roy et.al.|[2512.06727](http://arxiv.org/abs/2512.06727)|
 |**2025-12-05**|**LMCache: An Efficient KV Cache Layer for Enterprise-Scale LLM Inference**|Yuhan Liu et.al.|[2510.09665](http://arxiv.org/abs/2510.09665)|
 |**2025-12-03**|**Cache What Lasts: Token Retention for Memory-Bounded KV Cache in LLMs**|Ngoc Bui et.al.|[2512.03324](http://arxiv.org/abs/2512.03324)|
 |**2025-12-02**|**SpecPV: Improving Self-Speculative Decoding for Long-Context Generation via Partial Verification**|Zhendong Tan et.al.|[2512.02337](http://arxiv.org/abs/2512.02337)|
@@ -170,7 +173,6 @@ _Updated on 2025.12.09_
 |**2025-08-26**|**Strata: Hierarchical Context Caching for Long Context Language Model Serving**|Zhiqiang Xie et.al.|[2508.18572](http://arxiv.org/abs/2508.18572)|
 |**2025-08-24**|**PRISM: Efficient Long-Range Reasoning With Short-Context LLMs**|Dulhan Jayalath et.al.|[2412.18914_(EMNLP)](http://arxiv.org/abs/2412.18914)|
 |**2025-08-21**|**Efficient Mixed-Precision Large Language Model Inference with TurboMind**|Li Zhang et.al.|[2508.15601](http://arxiv.org/abs/2508.15601)|
-|**2025-08-20**|**H2EAL: Hybrid-Bonding Architecture with Hybrid Sparse Attention for Efficient Long-Context LLM Inference**|Zizhuo Fu et.al.|[2508.16653_(ICC)](http://arxiv.org/abs/2508.16653)|
 |**2025-08-20**|**Entropy-Constrained Strategy Optimization in Urban Floods: A Multi-Agent Framework with LLM and Knowledge Graph Integration**|Peilin Ji et.al.|[2508.14654](http://arxiv.org/abs/2508.14654)|
 |**2025-08-18**|**Datarus-R1: An Adaptive Multi-Step Reasoning LLM for Automated Data Analysis**|Ayoub Ben Chaliah et.al.|[2508.13382](http://arxiv.org/abs/2508.13382)|
 |**2025-08-17**|**ZigzagAttention: Efficient Long-Context Inference with Exclusive Retrieval and Streaming Heads**|Zhuorui Liu et.al.|[2508.12407](http://arxiv.org/abs/2508.12407)|
