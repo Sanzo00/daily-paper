@@ -10,6 +10,7 @@ _Updated on 2025.12.11_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-12-10**|**SnapStream: Efficient Long Sequence Decoding on Dataflow Accelerators**|Jonathan Li et.al.|[2511.03092](http://arxiv.org/abs/2511.03092)|
 |**2025-12-09**|**StreamingThinker: Large Language Models Can Think While Reading**|Junlong Tong et.al.|[2510.17238](http://arxiv.org/abs/2510.17238)|
 |**2025-12-08**|**H2EAL: Hybrid-Bonding Architecture with Hybrid Sparse Attention for Efficient Long-Context LLM Inference**|Zizhuo Fu et.al.|[2508.16653_(ICC)](http://arxiv.org/abs/2508.16653)|
 |**2025-12-08**|**Leveraging KV Similarity for Online Structured Pruning in LLMs**|Jungmin Lee et.al.|[2512.07090](http://arxiv.org/abs/2512.07090)|
@@ -34,7 +35,6 @@ _Updated on 2025.12.11_
 |**2025-11-18**|**CoSense-LLM: Semantics at the Edge with Cost- and Uncertainty-Aware Cloud-Edge Cooperation**|Hasan Akgul et.al.|[2510.19670](http://arxiv.org/abs/2510.19670)|
 |**2025-11-18**|**Near-Lossless Model Compression Enables Longer Context Inference in DNA Large Language Models**|Rui Zhu et.al.|[2511.14694](http://arxiv.org/abs/2511.14694)|
 |**2025-11-17**|**Hogwild! Inference: Parallel LLM Generation via Concurrent Attention**|Gleb Rodionov et.al.|[2504.06261_(NeurIPS)](http://arxiv.org/abs/2504.06261)|
-|**2025-11-14**|**SnapStream: Efficient Long Sequence Decoding on Dataflow Accelerators**|Jonathan Li et.al.|[2511.03092](http://arxiv.org/abs/2511.03092)|
 |**2025-11-13**|**LLM-YOLOMS: Large Language Model-based Semantic Interpretation and Fault Diagnosis for Wind Turbine Components**|Yaru Li et.al.|[2511.10394_(ISS)](http://arxiv.org/abs/2511.10394)|
 |**2025-11-13**|**$A^3$: Attention-Aware Accurate KV Cache Fusion for Fast Large Language Model Serving**|Yuechi Zhou et.al.|[2511.17560](http://arxiv.org/abs/2511.17560)|
 |**2025-11-12**|**Lethe: Layer- and Time-Adaptive KV Cache Pruning for Reasoning-Intensive LLM Serving**|Hui Zeng et.al.|[2511.06029_(AAAI)](http://arxiv.org/abs/2511.06029)|

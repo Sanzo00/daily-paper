@@ -10,8 +10,10 @@ _Updated on 2025.12.11_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-12-10**|**RouteRAG: Efficient Retrieval-Augmented Generation from Text and Graph via Reinforcement Learning**|Yucan Guo et.al.|[2512.09487](http://arxiv.org/abs/2512.09487)|
 |**2025-12-09**|**Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval**|Yingyi Zhang et.al.|[2510.08935](http://arxiv.org/abs/2510.08935)|
 |**2025-12-09**|**Ontology-Based Knowledge Graph Framework for Industrial Standard Documents via Hierarchical and Propositional Structuring**|Jiin Park et.al.|[2512.08398](http://arxiv.org/abs/2512.08398)|
+|**2025-12-09**|**Knowledge-Guided Large Language Model for Automatic Pediatric Dental Record Understanding and Safe Antibiotic Recommendation**|Zihan Han et.al.|[2512.09127](http://arxiv.org/abs/2512.09127)|
 |**2025-12-05**|**LA-RL: Language Action-guided Reinforcement Learning with Safety Guarantees for Autonomous Highway Driving**|Yiming Shu et.al.|[2512.05686](http://arxiv.org/abs/2512.05686)|
 |**2025-12-05**|**Reinforcement Learning Integrated Agentic RAG for Software Test Cases Authoring**|Mohanakrishnan Hariharan et.al.|[2512.06060](http://arxiv.org/abs/2512.06060)|
 |**2025-12-03**|**Privacy-protected Retrieval-Augmented Generation for Knowledge Graph Question Answering**|Yunfeng Ning et.al.|[2508.08785_(AAAI)](http://arxiv.org/abs/2508.08785)|
