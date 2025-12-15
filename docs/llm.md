@@ -6,10 +6,12 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2025.12.14_
+_Updated on 2025.12.15_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-12-12**|**xGR: Efficient Generative Recommendation Serving at Scale**|Qingxiao Sun et.al.|[2512.11529](http://arxiv.org/abs/2512.11529)|
+|**2025-12-12**|**Adaptive Soft Rolling KV Freeze with Entropy-Guided Recovery: Sublinear Memory Growth for Efficient LLM Inference**|Adilet Metinov et.al.|[2512.11221](http://arxiv.org/abs/2512.11221)|
 |**2025-12-11**|**Unlocking the Address Book: Dissecting the Sparse Semantic Structure of LLM Key-Value Caches via Sparse Autoencoders**|Qingsen Ma et.al.|[2512.10547](http://arxiv.org/abs/2512.10547)|
 |**2025-12-10**|**SnapStream: Efficient Long Sequence Decoding on Dataflow Accelerators**|Jonathan Li et.al.|[2511.03092](http://arxiv.org/abs/2511.03092)|
 |**2025-12-09**|**StreamingThinker: Large Language Models Can Think While Reading**|Junlong Tong et.al.|[2510.17238](http://arxiv.org/abs/2510.17238)|
