@@ -10,6 +10,7 @@ _Updated on 2025.12.15_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-12-12**|**GSplit: Scaling Graph Neural Network Training on Large Graphs via Split-Parallelism**|Sandeep Polisetty et.al.|[2303.13775](http://arxiv.org/abs/2303.13775)|
 |**2025-12-11**|**Formula size game and model checking for modal substitution calculus**|Veeti Ahvonen et.al.|[2505.07966](http://arxiv.org/abs/2505.07966)|
 |**2025-12-01**|**Domain-Decomposed Graph Neural Network Surrogate Modeling for Ice Sheets**|Adrienne M. Propp et.al.|[2512.01888](http://arxiv.org/abs/2512.01888)|
 |**2025-11-25**|**RIS-Assisted Downlink Pinching-Antenna Systems: GNN-Enabled Optimization Approaches**|Changpeng He et.al.|[2511.20305](http://arxiv.org/abs/2511.20305)|
@@ -70,7 +71,6 @@ _Updated on 2025.12.15_
 |**2024-07-19**|**TorchGT: A Holistic System for Large-scale Graph Transformer Training**|Meng Zhang et.al.|[2407.14106_(Networking)](http://arxiv.org/abs/2407.14106)|
 |**2024-07-11**|**Robust Generalization of Graph Neural Networks for Carrier Scheduling**|Daniel F. Perez-Ramirez et.al.|[2407.08479](http://arxiv.org/abs/2407.08479)|
 |**2024-07-01**|**Optimizing Age of Information in Vehicular Edge Computing with Federated Graph Neural Network Multi-Agent Reinforcement Learning**|Wenhua Wang et.al.|[2407.02342](http://arxiv.org/abs/2407.02342)|
-|**2024-06-27**|**GSplit: Scaling Graph Neural Network Training on Large Graphs via Split-Parallelism**|Sandeep Polisetty et.al.|[2303.13775](http://arxiv.org/abs/2303.13775)|
 |**2024-06-20**|**Reducing Memory Contention and I/O Congestion for Disk-based GNN Training**|Qisheng Jiang et.al.|[2406.13984_(ICPP)](http://arxiv.org/abs/2406.13984)|
 |**2024-06-14**|**GraphFM: A Comprehensive Benchmark for Graph Foundation Model**|Yuhao Xu et.al.|[2406.08310](http://arxiv.org/abs/2406.08310)|
 |**2024-04-23**|**NMBEnet: Efficient Near-field mmWave Beam Training for Multiuser OFDM Systems Using Sub-6 GHz Pilots**|Wang Liu et.al.|[2404.15469](http://arxiv.org/abs/2404.15469)|

@@ -10,6 +10,7 @@ _Updated on 2025.12.15_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-12-12**|**Aragog: Just-in-Time Model Routing for Scalable Serving of Agentic Workflows**|Yinwei Dai et.al.|[2511.20975](http://arxiv.org/abs/2511.20975)|
 |**2025-12-11**|**JITServe: SLO-aware LLM Serving with Imprecise Request Information**|Wei Zhang et.al.|[2504.20068](http://arxiv.org/abs/2504.20068)|
 |**2025-12-08**|**EvoMem: Improving Multi-Agent Planning with Dual-Evolving Memory**|Wenzhe Fan et.al.|[2511.01912](http://arxiv.org/abs/2511.01912)|
 |**2025-12-08**|**SimuHome: A Temporal- and Environment-Aware Benchmark for Smart Home LLM Agents**|Gyuhyeon Seo et.al.|[2509.24282](http://arxiv.org/abs/2509.24282)|
@@ -23,7 +24,6 @@ _Updated on 2025.12.15_
 |**2025-11-28**|**LegalWebAgent: Empowering Access to Justice via LLM-Based Web Agents**|Jinzhe Tan et.al.|[2512.04105](http://arxiv.org/abs/2512.04105)|
 |**2025-11-27**|**EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval**|Zebin Yang et.al.|[2510.18546_(NeurIPS)](http://arxiv.org/abs/2510.18546)|
 |**2025-11-27**|**Optimizing NetGPT via Routing-Based Synergy and Reinforcement Learning**|Yuxuan Chen et.al.|[2511.22217](http://arxiv.org/abs/2511.22217)|
-|**2025-11-26**|**Aragog: Just-in-Time Model Routing for Scalable Serving of Agentic Workflows**|Yinwei Dai et.al.|[2511.20975](http://arxiv.org/abs/2511.20975)|
 |**2025-11-25**|**Reducing Latency of LLM Search Agent via Speculation-based Algorithm-System Co-Design**|Zixiao Huang et.al.|[2511.20048](http://arxiv.org/abs/2511.20048)|
 |**2025-11-25**|**Inferix: A Block-Diffusion based Next-Generation Inference Engine for World Simulation**|Inferix Team et.al.|[2511.20714](http://arxiv.org/abs/2511.20714)|
 |**2025-11-23**|**Hybrid Agentic AI and Multi-Agent Systems in Smart Manufacturing**|Mojtaba A. Farahani et.al.|[2511.18258](http://arxiv.org/abs/2511.18258)|
