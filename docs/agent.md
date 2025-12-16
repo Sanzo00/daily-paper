@@ -10,6 +10,7 @@ _Updated on 2025.12.16_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-12-13**|**V-Rex: Real-Time Streaming Video LLM Acceleration via Dynamic KV Cache Retrieval**|Donghyuk Kim et.al.|[2512.12284](http://arxiv.org/abs/2512.12284)|
 |**2025-12-12**|**Aragog: Just-in-Time Model Routing for Scalable Serving of Agentic Workflows**|Yinwei Dai et.al.|[2511.20975](http://arxiv.org/abs/2511.20975)|
 |**2025-12-11**|**JITServe: SLO-aware LLM Serving with Imprecise Request Information**|Wei Zhang et.al.|[2504.20068](http://arxiv.org/abs/2504.20068)|
 |**2025-12-08**|**EvoMem: Improving Multi-Agent Planning with Dual-Evolving Memory**|Wenzhe Fan et.al.|[2511.01912](http://arxiv.org/abs/2511.01912)|

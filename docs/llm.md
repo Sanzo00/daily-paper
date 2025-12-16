@@ -10,9 +10,14 @@ _Updated on 2025.12.16_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-12-15**|**Uncovering the Role of Initial Saliency in U-Shaped Attention Bias: Scaling Initial Token Weight for Enhanced Long-Text Processing**|Zewen Qiang et.al.|[2512.13109](http://arxiv.org/abs/2512.13109)|
+|**2025-12-14**|**Lethe: Layer- and Time-Adaptive KV Cache Pruning for Reasoning-Intensive LLM Serving**|Hui Zeng et.al.|[2511.06029_(AAAI)](http://arxiv.org/abs/2511.06029)|
+|**2025-12-13**|**V-Rex: Real-Time Streaming Video LLM Acceleration via Dynamic KV Cache Retrieval**|Donghyuk Kim et.al.|[2512.12284](http://arxiv.org/abs/2512.12284)|
 |**2025-12-12**|**xGR: Efficient Generative Recommendation Serving at Scale**|Qingxiao Sun et.al.|[2512.11529](http://arxiv.org/abs/2512.11529)|
 |**2025-12-12**|**Adaptive Soft Rolling KV Freeze with Entropy-Guided Recovery: Sublinear Memory Growth for Efficient LLM Inference**|Adilet Metinov et.al.|[2512.11221](http://arxiv.org/abs/2512.11221)|
+|**2025-12-12**|**Hold Onto That Thought: Assessing KV Cache Compression On Reasoning**|Minghui Liu et.al.|[2512.12008](http://arxiv.org/abs/2512.12008)|
 |**2025-12-11**|**Unlocking the Address Book: Dissecting the Sparse Semantic Structure of LLM Key-Value Caches via Sparse Autoencoders**|Qingsen Ma et.al.|[2512.10547](http://arxiv.org/abs/2512.10547)|
+|**2025-12-11**|**CXL-SpecKV: A Disaggregated FPGA Speculative KV-Cache for Datacenter LLM Serving**|Dong Liu et.al.|[2512.11920_(FPGA)](http://arxiv.org/abs/2512.11920)|
 |**2025-12-10**|**SnapStream: Efficient Long Sequence Decoding on Dataflow Accelerators**|Jonathan Li et.al.|[2511.03092](http://arxiv.org/abs/2511.03092)|
 |**2025-12-09**|**StreamingThinker: Large Language Models Can Think While Reading**|Junlong Tong et.al.|[2510.17238](http://arxiv.org/abs/2510.17238)|
 |**2025-12-08**|**H2EAL: Hybrid-Bonding Architecture with Hybrid Sparse Attention for Efficient Long-Context LLM Inference**|Zizhuo Fu et.al.|[2508.16653_(ICC)](http://arxiv.org/abs/2508.16653)|
@@ -20,6 +25,7 @@ _Updated on 2025.12.16_
 |**2025-12-07**|**KV-CAR: KV Cache Compression using Autoencoders and KV Reuse in Large Language Models**|Sourjya Roy et.al.|[2512.06727](http://arxiv.org/abs/2512.06727)|
 |**2025-12-07**|**ELANA: A Simple Energy and Latency Analyzer for LLMs**|Hung-Yueh Chiang et.al.|[2512.09946](http://arxiv.org/abs/2512.09946)|
 |**2025-12-05**|**LMCache: An Efficient KV Cache Layer for Enterprise-Scale LLM Inference**|Yuhan Liu et.al.|[2510.09665](http://arxiv.org/abs/2510.09665)|
+|**2025-12-04**|**KV Cache Recycling to Expand Usable Context Capacity in Low Parameter LLMs**|Prashant Pandey et.al.|[2512.11851](http://arxiv.org/abs/2512.11851)|
 |**2025-12-03**|**Cache What Lasts: Token Retention for Memory-Bounded KV Cache in LLMs**|Ngoc Bui et.al.|[2512.03324](http://arxiv.org/abs/2512.03324)|
 |**2025-12-02**|**SpecPV: Improving Self-Speculative Decoding for Long-Context Generation via Partial Verification**|Zhendong Tan et.al.|[2512.02337](http://arxiv.org/abs/2512.02337)|
 |**2025-12-01**|**Tangram: Accelerating Serverless LLM Loading through GPU Memory Reuse and Affinity**|Wenbin Zhu et.al.|[2512.01357](http://arxiv.org/abs/2512.01357)|
@@ -41,7 +47,6 @@ _Updated on 2025.12.16_
 |**2025-11-17**|**Hogwild! Inference: Parallel LLM Generation via Concurrent Attention**|Gleb Rodionov et.al.|[2504.06261_(NeurIPS)](http://arxiv.org/abs/2504.06261)|
 |**2025-11-13**|**LLM-YOLOMS: Large Language Model-based Semantic Interpretation and Fault Diagnosis for Wind Turbine Components**|Yaru Li et.al.|[2511.10394_(ISS)](http://arxiv.org/abs/2511.10394)|
 |**2025-11-13**|**$A^3$: Attention-Aware Accurate KV Cache Fusion for Fast Large Language Model Serving**|Yuechi Zhou et.al.|[2511.17560](http://arxiv.org/abs/2511.17560)|
-|**2025-11-12**|**Lethe: Layer- and Time-Adaptive KV Cache Pruning for Reasoning-Intensive LLM Serving**|Hui Zeng et.al.|[2511.06029_(AAAI)](http://arxiv.org/abs/2511.06029)|
 |**2025-11-11**|**Glia: A Human-Inspired AI for Automated Systems Design and Optimization**|Pouya Hamadanian et.al.|[2510.27176](http://arxiv.org/abs/2510.27176)|
 |**2025-11-10**|**KVLink: Accelerating Large Language Models via Efficient KV Cache Reuse**|Jingbo Yang et.al.|[2502.16002](http://arxiv.org/abs/2502.16002)|
 |**2025-11-10**|**StreamKV: Streaming Video Question-Answering with Segment-based KV Cache Retrieval and Compression**|Yilong Chen et.al.|[2511.07278](http://arxiv.org/abs/2511.07278)|

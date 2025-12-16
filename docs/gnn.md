@@ -12,6 +12,7 @@ _Updated on 2025.12.16_
 |:-------------|:------|:--------|:----|
 |**2025-12-12**|**GSplit: Scaling Graph Neural Network Training on Large Graphs via Split-Parallelism**|Sandeep Polisetty et.al.|[2303.13775](http://arxiv.org/abs/2303.13775)|
 |**2025-12-11**|**Formula size game and model checking for modal substitution calculus**|Veeti Ahvonen et.al.|[2505.07966](http://arxiv.org/abs/2505.07966)|
+|**2025-12-05**|**GCoDE: Efficient Device-Edge Co-Inference for GNNs via Architecture-Mapping Co-Search**|Ao Zhou et.al.|[2512.11856](http://arxiv.org/abs/2512.11856)|
 |**2025-12-01**|**Domain-Decomposed Graph Neural Network Surrogate Modeling for Ice Sheets**|Adrienne M. Propp et.al.|[2512.01888](http://arxiv.org/abs/2512.01888)|
 |**2025-11-25**|**RIS-Assisted Downlink Pinching-Antenna Systems: GNN-Enabled Optimization Approaches**|Changpeng He et.al.|[2511.20305](http://arxiv.org/abs/2511.20305)|
 |**2025-11-13**|**ASSENT: Learning-Based Association Optimization for Distributed Cell-Free ISAC**|Mehdi Zafari et.al.|[2511.09992](http://arxiv.org/abs/2511.09992)|
