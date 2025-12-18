@@ -10,6 +10,7 @@ _Updated on 2025.12.18_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-12-16**|**SemShareKV: Efficient KVCache Sharing for Semantically Similar Prompts via Token-Level LSH Matching**|Xinye Zhao et.al.|[2509.24832](http://arxiv.org/abs/2509.24832)|
 |**2025-12-16**|**Astraea: A State-Aware Scheduling Engine for LLM-Powered Agents**|Hongqiu Ni et.al.|[2512.14142](http://arxiv.org/abs/2512.14142)|
 |**2025-12-16**|**Model-First Reasoning LLM Agents: Reducing Hallucinations through Explicit Problem Modeling**|Annu Rana et.al.|[2512.14474](http://arxiv.org/abs/2512.14474)|
 |**2025-12-15**|**Multi-Agent Collaborative Framework for Intelligent IT Operations: An AOI System with Context-Aware Compression and Dynamic Task Scheduling**|Zishan Bai et.al.|[2512.13956](http://arxiv.org/abs/2512.13956)|
@@ -74,7 +75,6 @@ _Updated on 2025.12.18_
 |**2025-10-01**|**GUI-KV: Efficient GUI Agents via KV Cache with Spatio-Temporal Awareness**|Kung-Hsiang Huang et.al.|[2510.00536](http://arxiv.org/abs/2510.00536)|
 |**2025-09-30**|**Towards Agentic OS: An LLM Agent Framework for Linux Schedulers**|Yusheng Zheng et.al.|[2509.01245](http://arxiv.org/abs/2509.01245)|
 |**2025-09-30**|**AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges**|Ranjan Sapkota et.al.|[2505.10468](http://arxiv.org/abs/2505.10468)|
-|**2025-09-29**|**SemShareKV: Efficient KVCache Sharing for Semantically Similar Prompts via Token-Level LSH Matching**|Xinye Zhao et.al.|[2509.24832](http://arxiv.org/abs/2509.24832)|
 |**2025-09-27**|**Runtime Adaptive Pruning for LLM Inference**|Huanrong Liu et.al.|[2505.17138](http://arxiv.org/abs/2505.17138)|
 |**2025-09-26**|**LLM Assisted Alpha Fairness for 6 GHz WiFi and NR_U Coexistence: An Agentic Orchestrator for Throughput, Energy, and SLA**|Qun Wang et.al.|[2510.17814](http://arxiv.org/abs/2510.17814)|
 |**2025-09-26**|**Solving the Granularity Mismatch: Hierarchical Preference Learning for Long-Horizon LLM Agents**|Heyang Gao et.al.|[2510.03253](http://arxiv.org/abs/2510.03253)|

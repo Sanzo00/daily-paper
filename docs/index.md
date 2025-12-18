@@ -10,10 +10,12 @@ _Updated on 2025.12.18_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-12-17**|**Bilateral Spatial Reasoning about Street Networks: Graph-based RAG with Qualitative Spatial Representations**|Reinhard Moratz et.al.|[2512.15388](http://arxiv.org/abs/2512.15388)|
 |**2025-12-16**|**A Knowledge Graph-based Retrieval-Augmented Generation Framework for Algorithm Selection in the Facility Layout Problem**|Nikhil N S et.al.|[2509.18054](http://arxiv.org/abs/2509.18054)|
 |**2025-12-16**|**Exploring Network-Knowledge Graph Duality: A Case Study in Agentic Supply Chain Risk Analysis**|Evan Heus et.al.|[2510.01115](http://arxiv.org/abs/2510.01115)|
 |**2025-12-16**|**Cog-RAG: Cognitive-Inspired Dual-Hypergraph with Theme Alignment Retrieval-Augmented Generation**|Hao Hu et.al.|[2511.13201_(AAAI)](http://arxiv.org/abs/2511.13201)|
 |**2025-12-16**|**PAT: Accelerating LLM Decoding via Prefix-Aware Attention with Resource Efficient Multi-Tile Kernel**|Jinjun Yi et.al.|[2511.22333_(ASPLOS)](http://arxiv.org/abs/2511.22333)|
+|**2025-12-16**|**IaC Generation with LLMs: An Error Taxonomy and A Study on Configuration Knowledge Injection**|Roman Nekrasov et.al.|[2512.14792](http://arxiv.org/abs/2512.14792)|
 |**2025-12-10**|**RouteRAG: Efficient Retrieval-Augmented Generation from Text and Graph via Reinforcement Learning**|Yucan Guo et.al.|[2512.09487](http://arxiv.org/abs/2512.09487)|
 |**2025-12-09**|**Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval**|Yingyi Zhang et.al.|[2510.08935](http://arxiv.org/abs/2510.08935)|
 |**2025-12-09**|**Ontology-Based Knowledge Graph Framework for Industrial Standard Documents via Hierarchical and Propositional Structuring**|Jiin Park et.al.|[2512.08398](http://arxiv.org/abs/2512.08398)|

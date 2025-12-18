@@ -10,9 +10,13 @@ _Updated on 2025.12.18_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-12-17**|**CTkvr: KV Cache Retrieval for Long-Context LLMs via Centroid then Token Indexing**|Kuan Lu et.al.|[2512.15550](http://arxiv.org/abs/2512.15550)|
+|**2025-12-17**|**Dynamic Rebatching for Efficient Early-Exit Inference with DREX**|Xuting Liu et.al.|[2512.15705](http://arxiv.org/abs/2512.15705)|
 |**2025-12-16**|**FreeKV: Boosting KV Cache Retrieval for Efficient LLM Inference**|Guangda Liu et.al.|[2505.13109](http://arxiv.org/abs/2505.13109)|
+|**2025-12-16**|**SemShareKV: Efficient KVCache Sharing for Semantically Similar Prompts via Token-Level LSH Matching**|Xinye Zhao et.al.|[2509.24832](http://arxiv.org/abs/2509.24832)|
 |**2025-12-16**|**PAT: Accelerating LLM Decoding via Prefix-Aware Attention with Resource Efficient Multi-Tile Kernel**|Jinjun Yi et.al.|[2511.22333_(ASPLOS)](http://arxiv.org/abs/2511.22333)|
 |**2025-12-16**|**Astraea: A State-Aware Scheduling Engine for LLM-Powered Agents**|Hongqiu Ni et.al.|[2512.14142](http://arxiv.org/abs/2512.14142)|
+|**2025-12-16**|**EVICPRESS: Joint KV-Cache Compression and Eviction for Efficient LLM Serving**|Shaoting Feng et.al.|[2512.14946](http://arxiv.org/abs/2512.14946)|
 |**2025-12-15**|**Uncovering the Role of Initial Saliency in U-Shaped Attention Bias: Scaling Initial Token Weight for Enhanced Long-Text Processing**|Zewen Qiang et.al.|[2512.13109](http://arxiv.org/abs/2512.13109)|
 |**2025-12-14**|**Lethe: Layer- and Time-Adaptive KV Cache Pruning for Reasoning-Intensive LLM Serving**|Hui Zeng et.al.|[2511.06029_(AAAI)](http://arxiv.org/abs/2511.06029)|
 |**2025-12-13**|**V-Rex: Real-Time Streaming Video LLM Acceleration via Dynamic KV Cache Retrieval**|Donghyuk Kim et.al.|[2512.12284](http://arxiv.org/abs/2512.12284)|
@@ -138,7 +142,6 @@ _Updated on 2025.12.18_
 |**2025-09-29**|**SpecExtend: A Drop-in Enhancement for Speculative Decoding of Long Sequences**|Jungyoub Cha et.al.|[2505.20776](http://arxiv.org/abs/2505.20776)|
 |**2025-09-29**|**SentenceKV: Efficient LLM Inference via Sentence-Level Semantic KV Caching**|Yuxuan Zhu et.al.|[2504.00970](http://arxiv.org/abs/2504.00970)|
 |**2025-09-29**|**SparseServe: Unlocking Parallelism for Dynamic Sparse Attention in Long-Context LLM Serving**|Qihui Zhou et.al.|[2509.24626](http://arxiv.org/abs/2509.24626)|
-|**2025-09-29**|**SemShareKV: Efficient KVCache Sharing for Semantically Similar Prompts via Token-Level LSH Matching**|Xinye Zhao et.al.|[2509.24832](http://arxiv.org/abs/2509.24832)|
 |**2025-09-29**|**SimuHome: A Temporal- and Environment-Aware Benchmark for Smart Home LLM Agents**|Gyuhyeon Seo et.al.|[2509.24282](http://arxiv.org/abs/2509.24282)|
 |**2025-09-28**|**From An LLM Swarm To A PDDL-Empowered HIVE: Planning Self-Executed Instructions In A Multi-Modal Jungle**|Kaustubh Vyas et.al.|[2412.12839_(ICLR)](http://arxiv.org/abs/2412.12839)|
 |**2025-09-28**|**HiViS: Hiding Visual Tokens from the Drafter for Speculative Decoding in Vision-Language Models**|Zhinan Xie et.al.|[2509.23928](http://arxiv.org/abs/2509.23928)|
