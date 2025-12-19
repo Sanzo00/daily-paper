@@ -10,6 +10,7 @@ _Updated on 2025.12.19_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-12-18**|**MEPIC: Memory Efficient Position Independent Caching for LLM Serving**|Qian Wang et.al.|[2512.16822](http://arxiv.org/abs/2512.16822)|
 |**2025-12-17**|**CTkvr: KV Cache Retrieval for Long-Context LLMs via Centroid then Token Indexing**|Kuan Lu et.al.|[2512.15550](http://arxiv.org/abs/2512.15550)|
 |**2025-12-17**|**Dynamic Rebatching for Efficient Early-Exit Inference with DREX**|Xuting Liu et.al.|[2512.15705](http://arxiv.org/abs/2512.15705)|
 |**2025-12-16**|**FreeKV: Boosting KV Cache Retrieval for Efficient LLM Inference**|Guangda Liu et.al.|[2505.13109](http://arxiv.org/abs/2505.13109)|

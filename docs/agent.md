@@ -10,10 +10,12 @@ _Updated on 2025.12.19_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-12-18**|**MEPIC: Memory Efficient Position Independent Caching for LLM Serving**|Qian Wang et.al.|[2512.16822](http://arxiv.org/abs/2512.16822)|
 |**2025-12-16**|**SemShareKV: Efficient KVCache Sharing for Semantically Similar Prompts via Token-Level LSH Matching**|Xinye Zhao et.al.|[2509.24832](http://arxiv.org/abs/2509.24832)|
 |**2025-12-16**|**Astraea: A State-Aware Scheduling Engine for LLM-Powered Agents**|Hongqiu Ni et.al.|[2512.14142](http://arxiv.org/abs/2512.14142)|
 |**2025-12-16**|**Model-First Reasoning LLM Agents: Reducing Hallucinations through Explicit Problem Modeling**|Annu Rana et.al.|[2512.14474](http://arxiv.org/abs/2512.14474)|
 |**2025-12-15**|**Multi-Agent Collaborative Framework for Intelligent IT Operations: An AOI System with Context-Aware Compression and Dynamic Task Scheduling**|Zishan Bai et.al.|[2512.13956](http://arxiv.org/abs/2512.13956)|
+|**2025-12-15**|**Beyond Training: Enabling Self-Evolution of Agents with MOBIMEM**|Zibin Liu et.al.|[2512.15784](http://arxiv.org/abs/2512.15784)|
 |**2025-12-13**|**V-Rex: Real-Time Streaming Video LLM Acceleration via Dynamic KV Cache Retrieval**|Donghyuk Kim et.al.|[2512.12284](http://arxiv.org/abs/2512.12284)|
 |**2025-12-12**|**Aragog: Just-in-Time Model Routing for Scalable Serving of Agentic Workflows**|Yinwei Dai et.al.|[2511.20975](http://arxiv.org/abs/2511.20975)|
 |**2025-12-11**|**JITServe: SLO-aware LLM Serving with Imprecise Request Information**|Wei Zhang et.al.|[2504.20068](http://arxiv.org/abs/2504.20068)|

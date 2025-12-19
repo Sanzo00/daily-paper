@@ -10,6 +10,9 @@ _Updated on 2025.12.19_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-12-18**|**MEPIC: Memory Efficient Position Independent Caching for LLM Serving**|Qian Wang et.al.|[2512.16822](http://arxiv.org/abs/2512.16822)|
+|**2025-12-18**|**Introducing ORKG ASK: an AI-driven Scholarly Literature Search and Exploration System Taking a Neuro-Symbolic Approach**|Allard Oelen et.al.|[2512.16425](http://arxiv.org/abs/2512.16425)|
+|**2025-12-18**|**The Evolution of Reranking Models in Information Retrieval: From Heuristic Methods to Large Language Models**|Tejul Pandit et.al.|[2512.16236](http://arxiv.org/abs/2512.16236)|
 |**2025-12-17**|**Bilateral Spatial Reasoning about Street Networks: Graph-based RAG with Qualitative Spatial Representations**|Reinhard Moratz et.al.|[2512.15388](http://arxiv.org/abs/2512.15388)|
 |**2025-12-16**|**A Knowledge Graph-based Retrieval-Augmented Generation Framework for Algorithm Selection in the Facility Layout Problem**|Nikhil N S et.al.|[2509.18054](http://arxiv.org/abs/2509.18054)|
 |**2025-12-16**|**Exploring Network-Knowledge Graph Duality: A Case Study in Agentic Supply Chain Risk Analysis**|Evan Heus et.al.|[2510.01115](http://arxiv.org/abs/2510.01115)|
