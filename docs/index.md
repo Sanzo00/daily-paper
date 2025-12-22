@@ -6,10 +6,11 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2025.12.21_
+_Updated on 2025.12.22_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-12-19**|**RecipeMasterLLM: Revisiting RoboEarth in the Era of Large Language Models**|Asil Kaan Bozcuoglu et.al.|[2512.17309](http://arxiv.org/abs/2512.17309)|
 |**2025-12-18**|**MEPIC: Memory Efficient Position Independent Caching for LLM Serving**|Qian Wang et.al.|[2512.16822](http://arxiv.org/abs/2512.16822)|
 |**2025-12-18**|**Introducing ORKG ASK: an AI-driven Scholarly Literature Search and Exploration System Taking a Neuro-Symbolic Approach**|Allard Oelen et.al.|[2512.16425](http://arxiv.org/abs/2512.16425)|
 |**2025-12-18**|**The Evolution of Reranking Models in Information Retrieval: From Heuristic Methods to Large Language Models**|Tejul Pandit et.al.|[2512.16236](http://arxiv.org/abs/2512.16236)|

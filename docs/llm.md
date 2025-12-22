@@ -6,10 +6,12 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2025.12.21_
+_Updated on 2025.12.22_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-12-19**|**xGR: Efficient Generative Recommendation Serving at Scale**|Qingxiao Sun et.al.|[2512.11529](http://arxiv.org/abs/2512.11529)|
+|**2025-12-19**|**V-Rex: Real-Time Streaming Video LLM Acceleration via Dynamic KV Cache Retrieval**|Donghyuk Kim et.al.|[2512.12284](http://arxiv.org/abs/2512.12284)|
 |**2025-12-18**|**MEPIC: Memory Efficient Position Independent Caching for LLM Serving**|Qian Wang et.al.|[2512.16822](http://arxiv.org/abs/2512.16822)|
 |**2025-12-17**|**CTkvr: KV Cache Retrieval for Long-Context LLMs via Centroid then Token Indexing**|Kuan Lu et.al.|[2512.15550](http://arxiv.org/abs/2512.15550)|
 |**2025-12-17**|**Dynamic Rebatching for Efficient Early-Exit Inference with DREX**|Xuting Liu et.al.|[2512.15705](http://arxiv.org/abs/2512.15705)|
@@ -20,8 +22,6 @@ _Updated on 2025.12.21_
 |**2025-12-16**|**EVICPRESS: Joint KV-Cache Compression and Eviction for Efficient LLM Serving**|Shaoting Feng et.al.|[2512.14946](http://arxiv.org/abs/2512.14946)|
 |**2025-12-15**|**Uncovering the Role of Initial Saliency in U-Shaped Attention Bias: Scaling Initial Token Weight for Enhanced Long-Text Processing**|Zewen Qiang et.al.|[2512.13109](http://arxiv.org/abs/2512.13109)|
 |**2025-12-14**|**Lethe: Layer- and Time-Adaptive KV Cache Pruning for Reasoning-Intensive LLM Serving**|Hui Zeng et.al.|[2511.06029_(AAAI)](http://arxiv.org/abs/2511.06029)|
-|**2025-12-13**|**V-Rex: Real-Time Streaming Video LLM Acceleration via Dynamic KV Cache Retrieval**|Donghyuk Kim et.al.|[2512.12284](http://arxiv.org/abs/2512.12284)|
-|**2025-12-12**|**xGR: Efficient Generative Recommendation Serving at Scale**|Qingxiao Sun et.al.|[2512.11529](http://arxiv.org/abs/2512.11529)|
 |**2025-12-12**|**Adaptive Soft Rolling KV Freeze with Entropy-Guided Recovery: Sublinear Memory Growth for Efficient LLM Inference**|Adilet Metinov et.al.|[2512.11221](http://arxiv.org/abs/2512.11221)|
 |**2025-12-12**|**Hold Onto That Thought: Assessing KV Cache Compression On Reasoning**|Minghui Liu et.al.|[2512.12008](http://arxiv.org/abs/2512.12008)|
 |**2025-12-11**|**Unlocking the Address Book: Dissecting the Sparse Semantic Structure of LLM Key-Value Caches via Sparse Autoencoders**|Qingsen Ma et.al.|[2512.10547](http://arxiv.org/abs/2512.10547)|
