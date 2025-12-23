@@ -10,6 +10,7 @@ _Updated on 2025.12.23_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-12-20**|**A Distributed Hierarchical Spatio-Temporal Edge-Enhanced Graph Neural Network for City-Scale Dynamic Logistics Routing**|Zihan Han et.al.|[2512.18441](http://arxiv.org/abs/2512.18441)|
 |**2025-12-12**|**GSplit: Scaling Graph Neural Network Training on Large Graphs via Split-Parallelism**|Sandeep Polisetty et.al.|[2303.13775](http://arxiv.org/abs/2303.13775)|
 |**2025-12-11**|**Formula size game and model checking for modal substitution calculus**|Veeti Ahvonen et.al.|[2505.07966](http://arxiv.org/abs/2505.07966)|
 |**2025-12-05**|**GCoDE: Efficient Device-Edge Co-Inference for GNNs via Architecture-Mapping Co-Search**|Ao Zhou et.al.|[2512.11856](http://arxiv.org/abs/2512.11856)|
