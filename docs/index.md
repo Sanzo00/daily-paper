@@ -35,6 +35,7 @@ _Updated on 2025.12.25_
 |**2025-11-29**|**REBot: From RAG to CatRAG with Semantic Enrichment and Graph Routing**|Thanh Ma et.al.|[2510.01800](http://arxiv.org/abs/2510.01800)|
 |**2025-11-26**|**Chatty-KG: A Multi-Agent AI System for On-Demand Conversational Question Answering over Knowledge Graphs**|Reham Omar et.al.|[2511.20940_(SIGMOD)](http://arxiv.org/abs/2511.20940)|
 |**2025-11-26**|**Graph-O1 : Monte Carlo Tree Search with Reinforcement Learning for Text-Attributed Graph Reasoning**|Lihui Liu et.al.|[2512.17912](http://arxiv.org/abs/2512.17912)|
+|**2025-11-26**|**MegaRAG: Multimodal Knowledge Graph-Based Retrieval Augmented Generation**|Chi-Hsiang Hsiao et.al.|[2512.20626](http://arxiv.org/abs/2512.20626)|
 |**2025-11-25**|**Understanding and Optimizing Multi-Stage AI Inference Pipelines**|Abhimanyu Rajeshkumar Bambhaniya et.al.|[2504.09775](http://arxiv.org/abs/2504.09775)|
 |**2025-11-25**|**HyperbolicRAG: Enhancing Retrieval-Augmented Generation with Hyperbolic Representations**|Linxiao Cao et.al.|[2511.18808](http://arxiv.org/abs/2511.18808)|
 |**2025-11-24**|**Human Cognition Inspired RAG with Knowledge Graph for Complex Problem Solving**|Yao Cheng et.al.|[2503.06567_(AAAI)](http://arxiv.org/abs/2503.06567)|

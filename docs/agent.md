@@ -10,13 +10,14 @@ _Updated on 2025.12.25_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-12-24**|**V-Rex: Real-Time Streaming Video LLM Acceleration via Dynamic KV Cache Retrieval**|Donghyuk Kim et.al.|[2512.12284_(HPCA)](http://arxiv.org/abs/2512.12284)|
+|**2025-12-23**|**AgentMath: Empowering Mathematical Reasoning for Large Language Models via Tool-Augmented Agent**|Haipeng Luo et.al.|[2512.20745](http://arxiv.org/abs/2512.20745)|
 |**2025-12-22**|**JITServe: SLO-aware LLM Serving with Imprecise Request Information**|Wei Zhang et.al.|[2504.20068](http://arxiv.org/abs/2504.20068)|
 |**2025-12-21**|**IntelliCode: A Multi-Agent LLM Tutoring System with Centralized Learner Modeling**|Jones David et.al.|[2512.18669_(ACL)](http://arxiv.org/abs/2512.18669)|
 |**2025-12-21**|**Does It Tie Out? Towards Autonomous Legal Agents in Venture Capital**|Pierre Colombo et.al.|[2512.18658](http://arxiv.org/abs/2512.18658)|
 |**2025-12-20**|**Continuum: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live**|Hanchen Li et.al.|[2511.02230](http://arxiv.org/abs/2511.02230)|
 |**2025-12-20**|**Chimera: Harnessing Multi-Agent LLMs for Automatic Insider Threat Simulation**|Jiongchi Yu et.al.|[2508.07745_(NDSS)](http://arxiv.org/abs/2508.07745)|
 |**2025-12-20**|**Towards Efficient Agents: A Co-Design of Inference Architecture and System**|Weizhe Lin et.al.|[2512.18337](http://arxiv.org/abs/2512.18337)|
-|**2025-12-19**|**V-Rex: Real-Time Streaming Video LLM Acceleration via Dynamic KV Cache Retrieval**|Donghyuk Kim et.al.|[2512.12284](http://arxiv.org/abs/2512.12284)|
 |**2025-12-18**|**MEPIC: Memory Efficient Position Independent Caching for LLM Serving**|Qian Wang et.al.|[2512.16822](http://arxiv.org/abs/2512.16822)|
 |**2025-12-16**|**SemShareKV: Efficient KVCache Sharing for Semantically Similar Prompts via Token-Level LSH Matching**|Xinye Zhao et.al.|[2509.24832](http://arxiv.org/abs/2509.24832)|
 |**2025-12-16**|**Astraea: A State-Aware Scheduling Engine for LLM-Powered Agents**|Hongqiu Ni et.al.|[2512.14142](http://arxiv.org/abs/2512.14142)|
