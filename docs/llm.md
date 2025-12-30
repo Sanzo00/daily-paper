@@ -10,11 +10,15 @@ _Updated on 2025.12.30_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-12-29**|**ODMA: On-Demand Memory Allocation Framework for LLM Serving on LPDDR-Class Accelerators**|Guoqiang Zou et.al.|[2512.09427](http://arxiv.org/abs/2512.09427)|
+|**2025-12-28**|**Attention Is All You Need for KV Cache in Diffusion LLMs**|Quan Nguyen-Tri et.al.|[2510.14973](http://arxiv.org/abs/2510.14973)|
+|**2025-12-28**|**WeDLM: Reconciling Diffusion Language Models with Standard Causal Attention for Fast Inference**|Aiwei Liu et.al.|[2512.22737](http://arxiv.org/abs/2512.22737)|
 |**2025-12-25**|**PIMphony: Overcoming Bandwidth and Capacity Inefficiency in PIM-based Long-Context LLM Inference System**|Hyucksung Kwon et.al.|[2412.20166_(CHI)](http://arxiv.org/abs/2412.20166)|
 |**2025-12-24**|**V-Rex: Real-Time Streaming Video LLM Acceleration via Dynamic KV Cache Retrieval**|Donghyuk Kim et.al.|[2512.12284_(HPCA)](http://arxiv.org/abs/2512.12284)|
 |**2025-12-22**|**MixKVQ: Query-Aware Mixed-Precision KV Cache Quantization for Long-Context Reasoning**|Tao Zhang et.al.|[2512.19206](http://arxiv.org/abs/2512.19206)|
 |**2025-12-20**|**Continuum: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live**|Hanchen Li et.al.|[2511.02230](http://arxiv.org/abs/2511.02230)|
 |**2025-12-20**|**TraCT: Disaggregated LLM Serving with CXL Shared Memory KV Cache at Rack-Scale**|Dongha Yoon et.al.|[2512.18194](http://arxiv.org/abs/2512.18194)|
+|**2025-12-20**|**MatKV: Trading Compute for Flash Storage in LLM Inference**|Kun-Woo Shin et.al.|[2512.22195_(ICDE)](http://arxiv.org/abs/2512.22195)|
 |**2025-12-19**|**xGR: Efficient Generative Recommendation Serving at Scale**|Qingxiao Sun et.al.|[2512.11529](http://arxiv.org/abs/2512.11529)|
 |**2025-12-18**|**MEPIC: Memory Efficient Position Independent Caching for LLM Serving**|Qian Wang et.al.|[2512.16822](http://arxiv.org/abs/2512.16822)|
 |**2025-12-17**|**CTkvr: KV Cache Retrieval for Long-Context LLMs via Centroid then Token Indexing**|Kuan Lu et.al.|[2512.15550](http://arxiv.org/abs/2512.15550)|
@@ -111,7 +115,6 @@ _Updated on 2025.12.30_
 |**2025-10-19**|**STARK: Strategic Team of Agents for Refining Kernels**|Juncheng Dong et.al.|[2510.16996](http://arxiv.org/abs/2510.16996)|
 |**2025-10-18**|**Ripple Effect Protocol: Coordinating Agent Populations**|Ayush Chopra et.al.|[2510.16572](http://arxiv.org/abs/2510.16572)|
 |**2025-10-16**|**xLLM Technical Report**|Tongxuan Liu et.al.|[2510.14686](http://arxiv.org/abs/2510.14686)|
-|**2025-10-16**|**Attention Is All You Need for KV Cache in Diffusion LLMs**|Quan Nguyen-Tri et.al.|[2510.14973](http://arxiv.org/abs/2510.14973)|
 |**2025-10-16**|**Terrarium: Revisiting the Blackboard for Multi-Agent Safety, Privacy, and Security Studies**|Mason Nakamura et.al.|[2510.14312](http://arxiv.org/abs/2510.14312)|
 |**2025-10-16**|**Kelle: Co-design KV Caching and eDRAM for Efficient LLM Serving in Edge Computing**|Tianhua Xia et.al.|[2510.16040](http://arxiv.org/abs/2510.16040)|
 |**2025-10-15**|**LazyEviction: Lagged KV Eviction with Attention Pattern Observation for Efficient Long Reasoning**|Haoyue Zhang et.al.|[2506.15969](http://arxiv.org/abs/2506.15969)|

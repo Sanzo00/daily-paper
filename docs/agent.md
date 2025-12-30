@@ -10,9 +10,12 @@ _Updated on 2025.12.30_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-12-29**|**Hierarchical Decision Mamba Meets Agentic AI: A Novel Approach for RAN Slicing in 6G**|Md Arafat Habib et.al.|[2512.23502_(Networking)](http://arxiv.org/abs/2512.23502)|
+|**2025-12-28**|**Accelerating Language Model Workflows with Prompt Choreography**|TJ Bai et.al.|[2512.23049_(ACL)](http://arxiv.org/abs/2512.23049)|
+|**2025-12-27**|**Agentic Auto-Scheduling: An Experimental Study of LLM-Guided Loop Optimization**|Massinissa Merouani et.al.|[2511.00592_(CHI)](http://arxiv.org/abs/2511.00592)|
+|**2025-12-27**|**AgentMath: Empowering Mathematical Reasoning for Large Language Models via Tool-Augmented Agent**|Haipeng Luo et.al.|[2512.20745](http://arxiv.org/abs/2512.20745)|
 |**2025-12-25**|**NEMO-4-PAYPAL: Leveraging NVIDIA's Nemo Framework for empowering PayPal's Commerce Agent**|Ali Sahami et.al.|[2512.21578](http://arxiv.org/abs/2512.21578)|
 |**2025-12-24**|**V-Rex: Real-Time Streaming Video LLM Acceleration via Dynamic KV Cache Retrieval**|Donghyuk Kim et.al.|[2512.12284_(HPCA)](http://arxiv.org/abs/2512.12284)|
-|**2025-12-23**|**AgentMath: Empowering Mathematical Reasoning for Large Language Models via Tool-Augmented Agent**|Haipeng Luo et.al.|[2512.20745](http://arxiv.org/abs/2512.20745)|
 |**2025-12-22**|**JITServe: SLO-aware LLM Serving with Imprecise Request Information**|Wei Zhang et.al.|[2504.20068](http://arxiv.org/abs/2504.20068)|
 |**2025-12-21**|**IntelliCode: A Multi-Agent LLM Tutoring System with Centralized Learner Modeling**|Jones David et.al.|[2512.18669_(ACL)](http://arxiv.org/abs/2512.18669)|
 |**2025-12-21**|**Does It Tie Out? Towards Autonomous Legal Agents in Venture Capital**|Pierre Colombo et.al.|[2512.18658](http://arxiv.org/abs/2512.18658)|
@@ -54,7 +57,6 @@ _Updated on 2025.12.30_
 |**2025-11-03**|**TPS-Bench: Evaluating AI Agents' Tool Planning \& Scheduling Abilities in Compounding Tasks**|Hanwen Xu et.al.|[2511.01527](http://arxiv.org/abs/2511.01527)|
 |**2025-11-02**|**HEXGEN-FLOW: Optimizing LLM Inference Request Scheduling for Agentic Text-to-SQL**|You Peng et.al.|[2505.05286](http://arxiv.org/abs/2505.05286)|
 |**2025-11-01**|**KVCOMM: Online Cross-context KV-cache Communication for Efficient LLM-based Multi-agent Systems**|Hancheng Ye et.al.|[2510.12872_(FAST)](http://arxiv.org/abs/2510.12872)|
-|**2025-11-01**|**Agentic Auto-Scheduling: An Experimental Study of LLM-Guided Loop Optimization**|Massinissa Merouani et.al.|[2511.00592_(CHI)](http://arxiv.org/abs/2511.00592)|
 |**2025-10-31**|**Tokencake: A KV-Cache-centric Serving Framework for LLM-based Multi-Agent Applications**|Zhuohang Bian et.al.|[2510.18586](http://arxiv.org/abs/2510.18586)|
 |**2025-10-30**|**Agentic AI Home Energy Management System: A Large Language Model Framework for Residential Load Scheduling**|Reda El Makroum et.al.|[2510.26603](http://arxiv.org/abs/2510.26603)|
 |**2025-10-28**|**Pie: A Programmable Serving System for Emerging LLM Applications**|In Gim et.al.|[2510.24051_(SOSP)](http://arxiv.org/abs/2510.24051)|

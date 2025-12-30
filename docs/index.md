@@ -10,9 +10,12 @@ _Updated on 2025.12.30_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
-|**2025-12-26**|**DySK-Attn: A Framework for Efficient, Real-Time Knowledge Updating in Large Language Models via Dynamic Sparse Knowledge Attention**|Kabir Khan et.al.|[2508.07185](http://arxiv.org/abs/2508.07185)|
+|**2025-12-29**|**DySK-Attn: A Framework for Efficient, Real-Time Knowledge Updating in Large Language Models via Dynamic Sparse Knowledge Attention**|Kabir Khan et.al.|[2508.07185](http://arxiv.org/abs/2508.07185)|
+|**2025-12-29**|**Think Parallax: Solving Multi-Hop Problems via Multi-View Knowledge-Graph-Based Retrieval-Augmented Generation**|Jinliang Liu et.al.|[2510.15552](http://arxiv.org/abs/2510.15552)|
+|**2025-12-29**|**Multi-Agent Framework for Threat Mitigation and Resilience in AI-Based Systems**|Armstrong Foundjem et.al.|[2512.23132](http://arxiv.org/abs/2512.23132)|
 |**2025-12-22**|**Ontology-Based Knowledge Graph Framework for Industrial Standard Documents via Hierarchical and Propositional Structuring**|Jiin Park et.al.|[2512.08398_(DATE)](http://arxiv.org/abs/2512.08398)|
 |**2025-12-22**|**Event Extraction in Large Language Model**|Bobo Li et.al.|[2512.19537](http://arxiv.org/abs/2512.19537)|
+|**2025-12-20**|**MatKV: Trading Compute for Flash Storage in LLM Inference**|Kun-Woo Shin et.al.|[2512.22195_(ICDE)](http://arxiv.org/abs/2512.22195)|
 |**2025-12-19**|**RecipeMasterLLM: Revisiting RoboEarth in the Era of Large Language Models**|Asil Kaan Bozcuoglu et.al.|[2512.17309](http://arxiv.org/abs/2512.17309)|
 |**2025-12-18**|**MEPIC: Memory Efficient Position Independent Caching for LLM Serving**|Qian Wang et.al.|[2512.16822](http://arxiv.org/abs/2512.16822)|
 |**2025-12-18**|**Introducing ORKG ASK: an AI-driven Scholarly Literature Search and Exploration System Taking a Neuro-Symbolic Approach**|Allard Oelen et.al.|[2512.16425](http://arxiv.org/abs/2512.16425)|
@@ -86,7 +89,6 @@ _Updated on 2025.12.30_
 |**2025-10-18**|**Can Knowledge-Graph-based Retrieval Augmented Generation Really Retrieve What You Need?**|Junchi Yu et.al.|[2510.16582_(NeurIPS)](http://arxiv.org/abs/2510.16582)|
 |**2025-10-18**|**DTKG: Dual-Track Knowledge Graph-Verified Reasoning Framework for Multi-Hop QA**|Changhao Wang et.al.|[2510.16302](http://arxiv.org/abs/2510.16302)|
 |**2025-10-18**|**Prior Makes It Possible: From Sublinear Graph Algorithms to LLM Test-Time Methods**|Avrim Blum et.al.|[2510.16609](http://arxiv.org/abs/2510.16609)|
-|**2025-10-17**|**Think Parallax: Solving Multi-Hop Problems via Multi-View Knowledge-Graph-Based Retrieval-Augmented Generation**|Jinliang Liu et.al.|[2510.15552](http://arxiv.org/abs/2510.15552)|
 |**2025-10-17**|**Fault Cause Identification across Manufacturing Lines through Ontology-Guided and Process-Aware FMEA Graph Learning with LLMs**|Sho Okazaki et.al.|[2510.15428](http://arxiv.org/abs/2510.15428)|
 |**2025-10-17**|**AUGUSTUS: An LLM-Driven Multimodal Agent System with Contextualized User Memory**|Jitesh Jain et.al.|[2510.15261_(NeurIPS)](http://arxiv.org/abs/2510.15261)|
 |**2025-10-17**|**Scaling Beyond Context: A Survey of Multimodal Retrieval-Augmented Generation for Document Understanding**|Sensen Gao et.al.|[2510.15253](http://arxiv.org/abs/2510.15253)|
