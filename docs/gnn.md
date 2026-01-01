@@ -6,10 +6,11 @@ nav_order: 3
 
 # GNN Papers
 
-_Updated on 2025.12.31_
+_Updated on 2026.01.01_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-12-30**|**Hardware Acceleration for Neural Networks: A Comprehensive Survey**|Bin Xu et.al.|[2512.23914](http://arxiv.org/abs/2512.23914)|
 |**2025-12-20**|**A Distributed Hierarchical Spatio-Temporal Edge-Enhanced Graph Neural Network for City-Scale Dynamic Logistics Routing**|Zihan Han et.al.|[2512.18441](http://arxiv.org/abs/2512.18441)|
 |**2025-12-12**|**GSplit: Scaling Graph Neural Network Training on Large Graphs via Split-Parallelism**|Sandeep Polisetty et.al.|[2303.13775](http://arxiv.org/abs/2303.13775)|
 |**2025-12-11**|**Formula size game and model checking for modal substitution calculus**|Veeti Ahvonen et.al.|[2505.07966](http://arxiv.org/abs/2505.07966)|

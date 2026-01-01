@@ -6,10 +6,12 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2025.12.31_
+_Updated on 2026.01.01_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2025-12-31**|**Less is More: Improving LLM Reasoning with Minimal Test-Time Intervention**|Zhen Yang et.al.|[2510.13940](http://arxiv.org/abs/2510.13940)|
+|**2025-12-30**|**Hardware Acceleration for Neural Networks: A Comprehensive Survey**|Bin Xu et.al.|[2512.23914](http://arxiv.org/abs/2512.23914)|
 |**2025-12-29**|**ODMA: On-Demand Memory Allocation Framework for LLM Serving on LPDDR-Class Accelerators**|Guoqiang Zou et.al.|[2512.09427](http://arxiv.org/abs/2512.09427)|
 |**2025-12-28**|**Attention Is All You Need for KV Cache in Diffusion LLMs**|Quan Nguyen-Tri et.al.|[2510.14973](http://arxiv.org/abs/2510.14973)|
 |**2025-12-28**|**WeDLM: Reconciling Diffusion Language Models with Standard Causal Attention for Fast Inference**|Aiwei Liu et.al.|[2512.22737](http://arxiv.org/abs/2512.22737)|
@@ -119,7 +121,6 @@ _Updated on 2025.12.31_
 |**2025-10-16**|**Kelle: Co-design KV Caching and eDRAM for Efficient LLM Serving in Edge Computing**|Tianhua Xia et.al.|[2510.16040](http://arxiv.org/abs/2510.16040)|
 |**2025-10-15**|**LazyEviction: Lagged KV Eviction with Attention Pattern Observation for Efficient Long Reasoning**|Haoyue Zhang et.al.|[2506.15969](http://arxiv.org/abs/2506.15969)|
 |**2025-10-15**|**BanaServe: Unified KV Cache and Dynamic Module Migration for Balancing Disaggregated LLM Serving in AI Infrastructure**|Yiyuan He et.al.|[2510.13223](http://arxiv.org/abs/2510.13223)|
-|**2025-10-15**|**Less is More: Improving LLM Reasoning with Minimal Test-Time Intervention**|Zhen Yang et.al.|[2510.13940](http://arxiv.org/abs/2510.13940)|
 |**2025-10-15**|**Cortex: Workflow-Aware Resource Pooling and Scheduling for Agentic Serving**|Nikos Pagonas et.al.|[2510.14126](http://arxiv.org/abs/2510.14126)|
 |**2025-10-14**|**Evaluating the Quality of Randomness and Entropy in Tasks Supported by Large Language Models**|Rabimba Karanjai et.al.|[2510.12080](http://arxiv.org/abs/2510.12080)|
 |**2025-10-13**|**MoEs Are Stronger than You Think: Hyper-Parallel Inference Scaling with RoE**|Soheil Zibakhsh et.al.|[2509.17238](http://arxiv.org/abs/2509.17238)|
