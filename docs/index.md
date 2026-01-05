@@ -6,10 +6,12 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.01.04_
+_Updated on 2026.01.05_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-01-01**|**In Line with Context: Repository-Level Code Generation via Context Inlining**|Chao Hu et.al.|[2601.00376_(FSE)](http://arxiv.org/abs/2601.00376)|
+|**2026-01-01**|**From Evidence-Based Medicine to Knowledge Graph: Retrieval-Augmented Generation for Sports Rehabilitation and a Domain Benchmark**|Jinning Zhang et.al.|[2601.00216](http://arxiv.org/abs/2601.00216)|
 |**2025-12-29**|**DySK-Attn: A Framework for Efficient, Real-Time Knowledge Updating in Large Language Models via Dynamic Sparse Knowledge Attention**|Kabir Khan et.al.|[2508.07185](http://arxiv.org/abs/2508.07185)|
 |**2025-12-29**|**Think Parallax: Solving Multi-Hop Problems via Multi-View Knowledge-Graph-Based Retrieval-Augmented Generation**|Jinliang Liu et.al.|[2510.15552](http://arxiv.org/abs/2510.15552)|
 |**2025-12-29**|**Multi-Agent Framework for Threat Mitigation and Resilience in AI-Based Systems**|Armstrong Foundjem et.al.|[2512.23132](http://arxiv.org/abs/2512.23132)|
