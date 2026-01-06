@@ -10,10 +10,12 @@ _Updated on 2026.01.06_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-01-05**|**Optimizing LLM Inference: Fluid-Guided Online Scheduling with Memory Constraints**|Ruicheng Ao et.al.|[2504.11320](http://arxiv.org/abs/2504.11320)|
+|**2026-01-04**|**Hardware Acceleration for Neural Networks: A Comprehensive Survey**|Bin Xu et.al.|[2512.23914](http://arxiv.org/abs/2512.23914)|
+|**2026-01-04**|**Making MoE based LLM inference resilient with Tarragon**|Songyu Zhang et.al.|[2601.01310](http://arxiv.org/abs/2601.01310)|
 |**2026-01-03**|**Warp-Cortex: An Asynchronous, Memory-Efficient Architecture for Million-Agent Cognitive Scaling on Consumer Hardware**|Jorge L. Ruiz Williams et.al.|[2601.01298](http://arxiv.org/abs/2601.01298)|
 |**2026-01-03**|**KV-Embedding: Training-free Text Embedding via Internal KV Re-routing in Decoder-only LLMs**|Yixuan Tang et.al.|[2601.01046](http://arxiv.org/abs/2601.01046)|
 |**2025-12-31**|**Less is More: Improving LLM Reasoning with Minimal Test-Time Intervention**|Zhen Yang et.al.|[2510.13940](http://arxiv.org/abs/2510.13940)|
-|**2025-12-30**|**Hardware Acceleration for Neural Networks: A Comprehensive Survey**|Bin Xu et.al.|[2512.23914](http://arxiv.org/abs/2512.23914)|
 |**2025-12-29**|**ODMA: On-Demand Memory Allocation Framework for LLM Serving on LPDDR-Class Accelerators**|Guoqiang Zou et.al.|[2512.09427](http://arxiv.org/abs/2512.09427)|
 |**2025-12-28**|**Attention Is All You Need for KV Cache in Diffusion LLMs**|Quan Nguyen-Tri et.al.|[2510.14973](http://arxiv.org/abs/2510.14973)|
 |**2025-12-28**|**WeDLM: Reconciling Diffusion Language Models with Standard Causal Attention for Fast Inference**|Aiwei Liu et.al.|[2512.22737](http://arxiv.org/abs/2512.22737)|
@@ -323,7 +325,6 @@ _Updated on 2026.01.06_
 |**2025-04-19**|**Improving the Serving Performance of Multi-LoRA Large Language Models via Efficient LoRA and KV Cache Management**|Hang Zhang et.al.|[2505.03756](http://arxiv.org/abs/2505.03756)|
 |**2025-04-16**|**Cost-Efficient LLM Serving in the Cloud: VM Selection with KV Cache Offloading**|Kihyun Kim et.al.|[2504.11816](http://arxiv.org/abs/2504.11816)|
 |**2025-04-16**|**Shared Disk KV Cache Management for Efficient Multi-Instance Inference in RAG-Powered LLMs**|Hyungwoo Lee et.al.|[2504.11765](http://arxiv.org/abs/2504.11765)|
-|**2025-04-15**|**Optimizing LLM Inference: Fluid-Guided Online Scheduling with Memory Constraints**|Ruicheng Ao et.al.|[2504.11320](http://arxiv.org/abs/2504.11320)|
 |**2025-04-14**|**AlayaDB: The Data Foundation for Efficient and Effective Long-context LLM Inference**|Yangshen Deng et.al.|[2504.10326](http://arxiv.org/abs/2504.10326)|
 |**2025-04-13**|**Efficient LLM Serving on Hybrid Real-time and Best-effort Requests**|Wan Borui et.al.|[2504.09590](http://arxiv.org/abs/2504.09590)|
 |**2025-04-13**|**Block-Attention for Efficient Prefilling**|Dongyang Ma et.al.|[2409.15355_(ICLR)](http://arxiv.org/abs/2409.15355)|

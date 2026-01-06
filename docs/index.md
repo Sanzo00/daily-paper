@@ -10,11 +10,14 @@ _Updated on 2026.01.06_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-01-05**|**Clinical Knowledge Graph Construction and Evaluation with Multi-LLMs via Retrieval-Augmented Generation**|Udiptaman Das et.al.|[2601.01844](http://arxiv.org/abs/2601.01844)|
+|**2026-01-05**|**CausalNav: A Long-term Embodied Navigation System for Autonomous Mobile Robots in Dynamic Outdoor Scenarios**|Hongbo Duan et.al.|[2601.01872_(ICS)](http://arxiv.org/abs/2601.01872)|
 |**2026-01-01**|**In Line with Context: Repository-Level Code Generation via Context Inlining**|Chao Hu et.al.|[2601.00376_(FSE)](http://arxiv.org/abs/2601.00376)|
 |**2026-01-01**|**From Evidence-Based Medicine to Knowledge Graph: Retrieval-Augmented Generation for Sports Rehabilitation and a Domain Benchmark**|Jinning Zhang et.al.|[2601.00216](http://arxiv.org/abs/2601.00216)|
 |**2025-12-29**|**DySK-Attn: A Framework for Efficient, Real-Time Knowledge Updating in Large Language Models via Dynamic Sparse Knowledge Attention**|Kabir Khan et.al.|[2508.07185](http://arxiv.org/abs/2508.07185)|
 |**2025-12-29**|**Think Parallax: Solving Multi-Hop Problems via Multi-View Knowledge-Graph-Based Retrieval-Augmented Generation**|Jinliang Liu et.al.|[2510.15552](http://arxiv.org/abs/2510.15552)|
 |**2025-12-29**|**Multi-Agent Framework for Threat Mitigation and Resilience in AI-Based Systems**|Armstrong Foundjem et.al.|[2512.23132](http://arxiv.org/abs/2512.23132)|
+|**2025-12-23**|**CogCanvas: Compression-Resistant Cognitive Artifacts for Long LLM Conversations**|Tao An et.al.|[2601.00821](http://arxiv.org/abs/2601.00821)|
 |**2025-12-22**|**Ontology-Based Knowledge Graph Framework for Industrial Standard Documents via Hierarchical and Propositional Structuring**|Jiin Park et.al.|[2512.08398_(DATE)](http://arxiv.org/abs/2512.08398)|
 |**2025-12-22**|**Event Extraction in Large Language Model**|Bobo Li et.al.|[2512.19537](http://arxiv.org/abs/2512.19537)|
 |**2025-12-20**|**MatKV: Trading Compute for Flash Storage in LLM Inference**|Kun-Woo Shin et.al.|[2512.22195_(ICDE)](http://arxiv.org/abs/2512.22195)|

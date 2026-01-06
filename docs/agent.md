@@ -10,7 +10,10 @@ _Updated on 2026.01.06_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-01-03**|**Chimera: Harnessing Multi-Agent LLMs for Automatic Insider Threat Simulation**|Jiongchi Yu et.al.|[2508.07745_(NDSS)](http://arxiv.org/abs/2508.07745)|
+|**2026-01-03**|**Warp-Cortex: An Asynchronous, Memory-Efficient Architecture for Million-Agent Cognitive Scaling on Consumer Hardware**|Jorge L. Ruiz Williams et.al.|[2601.01298](http://arxiv.org/abs/2601.01298)|
 |**2025-12-31**|**Context-aware LLM-based AI Agents for Human-centered Energy Management Systems in Smart Buildings**|Tianzhi He et.al.|[2512.25055](http://arxiv.org/abs/2512.25055)|
+|**2025-12-30**|**SmartFlow Reinforcement Learning and Agentic AI for Bike-Sharing Optimisation**|Aditya Sreevatsa K et.al.|[2601.00868](http://arxiv.org/abs/2601.00868)|
 |**2025-12-29**|**Hierarchical Decision Mamba Meets Agentic AI: A Novel Approach for RAN Slicing in 6G**|Md Arafat Habib et.al.|[2512.23502_(Networking)](http://arxiv.org/abs/2512.23502)|
 |**2025-12-28**|**Accelerating Language Model Workflows with Prompt Choreography**|TJ Bai et.al.|[2512.23049_(ACL)](http://arxiv.org/abs/2512.23049)|
 |**2025-12-27**|**Agentic Auto-Scheduling: An Experimental Study of LLM-Guided Loop Optimization**|Massinissa Merouani et.al.|[2511.00592_(CHI)](http://arxiv.org/abs/2511.00592)|
@@ -21,7 +24,6 @@ _Updated on 2026.01.06_
 |**2025-12-21**|**IntelliCode: A Multi-Agent LLM Tutoring System with Centralized Learner Modeling**|Jones David et.al.|[2512.18669_(ACL)](http://arxiv.org/abs/2512.18669)|
 |**2025-12-21**|**Does It Tie Out? Towards Autonomous Legal Agents in Venture Capital**|Pierre Colombo et.al.|[2512.18658](http://arxiv.org/abs/2512.18658)|
 |**2025-12-20**|**Continuum: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live**|Hanchen Li et.al.|[2511.02230](http://arxiv.org/abs/2511.02230)|
-|**2025-12-20**|**Chimera: Harnessing Multi-Agent LLMs for Automatic Insider Threat Simulation**|Jiongchi Yu et.al.|[2508.07745_(NDSS)](http://arxiv.org/abs/2508.07745)|
 |**2025-12-20**|**Towards Efficient Agents: A Co-Design of Inference Architecture and System**|Weizhe Lin et.al.|[2512.18337](http://arxiv.org/abs/2512.18337)|
 |**2025-12-18**|**MEPIC: Memory Efficient Position Independent Caching for LLM Serving**|Qian Wang et.al.|[2512.16822](http://arxiv.org/abs/2512.16822)|
 |**2025-12-16**|**SemShareKV: Efficient KVCache Sharing for Semantically Similar Prompts via Token-Level LSH Matching**|Xinye Zhao et.al.|[2509.24832](http://arxiv.org/abs/2509.24832)|
