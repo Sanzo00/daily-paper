@@ -6,10 +6,11 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.01.08_
+_Updated on 2026.01.09_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-01-08**|**Nalar: An agent serving framework**|Marco Laju et.al.|[2601.05109](http://arxiv.org/abs/2601.05109)|
 |**2026-01-07**|**NEMO-4-PAYPAL: Leveraging NVIDIA's Nemo Framework for empowering PayPal's Commerce Agent**|Sudhanshu Garg et.al.|[2512.21578](http://arxiv.org/abs/2512.21578)|
 |**2026-01-06**|**Agent.xpu: Efficient Scheduling of Agentic LLM Workloads on Heterogeneous SoC**|Xinming Wei et.al.|[2506.24045](http://arxiv.org/abs/2506.24045)|
 |**2026-01-03**|**Chimera: Harnessing Multi-Agent LLMs for Automatic Insider Threat Simulation**|Jiongchi Yu et.al.|[2508.07745_(NDSS)](http://arxiv.org/abs/2508.07745)|

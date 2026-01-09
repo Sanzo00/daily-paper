@@ -6,10 +6,12 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.01.08_
+_Updated on 2026.01.09_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-01-08**|**A Navigational Approach for Comprehensive RAG via Traversal over Proposition Graphs**|Maxime Delmas et.al.|[2601.04859](http://arxiv.org/abs/2601.04859)|
+|**2026-01-07**|**Disco-RAG: Discourse-Aware Retrieval-Augmented Generation**|Dongqi Liu et.al.|[2601.04377](http://arxiv.org/abs/2601.04377)|
 |**2026-01-06**|**CogCanvas: Verbatim-Grounded Artifact Extraction for Long LLM Conversations**|Tao An et.al.|[2601.00821_(ACL)](http://arxiv.org/abs/2601.00821)|
 |**2026-01-06**|**Detecting Hallucinations in Retrieval-Augmented Generation via Semantic-level Internal Reasoning Graph**|Jianpeng Hu et.al.|[2601.03052](http://arxiv.org/abs/2601.03052)|
 |**2026-01-05**|**Clinical Knowledge Graph Construction and Evaluation with Multi-LLMs via Retrieval-Augmented Generation**|Udiptaman Das et.al.|[2601.01844](http://arxiv.org/abs/2601.01844)|
