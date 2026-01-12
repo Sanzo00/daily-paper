@@ -6,10 +6,12 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.01.11_
+_Updated on 2026.01.12_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-01-09**|**Guiding Generative Storytelling with Knowledge Graphs**|Zhijun Pan et.al.|[2505.24803](http://arxiv.org/abs/2505.24803)|
+|**2026-01-09**|**Scaling Beyond Context: A Survey of Multimodal Retrieval-Augmented Generation for Document Understanding**|Sensen Gao et.al.|[2510.15253](http://arxiv.org/abs/2510.15253)|
 |**2026-01-08**|**A Navigational Approach for Comprehensive RAG via Traversal over Proposition Graphs**|Maxime Delmas et.al.|[2601.04859](http://arxiv.org/abs/2601.04859)|
 |**2026-01-07**|**Disco-RAG: Discourse-Aware Retrieval-Augmented Generation**|Dongqi Liu et.al.|[2601.04377](http://arxiv.org/abs/2601.04377)|
 |**2026-01-06**|**CogCanvas: Verbatim-Grounded Artifact Extraction for Long LLM Conversations**|Tao An et.al.|[2601.00821_(ACL)](http://arxiv.org/abs/2601.00821)|
@@ -93,13 +95,13 @@ _Updated on 2026.01.11_
 |**2025-10-20**|**Executable Knowledge Graphs for Replicating AI Research**|Yujie Luo et.al.|[2510.17795](http://arxiv.org/abs/2510.17795)|
 |**2025-10-20**|**AtlasKV: Augmenting LLMs with Billion-Scale Knowledge Graphs in 20GB VRAM**|Haoyu Huang et.al.|[2510.17934](http://arxiv.org/abs/2510.17934)|
 |**2025-10-20**|**GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation**|Linhao Luo et.al.|[2502.01113_(NeurIPS)](http://arxiv.org/abs/2502.01113)|
+|**2025-10-20**|**Naiad: Novel Agentic Intelligent Autonomous System for Inland Water Monitoring**|Eirini Baltzi et.al.|[2601.05256](http://arxiv.org/abs/2601.05256)|
 |**2025-10-18**|**ReaGAN: Node-as-Agent-Reasoning Graph Agentic Network**|Minghao Guo et.al.|[2508.00429](http://arxiv.org/abs/2508.00429)|
 |**2025-10-18**|**Can Knowledge-Graph-based Retrieval Augmented Generation Really Retrieve What You Need?**|Junchi Yu et.al.|[2510.16582_(NeurIPS)](http://arxiv.org/abs/2510.16582)|
 |**2025-10-18**|**DTKG: Dual-Track Knowledge Graph-Verified Reasoning Framework for Multi-Hop QA**|Changhao Wang et.al.|[2510.16302](http://arxiv.org/abs/2510.16302)|
 |**2025-10-18**|**Prior Makes It Possible: From Sublinear Graph Algorithms to LLM Test-Time Methods**|Avrim Blum et.al.|[2510.16609](http://arxiv.org/abs/2510.16609)|
 |**2025-10-17**|**Fault Cause Identification across Manufacturing Lines through Ontology-Guided and Process-Aware FMEA Graph Learning with LLMs**|Sho Okazaki et.al.|[2510.15428](http://arxiv.org/abs/2510.15428)|
 |**2025-10-17**|**AUGUSTUS: An LLM-Driven Multimodal Agent System with Contextualized User Memory**|Jitesh Jain et.al.|[2510.15261_(NeurIPS)](http://arxiv.org/abs/2510.15261)|
-|**2025-10-17**|**Scaling Beyond Context: A Survey of Multimodal Retrieval-Augmented Generation for Document Understanding**|Sensen Gao et.al.|[2510.15253](http://arxiv.org/abs/2510.15253)|
 |**2025-10-17**|**RAG vs. GraphRAG: A Systematic Evaluation and Key Insights**|Haoyu Han et.al.|[2502.11371](http://arxiv.org/abs/2502.11371)|
 |**2025-10-16**|**ReMindRAG: Low-Cost LLM-Guided Knowledge Graph Traversal for Efficient RAG**|Yikuan Hu et.al.|[2510.13193_(NeurIPS)](http://arxiv.org/abs/2510.13193)|
 |**2025-10-16**|**Less is More: Denoising Knowledge Graphs For Retrieval Augmented Generation**|Yilun Zheng et.al.|[2510.14271](http://arxiv.org/abs/2510.14271)|
@@ -243,7 +245,6 @@ _Updated on 2026.01.11_
 |**2025-06-06**|**Large Language Models are Good Relational Learners**|Fang Wu et.al.|[2506.05725](http://arxiv.org/abs/2506.05725)|
 |**2025-06-03**|**KET-RAG: A Cost-Efficient Multi-Granular Indexing Framework for Graph-RAG**|Yiqian Huang et.al.|[2502.09304](http://arxiv.org/abs/2502.09304)|
 |**2025-06-02**|**SwiftKV: Fast Prefill-Optimized Inference with Knowledge-Preserving Model Transformation**|Aurick Qiao et.al.|[2410.03960](http://arxiv.org/abs/2410.03960)|
-|**2025-06-02**|**Guiding Generative Storytelling with Knowledge Graphs**|Zhijun Pan et.al.|[2505.24803_(SC)](http://arxiv.org/abs/2505.24803)|
 |**2025-06-02**|**DRAG: Distilling RAG for SLMs from LLMs to Transfer Knowledge and Mitigate Hallucination via Evidence and Graph-based Distillation**|Jennifer Chen et.al.|[2506.01954_(ACL)](http://arxiv.org/abs/2506.01954)|
 |**2025-06-02**|**Retrieval-Augmented Generation of Ontologies from Relational Databases**|Mojtaba Nayyeri et.al.|[2506.01232](http://arxiv.org/abs/2506.01232)|
 |**2025-06-01**|**A Survey of LLM $\times$ DATA**|Xuanhe Zhou et.al.|[2505.18458](http://arxiv.org/abs/2505.18458)|
