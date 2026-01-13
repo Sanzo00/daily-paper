@@ -10,12 +10,15 @@ _Updated on 2026.01.13_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-01-12**|**OpenTinker: Separating Concerns in Agentic Reinforcement Learning**|Siqi Zhu et.al.|[2601.07376](http://arxiv.org/abs/2601.07376)|
+|**2026-01-11**|**RealMem: Benchmarking LLMs in Real-World Memory-Driven Interaction**|Haonan Bian et.al.|[2601.06966](http://arxiv.org/abs/2601.06966)|
 |**2026-01-09**|**FlashMem: Distilling Intrinsic Latent Memory via Computation Reuse**|Yubo Hou et.al.|[2601.05505](http://arxiv.org/abs/2601.05505)|
 |**2026-01-08**|**Nalar: An agent serving framework**|Marco Laju et.al.|[2601.05109](http://arxiv.org/abs/2601.05109)|
 |**2026-01-07**|**NEMO-4-PAYPAL: Leveraging NVIDIA's Nemo Framework for empowering PayPal's Commerce Agent**|Sudhanshu Garg et.al.|[2512.21578](http://arxiv.org/abs/2512.21578)|
 |**2026-01-06**|**Agent.xpu: Efficient Scheduling of Agentic LLM Workloads on Heterogeneous SoC**|Xinming Wei et.al.|[2506.24045](http://arxiv.org/abs/2506.24045)|
 |**2026-01-03**|**Chimera: Harnessing Multi-Agent LLMs for Automatic Insider Threat Simulation**|Jiongchi Yu et.al.|[2508.07745_(NDSS)](http://arxiv.org/abs/2508.07745)|
 |**2026-01-03**|**Warp-Cortex: An Asynchronous, Memory-Efficient Architecture for Million-Agent Cognitive Scaling on Consumer Hardware**|Jorge L. Ruiz Williams et.al.|[2601.01298](http://arxiv.org/abs/2601.01298)|
+|**2026-01-03**|**ReliabilityBench: Evaluating LLM Agent Reliability Under Production-Like Stress Conditions**|Aayush Gupta et.al.|[2601.06112](http://arxiv.org/abs/2601.06112)|
 |**2025-12-31**|**Context-aware LLM-based AI Agents for Human-centered Energy Management Systems in Smart Buildings**|Tianzhi He et.al.|[2512.25055](http://arxiv.org/abs/2512.25055)|
 |**2025-12-30**|**SmartFlow Reinforcement Learning and Agentic AI for Bike-Sharing Optimisation**|Aditya Sreevatsa K et.al.|[2601.00868](http://arxiv.org/abs/2601.00868)|
 |**2025-12-29**|**Hierarchical Decision Mamba Meets Agentic AI: A Novel Approach for RAN Slicing in 6G**|Md Arafat Habib et.al.|[2512.23502_(Networking)](http://arxiv.org/abs/2512.23502)|

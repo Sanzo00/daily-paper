@@ -10,10 +10,15 @@ _Updated on 2026.01.13_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-01-11**|**Graph-KV: Breaking Sequence via Injecting Structural Biases into Large Language Models**|Haoyu Wang et.al.|[2506.07334](http://arxiv.org/abs/2506.07334)|
+|**2026-01-11**|**CyberLLM-FINDS 2025: Instruction-Tuned Fine-tuning of Domain-Specific LLMs with Retrieval-Augmented Generation and Graph Integration for MITRE Evaluation**|Vasanth Iyer et.al.|[2601.06779](http://arxiv.org/abs/2601.06779)|
+|**2026-01-10**|**Disco-RAG: Discourse-Aware Retrieval-Augmented Generation**|Dongqi Liu et.al.|[2601.04377](http://arxiv.org/abs/2601.04377)|
+|**2026-01-10**|**MedRAGChecker: Claim-Level Verification for Biomedical Retrieval-Augmented Generation**|Yuelyu Ji et.al.|[2601.06519](http://arxiv.org/abs/2601.06519)|
+|**2026-01-10**|**N2N-GQA: Noise-to-Narrative for Graph-Based Table-Text Question Answering Using LLMs**|Mohamed Sharafath et.al.|[2601.06603_(AAAI)](http://arxiv.org/abs/2601.06603)|
+|**2026-01-10**|**Structured Episodic Event Memory**|Zhengxuan Lu et.al.|[2601.06411](http://arxiv.org/abs/2601.06411)|
 |**2026-01-09**|**Guiding Generative Storytelling with Knowledge Graphs**|Zhijun Pan et.al.|[2505.24803](http://arxiv.org/abs/2505.24803)|
 |**2026-01-09**|**Scaling Beyond Context: A Survey of Multimodal Retrieval-Augmented Generation for Document Understanding**|Sensen Gao et.al.|[2510.15253](http://arxiv.org/abs/2510.15253)|
 |**2026-01-08**|**A Navigational Approach for Comprehensive RAG via Traversal over Proposition Graphs**|Maxime Delmas et.al.|[2601.04859](http://arxiv.org/abs/2601.04859)|
-|**2026-01-07**|**Disco-RAG: Discourse-Aware Retrieval-Augmented Generation**|Dongqi Liu et.al.|[2601.04377](http://arxiv.org/abs/2601.04377)|
 |**2026-01-06**|**CogCanvas: Verbatim-Grounded Artifact Extraction for Long LLM Conversations**|Tao An et.al.|[2601.00821_(ACL)](http://arxiv.org/abs/2601.00821)|
 |**2026-01-06**|**Detecting Hallucinations in Retrieval-Augmented Generation via Semantic-level Internal Reasoning Graph**|Jianpeng Hu et.al.|[2601.03052](http://arxiv.org/abs/2601.03052)|
 |**2026-01-05**|**Clinical Knowledge Graph Construction and Evaluation with Multi-LLMs via Retrieval-Augmented Generation**|Udiptaman Das et.al.|[2601.01844](http://arxiv.org/abs/2601.01844)|
@@ -236,7 +241,6 @@ _Updated on 2026.01.13_
 |**2025-06-11**|**Traceable LLM-based validation of statements in knowledge graphs**|Daniel Adam et.al.|[2409.07507](http://arxiv.org/abs/2409.07507)|
 |**2025-06-11**|**Learning Efficient and Generalizable Graph Retriever for Knowledge-Graph Question Answering**|Tianjun Yao et.al.|[2506.09645](http://arxiv.org/abs/2506.09645)|
 |**2025-06-10**|**XGraphRAG: Interactive Visual Analysis for Graph-based Retrieval-Augmented Generation**|Ke Wang et.al.|[2506.13782](http://arxiv.org/abs/2506.13782)|
-|**2025-06-09**|**Graph-KV: Breaking Sequence via Injecting Structural Biases into Large Language Models**|Haoyu Wang et.al.|[2506.07334](http://arxiv.org/abs/2506.07334)|
 |**2025-06-09**|**LlamaRec-LKG-RAG: A Single-Pass, Learnable Knowledge Graph-RAG Framework for LLM-Based Ranking**|Vahid Azizi et.al.|[2506.07449](http://arxiv.org/abs/2506.07449)|
 |**2025-06-08**|**PECAN: LLM-Guided Dynamic Progress Control with Attention-Guided Hierarchical Weighted Graph for Long-Document QA**|Xinyu Wang et.al.|[2410.04790](http://arxiv.org/abs/2410.04790)|
 |**2025-06-07**|**Graph-based RAG Enhancement via Global Query Disambiguation and Dependency-Aware Reranking**|Ningyuan Li et.al.|[2506.11106](http://arxiv.org/abs/2506.11106)|

@@ -10,6 +10,10 @@ _Updated on 2026.01.13_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-01-12**|**Adaptive Layer Selection for Layer-Wise Token Pruning in LLM Inference**|Rei Taniguchi et.al.|[2601.07667_(CHI)](http://arxiv.org/abs/2601.07667)|
+|**2026-01-11**|**Graph-KV: Breaking Sequence via Injecting Structural Biases into Large Language Models**|Haoyu Wang et.al.|[2506.07334](http://arxiv.org/abs/2506.07334)|
+|**2026-01-11**|**Less is More: Improving LLM Reasoning with Minimal Test-Time Intervention**|Zhen Yang et.al.|[2510.13940](http://arxiv.org/abs/2510.13940)|
+|**2026-01-09**|**AIConfigurator: Lightning-Fast Configuration Optimization for Multi-Framework LLM Serving**|Tianhao Xu et.al.|[2601.06288](http://arxiv.org/abs/2601.06288)|
 |**2026-01-07**|**MorphServe: Efficient and Workload-Aware LLM Serving via Runtime Quantized Layer Swapping and KV Cache Resizing**|Zhaoyuan Su et.al.|[2506.02006](http://arxiv.org/abs/2506.02006)|
 |**2026-01-07**|**InComeS: Integrating Compression and Selection Mechanisms into LLMs for Efficient Model Editing**|Shuaiyi Li et.al.|[2505.22156](http://arxiv.org/abs/2505.22156)|
 |**2026-01-06**|**Making MoE-based LLM Inference Resilient with Tarragon**|Songyu Zhang et.al.|[2601.01310](http://arxiv.org/abs/2601.01310)|
@@ -19,7 +23,6 @@ _Updated on 2026.01.13_
 |**2026-01-04**|**Hardware Acceleration for Neural Networks: A Comprehensive Survey**|Bin Xu et.al.|[2512.23914](http://arxiv.org/abs/2512.23914)|
 |**2026-01-03**|**Warp-Cortex: An Asynchronous, Memory-Efficient Architecture for Million-Agent Cognitive Scaling on Consumer Hardware**|Jorge L. Ruiz Williams et.al.|[2601.01298](http://arxiv.org/abs/2601.01298)|
 |**2026-01-03**|**KV-Embedding: Training-free Text Embedding via Internal KV Re-routing in Decoder-only LLMs**|Yixuan Tang et.al.|[2601.01046](http://arxiv.org/abs/2601.01046)|
-|**2025-12-31**|**Less is More: Improving LLM Reasoning with Minimal Test-Time Intervention**|Zhen Yang et.al.|[2510.13940](http://arxiv.org/abs/2510.13940)|
 |**2025-12-29**|**ODMA: On-Demand Memory Allocation Framework for LLM Serving on LPDDR-Class Accelerators**|Guoqiang Zou et.al.|[2512.09427](http://arxiv.org/abs/2512.09427)|
 |**2025-12-28**|**Attention Is All You Need for KV Cache in Diffusion LLMs**|Quan Nguyen-Tri et.al.|[2510.14973](http://arxiv.org/abs/2510.14973)|
 |**2025-12-28**|**WeDLM: Reconciling Diffusion Language Models with Standard Causal Attention for Fast Inference**|Aiwei Liu et.al.|[2512.22737](http://arxiv.org/abs/2512.22737)|
@@ -264,7 +267,6 @@ _Updated on 2026.01.13_
 |**2025-06-12**|**SwiftSpec: Ultra-Low Latency LLM Decoding by Scaling Asynchronous Speculative Decoding**|Ziyi Zhang et.al.|[2506.11309](http://arxiv.org/abs/2506.11309)|
 |**2025-06-12**|**SelectLLM: Query-Aware Efficient Selection Algorithm for Large Language Models**|Kaushal Kumar Maurya et.al.|[2408.08545](http://arxiv.org/abs/2408.08545)|
 |**2025-06-11**|**SAFEFLOW: A Principled Protocol for Trustworthy and Transactional Autonomous Agent Systems**|Peiran Li et.al.|[2506.07564](http://arxiv.org/abs/2506.07564)|
-|**2025-06-09**|**Graph-KV: Breaking Sequence via Injecting Structural Biases into Large Language Models**|Haoyu Wang et.al.|[2506.07334](http://arxiv.org/abs/2506.07334)|
 |**2025-06-09**|**DeepServe: Serverless Large Language Model Serving at Scale**|Junhao Hu et.al.|[2501.14417](http://arxiv.org/abs/2501.14417)|
 |**2025-06-08**|**MiniKV: Pushing the Limits of LLM Inference via 2-Bit Layer-Discriminative KV Cache**|Akshat Sharma et.al.|[2411.18077](http://arxiv.org/abs/2411.18077)|
 |**2025-06-07**|**EconEvals: Benchmarks and Litmus Tests for LLM Agents in Unknown Environments**|Sara Fish et.al.|[2503.18825](http://arxiv.org/abs/2503.18825)|
