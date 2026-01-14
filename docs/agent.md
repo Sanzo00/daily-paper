@@ -6,10 +6,14 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.01.13_
+_Updated on 2026.01.14_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-01-13**|**StackPilot: Autonomous Function Agents for Scalable and Environment-Free Code Execution**|Xinkui Zhao et.al.|[2508.11665](http://arxiv.org/abs/2508.11665)|
+|**2026-01-13**|**When KV Cache Reuse Fails in Multi-Agent Systems: Cross-Candidate Interaction is Crucial for LLM Judges**|Sichu Liang et.al.|[2601.08343](http://arxiv.org/abs/2601.08343)|
+|**2026-01-13**|**Unleashing Tool Engineering and Intelligence for Agentic AI in Next-Generation Communication Networks**|Yinqiu Liu et.al.|[2601.08259](http://arxiv.org/abs/2601.08259)|
+|**2026-01-13**|**ZeroDVFS: Zero-Shot LLM-Guided Core and Frequency Allocation for Embedded Platforms**|Mohammad Pivezhandi et.al.|[2601.08166](http://arxiv.org/abs/2601.08166)|
 |**2026-01-12**|**OpenTinker: Separating Concerns in Agentic Reinforcement Learning**|Siqi Zhu et.al.|[2601.07376](http://arxiv.org/abs/2601.07376)|
 |**2026-01-11**|**RealMem: Benchmarking LLMs in Real-World Memory-Driven Interaction**|Haonan Bian et.al.|[2601.06966](http://arxiv.org/abs/2601.06966)|
 |**2026-01-09**|**FlashMem: Distilling Intrinsic Latent Memory via Computation Reuse**|Yubo Hou et.al.|[2601.05505](http://arxiv.org/abs/2601.05505)|
@@ -114,7 +118,6 @@ _Updated on 2026.01.13_
 |**2025-08-18**|**AutoChemSchematic AI: Agentic Physics-Aware Automation for Chemical Manufacturing Scale-Up**|Sakhinana Sagar Srinivas et.al.|[2505.24584](http://arxiv.org/abs/2505.24584)|
 |**2025-08-11**|**From Natural Language to Solver-Ready Power System Optimization: An LLM-Assisted, Validation-in-the-Loop Framework**|Yunkai Hu et.al.|[2508.08147](http://arxiv.org/abs/2508.08147)|
 |**2025-08-09**|**Kairos: Low-latency Multi-Agent Serving with Shared LLMs and Excessive Loads in the Public Cloud**|Jinyuan Chen et.al.|[2508.06948](http://arxiv.org/abs/2508.06948)|
-|**2025-08-06**|**StackPilot: Autonomous Function Agents for Scalable and Environment-Free Code Execution**|Xinkui Zhao et.al.|[2508.11665](http://arxiv.org/abs/2508.11665)|
 |**2025-08-06**|**AquaChat++: LLM-Assisted Multi-ROV Inspection for Aquaculture Net Pens with Integrated Battery Management and Thruster Fault Tolerance**|Abdelhaleem Saad et.al.|[2508.06554](http://arxiv.org/abs/2508.06554)|
 |**2025-08-05**|**REALM-Bench: A Benchmark for Evaluating Multi-Agent Systems on Real-world, Dynamic Planning and Scheduling Tasks**|Longling Geng et.al.|[2502.18836](http://arxiv.org/abs/2502.18836)|
 |**2025-08-01**|**CyGATE: Game-Theoretic Cyber Attack-Defense Engine for Patch Strategy Optimization**|Yuning Jiang et.al.|[2508.00478](http://arxiv.org/abs/2508.00478)|
