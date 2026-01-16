@@ -6,10 +6,15 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.01.15_
+_Updated on 2026.01.16_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-01-15**|**Online Scheduling for LLM Inference with KV Cache Constraints**|Patrick Jaillet et.al.|[2502.07115](http://arxiv.org/abs/2502.07115)|
+|**2026-01-15**|**Hardware Acceleration for Neural Networks: A Comprehensive Survey**|Bin Xu et.al.|[2512.23914](http://arxiv.org/abs/2512.23914)|
+|**2026-01-15**|**Sparse-RL: Breaking the Memory Wall in LLM Reinforcement Learning via Stable Sparse Rollouts**|Sijia Luo et.al.|[2601.10079](http://arxiv.org/abs/2601.10079)|
+|**2026-01-14**|**APEX: Asynchronous Parallel CPU-GPU Execution for Online LLM Inference on Constrained GPUs**|Jiakun Fan et.al.|[2506.03296](http://arxiv.org/abs/2506.03296)|
+|**2026-01-14**|**CoSense-LLM: Semantics at the Edge with Cost- and Uncertainty-Aware Cloud-Edge Cooperation**|Hasan Akgul et.al.|[2510.19670](http://arxiv.org/abs/2510.19670)|
 |**2026-01-14**|**Hidden States as Early Signals: Step-level Trace Evaluation and Pruning for Efficient Test-Time Scaling**|Zhixiang Liang et.al.|[2601.09093](http://arxiv.org/abs/2601.09093)|
 |**2026-01-13**|**TableCache: Primary Foreign Key Guided KV Cache Precomputation for Low Latency Text-to-SQL**|Jinbo Su et.al.|[2601.08743](http://arxiv.org/abs/2601.08743)|
 |**2026-01-12**|**Adaptive Layer Selection for Layer-Wise Token Pruning in LLM Inference**|Rei Taniguchi et.al.|[2601.07667_(CHI)](http://arxiv.org/abs/2601.07667)|
@@ -22,7 +27,6 @@ _Updated on 2026.01.15_
 |**2026-01-06**|**Joint Encoding of KV-Cache Blocks for Scalable LLM Serving**|Joseph Kampeas et.al.|[2601.03067](http://arxiv.org/abs/2601.03067)|
 |**2026-01-05**|**Optimizing LLM Inference: Fluid-Guided Online Scheduling with Memory Constraints**|Ruicheng Ao et.al.|[2504.11320](http://arxiv.org/abs/2504.11320)|
 |**2026-01-05**|**LoRA-Drop: Temporal LoRA Decoding for Efficient LLM Inference**|Hossein Rajabzadeh et.al.|[2601.02569](http://arxiv.org/abs/2601.02569)|
-|**2026-01-04**|**Hardware Acceleration for Neural Networks: A Comprehensive Survey**|Bin Xu et.al.|[2512.23914](http://arxiv.org/abs/2512.23914)|
 |**2026-01-03**|**Warp-Cortex: An Asynchronous, Memory-Efficient Architecture for Million-Agent Cognitive Scaling on Consumer Hardware**|Jorge L. Ruiz Williams et.al.|[2601.01298](http://arxiv.org/abs/2601.01298)|
 |**2026-01-03**|**KV-Embedding: Training-free Text Embedding via Internal KV Re-routing in Decoder-only LLMs**|Yixuan Tang et.al.|[2601.01046](http://arxiv.org/abs/2601.01046)|
 |**2025-12-29**|**ODMA: On-Demand Memory Allocation Framework for LLM Serving on LPDDR-Class Accelerators**|Guoqiang Zou et.al.|[2512.09427](http://arxiv.org/abs/2512.09427)|
@@ -75,7 +79,6 @@ _Updated on 2026.01.15_
 |**2025-11-24**|**ThreadWeaver: Adaptive Threading for Efficient Parallel Reasoning in Language Models**|Long Lian et.al.|[2512.07843](http://arxiv.org/abs/2512.07843)|
 |**2025-11-23**|**Kitty: Accurate and Efficient 2-bit KV Cache Quantization with Dynamic Channel-wise Precision Boost**|Haojun Xia et.al.|[2511.18643](http://arxiv.org/abs/2511.18643)|
 |**2025-11-20**|**KVTuner: Sensitivity-Aware Layer-Wise Mixed-Precision KV Cache Quantization for Efficient and Nearly Lossless LLM Inference**|Xing Li et.al.|[2502.04420_(ICML)](http://arxiv.org/abs/2502.04420)|
-|**2025-11-18**|**CoSense-LLM: Semantics at the Edge with Cost- and Uncertainty-Aware Cloud-Edge Cooperation**|Hasan Akgul et.al.|[2510.19670](http://arxiv.org/abs/2510.19670)|
 |**2025-11-18**|**Near-Lossless Model Compression Enables Longer Context Inference in DNA Large Language Models**|Rui Zhu et.al.|[2511.14694](http://arxiv.org/abs/2511.14694)|
 |**2025-11-17**|**Hogwild! Inference: Parallel LLM Generation via Concurrent Attention**|Gleb Rodionov et.al.|[2504.06261_(NeurIPS)](http://arxiv.org/abs/2504.06261)|
 |**2025-11-14**|**Revisiting Disaggregated Large Language Model Serving for Performance and Energy Implications**|Jiaxi Li et.al.|[2601.08833](http://arxiv.org/abs/2601.08833)|
@@ -245,7 +248,6 @@ _Updated on 2026.01.15_
 |**2025-07-14**|**DroidSpeak: KV Cache Sharing for Cross-LLM Communication and Multi-LLM Serving**|Yuhan Liu et.al.|[2411.02820](http://arxiv.org/abs/2411.02820)|
 |**2025-07-10**|**Compactor: Calibrated Query-Agnostic KV Cache Compression with Approximate Leverage Scores**|Vivek Chari et.al.|[2507.08143](http://arxiv.org/abs/2507.08143)|
 |**2025-07-10**|**KVFlow: Efficient Prefix Caching for Accelerating LLM-Based Multi-Agent Workflows**|Zaifeng Pan et.al.|[2507.07400](http://arxiv.org/abs/2507.07400)|
-|**2025-07-10**|**Parallel CPU-GPU Execution for LLM Inference on Constrained GPUs**|Jiakun Fan et.al.|[2506.03296](http://arxiv.org/abs/2506.03296)|
 |**2025-07-09**|**Gradientsys: A Multi-Agent LLM Scheduler with ReAct Orchestration**|Xinyuan Song et.al.|[2507.06520](http://arxiv.org/abs/2507.06520)|
 |**2025-07-08**|**OpenAgentSafety: A Comprehensive Framework for Evaluating Real-World AI Agent Safety**|Sanidhya Vijayvargiya et.al.|[2507.06134](http://arxiv.org/abs/2507.06134)|
 |**2025-07-07**|**StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling**|Meng Wei et.al.|[2507.05240](http://arxiv.org/abs/2507.05240)|
@@ -304,7 +306,6 @@ _Updated on 2026.01.15_
 |**2025-05-21**|**Can LLMs Maintain Fundamental Abilities under KV Cache Compression?**|Xiang Liu et.al.|[2502.01941](http://arxiv.org/abs/2502.01941)|
 |**2025-05-21**|**LiveVLM: Efficient Online Video Understanding via Streaming-Oriented KV Cache and Retrieval**|Zhenyu Ning et.al.|[2505.15269](http://arxiv.org/abs/2505.15269)|
 |**2025-05-20**|**CE-LSLM: Efficient Large-Small Language Model Inference and Communication via Cloud-Edge Collaboration**|Pengyan Zhu et.al.|[2505.14085](http://arxiv.org/abs/2505.14085)|
-|**2025-05-20**|**Online Scheduling for LLM Inference with KV Cache Constraints**|Patrick Jaillet et.al.|[2502.07115](http://arxiv.org/abs/2502.07115)|
 |**2025-05-20**|**Log-Augmented Generation: Scaling Test-Time Reasoning with Reusable Computation**|Peter Baile Chen et.al.|[2505.14398](http://arxiv.org/abs/2505.14398)|
 |**2025-05-20**|**KeyDiff: Key Similarity-Based KV Cache Eviction for Long-Context LLM Inference in Resource-Constrained Environments**|Junyoung Park et.al.|[2504.15364](http://arxiv.org/abs/2504.15364)|
 |**2025-05-20**|**Scaling Test-Time Inference with Policy-Optimized, Dynamic Retrieval-Augmented Generation via KV Caching and Decoding**|Sakhinana Sagar Srinivas et.al.|[2504.01281](http://arxiv.org/abs/2504.01281)|

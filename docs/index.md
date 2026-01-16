@@ -6,15 +6,18 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.01.15_
+_Updated on 2026.01.16_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-01-15**|**Disco-RAG: Discourse-Aware Retrieval-Augmented Generation**|Dongqi Liu et.al.|[2601.04377](http://arxiv.org/abs/2601.04377)|
+|**2026-01-15**|**Scalable and Reliable Evaluation of AI Knowledge Retrieval Systems: RIKER and the Coherent Simulated Universe**|JV Roig et.al.|[2601.08847](http://arxiv.org/abs/2601.08847)|
+|**2026-01-15**|**LADFA: A Framework of Using Large Language Models and Retrieval-Augmented Generation for Personal Data Flow Analysis in Privacy Policies**|Haiyue Yuan et.al.|[2601.10413](http://arxiv.org/abs/2601.10413)|
+|**2026-01-14**|**CoSense-LLM: Semantics at the Edge with Cost- and Uncertainty-Aware Cloud-Edge Cooperation**|Hasan Akgul et.al.|[2510.19670](http://arxiv.org/abs/2510.19670)|
 |**2026-01-14**|**When to Trust: A Causality-Aware Calibration Framework for Accurate Knowledge Graph Retrieval-Augmented Generation**|Jing Ren et.al.|[2601.09241_(WWW)](http://arxiv.org/abs/2601.09241)|
 |**2026-01-13**|**Reliable Graph-RAG for Codebases: AST-Derived Graphs vs LLM-Extracted Knowledge Graphs**|Manideep Reddy Chinthareddy et.al.|[2601.08773](http://arxiv.org/abs/2601.08773)|
 |**2026-01-11**|**Graph-KV: Breaking Sequence via Injecting Structural Biases into Large Language Models**|Haoyu Wang et.al.|[2506.07334](http://arxiv.org/abs/2506.07334)|
 |**2026-01-11**|**CyberLLM-FINDS 2025: Instruction-Tuned Fine-tuning of Domain-Specific LLMs with Retrieval-Augmented Generation and Graph Integration for MITRE Evaluation**|Vasanth Iyer et.al.|[2601.06779](http://arxiv.org/abs/2601.06779)|
-|**2026-01-10**|**Disco-RAG: Discourse-Aware Retrieval-Augmented Generation**|Dongqi Liu et.al.|[2601.04377](http://arxiv.org/abs/2601.04377)|
 |**2026-01-10**|**MedRAGChecker: Claim-Level Verification for Biomedical Retrieval-Augmented Generation**|Yuelyu Ji et.al.|[2601.06519](http://arxiv.org/abs/2601.06519)|
 |**2026-01-10**|**N2N-GQA: Noise-to-Narrative for Graph-Based Table-Text Question Answering Using LLMs**|Mohamed Sharafath et.al.|[2601.06603_(AAAI)](http://arxiv.org/abs/2601.06603)|
 |**2026-01-10**|**Structured Episodic Event Memory**|Zhengxuan Lu et.al.|[2601.06411](http://arxiv.org/abs/2601.06411)|
@@ -32,7 +35,6 @@ _Updated on 2026.01.15_
 |**2025-12-29**|**Multi-Agent Framework for Threat Mitigation and Resilience in AI-Based Systems**|Armstrong Foundjem et.al.|[2512.23132](http://arxiv.org/abs/2512.23132)|
 |**2025-12-22**|**Ontology-Based Knowledge Graph Framework for Industrial Standard Documents via Hierarchical and Propositional Structuring**|Jiin Park et.al.|[2512.08398_(DATE)](http://arxiv.org/abs/2512.08398)|
 |**2025-12-22**|**Event Extraction in Large Language Model**|Bobo Li et.al.|[2512.19537](http://arxiv.org/abs/2512.19537)|
-|**2025-12-22**|**Scalable and Reliable Evaluation of AI Knowledge Retrieval Systems: RIKER and the Coherent Simulated Universe**|JV Roig et.al.|[2601.08847](http://arxiv.org/abs/2601.08847)|
 |**2025-12-20**|**MatKV: Trading Compute for Flash Storage in LLM Inference**|Kun-Woo Shin et.al.|[2512.22195_(ICDE)](http://arxiv.org/abs/2512.22195)|
 |**2025-12-19**|**RecipeMasterLLM: Revisiting RoboEarth in the Era of Large Language Models**|Asil Kaan Bozcuoglu et.al.|[2512.17309](http://arxiv.org/abs/2512.17309)|
 |**2025-12-18**|**MEPIC: Memory Efficient Position Independent Caching for LLM Serving**|Qian Wang et.al.|[2512.16822](http://arxiv.org/abs/2512.16822)|
@@ -64,7 +66,6 @@ _Updated on 2026.01.15_
 |**2025-11-24**|**Concept than Document: Context Compression via AMR-based Conceptual Entropy**|Kaize Shi et.al.|[2511.18832](http://arxiv.org/abs/2511.18832)|
 |**2025-11-20**|**ARK: Answer-Centric Retriever Tuning via KG-augmented Curriculum Learning**|Jiawei Zhou et.al.|[2511.16326](http://arxiv.org/abs/2511.16326)|
 |**2025-11-19**|**ReFactX: Scalable Reasoning with Reliable Facts via Constrained Generation**|Riccardo Pozzi et.al.|[2508.16983_(ISWC)](http://arxiv.org/abs/2508.16983)|
-|**2025-11-18**|**CoSense-LLM: Semantics at the Edge with Cost- and Uncertainty-Aware Cloud-Edge Cooperation**|Hasan Akgul et.al.|[2510.19670](http://arxiv.org/abs/2510.19670)|
 |**2025-11-18**|**NeuroPath: Neurobiology-Inspired Path Tracking and Reflection for Semantically Coherent Retrieval**|Junchen Li et.al.|[2511.14096_(NeurIPS)](http://arxiv.org/abs/2511.14096)|
 |**2025-11-17**|**Beyond Chains: Bridging Large Language Models and Knowledge Bases in Complex Question Answering**|Yihua Zhu et.al.|[2505.14099_(AAAI)](http://arxiv.org/abs/2505.14099)|
 |**2025-11-17**|**Automated Construction of Medical Indicator Knowledge Graphs Using Retrieval Augmented Large Language Models**|Zhengda Wang et.al.|[2511.13526](http://arxiv.org/abs/2511.13526)|
