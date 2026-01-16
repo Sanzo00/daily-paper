@@ -13,6 +13,7 @@ _Updated on 2026.01.16_
 |**2026-01-15**|**Disco-RAG: Discourse-Aware Retrieval-Augmented Generation**|Dongqi Liu et.al.|[2601.04377](http://arxiv.org/abs/2601.04377)|
 |**2026-01-15**|**Scalable and Reliable Evaluation of AI Knowledge Retrieval Systems: RIKER and the Coherent Simulated Universe**|JV Roig et.al.|[2601.08847](http://arxiv.org/abs/2601.08847)|
 |**2026-01-15**|**LADFA: A Framework of Using Large Language Models and Retrieval-Augmented Generation for Personal Data Flow Analysis in Privacy Policies**|Haiyue Yuan et.al.|[2601.10413](http://arxiv.org/abs/2601.10413)|
+|**2026-01-15**|**Structure and Diversity Aware Context Bubble Construction for Enterprise Retrieval Augmented Systems**|Amir Khurshid et.al.|[2601.10681](http://arxiv.org/abs/2601.10681)|
 |**2026-01-14**|**CoSense-LLM: Semantics at the Edge with Cost- and Uncertainty-Aware Cloud-Edge Cooperation**|Hasan Akgul et.al.|[2510.19670](http://arxiv.org/abs/2510.19670)|
 |**2026-01-14**|**When to Trust: A Causality-Aware Calibration Framework for Accurate Knowledge Graph Retrieval-Augmented Generation**|Jing Ren et.al.|[2601.09241_(WWW)](http://arxiv.org/abs/2601.09241)|
 |**2026-01-13**|**Reliable Graph-RAG for Codebases: AST-Derived Graphs vs LLM-Extracted Knowledge Graphs**|Manideep Reddy Chinthareddy et.al.|[2601.08773](http://arxiv.org/abs/2601.08773)|
