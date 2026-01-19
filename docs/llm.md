@@ -6,11 +6,13 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.01.18_
+_Updated on 2026.01.19_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-01-16**|**Beyond Max Tokens: Stealthy Resource Amplification via Tool Calling Chains in LLM Agents**|Kaiyu Zhou et.al.|[2601.10955](http://arxiv.org/abs/2601.10955)|
 |**2026-01-15**|**Online Scheduling for LLM Inference with KV Cache Constraints**|Patrick Jaillet et.al.|[2502.07115](http://arxiv.org/abs/2502.07115)|
+|**2026-01-15**|**AdaptCache: KV Cache Native Storage Hierarchy for Low-Delay and High-Quality Language Model Serving**|Shaoting Feng et.al.|[2509.00105_(SOSP)](http://arxiv.org/abs/2509.00105)|
 |**2026-01-15**|**Hardware Acceleration for Neural Networks: A Comprehensive Survey**|Bin Xu et.al.|[2512.23914](http://arxiv.org/abs/2512.23914)|
 |**2026-01-15**|**Sparse-RL: Breaking the Memory Wall in LLM Reinforcement Learning via Stable Sparse Rollouts**|Sijia Luo et.al.|[2601.10079](http://arxiv.org/abs/2601.10079)|
 |**2026-01-14**|**APEX: Asynchronous Parallel CPU-GPU Execution for Online LLM Inference on Constrained GPUs**|Jiakun Fan et.al.|[2506.03296](http://arxiv.org/abs/2506.03296)|
@@ -27,6 +29,7 @@ _Updated on 2026.01.18_
 |**2026-01-06**|**Joint Encoding of KV-Cache Blocks for Scalable LLM Serving**|Joseph Kampeas et.al.|[2601.03067](http://arxiv.org/abs/2601.03067)|
 |**2026-01-05**|**Optimizing LLM Inference: Fluid-Guided Online Scheduling with Memory Constraints**|Ruicheng Ao et.al.|[2504.11320](http://arxiv.org/abs/2504.11320)|
 |**2026-01-05**|**LoRA-Drop: Temporal LoRA Decoding for Efficient LLM Inference**|Hossein Rajabzadeh et.al.|[2601.02569](http://arxiv.org/abs/2601.02569)|
+|**2026-01-05**|**ORBITFLOW: SLO-Aware Long-Context LLM Serving with Fine-Grained KV Cache Reconfiguration**|Xinyue Ma et.al.|[2601.10729_(VLDB)](http://arxiv.org/abs/2601.10729)|
 |**2026-01-03**|**Warp-Cortex: An Asynchronous, Memory-Efficient Architecture for Million-Agent Cognitive Scaling on Consumer Hardware**|Jorge L. Ruiz Williams et.al.|[2601.01298](http://arxiv.org/abs/2601.01298)|
 |**2026-01-03**|**KV-Embedding: Training-free Text Embedding via Internal KV Re-routing in Decoder-only LLMs**|Yixuan Tang et.al.|[2601.01046](http://arxiv.org/abs/2601.01046)|
 |**2025-12-29**|**ODMA: On-Demand Memory Allocation Framework for LLM Serving on LPDDR-Class Accelerators**|Guoqiang Zou et.al.|[2512.09427](http://arxiv.org/abs/2512.09427)|
@@ -209,7 +212,6 @@ _Updated on 2026.01.18_
 |**2025-08-30**|**LLM-Assisted Iterative Evolution with Swarm Intelligence Toward SuperBrain**|Li Weigang et.al.|[2509.00510](http://arxiv.org/abs/2509.00510)|
 |**2025-08-29**|**Atom-Searcher: Enhancing Agentic Deep Research via Fine-Grained Atomic Thought Reward**|Yong Deng et.al.|[2508.12800](http://arxiv.org/abs/2508.12800)|
 |**2025-08-29**|**Democratizing Agentic AI with Fast Test-Time Scaling on the Edge**|Hao Mark Chen et.al.|[2509.00195](http://arxiv.org/abs/2509.00195)|
-|**2025-08-28**|**AdaptCache: KV Cache Native Storage Hierarchy for Low-Delay and High-Quality Language Model Serving**|Shaoting Feng et.al.|[2509.00105](http://arxiv.org/abs/2509.00105)|
 |**2025-08-28**|**TinyServe: Query-Aware Cache Selection for Efficient LLM Serving**|Dong Liu et.al.|[2509.12211_(ACM MM)](http://arxiv.org/abs/2509.12211)|
 |**2025-08-26**|**Krul: Efficient State Restoration for Multi-turn Conversations with Dynamic Cross-layer KV Sharing**|Junyi Wen et.al.|[2507.08045](http://arxiv.org/abs/2507.08045)|
 |**2025-08-26**|**Strata: Hierarchical Context Caching for Long Context Language Model Serving**|Zhiqiang Xie et.al.|[2508.18572](http://arxiv.org/abs/2508.18572)|
