@@ -10,6 +10,7 @@ _Updated on 2026.01.21_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-01-19**|**Two-Layer Reinforcement Learning-Assisted Joint Beamforming and Trajectory Optimization for Multi-UAV Downlink Communications**|Ruiqi Wang et.al.|[2601.12659](http://arxiv.org/abs/2601.12659)|
 |**2026-01-15**|**Hardware Acceleration for Neural Networks: A Comprehensive Survey**|Bin Xu et.al.|[2512.23914](http://arxiv.org/abs/2512.23914)|
 |**2026-01-09**|**CyberGFM: Graph Foundation Models for Lateral Movement Detection in Enterprise Networks**|Isaiah J. King et.al.|[2601.05988](http://arxiv.org/abs/2601.05988)|
 |**2025-12-20**|**A Distributed Hierarchical Spatio-Temporal Edge-Enhanced Graph Neural Network for City-Scale Dynamic Logistics Routing**|Zihan Han et.al.|[2512.18441](http://arxiv.org/abs/2512.18441)|

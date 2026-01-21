@@ -10,6 +10,11 @@ _Updated on 2026.01.21_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-01-20**|**LLMOrbit: A Circular Taxonomy of Large Language Models -From Scaling Walls to Agentic AI Systems**|Badri N. Patro et.al.|[2601.14053](http://arxiv.org/abs/2601.14053)|
+|**2026-01-20**|**IGAA: Intent-Driven General Agentic AI for Edge Services Scheduling using Generative Meta Learning**|Yan Sun et.al.|[2601.13702](http://arxiv.org/abs/2601.13702)|
+|**2026-01-19**|**Batch Query Processing and Optimization for Agentic Workflows**|Junyi Shen et.al.|[2509.02121](http://arxiv.org/abs/2509.02121)|
+|**2026-01-19**|**Sutradhara: An Intelligent Orchestrator-Engine Co-design for Tool-based Agentic Inference**|Anish Biswas et.al.|[2601.12967](http://arxiv.org/abs/2601.12967)|
+|**2026-01-19**|**IntAgent: NWDAF-Based Intent LLM Agent Towards Advanced Next Generation Networks**|Abdelrahman Soliman et.al.|[2601.13114](http://arxiv.org/abs/2601.13114)|
 |**2026-01-18**|**Rethinking the Value of Multi-Agent Workflow: A Strong Single Agent Baseline**|Jiawei Xu et.al.|[2601.12307](http://arxiv.org/abs/2601.12307)|
 |**2026-01-17**|**PEARL: Self-Evolving Assistant for Time Management with Reinforcement Learning**|Bingxuan Li et.al.|[2601.11957](http://arxiv.org/abs/2601.11957)|
 |**2026-01-16**|**Beyond Max Tokens: Stealthy Resource Amplification via Tool Calling Chains in LLM Agents**|Kaiyu Zhou et.al.|[2601.10955](http://arxiv.org/abs/2601.10955)|
@@ -113,7 +118,6 @@ _Updated on 2026.01.21_
 |**2025-09-20**|**Time to Talk: LLM Agents for Asynchronous Group Communication in Mafia Games**|Niv Eckhaus et.al.|[2506.05309](http://arxiv.org/abs/2506.05309)|
 |**2025-09-19**|**Overhearing LLM Agents: A Survey, Taxonomy, and Roadmap**|Andrew Zhu et.al.|[2509.16325](http://arxiv.org/abs/2509.16325)|
 |**2025-09-17**|**CrowdAgent: Multi-Agent Managed Multi-Source Annotation System**|Maosheng Qin et.al.|[2509.14030](http://arxiv.org/abs/2509.14030)|
-|**2025-09-02**|**Batch Query Processing and Optimization for Agentic Workflows**|Junyi Shen et.al.|[2509.02121](http://arxiv.org/abs/2509.02121)|
 |**2025-08-30**|**LLM-Assisted Iterative Evolution with Swarm Intelligence Toward SuperBrain**|Li Weigang et.al.|[2509.00510](http://arxiv.org/abs/2509.00510)|
 |**2025-08-29**|**Democratizing Agentic AI with Fast Test-Time Scaling on the Edge**|Hao Mark Chen et.al.|[2509.00195](http://arxiv.org/abs/2509.00195)|
 |**2025-08-29**|**Atom-Searcher: Enhancing Agentic Deep Research via Fine-Grained Atomic Thought Reward**|Yong Deng et.al.|[2508.12800](http://arxiv.org/abs/2508.12800)|

@@ -10,6 +10,10 @@ _Updated on 2026.01.21_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-01-20**|**LLMOrbit: A Circular Taxonomy of Large Language Models -From Scaling Walls to Agentic AI Systems**|Badri N. Patro et.al.|[2601.14053](http://arxiv.org/abs/2601.14053)|
+|**2026-01-19**|**From Prefix Cache to Fusion RAG Cache: Accelerating LLM Inference in Retrieval-Augmented Generation**|Jiahao Wang et.al.|[2601.12904](http://arxiv.org/abs/2601.12904)|
+|**2026-01-19**|**Augmenting Question Answering with A Hybrid RAG Approach**|Tianyi Yang et.al.|[2601.12658](http://arxiv.org/abs/2601.12658)|
+|**2026-01-19**|**STEP-LLM: Generating CAD STEP Models from Natural Language with Large Language Models**|Xiangyu Shi et.al.|[2601.12641_(DATE)](http://arxiv.org/abs/2601.12641)|
 |**2026-01-16**|**Beyond Max Tokens: Stealthy Resource Amplification via Tool Calling Chains in LLM Agents**|Kaiyu Zhou et.al.|[2601.10955](http://arxiv.org/abs/2601.10955)|
 |**2026-01-16**|**SD-RAG: A Prompt-Injection-Resilient Framework for Selective Disclosure in Retrieval-Augmented Generation**|Aiman Al Masoud et.al.|[2601.11199](http://arxiv.org/abs/2601.11199)|
 |**2026-01-15**|**Disco-RAG: Discourse-Aware Retrieval-Augmented Generation**|Dongqi Liu et.al.|[2601.04377](http://arxiv.org/abs/2601.04377)|
