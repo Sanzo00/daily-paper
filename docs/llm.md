@@ -6,11 +6,13 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.01.20_
+_Updated on 2026.01.21_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-01-18**|**Rethinking the Value of Multi-Agent Workflow: A Strong Single Agent Baseline**|Jiawei Xu et.al.|[2601.12307](http://arxiv.org/abs/2601.12307)|
 |**2026-01-16**|**Beyond Max Tokens: Stealthy Resource Amplification via Tool Calling Chains in LLM Agents**|Kaiyu Zhou et.al.|[2601.10955](http://arxiv.org/abs/2601.10955)|
+|**2026-01-16**|**RAPID-Serve: Resource-efficient and Accelerated P/D Intra-GPU Disaggregation**|Amna Masood et.al.|[2601.11822](http://arxiv.org/abs/2601.11822)|
 |**2026-01-15**|**Online Scheduling for LLM Inference with KV Cache Constraints**|Patrick Jaillet et.al.|[2502.07115](http://arxiv.org/abs/2502.07115)|
 |**2026-01-15**|**AdaptCache: KV Cache Native Storage Hierarchy for Low-Delay and High-Quality Language Model Serving**|Shaoting Feng et.al.|[2509.00105_(SOSP)](http://arxiv.org/abs/2509.00105)|
 |**2026-01-15**|**Hardware Acceleration for Neural Networks: A Comprehensive Survey**|Bin Xu et.al.|[2512.23914](http://arxiv.org/abs/2512.23914)|
@@ -36,6 +38,7 @@ _Updated on 2026.01.20_
 |**2025-12-28**|**Attention Is All You Need for KV Cache in Diffusion LLMs**|Quan Nguyen-Tri et.al.|[2510.14973](http://arxiv.org/abs/2510.14973)|
 |**2025-12-28**|**WeDLM: Reconciling Diffusion Language Models with Standard Causal Attention for Fast Inference**|Aiwei Liu et.al.|[2512.22737](http://arxiv.org/abs/2512.22737)|
 |**2025-12-25**|**PIMphony: Overcoming Bandwidth and Capacity Inefficiency in PIM-based Long-Context LLM Inference System**|Hyucksung Kwon et.al.|[2412.20166_(CHI)](http://arxiv.org/abs/2412.20166)|
+|**2025-12-25**|**Context Discipline and Performance Correlation: Analyzing LLM Performance and Quality Degradation Under Varying Context Lengths**|Ahilan Ayyachamy Nadar Ponnusamy et.al.|[2601.11564](http://arxiv.org/abs/2601.11564)|
 |**2025-12-24**|**V-Rex: Real-Time Streaming Video LLM Acceleration via Dynamic KV Cache Retrieval**|Donghyuk Kim et.al.|[2512.12284_(HPCA)](http://arxiv.org/abs/2512.12284)|
 |**2025-12-22**|**MixKVQ: Query-Aware Mixed-Precision KV Cache Quantization for Long-Context Reasoning**|Tao Zhang et.al.|[2512.19206](http://arxiv.org/abs/2512.19206)|
 |**2025-12-20**|**Continuum: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live**|Hanchen Li et.al.|[2511.02230](http://arxiv.org/abs/2511.02230)|
@@ -57,6 +60,7 @@ _Updated on 2026.01.20_
 |**2025-12-11**|**Unlocking the Address Book: Dissecting the Sparse Semantic Structure of LLM Key-Value Caches via Sparse Autoencoders**|Qingsen Ma et.al.|[2512.10547](http://arxiv.org/abs/2512.10547)|
 |**2025-12-11**|**CXL-SpecKV: A Disaggregated FPGA Speculative KV-Cache for Datacenter LLM Serving**|Dong Liu et.al.|[2512.11920_(FPGA)](http://arxiv.org/abs/2512.11920)|
 |**2025-12-10**|**SnapStream: Efficient Long Sequence Decoding on Dataflow Accelerators**|Jonathan Li et.al.|[2511.03092](http://arxiv.org/abs/2511.03092)|
+|**2025-12-10**|**PerCache: Predictive Hierarchical Cache for RAG Applications on Mobile Devices**|Kaiwei Liu et.al.|[2601.11553](http://arxiv.org/abs/2601.11553)|
 |**2025-12-09**|**StreamingThinker: Large Language Models Can Think While Reading**|Junlong Tong et.al.|[2510.17238](http://arxiv.org/abs/2510.17238)|
 |**2025-12-08**|**H2EAL: Hybrid-Bonding Architecture with Hybrid Sparse Attention for Efficient Long-Context LLM Inference**|Zizhuo Fu et.al.|[2508.16653_(ICC)](http://arxiv.org/abs/2508.16653)|
 |**2025-12-08**|**Leveraging KV Similarity for Online Structured Pruning in LLMs**|Jungmin Lee et.al.|[2512.07090](http://arxiv.org/abs/2512.07090)|

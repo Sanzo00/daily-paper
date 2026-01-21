@@ -6,10 +6,12 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.01.20_
+_Updated on 2026.01.21_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-01-18**|**Rethinking the Value of Multi-Agent Workflow: A Strong Single Agent Baseline**|Jiawei Xu et.al.|[2601.12307](http://arxiv.org/abs/2601.12307)|
+|**2026-01-17**|**PEARL: Self-Evolving Assistant for Time Management with Reinforcement Learning**|Bingxuan Li et.al.|[2601.11957](http://arxiv.org/abs/2601.11957)|
 |**2026-01-16**|**Beyond Max Tokens: Stealthy Resource Amplification via Tool Calling Chains in LLM Agents**|Kaiyu Zhou et.al.|[2601.10955](http://arxiv.org/abs/2601.10955)|
 |**2026-01-16**|**AstroReason-Bench: Evaluating Unified Agentic Planning across Heterogeneous Space Planning Problems**|Weiyi Wang et.al.|[2601.11354](http://arxiv.org/abs/2601.11354)|
 |**2026-01-13**|**StackPilot: Autonomous Function Agents for Scalable and Environment-Free Code Execution**|Xinkui Zhao et.al.|[2508.11665](http://arxiv.org/abs/2508.11665)|

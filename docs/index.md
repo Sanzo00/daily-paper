@@ -6,7 +6,7 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.01.20_
+_Updated on 2026.01.21_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
@@ -50,6 +50,7 @@ _Updated on 2026.01.20_
 |**2025-12-16**|**PAT: Accelerating LLM Decoding via Prefix-Aware Attention with Resource Efficient Multi-Tile Kernel**|Jinjun Yi et.al.|[2511.22333_(ASPLOS)](http://arxiv.org/abs/2511.22333)|
 |**2025-12-16**|**IaC Generation with LLMs: An Error Taxonomy and A Study on Configuration Knowledge Injection**|Roman Nekrasov et.al.|[2512.14792](http://arxiv.org/abs/2512.14792)|
 |**2025-12-10**|**RouteRAG: Efficient Retrieval-Augmented Generation from Text and Graph via Reinforcement Learning**|Yucan Guo et.al.|[2512.09487](http://arxiv.org/abs/2512.09487)|
+|**2025-12-10**|**PerCache: Predictive Hierarchical Cache for RAG Applications on Mobile Devices**|Kaiwei Liu et.al.|[2601.11553](http://arxiv.org/abs/2601.11553)|
 |**2025-12-09**|**Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval**|Yingyi Zhang et.al.|[2510.08935](http://arxiv.org/abs/2510.08935)|
 |**2025-12-09**|**Knowledge-Guided Large Language Model for Automatic Pediatric Dental Record Understanding and Safe Antibiotic Recommendation**|Zihan Han et.al.|[2512.09127](http://arxiv.org/abs/2512.09127)|
 |**2025-12-05**|**LA-RL: Language Action-guided Reinforcement Learning with Safety Guarantees for Autonomous Highway Driving**|Yiming Shu et.al.|[2512.05686](http://arxiv.org/abs/2512.05686)|
