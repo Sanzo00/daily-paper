@@ -6,10 +6,12 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.01.25_
+_Updated on 2026.01.26_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-01-23**|**Towards Open-World Retrieval-Augmented Generation on Knowledge Graph: A Multi-Agent Collaboration Framework**|Jiasheng Xu et.al.|[2509.01238](http://arxiv.org/abs/2509.01238)|
+|**2026-01-23**|**Graph-Anchored Knowledge Indexing for Retrieval-Augmented Generation**|Zhenghao Liu et.al.|[2601.16462](http://arxiv.org/abs/2601.16462)|
 |**2026-01-21**|**What Makes AI Research Replicable? Executable Knowledge Graphs as Scientific Knowledge Representations**|Yujie Luo et.al.|[2510.17795](http://arxiv.org/abs/2510.17795)|
 |**2026-01-21**|**AlertGuardian: Intelligent Alert Life-Cycle Management for Large-scale Cloud Systems**|Guangba Yu et.al.|[2601.14912](http://arxiv.org/abs/2601.14912)|
 |**2026-01-21**|**Domain-Specific Knowledge Graphs in RAG-Enhanced Healthcare LLMs**|Sydney Anuyah et.al.|[2601.15429](http://arxiv.org/abs/2601.15429)|
@@ -186,7 +188,6 @@ _Updated on 2026.01.25_
 |**2025-09-05**|**KERAG: Knowledge-Enhanced Retrieval-Augmented Generation for Advanced Question Answering**|Yushi Sun et.al.|[2509.04716_(EMNLP)](http://arxiv.org/abs/2509.04716)|
 |**2025-09-04**|**Maestro: Joint Graph & Config Optimization for Reliable AI Agents**|Wenxiao Wang et.al.|[2509.04642](http://arxiv.org/abs/2509.04642)|
 |**2025-09-03**|**Explainable Knowledge Graph Retrieval-Augmented Generation (KG-RAG) with KG-SMILE**|Zahra Zehtabi Sabeti Moghaddam et.al.|[2509.03626](http://arxiv.org/abs/2509.03626)|
-|**2025-09-01**|**Towards Open-World Retrieval-Augmented Generation on Knowledge Graph: A Multi-Agent Collaboration Framework**|Jiasheng Xu et.al.|[2509.01238](http://arxiv.org/abs/2509.01238)|
 |**2025-09-01**|**PIR-RAG: A System for Private Information Retrieval in Retrieval-Augmented Generation**|Baiqiang Wang et.al.|[2509.21325](http://arxiv.org/abs/2509.21325)|
 |**2025-08-30**|**KG-RAG: Enhancing GUI Agent Decision-Making via Knowledge Graph-Driven Retrieval-Augmented Generation**|Ziyi Guan et.al.|[2509.00366_(EMNLP)](http://arxiv.org/abs/2509.00366)|
 |**2025-08-29**|**Evaluating Knowledge Graph Based Retrieval Augmented Generation Methods under Knowledge Incompleteness**|Dongzhuoran Zhou et.al.|[2504.05163](http://arxiv.org/abs/2504.05163)|

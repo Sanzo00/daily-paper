@@ -6,10 +6,12 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.01.25_
+_Updated on 2026.01.26_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-01-23**|**GTA: Generative Traffic Agents for Simulating Realistic Mobility Behavior**|Simon Lämmer et.al.|[2601.16778_(CHI)](http://arxiv.org/abs/2601.16778)|
+|**2026-01-23**|**Emergent Coordination in Multi-Agent Systems via Pressure Fields and Temporal Decay**|Roland Rodriguez et.al.|[2601.08129](http://arxiv.org/abs/2601.08129)|
 |**2026-01-21**|**IB-GRPO: Aligning LLM-based Learning Path Recommendation with Educational Objectives via Indicator-Based Group Relative Policy Optimization**|Shuai Wang et.al.|[2601.14686](http://arxiv.org/abs/2601.14686)|
 |**2026-01-20**|**LLMOrbit: A Circular Taxonomy of Large Language Models -From Scaling Walls to Agentic AI Systems**|Badri N. Patro et.al.|[2601.14053](http://arxiv.org/abs/2601.14053)|
 |**2026-01-20**|**IGAA: Intent-Driven General Agentic AI for Edge Services Scheduling using Generative Meta Learning**|Yan Sun et.al.|[2601.13702](http://arxiv.org/abs/2601.13702)|
