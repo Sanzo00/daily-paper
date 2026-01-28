@@ -6,11 +6,12 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.01.27_
+_Updated on 2026.01.28_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
-|**2026-01-25**|**treaming-dLLM: Accelerating Diffusion LLMs via Suffix Pruning and Dynamic Decoding**|Zhongyu Xiao et.al.|[2601.17917](http://arxiv.org/abs/2601.17917)|
+|**2026-01-27**|**Streaming-dLLM: Accelerating Diffusion LLMs via Suffix Pruning and Dynamic Decoding**|Zhongyu Xiao et.al.|[2601.17917](http://arxiv.org/abs/2601.17917)|
+|**2026-01-26**|**Randomization Boosts KV Caching, Learning Balances Query Load: A Joint Perspective**|Fangzhou Wu et.al.|[2601.18999_(ICLR)](http://arxiv.org/abs/2601.18999)|
 |**2026-01-25**|**Fast KVzip: Efficient and Accurate LLM Inference with Gated KV Eviction**|Jang-Hyun Kim et.al.|[2601.17668](http://arxiv.org/abs/2601.17668)|
 |**2026-01-21**|**QMC: Efficient SLM Edge Inference via Outlier-Aware Quantization and Emergent Memories Co-Design**|Nilesh Prasad Pandey et.al.|[2601.14549](http://arxiv.org/abs/2601.14549)|
 |**2026-01-20**|**KeyDiff: Key Similarity-Based KV Cache Eviction for Long-Context LLM Inference in Resource-Constrained Environments**|Junyoung Park et.al.|[2504.15364_(NeurIPS)](http://arxiv.org/abs/2504.15364)|
