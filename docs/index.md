@@ -11,6 +11,7 @@ _Updated on 2026.01.29_
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
 |**2026-01-28**|**RPO-RAG: Aligning Small LLMs with Relation-aware Preference Optimization for Knowledge Graph Question Answering**|Kaehyun Um et.al.|[2601.19225_(WWW)](http://arxiv.org/abs/2601.19225)|
+|**2026-01-28**|**Context-Augmented Code Generation Using Programming Knowledge Graphs**|Shahd Seddik et.al.|[2601.20810](http://arxiv.org/abs/2601.20810)|
 |**2026-01-27**|**Efficient and Transferable Agentic Knowledge Graph RAG via Reinforcement Learning**|Jinyeop Song et.al.|[2509.26383](http://arxiv.org/abs/2509.26383)|
 |**2026-01-26**|**FastInsight: Fast and Insightful Retrieval via Fusion Operators for Graph RAG**|Seonho An et.al.|[2601.18579](http://arxiv.org/abs/2601.18579)|
 |**2026-01-25**|**Augmenting Question Answering with A Hybrid RAG Approach**|Tianyi Yang et.al.|[2601.12658](http://arxiv.org/abs/2601.12658)|
