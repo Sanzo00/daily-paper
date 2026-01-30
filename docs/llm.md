@@ -6,12 +6,15 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.01.29_
+_Updated on 2026.01.30_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-01-29**|**Theoretically Optimal Attention/FFN Ratios in Disaggregated LLM Serving**|Chendong Song et.al.|[2601.21351_(ICML)](http://arxiv.org/abs/2601.21351)|
+|**2026-01-29**|**Why Attention Patterns Exist: A Unifying Temporal Perspective Analysis**|Qingyue Yang et.al.|[2601.21709_(ICLR)](http://arxiv.org/abs/2601.21709)|
 |**2026-01-28**|**SuperInfer: SLO-Aware Rotary Scheduling and Memory Management for LLM Inference on Superchips**|Jiahuan Yu et.al.|[2601.20309](http://arxiv.org/abs/2601.20309)|
 |**2026-01-28**|**Beyond Speedup -- Utilizing KV Cache for Sampling and Reasoning**|Zeyu Xing et.al.|[2601.20326_(ICLR)](http://arxiv.org/abs/2601.20326)|
+|**2026-01-28**|**ChunkWise LoRA: Adaptive Sequence Partitioning for Memory-Efficient Low-Rank Adaptation and Accelerated LLM Inference**|Ketan Thakkar et.al.|[2601.21109](http://arxiv.org/abs/2601.21109)|
 |**2026-01-27**|**Streaming-dLLM: Accelerating Diffusion LLMs via Suffix Pruning and Dynamic Decoding**|Zhongyu Xiao et.al.|[2601.17917](http://arxiv.org/abs/2601.17917)|
 |**2026-01-26**|**Randomization Boosts KV Caching, Learning Balances Query Load: A Joint Perspective**|Fangzhou Wu et.al.|[2601.18999_(ICLR)](http://arxiv.org/abs/2601.18999)|
 |**2026-01-25**|**Fast KVzip: Efficient and Accurate LLM Inference with Gated KV Eviction**|Jang-Hyun Kim et.al.|[2601.17668](http://arxiv.org/abs/2601.17668)|
