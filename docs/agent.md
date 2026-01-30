@@ -10,6 +10,8 @@ _Updated on 2026.01.30_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-01-29**|**CORE:Toward Ubiquitous 6G Intelligence Through Collaborative Orchestration of Large Language Model Agents Over Hierarchical Edge**|Zitong Yu et.al.|[2601.21822](http://arxiv.org/abs/2601.21822)|
+|**2026-01-29**|**Heterogeneous Computing: The Key to Powering the Future of AI Agent Inference**|Yiren Zhao et.al.|[2601.22001](http://arxiv.org/abs/2601.22001)|
 |**2026-01-28**|**PEARL: Self-Evolving Assistant for Time Management with Reinforcement Learning**|Bingxuan Li et.al.|[2601.11957](http://arxiv.org/abs/2601.11957)|
 |**2026-01-27**|**GTA: Generative Traffic Agents for Simulating Realistic Mobility Behavior**|Simon Lämmer et.al.|[2601.16778_(CHI)](http://arxiv.org/abs/2601.16778)|
 |**2026-01-23**|**Emergent Coordination in Multi-Agent Systems via Pressure Fields and Temporal Decay**|Roland Rodriguez et.al.|[2601.08129](http://arxiv.org/abs/2601.08129)|
