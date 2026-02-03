@@ -10,6 +10,8 @@ _Updated on 2026.02.03_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-02-02**|**SOPRAG: Multi-view Graph Experts Retrieval for Industrial Standard Operating Procedures**|Liangtao Lin et.al.|[2602.01858](http://arxiv.org/abs/2602.01858)|
+|**2026-02-01**|**MedBeads: An Agent-Native, Immutable Data Substrate for Trustworthy Medical AI**|Takahito Nakajima et.al.|[2602.01086](http://arxiv.org/abs/2602.01086)|
 |**2026-01-30**|**GrepRAG: An Empirical Study and Optimization of Grep-Like Retrieval for Code Completion**|Baoyi Wang et.al.|[2601.23254](http://arxiv.org/abs/2601.23254)|
 |**2026-01-28**|**RPO-RAG: Aligning Small LLMs with Relation-aware Preference Optimization for Knowledge Graph Question Answering**|Kaehyun Um et.al.|[2601.19225_(WWW)](http://arxiv.org/abs/2601.19225)|
 |**2026-01-28**|**Context-Augmented Code Generation Using Programming Knowledge Graphs**|Shahd Seddik et.al.|[2601.20810](http://arxiv.org/abs/2601.20810)|

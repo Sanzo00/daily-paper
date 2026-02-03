@@ -10,6 +10,10 @@ _Updated on 2026.02.03_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-02-02**|**RedVisor: Reasoning-Aware Prompt Injection Defense via Zero-Copy KV Cache Reuse**|Mingrui Liu et.al.|[2602.01795](http://arxiv.org/abs/2602.01795)|
+|**2026-02-02**|**CoMeT: Collaborative Memory Transformer for Efficient Long Context Modeling**|Runsong Zhao et.al.|[2602.01766](http://arxiv.org/abs/2602.01766)|
+|**2026-02-02**|**You Need an Encoder for Native Position-Independent Caching**|Shiju Zhao et.al.|[2602.01519](http://arxiv.org/abs/2602.01519)|
+|**2026-02-02**|**State Rank Dynamics in Linear Attention LLMs**|Ao Sun et.al.|[2602.02195](http://arxiv.org/abs/2602.02195)|
 |**2026-01-31**|**FastTTS: Accelerating Test-Time Scaling for Edge LLM Reasoning**|Hao Mark Chen et.al.|[2509.00195_(ASPLOS)](http://arxiv.org/abs/2509.00195)|
 |**2026-01-30**|**Can Transformer Memory Be Corrupted? Investigating Cache-Side Vulnerabilities in Large Language Models**|Elias Hossain et.al.|[2510.17098](http://arxiv.org/abs/2510.17098)|
 |**2026-01-30**|**Continuum: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live**|Hanchen Li et.al.|[2511.02230](http://arxiv.org/abs/2511.02230)|

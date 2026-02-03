@@ -10,6 +10,10 @@ _Updated on 2026.02.03_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-02-02**|**CoMeT: Collaborative Memory Transformer for Efficient Long Context Modeling**|Runsong Zhao et.al.|[2602.01766](http://arxiv.org/abs/2602.01766)|
+|**2026-02-02**|**AgentRAN: An Agentic AI Architecture for Autonomous Control of Open 6G Networks**|Maxime Elkael et.al.|[2508.17778](http://arxiv.org/abs/2508.17778)|
+|**2026-02-01**|**PaperDebugger: A Plugin-Based Multi-Agent System for In-Editor Academic Writing, Review, and Editing**|Junyi Hou et.al.|[2512.02589](http://arxiv.org/abs/2512.02589)|
+|**2026-02-01**|**LRAgent: Efficient KV Cache Sharing for Multi-LoRA LLM Agents**|Hyesung Jeon et.al.|[2602.01053](http://arxiv.org/abs/2602.01053)|
 |**2026-01-31**|**FastTTS: Accelerating Test-Time Scaling for Edge LLM Reasoning**|Hao Mark Chen et.al.|[2509.00195_(ASPLOS)](http://arxiv.org/abs/2509.00195)|
 |**2026-01-31**|**LegalOne: A Family of Foundation Models for Reliable Legal Reasoning**|Haitao Li et.al.|[2602.00642](http://arxiv.org/abs/2602.00642)|
 |**2026-01-30**|**Continuum: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live**|Hanchen Li et.al.|[2511.02230](http://arxiv.org/abs/2511.02230)|
@@ -67,7 +71,6 @@ _Updated on 2026.02.03_
 |**2025-12-05**|**MARINE: Theoretical Optimization and Design for Multi-Agent Recursive IN-context Enhancement**|Hongwei Zhang et.al.|[2512.07898](http://arxiv.org/abs/2512.07898)|
 |**2025-12-03**|**KVNAND: Efficient On-Device Large Language Model Inference Using DRAM-Free In-Flash Computing**|Lishuo Deng et.al.|[2512.03608](http://arxiv.org/abs/2512.03608)|
 |**2025-12-02**|**DynTaskMAS: A Dynamic Task Graph-driven Framework for Asynchronous and Parallel LLM-based Multi-Agent Systems**|Junwei Yu et.al.|[2503.07675](http://arxiv.org/abs/2503.07675)|
-|**2025-12-02**|**PaperDebugger: A Plugin-Based Multi-Agent System for In-Editor Academic Writing, Review, and Editing**|Junyi Hou et.al.|[2512.02589](http://arxiv.org/abs/2512.02589)|
 |**2025-11-29**|**A CPU-Centric Perspective on Agentic AI**|Ritik Raj et.al.|[2511.00739](http://arxiv.org/abs/2511.00739)|
 |**2025-11-28**|**Beyond Curve Fitting: Neuro-Symbolic Agents for Context-Aware Epidemic Forecasting**|Joongwon Chae et.al.|[2511.23276](http://arxiv.org/abs/2511.23276)|
 |**2025-11-28**|**LegalWebAgent: Empowering Access to Justice via LLM-Based Web Agents**|Jinzhe Tan et.al.|[2512.04105](http://arxiv.org/abs/2512.04105)|
