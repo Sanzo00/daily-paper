@@ -11,6 +11,7 @@ _Updated on 2026.02.04_
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
 |**2026-02-03**|**When to Trust: A Causality-Aware Calibration Framework for Accurate Knowledge Graph Retrieval-Augmented Generation**|Jing Ren et.al.|[2601.09241_(WWW)](http://arxiv.org/abs/2601.09241)|
+|**2026-02-03**|**Use Graph When It Needs: Efficiently and Adaptively Integrating Retrieval-Augmented Generation with Graphs**|Su Dong et.al.|[2602.03578](http://arxiv.org/abs/2602.03578)|
 |**2026-02-02**|**SOPRAG: Multi-view Graph Experts Retrieval for Industrial Standard Operating Procedures**|Liangtao Lin et.al.|[2602.01858](http://arxiv.org/abs/2602.01858)|
 |**2026-02-01**|**MedBeads: An Agent-Native, Immutable Data Substrate for Trustworthy Medical AI**|Takahito Nakajima et.al.|[2602.01086](http://arxiv.org/abs/2602.01086)|
 |**2026-01-30**|**GrepRAG: An Empirical Study and Optimization of Grep-Like Retrieval for Code Completion**|Baoyi Wang et.al.|[2601.23254](http://arxiv.org/abs/2601.23254)|
