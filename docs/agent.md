@@ -6,10 +6,11 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.02.03_
+_Updated on 2026.02.04_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-02-03**|**ENGRAM: Effective, Lightweight Memory Orchestration for Conversational Agents**|Daivik Patel et.al.|[2511.12960](http://arxiv.org/abs/2511.12960)|
 |**2026-02-02**|**CoMeT: Collaborative Memory Transformer for Efficient Long Context Modeling**|Runsong Zhao et.al.|[2602.01766](http://arxiv.org/abs/2602.01766)|
 |**2026-02-02**|**AgentRAN: An Agentic AI Architecture for Autonomous Control of Open 6G Networks**|Maxime Elkael et.al.|[2508.17778](http://arxiv.org/abs/2508.17778)|
 |**2026-02-01**|**PaperDebugger: A Plugin-Based Multi-Agent System for In-Editor Academic Writing, Review, and Editing**|Junyi Hou et.al.|[2512.02589](http://arxiv.org/abs/2512.02589)|
@@ -82,7 +83,6 @@ _Updated on 2026.02.03_
 |**2025-11-23**|**Hybrid Agentic AI and Multi-Agent Systems in Smart Manufacturing**|Mojtaba A. Farahani et.al.|[2511.18258](http://arxiv.org/abs/2511.18258)|
 |**2025-11-18**|**KnowCoder-A1: Incentivizing Agentic Reasoning Capability with Outcome Supervision for KBQA**|Zhuo Chen et.al.|[2510.25101](http://arxiv.org/abs/2510.25101)|
 |**2025-11-17**|**Glia: A Human-Inspired AI for Automated Systems Design and Optimization**|Pouya Hamadanian et.al.|[2510.27176](http://arxiv.org/abs/2510.27176)|
-|**2025-11-17**|**ENGRAM: Effective, Lightweight Memory Orchestration for Conversational Agents**|Daivik Patel et.al.|[2511.12960](http://arxiv.org/abs/2511.12960)|
 |**2025-11-05**|**ALAS: Transactional and Dynamic Multi-Agent LLM Planning**|Longling Geng et.al.|[2511.03094](http://arxiv.org/abs/2511.03094)|
 |**2025-11-05**|**FREESH: Fair, Resource- and Energy-Efficient Scheduling for LLM Serving on Heterogeneous GPUs**|Xuan He et.al.|[2511.00807_(ISS)](http://arxiv.org/abs/2511.00807)|
 |**2025-11-04**|**LiveSecBench: A Dynamic and Culturally-Relevant AI Safety Benchmark for LLMs in Chinese Context**|Yudong Li et.al.|[2511.02366](http://arxiv.org/abs/2511.02366)|
