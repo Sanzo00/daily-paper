@@ -6,10 +6,11 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.02.04_
+_Updated on 2026.02.05_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-02-04**|**LinGO: A Linguistic Graph Optimization Framework with LLMs for Interpreting Intents of Online Uncivil Discourse**|Yuan Zhang et.al.|[2602.04693](http://arxiv.org/abs/2602.04693)|
 |**2026-02-03**|**When to Trust: A Causality-Aware Calibration Framework for Accurate Knowledge Graph Retrieval-Augmented Generation**|Jing Ren et.al.|[2601.09241_(WWW)](http://arxiv.org/abs/2601.09241)|
 |**2026-02-03**|**Use Graph When It Needs: Efficiently and Adaptively Integrating Retrieval-Augmented Generation with Graphs**|Su Dong et.al.|[2602.03578](http://arxiv.org/abs/2602.03578)|
 |**2026-02-02**|**SOPRAG: Multi-view Graph Experts Retrieval for Industrial Standard Operating Procedures**|Liangtao Lin et.al.|[2602.01858](http://arxiv.org/abs/2602.01858)|
