@@ -6,14 +6,16 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.02.08_
+_Updated on 2026.02.09_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-02-06**|**DualMap: Enabling Both Cache Affinity and Load Balancing for Distributed LLM Serving**|Ying Yuan et.al.|[2602.06502](http://arxiv.org/abs/2602.06502)|
 |**2026-02-05**|**FASA: Frequency-aware Sparse Attention**|Yifei Wang et.al.|[2602.03152_(ICLR)](http://arxiv.org/abs/2602.03152)|
 |**2026-02-05**|**DSB: Dynamic Sliding Block Scheduling for Diffusion LLMs**|Lizhuo Luo et.al.|[2602.05992](http://arxiv.org/abs/2602.05992)|
 |**2026-02-03**|**Accordion-Thinking: Self-Regulated Step Summaries for Efficient and Readable LLM Reasoning**|Zhicheng Yang et.al.|[2602.03249](http://arxiv.org/abs/2602.03249)|
 |**2026-02-03**|**ForesightKV: Optimizing KV Cache Eviction for Reasoning Models by Learning Long-Term Contribution**|Zican Dong et.al.|[2602.03203](http://arxiv.org/abs/2602.03203)|
+|**2026-02-03**|**PackInfer: Compute- and I/O-Efficient Attention for Batched LLM Inference**|Rui Ning et.al.|[2602.06072](http://arxiv.org/abs/2602.06072)|
 |**2026-02-02**|**RedVisor: Reasoning-Aware Prompt Injection Defense via Zero-Copy KV Cache Reuse**|Mingrui Liu et.al.|[2602.01795](http://arxiv.org/abs/2602.01795)|
 |**2026-02-02**|**CoMeT: Collaborative Memory Transformer for Efficient Long Context Modeling**|Runsong Zhao et.al.|[2602.01766](http://arxiv.org/abs/2602.01766)|
 |**2026-02-02**|**You Need an Encoder for Native Position-Independent Caching**|Shiju Zhao et.al.|[2602.01519](http://arxiv.org/abs/2602.01519)|

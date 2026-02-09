@@ -6,11 +6,13 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.02.08_
+_Updated on 2026.02.09_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
-|**2026-02-05**|**A Human-in-the-Loop, LLM-Centered Architecture for Knowledge-Graph Question Answering**|Larissa Pusch et.al.|[2602.05512](http://arxiv.org/abs/2602.05512)|
+|**2026-02-06**|**A Human-in-the-Loop, LLM-Centered Architecture for Knowledge-Graph Question Answering**|Larissa Pusch et.al.|[2602.05512](http://arxiv.org/abs/2602.05512)|
+|**2026-02-06**|**Subgraph Reconstruction Attacks on Graph RAG Deployments with Practical Defenses**|Minkyoo Song et.al.|[2602.06495](http://arxiv.org/abs/2602.06495)|
+|**2026-02-06**|**Leveraging Spreading Activation for Improved Document Retrieval in Knowledge-Graph-Based RAG Systems**|Jovan Pavlović et.al.|[2512.15922](http://arxiv.org/abs/2512.15922)|
 |**2026-02-04**|**LinGO: A Linguistic Graph Optimization Framework with LLMs for Interpreting Intents of Online Uncivil Discourse**|Yuan Zhang et.al.|[2602.04693](http://arxiv.org/abs/2602.04693)|
 |**2026-02-04**|**Pruning Minimal Reasoning Graphs for Efficient Retrieval-Augmented Generation**|Ning Wang et.al.|[2602.04926](http://arxiv.org/abs/2602.04926)|
 |**2026-02-04**|**Atomic Information Flow: A Network Flow Model for Tool Attributions in RAG Systems**|James Gao et.al.|[2602.04912](http://arxiv.org/abs/2602.04912)|
