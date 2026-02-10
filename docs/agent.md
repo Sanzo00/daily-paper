@@ -6,11 +6,12 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.02.09_
+_Updated on 2026.02.10_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
 |**2026-02-06**|**BLITZRANK: Principled Zero-shot Ranking Agents with Tournament Graphs**|Sheshansh Agrawal et.al.|[2602.05448](http://arxiv.org/abs/2602.05448)|
+|**2026-02-06**|**Lemon Agent Technical Report**|Haipeng Jiang et.al.|[2602.07092](http://arxiv.org/abs/2602.07092)|
 |**2026-02-03**|**Cortex: Achieving Low-Latency, Cost-Efficient Remote Data Access For LLM via Semantic-Aware Knowledge Caching**|Chaoyi Ruan et.al.|[2509.17360](http://arxiv.org/abs/2509.17360)|
 |**2026-02-03**|**ENGRAM: Effective, Lightweight Memory Orchestration for Conversational Agents**|Daivik Patel et.al.|[2511.12960](http://arxiv.org/abs/2511.12960)|
 |**2026-02-03**|**LegalOne: A Family of Foundation Models for Reliable Legal Reasoning**|Haitao Li et.al.|[2602.00642](http://arxiv.org/abs/2602.00642)|
