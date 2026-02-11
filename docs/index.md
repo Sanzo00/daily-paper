@@ -11,6 +11,7 @@ _Updated on 2026.02.11_
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
 |**2026-02-10**|**Structured Episodic Event Memory**|Zhengxuan Lu et.al.|[2601.06411](http://arxiv.org/abs/2601.06411)|
+|**2026-02-10**|**Closing Reasoning Gaps in Clinical Agents with Differential Reasoning Learning**|Jinsong Liu et.al.|[2602.09945](http://arxiv.org/abs/2602.09945)|
 |**2026-02-09**|**DA-RAG: Dynamic Attributed Community Search for Retrieval-Augmented Generation**|Xingyuan Zeng et.al.|[2602.08545](http://arxiv.org/abs/2602.08545)|
 |**2026-02-09**|**SCOUT-RAG: Scalable and Cost-Efficient Unifying Traversal for Agentic Graph-RAG over Distributed Domains**|Longkun Li et.al.|[2602.08400](http://arxiv.org/abs/2602.08400)|
 |**2026-02-08**|**GrepRAG: An Empirical Study and Optimization of Grep-Like Retrieval for Code Completion**|Baoyi Wang et.al.|[2601.23254](http://arxiv.org/abs/2601.23254)|
