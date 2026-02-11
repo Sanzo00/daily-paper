@@ -6,10 +6,11 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.02.10_
+_Updated on 2026.02.11_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-02-10**|**Structured Episodic Event Memory**|Zhengxuan Lu et.al.|[2601.06411](http://arxiv.org/abs/2601.06411)|
 |**2026-02-09**|**DA-RAG: Dynamic Attributed Community Search for Retrieval-Augmented Generation**|Xingyuan Zeng et.al.|[2602.08545](http://arxiv.org/abs/2602.08545)|
 |**2026-02-09**|**SCOUT-RAG: Scalable and Cost-Efficient Unifying Traversal for Agentic Graph-RAG over Distributed Domains**|Longkun Li et.al.|[2602.08400](http://arxiv.org/abs/2602.08400)|
 |**2026-02-08**|**GrepRAG: An Empirical Study and Optimization of Grep-Like Retrieval for Code Completion**|Baoyi Wang et.al.|[2601.23254](http://arxiv.org/abs/2601.23254)|
@@ -51,7 +52,6 @@ _Updated on 2026.02.10_
 |**2026-01-11**|**CyberLLM-FINDS 2025: Instruction-Tuned Fine-tuning of Domain-Specific LLMs with Retrieval-Augmented Generation and Graph Integration for MITRE Evaluation**|Vasanth Iyer et.al.|[2601.06779](http://arxiv.org/abs/2601.06779)|
 |**2026-01-10**|**MedRAGChecker: Claim-Level Verification for Biomedical Retrieval-Augmented Generation**|Yuelyu Ji et.al.|[2601.06519](http://arxiv.org/abs/2601.06519)|
 |**2026-01-10**|**N2N-GQA: Noise-to-Narrative for Graph-Based Table-Text Question Answering Using LLMs**|Mohamed Sharafath et.al.|[2601.06603_(AAAI)](http://arxiv.org/abs/2601.06603)|
-|**2026-01-10**|**Structured Episodic Event Memory**|Zhengxuan Lu et.al.|[2601.06411](http://arxiv.org/abs/2601.06411)|
 |**2026-01-09**|**Guiding Generative Storytelling with Knowledge Graphs**|Zhijun Pan et.al.|[2505.24803](http://arxiv.org/abs/2505.24803)|
 |**2026-01-09**|**Scaling Beyond Context: A Survey of Multimodal Retrieval-Augmented Generation for Document Understanding**|Sensen Gao et.al.|[2510.15253](http://arxiv.org/abs/2510.15253)|
 |**2026-01-08**|**A Navigational Approach for Comprehensive RAG via Traversal over Proposition Graphs**|Maxime Delmas et.al.|[2601.04859](http://arxiv.org/abs/2601.04859)|

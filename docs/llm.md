@@ -6,12 +6,15 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.02.10_
+_Updated on 2026.02.11_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-02-10**|**LLM Serving Optimization with Variable Prefill and Decode Lengths**|Meixuan Wang et.al.|[2508.06133](http://arxiv.org/abs/2508.06133)|
+|**2026-02-10**|**Efficient Remote Prefix Fetching with GPU-native Media ASICs**|Liang Mi et.al.|[2602.09725](http://arxiv.org/abs/2602.09725)|
 |**2026-02-09**|**Fast KVzip: Efficient and Accurate LLM Inference with Gated KV Eviction**|Jang-Hyun Kim et.al.|[2601.17668_(FAST)](http://arxiv.org/abs/2601.17668)|
 |**2026-02-09**|**Near-Oracle KV Selection via Pre-hoc Sparsity for Long-Context Inference**|Yifei Gao et.al.|[2602.08329](http://arxiv.org/abs/2602.08329)|
+|**2026-02-09**|**Selective KV-Cache Sharing to Mitigate Timing Side-Channels in LLM Inference**|Kexin Chu et.al.|[2508.08438](http://arxiv.org/abs/2508.08438)|
 |**2026-02-08**|**Rethinking Latency Denial-of-Service: Attacking the LLM Serving Framework, Not the Model**|Tianyi Wang et.al.|[2602.07878](http://arxiv.org/abs/2602.07878)|
 |**2026-02-08**|**DeltaKV: Residual-Based KV Cache Compression via Long-Range Similarity**|Jitai Hao et.al.|[2602.08005](http://arxiv.org/abs/2602.08005)|
 |**2026-02-07**|**ParisKV: Fast and Drift-Robust KV-Cache Retrieval for Long-Context LLMs**|Yanlin Qi et.al.|[2602.07721](http://arxiv.org/abs/2602.07721)|
@@ -248,7 +251,6 @@ _Updated on 2026.02.10_
 |**2025-09-03**|**ConServe: Fine-Grained GPU Harvesting for LLM Online and Offline Co-Serving**|Yifan Qiao et.al.|[2410.01228](http://arxiv.org/abs/2410.01228)|
 |**2025-09-01**|**TRACE-CS: A Hybrid Logic-LLM System for Explainable Course Scheduling**|Stylianos Loukas Vasileiou et.al.|[2409.03671](http://arxiv.org/abs/2409.03671)|
 |**2025-09-01**|**LLMs cannot spot math errors, even when allowed to peek into the solution**|KV Aditya Srivatsa et.al.|[2509.01395_(EMNLP)](http://arxiv.org/abs/2509.01395)|
-|**2025-08-31**|**LLM Serving Optimization with Variable Prefill and Decode Lengths**|Meixuan Wang et.al.|[2508.06133](http://arxiv.org/abs/2508.06133)|
 |**2025-08-30**|**DiffKV: Differentiated Memory Management for Large Language Models with Parallel KV Compaction**|Yanqi Zhang et.al.|[2412.03131_(SOSP)](http://arxiv.org/abs/2412.03131)|
 |**2025-08-30**|**LLM-Assisted Iterative Evolution with Swarm Intelligence Toward SuperBrain**|Li Weigang et.al.|[2509.00510](http://arxiv.org/abs/2509.00510)|
 |**2025-08-29**|**Atom-Searcher: Enhancing Agentic Deep Research via Fine-Grained Atomic Thought Reward**|Yong Deng et.al.|[2508.12800](http://arxiv.org/abs/2508.12800)|
