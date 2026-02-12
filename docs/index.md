@@ -6,10 +6,11 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.02.11_
+_Updated on 2026.02.12_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-02-11**|**Benchmarking Large Language Models for Knowledge Graph Validation**|Farzad Shami et.al.|[2602.10748_(EDBT)](http://arxiv.org/abs/2602.10748)|
 |**2026-02-10**|**Structured Episodic Event Memory**|Zhengxuan Lu et.al.|[2601.06411](http://arxiv.org/abs/2601.06411)|
 |**2026-02-10**|**Closing Reasoning Gaps in Clinical Agents with Differential Reasoning Learning**|Jinsong Liu et.al.|[2602.09945](http://arxiv.org/abs/2602.09945)|
 |**2026-02-09**|**DA-RAG: Dynamic Attributed Community Search for Retrieval-Augmented Generation**|Xingyuan Zeng et.al.|[2602.08545](http://arxiv.org/abs/2602.08545)|
