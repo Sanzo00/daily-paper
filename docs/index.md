@@ -6,10 +6,12 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.02.15_
+_Updated on 2026.02.16_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-02-13**|**Beyond Static Question Banks: Dynamic Knowledge Expansion via LLM-Automated Graph Construction and Adaptive Generation**|Yingquan Wang et.al.|[2602.00020](http://arxiv.org/abs/2602.00020)|
+|**2026-02-13**|**INHerit-SG: Incremental Hierarchical Semantic Scene Graphs with RAG-Style Retrieval**|YukTungSamuel Fang et.al.|[2602.12971](http://arxiv.org/abs/2602.12971)|
 |**2026-02-11**|**Benchmarking Large Language Models for Knowledge Graph Validation**|Farzad Shami et.al.|[2602.10748_(EDBT)](http://arxiv.org/abs/2602.10748)|
 |**2026-02-10**|**Structured Episodic Event Memory**|Zhengxuan Lu et.al.|[2601.06411](http://arxiv.org/abs/2601.06411)|
 |**2026-02-10**|**Closing Reasoning Gaps in Clinical Agents with Differential Reasoning Learning**|Jinsong Liu et.al.|[2602.09945](http://arxiv.org/abs/2602.09945)|
@@ -42,7 +44,6 @@ _Updated on 2026.02.15_
 |**2026-01-19**|**STEP-LLM: Generating CAD STEP Models from Natural Language with Large Language Models**|Xiangyu Shi et.al.|[2601.12641_(DATE)](http://arxiv.org/abs/2601.12641)|
 |**2026-01-16**|**Beyond Max Tokens: Stealthy Resource Amplification via Tool Calling Chains in LLM Agents**|Kaiyu Zhou et.al.|[2601.10955](http://arxiv.org/abs/2601.10955)|
 |**2026-01-16**|**SD-RAG: A Prompt-Injection-Resilient Framework for Selective Disclosure in Retrieval-Augmented Generation**|Aiman Al Masoud et.al.|[2601.11199](http://arxiv.org/abs/2601.11199)|
-|**2026-01-16**|**Beyond Static Question Banks: Dynamic Knowledge Expansion via LLM-Automated Graph Construction and Adaptive Generation**|Yingquan Wang et.al.|[2602.00020](http://arxiv.org/abs/2602.00020)|
 |**2026-01-15**|**Disco-RAG: Discourse-Aware Retrieval-Augmented Generation**|Dongqi Liu et.al.|[2601.04377](http://arxiv.org/abs/2601.04377)|
 |**2026-01-15**|**Scalable and Reliable Evaluation of AI Knowledge Retrieval Systems: RIKER and the Coherent Simulated Universe**|JV Roig et.al.|[2601.08847](http://arxiv.org/abs/2601.08847)|
 |**2026-01-15**|**LADFA: A Framework of Using Large Language Models and Retrieval-Augmented Generation for Personal Data Flow Analysis in Privacy Policies**|Haiyue Yuan et.al.|[2601.10413](http://arxiv.org/abs/2601.10413)|
