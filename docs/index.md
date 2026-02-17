@@ -10,6 +10,7 @@ _Updated on 2026.02.17_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-02-16**|**HyperRAG: Reasoning N-ary Facts over Hypergraphs for Retrieval Augmented Generation**|Wen-Sheng Lien et.al.|[2602.14470_(WWW)](http://arxiv.org/abs/2602.14470)|
 |**2026-02-14**|**Aeon: High-Performance Neuro-Symbolic Memory Management for Long-Horizon LLM Agents**|Mustafa Arslan et.al.|[2601.15311_(DATE)](http://arxiv.org/abs/2601.15311)|
 |**2026-02-13**|**Beyond Static Question Banks: Dynamic Knowledge Expansion via LLM-Automated Graph Construction and Adaptive Generation**|Yingquan Wang et.al.|[2602.00020](http://arxiv.org/abs/2602.00020)|
 |**2026-02-13**|**INHerit-SG: Incremental Hierarchical Semantic Scene Graphs with RAG-Style Retrieval**|YukTungSamuel Fang et.al.|[2602.12971](http://arxiv.org/abs/2602.12971)|
