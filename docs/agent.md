@@ -6,10 +6,12 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.02.16_
+_Updated on 2026.02.17_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-02-15**|**HyMem: Hybrid Memory Architecture with Dynamic Retrieval Scheduling**|Xiaochen Zhao et.al.|[2602.13933](http://arxiv.org/abs/2602.13933)|
+|**2026-02-14**|**ThunderAgent: A Simple, Fast and Program-Aware Agentic Inference System**|Hao Kang et.al.|[2602.13692](http://arxiv.org/abs/2602.13692)|
 |**2026-02-12**|**KVComm: Enabling Efficient LLM Communication through Selective KV Sharing**|Xiangyu Shi et.al.|[2510.03346_(ICLR)](http://arxiv.org/abs/2510.03346)|
 |**2026-02-12**|**PrefillShare: A Shared Prefill Module for KV Reuse in Multi-LLM Disaggregated Serving**|Sunghyeon Woo et.al.|[2602.12029](http://arxiv.org/abs/2602.12029)|
 |**2026-02-12**|**Deep Kernel Fusion for Transformers**|Zixi Zhang et.al.|[2602.11808](http://arxiv.org/abs/2602.11808)|
@@ -25,6 +27,7 @@ _Updated on 2026.02.16_
 |**2026-02-03**|**Agent Primitives: Reusable Latent Building Blocks for Multi-Agent Systems**|Haibo Jin et.al.|[2602.03695](http://arxiv.org/abs/2602.03695)|
 |**2026-02-02**|**CoMeT: Collaborative Memory Transformer for Efficient Long Context Modeling**|Runsong Zhao et.al.|[2602.01766](http://arxiv.org/abs/2602.01766)|
 |**2026-02-02**|**AgentRAN: An Agentic AI Architecture for Autonomous Control of Open 6G Networks**|Maxime Elkael et.al.|[2508.17778](http://arxiv.org/abs/2508.17778)|
+|**2026-02-02**|**Implicit Bias in LLMs for Transgender Populations**|Micaela Hirsch et.al.|[2602.13253](http://arxiv.org/abs/2602.13253)|
 |**2026-02-01**|**PaperDebugger: A Plugin-Based Multi-Agent System for In-Editor Academic Writing, Review, and Editing**|Junyi Hou et.al.|[2512.02589](http://arxiv.org/abs/2512.02589)|
 |**2026-02-01**|**LRAgent: Efficient KV Cache Sharing for Multi-LoRA LLM Agents**|Hyesung Jeon et.al.|[2602.01053](http://arxiv.org/abs/2602.01053)|
 |**2026-01-31**|**FastTTS: Accelerating Test-Time Scaling for Edge LLM Reasoning**|Hao Mark Chen et.al.|[2509.00195_(ASPLOS)](http://arxiv.org/abs/2509.00195)|

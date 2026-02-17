@@ -6,10 +6,12 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.02.16_
+_Updated on 2026.02.17_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-02-14**|**KVCache Cache in the Wild: Characterizing and Optimizing KVCache Cache at a Large Cloud Provider**|Jiahao Wang et.al.|[2506.02634_(ATC)](http://arxiv.org/abs/2506.02634)|
+|**2026-02-14**|**ThunderAgent: A Simple, Fast and Program-Aware Agentic Inference System**|Hao Kang et.al.|[2602.13692](http://arxiv.org/abs/2602.13692)|
 |**2026-02-12**|**Efficient Remote Prefix Fetching with GPU-native Media ASICs**|Liang Mi et.al.|[2602.09725](http://arxiv.org/abs/2602.09725)|
 |**2026-02-12**|**SnapMLA: Efficient Long-Context MLA Decoding via Hardware-Aware FP8 Quantized Pipelining**|Yifan Zhang et.al.|[2602.10718](http://arxiv.org/abs/2602.10718)|
 |**2026-02-12**|**PrefillShare: A Shared Prefill Module for KV Reuse in Multi-LLM Disaggregated Serving**|Sunghyeon Woo et.al.|[2602.12029](http://arxiv.org/abs/2602.12029)|
@@ -289,7 +291,6 @@ _Updated on 2026.02.16_
 |**2025-07-26**|**FAEDKV: Infinite-Window Fourier Transform for Unbiased KV Cache Compression**|Runchao Li et.al.|[2507.20030](http://arxiv.org/abs/2507.20030)|
 |**2025-07-25**|**Step-3 is Large yet Affordable: Model-system Co-design for Cost-effective Decoding**|StepFun et.al.|[2507.19427](http://arxiv.org/abs/2507.19427)|
 |**2025-07-24**|**NeuralDB: Scaling Knowledge Editing in LLMs to 100,000 Facts with Neural KV Database**|Weizhi Fei et.al.|[2507.18028](http://arxiv.org/abs/2507.18028)|
-|**2025-07-23**|**KVCache Cache in the Wild: Characterizing and Optimizing KVCache Cache at a Large Cloud Provider**|Jiahao Wang et.al.|[2506.02634_(ATC)](http://arxiv.org/abs/2506.02634)|
 |**2025-07-22**|**Beyond Context Limits: Subconscious Threads for Long-Horizon Reasoning**|Hongyin Luo et.al.|[2507.16784](http://arxiv.org/abs/2507.16784)|
 |**2025-07-21**|**LLM Economist: Large Population Models and Mechanism Design in Multi-Agent Generative Simulacra**|Seth Karten et.al.|[2507.15815](http://arxiv.org/abs/2507.15815)|
 |**2025-07-18**|**DREAMS: Density Functional Theory Based Research Engine for Agentic Materials Simulation**|Ziqi Wang et.al.|[2507.14267](http://arxiv.org/abs/2507.14267)|
