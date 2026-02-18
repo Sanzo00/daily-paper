@@ -6,12 +6,12 @@ nav_order: 3
 
 # GNN Papers
 
-_Updated on 2026.02.17_
+_Updated on 2026.02.18_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-02-16**|**Grappa: Gradient-Only Communication for Scalable Graph Neural Network Training**|Chongyang Xu et.al.|[2602.01872](http://arxiv.org/abs/2602.01872)|
 |**2026-02-12**|**Community Concealment from Unsupervised Graph Learning-Based Clustering**|Dalyapraz Manatova et.al.|[2602.12250](http://arxiv.org/abs/2602.12250)|
-|**2026-02-02**|**Grappa: Gradient-Only Communication for Scalable Graph Neural Network Training**|Chongyang Xu et.al.|[2602.01872](http://arxiv.org/abs/2602.01872)|
 |**2026-01-24**|**Network-Optimised Spiking Neural Network for Event-Driven Networking**|Muhammad Bilal et.al.|[2509.23516](http://arxiv.org/abs/2509.23516)|
 |**2026-01-19**|**Two-Layer Reinforcement Learning-Assisted Joint Beamforming and Trajectory Optimization for Multi-UAV Downlink Communications**|Ruiqi Wang et.al.|[2601.12659](http://arxiv.org/abs/2601.12659)|
 |**2026-01-15**|**Hardware Acceleration for Neural Networks: A Comprehensive Survey**|Bin Xu et.al.|[2512.23914](http://arxiv.org/abs/2512.23914)|

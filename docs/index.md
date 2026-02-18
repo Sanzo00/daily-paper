@@ -6,12 +6,14 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.02.17_
+_Updated on 2026.02.18_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-02-17**|**Aeon: High-Performance Neuro-Symbolic Memory Management for Long-Horizon LLM Agents**|Mustafa Arslan et.al.|[2601.15311](http://arxiv.org/abs/2601.15311)|
+|**2026-02-17**|**Mnemis: Dual-Route Retrieval on Hierarchical Graphs for Long-Term LLM Memory**|Zihao Tang et.al.|[2602.15313](http://arxiv.org/abs/2602.15313)|
+|**2026-02-16**|**Beyond Fact Retrieval: Episodic Memory for RAG with Generative Semantic Workspaces**|Shreyas Rajesh et.al.|[2511.07587_(AAAI)](http://arxiv.org/abs/2511.07587)|
 |**2026-02-16**|**HyperRAG: Reasoning N-ary Facts over Hypergraphs for Retrieval Augmented Generation**|Wen-Sheng Lien et.al.|[2602.14470_(WWW)](http://arxiv.org/abs/2602.14470)|
-|**2026-02-14**|**Aeon: High-Performance Neuro-Symbolic Memory Management for Long-Horizon LLM Agents**|Mustafa Arslan et.al.|[2601.15311_(DATE)](http://arxiv.org/abs/2601.15311)|
 |**2026-02-13**|**Beyond Static Question Banks: Dynamic Knowledge Expansion via LLM-Automated Graph Construction and Adaptive Generation**|Yingquan Wang et.al.|[2602.00020](http://arxiv.org/abs/2602.00020)|
 |**2026-02-13**|**INHerit-SG: Incremental Hierarchical Semantic Scene Graphs with RAG-Style Retrieval**|YukTungSamuel Fang et.al.|[2602.12971](http://arxiv.org/abs/2602.12971)|
 |**2026-02-11**|**Benchmarking Large Language Models for Knowledge Graph Validation**|Farzad Shami et.al.|[2602.10748_(EDBT)](http://arxiv.org/abs/2602.10748)|
@@ -115,7 +117,6 @@ _Updated on 2026.02.17_
 |**2025-11-12**|**GraphRAFT: Retrieval Augmented Fine-Tuning for Knowledge Graphs on Graph Databases**|Alfred Clemedtson et.al.|[2504.05478](http://arxiv.org/abs/2504.05478)|
 |**2025-11-11**|**Multi-Agent GraphRAG: A Text-to-Cypher Framework for Labeled Property Graphs**|Anton Gusarov et.al.|[2511.08274](http://arxiv.org/abs/2511.08274)|
 |**2025-11-10**|**TERAG: Token-Efficient Graph-Based Retrieval-Augmented Generation**|Qiao Xiao et.al.|[2509.18667](http://arxiv.org/abs/2509.18667)|
-|**2025-11-10**|**Beyond Fact Retrieval: Episodic Memory for RAG with Generative Semantic Workspaces**|Shreyas Rajesh et.al.|[2511.07587_(AAAI)](http://arxiv.org/abs/2511.07587)|
 |**2025-11-09**|**LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora**|Luyao Zhuang et.al.|[2510.10114](http://arxiv.org/abs/2510.10114)|
 |**2025-11-09**|**BookAsSumQA: An Evaluation Framework for Aspect-Based Book Summarization via Question Answering**|Ryuhei Miyazato et.al.|[2511.06183](http://arxiv.org/abs/2511.06183)|
 |**2025-11-08**|**Ontology Learning and Knowledge Graph Construction: A Comparison of Approaches and Their Impact on RAG Performance**|Tiago da Cruz et.al.|[2511.05991](http://arxiv.org/abs/2511.05991)|
