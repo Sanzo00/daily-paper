@@ -6,10 +6,11 @@ nav_order: 3
 
 # GNN Papers
 
-_Updated on 2026.02.18_
+_Updated on 2026.02.19_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-02-18**|**ASSENT: Learning-Based Association Optimization for Distributed Cell-Free ISAC**|Mehdi Zafari et.al.|[2511.09992_(ICC)](http://arxiv.org/abs/2511.09992)|
 |**2026-02-16**|**Grappa: Gradient-Only Communication for Scalable Graph Neural Network Training**|Chongyang Xu et.al.|[2602.01872](http://arxiv.org/abs/2602.01872)|
 |**2026-02-12**|**Community Concealment from Unsupervised Graph Learning-Based Clustering**|Dalyapraz Manatova et.al.|[2602.12250](http://arxiv.org/abs/2602.12250)|
 |**2026-01-24**|**Network-Optimised Spiking Neural Network for Event-Driven Networking**|Muhammad Bilal et.al.|[2509.23516](http://arxiv.org/abs/2509.23516)|
@@ -22,7 +23,6 @@ _Updated on 2026.02.18_
 |**2025-12-05**|**GCoDE: Efficient Device-Edge Co-Inference for GNNs via Architecture-Mapping Co-Search**|Ao Zhou et.al.|[2512.11856](http://arxiv.org/abs/2512.11856)|
 |**2025-12-01**|**Domain-Decomposed Graph Neural Network Surrogate Modeling for Ice Sheets**|Adrienne M. Propp et.al.|[2512.01888](http://arxiv.org/abs/2512.01888)|
 |**2025-11-25**|**RIS-Assisted Downlink Pinching-Antenna Systems: GNN-Enabled Optimization Approaches**|Changpeng He et.al.|[2511.20305](http://arxiv.org/abs/2511.20305)|
-|**2025-11-13**|**ASSENT: Learning-Based Association Optimization for Distributed Cell-Free ISAC**|Mehdi Zafari et.al.|[2511.09992](http://arxiv.org/abs/2511.09992)|
 |**2025-10-16**|**Spatial Computing Communications for Multi-User Virtual Reality in Distributed Mobile Edge Computing Network**|Caolu Xu et.al.|[2510.14243](http://arxiv.org/abs/2510.14243)|
 |**2025-10-15**|**ACE-GNN: Adaptive GNN Co-Inference with System-Aware Scheduling in Dynamic Edge Environments**|Ao Zhou et.al.|[2511.11586](http://arxiv.org/abs/2511.11586)|
 |**2025-10-11**|**Learning Joint Embeddings of Function and Process Call Graphs for Malware Detection**|Kartikeya Aneja et.al.|[2510.09984](http://arxiv.org/abs/2510.09984)|
