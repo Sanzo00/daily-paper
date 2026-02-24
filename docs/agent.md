@@ -6,20 +6,21 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.02.23_
+_Updated on 2026.02.24_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-02-22**|**KVComm: Enabling Efficient LLM Communication through Selective KV Sharing**|Xiangyu Shi et.al.|[2510.03346_(ICLR)](http://arxiv.org/abs/2510.03346)|
+|**2026-02-22**|**MagicAgent: Towards Generalized Agent Planning**|Xuhui Ren et.al.|[2602.19000](http://arxiv.org/abs/2602.19000)|
+|**2026-02-21**|**ST-EVO: Towards Generative Spatio-Temporal Evolution of Multi-Agent Communication Topologies**|Xingjian Wu et.al.|[2602.14681](http://arxiv.org/abs/2602.14681)|
 |**2026-02-20**|**Aurora: Neuro-Symbolic AI Driven Advising Agent**|Lorena Amanda Quincoso Lugones et.al.|[2602.17999](http://arxiv.org/abs/2602.17999)|
 |**2026-02-20**|**Alignment in Time: Peak-Aware Orchestration for Long-Horizon Agentic Systems**|Hanjing Shi et.al.|[2602.17910](http://arxiv.org/abs/2602.17910)|
 |**2026-02-19**|**Resp-Agent: An Agent-Based System for Multimodal Respiratory Sound Generation and Disease Diagnosis**|Pengfei Zhang et.al.|[2602.15909_(ICLR)](http://arxiv.org/abs/2602.15909)|
 |**2026-02-19**|**KLong: Training LLM Agent for Extremely Long-horizon Tasks**|Yue Liu et.al.|[2602.17547](http://arxiv.org/abs/2602.17547)|
 |**2026-02-16**|**OpenAgentSafety: A Comprehensive Framework for Evaluating Real-World AI Agent Safety**|Sanidhya Vijayvargiya et.al.|[2507.06134_(ICLR)](http://arxiv.org/abs/2507.06134)|
-|**2026-02-16**|**ST-EVO: Towards Generative Spatio-Temporal Evolution of Multi-Agent Communication Topologies**|Xingjian Wu et.al.|[2602.14681](http://arxiv.org/abs/2602.14681)|
 |**2026-02-16**|**Efficient Multi-round LLM Inference over Disaggregated Serving**|Wenhao He et.al.|[2602.14516](http://arxiv.org/abs/2602.14516)|
 |**2026-02-15**|**HyMem: Hybrid Memory Architecture with Dynamic Retrieval Scheduling**|Xiaochen Zhao et.al.|[2602.13933](http://arxiv.org/abs/2602.13933)|
 |**2026-02-14**|**ThunderAgent: A Simple, Fast and Program-Aware Agentic Inference System**|Hao Kang et.al.|[2602.13692](http://arxiv.org/abs/2602.13692)|
-|**2026-02-12**|**KVComm: Enabling Efficient LLM Communication through Selective KV Sharing**|Xiangyu Shi et.al.|[2510.03346_(ICLR)](http://arxiv.org/abs/2510.03346)|
 |**2026-02-12**|**PrefillShare: A Shared Prefill Module for KV Reuse in Multi-LLM Disaggregated Serving**|Sunghyeon Woo et.al.|[2602.12029](http://arxiv.org/abs/2602.12029)|
 |**2026-02-12**|**Deep Kernel Fusion for Transformers**|Zixi Zhang et.al.|[2602.11808](http://arxiv.org/abs/2602.11808)|
 |**2026-02-10**|**AOI: Context-Aware Multi-Agent Operations via Dynamic Scheduling and Hierarchical Memory Compression**|Zishan Bai et.al.|[2512.13956](http://arxiv.org/abs/2512.13956)|

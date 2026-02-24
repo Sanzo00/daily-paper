@@ -6,10 +6,12 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.02.23_
+_Updated on 2026.02.24_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-02-22**|**Topology of Reasoning: Retrieved Cell Complex-Augmented Generation for Textual Graph Question Answering**|Sen Zhao et.al.|[2602.19240](http://arxiv.org/abs/2602.19240)|
+|**2026-02-21**|**Adaptive Collaboration of Arena-Based Argumentative LLMs for Explainable and Contestable Legal Reasoning**|Hoang-Loc Cao et.al.|[2602.18916](http://arxiv.org/abs/2602.18916)|
 |**2026-02-19**|**Enhancing Large Language Models (LLMs) for Telecom using Dynamic Knowledge Graphs and Explainable Retrieval-Augmented Generation**|Dun Yuan et.al.|[2602.17529](http://arxiv.org/abs/2602.17529)|
 |**2026-02-18**|**Retrieval Augmented Generation of Literature-derived Polymer Knowledge: The Example of a Biodegradable Polymer Expert System**|Sonakshi Gupta et.al.|[2602.16650](http://arxiv.org/abs/2602.16650)|
 |**2026-02-17**|**Aeon: High-Performance Neuro-Symbolic Memory Management for Long-Horizon LLM Agents**|Mustafa Arslan et.al.|[2601.15311](http://arxiv.org/abs/2601.15311)|
@@ -93,6 +95,7 @@ _Updated on 2026.02.23_
 |**2025-12-10**|**PerCache: Predictive Hierarchical Cache for RAG Applications on Mobile Devices**|Kaiwei Liu et.al.|[2601.11553](http://arxiv.org/abs/2601.11553)|
 |**2025-12-09**|**Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval**|Yingyi Zhang et.al.|[2510.08935](http://arxiv.org/abs/2510.08935)|
 |**2025-12-09**|**Knowledge-Guided Large Language Model for Automatic Pediatric Dental Record Understanding and Safe Antibiotic Recommendation**|Zihan Han et.al.|[2512.09127](http://arxiv.org/abs/2512.09127)|
+|**2025-12-06**|**SIDEKICK: A Semantically Integrated Resource for Drug Effects, Indications, and Contraindications**|Mohammad Ashhad et.al.|[2602.19183](http://arxiv.org/abs/2602.19183)|
 |**2025-12-05**|**LA-RL: Language Action-guided Reinforcement Learning with Safety Guarantees for Autonomous Highway Driving**|Yiming Shu et.al.|[2512.05686](http://arxiv.org/abs/2512.05686)|
 |**2025-12-05**|**Reinforcement Learning Integrated Agentic RAG for Software Test Cases Authoring**|Mohanakrishnan Hariharan et.al.|[2512.06060](http://arxiv.org/abs/2512.06060)|
 |**2025-12-03**|**Privacy-protected Retrieval-Augmented Generation for Knowledge Graph Question Answering**|Yunfeng Ning et.al.|[2508.08785_(AAAI)](http://arxiv.org/abs/2508.08785)|

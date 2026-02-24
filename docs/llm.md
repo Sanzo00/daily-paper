@@ -6,10 +6,12 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.02.23_
+_Updated on 2026.02.24_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-02-22**|**Nightjar: Dynamic Adaptive Speculative Decoding for Large Language Models Serving**|Rui Li et.al.|[2512.22420](http://arxiv.org/abs/2512.22420)|
+|**2026-02-21**|**Esoteric Language Models: Bridging Autoregressive and Masked Diffusion LLMs**|Subham Sekhar Sahoo et.al.|[2506.01928](http://arxiv.org/abs/2506.01928)|
 |**2026-02-20**|**Thinking by Subtraction: Confidence-Driven Contrastive Decoding for LLM Reasoning**|Lexiang Tang et.al.|[2602.18232](http://arxiv.org/abs/2602.18232)|
 |**2026-02-17**|**Intermittent Semi-Working Mask: A New Masking Paradigm for LLMs**|HaoYuan Hu et.al.|[2408.00539](http://arxiv.org/abs/2408.00539)|
 |**2026-02-14**|**KVCache Cache in the Wild: Characterizing and Optimizing KVCache Cache at a Large Cloud Provider**|Jiahao Wang et.al.|[2506.02634_(ATC)](http://arxiv.org/abs/2506.02634)|
