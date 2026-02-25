@@ -6,10 +6,12 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.02.24_
+_Updated on 2026.02.25_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-02-24**|**HELP: HyperNode Expansion and Logical Path-Guided Evidence Localization for Accurate and Efficient GraphRAG**|Yuqi Huang et.al.|[2602.20926](http://arxiv.org/abs/2602.20926)|
+|**2026-02-24**|**Unseen-Codebases-Domain Data Synthesis and Training Based on Code Graphs**|Guangsheng Ou et.al.|[2602.20799](http://arxiv.org/abs/2602.20799)|
 |**2026-02-23**|**KNIGHT: Knowledge Graph-Driven Multiple-Choice Question Generation with Adaptive Hardness Calibration**|Mohammad Amanlou et.al.|[2602.20135](http://arxiv.org/abs/2602.20135)|
 |**2026-02-22**|**Topology of Reasoning: Retrieved Cell Complex-Augmented Generation for Textual Graph Question Answering**|Sen Zhao et.al.|[2602.19240](http://arxiv.org/abs/2602.19240)|
 |**2026-02-21**|**Adaptive Collaboration of Arena-Based Argumentative LLMs for Explainable and Contestable Legal Reasoning**|Hoang-Loc Cao et.al.|[2602.18916](http://arxiv.org/abs/2602.18916)|
