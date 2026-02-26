@@ -6,10 +6,12 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.02.25_
+_Updated on 2026.02.26_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-02-25**|**DualPath: Breaking the Storage Bandwidth Bottleneck in Agentic LLM Inference**|Yongtong Wu et.al.|[2602.21548](http://arxiv.org/abs/2602.21548)|
+|**2026-02-25**|**Two-Stage Active Distribution Network Voltage Control via LLM-RL Collaboration: A Hybrid Knowledge-Data-Driven Approach**|Xu Yang et.al.|[2602.21715](http://arxiv.org/abs/2602.21715)|
 |**2026-02-24**|**Towards Efficient Agents: A Co-Design of Inference Architecture and System**|Weizhe Lin et.al.|[2512.18337](http://arxiv.org/abs/2512.18337)|
 |**2026-02-24**|**Hierarchical Decision Mamba Meets Agentic AI: A Novel Approach for RAN Slicing in 6G**|Md Arafat Habib et.al.|[2512.23502_(Networking)](http://arxiv.org/abs/2512.23502)|
 |**2026-02-24**|**ST-EVO: Towards Generative Spatio-Temporal Evolution of Multi-Agent Communication Topologies**|Xingjian Wu et.al.|[2602.14681](http://arxiv.org/abs/2602.14681)|
