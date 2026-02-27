@@ -6,10 +6,11 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.02.26_
+_Updated on 2026.02.27_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-02-26**|**TCM-DiffRAG: Personalized Syndrome Differentiation Reasoning Method for Traditional Chinese Medicine based on Knowledge Graph and Chain of Thought**|Jianmin Li et.al.|[2602.22828](http://arxiv.org/abs/2602.22828)|
 |**2026-02-24**|**HELP: HyperNode Expansion and Logical Path-Guided Evidence Localization for Accurate and Efficient GraphRAG**|Yuqi Huang et.al.|[2602.20926](http://arxiv.org/abs/2602.20926)|
 |**2026-02-24**|**Unseen-Codebases-Domain Data Synthesis and Training Based on Code Graphs**|Guangsheng Ou et.al.|[2602.20799](http://arxiv.org/abs/2602.20799)|
 |**2026-02-23**|**KNIGHT: Knowledge Graph-Driven Multiple-Choice Question Generation with Adaptive Hardness Calibration**|Mohammad Amanlou et.al.|[2602.20135](http://arxiv.org/abs/2602.20135)|
@@ -94,13 +95,16 @@ _Updated on 2026.02.26_
 |**2025-12-16**|**Cog-RAG: Cognitive-Inspired Dual-Hypergraph with Theme Alignment Retrieval-Augmented Generation**|Hao Hu et.al.|[2511.13201_(AAAI)](http://arxiv.org/abs/2511.13201)|
 |**2025-12-16**|**PAT: Accelerating LLM Decoding via Prefix-Aware Attention with Resource Efficient Multi-Tile Kernel**|Jinjun Yi et.al.|[2511.22333_(ASPLOS)](http://arxiv.org/abs/2511.22333)|
 |**2025-12-16**|**IaC Generation with LLMs: An Error Taxonomy and A Study on Configuration Knowledge Injection**|Roman Nekrasov et.al.|[2512.14792](http://arxiv.org/abs/2512.14792)|
+|**2025-12-14**|**Comparative Analysis of Neural Retriever-Reranker Pipelines for Retrieval-Augmented Generation over Knowledge Graphs in E-commerce Applications**|Teri Rumble et.al.|[2602.22219_(SC)](http://arxiv.org/abs/2602.22219)|
 |**2025-12-10**|**RouteRAG: Efficient Retrieval-Augmented Generation from Text and Graph via Reinforcement Learning**|Yucan Guo et.al.|[2512.09487](http://arxiv.org/abs/2512.09487)|
 |**2025-12-10**|**PerCache: Predictive Hierarchical Cache for RAG Applications on Mobile Devices**|Kaiwei Liu et.al.|[2601.11553](http://arxiv.org/abs/2601.11553)|
 |**2025-12-09**|**Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval**|Yingyi Zhang et.al.|[2510.08935](http://arxiv.org/abs/2510.08935)|
 |**2025-12-09**|**Knowledge-Guided Large Language Model for Automatic Pediatric Dental Record Understanding and Safe Antibiotic Recommendation**|Zihan Han et.al.|[2512.09127](http://arxiv.org/abs/2512.09127)|
+|**2025-12-09**|**RAGdb: A Zero-Dependency, Embeddable Architecture for Multimodal Retrieval-Augmented Generation on the Edge**|Ahmed Bin Khalid et.al.|[2602.22217](http://arxiv.org/abs/2602.22217)|
 |**2025-12-06**|**SIDEKICK: A Semantically Integrated Resource for Drug Effects, Indications, and Contraindications**|Mohammad Ashhad et.al.|[2602.19183](http://arxiv.org/abs/2602.19183)|
 |**2025-12-05**|**LA-RL: Language Action-guided Reinforcement Learning with Safety Guarantees for Autonomous Highway Driving**|Yiming Shu et.al.|[2512.05686](http://arxiv.org/abs/2512.05686)|
 |**2025-12-05**|**Reinforcement Learning Integrated Agentic RAG for Software Test Cases Authoring**|Mohanakrishnan Hariharan et.al.|[2512.06060](http://arxiv.org/abs/2512.06060)|
+|**2025-12-05**|**Graph Your Way to Inspiration: Integrating Co-Author Graphs with Retrieval-Augmented Generation for Large Language Model Based Scientific Idea Generation**|Pengzhen Xie et.al.|[2602.22215](http://arxiv.org/abs/2602.22215)|
 |**2025-12-03**|**Privacy-protected Retrieval-Augmented Generation for Knowledge Graph Question Answering**|Yunfeng Ning et.al.|[2508.08785_(AAAI)](http://arxiv.org/abs/2508.08785)|
 |**2025-12-03**|**BookRAG: A Hierarchical Structure-aware Index-based Approach for Retrieval-Augmented Generation on Complex Documents**|Shu Wang et.al.|[2512.03413](http://arxiv.org/abs/2512.03413)|
 |**2025-12-02**|**PersonaAgent with GraphRAG: Community-Aware Knowledge Graphs for Personalized LLM**|Siqi Liang et.al.|[2511.17467](http://arxiv.org/abs/2511.17467)|

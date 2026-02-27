@@ -6,12 +6,14 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.02.26_
+_Updated on 2026.02.27_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-02-26**|**DualPath: Breaking the Storage Bandwidth Bottleneck in Agentic LLM Inference**|Yongtong Wu et.al.|[2602.21548](http://arxiv.org/abs/2602.21548)|
+|**2026-02-26**|**FLYING SERVING: On-the-Fly Parallelism Switching for Large Language Model Serving**|Shouwei Gao et.al.|[2602.22593](http://arxiv.org/abs/2602.22593)|
+|**2026-02-26**|**SideQuest: Model-Driven KV Cache Management for Long-Horizon Agentic Reasoning**|Sanjay Kariyappa et.al.|[2602.22603](http://arxiv.org/abs/2602.22603)|
 |**2026-02-25**|**Multi-Layer Scheduling for MoE-Based LLM Reasoning**|Yifan Sun et.al.|[2602.21626](http://arxiv.org/abs/2602.21626)|
-|**2026-02-25**|**DualPath: Breaking the Storage Bandwidth Bottleneck in Agentic LLM Inference**|Yongtong Wu et.al.|[2602.21548](http://arxiv.org/abs/2602.21548)|
 |**2026-02-23**|**ContextPilot: Fast Long-Context Inference via Context Reuse**|Yinsicheng Jiang et.al.|[2511.03475](http://arxiv.org/abs/2511.03475)|
 |**2026-02-22**|**Nightjar: Dynamic Adaptive Speculative Decoding for Large Language Models Serving**|Rui Li et.al.|[2512.22420](http://arxiv.org/abs/2512.22420)|
 |**2026-02-21**|**Esoteric Language Models: Bridging Autoregressive and Masked Diffusion LLMs**|Subham Sekhar Sahoo et.al.|[2506.01928](http://arxiv.org/abs/2506.01928)|
