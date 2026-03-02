@@ -6,7 +6,7 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.03.01_
+_Updated on 2026.03.02_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
@@ -82,6 +82,7 @@ _Updated on 2026.03.01_
 |**2025-12-29**|**DySK-Attn: A Framework for Efficient, Real-Time Knowledge Updating in Large Language Models via Dynamic Sparse Knowledge Attention**|Kabir Khan et.al.|[2508.07185](http://arxiv.org/abs/2508.07185)|
 |**2025-12-29**|**Think Parallax: Solving Multi-Hop Problems via Multi-View Knowledge-Graph-Based Retrieval-Augmented Generation**|Jinliang Liu et.al.|[2510.15552](http://arxiv.org/abs/2510.15552)|
 |**2025-12-29**|**Multi-Agent Framework for Threat Mitigation and Resilience in AI-Based Systems**|Armstrong Foundjem et.al.|[2512.23132](http://arxiv.org/abs/2512.23132)|
+|**2025-12-23**|**Domain-Partitioned Hybrid RAG for Legal Reasoning: Toward Modular and Explainable Legal AI for India**|Rakshita Goel et.al.|[2602.23371](http://arxiv.org/abs/2602.23371)|
 |**2025-12-22**|**Ontology-Based Knowledge Graph Framework for Industrial Standard Documents via Hierarchical and Propositional Structuring**|Jiin Park et.al.|[2512.08398_(DATE)](http://arxiv.org/abs/2512.08398)|
 |**2025-12-22**|**Event Extraction in Large Language Model**|Bobo Li et.al.|[2512.19537](http://arxiv.org/abs/2512.19537)|
 |**2025-12-20**|**MatKV: Trading Compute for Flash Storage in LLM Inference**|Kun-Woo Shin et.al.|[2512.22195_(ICDE)](http://arxiv.org/abs/2512.22195)|

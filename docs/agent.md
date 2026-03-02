@@ -6,10 +6,11 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.03.01_
+_Updated on 2026.03.02_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-02-27**|**Resp-Agent: An Agent-Based System for Multimodal Respiratory Sound Generation and Disease Diagnosis**|Pengfei Zhang et.al.|[2602.15909_(ICLR)](http://arxiv.org/abs/2602.15909)|
 |**2026-02-26**|**DualPath: Breaking the Storage Bandwidth Bottleneck in Agentic LLM Inference**|Yongtong Wu et.al.|[2602.21548](http://arxiv.org/abs/2602.21548)|
 |**2026-02-26**|**SideQuest: Model-Driven KV Cache Management for Long-Horizon Agentic Reasoning**|Sanjay Kariyappa et.al.|[2602.22603](http://arxiv.org/abs/2602.22603)|
 |**2026-02-25**|**Two-Stage Active Distribution Network Voltage Control via LLM-RL Collaboration: A Hybrid Knowledge-Data-Driven Approach**|Xu Yang et.al.|[2602.21715](http://arxiv.org/abs/2602.21715)|
@@ -22,7 +23,6 @@ _Updated on 2026.03.01_
 |**2026-02-22**|**MagicAgent: Towards Generalized Agent Planning**|Xuhui Ren et.al.|[2602.19000](http://arxiv.org/abs/2602.19000)|
 |**2026-02-20**|**Aurora: Neuro-Symbolic AI Driven Advising Agent**|Lorena Amanda Quincoso Lugones et.al.|[2602.17999](http://arxiv.org/abs/2602.17999)|
 |**2026-02-20**|**Alignment in Time: Peak-Aware Orchestration for Long-Horizon Agentic Systems**|Hanjing Shi et.al.|[2602.17910](http://arxiv.org/abs/2602.17910)|
-|**2026-02-19**|**Resp-Agent: An Agent-Based System for Multimodal Respiratory Sound Generation and Disease Diagnosis**|Pengfei Zhang et.al.|[2602.15909_(ICLR)](http://arxiv.org/abs/2602.15909)|
 |**2026-02-19**|**KLong: Training LLM Agent for Extremely Long-horizon Tasks**|Yue Liu et.al.|[2602.17547](http://arxiv.org/abs/2602.17547)|
 |**2026-02-16**|**OpenAgentSafety: A Comprehensive Framework for Evaluating Real-World AI Agent Safety**|Sanidhya Vijayvargiya et.al.|[2507.06134_(ICLR)](http://arxiv.org/abs/2507.06134)|
 |**2026-02-16**|**Efficient Multi-round LLM Inference over Disaggregated Serving**|Wenhao He et.al.|[2602.14516](http://arxiv.org/abs/2602.14516)|
