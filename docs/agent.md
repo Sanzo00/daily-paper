@@ -10,6 +10,9 @@ _Updated on 2026.03.03_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-03-02**|**SimuHome: A Temporal- and Environment-Aware Benchmark for Smart Home LLM Agents**|Gyuhyeon Seo et.al.|[2509.24282_(ICLR)](http://arxiv.org/abs/2509.24282)|
+|**2026-03-02**|**Solving the Granularity Mismatch: Hierarchical Preference Learning for Long-Horizon LLM Agents**|Heyang Gao et.al.|[2510.03253_(ICLR)](http://arxiv.org/abs/2510.03253)|
+|**2026-03-02**|**HeRo: Adaptive Orchestration of Agentic RAG on Heterogeneous Mobile SoC**|Maoliang Li et.al.|[2603.01661_(DAC)](http://arxiv.org/abs/2603.01661)|
 |**2026-03-01**|**MagicAgent: Towards Generalized Agent Planning**|Xuhui Ren et.al.|[2602.19000](http://arxiv.org/abs/2602.19000)|
 |**2026-02-28**|**ZeroDVFS: Zero-Shot LLM-Guided Core and Frequency Allocation for Embedded Platforms**|Mohammad Pivezhandi et.al.|[2601.08166](http://arxiv.org/abs/2601.08166)|
 |**2026-02-27**|**Resp-Agent: An Agent-Based System for Multimodal Respiratory Sound Generation and Disease Diagnosis**|Pengfei Zhang et.al.|[2602.15909_(ICLR)](http://arxiv.org/abs/2602.15909)|
@@ -96,7 +99,6 @@ _Updated on 2026.03.03_
 |**2025-12-15**|**Beyond Training: Enabling Self-Evolution of Agents with MOBIMEM**|Zibin Liu et.al.|[2512.15784](http://arxiv.org/abs/2512.15784)|
 |**2025-12-12**|**Aragog: Just-in-Time Model Routing for Scalable Serving of Agentic Workflows**|Yinwei Dai et.al.|[2511.20975](http://arxiv.org/abs/2511.20975)|
 |**2025-12-08**|**EvoMem: Improving Multi-Agent Planning with Dual-Evolving Memory**|Wenzhe Fan et.al.|[2511.01912](http://arxiv.org/abs/2511.01912)|
-|**2025-12-08**|**SimuHome: A Temporal- and Environment-Aware Benchmark for Smart Home LLM Agents**|Gyuhyeon Seo et.al.|[2509.24282](http://arxiv.org/abs/2509.24282)|
 |**2025-12-07**|**Learn the Ropes, Then Trust the Wins: Self-imitation with Progressive Exploration for Agentic Reinforcement Learning**|Yulei Qin et.al.|[2509.22601](http://arxiv.org/abs/2509.22601)|
 |**2025-12-05**|**MARINE: Theoretical Optimization and Design for Multi-Agent Recursive IN-context Enhancement**|Hongwei Zhang et.al.|[2512.07898](http://arxiv.org/abs/2512.07898)|
 |**2025-12-03**|**KVNAND: Efficient On-Device Large Language Model Inference Using DRAM-Free In-Flash Computing**|Lishuo Deng et.al.|[2512.03608](http://arxiv.org/abs/2512.03608)|
@@ -150,7 +152,6 @@ _Updated on 2026.03.03_
 |**2025-09-30**|**AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges**|Ranjan Sapkota et.al.|[2505.10468](http://arxiv.org/abs/2505.10468)|
 |**2025-09-27**|**Runtime Adaptive Pruning for LLM Inference**|Huanrong Liu et.al.|[2505.17138](http://arxiv.org/abs/2505.17138)|
 |**2025-09-26**|**LLM Assisted Alpha Fairness for 6 GHz WiFi and NR_U Coexistence: An Agentic Orchestrator for Throughput, Energy, and SLA**|Qun Wang et.al.|[2510.17814](http://arxiv.org/abs/2510.17814)|
-|**2025-09-26**|**Solving the Granularity Mismatch: Hierarchical Preference Learning for Long-Horizon LLM Agents**|Heyang Gao et.al.|[2510.03253](http://arxiv.org/abs/2510.03253)|
 |**2025-09-26**|**ProRe: A Proactive Reward System for GUI Agents via Reasoner-Actor Collaboration**|Gaole Dai et.al.|[2509.21823](http://arxiv.org/abs/2509.21823)|
 |**2025-09-25**|**Nova: Real-Time Agentic Vision-Language Model Serving with Adaptive Cross-Stage Parallelization**|Yuhang Xu et.al.|[2509.21301](http://arxiv.org/abs/2509.21301)|
 |**2025-09-24**|**CollaPipe: Adaptive Segment-Optimized Pipeline Parallelism for Collaborative LLM Training in Heterogeneous Edge Networks**|Jiewei Chen et.al.|[2509.19855](http://arxiv.org/abs/2509.19855)|

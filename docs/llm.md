@@ -10,12 +10,15 @@ _Updated on 2026.03.03_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-03-02**|**AdaBlock-dLLM: Semantic-Aware Diffusion LLM Inference via Adaptive Block Size**|Guanxi Lu et.al.|[2509.26432_(ICLR)](http://arxiv.org/abs/2509.26432)|
+|**2026-03-02**|**OrbitFlow: SLO-Aware Long-Context LLM Serving with Fine-Grained KV Cache Reconfiguration**|Xinyue Ma et.al.|[2601.10729_(VLDB)](http://arxiv.org/abs/2601.10729)|
+|**2026-03-02**|**FLYING SERVING: On-the-Fly Parallelism Switching for Large Language Model Serving**|Shouwei Gao et.al.|[2602.22593_(ICS)](http://arxiv.org/abs/2602.22593)|
+|**2026-03-02**|**Understanding the Physics of Key-Value Cache Compression for LLMs through Attention Dynamics**|Samhruth Ananthanarayanan et.al.|[2603.01426](http://arxiv.org/abs/2603.01426)|
 |**2026-03-01**|**Cache What Lasts: Token Retention for Memory-Bounded KV Cache in LLMs**|Ngoc Bui et.al.|[2512.03324](http://arxiv.org/abs/2512.03324)|
 |**2026-02-28**|**FreeKV: Boosting KV Cache Retrieval for Efficient LLM Inference**|Guangda Liu et.al.|[2505.13109](http://arxiv.org/abs/2505.13109)|
 |**2026-02-28**|**FASA: Frequency-aware Sparse Attention**|Yifei Wang et.al.|[2602.03152_(ICLR)](http://arxiv.org/abs/2602.03152)|
 |**2026-02-27**|**SideQuest: Model-Driven KV Cache Management for Long-Horizon Agentic Reasoning**|Sanjay Kariyappa et.al.|[2602.22603](http://arxiv.org/abs/2602.22603)|
 |**2026-02-26**|**DualPath: Breaking the Storage Bandwidth Bottleneck in Agentic LLM Inference**|Yongtong Wu et.al.|[2602.21548](http://arxiv.org/abs/2602.21548)|
-|**2026-02-26**|**FLYING SERVING: On-the-Fly Parallelism Switching for Large Language Model Serving**|Shouwei Gao et.al.|[2602.22593](http://arxiv.org/abs/2602.22593)|
 |**2026-02-25**|**Multi-Layer Scheduling for MoE-Based LLM Reasoning**|Yifan Sun et.al.|[2602.21626](http://arxiv.org/abs/2602.21626)|
 |**2026-02-23**|**ContextPilot: Fast Long-Context Inference via Context Reuse**|Yinsicheng Jiang et.al.|[2511.03475](http://arxiv.org/abs/2511.03475)|
 |**2026-02-22**|**Nightjar: Dynamic Adaptive Speculative Decoding for Large Language Models Serving**|Rui Li et.al.|[2512.22420](http://arxiv.org/abs/2512.22420)|
@@ -93,7 +96,6 @@ _Updated on 2026.03.03_
 |**2026-01-06**|**Joint Encoding of KV-Cache Blocks for Scalable LLM Serving**|Joseph Kampeas et.al.|[2601.03067](http://arxiv.org/abs/2601.03067)|
 |**2026-01-05**|**Optimizing LLM Inference: Fluid-Guided Online Scheduling with Memory Constraints**|Ruicheng Ao et.al.|[2504.11320](http://arxiv.org/abs/2504.11320)|
 |**2026-01-05**|**LoRA-Drop: Temporal LoRA Decoding for Efficient LLM Inference**|Hossein Rajabzadeh et.al.|[2601.02569](http://arxiv.org/abs/2601.02569)|
-|**2026-01-05**|**ORBITFLOW: SLO-Aware Long-Context LLM Serving with Fine-Grained KV Cache Reconfiguration**|Xinyue Ma et.al.|[2601.10729_(VLDB)](http://arxiv.org/abs/2601.10729)|
 |**2026-01-05**|**Crystal-KV: Efficient KV Cache Management for Chain-of-Thought LLMs via Answer-First Principle**|Zihan Wang et.al.|[2601.16986](http://arxiv.org/abs/2601.16986)|
 |**2026-01-03**|**Warp-Cortex: An Asynchronous, Memory-Efficient Architecture for Million-Agent Cognitive Scaling on Consumer Hardware**|Jorge L. Ruiz Williams et.al.|[2601.01298](http://arxiv.org/abs/2601.01298)|
 |**2026-01-03**|**KV-Embedding: Training-free Text Embedding via Internal KV Re-routing in Decoder-only LLMs**|Yixuan Tang et.al.|[2601.01046](http://arxiv.org/abs/2601.01046)|
@@ -227,7 +229,6 @@ _Updated on 2026.03.03_
 |**2025-10-02**|**KaVa: Latent Reasoning via Compressed KV-Cache Distillation**|Anna Kuzina et.al.|[2510.02312](http://arxiv.org/abs/2510.02312)|
 |**2025-10-02**|**ElasticMoE: An Efficient Auto Scaling Method for Mixture-of-Experts Models**|Gursimran Singh et.al.|[2510.02613_(ISS)](http://arxiv.org/abs/2510.02613)|
 |**2025-10-02**|**KVComm: Enabling Efficient LLM Communication through Selective KV Sharing**|Xiangyu Shi et.al.|[2510.03346](http://arxiv.org/abs/2510.03346)|
-|**2025-10-01**|**AdaBlock-dLLM: Semantic-Aware Diffusion LLM Inference via Adaptive Block Size**|Guanxi Lu et.al.|[2509.26432](http://arxiv.org/abs/2509.26432)|
 |**2025-10-01**|**Faster LLM Inference using DBMS-Inspired Preemption and Cache Replacement Policies**|Kyoungmin Kim et.al.|[2411.07447](http://arxiv.org/abs/2411.07447)|
 |**2025-09-30**|**KVzip: Query-Agnostic KV Cache Compression with Context Reconstruction**|Jang-Hyun Kim et.al.|[2505.23416_(NeurIPS)](http://arxiv.org/abs/2505.23416)|
 |**2025-09-30**|**AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges**|Ranjan Sapkota et.al.|[2505.10468](http://arxiv.org/abs/2505.10468)|
