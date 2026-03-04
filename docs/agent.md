@@ -6,10 +6,11 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.03.03_
+_Updated on 2026.03.04_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-03-03**|**ParEVO: Synthesizing Code for Irregular Data: High-Performance Parallelism through Agentic Evolution**|Liu Yang et.al.|[2603.02510](http://arxiv.org/abs/2603.02510)|
 |**2026-03-02**|**SimuHome: A Temporal- and Environment-Aware Benchmark for Smart Home LLM Agents**|Gyuhyeon Seo et.al.|[2509.24282_(ICLR)](http://arxiv.org/abs/2509.24282)|
 |**2026-03-02**|**Solving the Granularity Mismatch: Hierarchical Preference Learning for Long-Horizon LLM Agents**|Heyang Gao et.al.|[2510.03253_(ICLR)](http://arxiv.org/abs/2510.03253)|
 |**2026-03-02**|**HeRo: Adaptive Orchestration of Agentic RAG on Heterogeneous Mobile SoC**|Maoliang Li et.al.|[2603.01661_(DAC)](http://arxiv.org/abs/2603.01661)|
@@ -39,6 +40,7 @@ _Updated on 2026.03.03_
 |**2026-02-12**|**Deep Kernel Fusion for Transformers**|Zixi Zhang et.al.|[2602.11808](http://arxiv.org/abs/2602.11808)|
 |**2026-02-10**|**AOI: Context-Aware Multi-Agent Operations via Dynamic Scheduling and Hierarchical Memory Compression**|Zishan Bai et.al.|[2512.13956](http://arxiv.org/abs/2512.13956)|
 |**2026-02-10**|**Learning to Evict from Key-Value Cache**|Luca Moschella et.al.|[2602.10238](http://arxiv.org/abs/2602.10238)|
+|**2026-02-10**|**ATPO: Adaptive Tree Policy Optimization for Multi-Turn Medical Dialogue**|Ruike Cao et.al.|[2603.02216_(ICLR)](http://arxiv.org/abs/2603.02216)|
 |**2026-02-09**|**Dr. MAS: Stable Reinforcement Learning for Multi-Agent LLM Systems**|Lang Feng et.al.|[2602.08847](http://arxiv.org/abs/2602.08847)|
 |**2026-02-08**|**DeltaKV: Residual-Based KV Cache Compression via Long-Range Similarity**|Jitai Hao et.al.|[2602.08005](http://arxiv.org/abs/2602.08005)|
 |**2026-02-06**|**BLITZRANK: Principled Zero-shot Ranking Agents with Tournament Graphs**|Sheshansh Agrawal et.al.|[2602.05448](http://arxiv.org/abs/2602.05448)|

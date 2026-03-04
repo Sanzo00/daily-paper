@@ -6,12 +6,15 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.03.03_
+_Updated on 2026.03.04_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-03-03**|**xLLM Technical Report**|Tongxuan Liu et.al.|[2510.14686](http://arxiv.org/abs/2510.14686)|
+|**2026-03-03**|**Nightjar: Dynamic Adaptive Speculative Decoding for Large Language Models Serving**|Rui Li et.al.|[2512.22420](http://arxiv.org/abs/2512.22420)|
 |**2026-03-02**|**AdaBlock-dLLM: Semantic-Aware Diffusion LLM Inference via Adaptive Block Size**|Guanxi Lu et.al.|[2509.26432_(ICLR)](http://arxiv.org/abs/2509.26432)|
 |**2026-03-02**|**OrbitFlow: SLO-Aware Long-Context LLM Serving with Fine-Grained KV Cache Reconfiguration**|Xinyue Ma et.al.|[2601.10729_(VLDB)](http://arxiv.org/abs/2601.10729)|
+|**2026-03-02**|**Multi-Layer Scheduling for MoE-Based LLM Reasoning**|Yifan Sun et.al.|[2602.21626](http://arxiv.org/abs/2602.21626)|
 |**2026-03-02**|**FLYING SERVING: On-the-Fly Parallelism Switching for Large Language Model Serving**|Shouwei Gao et.al.|[2602.22593_(ICS)](http://arxiv.org/abs/2602.22593)|
 |**2026-03-02**|**Understanding the Physics of Key-Value Cache Compression for LLMs through Attention Dynamics**|Samhruth Ananthanarayanan et.al.|[2603.01426](http://arxiv.org/abs/2603.01426)|
 |**2026-03-01**|**Cache What Lasts: Token Retention for Memory-Bounded KV Cache in LLMs**|Ngoc Bui et.al.|[2512.03324](http://arxiv.org/abs/2512.03324)|
@@ -19,9 +22,7 @@ _Updated on 2026.03.03_
 |**2026-02-28**|**FASA: Frequency-aware Sparse Attention**|Yifei Wang et.al.|[2602.03152_(ICLR)](http://arxiv.org/abs/2602.03152)|
 |**2026-02-27**|**SideQuest: Model-Driven KV Cache Management for Long-Horizon Agentic Reasoning**|Sanjay Kariyappa et.al.|[2602.22603](http://arxiv.org/abs/2602.22603)|
 |**2026-02-26**|**DualPath: Breaking the Storage Bandwidth Bottleneck in Agentic LLM Inference**|Yongtong Wu et.al.|[2602.21548](http://arxiv.org/abs/2602.21548)|
-|**2026-02-25**|**Multi-Layer Scheduling for MoE-Based LLM Reasoning**|Yifan Sun et.al.|[2602.21626](http://arxiv.org/abs/2602.21626)|
 |**2026-02-23**|**ContextPilot: Fast Long-Context Inference via Context Reuse**|Yinsicheng Jiang et.al.|[2511.03475](http://arxiv.org/abs/2511.03475)|
-|**2026-02-22**|**Nightjar: Dynamic Adaptive Speculative Decoding for Large Language Models Serving**|Rui Li et.al.|[2512.22420](http://arxiv.org/abs/2512.22420)|
 |**2026-02-21**|**Esoteric Language Models: Bridging Autoregressive and Masked Diffusion LLMs**|Subham Sekhar Sahoo et.al.|[2506.01928](http://arxiv.org/abs/2506.01928)|
 |**2026-02-20**|**Thinking by Subtraction: Confidence-Driven Contrastive Decoding for LLM Reasoning**|Lexiang Tang et.al.|[2602.18232](http://arxiv.org/abs/2602.18232)|
 |**2026-02-17**|**Intermittent Semi-Working Mask: A New Masking Paradigm for LLMs**|HaoYuan Hu et.al.|[2408.00539](http://arxiv.org/abs/2408.00539)|
@@ -202,7 +203,6 @@ _Updated on 2026.03.03_
 |**2025-10-21**|**The Trust Paradox in LLM-Based Multi-Agent Systems: When Collaboration Becomes a Security Vulnerability**|Zijie Xu et.al.|[2510.18563](http://arxiv.org/abs/2510.18563)|
 |**2025-10-19**|**STARK: Strategic Team of Agents for Refining Kernels**|Juncheng Dong et.al.|[2510.16996](http://arxiv.org/abs/2510.16996)|
 |**2025-10-18**|**Ripple Effect Protocol: Coordinating Agent Populations**|Ayush Chopra et.al.|[2510.16572](http://arxiv.org/abs/2510.16572)|
-|**2025-10-16**|**xLLM Technical Report**|Tongxuan Liu et.al.|[2510.14686](http://arxiv.org/abs/2510.14686)|
 |**2025-10-16**|**Terrarium: Revisiting the Blackboard for Multi-Agent Safety, Privacy, and Security Studies**|Mason Nakamura et.al.|[2510.14312](http://arxiv.org/abs/2510.14312)|
 |**2025-10-16**|**Kelle: Co-design KV Caching and eDRAM for Efficient LLM Serving in Edge Computing**|Tianhua Xia et.al.|[2510.16040](http://arxiv.org/abs/2510.16040)|
 |**2025-10-15**|**LazyEviction: Lagged KV Eviction with Attention Pattern Observation for Efficient Long Reasoning**|Haoyue Zhang et.al.|[2506.15969](http://arxiv.org/abs/2506.15969)|

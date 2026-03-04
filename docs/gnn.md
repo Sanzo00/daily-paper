@@ -6,10 +6,11 @@ nav_order: 3
 
 # GNN Papers
 
-_Updated on 2026.03.03_
+_Updated on 2026.03.04_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-03-03**|**AlphaFree: Recommendation Free from Users, IDs, and GNNs**|Minseo Jeon et.al.|[2603.02653_(WWW)](http://arxiv.org/abs/2603.02653)|
 |**2026-03-02**|**A Cascaded Graph Neural Network for Joint Root Cause Localization and Analysis in Edge Computing Environments**|Duneesha Fernando et.al.|[2603.01447](http://arxiv.org/abs/2603.01447)|
 |**2026-02-20**|**Graph-Neural Multi-Agent Coordination for Distributed Access-Point Selection in Cell-Free Massive MIMO**|Mohammad Zangooei et.al.|[2602.17954_(ISS)](http://arxiv.org/abs/2602.17954)|
 |**2026-02-18**|**ASSENT: Learning-Based Association Optimization for Distributed Cell-Free ISAC**|Mehdi Zafari et.al.|[2511.09992_(ICC)](http://arxiv.org/abs/2511.09992)|
