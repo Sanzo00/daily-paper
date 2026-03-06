@@ -10,6 +10,9 @@ _Updated on 2026.03.06_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-03-05**|**Good-Enough LLM Obfuscation (GELO)**|Anatoly Belikov et.al.|[2603.05035](http://arxiv.org/abs/2603.05035)|
+|**2026-03-05**|**Hardware-Software Co-design for 3D-DRAM-based LLM Serving Accelerator**|Cong Li et.al.|[2603.04797](http://arxiv.org/abs/2603.04797)|
+|**2026-03-05**|**InfoFlow KV: Information-Flow-Aware KV Recomputation for Long Context**|Xin Teng et.al.|[2603.05353](http://arxiv.org/abs/2603.05353)|
 |**2026-03-03**|**xLLM Technical Report**|Tongxuan Liu et.al.|[2510.14686](http://arxiv.org/abs/2510.14686)|
 |**2026-03-03**|**Nightjar: Dynamic Adaptive Speculative Decoding for Large Language Models Serving**|Rui Li et.al.|[2512.22420](http://arxiv.org/abs/2512.22420)|
 |**2026-03-02**|**AdaBlock-dLLM: Semantic-Aware Diffusion LLM Inference via Adaptive Block Size**|Guanxi Lu et.al.|[2509.26432_(ICLR)](http://arxiv.org/abs/2509.26432)|
