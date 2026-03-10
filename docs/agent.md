@@ -6,10 +6,12 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.03.09_
+_Updated on 2026.03.10_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-03-09**|**Advancing Automated Algorithm Design via Evolutionary Stagewise Design with LLMs**|Chen Lu et.al.|[2603.07970](http://arxiv.org/abs/2603.07970)|
+|**2026-03-06**|**Characterizing Faults in Agentic AI: A Taxonomy of Types, Symptoms, and Root Causes**|Mehil B Shah et.al.|[2603.06847](http://arxiv.org/abs/2603.06847)|
 |**2026-03-05**|**PerfGuard: A Performance-Aware Agent for Visual Content Generation**|Zhipeng Chen et.al.|[2601.22571_(FG)](http://arxiv.org/abs/2601.22571)|
 |**2026-03-03**|**ParEVO: Synthesizing Code for Irregular Data: High-Performance Parallelism through Agentic Evolution**|Liu Yang et.al.|[2603.02510](http://arxiv.org/abs/2603.02510)|
 |**2026-03-02**|**SimuHome: A Temporal- and Environment-Aware Benchmark for Smart Home LLM Agents**|Gyuhyeon Seo et.al.|[2509.24282_(ICLR)](http://arxiv.org/abs/2509.24282)|

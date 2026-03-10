@@ -6,10 +6,11 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.03.09_
+_Updated on 2026.03.10_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-03-09**|**Samyama: A Unified Graph-Vector Database with In-Database Optimization, Agentic Enrichment, and Hardware Acceleration**|Madhulatha Mandarapu et.al.|[2603.08036](http://arxiv.org/abs/2603.08036)|
 |**2026-03-05**|**InfoFlow KV: Information-Flow-Aware KV Recomputation for Long Context**|Xin Teng et.al.|[2603.05353](http://arxiv.org/abs/2603.05353)|
 |**2026-03-05**|**Core-based Hierarchies for Efficient GraphRAG**|Jakir Hossain et.al.|[2603.05207](http://arxiv.org/abs/2603.05207)|
 |**2026-03-05**|**MedCoRAG: Interpretable Hepatology Diagnosis via Hybrid Evidence Retrieval and Multispecialty Consensus**|Zheng Li et.al.|[2603.05129](http://arxiv.org/abs/2603.05129)|

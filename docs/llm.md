@@ -6,10 +6,13 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.03.09_
+_Updated on 2026.03.10_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-03-09**|**FreeKV: Boosting KV Cache Retrieval for Efficient LLM Inference**|Guangda Liu et.al.|[2505.13109](http://arxiv.org/abs/2505.13109)|
+|**2026-03-09**|**EAGLE-Pangu: Accelerator-Safe Tree Speculative Decoding on Ascend NPUs**|Chang Han et.al.|[2603.08088](http://arxiv.org/abs/2603.08088)|
+|**2026-03-08**|**Skip to the Good Part: Representation Structure & Inference-Time Layer Skipping in Diffusion vs. Autoregressive LLMs**|Raghavv Goel et.al.|[2603.07475_(ICLR)](http://arxiv.org/abs/2603.07475)|
 |**2026-03-06**|**Good-Enough LLM Obfuscation (GELO)**|Anatoly Belikov et.al.|[2603.05035](http://arxiv.org/abs/2603.05035)|
 |**2026-03-05**|**Hardware-Software Co-design for 3D-DRAM-based LLM Serving Accelerator**|Cong Li et.al.|[2603.04797](http://arxiv.org/abs/2603.04797)|
 |**2026-03-05**|**InfoFlow KV: Information-Flow-Aware KV Recomputation for Long Context**|Xin Teng et.al.|[2603.05353](http://arxiv.org/abs/2603.05353)|
@@ -21,7 +24,6 @@ _Updated on 2026.03.09_
 |**2026-03-02**|**FLYING SERVING: On-the-Fly Parallelism Switching for Large Language Model Serving**|Shouwei Gao et.al.|[2602.22593_(ICS)](http://arxiv.org/abs/2602.22593)|
 |**2026-03-02**|**Understanding the Physics of Key-Value Cache Compression for LLMs through Attention Dynamics**|Samhruth Ananthanarayanan et.al.|[2603.01426](http://arxiv.org/abs/2603.01426)|
 |**2026-03-01**|**Cache What Lasts: Token Retention for Memory-Bounded KV Cache in LLMs**|Ngoc Bui et.al.|[2512.03324](http://arxiv.org/abs/2512.03324)|
-|**2026-02-28**|**FreeKV: Boosting KV Cache Retrieval for Efficient LLM Inference**|Guangda Liu et.al.|[2505.13109](http://arxiv.org/abs/2505.13109)|
 |**2026-02-28**|**FASA: Frequency-aware Sparse Attention**|Yifei Wang et.al.|[2602.03152_(ICLR)](http://arxiv.org/abs/2602.03152)|
 |**2026-02-27**|**SideQuest: Model-Driven KV Cache Management for Long-Horizon Agentic Reasoning**|Sanjay Kariyappa et.al.|[2602.22603](http://arxiv.org/abs/2602.22603)|
 |**2026-02-26**|**DualPath: Breaking the Storage Bandwidth Bottleneck in Agentic LLM Inference**|Yongtong Wu et.al.|[2602.21548](http://arxiv.org/abs/2602.21548)|
