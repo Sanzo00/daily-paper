@@ -10,6 +10,7 @@ _Updated on 2026.03.10_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-03-09**|**Understand Then Memory: A Cognitive Gist-Driven RAG Framework with Global Semantic Diffusion**|Pengcheng Zhou et.al.|[2602.15895](http://arxiv.org/abs/2602.15895)|
 |**2026-03-09**|**Samyama: A Unified Graph-Vector Database with In-Database Optimization, Agentic Enrichment, and Hardware Acceleration**|Madhulatha Mandarapu et.al.|[2603.08036](http://arxiv.org/abs/2603.08036)|
 |**2026-03-05**|**InfoFlow KV: Information-Flow-Aware KV Recomputation for Long Context**|Xin Teng et.al.|[2603.05353](http://arxiv.org/abs/2603.05353)|
 |**2026-03-05**|**Core-based Hierarchies for Efficient GraphRAG**|Jakir Hossain et.al.|[2603.05207](http://arxiv.org/abs/2603.05207)|
@@ -37,7 +38,6 @@ _Updated on 2026.03.10_
 |**2026-02-13**|**INHerit-SG: Incremental Hierarchical Semantic Scene Graphs with RAG-Style Retrieval**|YukTungSamuel Fang et.al.|[2602.12971](http://arxiv.org/abs/2602.12971)|
 |**2026-02-11**|**Benchmarking Large Language Models for Knowledge Graph Validation**|Farzad Shami et.al.|[2602.10748_(EDBT)](http://arxiv.org/abs/2602.10748)|
 |**2026-02-11**|**MultiCube-RAG for Multi-hop Question Answering**|Jimeng Shi et.al.|[2602.15898](http://arxiv.org/abs/2602.15898)|
-|**2026-02-11**|**Understand Then Memory: A Cognitive Gist-Driven RAG Framework with Global Semantic Diffusion**|Pengcheng Zhou et.al.|[2602.15895](http://arxiv.org/abs/2602.15895)|
 |**2026-02-10**|**Structured Episodic Event Memory**|Zhengxuan Lu et.al.|[2601.06411](http://arxiv.org/abs/2601.06411)|
 |**2026-02-10**|**Closing Reasoning Gaps in Clinical Agents with Differential Reasoning Learning**|Jinsong Liu et.al.|[2602.09945](http://arxiv.org/abs/2602.09945)|
 |**2026-02-09**|**DA-RAG: Dynamic Attributed Community Search for Retrieval-Augmented Generation**|Xingyuan Zeng et.al.|[2602.08545](http://arxiv.org/abs/2602.08545)|

@@ -12,6 +12,7 @@ _Updated on 2026.03.10_
 |:-------------|:------|:--------|:----|
 |**2026-03-09**|**FreeKV: Boosting KV Cache Retrieval for Efficient LLM Inference**|Guangda Liu et.al.|[2505.13109](http://arxiv.org/abs/2505.13109)|
 |**2026-03-09**|**EAGLE-Pangu: Accelerator-Safe Tree Speculative Decoding on Ascend NPUs**|Chang Han et.al.|[2603.08088](http://arxiv.org/abs/2603.08088)|
+|**2026-03-09**|**LycheeCluster: Efficient Long-Context Inference with Structure-Aware Chunking and Hierarchical KV Indexing**|Dongfang Li et.al.|[2603.08453](http://arxiv.org/abs/2603.08453)|
 |**2026-03-08**|**Skip to the Good Part: Representation Structure & Inference-Time Layer Skipping in Diffusion vs. Autoregressive LLMs**|Raghavv Goel et.al.|[2603.07475_(ICLR)](http://arxiv.org/abs/2603.07475)|
 |**2026-03-06**|**Good-Enough LLM Obfuscation (GELO)**|Anatoly Belikov et.al.|[2603.05035](http://arxiv.org/abs/2603.05035)|
 |**2026-03-05**|**Hardware-Software Co-design for 3D-DRAM-based LLM Serving Accelerator**|Cong Li et.al.|[2603.04797](http://arxiv.org/abs/2603.04797)|
