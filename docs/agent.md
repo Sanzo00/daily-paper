@@ -6,13 +6,15 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.03.10_
+_Updated on 2026.03.11_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-03-10**|**FlexServe: A Fast and Secure LLM Serving System for Mobile Devices with Flexible Resource Isolation**|Yinpeng Wu et.al.|[2603.09046](http://arxiv.org/abs/2603.09046)|
 |**2026-03-09**|**Advancing Automated Algorithm Design via Evolutionary Stagewise Design with LLMs**|Chen Lu et.al.|[2603.07970](http://arxiv.org/abs/2603.07970)|
 |**2026-03-06**|**Characterizing Faults in Agentic AI: A Taxonomy of Types, Symptoms, and Root Causes**|Mehil B Shah et.al.|[2603.06847](http://arxiv.org/abs/2603.06847)|
 |**2026-03-05**|**PerfGuard: A Performance-Aware Agent for Visual Content Generation**|Zhipeng Chen et.al.|[2601.22571_(FG)](http://arxiv.org/abs/2601.22571)|
+|**2026-03-04**|**ChatNeuroSim: An LLM Agent Framework for Automated Compute-in-Memory Accelerator Deployment and Optimization**|Ming-Yen Lee et.al.|[2603.08745](http://arxiv.org/abs/2603.08745)|
 |**2026-03-03**|**ParEVO: Synthesizing Code for Irregular Data: High-Performance Parallelism through Agentic Evolution**|Liu Yang et.al.|[2603.02510](http://arxiv.org/abs/2603.02510)|
 |**2026-03-02**|**SimuHome: A Temporal- and Environment-Aware Benchmark for Smart Home LLM Agents**|Gyuhyeon Seo et.al.|[2509.24282_(ICLR)](http://arxiv.org/abs/2509.24282)|
 |**2026-03-02**|**Solving the Granularity Mismatch: Hierarchical Preference Learning for Long-Horizon LLM Agents**|Heyang Gao et.al.|[2510.03253_(ICLR)](http://arxiv.org/abs/2510.03253)|
@@ -35,6 +37,7 @@ _Updated on 2026.03.10_
 |**2026-02-20**|**Alignment in Time: Peak-Aware Orchestration for Long-Horizon Agentic Systems**|Hanjing Shi et.al.|[2602.17910](http://arxiv.org/abs/2602.17910)|
 |**2026-02-19**|**KLong: Training LLM Agent for Extremely Long-horizon Tasks**|Yue Liu et.al.|[2602.17547](http://arxiv.org/abs/2602.17547)|
 |**2026-02-19**|**Position: AI Agents Are Not (Yet) a Panacea for Social Simulation**|Yiming Li et.al.|[2603.00113](http://arxiv.org/abs/2603.00113)|
+|**2026-02-19**|**ARKV: Adaptive and Resource-Efficient KV Cache Management under Limited Memory Budget for Long-Context Inference in LLMs**|Jianlong Lei et.al.|[2603.08727](http://arxiv.org/abs/2603.08727)|
 |**2026-02-17**|**Agent Memory Below the Prompt: Persistent Q4 KV Cache for Multi-Agent LLM Inference on Edge Devices**|Yakov Pyotr Shkolnikov et.al.|[2603.04428](http://arxiv.org/abs/2603.04428)|
 |**2026-02-16**|**OpenAgentSafety: A Comprehensive Framework for Evaluating Real-World AI Agent Safety**|Sanidhya Vijayvargiya et.al.|[2507.06134_(ICLR)](http://arxiv.org/abs/2507.06134)|
 |**2026-02-16**|**Efficient Multi-round LLM Inference over Disaggregated Serving**|Wenhao He et.al.|[2602.14516](http://arxiv.org/abs/2602.14516)|

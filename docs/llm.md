@@ -6,10 +6,11 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.03.10_
+_Updated on 2026.03.11_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-03-10**|**Reasoning Efficiently Through Adaptive Chain-of-Thought Compression: A Self-Optimizing Framework**|Kerui Huang et.al.|[2509.14093](http://arxiv.org/abs/2509.14093)|
 |**2026-03-09**|**FreeKV: Boosting KV Cache Retrieval for Efficient LLM Inference**|Guangda Liu et.al.|[2505.13109](http://arxiv.org/abs/2505.13109)|
 |**2026-03-09**|**EAGLE-Pangu: Accelerator-Safe Tree Speculative Decoding on Ascend NPUs**|Chang Han et.al.|[2603.08088](http://arxiv.org/abs/2603.08088)|
 |**2026-03-09**|**LycheeCluster: Efficient Long-Context Inference with Structure-Aware Chunking and Hierarchical KV Indexing**|Dongfang Li et.al.|[2603.08453](http://arxiv.org/abs/2603.08453)|
@@ -25,12 +26,14 @@ _Updated on 2026.03.10_
 |**2026-03-02**|**FLYING SERVING: On-the-Fly Parallelism Switching for Large Language Model Serving**|Shouwei Gao et.al.|[2602.22593_(ICS)](http://arxiv.org/abs/2602.22593)|
 |**2026-03-02**|**Understanding the Physics of Key-Value Cache Compression for LLMs through Attention Dynamics**|Samhruth Ananthanarayanan et.al.|[2603.01426](http://arxiv.org/abs/2603.01426)|
 |**2026-03-01**|**Cache What Lasts: Token Retention for Memory-Bounded KV Cache in LLMs**|Ngoc Bui et.al.|[2512.03324](http://arxiv.org/abs/2512.03324)|
+|**2026-03-01**|**Zipage: Maintain High Request Concurrency for LLM Reasoning through Compressed PagedAttention**|Mengqi Liao et.al.|[2603.08743](http://arxiv.org/abs/2603.08743)|
 |**2026-02-28**|**FASA: Frequency-aware Sparse Attention**|Yifei Wang et.al.|[2602.03152_(ICLR)](http://arxiv.org/abs/2602.03152)|
 |**2026-02-27**|**SideQuest: Model-Driven KV Cache Management for Long-Horizon Agentic Reasoning**|Sanjay Kariyappa et.al.|[2602.22603](http://arxiv.org/abs/2602.22603)|
 |**2026-02-26**|**DualPath: Breaking the Storage Bandwidth Bottleneck in Agentic LLM Inference**|Yongtong Wu et.al.|[2602.21548](http://arxiv.org/abs/2602.21548)|
 |**2026-02-23**|**ContextPilot: Fast Long-Context Inference via Context Reuse**|Yinsicheng Jiang et.al.|[2511.03475](http://arxiv.org/abs/2511.03475)|
 |**2026-02-21**|**Esoteric Language Models: Bridging Autoregressive and Masked Diffusion LLMs**|Subham Sekhar Sahoo et.al.|[2506.01928](http://arxiv.org/abs/2506.01928)|
 |**2026-02-20**|**Thinking by Subtraction: Confidence-Driven Contrastive Decoding for LLM Reasoning**|Lexiang Tang et.al.|[2602.18232](http://arxiv.org/abs/2602.18232)|
+|**2026-02-19**|**ARKV: Adaptive and Resource-Efficient KV Cache Management under Limited Memory Budget for Long-Context Inference in LLMs**|Jianlong Lei et.al.|[2603.08727](http://arxiv.org/abs/2603.08727)|
 |**2026-02-17**|**Intermittent Semi-Working Mask: A New Masking Paradigm for LLMs**|HaoYuan Hu et.al.|[2408.00539](http://arxiv.org/abs/2408.00539)|
 |**2026-02-14**|**KVCache Cache in the Wild: Characterizing and Optimizing KVCache Cache at a Large Cloud Provider**|Jiahao Wang et.al.|[2506.02634_(ATC)](http://arxiv.org/abs/2506.02634)|
 |**2026-02-14**|**ThunderAgent: A Simple, Fast and Program-Aware Agentic Inference System**|Hao Kang et.al.|[2602.13692](http://arxiv.org/abs/2602.13692)|
@@ -266,7 +269,6 @@ _Updated on 2026.03.10_
 |**2025-09-20**|**EG-MLA: Embedding-Gated Multi-head Latent Attention for Scalable and Efficient LLMs**|Zhengge Cai et.al.|[2509.16686](http://arxiv.org/abs/2509.16686)|
 |**2025-09-20**|**Time to Talk: LLM Agents for Asynchronous Group Communication in Mafia Games**|Niv Eckhaus et.al.|[2506.05309](http://arxiv.org/abs/2506.05309)|
 |**2025-09-19**|**Overhearing LLM Agents: A Survey, Taxonomy, and Roadmap**|Andrew Zhu et.al.|[2509.16325](http://arxiv.org/abs/2509.16325)|
-|**2025-09-17**|**Reasoning Efficiently Through Adaptive Chain-of-Thought Compression: A Self-Optimizing Framework**|Kerui Huang et.al.|[2509.14093](http://arxiv.org/abs/2509.14093)|
 |**2025-09-17**|**CrowdAgent: Multi-Agent Managed Multi-Source Annotation System**|Maosheng Qin et.al.|[2509.14030](http://arxiv.org/abs/2509.14030)|
 |**2025-09-16**|**FIER: Fine-Grained and Efficient KV Cache Retrieval for Long-context LLM Inference**|Dongwei Wang et.al.|[2508.08256_(EMNLP)](http://arxiv.org/abs/2508.08256)|
 |**2025-09-15**|**Accelerating LLM Inference via Dynamic KV Cache Placement in Heterogeneous Memory System**|Yunhua Fang et.al.|[2508.13231_(CHI)](http://arxiv.org/abs/2508.13231)|

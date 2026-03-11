@@ -6,16 +6,18 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.03.10_
+_Updated on 2026.03.11_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-03-10**|**Samyama: A Unified Graph-Vector Database with In-Database Optimization, Agentic Enrichment, and Hardware Acceleration**|Madhulatha Mandarapu et.al.|[2603.08036](http://arxiv.org/abs/2603.08036)|
+|**2026-03-10**|**MMGraphRAG: Bridging Vision and Language with Interpretable Multimodal Knowledge Graphs**|Xueyao Wan et.al.|[2507.20804](http://arxiv.org/abs/2507.20804)|
+|**2026-03-10**|**TaSR-RAG: Taxonomy-guided Structured Reasoning for Retrieval-Augmented Generation**|Jiashuo Sun et.al.|[2603.09341](http://arxiv.org/abs/2603.09341)|
 |**2026-03-09**|**Understand Then Memory: A Cognitive Gist-Driven RAG Framework with Global Semantic Diffusion**|Pengcheng Zhou et.al.|[2602.15895](http://arxiv.org/abs/2602.15895)|
-|**2026-03-09**|**Samyama: A Unified Graph-Vector Database with In-Database Optimization, Agentic Enrichment, and Hardware Acceleration**|Madhulatha Mandarapu et.al.|[2603.08036](http://arxiv.org/abs/2603.08036)|
+|**2026-03-09**|**Towards Robust Retrieval-Augmented Generation Based on Knowledge Graph: A Comparative Analysis**|Hazem Amamou et.al.|[2603.05698_(ICS)](http://arxiv.org/abs/2603.05698)|
 |**2026-03-05**|**InfoFlow KV: Information-Flow-Aware KV Recomputation for Long Context**|Xin Teng et.al.|[2603.05353](http://arxiv.org/abs/2603.05353)|
 |**2026-03-05**|**Core-based Hierarchies for Efficient GraphRAG**|Jakir Hossain et.al.|[2603.05207](http://arxiv.org/abs/2603.05207)|
 |**2026-03-05**|**MedCoRAG: Interpretable Hepatology Diagnosis via Hybrid Evidence Retrieval and Multispecialty Consensus**|Zheng Li et.al.|[2603.05129](http://arxiv.org/abs/2603.05129)|
-|**2026-03-05**|**Towards Robust Retrieval-Augmented Generation Based on Knowledge Graph: A Comparative Analysis**|Hazem Amamou et.al.|[2603.05698_(CHES)](http://arxiv.org/abs/2603.05698)|
 |**2026-03-03**|**His2Trans: A Skeleton First Framework for Self Evolving C to Rust Translation with Historical Retrieval**|Shengbo Wang et.al.|[2603.02617](http://arxiv.org/abs/2603.02617)|
 |**2026-02-28**|**MED-COPILOT: A Medical Assistant Powered by GraphRAG and Similar Patient Case Retrieval**|Shuheng Chen et.al.|[2603.00460](http://arxiv.org/abs/2603.00460)|
 |**2026-02-27**|**Multi-Sourced, Multi-Agent Evidence Retrieval for Fact-Checking**|Shuzhi Gong et.al.|[2603.00267](http://arxiv.org/abs/2603.00267)|
