@@ -6,11 +6,14 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.03.11_
+_Updated on 2026.03.12_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-03-11**|**KV Cache Transform Coding for Compact Storage in LLM Inference**|Konrad Staniszewski et.al.|[2511.01815_(ICLR)](http://arxiv.org/abs/2511.01815)|
+|**2026-03-11**|**Beyond Max Tokens: Stealthy Resource Amplification via Tool Calling Chains in LLM Agents**|Kaiyu Zhou et.al.|[2601.10955](http://arxiv.org/abs/2601.10955)|
 |**2026-03-10**|**Reasoning Efficiently Through Adaptive Chain-of-Thought Compression: A Self-Optimizing Framework**|Kerui Huang et.al.|[2509.14093](http://arxiv.org/abs/2509.14093)|
+|**2026-03-10**|**ThunderAgent: A Simple, Fast and Program-Aware Agentic Inference System**|Hao Kang et.al.|[2602.13692](http://arxiv.org/abs/2602.13692)|
 |**2026-03-09**|**FreeKV: Boosting KV Cache Retrieval for Efficient LLM Inference**|Guangda Liu et.al.|[2505.13109](http://arxiv.org/abs/2505.13109)|
 |**2026-03-09**|**EAGLE-Pangu: Accelerator-Safe Tree Speculative Decoding on Ascend NPUs**|Chang Han et.al.|[2603.08088](http://arxiv.org/abs/2603.08088)|
 |**2026-03-09**|**LycheeCluster: Efficient Long-Context Inference with Structure-Aware Chunking and Hierarchical KV Indexing**|Dongfang Li et.al.|[2603.08453](http://arxiv.org/abs/2603.08453)|
@@ -36,7 +39,6 @@ _Updated on 2026.03.11_
 |**2026-02-19**|**ARKV: Adaptive and Resource-Efficient KV Cache Management under Limited Memory Budget for Long-Context Inference in LLMs**|Jianlong Lei et.al.|[2603.08727](http://arxiv.org/abs/2603.08727)|
 |**2026-02-17**|**Intermittent Semi-Working Mask: A New Masking Paradigm for LLMs**|HaoYuan Hu et.al.|[2408.00539](http://arxiv.org/abs/2408.00539)|
 |**2026-02-14**|**KVCache Cache in the Wild: Characterizing and Optimizing KVCache Cache at a Large Cloud Provider**|Jiahao Wang et.al.|[2506.02634_(ATC)](http://arxiv.org/abs/2506.02634)|
-|**2026-02-14**|**ThunderAgent: A Simple, Fast and Program-Aware Agentic Inference System**|Hao Kang et.al.|[2602.13692](http://arxiv.org/abs/2602.13692)|
 |**2026-02-13**|**Doc-to-LoRA: Learning to Instantly Internalize Contexts**|Rujikorn Charakorn et.al.|[2602.15902](http://arxiv.org/abs/2602.15902)|
 |**2026-02-12**|**Efficient Remote Prefix Fetching with GPU-native Media ASICs**|Liang Mi et.al.|[2602.09725](http://arxiv.org/abs/2602.09725)|
 |**2026-02-12**|**SnapMLA: Efficient Long-Context MLA Decoding via Hardware-Aware FP8 Quantized Pipelining**|Yifan Zhang et.al.|[2602.10718](http://arxiv.org/abs/2602.10718)|
@@ -86,7 +88,6 @@ _Updated on 2026.03.11_
 |**2026-01-19**|**Sutradhara: An Intelligent Orchestrator-Engine Co-design for Tool-based Agentic Inference**|Anish Biswas et.al.|[2601.12967](http://arxiv.org/abs/2601.12967)|
 |**2026-01-19**|**From Prefix Cache to Fusion RAG Cache: Accelerating LLM Inference in Retrieval-Augmented Generation**|Jiahao Wang et.al.|[2601.12904](http://arxiv.org/abs/2601.12904)|
 |**2026-01-18**|**Rethinking the Value of Multi-Agent Workflow: A Strong Single Agent Baseline**|Jiawei Xu et.al.|[2601.12307](http://arxiv.org/abs/2601.12307)|
-|**2026-01-16**|**Beyond Max Tokens: Stealthy Resource Amplification via Tool Calling Chains in LLM Agents**|Kaiyu Zhou et.al.|[2601.10955](http://arxiv.org/abs/2601.10955)|
 |**2026-01-16**|**RAPID-Serve: Resource-efficient and Accelerated P/D Intra-GPU Disaggregation**|Amna Masood et.al.|[2601.11822](http://arxiv.org/abs/2601.11822)|
 |**2026-01-15**|**Online Scheduling for LLM Inference with KV Cache Constraints**|Patrick Jaillet et.al.|[2502.07115](http://arxiv.org/abs/2502.07115)|
 |**2026-01-15**|**AdaptCache: KV Cache Native Storage Hierarchy for Low-Delay and High-Quality Language Model Serving**|Shaoting Feng et.al.|[2509.00105_(SOSP)](http://arxiv.org/abs/2509.00105)|
@@ -180,7 +181,6 @@ _Updated on 2026.03.11_
 |**2025-11-05**|**AnchorTP: Resilient LLM Inference with State-Preserving Elastic Tensor Parallelism**|Wendong Xu et.al.|[2511.11617_(DATE)](http://arxiv.org/abs/2511.11617)|
 |**2025-11-04**|**LiveSecBench: A Dynamic and Culturally-Relevant AI Safety Benchmark for LLMs in Chinese Context**|Yudong Li et.al.|[2511.02366](http://arxiv.org/abs/2511.02366)|
 |**2025-11-04**|**Optimal-Agent-Selection: State-Aware Routing Framework for Efficient Multi-Agent Collaboration**|Jingbo Wang et.al.|[2511.02200](http://arxiv.org/abs/2511.02200)|
-|**2025-11-03**|**KV Cache Transform Coding for Compact Storage in LLM Inference**|Konrad Staniszewski et.al.|[2511.01815](http://arxiv.org/abs/2511.01815)|
 |**2025-11-03**|**Scaling Graph Chain-of-Thought Reasoning: A Multi-Agent Framework with Efficient LLM Serving**|Chengying Huan et.al.|[2511.01633](http://arxiv.org/abs/2511.01633)|
 |**2025-11-03**|**TPS-Bench: Evaluating AI Agents' Tool Planning \& Scheduling Abilities in Compounding Tasks**|Hanwen Xu et.al.|[2511.01527](http://arxiv.org/abs/2511.01527)|
 |**2025-11-02**|**HEXGEN-FLOW: Optimizing LLM Inference Request Scheduling for Agentic Text-to-SQL**|You Peng et.al.|[2505.05286](http://arxiv.org/abs/2505.05286)|

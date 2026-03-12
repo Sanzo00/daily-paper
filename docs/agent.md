@@ -6,10 +6,13 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.03.11_
+_Updated on 2026.03.12_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-03-11**|**Beyond Max Tokens: Stealthy Resource Amplification via Tool Calling Chains in LLM Agents**|Kaiyu Zhou et.al.|[2601.10955](http://arxiv.org/abs/2601.10955)|
+|**2026-03-11**|**BLITZRANK: Principled Zero-shot Ranking Agents with Tournament Graphs**|Sheshansh Agrawal et.al.|[2602.05448](http://arxiv.org/abs/2602.05448)|
+|**2026-03-10**|**ThunderAgent: A Simple, Fast and Program-Aware Agentic Inference System**|Hao Kang et.al.|[2602.13692](http://arxiv.org/abs/2602.13692)|
 |**2026-03-10**|**FlexServe: A Fast and Secure LLM Serving System for Mobile Devices with Flexible Resource Isolation**|Yinpeng Wu et.al.|[2603.09046](http://arxiv.org/abs/2603.09046)|
 |**2026-03-09**|**Advancing Automated Algorithm Design via Evolutionary Stagewise Design with LLMs**|Chen Lu et.al.|[2603.07970](http://arxiv.org/abs/2603.07970)|
 |**2026-03-06**|**Characterizing Faults in Agentic AI: A Taxonomy of Types, Symptoms, and Root Causes**|Mehil B Shah et.al.|[2603.06847](http://arxiv.org/abs/2603.06847)|
@@ -42,7 +45,6 @@ _Updated on 2026.03.11_
 |**2026-02-16**|**OpenAgentSafety: A Comprehensive Framework for Evaluating Real-World AI Agent Safety**|Sanidhya Vijayvargiya et.al.|[2507.06134_(ICLR)](http://arxiv.org/abs/2507.06134)|
 |**2026-02-16**|**Efficient Multi-round LLM Inference over Disaggregated Serving**|Wenhao He et.al.|[2602.14516](http://arxiv.org/abs/2602.14516)|
 |**2026-02-15**|**HyMem: Hybrid Memory Architecture with Dynamic Retrieval Scheduling**|Xiaochen Zhao et.al.|[2602.13933](http://arxiv.org/abs/2602.13933)|
-|**2026-02-14**|**ThunderAgent: A Simple, Fast and Program-Aware Agentic Inference System**|Hao Kang et.al.|[2602.13692](http://arxiv.org/abs/2602.13692)|
 |**2026-02-12**|**PrefillShare: A Shared Prefill Module for KV Reuse in Multi-LLM Disaggregated Serving**|Sunghyeon Woo et.al.|[2602.12029](http://arxiv.org/abs/2602.12029)|
 |**2026-02-12**|**Deep Kernel Fusion for Transformers**|Zixi Zhang et.al.|[2602.11808](http://arxiv.org/abs/2602.11808)|
 |**2026-02-10**|**AOI: Context-Aware Multi-Agent Operations via Dynamic Scheduling and Hierarchical Memory Compression**|Zishan Bai et.al.|[2512.13956](http://arxiv.org/abs/2512.13956)|
@@ -50,7 +52,6 @@ _Updated on 2026.03.11_
 |**2026-02-10**|**ATPO: Adaptive Tree Policy Optimization for Multi-Turn Medical Dialogue**|Ruike Cao et.al.|[2603.02216_(ICLR)](http://arxiv.org/abs/2603.02216)|
 |**2026-02-09**|**Dr. MAS: Stable Reinforcement Learning for Multi-Agent LLM Systems**|Lang Feng et.al.|[2602.08847](http://arxiv.org/abs/2602.08847)|
 |**2026-02-08**|**DeltaKV: Residual-Based KV Cache Compression via Long-Range Similarity**|Jitai Hao et.al.|[2602.08005](http://arxiv.org/abs/2602.08005)|
-|**2026-02-06**|**BLITZRANK: Principled Zero-shot Ranking Agents with Tournament Graphs**|Sheshansh Agrawal et.al.|[2602.05448](http://arxiv.org/abs/2602.05448)|
 |**2026-02-06**|**Lemon Agent Technical Report**|Haipeng Jiang et.al.|[2602.07092](http://arxiv.org/abs/2602.07092)|
 |**2026-02-05**|**AriadneMem: Threading the Maze of Lifelong Memory for LLM Agents**|Wenhui Zhu et.al.|[2603.03290](http://arxiv.org/abs/2603.03290)|
 |**2026-02-03**|**Cortex: Achieving Low-Latency, Cost-Efficient Remote Data Access For LLM via Semantic-Aware Knowledge Caching**|Chaoyi Ruan et.al.|[2509.17360](http://arxiv.org/abs/2509.17360)|
@@ -78,7 +79,6 @@ _Updated on 2026.03.11_
 |**2026-01-19**|**Sutradhara: An Intelligent Orchestrator-Engine Co-design for Tool-based Agentic Inference**|Anish Biswas et.al.|[2601.12967](http://arxiv.org/abs/2601.12967)|
 |**2026-01-19**|**IntAgent: NWDAF-Based Intent LLM Agent Towards Advanced Next Generation Networks**|Abdelrahman Soliman et.al.|[2601.13114](http://arxiv.org/abs/2601.13114)|
 |**2026-01-18**|**Rethinking the Value of Multi-Agent Workflow: A Strong Single Agent Baseline**|Jiawei Xu et.al.|[2601.12307](http://arxiv.org/abs/2601.12307)|
-|**2026-01-16**|**Beyond Max Tokens: Stealthy Resource Amplification via Tool Calling Chains in LLM Agents**|Kaiyu Zhou et.al.|[2601.10955](http://arxiv.org/abs/2601.10955)|
 |**2026-01-16**|**AstroReason-Bench: Evaluating Unified Agentic Planning across Heterogeneous Space Planning Problems**|Weiyi Wang et.al.|[2601.11354](http://arxiv.org/abs/2601.11354)|
 |**2026-01-13**|**StackPilot: Autonomous Function Agents for Scalable and Environment-Free Code Execution**|Xinkui Zhao et.al.|[2508.11665](http://arxiv.org/abs/2508.11665)|
 |**2026-01-13**|**When KV Cache Reuse Fails in Multi-Agent Systems: Cross-Candidate Interaction is Crucial for LLM Judges**|Sichu Liang et.al.|[2601.08343](http://arxiv.org/abs/2601.08343)|
