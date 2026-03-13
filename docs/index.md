@@ -6,11 +6,15 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.03.12_
+_Updated on 2026.03.13_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-03-12**|**ARK: Answer-Centric Retriever Tuning via KG-augmented Curriculum Learning**|Jiawei Zhou et.al.|[2511.16326](http://arxiv.org/abs/2511.16326)|
+|**2026-03-12**|**KEPo: Knowledge Evolution Poison on Graph-based Retrieval-Augmented Generation**|Qizhi Chen et.al.|[2603.11501_(WWW)](http://arxiv.org/abs/2603.11501)|
+|**2026-03-12**|**DocSage: An Information Structuring Agent for Multi-Doc Multi-Entity Question Answering**|Teng Lin et.al.|[2603.11798](http://arxiv.org/abs/2603.11798)|
 |**2026-03-11**|**Beyond Max Tokens: Stealthy Resource Amplification via Tool Calling Chains in LLM Agents**|Kaiyu Zhou et.al.|[2601.10955](http://arxiv.org/abs/2601.10955)|
+|**2026-03-11**|**MDER-DR: Multi-Hop Question Answering with Entity-Centric Summaries**|Riccardo Campi et.al.|[2603.11223_(SC)](http://arxiv.org/abs/2603.11223)|
 |**2026-03-10**|**Samyama: A Unified Graph-Vector Database with In-Database Optimization, Agentic Enrichment, and Hardware Acceleration**|Madhulatha Mandarapu et.al.|[2603.08036](http://arxiv.org/abs/2603.08036)|
 |**2026-03-10**|**MMGraphRAG: Bridging Vision and Language with Interpretable Multimodal Knowledge Graphs**|Xueyao Wan et.al.|[2507.20804](http://arxiv.org/abs/2507.20804)|
 |**2026-03-10**|**TaSR-RAG: Taxonomy-guided Structured Reasoning for Retrieval-Augmented Generation**|Jiashuo Sun et.al.|[2603.09341](http://arxiv.org/abs/2603.09341)|
@@ -133,7 +137,6 @@ _Updated on 2026.03.12_
 |**2025-11-25**|**HyperbolicRAG: Enhancing Retrieval-Augmented Generation with Hyperbolic Representations**|Linxiao Cao et.al.|[2511.18808](http://arxiv.org/abs/2511.18808)|
 |**2025-11-24**|**Human Cognition Inspired RAG with Knowledge Graph for Complex Problem Solving**|Yao Cheng et.al.|[2503.06567_(AAAI)](http://arxiv.org/abs/2503.06567)|
 |**2025-11-24**|**Concept than Document: Context Compression via AMR-based Conceptual Entropy**|Kaize Shi et.al.|[2511.18832](http://arxiv.org/abs/2511.18832)|
-|**2025-11-20**|**ARK: Answer-Centric Retriever Tuning via KG-augmented Curriculum Learning**|Jiawei Zhou et.al.|[2511.16326](http://arxiv.org/abs/2511.16326)|
 |**2025-11-19**|**ReFactX: Scalable Reasoning with Reliable Facts via Constrained Generation**|Riccardo Pozzi et.al.|[2508.16983_(ISWC)](http://arxiv.org/abs/2508.16983)|
 |**2025-11-18**|**NeuroPath: Neurobiology-Inspired Path Tracking and Reflection for Semantically Coherent Retrieval**|Junchen Li et.al.|[2511.14096_(NeurIPS)](http://arxiv.org/abs/2511.14096)|
 |**2025-11-17**|**Beyond Chains: Bridging Large Language Models and Knowledge Bases in Complex Question Answering**|Yihua Zhu et.al.|[2505.14099_(AAAI)](http://arxiv.org/abs/2505.14099)|
