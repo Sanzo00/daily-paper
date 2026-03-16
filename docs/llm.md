@@ -6,10 +6,11 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.03.15_
+_Updated on 2026.03.16_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-03-13**|**Cost-Efficient Multimodal LLM Inference via Cross-Tier GPU Heterogeneity**|Donglin Yu et.al.|[2603.12707](http://arxiv.org/abs/2603.12707)|
 |**2026-03-11**|**KV Cache Transform Coding for Compact Storage in LLM Inference**|Konrad Staniszewski et.al.|[2511.01815_(ICLR)](http://arxiv.org/abs/2511.01815)|
 |**2026-03-11**|**Beyond Max Tokens: Stealthy Resource Amplification via Tool Calling Chains in LLM Agents**|Kaiyu Zhou et.al.|[2601.10955](http://arxiv.org/abs/2601.10955)|
 |**2026-03-10**|**Reasoning Efficiently Through Adaptive Chain-of-Thought Compression: A Self-Optimizing Framework**|Kerui Huang et.al.|[2509.14093](http://arxiv.org/abs/2509.14093)|

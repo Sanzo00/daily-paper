@@ -6,13 +6,14 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.03.15_
+_Updated on 2026.03.16_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
 |**2026-03-12**|**ARK: Answer-Centric Retriever Tuning via KG-augmented Curriculum Learning**|Jiawei Zhou et.al.|[2511.16326](http://arxiv.org/abs/2511.16326)|
 |**2026-03-12**|**KEPo: Knowledge Evolution Poison on Graph-based Retrieval-Augmented Generation**|Qizhi Chen et.al.|[2603.11501_(WWW)](http://arxiv.org/abs/2603.11501)|
 |**2026-03-12**|**DocSage: An Information Structuring Agent for Multi-Doc Multi-Entity Question Answering**|Teng Lin et.al.|[2603.11798](http://arxiv.org/abs/2603.11798)|
+|**2026-03-12**|**Shattering the Shortcut: A Topology-Regularized Benchmark for Multi-hop Medical Reasoning in LLMs**|Xing Zi et.al.|[2603.12458](http://arxiv.org/abs/2603.12458)|
 |**2026-03-11**|**Beyond Max Tokens: Stealthy Resource Amplification via Tool Calling Chains in LLM Agents**|Kaiyu Zhou et.al.|[2601.10955](http://arxiv.org/abs/2601.10955)|
 |**2026-03-11**|**MDER-DR: Multi-Hop Question Answering with Entity-Centric Summaries**|Riccardo Campi et.al.|[2603.11223_(SC)](http://arxiv.org/abs/2603.11223)|
 |**2026-03-10**|**Samyama: A Unified Graph-Vector Database with In-Database Optimization, Agentic Enrichment, and Hardware Acceleration**|Madhulatha Mandarapu et.al.|[2603.08036](http://arxiv.org/abs/2603.08036)|

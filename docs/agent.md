@@ -6,10 +6,12 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.03.15_
+_Updated on 2026.03.16_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-03-13**|**AgentRM: An OS-Inspired Resource Manager for LLM Agent Systems**|Jianshu She et.al.|[2603.13110](http://arxiv.org/abs/2603.13110)|
+|**2026-03-13**|**ARL-Tangram: Unleash the Resource Efficiency in Agentic Reinforcement Learning**|Bangjun Xiao et.al.|[2603.13019](http://arxiv.org/abs/2603.13019)|
 |**2026-03-12**|**Slow-Fast Inference: Training-Free Inference Acceleration via Within-Sentence Support Stability**|Xingyu Xie et.al.|[2603.12038](http://arxiv.org/abs/2603.12038)|
 |**2026-03-11**|**Beyond Max Tokens: Stealthy Resource Amplification via Tool Calling Chains in LLM Agents**|Kaiyu Zhou et.al.|[2601.10955](http://arxiv.org/abs/2601.10955)|
 |**2026-03-11**|**BLITZRANK: Principled Zero-shot Ranking Agents with Tournament Graphs**|Sheshansh Agrawal et.al.|[2602.05448](http://arxiv.org/abs/2602.05448)|
