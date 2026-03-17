@@ -6,12 +6,14 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.03.16_
+_Updated on 2026.03.17_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-03-15**|**KEPo: Knowledge Evolution Poison on Graph-based Retrieval-Augmented Generation**|Qizhi Chen et.al.|[2603.11501_(WWW)](http://arxiv.org/abs/2603.11501)|
+|**2026-03-14**|**Beyond Explicit Edges: Robust Reasoning over Noisy and Sparse Knowledge Graphs**|Hang Gao et.al.|[2603.14006](http://arxiv.org/abs/2603.14006)|
+|**2026-03-14**|**The Reasoning Bottleneck in Graph-RAG: Structured Prompting and Context Compression for Multi-Hop QA**|Yasaman Zarinkia et.al.|[2603.14045](http://arxiv.org/abs/2603.14045)|
 |**2026-03-12**|**ARK: Answer-Centric Retriever Tuning via KG-augmented Curriculum Learning**|Jiawei Zhou et.al.|[2511.16326](http://arxiv.org/abs/2511.16326)|
-|**2026-03-12**|**KEPo: Knowledge Evolution Poison on Graph-based Retrieval-Augmented Generation**|Qizhi Chen et.al.|[2603.11501_(WWW)](http://arxiv.org/abs/2603.11501)|
 |**2026-03-12**|**DocSage: An Information Structuring Agent for Multi-Doc Multi-Entity Question Answering**|Teng Lin et.al.|[2603.11798](http://arxiv.org/abs/2603.11798)|
 |**2026-03-12**|**Shattering the Shortcut: A Topology-Regularized Benchmark for Multi-hop Medical Reasoning in LLMs**|Xing Zi et.al.|[2603.12458](http://arxiv.org/abs/2603.12458)|
 |**2026-03-11**|**Beyond Max Tokens: Stealthy Resource Amplification via Tool Calling Chains in LLM Agents**|Kaiyu Zhou et.al.|[2601.10955](http://arxiv.org/abs/2601.10955)|
@@ -36,6 +38,7 @@ _Updated on 2026.03.16_
 |**2026-02-23**|**NovaLAD: A Fast, CPU-Optimized Document Extraction Pipeline for Generative AI and Data Intelligence**|Aman Ulla et.al.|[2603.00122](http://arxiv.org/abs/2603.00122)|
 |**2026-02-22**|**Topology of Reasoning: Retrieved Cell Complex-Augmented Generation for Textual Graph Question Answering**|Sen Zhao et.al.|[2602.19240](http://arxiv.org/abs/2602.19240)|
 |**2026-02-21**|**Adaptive Collaboration of Arena-Based Argumentative LLMs for Explainable and Contestable Legal Reasoning**|Hoang-Loc Cao et.al.|[2602.18916](http://arxiv.org/abs/2602.18916)|
+|**2026-02-20**|**Agentic AI, Retrieval-Augmented Generation, and the Institutional Turn: Legal Architectures and Financial Governance in the Age of Distributional AGI**|Marcel Osmond et.al.|[2603.13244_(DIS)](http://arxiv.org/abs/2603.13244)|
 |**2026-02-19**|**Enhancing Large Language Models (LLMs) for Telecom using Dynamic Knowledge Graphs and Explainable Retrieval-Augmented Generation**|Dun Yuan et.al.|[2602.17529](http://arxiv.org/abs/2602.17529)|
 |**2026-02-18**|**Retrieval Augmented Generation of Literature-derived Polymer Knowledge: The Example of a Biodegradable Polymer Expert System**|Sonakshi Gupta et.al.|[2602.16650](http://arxiv.org/abs/2602.16650)|
 |**2026-02-17**|**Aeon: High-Performance Neuro-Symbolic Memory Management for Long-Horizon LLM Agents**|Mustafa Arslan et.al.|[2601.15311](http://arxiv.org/abs/2601.15311)|

@@ -6,11 +6,18 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.03.16_
+_Updated on 2026.03.17_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-03-15**|**Learning to Forget: Sleep-Inspired Memory Consolidation for Resolving Proactive Interference in Large Language Models**|Ying Xie et.al.|[2603.14517](http://arxiv.org/abs/2603.14517)|
+|**2026-03-15**|**Self-Indexing KVCache: Predicting Sparse Attention from Compressed Keys**|Xu Yang et.al.|[2603.14224](http://arxiv.org/abs/2603.14224)|
+|**2026-03-14**|**StreamingTOM: Streaming Token Compression for Efficient Video Understanding**|Xueyi Chen et.al.|[2510.18269_(CVPR)](http://arxiv.org/abs/2510.18269)|
+|**2026-03-14**|**DSB: Dynamic Sliding Block Scheduling for Diffusion LLMs**|Lizhuo Luo et.al.|[2602.05992](http://arxiv.org/abs/2602.05992)|
 |**2026-03-13**|**Cost-Efficient Multimodal LLM Inference via Cross-Tier GPU Heterogeneity**|Donglin Yu et.al.|[2603.12707](http://arxiv.org/abs/2603.12707)|
+|**2026-03-13**|**Orla: A Library for Serving LLM-Based Multi-Agent Systems**|Rana Shahout et.al.|[2603.13605](http://arxiv.org/abs/2603.13605)|
+|**2026-03-13**|**StatePlane: A Cognitive State Plane for Long-Horizon AI Systems Under Bounded Context**|Sasank Annapureddy et.al.|[2603.13644](http://arxiv.org/abs/2603.13644)|
+|**2026-03-12**|**Accelerating Suffix Jailbreak attacks with Prefix-Shared KV-cache**|Xinhai Wang et.al.|[2603.13420](http://arxiv.org/abs/2603.13420)|
 |**2026-03-11**|**KV Cache Transform Coding for Compact Storage in LLM Inference**|Konrad Staniszewski et.al.|[2511.01815_(ICLR)](http://arxiv.org/abs/2511.01815)|
 |**2026-03-11**|**Beyond Max Tokens: Stealthy Resource Amplification via Tool Calling Chains in LLM Agents**|Kaiyu Zhou et.al.|[2601.10955](http://arxiv.org/abs/2601.10955)|
 |**2026-03-10**|**Reasoning Efficiently Through Adaptive Chain-of-Thought Compression: A Self-Optimizing Framework**|Kerui Huang et.al.|[2509.14093](http://arxiv.org/abs/2509.14093)|
@@ -18,6 +25,7 @@ _Updated on 2026.03.16_
 |**2026-03-09**|**FreeKV: Boosting KV Cache Retrieval for Efficient LLM Inference**|Guangda Liu et.al.|[2505.13109](http://arxiv.org/abs/2505.13109)|
 |**2026-03-09**|**EAGLE-Pangu: Accelerator-Safe Tree Speculative Decoding on Ascend NPUs**|Chang Han et.al.|[2603.08088](http://arxiv.org/abs/2603.08088)|
 |**2026-03-09**|**LycheeCluster: Efficient Long-Context Inference with Structure-Aware Chunking and Hierarchical KV Indexing**|Dongfang Li et.al.|[2603.08453](http://arxiv.org/abs/2603.08453)|
+|**2026-03-09**|**Not All Prefills Are Equal: PPD Disaggregation for Multi-turn LLM Serving**|Zongze Li et.al.|[2603.13358](http://arxiv.org/abs/2603.13358)|
 |**2026-03-08**|**Skip to the Good Part: Representation Structure & Inference-Time Layer Skipping in Diffusion vs. Autoregressive LLMs**|Raghavv Goel et.al.|[2603.07475_(ICLR)](http://arxiv.org/abs/2603.07475)|
 |**2026-03-06**|**Good-Enough LLM Obfuscation (GELO)**|Anatoly Belikov et.al.|[2603.05035](http://arxiv.org/abs/2603.05035)|
 |**2026-03-05**|**Hardware-Software Co-design for 3D-DRAM-based LLM Serving Accelerator**|Cong Li et.al.|[2603.04797](http://arxiv.org/abs/2603.04797)|
@@ -32,7 +40,9 @@ _Updated on 2026.03.16_
 |**2026-03-01**|**Cache What Lasts: Token Retention for Memory-Bounded KV Cache in LLMs**|Ngoc Bui et.al.|[2512.03324](http://arxiv.org/abs/2512.03324)|
 |**2026-03-01**|**Zipage: Maintain High Request Concurrency for LLM Reasoning through Compressed PagedAttention**|Mengqi Liao et.al.|[2603.08743](http://arxiv.org/abs/2603.08743)|
 |**2026-02-28**|**FASA: Frequency-aware Sparse Attention**|Yifei Wang et.al.|[2602.03152_(ICLR)](http://arxiv.org/abs/2602.03152)|
+|**2026-02-28**|**RelayCaching: Accelerating LLM Collaboration via Decoding KV Cache Reuse**|Yingsheng Geng et.al.|[2603.13289](http://arxiv.org/abs/2603.13289)|
 |**2026-02-27**|**SideQuest: Model-Driven KV Cache Management for Long-Horizon Agentic Reasoning**|Sanjay Kariyappa et.al.|[2602.22603](http://arxiv.org/abs/2602.22603)|
+|**2026-02-27**|**ICaRus: Identical Cache Reuse for Efficient Multi Model Inference**|Sunghyeon Woo et.al.|[2603.13281](http://arxiv.org/abs/2603.13281)|
 |**2026-02-26**|**DualPath: Breaking the Storage Bandwidth Bottleneck in Agentic LLM Inference**|Yongtong Wu et.al.|[2602.21548](http://arxiv.org/abs/2602.21548)|
 |**2026-02-23**|**ContextPilot: Fast Long-Context Inference via Context Reuse**|Yinsicheng Jiang et.al.|[2511.03475](http://arxiv.org/abs/2511.03475)|
 |**2026-02-21**|**Esoteric Language Models: Bridging Autoregressive and Masked Diffusion LLMs**|Subham Sekhar Sahoo et.al.|[2506.01928](http://arxiv.org/abs/2506.01928)|
@@ -56,7 +66,6 @@ _Updated on 2026.03.16_
 |**2026-02-08**|**Rethinking Latency Denial-of-Service: Attacking the LLM Serving Framework, Not the Model**|Tianyi Wang et.al.|[2602.07878](http://arxiv.org/abs/2602.07878)|
 |**2026-02-08**|**DeltaKV: Residual-Based KV Cache Compression via Long-Range Similarity**|Jitai Hao et.al.|[2602.08005](http://arxiv.org/abs/2602.08005)|
 |**2026-02-06**|**DualMap: Enabling Both Cache Affinity and Load Balancing for Distributed LLM Serving**|Ying Yuan et.al.|[2602.06502](http://arxiv.org/abs/2602.06502)|
-|**2026-02-05**|**DSB: Dynamic Sliding Block Scheduling for Diffusion LLMs**|Lizhuo Luo et.al.|[2602.05992](http://arxiv.org/abs/2602.05992)|
 |**2026-02-03**|**Accordion-Thinking: Self-Regulated Step Summaries for Efficient and Readable LLM Reasoning**|Zhicheng Yang et.al.|[2602.03249](http://arxiv.org/abs/2602.03249)|
 |**2026-02-03**|**ForesightKV: Optimizing KV Cache Eviction for Reasoning Models by Learning Long-Term Contribution**|Zican Dong et.al.|[2602.03203](http://arxiv.org/abs/2602.03203)|
 |**2026-02-03**|**PackInfer: Compute- and I/O-Efficient Attention for Batched LLM Inference**|Rui Ning et.al.|[2602.06072](http://arxiv.org/abs/2602.06072)|
@@ -209,7 +218,6 @@ _Updated on 2026.03.16_
 |**2025-10-22**|**PTFA: An LLM-based Agent that Facilitates Online Consensus Building through Parallel Thinking**|Wen Gu et.al.|[2503.12499](http://arxiv.org/abs/2503.12499)|
 |**2025-10-21**|**The Early Bird Catches the Leak: Unveiling Timing Side Channels in LLM Serving Systems**|Linke Song et.al.|[2409.20002_(ICS)](http://arxiv.org/abs/2409.20002)|
 |**2025-10-21**|**Reasoning Language Model Inference Serving Unveiled: An Empirical Study**|Qi Li et.al.|[2510.18672](http://arxiv.org/abs/2510.18672)|
-|**2025-10-21**|**StreamingTOM: Streaming Token Compression for Efficient Video Understanding**|Xueyi Chen et.al.|[2510.18269](http://arxiv.org/abs/2510.18269)|
 |**2025-10-21**|**The Trust Paradox in LLM-Based Multi-Agent Systems: When Collaboration Becomes a Security Vulnerability**|Zijie Xu et.al.|[2510.18563](http://arxiv.org/abs/2510.18563)|
 |**2025-10-19**|**STARK: Strategic Team of Agents for Refining Kernels**|Juncheng Dong et.al.|[2510.16996](http://arxiv.org/abs/2510.16996)|
 |**2025-10-18**|**Ripple Effect Protocol: Coordinating Agent Populations**|Ayush Chopra et.al.|[2510.16572](http://arxiv.org/abs/2510.16572)|
