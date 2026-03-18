@@ -6,10 +6,13 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.03.17_
+_Updated on 2026.03.18_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-03-17**|**EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval**|Zebin Yang et.al.|[2510.18546_(NeurIPS)](http://arxiv.org/abs/2510.18546)|
+|**2026-03-17**|**Efficient LLM Serving for Agentic Workflows: A Data Systems Perspective**|Noppanat Wadlom et.al.|[2603.16104](http://arxiv.org/abs/2603.16104)|
+|**2026-03-17**|**Efficient Reasoning on the Edge**|Yelysei Bondarenko et.al.|[2603.16867](http://arxiv.org/abs/2603.16867)|
 |**2026-03-16**|**PAT: Accelerating LLM Decoding via Prefix-Aware Attention with Resource Efficient Multi-Tile Kernel**|Jinjun Yi et.al.|[2511.22333_(ASPLOS)](http://arxiv.org/abs/2511.22333)|
 |**2026-03-16**|**LMetric: Simple is Better - Multiplication May Be All You Need for LLM Request Scheduling**|Dingyan Zhang et.al.|[2603.15202](http://arxiv.org/abs/2603.15202)|
 |**2026-03-16**|**Can LLMs Model Incorrect Student Reasoning? A Case Study on Distractor Generation**|Yanick Zengaffinen et.al.|[2603.15547](http://arxiv.org/abs/2603.15547)|
@@ -161,7 +164,6 @@ _Updated on 2026.03.17_
 |**2025-11-30**|**SIMPLE: Disaggregating Sampling from GPU Inference into a Decision Plane for Faster Distributed LLM Serving**|Bohan Zhao et.al.|[2512.00719](http://arxiv.org/abs/2512.00719)|
 |**2025-11-30**|**SpeContext: Enabling Efficient Long-context Reasoning with Speculative Context Sparsity in LLMs**|Jiaming Xu et.al.|[2512.00722_(ASPLOS)](http://arxiv.org/abs/2512.00722)|
 |**2025-11-29**|**G-KV: Decoding-Time KV Cache Eviction with Global Attention**|Mengqi Liao et.al.|[2512.00504](http://arxiv.org/abs/2512.00504)|
-|**2025-11-27**|**EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval**|Zebin Yang et.al.|[2510.18546_(NeurIPS)](http://arxiv.org/abs/2510.18546)|
 |**2025-11-27**|**Q-KVComm: Efficient Multi-Agent Communication Via Adaptive KV Cache Compression**|Boris Kriuk et.al.|[2512.17914](http://arxiv.org/abs/2512.17914)|
 |**2025-11-26**|**No Request Left Behind: Tackling Heterogeneity in Long-Context LLM Inference with Medha**|Amey Agrawal et.al.|[2409.17264](http://arxiv.org/abs/2409.17264)|
 |**2025-11-26**|**Efficient Multi-Adapter LLM Serving via Cross-Model KV-Cache Reuse with Activated LoRA**|Allison Li et.al.|[2512.17910](http://arxiv.org/abs/2512.17910)|

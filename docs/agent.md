@@ -6,10 +6,12 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.03.17_
+_Updated on 2026.03.18_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-03-17**|**EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval**|Zebin Yang et.al.|[2510.18546_(NeurIPS)](http://arxiv.org/abs/2510.18546)|
+|**2026-03-17**|**Efficient LLM Serving for Agentic Workflows: A Data Systems Perspective**|Noppanat Wadlom et.al.|[2603.16104](http://arxiv.org/abs/2603.16104)|
 |**2026-03-16**|**LMetric: Simple is Better - Multiplication May Be All You Need for LLM Request Scheduling**|Dingyan Zhang et.al.|[2603.15202](http://arxiv.org/abs/2603.15202)|
 |**2026-03-15**|**OxyGen: Unified KV Cache Management for Vision-Language-Action Models under Multi-Task Parallelism**|Xiangyu Li et.al.|[2603.14371](http://arxiv.org/abs/2603.14371)|
 |**2026-03-14**|**ATCC: Adaptive Concurrency Control for Unforeseen Agentic Transactions**|Weixing Zhou et.al.|[2603.13906](http://arxiv.org/abs/2603.13906)|
@@ -29,6 +31,7 @@ _Updated on 2026.03.17_
 |**2026-03-05**|**PerfGuard: A Performance-Aware Agent for Visual Content Generation**|Zhipeng Chen et.al.|[2601.22571_(FG)](http://arxiv.org/abs/2601.22571)|
 |**2026-03-04**|**ChatNeuroSim: An LLM Agent Framework for Automated Compute-in-Memory Accelerator Deployment and Optimization**|Ming-Yen Lee et.al.|[2603.08745](http://arxiv.org/abs/2603.08745)|
 |**2026-03-03**|**ParEVO: Synthesizing Code for Irregular Data: High-Performance Parallelism through Agentic Evolution**|Liu Yang et.al.|[2603.02510](http://arxiv.org/abs/2603.02510)|
+|**2026-03-03**|**CraniMem: Cranial Inspired Gated and Bounded Memory for Agentic Systems**|Pearl Mody et.al.|[2603.15642](http://arxiv.org/abs/2603.15642)|
 |**2026-03-02**|**SimuHome: A Temporal- and Environment-Aware Benchmark for Smart Home LLM Agents**|Gyuhyeon Seo et.al.|[2509.24282_(ICLR)](http://arxiv.org/abs/2509.24282)|
 |**2026-03-02**|**Solving the Granularity Mismatch: Hierarchical Preference Learning for Long-Horizon LLM Agents**|Heyang Gao et.al.|[2510.03253_(ICLR)](http://arxiv.org/abs/2510.03253)|
 |**2026-03-02**|**HeRo: Adaptive Orchestration of Agentic RAG on Heterogeneous Mobile SoC**|Maoliang Li et.al.|[2603.01661_(DAC)](http://arxiv.org/abs/2603.01661)|
@@ -127,7 +130,6 @@ _Updated on 2026.03.17_
 |**2025-11-29**|**A CPU-Centric Perspective on Agentic AI**|Ritik Raj et.al.|[2511.00739](http://arxiv.org/abs/2511.00739)|
 |**2025-11-28**|**Beyond Curve Fitting: Neuro-Symbolic Agents for Context-Aware Epidemic Forecasting**|Joongwon Chae et.al.|[2511.23276](http://arxiv.org/abs/2511.23276)|
 |**2025-11-28**|**LegalWebAgent: Empowering Access to Justice via LLM-Based Web Agents**|Jinzhe Tan et.al.|[2512.04105](http://arxiv.org/abs/2512.04105)|
-|**2025-11-27**|**EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval**|Zebin Yang et.al.|[2510.18546_(NeurIPS)](http://arxiv.org/abs/2510.18546)|
 |**2025-11-27**|**Optimizing NetGPT via Routing-Based Synergy and Reinforcement Learning**|Yuxuan Chen et.al.|[2511.22217](http://arxiv.org/abs/2511.22217)|
 |**2025-11-27**|**Q-KVComm: Efficient Multi-Agent Communication Via Adaptive KV Cache Compression**|Boris Kriuk et.al.|[2512.17914](http://arxiv.org/abs/2512.17914)|
 |**2025-11-25**|**Reducing Latency of LLM Search Agent via Speculation-based Algorithm-System Co-Design**|Zixiao Huang et.al.|[2511.20048](http://arxiv.org/abs/2511.20048)|

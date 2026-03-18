@@ -6,12 +6,15 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.03.17_
+_Updated on 2026.03.18_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-03-17**|**ExpressMind: A Multimodal Pretrained Large Language Model for Expressway Operation**|Zihe Wang et.al.|[2603.16495](http://arxiv.org/abs/2603.16495)|
+|**2026-03-17**|**IndexRAG: Bridging Facts for Cross-Document Reasoning at Index Time**|Zhenghua Bao et.al.|[2603.16415](http://arxiv.org/abs/2603.16415)|
 |**2026-03-16**|**PAT: Accelerating LLM Decoding via Prefix-Aware Attention with Resource Efficient Multi-Tile Kernel**|Jinjun Yi et.al.|[2511.22333_(ASPLOS)](http://arxiv.org/abs/2511.22333)|
 |**2026-03-16**|**OrgForge: A Multi-Agent Simulation Framework for Verifiable Synthetic Corporate Corpora**|Jeffrey Flynt et.al.|[2603.14997](http://arxiv.org/abs/2603.14997)|
+|**2026-03-16**|**RadAnnotate: Large Language Models for Efficient and Reliable Radiology Report Annotation**|Saisha Pradeep Shetty et.al.|[2603.16002_(ICS)](http://arxiv.org/abs/2603.16002)|
 |**2026-03-15**|**KEPo: Knowledge Evolution Poison on Graph-based Retrieval-Augmented Generation**|Qizhi Chen et.al.|[2603.11501_(WWW)](http://arxiv.org/abs/2603.11501)|
 |**2026-03-14**|**Beyond Explicit Edges: Robust Reasoning over Noisy and Sparse Knowledge Graphs**|Hang Gao et.al.|[2603.14006](http://arxiv.org/abs/2603.14006)|
 |**2026-03-14**|**The Reasoning Bottleneck in Graph-RAG: Structured Prompting and Context Compression for Multi-Hop QA**|Yasaman Zarinkia et.al.|[2603.14045](http://arxiv.org/abs/2603.14045)|
@@ -29,6 +32,7 @@ _Updated on 2026.03.17_
 |**2026-03-05**|**Core-based Hierarchies for Efficient GraphRAG**|Jakir Hossain et.al.|[2603.05207](http://arxiv.org/abs/2603.05207)|
 |**2026-03-05**|**MedCoRAG: Interpretable Hepatology Diagnosis via Hybrid Evidence Retrieval and Multispecialty Consensus**|Zheng Li et.al.|[2603.05129](http://arxiv.org/abs/2603.05129)|
 |**2026-03-03**|**His2Trans: A Skeleton First Framework for Self Evolving C to Rust Translation with Historical Retrieval**|Shengbo Wang et.al.|[2603.02617](http://arxiv.org/abs/2603.02617)|
+|**2026-03-03**|**CraniMem: Cranial Inspired Gated and Bounded Memory for Agentic Systems**|Pearl Mody et.al.|[2603.15642](http://arxiv.org/abs/2603.15642)|
 |**2026-02-28**|**MED-COPILOT: A Medical Assistant Powered by GraphRAG and Similar Patient Case Retrieval**|Shuheng Chen et.al.|[2603.00460](http://arxiv.org/abs/2603.00460)|
 |**2026-02-27**|**Multi-Sourced, Multi-Agent Evidence Retrieval for Fact-Checking**|Shuzhi Gong et.al.|[2603.00267](http://arxiv.org/abs/2603.00267)|
 |**2026-02-27**|**A unified foundational framework for knowledge injection and evaluation of Large Language Models in Combustion Science**|Zonglin Yang et.al.|[2603.04452](http://arxiv.org/abs/2603.04452)|
