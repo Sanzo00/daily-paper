@@ -6,10 +6,11 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.03.18_
+_Updated on 2026.03.19_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-03-18**|**The Reasoning Bottleneck in Graph-RAG: Structured Prompting and Context Compression for Multi-Hop QA**|Yasaman Zarrinkia et.al.|[2603.14045](http://arxiv.org/abs/2603.14045)|
 |**2026-03-17**|**ExpressMind: A Multimodal Pretrained Large Language Model for Expressway Operation**|Zihe Wang et.al.|[2603.16495](http://arxiv.org/abs/2603.16495)|
 |**2026-03-17**|**IndexRAG: Bridging Facts for Cross-Document Reasoning at Index Time**|Zhenghua Bao et.al.|[2603.16415](http://arxiv.org/abs/2603.16415)|
 |**2026-03-16**|**PAT: Accelerating LLM Decoding via Prefix-Aware Attention with Resource Efficient Multi-Tile Kernel**|Jinjun Yi et.al.|[2511.22333_(ASPLOS)](http://arxiv.org/abs/2511.22333)|
@@ -17,7 +18,6 @@ _Updated on 2026.03.18_
 |**2026-03-16**|**RadAnnotate: Large Language Models for Efficient and Reliable Radiology Report Annotation**|Saisha Pradeep Shetty et.al.|[2603.16002_(ICS)](http://arxiv.org/abs/2603.16002)|
 |**2026-03-15**|**KEPo: Knowledge Evolution Poison on Graph-based Retrieval-Augmented Generation**|Qizhi Chen et.al.|[2603.11501_(WWW)](http://arxiv.org/abs/2603.11501)|
 |**2026-03-14**|**Beyond Explicit Edges: Robust Reasoning over Noisy and Sparse Knowledge Graphs**|Hang Gao et.al.|[2603.14006](http://arxiv.org/abs/2603.14006)|
-|**2026-03-14**|**The Reasoning Bottleneck in Graph-RAG: Structured Prompting and Context Compression for Multi-Hop QA**|Yasaman Zarinkia et.al.|[2603.14045](http://arxiv.org/abs/2603.14045)|
 |**2026-03-12**|**ARK: Answer-Centric Retriever Tuning via KG-augmented Curriculum Learning**|Jiawei Zhou et.al.|[2511.16326](http://arxiv.org/abs/2511.16326)|
 |**2026-03-12**|**DocSage: An Information Structuring Agent for Multi-Doc Multi-Entity Question Answering**|Teng Lin et.al.|[2603.11798](http://arxiv.org/abs/2603.11798)|
 |**2026-03-12**|**Shattering the Shortcut: A Topology-Regularized Benchmark for Multi-hop Medical Reasoning in LLMs**|Xing Zi et.al.|[2603.12458](http://arxiv.org/abs/2603.12458)|

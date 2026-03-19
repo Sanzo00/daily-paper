@@ -6,12 +6,14 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.03.18_
+_Updated on 2026.03.19_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-03-18**|**IEMAS: An Incentive-Efficiency Routing Framework for Open Agentic Web Ecosystems**|Hongze Liu et.al.|[2603.17302](http://arxiv.org/abs/2603.17302)|
 |**2026-03-17**|**EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval**|Zebin Yang et.al.|[2510.18546_(NeurIPS)](http://arxiv.org/abs/2510.18546)|
 |**2026-03-17**|**Efficient LLM Serving for Agentic Workflows: A Data Systems Perspective**|Noppanat Wadlom et.al.|[2603.16104](http://arxiv.org/abs/2603.16104)|
+|**2026-03-17**|**MetaClaw: Just Talk -- An Agent That Meta-Learns and Evolves in the Wild**|Peng Xia et.al.|[2603.17187](http://arxiv.org/abs/2603.17187)|
 |**2026-03-16**|**LMetric: Simple is Better - Multiplication May Be All You Need for LLM Request Scheduling**|Dingyan Zhang et.al.|[2603.15202](http://arxiv.org/abs/2603.15202)|
 |**2026-03-15**|**OxyGen: Unified KV Cache Management for Vision-Language-Action Models under Multi-Task Parallelism**|Xiangyu Li et.al.|[2603.14371](http://arxiv.org/abs/2603.14371)|
 |**2026-03-14**|**ATCC: Adaptive Concurrency Control for Unforeseen Agentic Transactions**|Weixing Zhou et.al.|[2603.13906](http://arxiv.org/abs/2603.13906)|

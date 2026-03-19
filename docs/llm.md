@@ -6,10 +6,15 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.03.18_
+_Updated on 2026.03.19_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-03-18**|**Multi-stage Flow Scheduling for LLM Serving**|Yijun Sun et.al.|[2603.17456](http://arxiv.org/abs/2603.17456)|
+|**2026-03-18**|**The 1/W Law: An Analytical Study of Context-Length Routing Topology and GPU Generation Gains for LLM Inference Energy Efficiency**|Huamin Chen et.al.|[2603.17280](http://arxiv.org/abs/2603.17280)|
+|**2026-03-18**|**Swarm: Co-Activation Aware KVCache Offloading Across Multiple SSDs**|Tuowei Wang et.al.|[2603.17803](http://arxiv.org/abs/2603.17803)|
+|**2026-03-18**|**Learning When to Attend: Conditional Memory Access for Long-Context LLMs**|Sakshi Choudhary et.al.|[2603.17484](http://arxiv.org/abs/2603.17484)|
+|**2026-03-18**|**IEMAS: An Incentive-Efficiency Routing Framework for Open Agentic Web Ecosystems**|Hongze Liu et.al.|[2603.17302](http://arxiv.org/abs/2603.17302)|
 |**2026-03-17**|**EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval**|Zebin Yang et.al.|[2510.18546_(NeurIPS)](http://arxiv.org/abs/2510.18546)|
 |**2026-03-17**|**Efficient LLM Serving for Agentic Workflows: A Data Systems Perspective**|Noppanat Wadlom et.al.|[2603.16104](http://arxiv.org/abs/2603.16104)|
 |**2026-03-17**|**Efficient Reasoning on the Edge**|Yelysei Bondarenko et.al.|[2603.16867](http://arxiv.org/abs/2603.16867)|
