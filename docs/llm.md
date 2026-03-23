@@ -6,10 +6,11 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.03.22_
+_Updated on 2026.03.23_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-03-20**|**Understanding and Optimizing Multi-Stage AI Inference Pipelines**|Abhimanyu Rajeshkumar Bambhaniya et.al.|[2504.09775](http://arxiv.org/abs/2504.09775)|
 |**2026-03-19**|**StreamingThinker: Large Language Models Can Think While Reading**|Junlong Tong et.al.|[2510.17238_(ICLR)](http://arxiv.org/abs/2510.17238)|
 |**2026-03-18**|**Multi-stage Flow Scheduling for LLM Serving**|Yijun Sun et.al.|[2603.17456](http://arxiv.org/abs/2603.17456)|
 |**2026-03-18**|**The 1/W Law: An Analytical Study of Context-Length Routing Topology and GPU Generation Gains for LLM Inference Energy Efficiency**|Huamin Chen et.al.|[2603.17280](http://arxiv.org/abs/2603.17280)|
@@ -172,7 +173,6 @@ _Updated on 2026.03.22_
 |**2025-11-27**|**Q-KVComm: Efficient Multi-Agent Communication Via Adaptive KV Cache Compression**|Boris Kriuk et.al.|[2512.17914](http://arxiv.org/abs/2512.17914)|
 |**2025-11-26**|**No Request Left Behind: Tackling Heterogeneity in Long-Context LLM Inference with Medha**|Amey Agrawal et.al.|[2409.17264](http://arxiv.org/abs/2409.17264)|
 |**2025-11-26**|**Efficient Multi-Adapter LLM Serving via Cross-Model KV-Cache Reuse with Activated LoRA**|Allison Li et.al.|[2512.17910](http://arxiv.org/abs/2512.17910)|
-|**2025-11-25**|**Understanding and Optimizing Multi-Stage AI Inference Pipelines**|Abhimanyu Rajeshkumar Bambhaniya et.al.|[2504.09775](http://arxiv.org/abs/2504.09775)|
 |**2025-11-25**|**On 10x Better Scalability: KV Stores Scale Up KV Cache**|Weiping Yu et.al.|[2511.16138](http://arxiv.org/abs/2511.16138)|
 |**2025-11-25**|**Inferix: A Block-Diffusion based Next-Generation Inference Engine for World Simulation**|Inferix Team et.al.|[2511.20714](http://arxiv.org/abs/2511.20714)|
 |**2025-11-24**|**SWAN: Sparse Winnowed Attention for Reduced Inference Memory via Decompression-Free KV-Cache Compression**|Santhosh G S et.al.|[2511.18936](http://arxiv.org/abs/2511.18936)|

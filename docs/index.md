@@ -6,10 +6,12 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.03.22_
+_Updated on 2026.03.23_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-03-20**|**Understanding and Optimizing Multi-Stage AI Inference Pipelines**|Abhimanyu Rajeshkumar Bambhaniya et.al.|[2504.09775](http://arxiv.org/abs/2504.09775)|
+|**2026-03-20**|**LLM-Enhanced Semantic Data Integration of Electronic Component Qualifications in the Aerospace Domain**|Antonio De Santis et.al.|[2603.20094](http://arxiv.org/abs/2603.20094)|
 |**2026-03-19**|**DaPT: A Dual-Path Framework for Multilingual Multi-hop Question Answering**|Yilin Wang et.al.|[2603.19097_(ICASSP)](http://arxiv.org/abs/2603.19097)|
 |**2026-03-18**|**The Reasoning Bottleneck in Graph-RAG: Structured Prompting and Context Compression for Multi-Hop QA**|Yasaman Zarrinkia et.al.|[2603.14045](http://arxiv.org/abs/2603.14045)|
 |**2026-03-17**|**ExpressMind: A Multimodal Pretrained Large Language Model for Expressway Operation**|Zihe Wang et.al.|[2603.16495](http://arxiv.org/abs/2603.16495)|
@@ -35,6 +37,7 @@ _Updated on 2026.03.22_
 |**2026-03-03**|**His2Trans: A Skeleton First Framework for Self Evolving C to Rust Translation with Historical Retrieval**|Shengbo Wang et.al.|[2603.02617](http://arxiv.org/abs/2603.02617)|
 |**2026-03-03**|**CraniMem: Cranial Inspired Gated and Bounded Memory for Agentic Systems**|Pearl Mody et.al.|[2603.15642](http://arxiv.org/abs/2603.15642)|
 |**2026-02-28**|**MED-COPILOT: A Medical Assistant Powered by GraphRAG and Similar Patient Case Retrieval**|Shuheng Chen et.al.|[2603.00460](http://arxiv.org/abs/2603.00460)|
+|**2026-02-28**|**From Flat to Structural: Enhancing Automated Short Answer Grading with GraphRAG**|Yucheng Chu et.al.|[2603.19276](http://arxiv.org/abs/2603.19276)|
 |**2026-02-27**|**Multi-Sourced, Multi-Agent Evidence Retrieval for Fact-Checking**|Shuzhi Gong et.al.|[2603.00267](http://arxiv.org/abs/2603.00267)|
 |**2026-02-27**|**A unified foundational framework for knowledge injection and evaluation of Large Language Models in Combustion Science**|Zonglin Yang et.al.|[2603.04452](http://arxiv.org/abs/2603.04452)|
 |**2026-02-27**|**Towards Neural Graph Data Management**|Yufei Li et.al.|[2603.05529](http://arxiv.org/abs/2603.05529)|
@@ -143,7 +146,6 @@ _Updated on 2026.03.22_
 |**2025-11-26**|**Chatty-KG: A Multi-Agent AI System for On-Demand Conversational Question Answering over Knowledge Graphs**|Reham Omar et.al.|[2511.20940_(SIGMOD)](http://arxiv.org/abs/2511.20940)|
 |**2025-11-26**|**Graph-O1 : Monte Carlo Tree Search with Reinforcement Learning for Text-Attributed Graph Reasoning**|Lihui Liu et.al.|[2512.17912](http://arxiv.org/abs/2512.17912)|
 |**2025-11-26**|**MegaRAG: Multimodal Knowledge Graph-Based Retrieval Augmented Generation**|Chi-Hsiang Hsiao et.al.|[2512.20626](http://arxiv.org/abs/2512.20626)|
-|**2025-11-25**|**Understanding and Optimizing Multi-Stage AI Inference Pipelines**|Abhimanyu Rajeshkumar Bambhaniya et.al.|[2504.09775](http://arxiv.org/abs/2504.09775)|
 |**2025-11-25**|**HyperbolicRAG: Enhancing Retrieval-Augmented Generation with Hyperbolic Representations**|Linxiao Cao et.al.|[2511.18808](http://arxiv.org/abs/2511.18808)|
 |**2025-11-24**|**Human Cognition Inspired RAG with Knowledge Graph for Complex Problem Solving**|Yao Cheng et.al.|[2503.06567_(AAAI)](http://arxiv.org/abs/2503.06567)|
 |**2025-11-24**|**Concept than Document: Context Compression via AMR-based Conceptual Entropy**|Kaize Shi et.al.|[2511.18832](http://arxiv.org/abs/2511.18832)|
