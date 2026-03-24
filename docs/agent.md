@@ -6,10 +6,13 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.03.23_
+_Updated on 2026.03.24_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-03-22**|**The Workload-Router-Pool Architecture for LLM Inference Optimization: A Vision Paper from the vLLM Semantic Router Project**|Huamin Chen et.al.|[2603.21354](http://arxiv.org/abs/2603.21354)|
+|**2026-03-22**|**Improving Coherence and Persistence in Agentic AI for System Optimization**|Pantea Karimi et.al.|[2603.21321](http://arxiv.org/abs/2603.21321)|
+|**2026-03-22**|**CALVO: Improve Serving Efficiency for LLM Inferences with Intense Network Demands**|Weiye Wang et.al.|[2603.21257](http://arxiv.org/abs/2603.21257)|
 |**2026-03-18**|**IEMAS: An Incentive-Efficiency Routing Framework for Open Agentic Web Ecosystems**|Hongze Liu et.al.|[2603.17302](http://arxiv.org/abs/2603.17302)|
 |**2026-03-17**|**EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval**|Zebin Yang et.al.|[2510.18546_(NeurIPS)](http://arxiv.org/abs/2510.18546)|
 |**2026-03-17**|**Efficient LLM Serving for Agentic Workflows: A Data Systems Perspective**|Noppanat Wadlom et.al.|[2603.16104](http://arxiv.org/abs/2603.16104)|

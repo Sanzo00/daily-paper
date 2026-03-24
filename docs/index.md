@@ -6,13 +6,17 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.03.23_
+_Updated on 2026.03.24_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-03-21**|**His2Trans: A Skeleton-First Framework for Self-Evolving C-to-Rust Translation with Historical Retrieval**|Shengbo Wang et.al.|[2603.02617](http://arxiv.org/abs/2603.02617)|
+|**2026-03-21**|**Modeling Epistemic Uncertainty in Social Perception via Rashomon Set Agents**|Jinming Yang et.al.|[2603.20750](http://arxiv.org/abs/2603.20750)|
 |**2026-03-20**|**Understanding and Optimizing Multi-Stage AI Inference Pipelines**|Abhimanyu Rajeshkumar Bambhaniya et.al.|[2504.09775](http://arxiv.org/abs/2504.09775)|
 |**2026-03-20**|**LLM-Enhanced Semantic Data Integration of Electronic Component Qualifications in the Aerospace Domain**|Antonio De Santis et.al.|[2603.20094](http://arxiv.org/abs/2603.20094)|
 |**2026-03-19**|**DaPT: A Dual-Path Framework for Multilingual Multi-hop Question Answering**|Yilin Wang et.al.|[2603.19097_(ICASSP)](http://arxiv.org/abs/2603.19097)|
+|**2026-03-19**|**GIP-RAG: An Evidence-Grounded Retrieval-Augmented Framework for Interpretable Gene Interaction and Pathway Impact Analysis**|Fujian Jia et.al.|[2603.20321](http://arxiv.org/abs/2603.20321)|
+|**2026-03-19**|**BubbleRAG: Evidence-Driven Retrieval-Augmented Generation for Black-Box Knowledge Graphs**|Duyi Pan et.al.|[2603.20309](http://arxiv.org/abs/2603.20309)|
 |**2026-03-18**|**The Reasoning Bottleneck in Graph-RAG: Structured Prompting and Context Compression for Multi-Hop QA**|Yasaman Zarrinkia et.al.|[2603.14045](http://arxiv.org/abs/2603.14045)|
 |**2026-03-17**|**ExpressMind: A Multimodal Pretrained Large Language Model for Expressway Operation**|Zihe Wang et.al.|[2603.16495](http://arxiv.org/abs/2603.16495)|
 |**2026-03-17**|**IndexRAG: Bridging Facts for Cross-Document Reasoning at Index Time**|Zhenghua Bao et.al.|[2603.16415](http://arxiv.org/abs/2603.16415)|
@@ -34,7 +38,6 @@ _Updated on 2026.03.23_
 |**2026-03-05**|**InfoFlow KV: Information-Flow-Aware KV Recomputation for Long Context**|Xin Teng et.al.|[2603.05353](http://arxiv.org/abs/2603.05353)|
 |**2026-03-05**|**Core-based Hierarchies for Efficient GraphRAG**|Jakir Hossain et.al.|[2603.05207](http://arxiv.org/abs/2603.05207)|
 |**2026-03-05**|**MedCoRAG: Interpretable Hepatology Diagnosis via Hybrid Evidence Retrieval and Multispecialty Consensus**|Zheng Li et.al.|[2603.05129](http://arxiv.org/abs/2603.05129)|
-|**2026-03-03**|**His2Trans: A Skeleton First Framework for Self Evolving C to Rust Translation with Historical Retrieval**|Shengbo Wang et.al.|[2603.02617](http://arxiv.org/abs/2603.02617)|
 |**2026-03-03**|**CraniMem: Cranial Inspired Gated and Bounded Memory for Agentic Systems**|Pearl Mody et.al.|[2603.15642](http://arxiv.org/abs/2603.15642)|
 |**2026-02-28**|**MED-COPILOT: A Medical Assistant Powered by GraphRAG and Similar Patient Case Retrieval**|Shuheng Chen et.al.|[2603.00460](http://arxiv.org/abs/2603.00460)|
 |**2026-02-28**|**From Flat to Structural: Enhancing Automated Short Answer Grading with GraphRAG**|Yucheng Chu et.al.|[2603.19276](http://arxiv.org/abs/2603.19276)|

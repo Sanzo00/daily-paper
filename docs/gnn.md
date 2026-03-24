@@ -6,10 +6,11 @@ nav_order: 3
 
 # GNN Papers
 
-_Updated on 2026.03.23_
+_Updated on 2026.03.24_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-03-21**|**Incremental GNN Embedding Computation on Streaming Graphs**|Qiange Wang et.al.|[2603.20622_(ICDE)](http://arxiv.org/abs/2603.20622)|
 |**2026-03-03**|**AlphaFree: Recommendation Free from Users, IDs, and GNNs**|Minseo Jeon et.al.|[2603.02653_(WWW)](http://arxiv.org/abs/2603.02653)|
 |**2026-03-02**|**A Cascaded Graph Neural Network for Joint Root Cause Localization and Analysis in Edge Computing Environments**|Duneesha Fernando et.al.|[2603.01447](http://arxiv.org/abs/2603.01447)|
 |**2026-02-24**|**Federated Multi Agent Deep Learning and Neural Networks for Advanced Distributed Sensing in Wireless Networks**|Nadine Muller et.al.|[2603.16881](http://arxiv.org/abs/2603.16881)|
