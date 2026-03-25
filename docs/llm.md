@@ -6,13 +6,15 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.03.24_
+_Updated on 2026.03.25_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-03-24**|**PCR: A Prefetch-Enhanced Cache Reuse System for Low-Latency RAG Serving**|Wenfeng Wang et.al.|[2603.23049](http://arxiv.org/abs/2603.23049)|
 |**2026-03-22**|**The Workload-Router-Pool Architecture for LLM Inference Optimization: A Vision Paper from the vLLM Semantic Router Project**|Huamin Chen et.al.|[2603.21354](http://arxiv.org/abs/2603.21354)|
 |**2026-03-20**|**Understanding and Optimizing Multi-Stage AI Inference Pipelines**|Abhimanyu Rajeshkumar Bambhaniya et.al.|[2504.09775](http://arxiv.org/abs/2504.09775)|
 |**2026-03-20**|**KV Cache Optimization Strategies for Scalable and Efficient LLM Inference**|Yichun Xu et.al.|[2603.20397](http://arxiv.org/abs/2603.20397)|
+|**2026-03-20**|**Trained Persistent Memory for Frozen Decoder-Only LLMs**|Hong Jeong et.al.|[2603.22329](http://arxiv.org/abs/2603.22329)|
 |**2026-03-19**|**StreamingThinker: Large Language Models Can Think While Reading**|Junlong Tong et.al.|[2510.17238_(ICLR)](http://arxiv.org/abs/2510.17238)|
 |**2026-03-18**|**Multi-stage Flow Scheduling for LLM Serving**|Yijun Sun et.al.|[2603.17456](http://arxiv.org/abs/2603.17456)|
 |**2026-03-18**|**The 1/W Law: An Analytical Study of Context-Length Routing Topology and GPU Generation Gains for LLM Inference Energy Efficiency**|Huamin Chen et.al.|[2603.17280](http://arxiv.org/abs/2603.17280)|

@@ -6,10 +6,12 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.03.24_
+_Updated on 2026.03.25_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-03-24**|**PCR: A Prefetch-Enhanced Cache Reuse System for Low-Latency RAG Serving**|Wenfeng Wang et.al.|[2603.23049](http://arxiv.org/abs/2603.23049)|
+|**2026-03-23**|**GraphRAG for Engineering Diagrams: ChatP&ID Enables LLM Interaction with P&IDs**|Achmad Anggawirya Alimin et.al.|[2603.22528](http://arxiv.org/abs/2603.22528)|
 |**2026-03-21**|**His2Trans: A Skeleton-First Framework for Self-Evolving C-to-Rust Translation with Historical Retrieval**|Shengbo Wang et.al.|[2603.02617](http://arxiv.org/abs/2603.02617)|
 |**2026-03-21**|**Modeling Epistemic Uncertainty in Social Perception via Rashomon Set Agents**|Jinming Yang et.al.|[2603.20750](http://arxiv.org/abs/2603.20750)|
 |**2026-03-20**|**Understanding and Optimizing Multi-Stage AI Inference Pipelines**|Abhimanyu Rajeshkumar Bambhaniya et.al.|[2504.09775](http://arxiv.org/abs/2504.09775)|
