@@ -10,6 +10,8 @@ _Updated on 2026.03.30_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-03-27**|**LiteCache: A Query Similarity-Driven, GPU-Centric KVCache Subsystem for Efficient LLM Inference**|Jiawei Yi et.al.|[2511.14510](http://arxiv.org/abs/2511.14510)|
+|**2026-03-26**|**Extending Puzzle for Mixture-of-Experts Reasoning Models with Application to GPT-OSS Acceleration**|Akhiad Bercovich et.al.|[2602.11937](http://arxiv.org/abs/2602.11937)|
 |**2026-03-25**|**Bottlenecked Transformers: Periodic KV Cache Consolidation for Generalised Reasoning**|Adnan Oomerjee et.al.|[2505.16950](http://arxiv.org/abs/2505.16950)|
 |**2026-03-25**|**ODMA: On-Demand Memory Allocation Strategy for LLM Serving on LPDDR-Class Accelerators**|Guoqiang Zou et.al.|[2512.09427](http://arxiv.org/abs/2512.09427)|
 |**2026-03-25**|**LMetric: Simple is Better - Multiplication May Be All You Need for LLM Request Scheduling**|Dingyan Zhang et.al.|[2603.15202](http://arxiv.org/abs/2603.15202)|
@@ -74,7 +76,6 @@ _Updated on 2026.03.30_
 |**2026-02-12**|**Efficient Remote Prefix Fetching with GPU-native Media ASICs**|Liang Mi et.al.|[2602.09725](http://arxiv.org/abs/2602.09725)|
 |**2026-02-12**|**SnapMLA: Efficient Long-Context MLA Decoding via Hardware-Aware FP8 Quantized Pipelining**|Yifan Zhang et.al.|[2602.10718](http://arxiv.org/abs/2602.10718)|
 |**2026-02-12**|**PrefillShare: A Shared Prefill Module for KV Reuse in Multi-LLM Disaggregated Serving**|Sunghyeon Woo et.al.|[2602.12029](http://arxiv.org/abs/2602.12029)|
-|**2026-02-12**|**Extending Puzzle for Mixture-of-Experts Reasoning Models with Application to GPT-OSS Acceleration**|Akhiad Bercovich et.al.|[2602.11937](http://arxiv.org/abs/2602.11937)|
 |**2026-02-12**|**GORGO: Maximizing KV-Cache Reuse While Minimizing Network Latency in Cross-Region LLM Load Balancing**|Alessio Ricci Toniolo et.al.|[2602.11688](http://arxiv.org/abs/2602.11688)|
 |**2026-02-12**|**PAM: Processing Across Memory Hierarchy for Efficient KV-centric LLM Serving System**|Lian Liu et.al.|[2602.11521](http://arxiv.org/abs/2602.11521)|
 |**2026-02-10**|**LLM Serving Optimization with Variable Prefill and Decode Lengths**|Meixuan Wang et.al.|[2508.06133](http://arxiv.org/abs/2508.06133)|
