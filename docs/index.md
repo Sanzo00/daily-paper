@@ -6,10 +6,12 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.03.30_
+_Updated on 2026.03.31_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-03-30**|**ORACAL: A Robust and Explainable Multimodal Framework for Smart Contract Vulnerability Detection with Causal Graph Enrichment**|Tran Duong Minh Dai et.al.|[2603.28128](http://arxiv.org/abs/2603.28128)|
+|**2026-03-29**|**GAAMA: Graph Augmented Associative Memory for Agents**|Swarna Kamal Paul et.al.|[2603.27910](http://arxiv.org/abs/2603.27910)|
 |**2026-03-26**|**UniAI-GraphRAG: Synergizing Ontology-Guided Extraction, Multi-Dimensional Clustering, and Dual-Channel Fusion for Robust Multi-Hop Reasoning**|Jie Wang et.al.|[2603.25152](http://arxiv.org/abs/2603.25152)|
 |**2026-03-26**|**Evaluating adaptive and generative AI-based feedback and recommendations in a knowledge-graph-integrated programming learning system**|Lalita Na Nongkhai et.al.|[2603.24940](http://arxiv.org/abs/2603.24940)|
 |**2026-03-25**|**CoCR-RAG: Enhancing Retrieval-Augmented Generation in Web Q&A via Concept-oriented Context Reconstruction**|Kaize Shi et.al.|[2603.23989](http://arxiv.org/abs/2603.23989)|
@@ -89,6 +91,7 @@ _Updated on 2026.03.30_
 |**2026-01-28**|**RPO-RAG: Aligning Small LLMs with Relation-aware Preference Optimization for Knowledge Graph Question Answering**|Kaehyun Um et.al.|[2601.19225_(WWW)](http://arxiv.org/abs/2601.19225)|
 |**2026-01-28**|**Context-Augmented Code Generation Using Programming Knowledge Graphs**|Shahd Seddik et.al.|[2601.20810](http://arxiv.org/abs/2601.20810)|
 |**2026-01-27**|**Efficient and Transferable Agentic Knowledge Graph RAG via Reinforcement Learning**|Jinyeop Song et.al.|[2509.26383](http://arxiv.org/abs/2509.26383)|
+|**2026-01-27**|**SRAG: RAG with Structured Data Improves Vector Retrieval**|Shalin Shah et.al.|[2603.26670](http://arxiv.org/abs/2603.26670)|
 |**2026-01-26**|**FastInsight: Fast and Insightful Retrieval via Fusion Operators for Graph RAG**|Seonho An et.al.|[2601.18579](http://arxiv.org/abs/2601.18579)|
 |**2026-01-26**|**Reranker Optimization via Geodesic Distances on k-NN Manifolds**|Wen G. Gong et.al.|[2602.15860](http://arxiv.org/abs/2602.15860)|
 |**2026-01-25**|**Augmenting Question Answering with A Hybrid RAG Approach**|Tianyi Yang et.al.|[2601.12658](http://arxiv.org/abs/2601.12658)|

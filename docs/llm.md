@@ -6,10 +6,13 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.03.30_
+_Updated on 2026.03.31_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-03-30**|**Low-Latency Edge LLM Handover via Joint KV Cache Transfer and Token Prefill**|Seunghun Lee et.al.|[2603.28018](http://arxiv.org/abs/2603.28018)|
+|**2026-03-29**|**Sparse-RL: Breaking the Memory Wall in LLM Reinforcement Learning via Stable Sparse Rollouts**|Sijia Luo et.al.|[2601.10079](http://arxiv.org/abs/2601.10079)|
+|**2026-03-28**|**CoDec: Prefix-Shared Decoding Kernel for LLMs**|Zhibin Wang et.al.|[2505.17694](http://arxiv.org/abs/2505.17694)|
 |**2026-03-27**|**LiteCache: A Query Similarity-Driven, GPU-Centric KVCache Subsystem for Efficient LLM Inference**|Jiawei Yi et.al.|[2511.14510](http://arxiv.org/abs/2511.14510)|
 |**2026-03-26**|**Extending Puzzle for Mixture-of-Experts Reasoning Models with Application to GPT-OSS Acceleration**|Akhiad Bercovich et.al.|[2602.11937](http://arxiv.org/abs/2602.11937)|
 |**2026-03-25**|**Bottlenecked Transformers: Periodic KV Cache Consolidation for Generalised Reasoning**|Adnan Oomerjee et.al.|[2505.16950](http://arxiv.org/abs/2505.16950)|
@@ -123,7 +126,6 @@ _Updated on 2026.03.30_
 |**2026-01-15**|**Online Scheduling for LLM Inference with KV Cache Constraints**|Patrick Jaillet et.al.|[2502.07115](http://arxiv.org/abs/2502.07115)|
 |**2026-01-15**|**AdaptCache: KV Cache Native Storage Hierarchy for Low-Delay and High-Quality Language Model Serving**|Shaoting Feng et.al.|[2509.00105_(SOSP)](http://arxiv.org/abs/2509.00105)|
 |**2026-01-15**|**Hardware Acceleration for Neural Networks: A Comprehensive Survey**|Bin Xu et.al.|[2512.23914](http://arxiv.org/abs/2512.23914)|
-|**2026-01-15**|**Sparse-RL: Breaking the Memory Wall in LLM Reinforcement Learning via Stable Sparse Rollouts**|Sijia Luo et.al.|[2601.10079](http://arxiv.org/abs/2601.10079)|
 |**2026-01-14**|**APEX: Asynchronous Parallel CPU-GPU Execution for Online LLM Inference on Constrained GPUs**|Jiakun Fan et.al.|[2506.03296](http://arxiv.org/abs/2506.03296)|
 |**2026-01-14**|**CoSense-LLM: Semantics at the Edge with Cost- and Uncertainty-Aware Cloud-Edge Cooperation**|Hasan Akgul et.al.|[2510.19670](http://arxiv.org/abs/2510.19670)|
 |**2026-01-14**|**Hidden States as Early Signals: Step-level Trace Evaluation and Pruning for Efficient Test-Time Scaling**|Zhixiang Liang et.al.|[2601.09093](http://arxiv.org/abs/2601.09093)|
@@ -390,7 +392,6 @@ _Updated on 2026.03.30_
 |**2025-05-26**|**BurstGPT: A Real-world Workload Dataset to Optimize LLM Serving Systems**|Yuxin Wang et.al.|[2401.17644](http://arxiv.org/abs/2401.17644)|
 |**2025-05-26**|**Task Memory Engine: Spatial Memory for Robust Multi-Step LLM Agents**|Ye Ye et.al.|[2505.19436](http://arxiv.org/abs/2505.19436)|
 |**2025-05-24**|**PM-KVQ: Progressive Mixed-precision KV Cache Quantization for Long-CoT LLMs**|Tengxuan Liu et.al.|[2505.18610](http://arxiv.org/abs/2505.18610)|
-|**2025-05-23**|**FlashForge: Ultra-Efficient Prefix-Aware Attention for LLM Decoding**|Zhibin Wang et.al.|[2505.17694](http://arxiv.org/abs/2505.17694)|
 |**2025-05-23**|**Guided by Gut: Efficient Test-Time Scaling with Reinforced Intrinsic Confidence**|Amirhosein Ghasemabadi et.al.|[2505.20325](http://arxiv.org/abs/2505.20325)|
 |**2025-05-23**|**ThinkLess: A Training-Free Inference-Efficient Method for Reducing Reasoning Redundancy**|Gengyang Li et.al.|[2505.15684](http://arxiv.org/abs/2505.15684)|
 |**2025-05-23**|**Curriculum Guided Reinforcement Learning for Efficient Multi Hop Retrieval Augmented Generation**|Yuelyu Ji et.al.|[2505.17391](http://arxiv.org/abs/2505.17391)|

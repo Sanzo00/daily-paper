@@ -6,10 +6,11 @@ nav_order: 3
 
 # GNN Papers
 
-_Updated on 2026.03.30_
+_Updated on 2026.03.31_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-03-28**|**LSM-GNN: Large-scale Storage-based Multi-GPU GNN Training by Optimizing Data Transfer Scheme**|Jeongmin Brian Park et.al.|[2407.15264](http://arxiv.org/abs/2407.15264)|
 |**2026-03-21**|**Incremental GNN Embedding Computation on Streaming Graphs**|Qiange Wang et.al.|[2603.20622_(ICDE)](http://arxiv.org/abs/2603.20622)|
 |**2026-03-03**|**AlphaFree: Recommendation Free from Users, IDs, and GNNs**|Minseo Jeon et.al.|[2603.02653_(WWW)](http://arxiv.org/abs/2603.02653)|
 |**2026-03-02**|**A Cascaded Graph Neural Network for Joint Root Cause Localization and Analysis in Edge Computing Environments**|Duneesha Fernando et.al.|[2603.01447](http://arxiv.org/abs/2603.01447)|
@@ -80,7 +81,6 @@ _Updated on 2026.03.30_
 |**2024-08-20**|**Heta: Distributed Training of Heterogeneous Graph Neural Networks**|Yuchen Zhong et.al.|[2408.09697](http://arxiv.org/abs/2408.09697)|
 |**2024-08-13**|**GraNNDis: Efficient Unified Distributed Training Framework for Deep GNNs on Large Clusters**|Jaeyong Song et.al.|[2311.06837](http://arxiv.org/abs/2311.06837)|
 |**2024-08-12**|**An Experimental Comparison of Partitioning Strategies for Distributed Graph Neural Network Training**|Nikolai Merkel et.al.|[2308.15602_(EDBT)](http://arxiv.org/abs/2308.15602)|
-|**2024-07-21**|**LSM-GNN: Large-scale Storage-based Multi-GPU GNN Training by Optimizing Data Transfer Scheme**|Jeongmin Brian Park et.al.|[2407.15264](http://arxiv.org/abs/2407.15264)|
 |**2024-07-19**|**TorchGT: A Holistic System for Large-scale Graph Transformer Training**|Meng Zhang et.al.|[2407.14106_(Networking)](http://arxiv.org/abs/2407.14106)|
 |**2024-07-11**|**Robust Generalization of Graph Neural Networks for Carrier Scheduling**|Daniel F. Perez-Ramirez et.al.|[2407.08479](http://arxiv.org/abs/2407.08479)|
 |**2024-07-01**|**Optimizing Age of Information in Vehicular Edge Computing with Federated Graph Neural Network Multi-Agent Reinforcement Learning**|Wenhua Wang et.al.|[2407.02342](http://arxiv.org/abs/2407.02342)|
