@@ -6,12 +6,14 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.04.07_
+_Updated on 2026.04.08_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-04-07**|**UnWeaving the knots of GraphRAG -- turns out VectorRAG is almost enough**|Ryszard Tuora et.al.|[2603.29875_(DATE)](http://arxiv.org/abs/2603.29875)|
 |**2026-04-06**|**GROUNDEDKG-RAG: Grounded Knowledge Graph Index for Long-document Question Answering**|Tianyi Zhang et.al.|[2604.04359](http://arxiv.org/abs/2604.04359)|
 |**2026-04-06**|**PassiveQA: A Three-Action Framework for Epistemically Calibrated Question Answering via Supervised Finetuning**|Madhav S Baidya et.al.|[2604.04565](http://arxiv.org/abs/2604.04565)|
+|**2026-04-06**|**RAG or Learning? Understanding the Limits of LLM Adaptation under Continuous Knowledge Drift in the Real World**|Hanbing Liu et.al.|[2604.05096](http://arxiv.org/abs/2604.05096)|
 |**2026-04-05**|**Unmasking Hallucinations: A Causal Graph-Attention Perspective on Factual Reliability in Large Language Models**|Sailesh kiran kurra et.al.|[2604.04020](http://arxiv.org/abs/2604.04020)|
 |**2026-04-04**|**Beyond Retrieval: Modeling Confidence Decay and Deterministic Agentic Platforms in Generative Engine Optimization**|XinYu Zhao et.al.|[2604.03656](http://arxiv.org/abs/2604.03656)|
 |**2026-04-03**|**LogicPoison: Logical Attacks on Graph Retrieval-Augmented Generation**|Yilin Xiao et.al.|[2604.02954](http://arxiv.org/abs/2604.02954)|
@@ -19,6 +21,7 @@ _Updated on 2026.04.07_
 |**2026-04-02**|**Competency Questions as Executable Plans: a Controlled RAG Architecture for Cultural Heritage Storytelling**|Naga Sowjanya Barla et.al.|[2604.02545](http://arxiv.org/abs/2604.02545)|
 |**2026-03-31**|**UniAI-GraphRAG: Synergizing Ontology-Guided Extraction, Multi-Dimensional Clustering, and Dual-Channel Fusion for Robust Multi-Hop Reasoning**|Jie Wang et.al.|[2603.25152](http://arxiv.org/abs/2603.25152)|
 |**2026-03-30**|**ORACAL: A Robust and Explainable Multimodal Framework for Smart Contract Vulnerability Detection with Causal Graph Enrichment**|Tran Duong Minh Dai et.al.|[2603.28128](http://arxiv.org/abs/2603.28128)|
+|**2026-03-30**|**From PDF to RAG-Ready: Evaluating Document Conversion Frameworks for Domain-Specific Question Answering**|José Guilherme Marques dos Santos et.al.|[2604.04948](http://arxiv.org/abs/2604.04948)|
 |**2026-03-29**|**GAAMA: Graph Augmented Associative Memory for Agents**|Swarna Kamal Paul et.al.|[2603.27910](http://arxiv.org/abs/2603.27910)|
 |**2026-03-26**|**Evaluating adaptive and generative AI-based feedback and recommendations in a knowledge-graph-integrated programming learning system**|Lalita Na Nongkhai et.al.|[2603.24940](http://arxiv.org/abs/2603.24940)|
 |**2026-03-25**|**CoCR-RAG: Enhancing Retrieval-Augmented Generation in Web Q&A via Concept-oriented Context Reconstruction**|Kaize Shi et.al.|[2603.23989](http://arxiv.org/abs/2603.23989)|
@@ -87,7 +90,6 @@ _Updated on 2026.04.07_
 |**2026-02-06**|**A Human-in-the-Loop, LLM-Centered Architecture for Knowledge-Graph Question Answering**|Larissa Pusch et.al.|[2602.05512](http://arxiv.org/abs/2602.05512)|
 |**2026-02-06**|**Subgraph Reconstruction Attacks on Graph RAG Deployments with Practical Defenses**|Minkyoo Song et.al.|[2602.06495](http://arxiv.org/abs/2602.06495)|
 |**2026-02-06**|**Leveraging Spreading Activation for Improved Document Retrieval in Knowledge-Graph-Based RAG Systems**|Jovan Pavlović et.al.|[2512.15922](http://arxiv.org/abs/2512.15922)|
-|**2026-02-06**|**UnWeaving the knots of GraphRAG -- turns out VectorRAG is almost enough**|Ryszard Tuora et.al.|[2603.29875](http://arxiv.org/abs/2603.29875)|
 |**2026-02-04**|**LinGO: A Linguistic Graph Optimization Framework with LLMs for Interpreting Intents of Online Uncivil Discourse**|Yuan Zhang et.al.|[2602.04693](http://arxiv.org/abs/2602.04693)|
 |**2026-02-04**|**Pruning Minimal Reasoning Graphs for Efficient Retrieval-Augmented Generation**|Ning Wang et.al.|[2602.04926](http://arxiv.org/abs/2602.04926)|
 |**2026-02-04**|**Atomic Information Flow: A Network Flow Model for Tool Attributions in RAG Systems**|James Gao et.al.|[2602.04912](http://arxiv.org/abs/2602.04912)|

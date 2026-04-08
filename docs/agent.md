@@ -6,12 +6,16 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.04.07_
+_Updated on 2026.04.08_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-04-07**|**LongSpec: Long-Context Lossless Speculative Decoding with Efficient Drafting and Verification**|Penghui Yang et.al.|[2502.17421_(ACL)](http://arxiv.org/abs/2502.17421)|
+|**2026-04-07**|**AutoSOTA: An End-to-End Automated Research System for State-of-the-Art AI Model Discovery**|Yu Li et.al.|[2604.05550](http://arxiv.org/abs/2604.05550)|
+|**2026-04-07**|**RL-VLA$^3$: A Flexible and Asynchronous Reinforcement Learning Framework for VLA Training**|Haoran Sun et.al.|[2602.05765](http://arxiv.org/abs/2602.05765)|
 |**2026-04-06**|**KLong: Training LLM Agent for Extremely Long-horizon Tasks**|Yue Liu et.al.|[2602.17547](http://arxiv.org/abs/2602.17547)|
 |**2026-04-06**|**RoboPhD: Evolving Diverse Complex Agents Under Tight Evaluation Budgets**|Andrew Borthwick et.al.|[2604.04347](http://arxiv.org/abs/2604.04347)|
+|**2026-04-06**|**ClawsBench: Evaluating Capability and Safety of LLM Productivity Agents in Simulated Workspaces**|Xiangyi Li et.al.|[2604.05172](http://arxiv.org/abs/2604.05172)|
 |**2026-04-05**|**Comparative reversal learning reveals rigid adaptation in LLMs under non-stationary uncertainty**|Haomiaomiao Wang et.al.|[2604.04182](http://arxiv.org/abs/2604.04182)|
 |**2026-04-04**|**LightThinker++: From Reasoning Compression to Memory Management**|Yuqi Zhu et.al.|[2604.03679](http://arxiv.org/abs/2604.03679)|
 |**2026-04-03**|**Glia: A Human-Inspired AI for Automated Systems Design and Optimization**|Pouya Hamadanian et.al.|[2510.27176](http://arxiv.org/abs/2510.27176)|
@@ -226,7 +230,6 @@ _Updated on 2026.04.07_
 |**2025-06-26**|**CitySim: Modeling Urban Behaviors and City Dynamics with Large-Scale LLM-Driven Agent Simulation**|Nicolas Bougie et.al.|[2506.21805](http://arxiv.org/abs/2506.21805)|
 |**2025-06-26**|**MobiVerse: Scaling Urban Mobility Simulation with Hybrid Lightweight Domain-Specific Generator and Large Language Models**|Yifan Liu et.al.|[2506.21784](http://arxiv.org/abs/2506.21784)|
 |**2025-06-25**|**MAGPIE: A dataset for Multi-AGent contextual PrIvacy Evaluation**|Gurusha Juneja et.al.|[2506.20737](http://arxiv.org/abs/2506.20737)|
-|**2025-06-17**|**LongSpec: Long-Context Lossless Speculative Decoding with Efficient Drafting and Verification**|Penghui Yang et.al.|[2502.17421](http://arxiv.org/abs/2502.17421)|
 |**2025-06-16**|**AlphaEvolve: A coding agent for scientific and algorithmic discovery**|Alexander Novikov et.al.|[2506.13131](http://arxiv.org/abs/2506.13131)|
 |**2025-06-11**|**SAFEFLOW: A Principled Protocol for Trustworthy and Transactional Autonomous Agent Systems**|Peiran Li et.al.|[2506.07564](http://arxiv.org/abs/2506.07564)|
 |**2025-06-09**|**DeepServe: Serverless Large Language Model Serving at Scale**|Junhao Hu et.al.|[2501.14417](http://arxiv.org/abs/2501.14417)|

@@ -6,12 +6,15 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.04.07_
+_Updated on 2026.04.08_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-04-07**|**LongSpec: Long-Context Lossless Speculative Decoding with Efficient Drafting and Verification**|Penghui Yang et.al.|[2502.17421_(ACL)](http://arxiv.org/abs/2502.17421)|
+|**2026-04-07**|**Beyond Accuracy: Unveiling Inefficiency Patterns in Tool-Integrated Reasoning**|Qisheng Su et.al.|[2604.05404_(ACL)](http://arxiv.org/abs/2604.05404)|
 |**2026-04-06**|**TriAttention: Efficient Long Reasoning with Trigonometric KV Compression**|Weian Mao et.al.|[2604.04921](http://arxiv.org/abs/2604.04921)|
 |**2026-04-06**|**Don't Waste Bits! Adaptive KV-Cache Quantization for Lightweight On-Device LLMs**|Sayed Pedram Haeri Boroujeni et.al.|[2604.04722_(CVPR)](http://arxiv.org/abs/2604.04722)|
+|**2026-04-06**|**Comparative Characterization of KV Cache Management Strategies for LLM Inference**|Oteo Mamo et.al.|[2604.05012](http://arxiv.org/abs/2604.05012)|
 |**2026-04-03**|**TokenDance: Scaling Multi-Agent LLM Serving via Collective KV Cache Sharing**|Zhuohang Bian et.al.|[2604.03143](http://arxiv.org/abs/2604.03143)|
 |**2026-04-01**|**Universal YOCO for Efficient Depth Scaling**|Yutao Sun et.al.|[2604.01220](http://arxiv.org/abs/2604.01220)|
 |**2026-03-30**|**Low-Latency Edge LLM Handover via Joint KV Cache Transfer and Token Prefill**|Seunghun Lee et.al.|[2603.28018](http://arxiv.org/abs/2603.28018)|
@@ -366,7 +369,6 @@ _Updated on 2026.04.07_
 |**2025-06-23**|**RAPID: Long-Context Inference with Retrieval-Augmented Speculative Decoding**|Guanzheng Chen et.al.|[2502.20330_(ICML)](http://arxiv.org/abs/2502.20330)|
 |**2025-06-18**|**eLLM: Elastic Memory Management Framework for Efficient LLM Serving**|Jiale Xu et.al.|[2506.15155](http://arxiv.org/abs/2506.15155)|
 |**2025-06-18**|**Moment Sampling in Video LLMs for Long-Form Video QA**|Mustafa Chasmai et.al.|[2507.00033_(CVPR)](http://arxiv.org/abs/2507.00033)|
-|**2025-06-17**|**LongSpec: Long-Context Lossless Speculative Decoding with Efficient Drafting and Verification**|Penghui Yang et.al.|[2502.17421](http://arxiv.org/abs/2502.17421)|
 |**2025-06-16**|**AlphaEvolve: A coding agent for scientific and algorithmic discovery**|Alexander Novikov et.al.|[2506.13131](http://arxiv.org/abs/2506.13131)|
 |**2025-06-14**|**ClusterKV: Manipulating LLM KV Cache in Semantic Space for Recallable Compression**|Guangda Liu et.al.|[2412.03213](http://arxiv.org/abs/2412.03213)|
 |**2025-06-13**|**FlashBack:Efficient Retrieval-Augmented Language Modeling for Long Context Inference**|Runheng Liu et.al.|[2405.04065_(ACL)](http://arxiv.org/abs/2405.04065)|
