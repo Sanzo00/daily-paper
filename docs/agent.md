@@ -6,16 +6,20 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.04.08_
+_Updated on 2026.04.09_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
-|**2026-04-07**|**LongSpec: Long-Context Lossless Speculative Decoding with Efficient Drafting and Verification**|Penghui Yang et.al.|[2502.17421_(ACL)](http://arxiv.org/abs/2502.17421)|
+|**2026-04-08**|**LongSpec: Long-Context Lossless Speculative Decoding with Efficient Drafting and Verification**|Penghui Yang et.al.|[2502.17421_(ACL)](http://arxiv.org/abs/2502.17421)|
+|**2026-04-08**|**PEARL: Self-Evolving Assistant for Time Management with Reinforcement Learning**|Bingxuan Li et.al.|[2601.11957](http://arxiv.org/abs/2601.11957)|
+|**2026-04-08**|**ClawsBench: Evaluating Capability and Safety of LLM Productivity Agents in Simulated Workspaces**|Xiangyi Li et.al.|[2604.05172](http://arxiv.org/abs/2604.05172)|
 |**2026-04-07**|**AutoSOTA: An End-to-End Automated Research System for State-of-the-Art AI Model Discovery**|Yu Li et.al.|[2604.05550](http://arxiv.org/abs/2604.05550)|
 |**2026-04-07**|**RL-VLA$^3$: A Flexible and Asynchronous Reinforcement Learning Framework for VLA Training**|Haoran Sun et.al.|[2602.05765](http://arxiv.org/abs/2602.05765)|
+|**2026-04-07**|**ForkKV: Scaling Multi-LoRA Agent Serving via Copy-on-Write Disaggregated KV Cache**|Shao Wang et.al.|[2604.06370](http://arxiv.org/abs/2604.06370)|
+|**2026-04-07**|**Learning to Interrupt in Language-based Multi-agent Communication**|Danqing Wang et.al.|[2604.06452](http://arxiv.org/abs/2604.06452)|
+|**2026-04-07**|**AgentOpt v0.1 Technical Report: Client-Side Optimization for LLM-Based Agent**|Wenyue Hua et.al.|[2604.06296](http://arxiv.org/abs/2604.06296)|
 |**2026-04-06**|**KLong: Training LLM Agent for Extremely Long-horizon Tasks**|Yue Liu et.al.|[2602.17547](http://arxiv.org/abs/2602.17547)|
 |**2026-04-06**|**RoboPhD: Evolving Diverse Complex Agents Under Tight Evaluation Budgets**|Andrew Borthwick et.al.|[2604.04347](http://arxiv.org/abs/2604.04347)|
-|**2026-04-06**|**ClawsBench: Evaluating Capability and Safety of LLM Productivity Agents in Simulated Workspaces**|Xiangyi Li et.al.|[2604.05172](http://arxiv.org/abs/2604.05172)|
 |**2026-04-05**|**Comparative reversal learning reveals rigid adaptation in LLMs under non-stationary uncertainty**|Haomiaomiao Wang et.al.|[2604.04182](http://arxiv.org/abs/2604.04182)|
 |**2026-04-04**|**LightThinker++: From Reasoning Compression to Memory Management**|Yuqi Zhu et.al.|[2604.03679](http://arxiv.org/abs/2604.03679)|
 |**2026-04-03**|**Glia: A Human-Inspired AI for Automated Systems Design and Optimization**|Pouya Hamadanian et.al.|[2510.27176](http://arxiv.org/abs/2510.27176)|
@@ -112,7 +116,6 @@ _Updated on 2026.04.08_
 |**2026-01-29**|**Emergent Coordination in Multi-Agent Systems via Pressure Fields and Temporal Decay**|Roland Rodriguez et.al.|[2601.08129](http://arxiv.org/abs/2601.08129)|
 |**2026-01-29**|**CORE:Toward Ubiquitous 6G Intelligence Through Collaborative Orchestration of Large Language Model Agents Over Hierarchical Edge**|Zitong Yu et.al.|[2601.21822](http://arxiv.org/abs/2601.21822)|
 |**2026-01-29**|**Heterogeneous Computing: The Key to Powering the Future of AI Agent Inference**|Yiren Zhao et.al.|[2601.22001](http://arxiv.org/abs/2601.22001)|
-|**2026-01-28**|**PEARL: Self-Evolving Assistant for Time Management with Reinforcement Learning**|Bingxuan Li et.al.|[2601.11957](http://arxiv.org/abs/2601.11957)|
 |**2026-01-27**|**GTA: Generative Traffic Agents for Simulating Realistic Mobility Behavior**|Simon Lämmer et.al.|[2601.16778_(CHI)](http://arxiv.org/abs/2601.16778)|
 |**2026-01-21**|**IB-GRPO: Aligning LLM-based Learning Path Recommendation with Educational Objectives via Indicator-Based Group Relative Policy Optimization**|Shuai Wang et.al.|[2601.14686](http://arxiv.org/abs/2601.14686)|
 |**2026-01-20**|**LLMOrbit: A Circular Taxonomy of Large Language Models -From Scaling Walls to Agentic AI Systems**|Badri N. Patro et.al.|[2601.14053](http://arxiv.org/abs/2601.14053)|

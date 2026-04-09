@@ -6,11 +6,13 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.04.08_
+_Updated on 2026.04.09_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-04-08**|**A Graph-Enhanced Defense Framework for Explainable Fake News Detection with LLM**|Bo Wang et.al.|[2604.06666](http://arxiv.org/abs/2604.06666)|
 |**2026-04-07**|**UnWeaving the knots of GraphRAG -- turns out VectorRAG is almost enough**|Ryszard Tuora et.al.|[2603.29875_(DATE)](http://arxiv.org/abs/2603.29875)|
+|**2026-04-07**|**Plasma GraphRAG: Physics-Grounded Parameter Selection for Gyrokinetic Simulations**|Ruichen Zhang et.al.|[2604.06279](http://arxiv.org/abs/2604.06279)|
 |**2026-04-06**|**GROUNDEDKG-RAG: Grounded Knowledge Graph Index for Long-document Question Answering**|Tianyi Zhang et.al.|[2604.04359](http://arxiv.org/abs/2604.04359)|
 |**2026-04-06**|**PassiveQA: A Three-Action Framework for Epistemically Calibrated Question Answering via Supervised Finetuning**|Madhav S Baidya et.al.|[2604.04565](http://arxiv.org/abs/2604.04565)|
 |**2026-04-06**|**RAG or Learning? Understanding the Limits of LLM Adaptation under Continuous Knowledge Drift in the Real World**|Hanbing Liu et.al.|[2604.05096](http://arxiv.org/abs/2604.05096)|

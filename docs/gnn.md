@@ -6,10 +6,11 @@ nav_order: 3
 
 # GNN Papers
 
-_Updated on 2026.04.08_
+_Updated on 2026.04.09_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-04-08**|**Graph Neural ODE Digital Twins for Control-Oriented Reactor Thermal-Hydraulic Forecasting Under Partial Observability**|Akzhol Almukhametov et.al.|[2604.07292](http://arxiv.org/abs/2604.07292)|
 |**2026-04-01**|**Agent Q-Mix: Selecting the Right Action for LLM Multi-Agent Systems through Reinforcement Learning**|Eric Hanchen Jiang et.al.|[2604.00344](http://arxiv.org/abs/2604.00344)|
 |**2026-03-28**|**LSM-GNN: Large-scale Storage-based Multi-GPU GNN Training by Optimizing Data Transfer Scheme**|Jeongmin Brian Park et.al.|[2407.15264](http://arxiv.org/abs/2407.15264)|
 |**2026-03-21**|**Incremental GNN Embedding Computation on Streaming Graphs**|Qiange Wang et.al.|[2603.20622_(ICDE)](http://arxiv.org/abs/2603.20622)|

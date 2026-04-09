@@ -6,12 +6,15 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.04.08_
+_Updated on 2026.04.09_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
-|**2026-04-07**|**LongSpec: Long-Context Lossless Speculative Decoding with Efficient Drafting and Verification**|Penghui Yang et.al.|[2502.17421_(ACL)](http://arxiv.org/abs/2502.17421)|
+|**2026-04-08**|**LongSpec: Long-Context Lossless Speculative Decoding with Efficient Drafting and Verification**|Penghui Yang et.al.|[2502.17421_(ACL)](http://arxiv.org/abs/2502.17421)|
+|**2026-04-08**|**StructKV: Preserving the Structural Skeleton for Scalable Long-Context Inference**|Zhirui Chen et.al.|[2604.06746_(ACL)](http://arxiv.org/abs/2604.06746)|
+|**2026-04-08**|**Cognitive Loop of Thought: Reversible Hierarchical Markov Chain for Efficient Mathematical Reasoning**|Jia-Chen Zhang et.al.|[2604.06805](http://arxiv.org/abs/2604.06805)|
 |**2026-04-07**|**Beyond Accuracy: Unveiling Inefficiency Patterns in Tool-Integrated Reasoning**|Qisheng Su et.al.|[2604.05404_(ACL)](http://arxiv.org/abs/2604.05404)|
+|**2026-04-07**|**ForkKV: Scaling Multi-LoRA Agent Serving via Copy-on-Write Disaggregated KV Cache**|Shao Wang et.al.|[2604.06370](http://arxiv.org/abs/2604.06370)|
 |**2026-04-06**|**TriAttention: Efficient Long Reasoning with Trigonometric KV Compression**|Weian Mao et.al.|[2604.04921](http://arxiv.org/abs/2604.04921)|
 |**2026-04-06**|**Don't Waste Bits! Adaptive KV-Cache Quantization for Lightweight On-Device LLMs**|Sayed Pedram Haeri Boroujeni et.al.|[2604.04722_(CVPR)](http://arxiv.org/abs/2604.04722)|
 |**2026-04-06**|**Comparative Characterization of KV Cache Management Strategies for LLM Inference**|Oteo Mamo et.al.|[2604.05012](http://arxiv.org/abs/2604.05012)|
