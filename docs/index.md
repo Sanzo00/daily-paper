@@ -6,11 +6,12 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.04.12_
+_Updated on 2026.04.13_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
-|**2026-04-09**|**HyperMem: Hypergraph Memory for Long-Term Conversations**|Juwei Yue et.al.|[2604.08256_(ACL)](http://arxiv.org/abs/2604.08256)|
+|**2026-04-10**|**Mnemis: Dual-Route Retrieval on Hierarchical Graphs for Long-Term LLM Memory**|Zihao Tang et.al.|[2602.15313_(ACL)](http://arxiv.org/abs/2602.15313)|
+|**2026-04-10**|**HyperMem: Hypergraph Memory for Long-Term Conversations**|Juwei Yue et.al.|[2604.08256_(ACL)](http://arxiv.org/abs/2604.08256)|
 |**2026-04-08**|**KEO: Knowledge Extraction on OMIn via Knowledge Graphs and RAG for Safety-Critical Aviation Maintenance**|Kuangshi Ai et.al.|[2510.05524](http://arxiv.org/abs/2510.05524)|
 |**2026-04-08**|**OrgForge: A Multi-Agent Simulation Framework for Verifiable Synthetic Corporate Corpora**|Jeffrey Flynt et.al.|[2603.14997_(CHI)](http://arxiv.org/abs/2603.14997)|
 |**2026-04-08**|**A Graph-Enhanced Defense Framework for Explainable Fake News Detection with LLM**|Bo Wang et.al.|[2604.06666](http://arxiv.org/abs/2604.06666)|
@@ -27,6 +28,7 @@ _Updated on 2026.04.12_
 |**2026-03-31**|**UniAI-GraphRAG: Synergizing Ontology-Guided Extraction, Multi-Dimensional Clustering, and Dual-Channel Fusion for Robust Multi-Hop Reasoning**|Jie Wang et.al.|[2603.25152](http://arxiv.org/abs/2603.25152)|
 |**2026-03-30**|**ORACAL: A Robust and Explainable Multimodal Framework for Smart Contract Vulnerability Detection with Causal Graph Enrichment**|Tran Duong Minh Dai et.al.|[2603.28128](http://arxiv.org/abs/2603.28128)|
 |**2026-03-30**|**From PDF to RAG-Ready: Evaluating Document Conversion Frameworks for Domain-Specific Question Answering**|José Guilherme Marques dos Santos et.al.|[2604.04948](http://arxiv.org/abs/2604.04948)|
+|**2026-03-30**|**QCFuse: Query-Centric Cache Fusion for Efficient RAG Inference**|Jianxin Yan et.al.|[2604.08585](http://arxiv.org/abs/2604.08585)|
 |**2026-03-29**|**GAAMA: Graph Augmented Associative Memory for Agents**|Swarna Kamal Paul et.al.|[2603.27910](http://arxiv.org/abs/2603.27910)|
 |**2026-03-26**|**Evaluating adaptive and generative AI-based feedback and recommendations in a knowledge-graph-integrated programming learning system**|Lalita Na Nongkhai et.al.|[2603.24940](http://arxiv.org/abs/2603.24940)|
 |**2026-03-25**|**CoCR-RAG: Enhancing Retrieval-Augmented Generation in Web Q&A via Concept-oriented Context Reconstruction**|Kaize Shi et.al.|[2603.23989](http://arxiv.org/abs/2603.23989)|
@@ -78,7 +80,6 @@ _Updated on 2026.04.12_
 |**2026-02-19**|**Enhancing Large Language Models (LLMs) for Telecom using Dynamic Knowledge Graphs and Explainable Retrieval-Augmented Generation**|Dun Yuan et.al.|[2602.17529](http://arxiv.org/abs/2602.17529)|
 |**2026-02-18**|**Retrieval Augmented Generation of Literature-derived Polymer Knowledge: The Example of a Biodegradable Polymer Expert System**|Sonakshi Gupta et.al.|[2602.16650](http://arxiv.org/abs/2602.16650)|
 |**2026-02-17**|**Aeon: High-Performance Neuro-Symbolic Memory Management for Long-Horizon LLM Agents**|Mustafa Arslan et.al.|[2601.15311](http://arxiv.org/abs/2601.15311)|
-|**2026-02-17**|**Mnemis: Dual-Route Retrieval on Hierarchical Graphs for Long-Term LLM Memory**|Zihao Tang et.al.|[2602.15313](http://arxiv.org/abs/2602.15313)|
 |**2026-02-16**|**Beyond Fact Retrieval: Episodic Memory for RAG with Generative Semantic Workspaces**|Shreyas Rajesh et.al.|[2511.07587_(AAAI)](http://arxiv.org/abs/2511.07587)|
 |**2026-02-16**|**HyperRAG: Reasoning N-ary Facts over Hypergraphs for Retrieval Augmented Generation**|Wen-Sheng Lien et.al.|[2602.14470_(WWW)](http://arxiv.org/abs/2602.14470)|
 |**2026-02-13**|**Beyond Static Question Banks: Dynamic Knowledge Expansion via LLM-Automated Graph Construction and Adaptive Generation**|Yingquan Wang et.al.|[2602.00020](http://arxiv.org/abs/2602.00020)|

@@ -6,7 +6,7 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.04.12_
+_Updated on 2026.04.13_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
@@ -31,6 +31,7 @@ _Updated on 2026.04.12_
 |**2026-03-31**|**KAIJU: An Executive Kernel for Intent-Gated Execution of LLM Agents**|Cormac Guerin et.al.|[2604.02375](http://arxiv.org/abs/2604.02375)|
 |**2026-03-30**|**Heddle: A Distributed Orchestration System for Agentic RL Rollout**|Zili Zhang et.al.|[2603.28101](http://arxiv.org/abs/2603.28101)|
 |**2026-03-30**|**Multi-Agent Home Energy Management Assistant**|Wooyoung Jung et.al.|[2602.15219](http://arxiv.org/abs/2602.15219)|
+|**2026-03-30**|**CSAttention: Centroid-Scoring Attention for Accelerating LLM Inference**|Chuxu Song et.al.|[2604.08584](http://arxiv.org/abs/2604.08584)|
 |**2026-03-26**|**Large Language Models as Optimization Controllers: Adaptive Continuation for SIMP Topology Optimization**|Shaoliang Yang et.al.|[2603.25099](http://arxiv.org/abs/2603.25099)|
 |**2026-03-25**|**LMetric: Simple is Better - Multiplication May Be All You Need for LLM Request Scheduling**|Dingyan Zhang et.al.|[2603.15202](http://arxiv.org/abs/2603.15202)|
 |**2026-03-25**|**Language-Grounded Multi-Agent Planning for Personalized and Fair Participatory Urban Sensing**|Xusen Guo et.al.|[2603.24014](http://arxiv.org/abs/2603.24014)|

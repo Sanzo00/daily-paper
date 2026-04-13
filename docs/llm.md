@@ -6,7 +6,7 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.04.12_
+_Updated on 2026.04.13_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
@@ -27,6 +27,7 @@ _Updated on 2026.04.12_
 |**2026-04-03**|**TokenDance: Scaling Multi-Agent LLM Serving via Collective KV Cache Sharing**|Zhuohang Bian et.al.|[2604.03143](http://arxiv.org/abs/2604.03143)|
 |**2026-04-01**|**Universal YOCO for Efficient Depth Scaling**|Yutao Sun et.al.|[2604.01220](http://arxiv.org/abs/2604.01220)|
 |**2026-03-30**|**Low-Latency Edge LLM Handover via Joint KV Cache Transfer and Token Prefill**|Seunghun Lee et.al.|[2603.28018](http://arxiv.org/abs/2603.28018)|
+|**2026-03-30**|**CSAttention: Centroid-Scoring Attention for Accelerating LLM Inference**|Chuxu Song et.al.|[2604.08584](http://arxiv.org/abs/2604.08584)|
 |**2026-03-29**|**Sparse-RL: Breaking the Memory Wall in LLM Reinforcement Learning via Stable Sparse Rollouts**|Sijia Luo et.al.|[2601.10079](http://arxiv.org/abs/2601.10079)|
 |**2026-03-28**|**CoDec: Prefix-Shared Decoding Kernel for LLMs**|Zhibin Wang et.al.|[2505.17694](http://arxiv.org/abs/2505.17694)|
 |**2026-03-27**|**LiteCache: A Query Similarity-Driven, GPU-Centric KVCache Subsystem for Efficient LLM Inference**|Jiawei Yi et.al.|[2511.14510](http://arxiv.org/abs/2511.14510)|
