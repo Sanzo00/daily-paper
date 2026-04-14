@@ -6,10 +6,15 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.04.13_
+_Updated on 2026.04.14_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-04-13**|**MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens**|Yu Chen et.al.|[2603.23516](http://arxiv.org/abs/2603.23516)|
+|**2026-04-13**|**Flow-Controlled Scheduling for LLM Inference with Provable Stability Guarantees**|Zhuolun Dong et.al.|[2604.11001](http://arxiv.org/abs/2604.11001)|
+|**2026-04-13**|**ZoomR: Memory Efficient Reasoning through Multi-Granularity Key Value Retrieval**|David H. Yang et.al.|[2604.10898](http://arxiv.org/abs/2604.10898)|
+|**2026-04-12**|**IceCache: Memory-efficient KV-cache Management for Long-Sequence LLMs**|Yuzhen Mao et.al.|[2604.10539](http://arxiv.org/abs/2604.10539)|
+|**2026-04-10**|**MEMENTO: Teaching LLMs to Manage Their Own Context**|Vasilis Kontonis et.al.|[2604.09852](http://arxiv.org/abs/2604.09852)|
 |**2026-04-09**|**Accordion-Thinking: Self-Regulated Step Summaries for Efficient and Readable LLM Reasoning**|Zhicheng Yang et.al.|[2602.03249](http://arxiv.org/abs/2602.03249)|
 |**2026-04-09**|**Dual-Pool Token-Budget Routing for Cost-Efficient and Reliable LLM Serving**|Xunzhuo Liu et.al.|[2604.08075](http://arxiv.org/abs/2604.08075)|
 |**2026-04-09**|**KV Cache Offloading for Context-Intensive Tasks**|Andrey Bocharnikov et.al.|[2604.08426](http://arxiv.org/abs/2604.08426)|
@@ -58,6 +63,7 @@ _Updated on 2026.04.13_
 |**2026-03-13**|**Cost-Efficient Multimodal LLM Inference via Cross-Tier GPU Heterogeneity**|Donglin Yu et.al.|[2603.12707](http://arxiv.org/abs/2603.12707)|
 |**2026-03-13**|**Orla: A Library for Serving LLM-Based Multi-Agent Systems**|Rana Shahout et.al.|[2603.13605](http://arxiv.org/abs/2603.13605)|
 |**2026-03-13**|**StatePlane: A Cognitive State Plane for Long-Horizon AI Systems Under Bounded Context**|Sasank Annapureddy et.al.|[2603.13644](http://arxiv.org/abs/2603.13644)|
+|**2026-03-13**|**Token-Budget-Aware Pool Routing for Cost-Efficient LLM Inference**|Huamin Chen et.al.|[2604.09613](http://arxiv.org/abs/2604.09613)|
 |**2026-03-12**|**Accelerating Suffix Jailbreak attacks with Prefix-Shared KV-cache**|Xinhai Wang et.al.|[2603.13420](http://arxiv.org/abs/2603.13420)|
 |**2026-03-11**|**KV Cache Transform Coding for Compact Storage in LLM Inference**|Konrad Staniszewski et.al.|[2511.01815_(ICLR)](http://arxiv.org/abs/2511.01815)|
 |**2026-03-11**|**Beyond Max Tokens: Stealthy Resource Amplification via Tool Calling Chains in LLM Agents**|Kaiyu Zhou et.al.|[2601.10955](http://arxiv.org/abs/2601.10955)|
@@ -69,7 +75,6 @@ _Updated on 2026.04.13_
 |**2026-03-09**|**Not All Prefills Are Equal: PPD Disaggregation for Multi-turn LLM Serving**|Zongze Li et.al.|[2603.13358](http://arxiv.org/abs/2603.13358)|
 |**2026-03-08**|**Skip to the Good Part: Representation Structure & Inference-Time Layer Skipping in Diffusion vs. Autoregressive LLMs**|Raghavv Goel et.al.|[2603.07475_(ICLR)](http://arxiv.org/abs/2603.07475)|
 |**2026-03-06**|**Good-Enough LLM Obfuscation (GELO)**|Anatoly Belikov et.al.|[2603.05035](http://arxiv.org/abs/2603.05035)|
-|**2026-03-06**|**MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens**|Yu Chen et.al.|[2603.23516](http://arxiv.org/abs/2603.23516)|
 |**2026-03-05**|**Hardware-Software Co-design for 3D-DRAM-based LLM Serving Accelerator**|Cong Li et.al.|[2603.04797](http://arxiv.org/abs/2603.04797)|
 |**2026-03-05**|**InfoFlow KV: Information-Flow-Aware KV Recomputation for Long Context**|Xin Teng et.al.|[2603.05353](http://arxiv.org/abs/2603.05353)|
 |**2026-03-03**|**xLLM Technical Report**|Tongxuan Liu et.al.|[2510.14686](http://arxiv.org/abs/2510.14686)|

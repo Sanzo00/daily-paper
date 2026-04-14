@@ -6,10 +6,16 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.04.13_
+_Updated on 2026.04.14_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-04-13**|**Think Parallax: Solving Multi-Hop Problems via Multi-View Knowledge-Graph-Based Retrieval-Augmented Generation**|Jinliang Liu et.al.|[2510.15552](http://arxiv.org/abs/2510.15552)|
+|**2026-04-13**|**MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens**|Yu Chen et.al.|[2603.23516](http://arxiv.org/abs/2603.23516)|
+|**2026-04-13**|**Exploring Knowledge Conflicts for Faithful LLM Reasoning: Benchmark and Method**|Tianzhe Zhao et.al.|[2604.11209_(SIGIR)](http://arxiv.org/abs/2604.11209)|
+|**2026-04-12**|**ARK: Answer-Centric Retriever Tuning via KG-augmented Curriculum Learning**|Hang Ding et.al.|[2511.16326_(ACL)](http://arxiv.org/abs/2511.16326)|
+|**2026-04-12**|**CodaRAG: Connecting the Dots with Associativity Inspired by Complementary Learning**|Cheng-Yen Li et.al.|[2604.10426](http://arxiv.org/abs/2604.10426)|
+|**2026-04-12**|**HyperGraphPro: Progress-Aware Reinforcement Learning for Structure-Guided Hypergraph RAG**|Jinyoung Park et.al.|[2601.17755](http://arxiv.org/abs/2601.17755)|
 |**2026-04-10**|**Mnemis: Dual-Route Retrieval on Hierarchical Graphs for Long-Term LLM Memory**|Zihao Tang et.al.|[2602.15313_(ACL)](http://arxiv.org/abs/2602.15313)|
 |**2026-04-10**|**HyperMem: Hypergraph Memory for Long-Term Conversations**|Juwei Yue et.al.|[2604.08256_(ACL)](http://arxiv.org/abs/2604.08256)|
 |**2026-04-08**|**KEO: Knowledge Extraction on OMIn via Knowledge Graphs and RAG for Safety-Critical Aviation Maintenance**|Kuangshi Ai et.al.|[2510.05524](http://arxiv.org/abs/2510.05524)|
@@ -25,6 +31,7 @@ _Updated on 2026.04.13_
 |**2026-04-03**|**LogicPoison: Logical Attacks on Graph Retrieval-Augmented Generation**|Yilin Xiao et.al.|[2604.02954](http://arxiv.org/abs/2604.02954)|
 |**2026-04-03**|**BridgeRAG: Training-Free Bridge-Conditioned Retrieval for Multi-Hop Question Answering**|Andre Bacellar et.al.|[2604.03384](http://arxiv.org/abs/2604.03384)|
 |**2026-04-02**|**Competency Questions as Executable Plans: a Controlled RAG Architecture for Cultural Heritage Storytelling**|Naga Sowjanya Barla et.al.|[2604.02545](http://arxiv.org/abs/2604.02545)|
+|**2026-04-01**|**Do We Still Need GraphRAG? Benchmarking RAG and GraphRAG for Agentic Search Systems**|Dongzhe Fan et.al.|[2604.09666](http://arxiv.org/abs/2604.09666)|
 |**2026-03-31**|**UniAI-GraphRAG: Synergizing Ontology-Guided Extraction, Multi-Dimensional Clustering, and Dual-Channel Fusion for Robust Multi-Hop Reasoning**|Jie Wang et.al.|[2603.25152](http://arxiv.org/abs/2603.25152)|
 |**2026-03-30**|**ORACAL: A Robust and Explainable Multimodal Framework for Smart Contract Vulnerability Detection with Causal Graph Enrichment**|Tran Duong Minh Dai et.al.|[2603.28128](http://arxiv.org/abs/2603.28128)|
 |**2026-03-30**|**From PDF to RAG-Ready: Evaluating Document Conversion Frameworks for Domain-Specific Question Answering**|José Guilherme Marques dos Santos et.al.|[2604.04948](http://arxiv.org/abs/2604.04948)|
@@ -48,7 +55,6 @@ _Updated on 2026.04.13_
 |**2026-03-16**|**RadAnnotate: Large Language Models for Efficient and Reliable Radiology Report Annotation**|Saisha Pradeep Shetty et.al.|[2603.16002_(ICS)](http://arxiv.org/abs/2603.16002)|
 |**2026-03-15**|**KEPo: Knowledge Evolution Poison on Graph-based Retrieval-Augmented Generation**|Qizhi Chen et.al.|[2603.11501_(WWW)](http://arxiv.org/abs/2603.11501)|
 |**2026-03-14**|**Beyond Explicit Edges: Robust Reasoning over Noisy and Sparse Knowledge Graphs**|Hang Gao et.al.|[2603.14006](http://arxiv.org/abs/2603.14006)|
-|**2026-03-12**|**ARK: Answer-Centric Retriever Tuning via KG-augmented Curriculum Learning**|Jiawei Zhou et.al.|[2511.16326](http://arxiv.org/abs/2511.16326)|
 |**2026-03-12**|**DocSage: An Information Structuring Agent for Multi-Doc Multi-Entity Question Answering**|Teng Lin et.al.|[2603.11798](http://arxiv.org/abs/2603.11798)|
 |**2026-03-12**|**Shattering the Shortcut: A Topology-Regularized Benchmark for Multi-hop Medical Reasoning in LLMs**|Xing Zi et.al.|[2603.12458](http://arxiv.org/abs/2603.12458)|
 |**2026-03-11**|**Beyond Max Tokens: Stealthy Resource Amplification via Tool Calling Chains in LLM Agents**|Kaiyu Zhou et.al.|[2601.10955](http://arxiv.org/abs/2601.10955)|
@@ -58,7 +64,6 @@ _Updated on 2026.04.13_
 |**2026-03-10**|**TaSR-RAG: Taxonomy-guided Structured Reasoning for Retrieval-Augmented Generation**|Jiashuo Sun et.al.|[2603.09341](http://arxiv.org/abs/2603.09341)|
 |**2026-03-09**|**Understand Then Memory: A Cognitive Gist-Driven RAG Framework with Global Semantic Diffusion**|Pengcheng Zhou et.al.|[2602.15895](http://arxiv.org/abs/2602.15895)|
 |**2026-03-09**|**Towards Robust Retrieval-Augmented Generation Based on Knowledge Graph: A Comparative Analysis**|Hazem Amamou et.al.|[2603.05698_(ICS)](http://arxiv.org/abs/2603.05698)|
-|**2026-03-06**|**MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens**|Yu Chen et.al.|[2603.23516](http://arxiv.org/abs/2603.23516)|
 |**2026-03-05**|**InfoFlow KV: Information-Flow-Aware KV Recomputation for Long Context**|Xin Teng et.al.|[2603.05353](http://arxiv.org/abs/2603.05353)|
 |**2026-03-05**|**Core-based Hierarchies for Efficient GraphRAG**|Jakir Hossain et.al.|[2603.05207](http://arxiv.org/abs/2603.05207)|
 |**2026-03-05**|**MedCoRAG: Interpretable Hepatology Diagnosis via Hybrid Evidence Retrieval and Multispecialty Consensus**|Zheng Li et.al.|[2603.05129](http://arxiv.org/abs/2603.05129)|
@@ -102,6 +107,7 @@ _Updated on 2026.04.13_
 |**2026-02-03**|**Use Graph When It Needs: Efficiently and Adaptively Integrating Retrieval-Augmented Generation with Graphs**|Su Dong et.al.|[2602.03578](http://arxiv.org/abs/2602.03578)|
 |**2026-02-02**|**SOPRAG: Multi-view Graph Experts Retrieval for Industrial Standard Operating Procedures**|Liangtao Lin et.al.|[2602.01858](http://arxiv.org/abs/2602.01858)|
 |**2026-02-01**|**MedBeads: An Agent-Native, Immutable Data Substrate for Trustworthy Medical AI**|Takahito Nakajima et.al.|[2602.01086](http://arxiv.org/abs/2602.01086)|
+|**2026-01-31**|**Exploring Structural Complexity in Normative RAG with Graph-based approaches: A case study on the ETSI Standards**|Aiman Al Masoud et.al.|[2604.09868](http://arxiv.org/abs/2604.09868)|
 |**2026-01-30**|**Retrieval Augmented (Knowledge Graph), and Large Language Model-Driven Design Structure Matrix (DSM) Generation of Cyber-Physical Systems**|H. Sinan Bank et.al.|[2602.16715](http://arxiv.org/abs/2602.16715)|
 |**2026-01-28**|**RPO-RAG: Aligning Small LLMs with Relation-aware Preference Optimization for Knowledge Graph Question Answering**|Kaehyun Um et.al.|[2601.19225_(WWW)](http://arxiv.org/abs/2601.19225)|
 |**2026-01-28**|**Context-Augmented Code Generation Using Programming Knowledge Graphs**|Shahd Seddik et.al.|[2601.20810](http://arxiv.org/abs/2601.20810)|
@@ -140,7 +146,6 @@ _Updated on 2026.04.13_
 |**2026-01-01**|**In Line with Context: Repository-Level Code Generation via Context Inlining**|Chao Hu et.al.|[2601.00376_(FSE)](http://arxiv.org/abs/2601.00376)|
 |**2026-01-01**|**From Evidence-Based Medicine to Knowledge Graph: Retrieval-Augmented Generation for Sports Rehabilitation and a Domain Benchmark**|Jinning Zhang et.al.|[2601.00216](http://arxiv.org/abs/2601.00216)|
 |**2025-12-29**|**DySK-Attn: A Framework for Efficient, Real-Time Knowledge Updating in Large Language Models via Dynamic Sparse Knowledge Attention**|Kabir Khan et.al.|[2508.07185](http://arxiv.org/abs/2508.07185)|
-|**2025-12-29**|**Think Parallax: Solving Multi-Hop Problems via Multi-View Knowledge-Graph-Based Retrieval-Augmented Generation**|Jinliang Liu et.al.|[2510.15552](http://arxiv.org/abs/2510.15552)|
 |**2025-12-29**|**Multi-Agent Framework for Threat Mitigation and Resilience in AI-Based Systems**|Armstrong Foundjem et.al.|[2512.23132](http://arxiv.org/abs/2512.23132)|
 |**2025-12-23**|**Domain-Partitioned Hybrid RAG for Legal Reasoning: Toward Modular and Explainable Legal AI for India**|Rakshita Goel et.al.|[2602.23371](http://arxiv.org/abs/2602.23371)|
 |**2025-12-22**|**Ontology-Based Knowledge Graph Framework for Industrial Standard Documents via Hierarchical and Propositional Structuring**|Jiin Park et.al.|[2512.08398_(DATE)](http://arxiv.org/abs/2512.08398)|

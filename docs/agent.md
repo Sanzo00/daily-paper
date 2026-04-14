@@ -6,10 +6,16 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.04.13_
+_Updated on 2026.04.14_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-04-13**|**FlashMem: Distilling Intrinsic Latent Memory via Computation Reuse**|Yubo Hou et.al.|[2601.05505](http://arxiv.org/abs/2601.05505)|
+|**2026-04-13**|**MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens**|Yu Chen et.al.|[2603.23516](http://arxiv.org/abs/2603.23516)|
+|**2026-04-13**|**From Agent Loops to Structured Graphs:A Scheduler-Theoretic Framework for LLM Agent Execution**|Hu Wei et.al.|[2604.11378](http://arxiv.org/abs/2604.11378)|
+|**2026-04-13**|**MAFIG: Multi-agent Driven Formal Instruction Generation Framework**|Shixing Zhao et.al.|[2604.10989](http://arxiv.org/abs/2604.10989)|
+|**2026-04-11**|**CodeComp: Structural KV Cache Compression for Agentic Coding**|Qiujiang Chen et.al.|[2604.10235](http://arxiv.org/abs/2604.10235)|
+|**2026-04-11**|**WaterAdmin: Orchestrating Community Water Distribution Optimization via AI Agents**|Jiaqi Wen et.al.|[2604.10343](http://arxiv.org/abs/2604.10343)|
 |**2026-04-09**|**Quine: Realizing LLM Agents as Native POSIX Processes**|Hao Ke et.al.|[2603.18030_(ICS)](http://arxiv.org/abs/2603.18030)|
 |**2026-04-08**|**LongSpec: Long-Context Lossless Speculative Decoding with Efficient Drafting and Verification**|Penghui Yang et.al.|[2502.17421_(ACL)](http://arxiv.org/abs/2502.17421)|
 |**2026-04-08**|**PEARL: Self-Evolving Assistant for Time Management with Reinforcement Learning**|Bingxuan Li et.al.|[2601.11957](http://arxiv.org/abs/2601.11957)|
@@ -51,6 +57,7 @@ _Updated on 2026.04.13_
 |**2026-03-13**|**ARL-Tangram: Unleash the Resource Efficiency in Agentic Reinforcement Learning**|Bangjun Xiao et.al.|[2603.13019](http://arxiv.org/abs/2603.13019)|
 |**2026-03-13**|**Orla: A Library for Serving LLM-Based Multi-Agent Systems**|Rana Shahout et.al.|[2603.13605](http://arxiv.org/abs/2603.13605)|
 |**2026-03-12**|**Slow-Fast Inference: Training-Free Inference Acceleration via Within-Sentence Support Stability**|Xingyu Xie et.al.|[2603.12038](http://arxiv.org/abs/2603.12038)|
+|**2026-03-12**|**Characterizing Performance-Energy Trade-offs of Large Language Models in Multi-Request Workflows**|Md. Monzurul Amin Ifath et.al.|[2604.09611](http://arxiv.org/abs/2604.09611)|
 |**2026-03-11**|**Beyond Max Tokens: Stealthy Resource Amplification via Tool Calling Chains in LLM Agents**|Kaiyu Zhou et.al.|[2601.10955](http://arxiv.org/abs/2601.10955)|
 |**2026-03-11**|**BLITZRANK: Principled Zero-shot Ranking Agents with Tournament Graphs**|Sheshansh Agrawal et.al.|[2602.05448](http://arxiv.org/abs/2602.05448)|
 |**2026-03-10**|**ThunderAgent: A Simple, Fast and Program-Aware Agentic Inference System**|Hao Kang et.al.|[2602.13692](http://arxiv.org/abs/2602.13692)|
@@ -59,7 +66,6 @@ _Updated on 2026.04.13_
 |**2026-03-09**|**Not All Prefills Are Equal: PPD Disaggregation for Multi-turn LLM Serving**|Zongze Li et.al.|[2603.13358](http://arxiv.org/abs/2603.13358)|
 |**2026-03-09**|**Can LLMs Perceive Time? An Empirical Investigation**|Aniketh Garikaparthi et.al.|[2604.00010_(ICLR)](http://arxiv.org/abs/2604.00010)|
 |**2026-03-06**|**Characterizing Faults in Agentic AI: A Taxonomy of Types, Symptoms, and Root Causes**|Mehil B Shah et.al.|[2603.06847](http://arxiv.org/abs/2603.06847)|
-|**2026-03-06**|**MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens**|Yu Chen et.al.|[2603.23516](http://arxiv.org/abs/2603.23516)|
 |**2026-03-05**|**PerfGuard: A Performance-Aware Agent for Visual Content Generation**|Zhipeng Chen et.al.|[2601.22571_(FG)](http://arxiv.org/abs/2601.22571)|
 |**2026-03-04**|**ChatNeuroSim: An LLM Agent Framework for Automated Compute-in-Memory Accelerator Deployment and Optimization**|Ming-Yen Lee et.al.|[2603.08745](http://arxiv.org/abs/2603.08745)|
 |**2026-03-03**|**ParEVO: Synthesizing Code for Irregular Data: High-Performance Parallelism through Agentic Evolution**|Liu Yang et.al.|[2603.02510](http://arxiv.org/abs/2603.02510)|
@@ -131,7 +137,6 @@ _Updated on 2026.04.13_
 |**2026-01-13**|**Unleashing Tool Engineering and Intelligence for Agentic AI in Next-Generation Communication Networks**|Yinqiu Liu et.al.|[2601.08259](http://arxiv.org/abs/2601.08259)|
 |**2026-01-12**|**OpenTinker: Separating Concerns in Agentic Reinforcement Learning**|Siqi Zhu et.al.|[2601.07376](http://arxiv.org/abs/2601.07376)|
 |**2026-01-11**|**RealMem: Benchmarking LLMs in Real-World Memory-Driven Interaction**|Haonan Bian et.al.|[2601.06966](http://arxiv.org/abs/2601.06966)|
-|**2026-01-09**|**FlashMem: Distilling Intrinsic Latent Memory via Computation Reuse**|Yubo Hou et.al.|[2601.05505](http://arxiv.org/abs/2601.05505)|
 |**2026-01-08**|**Nalar: An agent serving framework**|Marco Laju et.al.|[2601.05109](http://arxiv.org/abs/2601.05109)|
 |**2026-01-07**|**NEMO-4-PAYPAL: Leveraging NVIDIA's Nemo Framework for empowering PayPal's Commerce Agent**|Sudhanshu Garg et.al.|[2512.21578](http://arxiv.org/abs/2512.21578)|
 |**2026-01-06**|**Agent.xpu: Efficient Scheduling of Agentic LLM Workloads on Heterogeneous SoC**|Xinming Wei et.al.|[2506.24045](http://arxiv.org/abs/2506.24045)|
