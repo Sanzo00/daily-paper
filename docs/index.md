@@ -11,6 +11,7 @@ _Updated on 2026.04.14_
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
 |**2026-04-13**|**Think Parallax: Solving Multi-Hop Problems via Multi-View Knowledge-Graph-Based Retrieval-Augmented Generation**|Jinliang Liu et.al.|[2510.15552](http://arxiv.org/abs/2510.15552)|
+|**2026-04-13**|**AtlasKV: Augmenting LLMs with Billion-Scale Knowledge Graphs in 20GB VRAM**|Haoyu Huang et.al.|[2510.17934_(ICLR)](http://arxiv.org/abs/2510.17934)|
 |**2026-04-13**|**MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens**|Yu Chen et.al.|[2603.23516](http://arxiv.org/abs/2603.23516)|
 |**2026-04-13**|**Exploring Knowledge Conflicts for Faithful LLM Reasoning: Benchmark and Method**|Tianzhe Zhao et.al.|[2604.11209_(SIGIR)](http://arxiv.org/abs/2604.11209)|
 |**2026-04-12**|**ARK: Answer-Centric Retriever Tuning via KG-augmented Curriculum Learning**|Hang Ding et.al.|[2511.16326_(ACL)](http://arxiv.org/abs/2511.16326)|
@@ -218,7 +219,6 @@ _Updated on 2026.04.14_
 |**2025-10-23**|**HA-RAG: Hotness-Aware RAG Acceleration via Mixed Precision and Data Placement**|Danying Ge et.al.|[2510.20878](http://arxiv.org/abs/2510.20878)|
 |**2025-10-22**|**Interpretable Question Answering with Knowledge Graphs**|Kartikeya Aneja et.al.|[2510.19181](http://arxiv.org/abs/2510.19181)|
 |**2025-10-20**|**AutoGraph-R1: End-to-End Reinforcement Learning for Knowledge Graph Construction**|Hong Ting Tsang et.al.|[2510.15339](http://arxiv.org/abs/2510.15339)|
-|**2025-10-20**|**AtlasKV: Augmenting LLMs with Billion-Scale Knowledge Graphs in 20GB VRAM**|Haoyu Huang et.al.|[2510.17934](http://arxiv.org/abs/2510.17934)|
 |**2025-10-20**|**GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation**|Linhao Luo et.al.|[2502.01113_(NeurIPS)](http://arxiv.org/abs/2502.01113)|
 |**2025-10-20**|**Naiad: Novel Agentic Intelligent Autonomous System for Inland Water Monitoring**|Eirini Baltzi et.al.|[2601.05256](http://arxiv.org/abs/2601.05256)|
 |**2025-10-18**|**ReaGAN: Node-as-Agent-Reasoning Graph Agentic Network**|Minghao Guo et.al.|[2508.00429](http://arxiv.org/abs/2508.00429)|
