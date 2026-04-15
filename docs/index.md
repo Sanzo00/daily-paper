@@ -6,14 +6,15 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.04.14_
+_Updated on 2026.04.15_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
-|**2026-04-13**|**Think Parallax: Solving Multi-Hop Problems via Multi-View Knowledge-Graph-Based Retrieval-Augmented Generation**|Jinliang Liu et.al.|[2510.15552](http://arxiv.org/abs/2510.15552)|
+|**2026-04-14**|**Think Parallax: Solving Multi-Hop Problems via Multi-View Knowledge-Graph-Based Retrieval-Augmented Generation**|Jinliang Liu et.al.|[2510.15552](http://arxiv.org/abs/2510.15552)|
 |**2026-04-13**|**AtlasKV: Augmenting LLMs with Billion-Scale Knowledge Graphs in 20GB VRAM**|Haoyu Huang et.al.|[2510.17934_(ICLR)](http://arxiv.org/abs/2510.17934)|
 |**2026-04-13**|**MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens**|Yu Chen et.al.|[2603.23516](http://arxiv.org/abs/2603.23516)|
 |**2026-04-13**|**Exploring Knowledge Conflicts for Faithful LLM Reasoning: Benchmark and Method**|Tianzhe Zhao et.al.|[2604.11209_(SIGIR)](http://arxiv.org/abs/2604.11209)|
+|**2026-04-13**|**Beyond Factual Grounding: The Case for Opinion-Aware Retrieval-Augmented Generation**|Aditya Agrawal et.al.|[2604.12138](http://arxiv.org/abs/2604.12138)|
 |**2026-04-12**|**ARK: Answer-Centric Retriever Tuning via KG-augmented Curriculum Learning**|Hang Ding et.al.|[2511.16326_(ACL)](http://arxiv.org/abs/2511.16326)|
 |**2026-04-12**|**CodaRAG: Connecting the Dots with Associativity Inspired by Complementary Learning**|Cheng-Yen Li et.al.|[2604.10426](http://arxiv.org/abs/2604.10426)|
 |**2026-04-12**|**HyperGraphPro: Progress-Aware Reinforcement Learning for Structure-Guided Hypergraph RAG**|Jinyoung Park et.al.|[2601.17755](http://arxiv.org/abs/2601.17755)|
