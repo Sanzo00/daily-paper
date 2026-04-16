@@ -6,11 +6,12 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.04.15_
+_Updated on 2026.04.16_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
 |**2026-04-14**|**Think Parallax: Solving Multi-Hop Problems via Multi-View Knowledge-Graph-Based Retrieval-Augmented Generation**|Jinliang Liu et.al.|[2510.15552](http://arxiv.org/abs/2510.15552)|
+|**2026-04-14**|**RAG or Learning? Understanding the Limits of LLM Adaptation under Continuous Knowledge Drift in the Real World**|Hanbing Liu et.al.|[2604.05096](http://arxiv.org/abs/2604.05096)|
 |**2026-04-13**|**AtlasKV: Augmenting LLMs with Billion-Scale Knowledge Graphs in 20GB VRAM**|Haoyu Huang et.al.|[2510.17934_(ICLR)](http://arxiv.org/abs/2510.17934)|
 |**2026-04-13**|**MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens**|Yu Chen et.al.|[2603.23516](http://arxiv.org/abs/2603.23516)|
 |**2026-04-13**|**Exploring Knowledge Conflicts for Faithful LLM Reasoning: Benchmark and Method**|Tianzhe Zhao et.al.|[2604.11209_(SIGIR)](http://arxiv.org/abs/2604.11209)|
@@ -20,6 +21,7 @@ _Updated on 2026.04.15_
 |**2026-04-12**|**HyperGraphPro: Progress-Aware Reinforcement Learning for Structure-Guided Hypergraph RAG**|Jinyoung Park et.al.|[2601.17755](http://arxiv.org/abs/2601.17755)|
 |**2026-04-10**|**Mnemis: Dual-Route Retrieval on Hierarchical Graphs for Long-Term LLM Memory**|Zihao Tang et.al.|[2602.15313_(ACL)](http://arxiv.org/abs/2602.15313)|
 |**2026-04-10**|**HyperMem: Hypergraph Memory for Long-Term Conversations**|Juwei Yue et.al.|[2604.08256_(ACL)](http://arxiv.org/abs/2604.08256)|
+|**2026-04-10**|**Building Trust in the Skies: A Knowledge-Grounded LLM-based Framework for Aviation Safety**|Anirudh Iyengar et.al.|[2604.13101](http://arxiv.org/abs/2604.13101)|
 |**2026-04-08**|**KEO: Knowledge Extraction on OMIn via Knowledge Graphs and RAG for Safety-Critical Aviation Maintenance**|Kuangshi Ai et.al.|[2510.05524](http://arxiv.org/abs/2510.05524)|
 |**2026-04-08**|**OrgForge: A Multi-Agent Simulation Framework for Verifiable Synthetic Corporate Corpora**|Jeffrey Flynt et.al.|[2603.14997_(CHI)](http://arxiv.org/abs/2603.14997)|
 |**2026-04-08**|**A Graph-Enhanced Defense Framework for Explainable Fake News Detection with LLM**|Bo Wang et.al.|[2604.06666](http://arxiv.org/abs/2604.06666)|
@@ -27,7 +29,6 @@ _Updated on 2026.04.15_
 |**2026-04-07**|**Plasma GraphRAG: Physics-Grounded Parameter Selection for Gyrokinetic Simulations**|Ruichen Zhang et.al.|[2604.06279](http://arxiv.org/abs/2604.06279)|
 |**2026-04-06**|**GROUNDEDKG-RAG: Grounded Knowledge Graph Index for Long-document Question Answering**|Tianyi Zhang et.al.|[2604.04359](http://arxiv.org/abs/2604.04359)|
 |**2026-04-06**|**PassiveQA: A Three-Action Framework for Epistemically Calibrated Question Answering via Supervised Finetuning**|Madhav S Baidya et.al.|[2604.04565](http://arxiv.org/abs/2604.04565)|
-|**2026-04-06**|**RAG or Learning? Understanding the Limits of LLM Adaptation under Continuous Knowledge Drift in the Real World**|Hanbing Liu et.al.|[2604.05096](http://arxiv.org/abs/2604.05096)|
 |**2026-04-05**|**Unmasking Hallucinations: A Causal Graph-Attention Perspective on Factual Reliability in Large Language Models**|Sailesh kiran kurra et.al.|[2604.04020](http://arxiv.org/abs/2604.04020)|
 |**2026-04-04**|**Beyond Retrieval: Modeling Confidence Decay and Deterministic Agentic Platforms in Generative Engine Optimization**|XinYu Zhao et.al.|[2604.03656](http://arxiv.org/abs/2604.03656)|
 |**2026-04-03**|**LogicPoison: Logical Attacks on Graph Retrieval-Augmented Generation**|Yilin Xiao et.al.|[2604.02954](http://arxiv.org/abs/2604.02954)|

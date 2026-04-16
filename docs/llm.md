@@ -6,12 +6,14 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.04.15_
+_Updated on 2026.04.16_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
 |**2026-04-14**|**Beyond Accuracy: Unveiling Inefficiency Patterns in Tool-Integrated Reasoning**|Qisheng Su et.al.|[2604.05404_(ACL)](http://arxiv.org/abs/2604.05404)|
+|**2026-04-14**|**Token-Budget-Aware Pool Routing for Cost-Efficient LLM Inference**|Huamin Chen et.al.|[2604.09613](http://arxiv.org/abs/2604.09613)|
 |**2026-04-14**|**PipeLive: Efficient Live In-place Pipeline Parallelism Reconfiguration for Dynamic LLM Serving**|Xu Bai et.al.|[2604.12171](http://arxiv.org/abs/2604.12171)|
+|**2026-04-14**|**When Less Latent Leads to Better Relay: Information-Preserving Compression for Latent Multi-Agent LLM Collaboration**|Yiping Li et.al.|[2604.13349](http://arxiv.org/abs/2604.13349)|
 |**2026-04-13**|**MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens**|Yu Chen et.al.|[2603.23516](http://arxiv.org/abs/2603.23516)|
 |**2026-04-13**|**Flow-Controlled Scheduling for LLM Inference with Provable Stability Guarantees**|Zhuolun Dong et.al.|[2604.11001](http://arxiv.org/abs/2604.11001)|
 |**2026-04-13**|**ZoomR: Memory Efficient Reasoning through Multi-Granularity Key Value Retrieval**|David H. Yang et.al.|[2604.10898](http://arxiv.org/abs/2604.10898)|
@@ -65,7 +67,6 @@ _Updated on 2026.04.15_
 |**2026-03-13**|**Cost-Efficient Multimodal LLM Inference via Cross-Tier GPU Heterogeneity**|Donglin Yu et.al.|[2603.12707](http://arxiv.org/abs/2603.12707)|
 |**2026-03-13**|**Orla: A Library for Serving LLM-Based Multi-Agent Systems**|Rana Shahout et.al.|[2603.13605](http://arxiv.org/abs/2603.13605)|
 |**2026-03-13**|**StatePlane: A Cognitive State Plane for Long-Horizon AI Systems Under Bounded Context**|Sasank Annapureddy et.al.|[2603.13644](http://arxiv.org/abs/2603.13644)|
-|**2026-03-13**|**Token-Budget-Aware Pool Routing for Cost-Efficient LLM Inference**|Huamin Chen et.al.|[2604.09613](http://arxiv.org/abs/2604.09613)|
 |**2026-03-12**|**Accelerating Suffix Jailbreak attacks with Prefix-Shared KV-cache**|Xinhai Wang et.al.|[2603.13420](http://arxiv.org/abs/2603.13420)|
 |**2026-03-11**|**KV Cache Transform Coding for Compact Storage in LLM Inference**|Konrad Staniszewski et.al.|[2511.01815_(ICLR)](http://arxiv.org/abs/2511.01815)|
 |**2026-03-11**|**Beyond Max Tokens: Stealthy Resource Amplification via Tool Calling Chains in LLM Agents**|Kaiyu Zhou et.al.|[2601.10955](http://arxiv.org/abs/2601.10955)|
