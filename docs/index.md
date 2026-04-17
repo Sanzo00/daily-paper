@@ -6,10 +6,13 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.04.16_
+_Updated on 2026.04.17_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-04-16**|**LLMOrbit: A Circular Taxonomy of Large Language Models -From Scaling Walls to Agentic AI Systems**|Badri N. Patro et.al.|[2601.14053](http://arxiv.org/abs/2601.14053)|
+|**2026-04-16**|**Enhancing Mental Health Counseling Support in Bangladesh using Culturally-Grounded Knowledge**|Md Arid Hasan et.al.|[2604.14576](http://arxiv.org/abs/2604.14576)|
+|**2026-04-16**|**UrbanClipAtlas: A Visual Analytics Framework for Event and Scene Retrieval in Urban Videos**|Joel Perca et.al.|[2604.15225](http://arxiv.org/abs/2604.15225)|
 |**2026-04-14**|**Think Parallax: Solving Multi-Hop Problems via Multi-View Knowledge-Graph-Based Retrieval-Augmented Generation**|Jinliang Liu et.al.|[2510.15552](http://arxiv.org/abs/2510.15552)|
 |**2026-04-14**|**RAG or Learning? Understanding the Limits of LLM Adaptation under Continuous Knowledge Drift in the Real World**|Hanbing Liu et.al.|[2604.05096](http://arxiv.org/abs/2604.05096)|
 |**2026-04-13**|**AtlasKV: Augmenting LLMs with Billion-Scale Knowledge Graphs in 20GB VRAM**|Haoyu Huang et.al.|[2510.17934_(ICLR)](http://arxiv.org/abs/2510.17934)|
@@ -125,7 +128,6 @@ _Updated on 2026.04.16_
 |**2026-01-21**|**What Makes AI Research Replicable? Executable Knowledge Graphs as Scientific Knowledge Representations**|Yujie Luo et.al.|[2510.17795](http://arxiv.org/abs/2510.17795)|
 |**2026-01-21**|**AlertGuardian: Intelligent Alert Life-Cycle Management for Large-scale Cloud Systems**|Guangba Yu et.al.|[2601.14912](http://arxiv.org/abs/2601.14912)|
 |**2026-01-21**|**Domain-Specific Knowledge Graphs in RAG-Enhanced Healthcare LLMs**|Sydney Anuyah et.al.|[2601.15429](http://arxiv.org/abs/2601.15429)|
-|**2026-01-20**|**LLMOrbit: A Circular Taxonomy of Large Language Models -From Scaling Walls to Agentic AI Systems**|Badri N. Patro et.al.|[2601.14053](http://arxiv.org/abs/2601.14053)|
 |**2026-01-19**|**From Prefix Cache to Fusion RAG Cache: Accelerating LLM Inference in Retrieval-Augmented Generation**|Jiahao Wang et.al.|[2601.12904](http://arxiv.org/abs/2601.12904)|
 |**2026-01-19**|**STEP-LLM: Generating CAD STEP Models from Natural Language with Large Language Models**|Xiangyu Shi et.al.|[2601.12641_(DATE)](http://arxiv.org/abs/2601.12641)|
 |**2026-01-16**|**SD-RAG: A Prompt-Injection-Resilient Framework for Selective Disclosure in Retrieval-Augmented Generation**|Aiman Al Masoud et.al.|[2601.11199](http://arxiv.org/abs/2601.11199)|
