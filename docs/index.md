@@ -6,10 +6,13 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.04.20_
+_Updated on 2026.04.21_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-04-20**|**MegaRAG: Multimodal Knowledge Graph-Based Retrieval Augmented Generation**|Chi-Hsiang Hsiao et.al.|[2512.20626_(ACL)](http://arxiv.org/abs/2512.20626)|
+|**2026-04-19**|**EHRAG: Bridging Semantic Gaps in Lightweight GraphRAG via Hybrid Hypergraph Construction and Retrieval**|Yifan Song et.al.|[2604.17458_(ACL)](http://arxiv.org/abs/2604.17458)|
+|**2026-04-18**|**The Provenance Gap in Clinical AI: Evidence-Traceable Temporal Knowledge Graphs for Rare Disease Reasoning**|Md Shamim Ahmed et.al.|[2604.17114](http://arxiv.org/abs/2604.17114)|
 |**2026-04-17**|**EvoRAG: Making Knowledge Graph-based RAG Automatically Evolve through Feedback-driven Backpropagation**|Zhenbo Fu et.al.|[2604.15676](http://arxiv.org/abs/2604.15676)|
 |**2026-04-16**|**LLMOrbit: A Circular Taxonomy of Large Language Models -From Scaling Walls to Agentic AI Systems**|Badri N. Patro et.al.|[2601.14053](http://arxiv.org/abs/2601.14053)|
 |**2026-04-16**|**Enhancing Mental Health Counseling Support in Bangladesh using Culturally-Grounded Knowledge**|Md Arid Hasan et.al.|[2604.14576](http://arxiv.org/abs/2604.14576)|
@@ -61,6 +64,7 @@ _Updated on 2026.04.20_
 |**2026-03-17**|**IndexRAG: Bridging Facts for Cross-Document Reasoning at Index Time**|Zhenghua Bao et.al.|[2603.16415](http://arxiv.org/abs/2603.16415)|
 |**2026-03-16**|**PAT: Accelerating LLM Decoding via Prefix-Aware Attention with Resource Efficient Multi-Tile Kernel**|Jinjun Yi et.al.|[2511.22333_(ASPLOS)](http://arxiv.org/abs/2511.22333)|
 |**2026-03-16**|**RadAnnotate: Large Language Models for Efficient and Reliable Radiology Report Annotation**|Saisha Pradeep Shetty et.al.|[2603.16002_(ICS)](http://arxiv.org/abs/2603.16002)|
+|**2026-03-16**|**LiteSemRAG: Lightweight LLM-Free Semantic-Aware Graph Retrieval for Robust RAG**|Xiao Yue et.al.|[2604.16350](http://arxiv.org/abs/2604.16350)|
 |**2026-03-15**|**KEPo: Knowledge Evolution Poison on Graph-based Retrieval-Augmented Generation**|Qizhi Chen et.al.|[2603.11501_(WWW)](http://arxiv.org/abs/2603.11501)|
 |**2026-03-14**|**Beyond Explicit Edges: Robust Reasoning over Noisy and Sparse Knowledge Graphs**|Hang Gao et.al.|[2603.14006](http://arxiv.org/abs/2603.14006)|
 |**2026-03-12**|**DocSage: An Information Structuring Agent for Multi-Doc Multi-Entity Question Answering**|Teng Lin et.al.|[2603.11798](http://arxiv.org/abs/2603.11798)|
@@ -186,7 +190,6 @@ _Updated on 2026.04.20_
 |**2025-11-27**|**Unlocking Electronic Health Records: A Hybrid Graph RAG Approach to Safe Clinical AI for Patient QA**|Samuel Thio et.al.|[2602.00009](http://arxiv.org/abs/2602.00009)|
 |**2025-11-26**|**Chatty-KG: A Multi-Agent AI System for On-Demand Conversational Question Answering over Knowledge Graphs**|Reham Omar et.al.|[2511.20940_(SIGMOD)](http://arxiv.org/abs/2511.20940)|
 |**2025-11-26**|**Graph-O1 : Monte Carlo Tree Search with Reinforcement Learning for Text-Attributed Graph Reasoning**|Lihui Liu et.al.|[2512.17912](http://arxiv.org/abs/2512.17912)|
-|**2025-11-26**|**MegaRAG: Multimodal Knowledge Graph-Based Retrieval Augmented Generation**|Chi-Hsiang Hsiao et.al.|[2512.20626](http://arxiv.org/abs/2512.20626)|
 |**2025-11-25**|**HyperbolicRAG: Enhancing Retrieval-Augmented Generation with Hyperbolic Representations**|Linxiao Cao et.al.|[2511.18808](http://arxiv.org/abs/2511.18808)|
 |**2025-11-24**|**Human Cognition Inspired RAG with Knowledge Graph for Complex Problem Solving**|Yao Cheng et.al.|[2503.06567_(AAAI)](http://arxiv.org/abs/2503.06567)|
 |**2025-11-24**|**Concept than Document: Context Compression via AMR-based Conceptual Entropy**|Kaize Shi et.al.|[2511.18832](http://arxiv.org/abs/2511.18832)|

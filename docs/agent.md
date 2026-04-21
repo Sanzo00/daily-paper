@@ -6,10 +6,15 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.04.20_
+_Updated on 2026.04.21_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-04-20**|**AIT Academy: Cultivating the Complete Agent with a Confucian Three-Domain Curriculum**|Jiaqi Li et.al.|[2604.17989](http://arxiv.org/abs/2604.17989)|
+|**2026-04-19**|**Beyond Static Snapshots: A Grounded Evaluation Framework for Language Models at the Agentic Frontier**|Jazmia Henry et.al.|[2604.17573](http://arxiv.org/abs/2604.17573)|
+|**2026-04-19**|**EmbodiedHead: Real-Time Listening and Speaking Avatar for Conversational Agents**|Yu Zhang et.al.|[2604.17211](http://arxiv.org/abs/2604.17211)|
+|**2026-04-19**|**Hive: A Multi-Agent Infrastructure for Algorithm- and Task-Level Scaling**|Zizhang Luo et.al.|[2604.17353](http://arxiv.org/abs/2604.17353)|
+|**2026-04-18**|**HiveMind: OS-Inspired Scheduling for Concurrent LLM Agent Workloads**|Justice Owusu Agyemang et.al.|[2604.17111](http://arxiv.org/abs/2604.17111)|
 |**2026-04-17**|**Sutradhara: An Intelligent Orchestrator-Engine Co-design for Tool-based Agentic Inference**|Anish Biswas et.al.|[2601.12967](http://arxiv.org/abs/2601.12967)|
 |**2026-04-17**|**CoMeT: Collaborative Memory Transformer for Efficient Long Context Modeling**|Runsong Zhao et.al.|[2602.01766_(ACL)](http://arxiv.org/abs/2602.01766)|
 |**2026-04-16**|**LLMOrbit: A Circular Taxonomy of Large Language Models -From Scaling Walls to Agentic AI Systems**|Badri N. Patro et.al.|[2601.14053](http://arxiv.org/abs/2601.14053)|
@@ -24,6 +29,7 @@ _Updated on 2026.04.20_
 |**2026-04-11**|**CodeComp: Structural KV Cache Compression for Agentic Coding**|Qiujiang Chen et.al.|[2604.10235](http://arxiv.org/abs/2604.10235)|
 |**2026-04-11**|**WaterAdmin: Orchestrating Community Water Distribution Optimization via AI Agents**|Jiaqi Wen et.al.|[2604.10343](http://arxiv.org/abs/2604.10343)|
 |**2026-04-09**|**Quine: Realizing LLM Agents as Native POSIX Processes**|Hao Ke et.al.|[2603.18030_(ICS)](http://arxiv.org/abs/2603.18030)|
+|**2026-04-09**|**B-PASTE: Beam-Aware Pattern-Guided Speculative Execution for Resource-Constrained LLM Agents**|Yanfei Song et.al.|[2604.16469](http://arxiv.org/abs/2604.16469)|
 |**2026-04-08**|**LongSpec: Long-Context Lossless Speculative Decoding with Efficient Drafting and Verification**|Penghui Yang et.al.|[2502.17421_(ACL)](http://arxiv.org/abs/2502.17421)|
 |**2026-04-08**|**PEARL: Self-Evolving Assistant for Time Management with Reinforcement Learning**|Bingxuan Li et.al.|[2601.11957](http://arxiv.org/abs/2601.11957)|
 |**2026-04-08**|**The Workload-Router-Pool Architecture for LLM Inference Optimization: A Vision Paper from the vLLM Semantic Router Project**|Huamin Chen et.al.|[2603.21354](http://arxiv.org/abs/2603.21354)|

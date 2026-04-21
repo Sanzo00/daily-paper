@@ -6,10 +6,16 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.04.20_
+_Updated on 2026.04.21_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-04-20**|**MoE-nD: Per-Layer Mixture-of-Experts Routing for Multi-Axis KV Cache Compression**|Libo Sun et.al.|[2604.17695](http://arxiv.org/abs/2604.17695)|
+|**2026-04-19**|**ODMA: On-Demand Memory Allocation Strategy for LLM Serving on LPDDR-Class Accelerators**|Guoqiang Zou et.al.|[2512.09427](http://arxiv.org/abs/2512.09427)|
+|**2026-04-19**|**SLO-Guard: Crash-Aware, Budget-Consistent Autotuning for SLO-Constrained LLM Serving**|Christian Lysenstøen et.al.|[2604.17627](http://arxiv.org/abs/2604.17627)|
+|**2026-04-19**|**Bit-Flip Vulnerability of Shared KV-Cache Blocks in LLM Serving Systems**|Yuji Yamamoto et.al.|[2604.17249](http://arxiv.org/abs/2604.17249)|
+|**2026-04-19**|**Layer-wise MoE Routing Locality under Shared-Prefix Code Generation: Token-Identity Decomposition and Compile-Equivalent Fork Redundancy**|Shun-ichiro Hayashi et.al.|[2604.17182](http://arxiv.org/abs/2604.17182)|
+|**2026-04-18**|**HeteroCache: A Dynamic Retrieval Approach to Heterogeneous KV Cache Compression for Long-Context LLM Inference**|Zhiyuan Shi et.al.|[2601.13684_(ACL)](http://arxiv.org/abs/2601.13684)|
 |**2026-04-17**|**Sutradhara: An Intelligent Orchestrator-Engine Co-design for Tool-based Agentic Inference**|Anish Biswas et.al.|[2601.12967](http://arxiv.org/abs/2601.12967)|
 |**2026-04-17**|**CoMeT: Collaborative Memory Transformer for Efficient Long Context Modeling**|Runsong Zhao et.al.|[2602.01766_(ACL)](http://arxiv.org/abs/2602.01766)|
 |**2026-04-16**|**Adaptive Layer Selection for Layer-Wise Token Pruning in LLM Inference**|Rei Taniguchi et.al.|[2601.07667_(ACL)](http://arxiv.org/abs/2601.07667)|
@@ -50,7 +56,6 @@ _Updated on 2026.04.20_
 |**2026-03-27**|**LiteCache: A Query Similarity-Driven, GPU-Centric KVCache Subsystem for Efficient LLM Inference**|Jiawei Yi et.al.|[2511.14510](http://arxiv.org/abs/2511.14510)|
 |**2026-03-26**|**Extending Puzzle for Mixture-of-Experts Reasoning Models with Application to GPT-OSS Acceleration**|Akhiad Bercovich et.al.|[2602.11937](http://arxiv.org/abs/2602.11937)|
 |**2026-03-25**|**Bottlenecked Transformers: Periodic KV Cache Consolidation for Generalised Reasoning**|Adnan Oomerjee et.al.|[2505.16950](http://arxiv.org/abs/2505.16950)|
-|**2026-03-25**|**ODMA: On-Demand Memory Allocation Strategy for LLM Serving on LPDDR-Class Accelerators**|Guoqiang Zou et.al.|[2512.09427](http://arxiv.org/abs/2512.09427)|
 |**2026-03-25**|**LMetric: Simple is Better - Multiplication May Be All You Need for LLM Request Scheduling**|Dingyan Zhang et.al.|[2603.15202](http://arxiv.org/abs/2603.15202)|
 |**2026-03-24**|**PCR: A Prefetch-Enhanced Cache Reuse System for Low-Latency RAG Serving**|Wenfeng Wang et.al.|[2603.23049](http://arxiv.org/abs/2603.23049)|
 |**2026-03-24**|**StepCache: Step-Level Reuse with Lightweight Verification and Selective Patching for LLM Serving**|Azam Nouri et.al.|[2603.28795](http://arxiv.org/abs/2603.28795)|
@@ -145,7 +150,6 @@ _Updated on 2026.04.20_
 |**2026-01-21**|**QMC: Efficient SLM Edge Inference via Outlier-Aware Quantization and Emergent Memories Co-Design**|Nilesh Prasad Pandey et.al.|[2601.14549](http://arxiv.org/abs/2601.14549)|
 |**2026-01-20**|**KeyDiff: Key Similarity-Based KV Cache Eviction for Long-Context LLM Inference in Resource-Constrained Environments**|Junyoung Park et.al.|[2504.15364_(NeurIPS)](http://arxiv.org/abs/2504.15364)|
 |**2026-01-20**|**ContiguousKV: Accelerating LLM Prefill with Granularity-Aligned KV Cache Management**|Jing Zou et.al.|[2601.13631](http://arxiv.org/abs/2601.13631)|
-|**2026-01-20**|**HeteroCache: A Dynamic Retrieval Approach to Heterogeneous KV Cache Compression for Long-Context LLM Inference**|Zhiyuan Shi et.al.|[2601.13684](http://arxiv.org/abs/2601.13684)|
 |**2026-01-19**|**Cache Your Prompt When It's Green: Carbon-Aware Caching for Large Language Model Serving**|Yuyang Tian et.al.|[2505.23970](http://arxiv.org/abs/2505.23970)|
 |**2026-01-19**|**SpecExtend: A Drop-in Enhancement for Speculative Decoding of Long Sequences**|Jungyoub Cha et.al.|[2505.20776](http://arxiv.org/abs/2505.20776)|
 |**2026-01-19**|**Batch Query Processing and Optimization for Agentic Workflows**|Junyi Shen et.al.|[2509.02121](http://arxiv.org/abs/2509.02121)|
