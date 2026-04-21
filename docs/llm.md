@@ -10,7 +10,11 @@ _Updated on 2026.04.21_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-04-20**|**FlexiCache: Leveraging Temporal Stability of Attention Heads for Efficient KV Cache Management**|Nazmul Takbir et.al.|[2511.00868](http://arxiv.org/abs/2511.00868)|
 |**2026-04-20**|**MoE-nD: Per-Layer Mixture-of-Experts Routing for Multi-Axis KV Cache Compression**|Libo Sun et.al.|[2604.17695](http://arxiv.org/abs/2604.17695)|
+|**2026-04-20**|**Copy-as-Decode: Grammar-Constrained Parallel Prefill for LLM Editing**|Ziyang Liu et.al.|[2604.18170](http://arxiv.org/abs/2604.18170)|
+|**2026-04-20**|**HybridGen: Efficient LLM Generative Inference via CPU-GPU Hybrid Computing**|Mao Lin et.al.|[2604.18529](http://arxiv.org/abs/2604.18529)|
+|**2026-04-20**|**River-LLM: Large Language Model Seamless Exit Based on KV Share**|Yingtao Shen et.al.|[2604.18396_(ACL)](http://arxiv.org/abs/2604.18396)|
 |**2026-04-19**|**ODMA: On-Demand Memory Allocation Strategy for LLM Serving on LPDDR-Class Accelerators**|Guoqiang Zou et.al.|[2512.09427](http://arxiv.org/abs/2512.09427)|
 |**2026-04-19**|**SLO-Guard: Crash-Aware, Budget-Consistent Autotuning for SLO-Constrained LLM Serving**|Christian Lysenstøen et.al.|[2604.17627](http://arxiv.org/abs/2604.17627)|
 |**2026-04-19**|**Bit-Flip Vulnerability of Shared KV-Cache Blocks in LLM Serving Systems**|Yuji Yamamoto et.al.|[2604.17249](http://arxiv.org/abs/2604.17249)|
@@ -243,7 +247,6 @@ _Updated on 2026.04.21_
 |**2025-11-03**|**Scaling Graph Chain-of-Thought Reasoning: A Multi-Agent Framework with Efficient LLM Serving**|Chengying Huan et.al.|[2511.01633](http://arxiv.org/abs/2511.01633)|
 |**2025-11-03**|**TPS-Bench: Evaluating AI Agents' Tool Planning \& Scheduling Abilities in Compounding Tasks**|Hanwen Xu et.al.|[2511.01527](http://arxiv.org/abs/2511.01527)|
 |**2025-11-02**|**HEXGEN-FLOW: Optimizing LLM Inference Request Scheduling for Agentic Text-to-SQL**|You Peng et.al.|[2505.05286](http://arxiv.org/abs/2505.05286)|
-|**2025-11-02**|**FlexiCache: Leveraging Temporal Stability of Attention Heads for Efficient KV Cache Management**|Nazmul Takbir et.al.|[2511.00868](http://arxiv.org/abs/2511.00868)|
 |**2025-11-01**|**KVCOMM: Online Cross-context KV-cache Communication for Efficient LLM-based Multi-agent Systems**|Hancheng Ye et.al.|[2510.12872_(FAST)](http://arxiv.org/abs/2510.12872)|
 |**2025-11-01**|**A CPU-Centric Perspective on Agentic AI**|Ritik Raj et.al.|[2511.00739](http://arxiv.org/abs/2511.00739)|
 |**2025-11-01**|**EvoMem: Improving Multi-Agent Planning with Dual-Evolving Memory**|Wenzhe Fan et.al.|[2511.01912](http://arxiv.org/abs/2511.01912)|
