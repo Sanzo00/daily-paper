@@ -6,10 +6,13 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.04.22_
+_Updated on 2026.04.23_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-04-22**|**BatchLLM: Optimizing Large Batched LLM Inference with Global Prefix Sharing and Throughput-oriented Token Batching**|Zhen Zheng et.al.|[2412.03594](http://arxiv.org/abs/2412.03594)|
+|**2026-04-22**|**Sutradhara: An Intelligent Orchestrator-Engine Co-design for Tool-based Agentic Inference**|Anish Biswas et.al.|[2601.12967](http://arxiv.org/abs/2601.12967)|
+|**2026-04-22**|**Prefill-as-a-Service: KVCache of Next-Generation Models Could Go Cross-Datacenter**|Ruoyu Qin et.al.|[2604.15039](http://arxiv.org/abs/2604.15039)|
 |**2026-04-21**|**ODMA: On-Demand Memory Allocation Strategy for LLM Serving on LPDDR-Class Accelerators**|Guoqiang Zou et.al.|[2512.09427](http://arxiv.org/abs/2512.09427)|
 |**2026-04-21**|**GRASPrune: Global Gating for Budgeted Structured Pruning of Large Language Models**|Ziyang Wang et.al.|[2604.19398_(ACL)](http://arxiv.org/abs/2604.19398)|
 |**2026-04-21**|**SAW-INT4: System-Aware 4-Bit KV-Cache Quantization for Real-World LLM Serving**|Jinda Jia et.al.|[2604.19157](http://arxiv.org/abs/2604.19157)|
@@ -23,11 +26,9 @@ _Updated on 2026.04.22_
 |**2026-04-19**|**Bit-Flip Vulnerability of Shared KV-Cache Blocks in LLM Serving Systems**|Yuji Yamamoto et.al.|[2604.17249](http://arxiv.org/abs/2604.17249)|
 |**2026-04-19**|**Layer-wise MoE Routing Locality under Shared-Prefix Code Generation: Token-Identity Decomposition and Compile-Equivalent Fork Redundancy**|Shun-ichiro Hayashi et.al.|[2604.17182](http://arxiv.org/abs/2604.17182)|
 |**2026-04-18**|**HeteroCache: A Dynamic Retrieval Approach to Heterogeneous KV Cache Compression for Long-Context LLM Inference**|Zhiyuan Shi et.al.|[2601.13684_(ACL)](http://arxiv.org/abs/2601.13684)|
-|**2026-04-17**|**Sutradhara: An Intelligent Orchestrator-Engine Co-design for Tool-based Agentic Inference**|Anish Biswas et.al.|[2601.12967](http://arxiv.org/abs/2601.12967)|
 |**2026-04-17**|**CoMeT: Collaborative Memory Transformer for Efficient Long Context Modeling**|Runsong Zhao et.al.|[2602.01766_(ACL)](http://arxiv.org/abs/2602.01766)|
 |**2026-04-16**|**Adaptive Layer Selection for Layer-Wise Token Pruning in LLM Inference**|Rei Taniguchi et.al.|[2601.07667_(ACL)](http://arxiv.org/abs/2601.07667)|
 |**2026-04-16**|**LLMOrbit: A Circular Taxonomy of Large Language Models -From Scaling Walls to Agentic AI Systems**|Badri N. Patro et.al.|[2601.14053](http://arxiv.org/abs/2601.14053)|
-|**2026-04-16**|**Prefill-as-a-Service: KVCache of Next-Generation Models Could Go Cross-Datacenter**|Ruoyu Qin et.al.|[2604.15039](http://arxiv.org/abs/2604.15039)|
 |**2026-04-16**|**MemoSight: Unifying Context Compression and Multi Token Prediction for Reasoning Acceleration**|Xinyu Liu et.al.|[2604.14889](http://arxiv.org/abs/2604.14889)|
 |**2026-04-16**|**Ragged Paged Attention: A High-Performance and Flexible LLM Inference Kernel for TPU**|Jevin Jiang et.al.|[2604.15464](http://arxiv.org/abs/2604.15464)|
 |**2026-04-16**|**The Illusion of Equivalence: Systematic FP16 Divergence in KV-Cached Autoregressive Inference**|Ranjith Chodavarapu et.al.|[2604.15409](http://arxiv.org/abs/2604.15409)|
@@ -527,7 +528,6 @@ _Updated on 2026.04.22_
 |**2025-01-25**|**Task-KV: Task-aware KV Cache Optimization via Semantic Differentiation of Attention Heads**|Xingyang He et.al.|[2501.15113](http://arxiv.org/abs/2501.15113)|
 |**2025-01-23**|**A Training-free Sub-quadratic Cost Transformer Model Serving Framework With Hierarchically Pruned Attention**|Heejun Lee et.al.|[2406.09827](http://arxiv.org/abs/2406.09827)|
 |**2025-01-22**|**Yi-Lightning Technical Report**|Alan Wake et.al.|[2412.01253](http://arxiv.org/abs/2412.01253)|
-|**2025-01-17**|**BatchLLM: Optimizing Large Batched LLM Inference with Global Prefix Sharing and Throughput-oriented Token Batching**|Zhen Zheng et.al.|[2412.03594](http://arxiv.org/abs/2412.03594)|
 |**2025-01-14**|**CuAsmRL: Optimizing GPU SASS Schedules via Deep Reinforcement Learning**|Guoliang He et.al.|[2501.08071_(CGO)](http://arxiv.org/abs/2501.08071)|
 |**2025-01-12**|**Mell: Memory-Efficient Large Language Model Serving via Multi-GPU KV Cache Management**|Liu Qianli et.al.|[2501.06709](http://arxiv.org/abs/2501.06709)|
 |**2025-01-06**|**The Power of Negative Zero: Datatype Customization for Quantized Large Language Models**|Yuzong Chen et.al.|[2501.04052_(ISS)](http://arxiv.org/abs/2501.04052)|

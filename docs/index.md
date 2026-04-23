@@ -6,10 +6,11 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.04.22_
+_Updated on 2026.04.23_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-04-22**|**Automatic Ontology Construction Using LLMs as an External Layer of Memory, Verification, and Planning for Hybrid Intelligent Systems**|Pavel Salovskii et.al.|[2604.20795_(CHI)](http://arxiv.org/abs/2604.20795)|
 |**2026-04-21**|**EHRAG: Bridging Semantic Gaps in Lightweight GraphRAG via Hybrid Hypergraph Construction and Retrieval**|Yifan Song et.al.|[2604.17458_(ACL)](http://arxiv.org/abs/2604.17458)|
 |**2026-04-20**|**MIST: A Co-Design Framework for Heterogeneous, Multi-Stage LLM Inference**|Abhimanyu Rajeshkumar Bambhaniya et.al.|[2504.09775](http://arxiv.org/abs/2504.09775)|
 |**2026-04-20**|**AutoGraph-R1: End-to-End Reinforcement Learning for Knowledge Graph Construction**|Hong Ting Tsang et.al.|[2510.15339](http://arxiv.org/abs/2510.15339)|
@@ -55,6 +56,7 @@ _Updated on 2026.04.22_
 |**2026-03-25**|**CoCR-RAG: Enhancing Retrieval-Augmented Generation in Web Q&A via Concept-oriented Context Reconstruction**|Kaize Shi et.al.|[2603.23989](http://arxiv.org/abs/2603.23989)|
 |**2026-03-24**|**PCR: A Prefetch-Enhanced Cache Reuse System for Low-Latency RAG Serving**|Wenfeng Wang et.al.|[2603.23049](http://arxiv.org/abs/2603.23049)|
 |**2026-03-23**|**GraphRAG for Engineering Diagrams: ChatP&ID Enables LLM Interaction with P&IDs**|Achmad Anggawirya Alimin et.al.|[2603.22528](http://arxiv.org/abs/2603.22528)|
+|**2026-03-22**|**Explainable AML Triage with LLMs: Evidence Retrieval and Counterfactual Checks**|Dorothy Torres et.al.|[2604.19755](http://arxiv.org/abs/2604.19755)|
 |**2026-03-21**|**His2Trans: A Skeleton-First Framework for Self-Evolving C-to-Rust Translation with Historical Retrieval**|Shengbo Wang et.al.|[2603.02617](http://arxiv.org/abs/2603.02617)|
 |**2026-03-21**|**Modeling Epistemic Uncertainty in Social Perception via Rashomon Set Agents**|Jinming Yang et.al.|[2603.20750](http://arxiv.org/abs/2603.20750)|
 |**2026-03-20**|**LLM-Enhanced Semantic Data Integration of Electronic Component Qualifications in the Aerospace Domain**|Antonio De Santis et.al.|[2603.20094](http://arxiv.org/abs/2603.20094)|

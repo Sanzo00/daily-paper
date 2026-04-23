@@ -6,16 +6,17 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.04.22_
+_Updated on 2026.04.23_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-04-22**|**Sutradhara: An Intelligent Orchestrator-Engine Co-design for Tool-based Agentic Inference**|Anish Biswas et.al.|[2601.12967](http://arxiv.org/abs/2601.12967)|
+|**2026-04-22**|**FlexServe: A Fast and Secure LLM Serving System for Mobile Devices with Flexible Resource Isolation**|Yinpeng Wu et.al.|[2603.09046](http://arxiv.org/abs/2603.09046)|
 |**2026-04-20**|**AIT Academy: Cultivating the Complete Agent with a Confucian Three-Domain Curriculum**|Jiaqi Li et.al.|[2604.17989](http://arxiv.org/abs/2604.17989)|
 |**2026-04-19**|**Beyond Static Snapshots: A Grounded Evaluation Framework for Language Models at the Agentic Frontier**|Jazmia Henry et.al.|[2604.17573](http://arxiv.org/abs/2604.17573)|
 |**2026-04-19**|**EmbodiedHead: Real-Time Listening and Speaking Avatar for Conversational Agents**|Yu Zhang et.al.|[2604.17211](http://arxiv.org/abs/2604.17211)|
 |**2026-04-19**|**Hive: A Multi-Agent Infrastructure for Algorithm- and Task-Level Scaling**|Zizhang Luo et.al.|[2604.17353](http://arxiv.org/abs/2604.17353)|
 |**2026-04-18**|**HiveMind: OS-Inspired Scheduling for Concurrent LLM Agent Workloads**|Justice Owusu Agyemang et.al.|[2604.17111](http://arxiv.org/abs/2604.17111)|
-|**2026-04-17**|**Sutradhara: An Intelligent Orchestrator-Engine Co-design for Tool-based Agentic Inference**|Anish Biswas et.al.|[2601.12967](http://arxiv.org/abs/2601.12967)|
 |**2026-04-17**|**CoMeT: Collaborative Memory Transformer for Efficient Long Context Modeling**|Runsong Zhao et.al.|[2602.01766_(ACL)](http://arxiv.org/abs/2602.01766)|
 |**2026-04-16**|**LLMOrbit: A Circular Taxonomy of Large Language Models -From Scaling Walls to Agentic AI Systems**|Badri N. Patro et.al.|[2601.14053](http://arxiv.org/abs/2601.14053)|
 |**2026-04-16**|**Scepsy: Serving Agentic Workflows Using Aggregate LLM Pipelines**|Marcel Wagenländer et.al.|[2604.15186](http://arxiv.org/abs/2604.15186)|
@@ -75,7 +76,6 @@ _Updated on 2026.04.22_
 |**2026-03-11**|**Beyond Max Tokens: Stealthy Resource Amplification via Tool Calling Chains in LLM Agents**|Kaiyu Zhou et.al.|[2601.10955](http://arxiv.org/abs/2601.10955)|
 |**2026-03-11**|**BLITZRANK: Principled Zero-shot Ranking Agents with Tournament Graphs**|Sheshansh Agrawal et.al.|[2602.05448](http://arxiv.org/abs/2602.05448)|
 |**2026-03-10**|**ThunderAgent: A Simple, Fast and Program-Aware Agentic Inference System**|Hao Kang et.al.|[2602.13692](http://arxiv.org/abs/2602.13692)|
-|**2026-03-10**|**FlexServe: A Fast and Secure LLM Serving System for Mobile Devices with Flexible Resource Isolation**|Yinpeng Wu et.al.|[2603.09046](http://arxiv.org/abs/2603.09046)|
 |**2026-03-09**|**Advancing Automated Algorithm Design via Evolutionary Stagewise Design with LLMs**|Chen Lu et.al.|[2603.07970](http://arxiv.org/abs/2603.07970)|
 |**2026-03-09**|**Not All Prefills Are Equal: PPD Disaggregation for Multi-turn LLM Serving**|Zongze Li et.al.|[2603.13358](http://arxiv.org/abs/2603.13358)|
 |**2026-03-09**|**Can LLMs Perceive Time? An Empirical Investigation**|Aniketh Garikaparthi et.al.|[2604.00010_(ICLR)](http://arxiv.org/abs/2604.00010)|
