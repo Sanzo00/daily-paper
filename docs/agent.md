@@ -6,12 +6,14 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.04.23_
+_Updated on 2026.04.24_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-04-23**|**From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation**|Bartosz Balis et.al.|[2604.21910](http://arxiv.org/abs/2604.21910)|
 |**2026-04-22**|**Sutradhara: An Intelligent Orchestrator-Engine Co-design for Tool-based Agentic Inference**|Anish Biswas et.al.|[2601.12967](http://arxiv.org/abs/2601.12967)|
 |**2026-04-22**|**FlexServe: A Fast and Secure LLM Serving System for Mobile Devices with Flexible Resource Isolation**|Yinpeng Wu et.al.|[2603.09046](http://arxiv.org/abs/2603.09046)|
+|**2026-04-22**|**Cross-Session Threats in AI Agents: Benchmark, Evaluation, and Algorithms**|Ari Azarafrooz et.al.|[2604.21131](http://arxiv.org/abs/2604.21131)|
 |**2026-04-20**|**AIT Academy: Cultivating the Complete Agent with a Confucian Three-Domain Curriculum**|Jiaqi Li et.al.|[2604.17989](http://arxiv.org/abs/2604.17989)|
 |**2026-04-19**|**Beyond Static Snapshots: A Grounded Evaluation Framework for Language Models at the Agentic Frontier**|Jazmia Henry et.al.|[2604.17573](http://arxiv.org/abs/2604.17573)|
 |**2026-04-19**|**EmbodiedHead: Real-Time Listening and Speaking Avatar for Conversational Agents**|Yu Zhang et.al.|[2604.17211](http://arxiv.org/abs/2604.17211)|

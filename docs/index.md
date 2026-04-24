@@ -6,7 +6,7 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.04.23_
+_Updated on 2026.04.24_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
@@ -85,6 +85,7 @@ _Updated on 2026.04.23_
 |**2026-03-05**|**MedCoRAG: Interpretable Hepatology Diagnosis via Hybrid Evidence Retrieval and Multispecialty Consensus**|Zheng Li et.al.|[2603.05129](http://arxiv.org/abs/2603.05129)|
 |**2026-03-05**|**S-Path-RAG: Semantic-Aware Shortest-Path Retrieval Augmented Generation for Multi-Hop Knowledge Graph Question Answering**|Rong Fu et.al.|[2603.23512](http://arxiv.org/abs/2603.23512)|
 |**2026-03-03**|**CraniMem: Cranial Inspired Gated and Bounded Memory for Agentic Systems**|Pearl Mody et.al.|[2603.15642](http://arxiv.org/abs/2603.15642)|
+|**2026-03-02**|**KGiRAG: An Iterative GraphRAG Approach for Responding Sensemaking Queries**|Isabela Iacob et.al.|[2604.20859](http://arxiv.org/abs/2604.20859)|
 |**2026-02-28**|**MED-COPILOT: A Medical Assistant Powered by GraphRAG and Similar Patient Case Retrieval**|Shuheng Chen et.al.|[2603.00460](http://arxiv.org/abs/2603.00460)|
 |**2026-02-28**|**From Flat to Structural: Enhancing Automated Short Answer Grading with GraphRAG**|Yucheng Chu et.al.|[2603.19276](http://arxiv.org/abs/2603.19276)|
 |**2026-02-27**|**Multi-Sourced, Multi-Agent Evidence Retrieval for Fact-Checking**|Shuzhi Gong et.al.|[2603.00267](http://arxiv.org/abs/2603.00267)|

@@ -6,13 +6,16 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.04.23_
+_Updated on 2026.04.24_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-04-23**|**LiveVLM: Efficient Online Video Understanding via Streaming-Oriented KV Cache and Retrieval**|Zhenyu Ning et.al.|[2505.15269_(DAC)](http://arxiv.org/abs/2505.15269)|
+|**2026-04-23**|**SparKV: Overhead-Aware KV Cache Loading for Efficient On-Device LLM Inference**|Hongyao Liu et.al.|[2604.21231](http://arxiv.org/abs/2604.21231)|
 |**2026-04-22**|**BatchLLM: Optimizing Large Batched LLM Inference with Global Prefix Sharing and Throughput-oriented Token Batching**|Zhen Zheng et.al.|[2412.03594](http://arxiv.org/abs/2412.03594)|
 |**2026-04-22**|**Sutradhara: An Intelligent Orchestrator-Engine Co-design for Tool-based Agentic Inference**|Anish Biswas et.al.|[2601.12967](http://arxiv.org/abs/2601.12967)|
 |**2026-04-22**|**Prefill-as-a-Service: KVCache of Next-Generation Models Could Go Cross-Datacenter**|Ruoyu Qin et.al.|[2604.15039](http://arxiv.org/abs/2604.15039)|
+|**2026-04-22**|**Cross-Session Threats in AI Agents: Benchmark, Evaluation, and Algorithms**|Ari Azarafrooz et.al.|[2604.21131](http://arxiv.org/abs/2604.21131)|
 |**2026-04-21**|**ODMA: On-Demand Memory Allocation Strategy for LLM Serving on LPDDR-Class Accelerators**|Guoqiang Zou et.al.|[2512.09427](http://arxiv.org/abs/2512.09427)|
 |**2026-04-21**|**GRASPrune: Global Gating for Budgeted Structured Pruning of Large Language Models**|Ziyang Wang et.al.|[2604.19398_(ACL)](http://arxiv.org/abs/2604.19398)|
 |**2026-04-21**|**SAW-INT4: System-Aware 4-Bit KV-Cache Quantization for Real-World LLM Serving**|Jinda Jia et.al.|[2604.19157](http://arxiv.org/abs/2604.19157)|
@@ -434,7 +437,6 @@ _Updated on 2026.04.23_
 |**2025-05-23**|**Boosting Long-Context Management via Query-Guided Activation Refilling**|Hongjin Qian et.al.|[2412.12486_(ACL)](http://arxiv.org/abs/2412.12486)|
 |**2025-05-23**|**Mitigate Position Bias in Large Language Models via Scaling a Single Dimension**|Yijiong Yu et.al.|[2406.02536_(ACL)](http://arxiv.org/abs/2406.02536)|
 |**2025-05-21**|**Can LLMs Maintain Fundamental Abilities under KV Cache Compression?**|Xiang Liu et.al.|[2502.01941](http://arxiv.org/abs/2502.01941)|
-|**2025-05-21**|**LiveVLM: Efficient Online Video Understanding via Streaming-Oriented KV Cache and Retrieval**|Zhenyu Ning et.al.|[2505.15269](http://arxiv.org/abs/2505.15269)|
 |**2025-05-20**|**CE-LSLM: Efficient Large-Small Language Model Inference and Communication via Cloud-Edge Collaboration**|Pengyan Zhu et.al.|[2505.14085](http://arxiv.org/abs/2505.14085)|
 |**2025-05-20**|**Log-Augmented Generation: Scaling Test-Time Reasoning with Reusable Computation**|Peter Baile Chen et.al.|[2505.14398](http://arxiv.org/abs/2505.14398)|
 |**2025-05-20**|**Scaling Test-Time Inference with Policy-Optimized, Dynamic Retrieval-Augmented Generation via KV Caching and Decoding**|Sakhinana Sagar Srinivas et.al.|[2504.01281](http://arxiv.org/abs/2504.01281)|
