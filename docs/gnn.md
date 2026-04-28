@@ -6,10 +6,12 @@ nav_order: 3
 
 # GNN Papers
 
-_Updated on 2026.04.27_
+_Updated on 2026.04.28_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-04-26**|**Hamiltonian Graph Inference Networks: Joint structure discovery and dynamics prediction for lattice Hamiltonian systems from trajectory data**|Ru Geng et.al.|[2604.23606](http://arxiv.org/abs/2604.23606)|
+|**2026-04-25**|**GreenDyGNN: Runtime-Adaptive Energy-Efficient Communication for Distributed GNN Training**|Arefin Niam et.al.|[2604.23139](http://arxiv.org/abs/2604.23139)|
 |**2026-04-17**|**Two-Layer Reinforcement Learning-Assisted Joint Beamforming and Trajectory Optimization for Multi-UAV Downlink Communications**|Ruiqi Wang et.al.|[2601.12659](http://arxiv.org/abs/2601.12659)|
 |**2026-04-08**|**Graph Neural ODE Digital Twins for Control-Oriented Reactor Thermal-Hydraulic Forecasting Under Partial Observability**|Akzhol Almukhametov et.al.|[2604.07292](http://arxiv.org/abs/2604.07292)|
 |**2026-04-01**|**Agent Q-Mix: Selecting the Right Action for LLM Multi-Agent Systems through Reinforcement Learning**|Eric Hanchen Jiang et.al.|[2604.00344](http://arxiv.org/abs/2604.00344)|

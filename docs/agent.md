@@ -6,10 +6,14 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.04.27_
+_Updated on 2026.04.28_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-04-27**|**From Skill Text to Skill Structure: The Scheduling-Structural-Logical Representation for Agent Skills**|Qiliang Liang et.al.|[2604.24026](http://arxiv.org/abs/2604.24026)|
+|**2026-04-27**|**Kwai Summary Attention Technical Report**|Chenglong Chu et.al.|[2604.24432](http://arxiv.org/abs/2604.24432)|
+|**2026-04-26**|**JigsawRL: Assembling RL Pipelines for Efficient LLM Post-Training**|Zhengding Hu et.al.|[2604.23838](http://arxiv.org/abs/2604.23838)|
+|**2026-04-25**|**KLong: Training LLM Agent for Extremely Long-horizon Tasks**|Yue Liu et.al.|[2602.17547_(DIS)](http://arxiv.org/abs/2602.17547)|
 |**2026-04-23**|**From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation**|Bartosz Balis et.al.|[2604.21910](http://arxiv.org/abs/2604.21910)|
 |**2026-04-22**|**Sutradhara: An Intelligent Orchestrator-Engine Co-design for Tool-based Agentic Inference**|Anish Biswas et.al.|[2601.12967](http://arxiv.org/abs/2601.12967)|
 |**2026-04-22**|**FlexServe: A Fast and Secure LLM Serving System for Mobile Devices with Flexible Resource Isolation**|Yinpeng Wu et.al.|[2603.09046](http://arxiv.org/abs/2603.09046)|
@@ -42,7 +46,6 @@ _Updated on 2026.04.27_
 |**2026-04-07**|**RL-VLA$^3$: A Flexible and Asynchronous Reinforcement Learning Framework for VLA Training**|Haoran Sun et.al.|[2602.05765](http://arxiv.org/abs/2602.05765)|
 |**2026-04-07**|**ForkKV: Scaling Multi-LoRA Agent Serving via Copy-on-Write Disaggregated KV Cache**|Shao Wang et.al.|[2604.06370](http://arxiv.org/abs/2604.06370)|
 |**2026-04-07**|**Learning to Interrupt in Language-based Multi-agent Communication**|Danqing Wang et.al.|[2604.06452](http://arxiv.org/abs/2604.06452)|
-|**2026-04-06**|**KLong: Training LLM Agent for Extremely Long-horizon Tasks**|Yue Liu et.al.|[2602.17547](http://arxiv.org/abs/2602.17547)|
 |**2026-04-06**|**RoboPhD: Evolving Diverse Complex Agents Under Tight Evaluation Budgets**|Andrew Borthwick et.al.|[2604.04347](http://arxiv.org/abs/2604.04347)|
 |**2026-04-05**|**Comparative reversal learning reveals rigid adaptation in LLMs under non-stationary uncertainty**|Haomiaomiao Wang et.al.|[2604.04182](http://arxiv.org/abs/2604.04182)|
 |**2026-04-04**|**LightThinker++: From Reasoning Compression to Memory Management**|Yuqi Zhu et.al.|[2604.03679](http://arxiv.org/abs/2604.03679)|

@@ -6,10 +6,14 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.04.27_
+_Updated on 2026.04.28_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-04-27**|**Question-Adaptive Graph Learning for Multi-hop Retrieval Augmented Generation**|Yuchen Yan et.al.|[2510.11541_(SIGIR)](http://arxiv.org/abs/2510.11541)|
+|**2026-04-27**|**INHerit-SG: Incremental Hierarchical Semantic Scene Graphs with RAG-Style Retrieval**|YukTungSamuel Fang et.al.|[2602.12971](http://arxiv.org/abs/2602.12971)|
+|**2026-04-27**|**XGRAG: A Graph-Native Framework for Explaining KG-based Retrieval-Augmented Generation**|Zhuoling Li et.al.|[2604.24623](http://arxiv.org/abs/2604.24623)|
+|**2026-04-24**|**OntoLogX: Ontology-Guided Knowledge Graph Extraction from Cybersecurity Logs with Large Language Models**|Luca Cotti et.al.|[2510.01409](http://arxiv.org/abs/2510.01409)|
 |**2026-04-22**|**Automatic Ontology Construction Using LLMs as an External Layer of Memory, Verification, and Planning for Hybrid Intelligent Systems**|Pavel Salovskii et.al.|[2604.20795_(CHI)](http://arxiv.org/abs/2604.20795)|
 |**2026-04-21**|**EHRAG: Bridging Semantic Gaps in Lightweight GraphRAG via Hybrid Hypergraph Construction and Retrieval**|Yifan Song et.al.|[2604.17458_(ACL)](http://arxiv.org/abs/2604.17458)|
 |**2026-04-20**|**MIST: A Co-Design Framework for Heterogeneous, Multi-Stage LLM Inference**|Abhimanyu Rajeshkumar Bambhaniya et.al.|[2504.09775](http://arxiv.org/abs/2504.09775)|
@@ -105,7 +109,6 @@ _Updated on 2026.04.27_
 |**2026-02-16**|**Beyond Fact Retrieval: Episodic Memory for RAG with Generative Semantic Workspaces**|Shreyas Rajesh et.al.|[2511.07587_(AAAI)](http://arxiv.org/abs/2511.07587)|
 |**2026-02-16**|**HyperRAG: Reasoning N-ary Facts over Hypergraphs for Retrieval Augmented Generation**|Wen-Sheng Lien et.al.|[2602.14470_(WWW)](http://arxiv.org/abs/2602.14470)|
 |**2026-02-13**|**Beyond Static Question Banks: Dynamic Knowledge Expansion via LLM-Automated Graph Construction and Adaptive Generation**|Yingquan Wang et.al.|[2602.00020](http://arxiv.org/abs/2602.00020)|
-|**2026-02-13**|**INHerit-SG: Incremental Hierarchical Semantic Scene Graphs with RAG-Style Retrieval**|YukTungSamuel Fang et.al.|[2602.12971](http://arxiv.org/abs/2602.12971)|
 |**2026-02-11**|**Benchmarking Large Language Models for Knowledge Graph Validation**|Farzad Shami et.al.|[2602.10748_(EDBT)](http://arxiv.org/abs/2602.10748)|
 |**2026-02-11**|**MultiCube-RAG for Multi-hop Question Answering**|Jimeng Shi et.al.|[2602.15898](http://arxiv.org/abs/2602.15898)|
 |**2026-02-10**|**Structured Episodic Event Memory**|Zhengxuan Lu et.al.|[2601.06411](http://arxiv.org/abs/2601.06411)|
@@ -248,7 +251,6 @@ _Updated on 2026.04.27_
 |**2025-10-15**|**RAG Meets Temporal Graphs: Time-Sensitive Modeling and Retrieval for Evolving Knowledge**|Jiale Han et.al.|[2510.13590](http://arxiv.org/abs/2510.13590)|
 |**2025-10-15**|**D-SMART: Enhancing LLM Dialogue Consistency via Dynamic Structured Memory And Reasoning Tree**|Xiang Lei et.al.|[2510.13363](http://arxiv.org/abs/2510.13363)|
 |**2025-10-15**|**Vgent: Graph-based Retrieval-Reasoning-Augmented Generation For Long Video Understanding**|Xiaoqian Shen et.al.|[2510.14032_(NeurIPS)](http://arxiv.org/abs/2510.14032)|
-|**2025-10-13**|**Query-Specific GNN: A Comprehensive Graph Representation Learning Method for Retrieval Augmented Generation**|Yuchen Yan et.al.|[2510.11541](http://arxiv.org/abs/2510.11541)|
 |**2025-10-12**|**Agentic RAG for Software Testing with Hybrid Vector-Graph and Multi-Agent Orchestration**|Mohanakrishnan Hariharan et.al.|[2510.10824](http://arxiv.org/abs/2510.10824)|
 |**2025-10-11**|**SkewRoute: Training-Free LLM Routing for Knowledge Graph Retrieval-Augmented Generation via Score Skewness of Retrieved Context**|Hairu Wang et.al.|[2505.23841](http://arxiv.org/abs/2505.23841)|
 |**2025-10-11**|**CacheClip: Accelerating RAG with Effective KV Cache Reuse**|Bin Yang et.al.|[2510.10129](http://arxiv.org/abs/2510.10129)|
@@ -265,7 +267,6 @@ _Updated on 2026.04.27_
 |**2025-10-02**|**Are LLMs Better GNN Helpers? Rethinking Robust Graph Learning under Deficiencies with Iterative Refinement**|Zhaoyan Wang et.al.|[2510.01910](http://arxiv.org/abs/2510.01910)|
 |**2025-10-02**|**Benchmarking Foundation Models with Retrieval-Augmented Generation in Olympic-Level Physics Problem Solving**|Shunfeng Zheng et.al.|[2510.00919_(EMNLP)](http://arxiv.org/abs/2510.00919)|
 |**2025-10-02**|**Knowledge-Graph Based RAG System Evaluation Framework**|Sicheng Dong et.al.|[2510.02549](http://arxiv.org/abs/2510.02549)|
-|**2025-10-01**|**OntoLogX: Ontology-Guided Knowledge Graph Extraction from Cybersecurity Logs with Large Language Models**|Luca Cotti et.al.|[2510.01409](http://arxiv.org/abs/2510.01409)|
 |**2025-10-01**|**KeySG: Hierarchical Keyframe-Based 3D Scene Graphs**|Abdelrhman Werby et.al.|[2510.01049](http://arxiv.org/abs/2510.01049)|
 |**2025-09-30**|**GraphSearch: An Agentic Deep Searching Workflow for Graph Retrieval-Augmented Generation**|Cehao Yang et.al.|[2509.22009](http://arxiv.org/abs/2509.22009)|
 |**2025-09-30**|**ConfRAG: Confidence-Guided Retrieval-Augmenting Generation**|Yin Huang et.al.|[2506.07309](http://arxiv.org/abs/2506.07309)|
