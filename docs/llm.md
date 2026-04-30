@@ -6,10 +6,13 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.04.29_
+_Updated on 2026.04.30_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-04-29**|**Unifying Sparse Attention with Hierarchical Memory for Scalable Long-Context LLM Serving**|Zihan Zhao et.al.|[2604.26837](http://arxiv.org/abs/2604.26837)|
+|**2026-04-29**|**When Hidden States Drift: Can KV Caches Rescue Long-Range Speculative Decoding?**|Tianyu Liu et.al.|[2604.26412](http://arxiv.org/abs/2604.26412)|
+|**2026-04-28**|**Inferix: A Block-Diffusion based Next-Generation Inference Engine for World Simulation**|Inferix Team et.al.|[2511.20714](http://arxiv.org/abs/2511.20714)|
 |**2026-04-28**|**Hidden States as Early Signals: Step-level Trace Evaluation and Pruning for Efficient Test-Time Scaling**|Zhixiang Liang et.al.|[2601.09093](http://arxiv.org/abs/2601.09093)|
 |**2026-04-28**|**SnapMLA: Efficient Long-Context MLA Decoding via Hardware-Aware FP8 Quantized Pipelining**|Yifan Zhang et.al.|[2602.10718](http://arxiv.org/abs/2602.10718)|
 |**2026-04-28**|**CacheFlow: Efficient LLM Serving with 3D-Parallel KV Cache Restoration**|Sean Nian et.al.|[2604.25080](http://arxiv.org/abs/2604.25080)|
@@ -230,7 +233,6 @@ _Updated on 2026.04.29_
 |**2025-11-26**|**No Request Left Behind: Tackling Heterogeneity in Long-Context LLM Inference with Medha**|Amey Agrawal et.al.|[2409.17264](http://arxiv.org/abs/2409.17264)|
 |**2025-11-26**|**Efficient Multi-Adapter LLM Serving via Cross-Model KV-Cache Reuse with Activated LoRA**|Allison Li et.al.|[2512.17910](http://arxiv.org/abs/2512.17910)|
 |**2025-11-25**|**On 10x Better Scalability: KV Stores Scale Up KV Cache**|Weiping Yu et.al.|[2511.16138](http://arxiv.org/abs/2511.16138)|
-|**2025-11-25**|**Inferix: A Block-Diffusion based Next-Generation Inference Engine for World Simulation**|Inferix Team et.al.|[2511.20714](http://arxiv.org/abs/2511.20714)|
 |**2025-11-24**|**SWAN: Sparse Winnowed Attention for Reduced Inference Memory via Decompression-Free KV-Cache Compression**|Santhosh G S et.al.|[2511.18936](http://arxiv.org/abs/2511.18936)|
 |**2025-11-24**|**ThreadWeaver: Adaptive Threading for Efficient Parallel Reasoning in Language Models**|Long Lian et.al.|[2512.07843](http://arxiv.org/abs/2512.07843)|
 |**2025-11-23**|**Kitty: Accurate and Efficient 2-bit KV Cache Quantization with Dynamic Channel-wise Precision Boost**|Haojun Xia et.al.|[2511.18643](http://arxiv.org/abs/2511.18643)|

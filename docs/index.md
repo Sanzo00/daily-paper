@@ -6,11 +6,13 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.04.29_
+_Updated on 2026.04.30_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-04-29**|**PRAG End-to-End Privacy-Preserving Retrieval-Augmented Generation**|Zhijun Li et.al.|[2604.26525](http://arxiv.org/abs/2604.26525)|
 |**2026-04-28**|**BridgeRAG: Training-Free Bridge-Conditioned Retrieval for Multi-Hop Question Answering**|Andre Bacellar et.al.|[2604.03384](http://arxiv.org/abs/2604.03384)|
+|**2026-04-28**|**CacheRAG: A Semantic Caching System for Retrieval-Augmented Generation in Knowledge Graph Question Answering**|Yushi Sun et.al.|[2604.26176](http://arxiv.org/abs/2604.26176)|
 |**2026-04-27**|**Question-Adaptive Graph Learning for Multi-hop Retrieval Augmented Generation**|Yuchen Yan et.al.|[2510.11541_(SIGIR)](http://arxiv.org/abs/2510.11541)|
 |**2026-04-27**|**INHerit-SG: Incremental Hierarchical Semantic Scene Graphs with RAG-Style Retrieval**|YukTungSamuel Fang et.al.|[2602.12971](http://arxiv.org/abs/2602.12971)|
 |**2026-04-27**|**XGRAG: A Graph-Native Framework for Explaining KG-based Retrieval-Augmented Generation**|Zhuoling Li et.al.|[2604.24623](http://arxiv.org/abs/2604.24623)|

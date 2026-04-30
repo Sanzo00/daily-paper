@@ -6,10 +6,12 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.04.29_
+_Updated on 2026.04.30_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-04-29**|**StreamAgent: Towards Anticipatory Agents for Streaming Video Understanding**|Haolin Yang et.al.|[2508.01875](http://arxiv.org/abs/2508.01875)|
+|**2026-04-28**|**Inferix: A Block-Diffusion based Next-Generation Inference Engine for World Simulation**|Inferix Team et.al.|[2511.20714](http://arxiv.org/abs/2511.20714)|
 |**2026-04-28**|**AOI: Context-Aware Multi-Agent Operations via Dynamic Scheduling and Hierarchical Memory Compression**|Zishan Bai et.al.|[2512.13956](http://arxiv.org/abs/2512.13956)|
 |**2026-04-28**|**From Skill Text to Skill Structure: The Scheduling-Structural-Logical Representation for Agent Skills**|Qiliang Liang et.al.|[2604.24026](http://arxiv.org/abs/2604.24026)|
 |**2026-04-28**|**CacheFlow: Efficient LLM Serving with 3D-Parallel KV Cache Restoration**|Sean Nian et.al.|[2604.25080](http://arxiv.org/abs/2604.25080)|
@@ -188,7 +190,6 @@ _Updated on 2026.04.29_
 |**2025-11-27**|**Optimizing NetGPT via Routing-Based Synergy and Reinforcement Learning**|Yuxuan Chen et.al.|[2511.22217](http://arxiv.org/abs/2511.22217)|
 |**2025-11-27**|**Q-KVComm: Efficient Multi-Agent Communication Via Adaptive KV Cache Compression**|Boris Kriuk et.al.|[2512.17914](http://arxiv.org/abs/2512.17914)|
 |**2025-11-25**|**Reducing Latency of LLM Search Agent via Speculation-based Algorithm-System Co-Design**|Zixiao Huang et.al.|[2511.20048](http://arxiv.org/abs/2511.20048)|
-|**2025-11-25**|**Inferix: A Block-Diffusion based Next-Generation Inference Engine for World Simulation**|Inferix Team et.al.|[2511.20714](http://arxiv.org/abs/2511.20714)|
 |**2025-11-23**|**Hybrid Agentic AI and Multi-Agent Systems in Smart Manufacturing**|Mojtaba A. Farahani et.al.|[2511.18258](http://arxiv.org/abs/2511.18258)|
 |**2025-11-18**|**KnowCoder-A1: Incentivizing Agentic Reasoning Capability with Outcome Supervision for KBQA**|Zhuo Chen et.al.|[2510.25101](http://arxiv.org/abs/2510.25101)|
 |**2025-11-05**|**ALAS: Transactional and Dynamic Multi-Agent LLM Planning**|Longling Geng et.al.|[2511.03094](http://arxiv.org/abs/2511.03094)|
@@ -216,7 +217,6 @@ _Updated on 2026.04.29_
 |**2025-10-14**|**Evaluating the Quality of Randomness and Entropy in Tasks Supported by Large Language Models**|Rabimba Karanjai et.al.|[2510.12080](http://arxiv.org/abs/2510.12080)|
 |**2025-10-13**|**Part II: ROLL Flash -- Accelerating RLVR and Agentic Training with Asynchrony**|Han Lu et.al.|[2510.11345](http://arxiv.org/abs/2510.11345)|
 |**2025-10-13**|**ShishuLM: Lightweight Language Model with Hybrid Decoder-MLP Architecture and Paired Weight Sharing**|Shivanshu Kumar et.al.|[2510.13860](http://arxiv.org/abs/2510.13860)|
-|**2025-10-13**|**StreamAgent: Towards Anticipatory Agents for Streaming Video Understanding**|Haolin Yang et.al.|[2508.01875](http://arxiv.org/abs/2508.01875)|
 |**2025-10-11**|**Agentic Troubleshooting Guide Automation for Incident Management**|Jiayi Mao et.al.|[2510.10074](http://arxiv.org/abs/2510.10074)|
 |**2025-10-10**|**OrcaLoca: An LLM Agent Framework for Software Issue Localization**|Zhongming Yu et.al.|[2502.00350](http://arxiv.org/abs/2502.00350)|
 |**2025-10-10**|**StreamingVLM: Real-Time Understanding for Infinite Video Streams**|Ruyi Xu et.al.|[2510.09608](http://arxiv.org/abs/2510.09608)|
