@@ -6,10 +6,11 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.04.30_
+_Updated on 2026.05.01_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-04-30**|**VitaLLM: A Versatile, Ultra-Compact Ternary LLM Accelerator with Dependency-Aware Scheduling**|Zi-Wei Lin et.al.|[2604.27396](http://arxiv.org/abs/2604.27396)|
 |**2026-04-29**|**Unifying Sparse Attention with Hierarchical Memory for Scalable Long-Context LLM Serving**|Zihan Zhao et.al.|[2604.26837](http://arxiv.org/abs/2604.26837)|
 |**2026-04-29**|**When Hidden States Drift: Can KV Caches Rescue Long-Range Speculative Decoding?**|Tianyu Liu et.al.|[2604.26412](http://arxiv.org/abs/2604.26412)|
 |**2026-04-28**|**Inferix: A Block-Diffusion based Next-Generation Inference Engine for World Simulation**|Inferix Team et.al.|[2511.20714](http://arxiv.org/abs/2511.20714)|
@@ -51,6 +52,7 @@ _Updated on 2026.04.30_
 |**2026-04-14**|**Token-Budget-Aware Pool Routing for Cost-Efficient LLM Inference**|Huamin Chen et.al.|[2604.09613](http://arxiv.org/abs/2604.09613)|
 |**2026-04-14**|**PipeLive: Efficient Live In-place Pipeline Parallelism Reconfiguration for Dynamic LLM Serving**|Xu Bai et.al.|[2604.12171](http://arxiv.org/abs/2604.12171)|
 |**2026-04-14**|**When Less Latent Leads to Better Relay: Information-Preserving Compression for Latent Multi-Agent LLM Collaboration**|Yiping Li et.al.|[2604.13349](http://arxiv.org/abs/2604.13349)|
+|**2026-04-14**|**MARS: Efficient, Adaptive Co-Scheduling for Heterogeneous Agentic Systems**|Yifei Wang et.al.|[2604.26963](http://arxiv.org/abs/2604.26963)|
 |**2026-04-13**|**MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens**|Yu Chen et.al.|[2603.23516](http://arxiv.org/abs/2603.23516)|
 |**2026-04-13**|**Flow-Controlled Scheduling for LLM Inference with Provable Stability Guarantees**|Zhuolun Dong et.al.|[2604.11001](http://arxiv.org/abs/2604.11001)|
 |**2026-04-13**|**ZoomR: Memory Efficient Reasoning through Multi-Granularity Key Value Retrieval**|David H. Yang et.al.|[2604.10898](http://arxiv.org/abs/2604.10898)|

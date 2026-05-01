@@ -6,14 +6,16 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.04.30_
+_Updated on 2026.05.01_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-04-30**|**From Skill Text to Skill Structure: The Scheduling-Structural-Logical Representation for Agent Skills**|Qiliang Liang et.al.|[2604.24026](http://arxiv.org/abs/2604.24026)|
+|**2026-04-30**|**Crab: A Semantics-Aware Checkpoint/Restore Runtime for Agent Sandboxes**|Tianyuan Wu et.al.|[2604.28138](http://arxiv.org/abs/2604.28138)|
+|**2026-04-30**|**Bridging Values and Behavior: A Hierarchical Framework for Proactive Embodied Agents**|Chunhui Zhang et.al.|[2604.27699](http://arxiv.org/abs/2604.27699)|
 |**2026-04-29**|**StreamAgent: Towards Anticipatory Agents for Streaming Video Understanding**|Haolin Yang et.al.|[2508.01875](http://arxiv.org/abs/2508.01875)|
 |**2026-04-28**|**Inferix: A Block-Diffusion based Next-Generation Inference Engine for World Simulation**|Inferix Team et.al.|[2511.20714](http://arxiv.org/abs/2511.20714)|
 |**2026-04-28**|**AOI: Context-Aware Multi-Agent Operations via Dynamic Scheduling and Hierarchical Memory Compression**|Zishan Bai et.al.|[2512.13956](http://arxiv.org/abs/2512.13956)|
-|**2026-04-28**|**From Skill Text to Skill Structure: The Scheduling-Structural-Logical Representation for Agent Skills**|Qiliang Liang et.al.|[2604.24026](http://arxiv.org/abs/2604.24026)|
 |**2026-04-28**|**CacheFlow: Efficient LLM Serving with 3D-Parallel KV Cache Restoration**|Sean Nian et.al.|[2604.25080](http://arxiv.org/abs/2604.25080)|
 |**2026-04-27**|**Kwai Summary Attention Technical Report**|Chenglong Chu et.al.|[2604.24432](http://arxiv.org/abs/2604.24432)|
 |**2026-04-27**|**PolyKV: A Shared Asymmetrically-Compressed KV Cache Pool for Multi-Agent LLM Inference**|Ishan Patel et.al.|[2604.24971](http://arxiv.org/abs/2604.24971)|
@@ -28,6 +30,7 @@ _Updated on 2026.04.30_
 |**2026-04-19**|**Beyond Static Snapshots: A Grounded Evaluation Framework for Language Models at the Agentic Frontier**|Jazmia Henry et.al.|[2604.17573](http://arxiv.org/abs/2604.17573)|
 |**2026-04-19**|**EmbodiedHead: Real-Time Listening and Speaking Avatar for Conversational Agents**|Yu Zhang et.al.|[2604.17211](http://arxiv.org/abs/2604.17211)|
 |**2026-04-19**|**Hive: A Multi-Agent Infrastructure for Algorithm- and Task-Level Scaling**|Zizhang Luo et.al.|[2604.17353](http://arxiv.org/abs/2604.17353)|
+|**2026-04-19**|**Predictive Multi-Tier Memory Management for KV Cache in Large-Scale GPU Inference**|Sanjeev Rao Ganjihal et.al.|[2604.26968](http://arxiv.org/abs/2604.26968)|
 |**2026-04-18**|**HiveMind: OS-Inspired Scheduling for Concurrent LLM Agent Workloads**|Justice Owusu Agyemang et.al.|[2604.17111](http://arxiv.org/abs/2604.17111)|
 |**2026-04-17**|**CoMeT: Collaborative Memory Transformer for Efficient Long Context Modeling**|Runsong Zhao et.al.|[2602.01766_(ACL)](http://arxiv.org/abs/2602.01766)|
 |**2026-04-16**|**LLMOrbit: A Circular Taxonomy of Large Language Models -From Scaling Walls to Agentic AI Systems**|Badri N. Patro et.al.|[2601.14053](http://arxiv.org/abs/2601.14053)|
@@ -35,6 +38,7 @@ _Updated on 2026.04.30_
 |**2026-04-16**|**ARGUS: Agentic GPU Optimization Guided by Data-Flow Invariants**|Haohui Mai et.al.|[2604.18616](http://arxiv.org/abs/2604.18616)|
 |**2026-04-15**|**AgentOpt v0.1 Technical Report: Client-Side Optimization for LLM-Based Agent**|Wenyue Hua et.al.|[2604.06296](http://arxiv.org/abs/2604.06296)|
 |**2026-04-14**|**When Less Latent Leads to Better Relay: Information-Preserving Compression for Latent Multi-Agent LLM Collaboration**|Yiping Li et.al.|[2604.13349](http://arxiv.org/abs/2604.13349)|
+|**2026-04-14**|**MARS: Efficient, Adaptive Co-Scheduling for Heterogeneous Agentic Systems**|Yifei Wang et.al.|[2604.26963](http://arxiv.org/abs/2604.26963)|
 |**2026-04-13**|**FlashMem: Distilling Intrinsic Latent Memory via Computation Reuse**|Yubo Hou et.al.|[2601.05505](http://arxiv.org/abs/2601.05505)|
 |**2026-04-13**|**MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens**|Yu Chen et.al.|[2603.23516](http://arxiv.org/abs/2603.23516)|
 |**2026-04-13**|**From Agent Loops to Structured Graphs:A Scheduler-Theoretic Framework for LLM Agent Execution**|Hu Wei et.al.|[2604.11378](http://arxiv.org/abs/2604.11378)|
