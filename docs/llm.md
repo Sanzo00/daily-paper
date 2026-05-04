@@ -6,10 +6,12 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.05.03_
+_Updated on 2026.05.04_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-05-01**|**LLM-Emu: Native Runtime Emulation of LLM Inference via Profile-Driven Sampling**|Wei Da et.al.|[2605.00616](http://arxiv.org/abs/2605.00616)|
+|**2026-05-01**|**SAGA: Workflow-Atomic Scheduling for AI Agent Inference on GPU Clusters**|Dongxin Guo et.al.|[2605.00528_(DIS)](http://arxiv.org/abs/2605.00528)|
 |**2026-04-30**|**VitaLLM: A Versatile, Ultra-Compact Ternary LLM Accelerator with Dependency-Aware Scheduling**|Zi-Wei Lin et.al.|[2604.27396](http://arxiv.org/abs/2604.27396)|
 |**2026-04-29**|**Unifying Sparse Attention with Hierarchical Memory for Scalable Long-Context LLM Serving**|Zihan Zhao et.al.|[2604.26837](http://arxiv.org/abs/2604.26837)|
 |**2026-04-29**|**When Hidden States Drift: Can KV Caches Rescue Long-Range Speculative Decoding?**|Tianyu Liu et.al.|[2604.26412](http://arxiv.org/abs/2604.26412)|

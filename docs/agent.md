@@ -6,10 +6,12 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.05.03_
+_Updated on 2026.05.04_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-05-01**|**HyMem: Hybrid Memory Architecture with Dynamic Retrieval Scheduling**|Xiaochen Zhao et.al.|[2602.13933](http://arxiv.org/abs/2602.13933)|
+|**2026-05-01**|**SAGA: Workflow-Atomic Scheduling for AI Agent Inference on GPU Clusters**|Dongxin Guo et.al.|[2605.00528_(DIS)](http://arxiv.org/abs/2605.00528)|
 |**2026-04-30**|**From Skill Text to Skill Structure: The Scheduling-Structural-Logical Representation for Agent Skills**|Qiliang Liang et.al.|[2604.24026](http://arxiv.org/abs/2604.24026)|
 |**2026-04-30**|**Crab: A Semantics-Aware Checkpoint/Restore Runtime for Agent Sandboxes**|Tianyuan Wu et.al.|[2604.28138](http://arxiv.org/abs/2604.28138)|
 |**2026-04-30**|**Bridging Values and Behavior: A Hierarchical Framework for Proactive Embodied Agents**|Chunhui Zhang et.al.|[2604.27699](http://arxiv.org/abs/2604.27699)|
@@ -125,7 +127,6 @@ _Updated on 2026.05.03_
 |**2026-02-17**|**Agent Memory Below the Prompt: Persistent Q4 KV Cache for Multi-Agent LLM Inference on Edge Devices**|Yakov Pyotr Shkolnikov et.al.|[2603.04428](http://arxiv.org/abs/2603.04428)|
 |**2026-02-16**|**OpenAgentSafety: A Comprehensive Framework for Evaluating Real-World AI Agent Safety**|Sanidhya Vijayvargiya et.al.|[2507.06134_(ICLR)](http://arxiv.org/abs/2507.06134)|
 |**2026-02-16**|**Efficient Multi-round LLM Inference over Disaggregated Serving**|Wenhao He et.al.|[2602.14516](http://arxiv.org/abs/2602.14516)|
-|**2026-02-15**|**HyMem: Hybrid Memory Architecture with Dynamic Retrieval Scheduling**|Xiaochen Zhao et.al.|[2602.13933](http://arxiv.org/abs/2602.13933)|
 |**2026-02-12**|**PrefillShare: A Shared Prefill Module for KV Reuse in Multi-LLM Disaggregated Serving**|Sunghyeon Woo et.al.|[2602.12029](http://arxiv.org/abs/2602.12029)|
 |**2026-02-12**|**Deep Kernel Fusion for Transformers**|Zixi Zhang et.al.|[2602.11808](http://arxiv.org/abs/2602.11808)|
 |**2026-02-12**|**IMAGAgent: Orchestrating Multi-Turn Image Editing via Constraint-Aware Planning and Reflection**|Fei Shen et.al.|[2603.29602](http://arxiv.org/abs/2603.29602)|
