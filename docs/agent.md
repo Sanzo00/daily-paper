@@ -6,13 +6,17 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.05.04_
+_Updated on 2026.05.05_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-05-04**|**From Skill Text to Skill Structure: The Scheduling-Structural-Logical Representation for Agent Skills**|Qiliang Liang et.al.|[2604.24026](http://arxiv.org/abs/2604.24026)|
+|**2026-05-04**|**Autonomous LLM Agent Worms: Cross-Platform Propagation, Automated Discovery and Temporal Re-Entry Defense**|Mingming Zha et.al.|[2605.02812](http://arxiv.org/abs/2605.02812)|
+|**2026-05-04**|**AAFLOW: Scalable Patterns for Agentic AI Workflows**|Arup Kumar Sarker et.al.|[2605.02162_(SC)](http://arxiv.org/abs/2605.02162)|
+|**2026-05-03**|**SplitZip: Ultra Fast Lossless KV Compression for Disaggregated LLM Serving**|Yipin Guo et.al.|[2605.01708](http://arxiv.org/abs/2605.01708)|
+|**2026-05-03**|**WMF-AM: Probing LLM Working Memory via Depth-Parameterized Cumulative State Tracking**|Dengzhe Hou et.al.|[2603.27343](http://arxiv.org/abs/2603.27343)|
 |**2026-05-01**|**HyMem: Hybrid Memory Architecture with Dynamic Retrieval Scheduling**|Xiaochen Zhao et.al.|[2602.13933](http://arxiv.org/abs/2602.13933)|
 |**2026-05-01**|**SAGA: Workflow-Atomic Scheduling for AI Agent Inference on GPU Clusters**|Dongxin Guo et.al.|[2605.00528_(DIS)](http://arxiv.org/abs/2605.00528)|
-|**2026-04-30**|**From Skill Text to Skill Structure: The Scheduling-Structural-Logical Representation for Agent Skills**|Qiliang Liang et.al.|[2604.24026](http://arxiv.org/abs/2604.24026)|
 |**2026-04-30**|**Crab: A Semantics-Aware Checkpoint/Restore Runtime for Agent Sandboxes**|Tianyuan Wu et.al.|[2604.28138](http://arxiv.org/abs/2604.28138)|
 |**2026-04-30**|**Bridging Values and Behavior: A Hierarchical Framework for Proactive Embodied Agents**|Chunhui Zhang et.al.|[2604.27699](http://arxiv.org/abs/2604.27699)|
 |**2026-04-29**|**StreamAgent: Towards Anticipatory Agents for Streaming Video Understanding**|Haolin Yang et.al.|[2508.01875](http://arxiv.org/abs/2508.01875)|
@@ -71,6 +75,7 @@ _Updated on 2026.05.04_
 |**2026-03-30**|**CSAttention: Centroid-Scoring Attention for Accelerating LLM Inference**|Chuxu Song et.al.|[2604.08584](http://arxiv.org/abs/2604.08584)|
 |**2026-03-28**|**Simulating Human Cognition: Heartbeat-Driven Autonomous Thinking Activity Scheduling for LLM-based AI systems**|Hong Su et.al.|[2604.14178](http://arxiv.org/abs/2604.14178)|
 |**2026-03-26**|**Large Language Models as Optimization Controllers: Adaptive Continuation for SIMP Topology Optimization**|Shaoliang Yang et.al.|[2603.25099](http://arxiv.org/abs/2603.25099)|
+|**2026-03-26**|**GhostServe: A Lightweight Checkpointing System in the Shadow for Fault-Tolerant LLM Serving**|Shakya Jayakody et.al.|[2605.00831](http://arxiv.org/abs/2605.00831)|
 |**2026-03-25**|**LMetric: Simple is Better - Multiplication May Be All You Need for LLM Request Scheduling**|Dingyan Zhang et.al.|[2603.15202](http://arxiv.org/abs/2603.15202)|
 |**2026-03-25**|**Language-Grounded Multi-Agent Planning for Personalized and Fair Participatory Urban Sensing**|Xusen Guo et.al.|[2603.24014](http://arxiv.org/abs/2603.24014)|
 |**2026-03-23**|**Chimera: Latency- and Performance-Aware Multi-agent Serving for Heterogeneous LLMs**|Kangqi Ni et.al.|[2603.22206](http://arxiv.org/abs/2603.22206)|

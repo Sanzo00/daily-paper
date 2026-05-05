@@ -6,10 +6,13 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.05.04_
+_Updated on 2026.05.05_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-05-03**|**Improving Factuality in LLMs via Inference-Time Knowledge Graph Construction**|Shanglin Wu et.al.|[2509.03540](http://arxiv.org/abs/2509.03540)|
+|**2026-05-03**|**The Provenance Gap in Clinical AI: Evidence-Traceable Temporal Knowledge Graphs for Rare Disease Reasoning**|Md Shamim Ahmed et.al.|[2604.17114](http://arxiv.org/abs/2604.17114)|
+|**2026-05-02**|**FT-RAG: A Fine-grained Retrieval-Augmented Generation Framework for Complex Table Reasoning**|Zebin Guo et.al.|[2605.01495](http://arxiv.org/abs/2605.01495)|
 |**2026-04-30**|**PRAG: End-to-End Privacy-Preserving Retrieval-Augmented Generation**|Zhijun Li et.al.|[2604.26525](http://arxiv.org/abs/2604.26525)|
 |**2026-04-29**|**Think it, Run it: Autonomous ML pipeline generation via self-healing multi-agent AI**|Adela Bara et.al.|[2604.27096](http://arxiv.org/abs/2604.27096)|
 |**2026-04-28**|**BridgeRAG: Training-Free Bridge-Conditioned Retrieval for Multi-Hop Question Answering**|Andre Bacellar et.al.|[2604.03384](http://arxiv.org/abs/2604.03384)|
@@ -24,7 +27,6 @@ _Updated on 2026.05.04_
 |**2026-04-20**|**AutoGraph-R1: End-to-End Reinforcement Learning for Knowledge Graph Construction**|Hong Ting Tsang et.al.|[2510.15339](http://arxiv.org/abs/2510.15339)|
 |**2026-04-20**|**MegaRAG: Multimodal Knowledge Graph-Based Retrieval Augmented Generation**|Chi-Hsiang Hsiao et.al.|[2512.20626_(ACL)](http://arxiv.org/abs/2512.20626)|
 |**2026-04-20**|**Structural Verification for Reliable EDA Code Generation without Tool-in-the-Loop Debugging**|Dinithi Jayasuriya et.al.|[2604.18834](http://arxiv.org/abs/2604.18834)|
-|**2026-04-18**|**The Provenance Gap in Clinical AI: Evidence-Traceable Temporal Knowledge Graphs for Rare Disease Reasoning**|Md Shamim Ahmed et.al.|[2604.17114](http://arxiv.org/abs/2604.17114)|
 |**2026-04-17**|**EvoRAG: Making Knowledge Graph-based RAG Automatically Evolve through Feedback-driven Backpropagation**|Zhenbo Fu et.al.|[2604.15676](http://arxiv.org/abs/2604.15676)|
 |**2026-04-16**|**LLMOrbit: A Circular Taxonomy of Large Language Models -From Scaling Walls to Agentic AI Systems**|Badri N. Patro et.al.|[2601.14053](http://arxiv.org/abs/2601.14053)|
 |**2026-04-16**|**Enhancing Mental Health Counseling Support in Bangladesh using Culturally-Grounded Knowledge**|Md Arid Hasan et.al.|[2604.14576](http://arxiv.org/abs/2604.14576)|
@@ -262,7 +264,6 @@ _Updated on 2026.05.04_
 |**2025-10-08**|**Reasoning by Exploration: A Unified Approach to Retrieval and Generation over Graphs**|Haoyu Han et.al.|[2510.07484](http://arxiv.org/abs/2510.07484)|
 |**2025-10-08**|**Parallel and Multi-Stage Knowledge Graph Retrieval for Behaviorally Aligned Financial Asset Recommendations**|Fernando Spadea et.al.|[2511.11583](http://arxiv.org/abs/2511.11583)|
 |**2025-10-07**|**When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation**|Zhishang Xiang et.al.|[2506.05690](http://arxiv.org/abs/2506.05690)|
-|**2025-10-07**|**Improving Factuality in LLMs via Inference-Time Knowledge Graph Construction**|Shanglin Wu et.al.|[2509.03540](http://arxiv.org/abs/2509.03540)|
 |**2025-10-07**|**Mnemosyne: An Unsupervised, Human-Inspired Long-Term Memory Architecture for Edge-Based LLMs**|Aneesh Jonelagadda et.al.|[2510.08601](http://arxiv.org/abs/2510.08601)|
 |**2025-10-05**|**RAG over Tables: Hierarchical Memory Index, Multi-Stage Retrieval, and Benchmarking**|Jiaru Zou et.al.|[2504.01346](http://arxiv.org/abs/2504.01346)|
 |**2025-10-03**|**PropRAG: Guiding Retrieval with Beam Search over Proposition Paths**|Jingjin Wang et.al.|[2504.18070_(EMNLP)](http://arxiv.org/abs/2504.18070)|

@@ -6,10 +6,12 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.05.04_
+_Updated on 2026.05.05_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-05-03**|**SplitZip: Ultra Fast Lossless KV Compression for Disaggregated LLM Serving**|Yipin Guo et.al.|[2605.01708](http://arxiv.org/abs/2605.01708)|
+|**2026-05-02**|**Position: LLM Serving Needs Mathematical Optimization and Algorithmic Foundations, Not Just Heuristics**|Zijie Zhou et.al.|[2605.01280](http://arxiv.org/abs/2605.01280)|
 |**2026-05-01**|**LLM-Emu: Native Runtime Emulation of LLM Inference via Profile-Driven Sampling**|Wei Da et.al.|[2605.00616](http://arxiv.org/abs/2605.00616)|
 |**2026-05-01**|**SAGA: Workflow-Atomic Scheduling for AI Agent Inference on GPU Clusters**|Dongxin Guo et.al.|[2605.00528_(DIS)](http://arxiv.org/abs/2605.00528)|
 |**2026-04-30**|**VitaLLM: A Versatile, Ultra-Compact Ternary LLM Accelerator with Dependency-Aware Scheduling**|Zi-Wei Lin et.al.|[2604.27396](http://arxiv.org/abs/2604.27396)|
@@ -82,6 +84,7 @@ _Updated on 2026.05.04_
 |**2026-03-28**|**CoDec: Prefix-Shared Decoding Kernel for LLMs**|Zhibin Wang et.al.|[2505.17694](http://arxiv.org/abs/2505.17694)|
 |**2026-03-27**|**LiteCache: A Query Similarity-Driven, GPU-Centric KVCache Subsystem for Efficient LLM Inference**|Jiawei Yi et.al.|[2511.14510](http://arxiv.org/abs/2511.14510)|
 |**2026-03-26**|**Extending Puzzle for Mixture-of-Experts Reasoning Models with Application to GPT-OSS Acceleration**|Akhiad Bercovich et.al.|[2602.11937](http://arxiv.org/abs/2602.11937)|
+|**2026-03-26**|**GhostServe: A Lightweight Checkpointing System in the Shadow for Fault-Tolerant LLM Serving**|Shakya Jayakody et.al.|[2605.00831](http://arxiv.org/abs/2605.00831)|
 |**2026-03-25**|**Bottlenecked Transformers: Periodic KV Cache Consolidation for Generalised Reasoning**|Adnan Oomerjee et.al.|[2505.16950](http://arxiv.org/abs/2505.16950)|
 |**2026-03-25**|**LMetric: Simple is Better - Multiplication May Be All You Need for LLM Request Scheduling**|Dingyan Zhang et.al.|[2603.15202](http://arxiv.org/abs/2603.15202)|
 |**2026-03-24**|**PCR: A Prefetch-Enhanced Cache Reuse System for Low-Latency RAG Serving**|Wenfeng Wang et.al.|[2603.23049](http://arxiv.org/abs/2603.23049)|
