@@ -6,10 +6,13 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.05.05_
+_Updated on 2026.05.06_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-05-05**|**Not All Prefills Are Equal: PPD Disaggregation for Multi-turn LLM Serving**|Zongze Li et.al.|[2603.13358_(ICML)](http://arxiv.org/abs/2603.13358)|
+|**2026-05-05**|**QKVShare: Quantized KV-Cache Handoff for Multi-Agent On-Device LLMs**|Pratik Honavar et.al.|[2605.03884](http://arxiv.org/abs/2605.03884)|
+|**2026-05-04**|**Continuum: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live**|Hanchen Li et.al.|[2511.02230](http://arxiv.org/abs/2511.02230)|
 |**2026-05-04**|**From Skill Text to Skill Structure: The Scheduling-Structural-Logical Representation for Agent Skills**|Qiliang Liang et.al.|[2604.24026](http://arxiv.org/abs/2604.24026)|
 |**2026-05-04**|**Autonomous LLM Agent Worms: Cross-Platform Propagation, Automated Discovery and Temporal Re-Entry Defense**|Mingming Zha et.al.|[2605.02812](http://arxiv.org/abs/2605.02812)|
 |**2026-05-04**|**AAFLOW: Scalable Patterns for Agentic AI Workflows**|Arup Kumar Sarker et.al.|[2605.02162_(SC)](http://arxiv.org/abs/2605.02162)|
@@ -99,7 +102,6 @@ _Updated on 2026.05.05_
 |**2026-03-11**|**BLITZRANK: Principled Zero-shot Ranking Agents with Tournament Graphs**|Sheshansh Agrawal et.al.|[2602.05448](http://arxiv.org/abs/2602.05448)|
 |**2026-03-10**|**ThunderAgent: A Simple, Fast and Program-Aware Agentic Inference System**|Hao Kang et.al.|[2602.13692](http://arxiv.org/abs/2602.13692)|
 |**2026-03-09**|**Advancing Automated Algorithm Design via Evolutionary Stagewise Design with LLMs**|Chen Lu et.al.|[2603.07970](http://arxiv.org/abs/2603.07970)|
-|**2026-03-09**|**Not All Prefills Are Equal: PPD Disaggregation for Multi-turn LLM Serving**|Zongze Li et.al.|[2603.13358](http://arxiv.org/abs/2603.13358)|
 |**2026-03-09**|**Can LLMs Perceive Time? An Empirical Investigation**|Aniketh Garikaparthi et.al.|[2604.00010_(ICLR)](http://arxiv.org/abs/2604.00010)|
 |**2026-03-06**|**Characterizing Faults in Agentic AI: A Taxonomy of Types, Symptoms, and Root Causes**|Mehil B Shah et.al.|[2603.06847](http://arxiv.org/abs/2603.06847)|
 |**2026-03-05**|**PerfGuard: A Performance-Aware Agent for Visual Content Generation**|Zhipeng Chen et.al.|[2601.22571_(FG)](http://arxiv.org/abs/2601.22571)|
@@ -150,7 +152,6 @@ _Updated on 2026.05.05_
 |**2026-02-01**|**PaperDebugger: A Plugin-Based Multi-Agent System for In-Editor Academic Writing, Review, and Editing**|Junyi Hou et.al.|[2512.02589](http://arxiv.org/abs/2512.02589)|
 |**2026-02-01**|**LRAgent: Efficient KV Cache Sharing for Multi-LoRA LLM Agents**|Hyesung Jeon et.al.|[2602.01053](http://arxiv.org/abs/2602.01053)|
 |**2026-01-31**|**FastTTS: Accelerating Test-Time Scaling for Edge LLM Reasoning**|Hao Mark Chen et.al.|[2509.00195_(ASPLOS)](http://arxiv.org/abs/2509.00195)|
-|**2026-01-30**|**Continuum: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live**|Hanchen Li et.al.|[2511.02230](http://arxiv.org/abs/2511.02230)|
 |**2026-01-30**|**Can Transformer Memory Be Corrupted? Investigating Cache-Side Vulnerabilities in Large Language Models**|Elias Hossain et.al.|[2510.17098](http://arxiv.org/abs/2510.17098)|
 |**2026-01-30**|**CONCUR: High-Throughput Agentic Batch Inference of LLM via Congestion-Based Concurrency Control**|Qiaoling Chen et.al.|[2601.22705](http://arxiv.org/abs/2601.22705)|
 |**2026-01-29**|**Emergent Coordination in Multi-Agent Systems via Pressure Fields and Temporal Decay**|Roland Rodriguez et.al.|[2601.08129](http://arxiv.org/abs/2601.08129)|

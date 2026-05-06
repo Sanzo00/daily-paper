@@ -6,12 +6,13 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.05.05_
+_Updated on 2026.05.06_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
 |**2026-05-03**|**Improving Factuality in LLMs via Inference-Time Knowledge Graph Construction**|Shanglin Wu et.al.|[2509.03540](http://arxiv.org/abs/2509.03540)|
 |**2026-05-03**|**The Provenance Gap in Clinical AI: Evidence-Traceable Temporal Knowledge Graphs for Rare Disease Reasoning**|Md Shamim Ahmed et.al.|[2604.17114](http://arxiv.org/abs/2604.17114)|
+|**2026-05-03**|**AutoRAGTuner: A Declarative Framework for Automatic Optimization of RAG Pipelines**|Xintan Zeng et.al.|[2605.02967_(EuroSys)](http://arxiv.org/abs/2605.02967)|
 |**2026-05-02**|**FT-RAG: A Fine-grained Retrieval-Augmented Generation Framework for Complex Table Reasoning**|Zebin Guo et.al.|[2605.01495](http://arxiv.org/abs/2605.01495)|
 |**2026-04-30**|**PRAG: End-to-End Privacy-Preserving Retrieval-Augmented Generation**|Zhijun Li et.al.|[2604.26525](http://arxiv.org/abs/2604.26525)|
 |**2026-04-29**|**Think it, Run it: Autonomous ML pipeline generation via self-healing multi-agent AI**|Adela Bara et.al.|[2604.27096](http://arxiv.org/abs/2604.27096)|

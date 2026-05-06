@@ -6,10 +6,15 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.05.05_
+_Updated on 2026.05.06_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-05-05**|**Not All Prefills Are Equal: PPD Disaggregation for Multi-turn LLM Serving**|Zongze Li et.al.|[2603.13358_(ICML)](http://arxiv.org/abs/2603.13358)|
+|**2026-05-05**|**Tutti: Making SSD-Backed KV Cache Practical for Long-Context LLM Serving**|Shi Qiu et.al.|[2605.03375](http://arxiv.org/abs/2605.03375)|
+|**2026-05-05**|**AdapShot: Adaptive Many-Shot In-Context Learning with Semantic-Aware KV Cache Reuse**|Jie Ou et.al.|[2605.03644](http://arxiv.org/abs/2605.03644)|
+|**2026-05-04**|**Continuum: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live**|Hanchen Li et.al.|[2511.02230](http://arxiv.org/abs/2511.02230)|
+|**2026-05-04**|**SparKV: Overhead-Aware KV Cache Loading for Efficient On-Device LLM Inference**|Hongyao Liu et.al.|[2604.21231](http://arxiv.org/abs/2604.21231)|
 |**2026-05-03**|**SplitZip: Ultra Fast Lossless KV Compression for Disaggregated LLM Serving**|Yipin Guo et.al.|[2605.01708](http://arxiv.org/abs/2605.01708)|
 |**2026-05-02**|**Position: LLM Serving Needs Mathematical Optimization and Algorithmic Foundations, Not Just Heuristics**|Zijie Zhou et.al.|[2605.01280](http://arxiv.org/abs/2605.01280)|
 |**2026-05-01**|**LLM-Emu: Native Runtime Emulation of LLM Inference via Profile-Driven Sampling**|Wei Da et.al.|[2605.00616](http://arxiv.org/abs/2605.00616)|
@@ -28,7 +33,6 @@ _Updated on 2026.05.05_
 |**2026-04-27**|**Long-Context Aware Upcycling: A New Frontier for Hybrid LLM Scaling**|Parsa Ashrafi Fashi et.al.|[2604.24715](http://arxiv.org/abs/2604.24715)|
 |**2026-04-27**|**DepthKV: Layer-Dependent KV Cache Pruning for Long-Context LLM Inference**|Zahra Dehghanighobadi et.al.|[2604.24647](http://arxiv.org/abs/2604.24647)|
 |**2026-04-23**|**LiveVLM: Efficient Online Video Understanding via Streaming-Oriented KV Cache and Retrieval**|Zhenyu Ning et.al.|[2505.15269_(DAC)](http://arxiv.org/abs/2505.15269)|
-|**2026-04-23**|**SparKV: Overhead-Aware KV Cache Loading for Efficient On-Device LLM Inference**|Hongyao Liu et.al.|[2604.21231](http://arxiv.org/abs/2604.21231)|
 |**2026-04-22**|**BatchLLM: Optimizing Large Batched LLM Inference with Global Prefix Sharing and Throughput-oriented Token Batching**|Zhen Zheng et.al.|[2412.03594](http://arxiv.org/abs/2412.03594)|
 |**2026-04-22**|**Sutradhara: An Intelligent Orchestrator-Engine Co-design for Tool-based Agentic Inference**|Anish Biswas et.al.|[2601.12967](http://arxiv.org/abs/2601.12967)|
 |**2026-04-22**|**Prefill-as-a-Service: KVCache of Next-Generation Models Could Go Cross-Datacenter**|Ruoyu Qin et.al.|[2604.15039](http://arxiv.org/abs/2604.15039)|
@@ -116,7 +120,6 @@ _Updated on 2026.05.05_
 |**2026-03-09**|**FreeKV: Boosting KV Cache Retrieval for Efficient LLM Inference**|Guangda Liu et.al.|[2505.13109](http://arxiv.org/abs/2505.13109)|
 |**2026-03-09**|**EAGLE-Pangu: Accelerator-Safe Tree Speculative Decoding on Ascend NPUs**|Chang Han et.al.|[2603.08088](http://arxiv.org/abs/2603.08088)|
 |**2026-03-09**|**LycheeCluster: Efficient Long-Context Inference with Structure-Aware Chunking and Hierarchical KV Indexing**|Dongfang Li et.al.|[2603.08453](http://arxiv.org/abs/2603.08453)|
-|**2026-03-09**|**Not All Prefills Are Equal: PPD Disaggregation for Multi-turn LLM Serving**|Zongze Li et.al.|[2603.13358](http://arxiv.org/abs/2603.13358)|
 |**2026-03-08**|**Skip to the Good Part: Representation Structure & Inference-Time Layer Skipping in Diffusion vs. Autoregressive LLMs**|Raghavv Goel et.al.|[2603.07475_(ICLR)](http://arxiv.org/abs/2603.07475)|
 |**2026-03-06**|**Good-Enough LLM Obfuscation (GELO)**|Anatoly Belikov et.al.|[2603.05035](http://arxiv.org/abs/2603.05035)|
 |**2026-03-05**|**Hardware-Software Co-design for 3D-DRAM-based LLM Serving Accelerator**|Cong Li et.al.|[2603.04797](http://arxiv.org/abs/2603.04797)|
@@ -162,7 +165,6 @@ _Updated on 2026.05.05_
 |**2026-02-02**|**State Rank Dynamics in Linear Attention LLMs**|Ao Sun et.al.|[2602.02195](http://arxiv.org/abs/2602.02195)|
 |**2026-01-31**|**FastTTS: Accelerating Test-Time Scaling for Edge LLM Reasoning**|Hao Mark Chen et.al.|[2509.00195_(ASPLOS)](http://arxiv.org/abs/2509.00195)|
 |**2026-01-30**|**Can Transformer Memory Be Corrupted? Investigating Cache-Side Vulnerabilities in Large Language Models**|Elias Hossain et.al.|[2510.17098](http://arxiv.org/abs/2510.17098)|
-|**2026-01-30**|**Continuum: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live**|Hanchen Li et.al.|[2511.02230](http://arxiv.org/abs/2511.02230)|
 |**2026-01-30**|**CONCUR: High-Throughput Agentic Batch Inference of LLM via Congestion-Based Concurrency Control**|Qiaoling Chen et.al.|[2601.22705](http://arxiv.org/abs/2601.22705)|
 |**2026-01-30**|**Towards Resiliency in Large Language Model Serving with KevlarFlow**|Shangshu Qian et.al.|[2601.22438](http://arxiv.org/abs/2601.22438)|
 |**2026-01-30**|**Competitive Non-Clairvoyant KV-Cache Scheduling for LLM Inference**|Yiding Feng et.al.|[2601.22996](http://arxiv.org/abs/2601.22996)|
