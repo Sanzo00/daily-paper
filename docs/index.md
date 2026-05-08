@@ -6,10 +6,12 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.05.07_
+_Updated on 2026.05.08_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-05-07**|**GATHER: Convergence-Centric Hyper-Entity Retrieval for Zero-Shot Cell-Type Annotation**|Zhonghui Zhang et.al.|[2605.06403_(SIGIR)](http://arxiv.org/abs/2605.06403)|
+|**2026-05-07**|**Text-Graph Synergy: A Bidirectional Verification and Completion Framework for RAG**|Jiarui Zhong et.al.|[2605.05643](http://arxiv.org/abs/2605.05643)|
 |**2026-05-06**|**Graph-Augmented LLMs for Swiss MP Ideology Prediction**|Yifei Yuan et.al.|[2605.04643_(ISS)](http://arxiv.org/abs/2605.04643)|
 |**2026-05-03**|**Improving Factuality in LLMs via Inference-Time Knowledge Graph Construction**|Shanglin Wu et.al.|[2509.03540](http://arxiv.org/abs/2509.03540)|
 |**2026-05-03**|**The Provenance Gap in Clinical AI: Evidence-Traceable Temporal Knowledge Graphs for Rare Disease Reasoning**|Md Shamim Ahmed et.al.|[2604.17114](http://arxiv.org/abs/2604.17114)|

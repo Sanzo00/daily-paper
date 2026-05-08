@@ -6,12 +6,18 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.05.07_
+_Updated on 2026.05.08_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-05-07**|**AI Agents Alone Are Not (Yet) Sufficient for Social Simulation**|Yiming Li et.al.|[2603.00113](http://arxiv.org/abs/2603.00113)|
+|**2026-05-07**|**Efficient Serving for Dynamic Agent Workflows with Prediction-based KV-Cache Management**|Haoyu Zheng et.al.|[2605.06472](http://arxiv.org/abs/2605.06472)|
+|**2026-05-07**|**Irminsul: MLA-Native Position-Independent Caching for Agentic LLM Serving**|Bole Ma et.al.|[2605.05696](http://arxiv.org/abs/2605.05696)|
+|**2026-05-07**|**ROSE: Rollout On Serving GPUs via Cooperative Elasticity for Agentic RL**|Wei Gao et.al.|[2605.06534](http://arxiv.org/abs/2605.06534)|
 |**2026-05-06**|**ContextPilot: Fast Long-Context Inference via Context Reuse**|Yinsicheng Jiang et.al.|[2511.03475](http://arxiv.org/abs/2511.03475)|
+|**2026-05-06**|**Beyond Static Snapshots: A Grounded Evaluation Framework for Language Models at the Agentic Frontier**|Jazmia Henry et.al.|[2604.17573_(NeurIPS)](http://arxiv.org/abs/2604.17573)|
 |**2026-05-06**|**Joint Optimization of Trajectory Control, Resource Allocation, and Task Offloading for Multi-UAV-Assisted IoV**|Maoxin Ji et.al.|[2605.04436](http://arxiv.org/abs/2605.04436)|
+|**2026-05-06**|**PARNESS: A Paper Harness for End-to-End Automated Scientific Research with Dynamic Workflows, Full-Text Indexing, and Cross-Run Knowledge Accumulation**|Yuchen Wang et.al.|[2605.05258](http://arxiv.org/abs/2605.05258)|
 |**2026-05-05**|**Not All Prefills Are Equal: PPD Disaggregation for Multi-turn LLM Serving**|Zongze Li et.al.|[2603.13358_(ICML)](http://arxiv.org/abs/2603.13358)|
 |**2026-05-05**|**QKVShare: Quantized KV-Cache Handoff for Multi-Agent On-Device LLMs**|Pratik Honavar et.al.|[2605.03884](http://arxiv.org/abs/2605.03884)|
 |**2026-05-04**|**Continuum: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live**|Hanchen Li et.al.|[2511.02230](http://arxiv.org/abs/2511.02230)|
@@ -38,7 +44,6 @@ _Updated on 2026.05.07_
 |**2026-04-22**|**FlexServe: A Fast and Secure LLM Serving System for Mobile Devices with Flexible Resource Isolation**|Yinpeng Wu et.al.|[2603.09046](http://arxiv.org/abs/2603.09046)|
 |**2026-04-22**|**Cross-Session Threats in AI Agents: Benchmark, Evaluation, and Algorithms**|Ari Azarafrooz et.al.|[2604.21131](http://arxiv.org/abs/2604.21131)|
 |**2026-04-20**|**AIT Academy: Cultivating the Complete Agent with a Confucian Three-Domain Curriculum**|Jiaqi Li et.al.|[2604.17989](http://arxiv.org/abs/2604.17989)|
-|**2026-04-19**|**Beyond Static Snapshots: A Grounded Evaluation Framework for Language Models at the Agentic Frontier**|Jazmia Henry et.al.|[2604.17573](http://arxiv.org/abs/2604.17573)|
 |**2026-04-19**|**EmbodiedHead: Real-Time Listening and Speaking Avatar for Conversational Agents**|Yu Zhang et.al.|[2604.17211](http://arxiv.org/abs/2604.17211)|
 |**2026-04-19**|**Hive: A Multi-Agent Infrastructure for Algorithm- and Task-Level Scaling**|Zizhang Luo et.al.|[2604.17353](http://arxiv.org/abs/2604.17353)|
 |**2026-04-19**|**Predictive Multi-Tier Memory Management for KV Cache in Large-Scale GPU Inference**|Sanjeev Rao Ganjihal et.al.|[2604.26968](http://arxiv.org/abs/2604.26968)|
@@ -131,7 +136,6 @@ _Updated on 2026.05.07_
 |**2026-02-22**|**KVComm: Enabling Efficient LLM Communication through Selective KV Sharing**|Xiangyu Shi et.al.|[2510.03346_(ICLR)](http://arxiv.org/abs/2510.03346)|
 |**2026-02-20**|**Aurora: Neuro-Symbolic AI Driven Advising Agent**|Lorena Amanda Quincoso Lugones et.al.|[2602.17999](http://arxiv.org/abs/2602.17999)|
 |**2026-02-20**|**Alignment in Time: Peak-Aware Orchestration for Long-Horizon Agentic Systems**|Hanjing Shi et.al.|[2602.17910](http://arxiv.org/abs/2602.17910)|
-|**2026-02-19**|**Position: AI Agents Are Not (Yet) a Panacea for Social Simulation**|Yiming Li et.al.|[2603.00113](http://arxiv.org/abs/2603.00113)|
 |**2026-02-19**|**ARKV: Adaptive and Resource-Efficient KV Cache Management under Limited Memory Budget for Long-Context Inference in LLMs**|Jianlong Lei et.al.|[2603.08727](http://arxiv.org/abs/2603.08727)|
 |**2026-02-17**|**Agent Memory Below the Prompt: Persistent Q4 KV Cache for Multi-Agent LLM Inference on Edge Devices**|Yakov Pyotr Shkolnikov et.al.|[2603.04428](http://arxiv.org/abs/2603.04428)|
 |**2026-02-16**|**OpenAgentSafety: A Comprehensive Framework for Evaluating Real-World AI Agent Safety**|Sanidhya Vijayvargiya et.al.|[2507.06134_(ICLR)](http://arxiv.org/abs/2507.06134)|
