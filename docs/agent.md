@@ -6,10 +6,11 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.05.10_
+_Updated on 2026.05.11_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-05-08**|**Deadline-Driven Hierarchical Agentic Resource Sharing for AI Services and RAN Functions in AI-RAN**|Haiyuan Li et.al.|[2605.07547](http://arxiv.org/abs/2605.07547)|
 |**2026-05-07**|**AI Agents Alone Are Not (Yet) Sufficient for Social Simulation**|Yiming Li et.al.|[2603.00113](http://arxiv.org/abs/2603.00113)|
 |**2026-05-07**|**Efficient Serving for Dynamic Agent Workflows with Prediction-based KV-Cache Management**|Haoyu Zheng et.al.|[2605.06472](http://arxiv.org/abs/2605.06472)|
 |**2026-05-07**|**Irminsul: MLA-Native Position-Independent Caching for Agentic LLM Serving**|Bole Ma et.al.|[2605.05696](http://arxiv.org/abs/2605.05696)|

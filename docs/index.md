@@ -6,10 +6,13 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.05.10_
+_Updated on 2026.05.11_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-05-08**|**CSR: Infinite-Horizon Real-Time Policies with Massive Cached State Representations**|Robin Karlsson et.al.|[2605.07325](http://arxiv.org/abs/2605.07325)|
+|**2026-05-08**|**WiCER: Wiki-memory Compile, Evaluate, Refine Iterative Knowledge Compilation for LLM Wiki Systems**|Juan M. Huerta et.al.|[2605.07068](http://arxiv.org/abs/2605.07068)|
+|**2026-05-08**|**Topic Is Not Agenda: A Citation-Community Audit of Text Embeddings**|Junseon Yoo et.al.|[2605.07158](http://arxiv.org/abs/2605.07158)|
 |**2026-05-07**|**GATHER: Convergence-Centric Hyper-Entity Retrieval for Zero-Shot Cell-Type Annotation**|Zhonghui Zhang et.al.|[2605.06403_(SIGIR)](http://arxiv.org/abs/2605.06403)|
 |**2026-05-07**|**Text-Graph Synergy: A Bidirectional Verification and Completion Framework for RAG**|Jiarui Zhong et.al.|[2605.05643](http://arxiv.org/abs/2605.05643)|
 |**2026-05-06**|**Graph-Augmented LLMs for Swiss MP Ideology Prediction**|Yifei Yuan et.al.|[2605.04643_(ISS)](http://arxiv.org/abs/2605.04643)|
