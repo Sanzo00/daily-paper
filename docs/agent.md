@@ -6,15 +6,16 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.05.12_
+_Updated on 2026.05.13_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-05-12**|**GRC: Unifying Reasoning-Driven Generation, Retrieval and Compression**|Zhongtao Miao et.al.|[2605.09100](http://arxiv.org/abs/2605.09100)|
+|**2026-05-12**|**KV-Fold: One-Step KV-Cache Recurrence for Long-Context Inference**|Alireza Nadali et.al.|[2605.12471](http://arxiv.org/abs/2605.12471)|
 |**2026-05-11**|**Continuum: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live**|Hanchen Li et.al.|[2511.02230](http://arxiv.org/abs/2511.02230)|
 |**2026-05-11**|**Agentic Fuzzing: Opportunities and Challenges**|Junyoung Park et.al.|[2605.10074](http://arxiv.org/abs/2605.10074)|
 |**2026-05-10**|**CalBench: Evaluating Coordination-Privacy Trade-offs in Multi-Agent LLMs**|Chelsea Zou et.al.|[2605.09823](http://arxiv.org/abs/2605.09823)|
 |**2026-05-10**|**LASSA Architecture-Based Autonomous Fault-Tolerant Control of Unmanned Underwater Vehicles**|Hong Chen et.al.|[2605.09494](http://arxiv.org/abs/2605.09494)|
-|**2026-05-09**|**GRC: Unifying Reasoning-Driven Generation, Retrieval and Compression**|Zhongtao Miao et.al.|[2605.09100](http://arxiv.org/abs/2605.09100)|
 |**2026-05-09**|**PRISM: Fast Online LLM Serving via Scheduling-Memory Co-design**|Xingyu Qu et.al.|[2605.08581](http://arxiv.org/abs/2605.08581)|
 |**2026-05-08**|**SplitZip: Ultra Fast Lossless KV Compression for Disaggregated LLM Serving**|Yipin Guo et.al.|[2605.01708](http://arxiv.org/abs/2605.01708)|
 |**2026-05-08**|**Deadline-Driven Hierarchical Agentic Resource Sharing for AI Services and RAN Functions in AI-RAN**|Haiyuan Li et.al.|[2605.07547](http://arxiv.org/abs/2605.07547)|

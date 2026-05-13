@@ -6,10 +6,11 @@ nav_order: 3
 
 # GNN Papers
 
-_Updated on 2026.05.12_
+_Updated on 2026.05.13_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-05-12**|**GriNNder: Breaking the Memory Capacity Wall in Full-Graph GNN Training with Storage Offloading**|Jaeyong Song et.al.|[2605.11517](http://arxiv.org/abs/2605.11517)|
 |**2026-05-10**|**ATLAS: Efficient Out-of-Core Inference for Billion-Scale Graph Neural Networks**|Pranjal Naman et.al.|[2605.09402_(DIS)](http://arxiv.org/abs/2605.09402)|
 |**2026-05-08**|**Graph Computation Meets Circuit Algebra: A Task-Aligned Analysis of Graph Neural Networks for Electronic Design Automation**|Hyunmog Kim et.al.|[2605.08291](http://arxiv.org/abs/2605.08291)|
 |**2026-04-30**|**Exploring Sparse Matrix Multiplication Kernels on the Cerebras CS-3**|Milan Shah et.al.|[2604.27985](http://arxiv.org/abs/2604.27985)|

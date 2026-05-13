@@ -6,13 +6,14 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.05.12_
+_Updated on 2026.05.13_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-05-12**|**GRC: Unifying Reasoning-Driven Generation, Retrieval and Compression**|Zhongtao Miao et.al.|[2605.09100](http://arxiv.org/abs/2605.09100)|
 |**2026-05-11**|**PrimeKG-CL: A Continual Graph Learning Benchmark on Evolving Biomedical Knowledge Graphs**|Yousef A. Radwan et.al.|[2605.10529](http://arxiv.org/abs/2605.10529)|
+|**2026-05-11**|**ClinicalBench: Stress-Testing Assertion-Aware Retrieval for Cross-Admission Clinical QA on MIMIC-IV**|Alex Stinard et.al.|[2605.11143](http://arxiv.org/abs/2605.11143)|
 |**2026-05-10**|**EpiGraph: A Knowledge Graph and Benchmark for Evidence-Intensive Reasoning in Epilepsy**|Yuyang Dai et.al.|[2605.09505](http://arxiv.org/abs/2605.09505)|
-|**2026-05-09**|**GRC: Unifying Reasoning-Driven Generation, Retrieval and Compression**|Zhongtao Miao et.al.|[2605.09100](http://arxiv.org/abs/2605.09100)|
 |**2026-05-09**|**PRISM: Fast Online LLM Serving via Scheduling-Memory Co-design**|Xingyu Qu et.al.|[2605.08581](http://arxiv.org/abs/2605.08581)|
 |**2026-05-09**|**SEM-RAG: Structure-Preserving Multimodal Graph Compilation and Entropy-Guided Retrieval for Telecommunication Standards**|Yuzhi Yang et.al.|[2605.08997](http://arxiv.org/abs/2605.08997)|
 |**2026-05-09**|**Generating Leakage-Free Benchmarks for Robust RAG Evaluation**|Jiayi Liu et.al.|[2605.08838](http://arxiv.org/abs/2605.08838)|
