@@ -6,14 +6,15 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.05.13_
+_Updated on 2026.05.14_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-05-13**|**GAAMA: Graph Augmented Associative Memory for Agents**|Swarna Kamal Paul et.al.|[2603.27910](http://arxiv.org/abs/2603.27910)|
+|**2026-05-13**|**EpiGraph: Building Generalists for Evidence-Intensive Epilepsy Reasoning in the Wild**|Yuyang Dai et.al.|[2605.09505](http://arxiv.org/abs/2605.09505)|
 |**2026-05-12**|**GRC: Unifying Reasoning-Driven Generation, Retrieval and Compression**|Zhongtao Miao et.al.|[2605.09100](http://arxiv.org/abs/2605.09100)|
 |**2026-05-11**|**PrimeKG-CL: A Continual Graph Learning Benchmark on Evolving Biomedical Knowledge Graphs**|Yousef A. Radwan et.al.|[2605.10529](http://arxiv.org/abs/2605.10529)|
 |**2026-05-11**|**ClinicalBench: Stress-Testing Assertion-Aware Retrieval for Cross-Admission Clinical QA on MIMIC-IV**|Alex Stinard et.al.|[2605.11143](http://arxiv.org/abs/2605.11143)|
-|**2026-05-10**|**EpiGraph: A Knowledge Graph and Benchmark for Evidence-Intensive Reasoning in Epilepsy**|Yuyang Dai et.al.|[2605.09505](http://arxiv.org/abs/2605.09505)|
 |**2026-05-09**|**PRISM: Fast Online LLM Serving via Scheduling-Memory Co-design**|Xingyu Qu et.al.|[2605.08581](http://arxiv.org/abs/2605.08581)|
 |**2026-05-09**|**SEM-RAG: Structure-Preserving Multimodal Graph Compilation and Entropy-Guided Retrieval for Telecommunication Standards**|Yuzhi Yang et.al.|[2605.08997](http://arxiv.org/abs/2605.08997)|
 |**2026-05-09**|**Generating Leakage-Free Benchmarks for Robust RAG Evaluation**|Jiayi Liu et.al.|[2605.08838](http://arxiv.org/abs/2605.08838)|
@@ -74,7 +75,6 @@ _Updated on 2026.05.13_
 |**2026-03-30**|**ORACAL: A Robust and Explainable Multimodal Framework for Smart Contract Vulnerability Detection with Causal Graph Enrichment**|Tran Duong Minh Dai et.al.|[2603.28128](http://arxiv.org/abs/2603.28128)|
 |**2026-03-30**|**From PDF to RAG-Ready: Evaluating Document Conversion Frameworks for Domain-Specific Question Answering**|José Guilherme Marques dos Santos et.al.|[2604.04948](http://arxiv.org/abs/2604.04948)|
 |**2026-03-30**|**QCFuse: Query-Centric Cache Fusion for Efficient RAG Inference**|Jianxin Yan et.al.|[2604.08585](http://arxiv.org/abs/2604.08585)|
-|**2026-03-29**|**GAAMA: Graph Augmented Associative Memory for Agents**|Swarna Kamal Paul et.al.|[2603.27910](http://arxiv.org/abs/2603.27910)|
 |**2026-03-26**|**Evaluating adaptive and generative AI-based feedback and recommendations in a knowledge-graph-integrated programming learning system**|Lalita Na Nongkhai et.al.|[2603.24940](http://arxiv.org/abs/2603.24940)|
 |**2026-03-25**|**CoCR-RAG: Enhancing Retrieval-Augmented Generation in Web Q&A via Concept-oriented Context Reconstruction**|Kaize Shi et.al.|[2603.23989](http://arxiv.org/abs/2603.23989)|
 |**2026-03-24**|**PCR: A Prefetch-Enhanced Cache Reuse System for Low-Latency RAG Serving**|Wenfeng Wang et.al.|[2603.23049](http://arxiv.org/abs/2603.23049)|

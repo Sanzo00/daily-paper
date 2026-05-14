@@ -6,10 +6,12 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.05.13_
+_Updated on 2026.05.14_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-05-13**|**Good Agentic Friends Do Not Just Give Verbal Advice: They Can Update Your Weights**|Wenrui Bao et.al.|[2605.13839](http://arxiv.org/abs/2605.13839)|
+|**2026-05-13**|**Useful Memories Become Faulty When Continuously Updated by LLMs**|Dylan Zhang et.al.|[2605.12978](http://arxiv.org/abs/2605.12978)|
 |**2026-05-12**|**GRC: Unifying Reasoning-Driven Generation, Retrieval and Compression**|Zhongtao Miao et.al.|[2605.09100](http://arxiv.org/abs/2605.09100)|
 |**2026-05-12**|**KV-Fold: One-Step KV-Cache Recurrence for Long-Context Inference**|Alireza Nadali et.al.|[2605.12471](http://arxiv.org/abs/2605.12471)|
 |**2026-05-11**|**Continuum: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live**|Hanchen Li et.al.|[2511.02230](http://arxiv.org/abs/2511.02230)|
@@ -37,6 +39,7 @@ _Updated on 2026.05.13_
 |**2026-05-03**|**WMF-AM: Probing LLM Working Memory via Depth-Parameterized Cumulative State Tracking**|Dengzhe Hou et.al.|[2603.27343](http://arxiv.org/abs/2603.27343)|
 |**2026-05-01**|**HyMem: Hybrid Memory Architecture with Dynamic Retrieval Scheduling**|Xiaochen Zhao et.al.|[2602.13933](http://arxiv.org/abs/2602.13933)|
 |**2026-05-01**|**SAGA: Workflow-Atomic Scheduling for AI Agent Inference on GPU Clusters**|Dongxin Guo et.al.|[2605.00528_(DIS)](http://arxiv.org/abs/2605.00528)|
+|**2026-05-01**|**AgenticAITA: A Proof-Of-Concept About Deliberative Multi-Agent Reasoning for Autonomous Trading Systems**|Ivan Letteri et.al.|[2605.12532](http://arxiv.org/abs/2605.12532)|
 |**2026-04-30**|**Crab: A Semantics-Aware Checkpoint/Restore Runtime for Agent Sandboxes**|Tianyuan Wu et.al.|[2604.28138](http://arxiv.org/abs/2604.28138)|
 |**2026-04-30**|**Bridging Values and Behavior: A Hierarchical Framework for Proactive Embodied Agents**|Chunhui Zhang et.al.|[2604.27699](http://arxiv.org/abs/2604.27699)|
 |**2026-04-29**|**StreamAgent: Towards Anticipatory Agents for Streaming Video Understanding**|Haolin Yang et.al.|[2508.01875](http://arxiv.org/abs/2508.01875)|
