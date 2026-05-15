@@ -6,12 +6,14 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.05.14_
+_Updated on 2026.05.15_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-05-14**|**Agentic Recommender System with Hierarchical Belief-State Memory**|Xiang Shen et.al.|[2605.14401](http://arxiv.org/abs/2605.14401)|
 |**2026-05-13**|**Good Agentic Friends Do Not Just Give Verbal Advice: They Can Update Your Weights**|Wenrui Bao et.al.|[2605.13839](http://arxiv.org/abs/2605.13839)|
 |**2026-05-13**|**Useful Memories Become Faulty When Continuously Updated by LLMs**|Dylan Zhang et.al.|[2605.12978](http://arxiv.org/abs/2605.12978)|
+|**2026-05-13**|**Self-Pruned Key-Value Attention: Learning When to Write by Predicting Future Utility**|Gergely Szilvasy et.al.|[2605.14037](http://arxiv.org/abs/2605.14037)|
 |**2026-05-12**|**GRC: Unifying Reasoning-Driven Generation, Retrieval and Compression**|Zhongtao Miao et.al.|[2605.09100](http://arxiv.org/abs/2605.09100)|
 |**2026-05-12**|**KV-Fold: One-Step KV-Cache Recurrence for Long-Context Inference**|Alireza Nadali et.al.|[2605.12471](http://arxiv.org/abs/2605.12471)|
 |**2026-05-11**|**Continuum: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live**|Hanchen Li et.al.|[2511.02230](http://arxiv.org/abs/2511.02230)|

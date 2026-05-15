@@ -6,7 +6,7 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.05.14_
+_Updated on 2026.05.15_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
@@ -14,6 +14,8 @@ _Updated on 2026.05.14_
 |**2026-05-13**|**KVServe: Service-Aware KV Cache Compression for Communication-Efficient Disaggregated LLM Serving**|Zedong Liu et.al.|[2605.13734_(SIGCOMM)](http://arxiv.org/abs/2605.13734)|
 |**2026-05-13**|**MultiPath Memory Access: Breaking Host-GPU Bandwidth Bottlenecks in LLM Services**|Lingfeng Tang et.al.|[2512.16056](http://arxiv.org/abs/2512.16056)|
 |**2026-05-13**|**Attention Once Is All You Need: Efficient Streaming Inference with Stateful Transformers**|Victor Norgren et.al.|[2605.13784](http://arxiv.org/abs/2605.13784)|
+|**2026-05-13**|**Self-Pruned Key-Value Attention: Learning When to Write by Predicting Future Utility**|Gergely Szilvasy et.al.|[2605.14037](http://arxiv.org/abs/2605.14037)|
+|**2026-05-13**|**TabPFN-3: Technical Report**|Léo Grinsztajn et.al.|[2605.13986](http://arxiv.org/abs/2605.13986)|
 |**2026-05-12**|**Semantic Integrity Matters: Benchmarking and Preserving High-Density Reasoning in KV Cache Compression**|Xiang Liu et.al.|[2502.01941_(ICML)](http://arxiv.org/abs/2502.01941)|
 |**2026-05-12**|**Sparse Attention Remapping with Clustering for Efficient LLM Decoding on PIM**|Zehao Fan et.al.|[2505.05772_(ASPLOS)](http://arxiv.org/abs/2505.05772)|
 |**2026-05-12**|**Analytical Provisioning for Attention-FFN Disaggregated LLM Serving under Stochastic Workloads**|Chendong Song et.al.|[2601.21351_(NeurIPS)](http://arxiv.org/abs/2601.21351)|

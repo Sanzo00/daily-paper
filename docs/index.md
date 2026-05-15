@@ -6,12 +6,15 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.05.14_
+_Updated on 2026.05.15_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-05-14**|**Falkor-IRAC: Graph-Constrained Generation for Verified Legal Reasoning in Indian Judicial AI**|Joy Bose et.al.|[2605.14665](http://arxiv.org/abs/2605.14665)|
 |**2026-05-13**|**GAAMA: Graph Augmented Associative Memory for Agents**|Swarna Kamal Paul et.al.|[2603.27910](http://arxiv.org/abs/2603.27910)|
 |**2026-05-13**|**EpiGraph: Building Generalists for Evidence-Intensive Epilepsy Reasoning in the Wild**|Yuyang Dai et.al.|[2605.09505](http://arxiv.org/abs/2605.09505)|
+|**2026-05-13**|**Thinking Ahead: Prospection-Guided Retrieval of Memory with Language Models**|Harshita Chopra et.al.|[2605.14177](http://arxiv.org/abs/2605.14177)|
+|**2026-05-13**|**Grounded Continuation: A Linear-Time Runtime Verifier for LLM Conversations**|Qisong He et.al.|[2605.14175](http://arxiv.org/abs/2605.14175)|
 |**2026-05-12**|**GRC: Unifying Reasoning-Driven Generation, Retrieval and Compression**|Zhongtao Miao et.al.|[2605.09100](http://arxiv.org/abs/2605.09100)|
 |**2026-05-11**|**PrimeKG-CL: A Continual Graph Learning Benchmark on Evolving Biomedical Knowledge Graphs**|Yousef A. Radwan et.al.|[2605.10529](http://arxiv.org/abs/2605.10529)|
 |**2026-05-11**|**ClinicalBench: Stress-Testing Assertion-Aware Retrieval for Cross-Admission Clinical QA on MIMIC-IV**|Alex Stinard et.al.|[2605.11143](http://arxiv.org/abs/2605.11143)|
