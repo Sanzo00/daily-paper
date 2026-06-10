@@ -26,15 +26,6 @@ keywords:
         - ["LLM", "RAG", "KG"]
         - ["LLM", "RAG", "Graph"]
 
-    "Agent":
-        logic: AND
-        filters:
-        - ["LLM", "KV", "Agent"]
-        - ["LLM", "Agent", "Scheduling"]
-        - ["Agent", "Scheduling", "KV"]
-        - ["Agent", "Inference", "KV"]
-
-
     "LLM":
         logic: AND
         filters:
@@ -46,6 +37,40 @@ keywords:
         - ["LLM", "KV", "Thinking"]
         - ["LLM", "KV", "Prefix"]
 
+
+    "Memory":
+        logic: AND
+        filters:
+        - ["LLM", "Memory"]
+        - ["Agent", "Memory"]
+        - ["Agentic Memory"]
+        - ["AI Agents", "Memory"]
+        - ["LLM", "Memory", "Agent"]
+        - ["LLM Agent", "Memory"]
+        - ["Memory System", "LLM"]
+        - ["Memory System", "Agent"]
+        - ["Long-term Memory", "LLM"]
+        - ["Long-term Memory", "Agent"]
+        - ["Online Memory", "LLM"]
+        - ["Associative Memory", "LLM"]
+        - ["Parametric Memory", "LLM"]
+        - ["Latent Memory", "LLM"]
+        - ["Token-level Memory", "LLM"]
+        - ["Memory Organization", "LLM"]
+        - ["Memory Evolution", "LLM"]
+        - ["Memory Indexing", "LLM"]
+        - ["Memory Linking", "LLM"]
+        - ["Graph Memory", "LLM"]
+        - ["Knowledge Network", "Memory", "LLM"]
+        - ["LLM", "Memory", "Retrieval"]
+        - ["Agent", "Memory", "Retrieval"]
+        - ["LLM", "Memory", "Long Context"]
+        - ["Context Engineering", "Memory"]
+        - ["LLM", "Memory", "KV Cache"]
+        - ["LLM", "Memory", "Attention"]
+        - ["Agent", "Memory", "System"]
+        - ["Memory", "Scheduling", "LLM"]
+        - ["Memory", "Compression", "LLM"]
 
 
     "GNN":
@@ -66,3 +91,11 @@ keywords:
         #     "Graph Training Pipeline", "Graph Training Parallelism", "GNN Scheduling", "GNN Training Evaluation",
         #     "Hybrid CPU-GPU GNN Training", "GNN Communication Optimization", "Graph Neural Network Serving"
         # ]
+
+    "Agent":
+        logic: AND
+        filters:
+        - ["LLM", "KV", "Agent"]
+        - ["LLM", "Agent", "Scheduling"]
+        - ["Agent", "Scheduling", "KV"]
+        - ["Agent", "Inference", "KV"]

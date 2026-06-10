@@ -10,15 +10,92 @@ _Updated on 2026.06.10_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
-|**2026-05-14**|**Agentic Recommender System with Hierarchical Belief-State Memory**|Xiang Shen et.al.|[2605.14401](http://arxiv.org/abs/2605.14401)|
+|**2026-06-09**|**Sim2Schedule: A Simulator-Guided LLM Framework for Autonomous Open-Pit Mine Scheduling**|Mustavi Ibne Masum et.al.|[2606.10286](http://arxiv.org/abs/2606.10286)|
+|**2026-06-09**|**RECAP: Regression Evaluation for Continual Adaptation of Prompts**|Harsh Deshpande et.al.|[2606.06698](http://arxiv.org/abs/2606.06698)|
+|**2026-06-08**|**AGENTSERVESIM: A Hardware-aware Simulator for Multi-Turn LLM Agent Serving**|Rakibul Hasan Rajib et.al.|[2606.09613](http://arxiv.org/abs/2606.09613)|
+|**2026-06-08**|**End-to-End Context Compression at Scale**|Ang Li et.al.|[2606.09659](http://arxiv.org/abs/2606.09659)|
+|**2026-06-08**|**Visual Para-Thinker++: A Single-Policy Multi-Agent Framework for Visual Reasoning**|Haoran Xu et.al.|[2606.09290](http://arxiv.org/abs/2606.09290)|
+|**2026-06-07**|**SparseX: Efficient Segment-Level KV Cache Sharing for Interleaved LLM Serving**|Quqing Zhang et.al.|[2606.01751](http://arxiv.org/abs/2606.01751)|
+|**2026-06-06**|**IntentKV: Cross-Turn Intent-Aware KV Cache Pruning for Agent Inference**|Junjie Li et.al.|[2606.09916](http://arxiv.org/abs/2606.09916)|
+|**2026-06-06**|**Latent Cache Flow: Model-to-Model Communication Without Text**|Maximillian Rossi et.al.|[2605.22863](http://arxiv.org/abs/2605.22863)|
+|**2026-06-05**|**Simple is Better: Multiplication May Be All You Need for LLM Request Scheduling**|Dingyan Zhang et.al.|[2603.15202_(OSDI)](http://arxiv.org/abs/2603.15202)|
+|**2026-06-05**|**CalBench: Evaluating Coordination-Privacy Trade-offs in Multi-Agent LLMs**|Chelsea Zou et.al.|[2605.09823](http://arxiv.org/abs/2605.09823)|
+|**2026-06-05**|**WhiFlash: Accelerating Speculative Decoding with Token-Level Cross-Paradigm Routing**|Young D. Kwon et.al.|[2606.07710](http://arxiv.org/abs/2606.07710)|
+|**2026-06-05**|**Beyond tokens: a unified framework for latent communication in LLM-based multi-agent systems**|Yingzhuo Liu et.al.|[2606.05711](http://arxiv.org/abs/2606.05711)|
+|**2026-06-05**|**SCALE: Scalable Cross-Attention Learning with Extrapolation for Agentic Workflow Scheduling**|Zhifei Xu et.al.|[2606.06820](http://arxiv.org/abs/2606.06820)|
+|**2026-06-04**|**MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery**|Shangheng Du et.al.|[2606.06473](http://arxiv.org/abs/2606.06473)|
+|**2026-06-04**|**Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads**|Yasmine Omri et.al.|[2606.06448](http://arxiv.org/abs/2606.06448)|
+|**2026-06-04**|**TOKI: A Bitemporal Operator Algebra for Contradiction Resolution in LLM-Agent Persistent Memory**|Ziming Wang et.al.|[2606.06240](http://arxiv.org/abs/2606.06240)|
+|**2026-06-03**|**CuTeGen: An LLM-Based Agentic Framework for Generation and Optimization of High-Performance GPU Kernels using CuTe**|Tara Saba et.al.|[2604.01489](http://arxiv.org/abs/2604.01489)|
+|**2026-06-02**|**SocialCoach: Personalized Social Skill Learning with RL-based Agentic Tutoring and Practice**|Tianfu Wang et.al.|[2606.04155](http://arxiv.org/abs/2606.04155)|
+|**2026-06-02**|**Agent libOS: A Library-OS-Inspired Runtime for Long-Running, Capability-Controlled LLM Agents**|Yingqi Zhang et.al.|[2606.03895](http://arxiv.org/abs/2606.03895)|
+|**2026-06-02**|**Entropy Gate: Entropy Quenching for Near-Lossless Token Compression in LLM Pipelines**|Justice Owusu Agyemang et.al.|[2606.03739](http://arxiv.org/abs/2606.03739)|
+|**2026-06-02**|**Libra: Efficient Resource Management for Agentic RL Post-Training**|Kaiwen Chen et.al.|[2606.03077](http://arxiv.org/abs/2606.03077)|
+|**2026-06-02**|**MOSAIC: Efficient Mixture-of-Agent Scheduling via Adaptive Aggregation and Inference Concurrency**|Saptarshi Mitra et.al.|[2606.03014](http://arxiv.org/abs/2606.03014)|
+|**2026-06-01**|**Multi-Segment Attention: Enabling Efficient KV-Cache Management for Faster Large Language Model Serving**|Chunan Shi et.al.|[2606.02964](http://arxiv.org/abs/2606.02964)|
+|**2026-06-01**|**Observation, Not Prediction: Conversation-Level Disaggregated Scheduling for Agentic Serving**|Jianru Ding et.al.|[2606.01839](http://arxiv.org/abs/2606.01839)|
+|**2026-06-01**|**Unified Context Evolution for LLM Agents**|Zixuan Zhu et.al.|[2606.02304](http://arxiv.org/abs/2606.02304)|
+|**2026-06-01**|**SMH-Bench: Benchmarking LLM Agents for Environment-Grounded Reasoning and Action in Smart Homes**|Kuan Li et.al.|[2606.01912](http://arxiv.org/abs/2606.01912)|
+|**2026-06-01**|**Beyond Scalar Rewards: Dense Feedback for LLM Policy Synthesis in Sequential Social Dilemmas**|Víctor Gallego et.al.|[2603.19453_(ICML)](http://arxiv.org/abs/2603.19453)|
+|**2026-06-01**|**AURA: Action-Gated Memory for Robot Policies at Constant VRAM**|Josef Chen et.al.|[2606.02775](http://arxiv.org/abs/2606.02775)|
+|**2026-05-31**|**StreamingVLM: Real-Time Understanding for Infinite Video Streams**|Ruyi Xu et.al.|[2510.09608_(ICLR)](http://arxiv.org/abs/2510.09608)|
+|**2026-05-31**|**LRAgent: Efficient KV Cache Sharing for Multi-LoRA LLM Agents**|Hyesung Jeon et.al.|[2602.01053](http://arxiv.org/abs/2602.01053)|
+|**2026-05-31**|**Move the Query, Not the Cache: Characterizing Cross-Instance Latent Attention Redistribution Across GPU Fabrics**|Bole Ma et.al.|[2606.01502](http://arxiv.org/abs/2606.01502)|
+|**2026-05-31**|**Leyline: KV Cache Directives for Agentic Inference**|Bole Ma et.al.|[2606.01065](http://arxiv.org/abs/2606.01065)|
+|**2026-05-31**|**Dive into Ambiguity: A*-Inspired Multi-Agents Commonsense Obfuscation Attack on LLM Prompts**|Boxuan Wang et.al.|[2606.01441](http://arxiv.org/abs/2606.01441)|
+|**2026-05-31**|**When Parallelism Pays Off: Cohesion-Aware Task Partitioning for Multi-Agent Coding**|Xu Yang et.al.|[2606.00953](http://arxiv.org/abs/2606.00953)|
+|**2026-05-30**|**Idleness is Relative: Exploiting Tool-Call Idle Windows for Offloading in Agentic Systems with MORI**|Tian Xia et.al.|[2606.00866](http://arxiv.org/abs/2606.00866)|
+|**2026-05-29**|**Model-Native Computing Architecture: Envisioning Future System Architecture Through the Lens of Computer Architecture**|Hai Lin et.al.|[2606.00288](http://arxiv.org/abs/2606.00288)|
+|**2026-05-29**|**MLIPilot: LLM-Driven Auto-Research for Machine-Learned Interatomic Potentials**|Etinosa Osaro et.al.|[2605.30889](http://arxiv.org/abs/2605.30889)|
+|**2026-05-29**|**Agent JIT Compilation for Latency-Optimizing Web Agent Planning and Scheduling**|Caleb Winston et.al.|[2605.21470_(ICML)](http://arxiv.org/abs/2605.21470)|
+|**2026-05-29**|**Mellum2 Technical Report**|Marko Kojic et.al.|[2605.31268](http://arxiv.org/abs/2605.31268)|
+|**2026-05-28**|**Memory-Bound but Not Bandwidth-Limited: The Physical AI Inference Gap in Batch-1 LLM Decode**|Josef Chen et.al.|[2605.30571](http://arxiv.org/abs/2605.30571)|
+|**2026-05-28**|**Formalizing Mathematics at Scale**|Ahmad Rammal et.al.|[2605.29955](http://arxiv.org/abs/2605.29955)|
+|**2026-05-28**|**Harmonizing Real-Time Constraints and Long-Horizon Reasoning: An Asynchronous Agentic Framework for Dynamic Scheduling**|Shijie Cao et.al.|[2605.29262](http://arxiv.org/abs/2605.29262)|
+|**2026-05-27**|**How Far Can Disaggregation Go? A Design-Space Exploration of Attention-FFN Disaggregation for Efficient MoE LLM Serving**|Hanjiang Wu et.al.|[2605.28302](http://arxiv.org/abs/2605.28302)|
+|**2026-05-27**|**Nonvolatile Charge-Domain Attention with HZO Ferroelectric Capacitors: A Simulation-Based Device-to-System Evaluation**|Faris Abouagour et.al.|[2605.28208](http://arxiv.org/abs/2605.28208)|
+|**2026-05-27**|**Democratizing Large-Scale Re-Optimization with LLM-Guided Model Patches**|Tinghan Ye et.al.|[2605.18692](http://arxiv.org/abs/2605.18692)|
+|**2026-05-27**|**Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players**|Fangfu Liu et.al.|[2605.28816](http://arxiv.org/abs/2605.28816)|
+|**2026-05-26**|**A Policy-Driven Runtime Layer for Agentic LLM Serving**|Rui Zhang et.al.|[2605.27744](http://arxiv.org/abs/2605.27744)|
+|**2026-05-26**|**DynaSchedBench: Calibrated Dynamic Scheduling Benchmarks and Observability Paradox in LLM-based Scheduling Agents**|Shijie Cao et.al.|[2605.27566](http://arxiv.org/abs/2605.27566)|
+|**2026-05-25**|**Continuum: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live**|Hanchen Li et.al.|[2511.02230](http://arxiv.org/abs/2511.02230)|
+|**2026-05-25**|**AutoSOTA: An End-to-End Automated Research System for State-of-the-Art AI Model Discovery**|Yu Li et.al.|[2604.05550](http://arxiv.org/abs/2604.05550)|
+|**2026-05-25**|**Agentic AI Workload Characteristics**|Yichao Yuan et.al.|[2605.26297](http://arxiv.org/abs/2605.26297)|
+|**2026-05-25**|**Stateful Inference for Low-Latency Multi-Agent Tool Calling**|Victor Norgren et.al.|[2605.26289](http://arxiv.org/abs/2605.26289)|
+|**2026-05-25**|**A Token/KV-Cache Communication Media Selection and Resource Allocation Strategy for Multi-Agent Collaboration**|Lipeng Dai et.al.|[2605.25422](http://arxiv.org/abs/2605.25422)|
+|**2026-05-25**|**Fast-dDrive: Efficient Block-Diffusion VLM for Autonomous Driving**|Kewei Zhang et.al.|[2605.23163](http://arxiv.org/abs/2605.23163)|
+|**2026-05-24**|**Agent Primitives: Reusable Latent Building Blocks for Multi-Agent Systems**|Haibo Jin et.al.|[2602.03695](http://arxiv.org/abs/2602.03695)|
+|**2026-05-24**|**LLM Agent Based Renewable Energy Forecasting Using Edge and IoT Data A Review of Solar Wind Weather and Grid Aware Decision Support**|Pavan Manjunath et.al.|[2605.25141](http://arxiv.org/abs/2605.25141)|
+|**2026-05-22**|**RF Instrument Agent (RFIA): Empowering RF Instruments with Natural Language Understanding, Scheduling and Execution of Complex Tasks**|Chunhui Li et.al.|[2605.23636](http://arxiv.org/abs/2605.23636)|
+|**2026-05-21**|**LCGuard: Latent Communication Guard for Safe KV Sharing in Multi-Agent Systems**|Sadia Asif et.al.|[2605.22786](http://arxiv.org/abs/2605.22786)|
+|**2026-05-21**|**GraphFlow: A Graph-Based Workflow Management for Efficient LLM-Agent Serving**|Ao Li et.al.|[2605.22566_(ICML)](http://arxiv.org/abs/2605.22566)|
+|**2026-05-21**|**A Proactive Multi-Agent Dialogue Framework for Assessing Social Language Disorder Traits in Autism**|Chuanbo Hu et.al.|[2605.22993](http://arxiv.org/abs/2605.22993)|
+|**2026-05-20**|**TokenCake: A KV-Cache-centric Serving Framework for LLM-based Multi-Agent Applications**|Zhuohang Bian et.al.|[2510.18586](http://arxiv.org/abs/2510.18586)|
+|**2026-05-20**|**ROSE: Rollout On Serving GPUs via Cooperative Elasticity for Agentic RL**|Wei Gao et.al.|[2605.06534](http://arxiv.org/abs/2605.06534)|
+|**2026-05-20**|**Evaluating Temporal Semantic Caching and Workflow Optimization in Agentic Plan-Execute Pipelines**|Alimurtaza Mustafa Merchant et.al.|[2605.20630](http://arxiv.org/abs/2605.20630)|
+|**2026-05-20**|**VIPER-MCP: Detecting and Exploiting Taint-Style Vulnerabilities in Model Context Protocol Servers**|Pengyu Sun et.al.|[2605.21392](http://arxiv.org/abs/2605.21392)|
+|**2026-05-20**|**Frontier: Towards Comprehensive and Accurate LLM Inference Simulation**|Yicheng Feng et.al.|[2605.21312](http://arxiv.org/abs/2605.21312)|
+|**2026-05-20**|**AutoMCU: Feasibility-First MCU Neural Network Customization via LLM-based Multi-Agent Systems**|Penglin Dai et.al.|[2605.21560](http://arxiv.org/abs/2605.21560)|
+|**2026-05-19**|**optimize_anything: A Universal API for Optimizing any Text Parameter**|Lakshya A Agrawal et.al.|[2605.19633](http://arxiv.org/abs/2605.19633)|
+|**2026-05-19**|**Memory-Guided Tree Search with Cross-Branch Knowledge Transfer for LLM Solver Synthesis**|Fatemeh Haji et.al.|[2605.17539](http://arxiv.org/abs/2605.17539)|
+|**2026-05-18**|**RAP: Runtime Adaptive Pruning for LLM Inference**|Huanrong Liu et.al.|[2505.17138](http://arxiv.org/abs/2505.17138)|
+|**2026-05-18**|**OxyGen: Unified KV Cache Management for VLA Inference under Multi-Task Parallelism**|Xiangyu Li et.al.|[2603.14371](http://arxiv.org/abs/2603.14371)|
+|**2026-05-17**|**Taming "Zombie'' Agents: A Markov State-Aware Framework for Resilient Multi-Agent Evolution**|Taolin Zhang et.al.|[2605.17348](http://arxiv.org/abs/2605.17348)|
+|**2026-05-16**|**TriAxialKV: Toward Extreme Low-Precision KV-Cache Quantization for Agentic Inference Tasks**|Hanzhang Shen et.al.|[2605.17170](http://arxiv.org/abs/2605.17170)|
+|**2026-05-16**|**Multi-Paradigm Agent Interaction in Practice:A Systematic Analysis of Generator-Evaluator, ReAct Loop,and Adversarial Evaluation in the buddyMe Framework**|Xiaohua Wang et.al.|[2605.16821](http://arxiv.org/abs/2605.16821)|
+|**2026-05-15**|**Large Language Models as Optimization Controllers: Adaptive Continuation for SIMP Topology Optimization**|Shaoliang Yang et.al.|[2603.25099](http://arxiv.org/abs/2603.25099)|
+|**2026-05-15**|**Agentic Recommender System with Hierarchical Belief-State Memory**|Xiang Shen et.al.|[2605.14401](http://arxiv.org/abs/2605.14401)|
+|**2026-05-15**|**HexAGenT: Efficient Agentic LLM Serving via Workflow- and Heterogeneity-Aware Scheduling**|You Peng et.al.|[2605.16637](http://arxiv.org/abs/2605.16637)|
+|**2026-05-15**|**Against the Monolithic Wireless World Model: Why NextG Needs Composable and Agentic Intelligence**|Aladin Djuhera et.al.|[2605.16689](http://arxiv.org/abs/2605.16689)|
+|**2026-05-15**|**PRISM: Prompt Reliability via Iterative Simulation and Monitoring for Enterprise Conversational AI**|Keshava Chaitanya et.al.|[2605.15665](http://arxiv.org/abs/2605.15665)|
+|**2026-05-15**|**TopoClaw: A Human-Centric and Topology-Aware Agent Operating System**|Heyuan Huang et.al.|[2605.15556](http://arxiv.org/abs/2605.15556)|
+|**2026-05-15**|**Hybrid LLM-based Intelligent Framework for Robot Task Scheduling**|Swayamjit Saha et.al.|[2605.15486](http://arxiv.org/abs/2605.15486)|
 |**2026-05-13**|**Good Agentic Friends Do Not Just Give Verbal Advice: They Can Update Your Weights**|Wenrui Bao et.al.|[2605.13839](http://arxiv.org/abs/2605.13839)|
 |**2026-05-13**|**Useful Memories Become Faulty When Continuously Updated by LLMs**|Dylan Zhang et.al.|[2605.12978](http://arxiv.org/abs/2605.12978)|
 |**2026-05-13**|**Self-Pruned Key-Value Attention: Learning When to Write by Predicting Future Utility**|Gergely Szilvasy et.al.|[2605.14037](http://arxiv.org/abs/2605.14037)|
 |**2026-05-12**|**GRC: Unifying Reasoning-Driven Generation, Retrieval and Compression**|Zhongtao Miao et.al.|[2605.09100](http://arxiv.org/abs/2605.09100)|
 |**2026-05-12**|**KV-Fold: One-Step KV-Cache Recurrence for Long-Context Inference**|Alireza Nadali et.al.|[2605.12471](http://arxiv.org/abs/2605.12471)|
-|**2026-05-11**|**Continuum: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live**|Hanchen Li et.al.|[2511.02230](http://arxiv.org/abs/2511.02230)|
 |**2026-05-11**|**Agentic Fuzzing: Opportunities and Challenges**|Junyoung Park et.al.|[2605.10074](http://arxiv.org/abs/2605.10074)|
-|**2026-05-10**|**CalBench: Evaluating Coordination-Privacy Trade-offs in Multi-Agent LLMs**|Chelsea Zou et.al.|[2605.09823](http://arxiv.org/abs/2605.09823)|
 |**2026-05-10**|**LASSA Architecture-Based Autonomous Fault-Tolerant Control of Unmanned Underwater Vehicles**|Hong Chen et.al.|[2605.09494](http://arxiv.org/abs/2605.09494)|
 |**2026-05-09**|**PRISM: Fast Online LLM Serving via Scheduling-Memory Co-design**|Xingyu Qu et.al.|[2605.08581](http://arxiv.org/abs/2605.08581)|
 |**2026-05-08**|**SplitZip: Ultra Fast Lossless KV Compression for Disaggregated LLM Serving**|Yipin Guo et.al.|[2605.01708](http://arxiv.org/abs/2605.01708)|
@@ -27,7 +104,6 @@ _Updated on 2026.06.10_
 |**2026-05-07**|**AI Agents Alone Are Not (Yet) Sufficient for Social Simulation**|Yiming Li et.al.|[2603.00113](http://arxiv.org/abs/2603.00113)|
 |**2026-05-07**|**Efficient Serving for Dynamic Agent Workflows with Prediction-based KV-Cache Management**|Haoyu Zheng et.al.|[2605.06472](http://arxiv.org/abs/2605.06472)|
 |**2026-05-07**|**Irminsul: MLA-Native Position-Independent Caching for Agentic LLM Serving**|Bole Ma et.al.|[2605.05696](http://arxiv.org/abs/2605.05696)|
-|**2026-05-07**|**ROSE: Rollout On Serving GPUs via Cooperative Elasticity for Agentic RL**|Wei Gao et.al.|[2605.06534](http://arxiv.org/abs/2605.06534)|
 |**2026-05-07**|**Echo: KV-Cache-Free Associative Recall with Spectral Koopman Operators**|Anupama Sridhar et.al.|[2605.06997](http://arxiv.org/abs/2605.06997)|
 |**2026-05-06**|**ContextPilot: Fast Long-Context Inference via Context Reuse**|Yinsicheng Jiang et.al.|[2511.03475](http://arxiv.org/abs/2511.03475)|
 |**2026-05-06**|**Beyond Static Snapshots: A Grounded Evaluation Framework for Language Models at the Agentic Frontier**|Jazmia Henry et.al.|[2604.17573_(NeurIPS)](http://arxiv.org/abs/2604.17573)|
@@ -45,7 +121,7 @@ _Updated on 2026.06.10_
 |**2026-04-30**|**Crab: A Semantics-Aware Checkpoint/Restore Runtime for Agent Sandboxes**|Tianyuan Wu et.al.|[2604.28138](http://arxiv.org/abs/2604.28138)|
 |**2026-04-30**|**Bridging Values and Behavior: A Hierarchical Framework for Proactive Embodied Agents**|Chunhui Zhang et.al.|[2604.27699](http://arxiv.org/abs/2604.27699)|
 |**2026-04-29**|**StreamAgent: Towards Anticipatory Agents for Streaming Video Understanding**|Haolin Yang et.al.|[2508.01875](http://arxiv.org/abs/2508.01875)|
-|**2026-04-28**|**Inferix: A Block-Diffusion based Next-Generation Inference Engine for World Simulation**|Inferix Team et.al.|[2511.20714](http://arxiv.org/abs/2511.20714)|
+|**2026-04-28**|**Inferix: A Block-Diffusion based Next-Generation Inference Engine for World Simulation**| Inferix Team et.al.|[2511.20714](http://arxiv.org/abs/2511.20714)|
 |**2026-04-28**|**AOI: Context-Aware Multi-Agent Operations via Dynamic Scheduling and Hierarchical Memory Compression**|Zishan Bai et.al.|[2512.13956](http://arxiv.org/abs/2512.13956)|
 |**2026-04-28**|**CacheFlow: Efficient LLM Serving with 3D-Parallel KV Cache Restoration**|Sean Nian et.al.|[2604.25080](http://arxiv.org/abs/2604.25080)|
 |**2026-04-27**|**Kwai Summary Attention Technical Report**|Chenglong Chu et.al.|[2604.24432](http://arxiv.org/abs/2604.24432)|
@@ -83,7 +159,6 @@ _Updated on 2026.06.10_
 |**2026-04-08**|**PEARL: Self-Evolving Assistant for Time Management with Reinforcement Learning**|Bingxuan Li et.al.|[2601.11957](http://arxiv.org/abs/2601.11957)|
 |**2026-04-08**|**The Workload-Router-Pool Architecture for LLM Inference Optimization: A Vision Paper from the vLLM Semantic Router Project**|Huamin Chen et.al.|[2603.21354](http://arxiv.org/abs/2603.21354)|
 |**2026-04-08**|**ClawsBench: Evaluating Capability and Safety of LLM Productivity Agents in Simulated Workspaces**|Xiangyi Li et.al.|[2604.05172](http://arxiv.org/abs/2604.05172)|
-|**2026-04-07**|**AutoSOTA: An End-to-End Automated Research System for State-of-the-Art AI Model Discovery**|Yu Li et.al.|[2604.05550](http://arxiv.org/abs/2604.05550)|
 |**2026-04-07**|**RL-VLA$^3$: A Flexible and Asynchronous Reinforcement Learning Framework for VLA Training**|Haoran Sun et.al.|[2602.05765](http://arxiv.org/abs/2602.05765)|
 |**2026-04-07**|**ForkKV: Scaling Multi-LoRA Agent Serving via Copy-on-Write Disaggregated KV Cache**|Shao Wang et.al.|[2604.06370](http://arxiv.org/abs/2604.06370)|
 |**2026-04-07**|**Learning to Interrupt in Language-based Multi-agent Communication**|Danqing Wang et.al.|[2604.06452](http://arxiv.org/abs/2604.06452)|
@@ -99,9 +174,7 @@ _Updated on 2026.06.10_
 |**2026-03-30**|**Multi-Agent Home Energy Management Assistant**|Wooyoung Jung et.al.|[2602.15219](http://arxiv.org/abs/2602.15219)|
 |**2026-03-30**|**CSAttention: Centroid-Scoring Attention for Accelerating LLM Inference**|Chuxu Song et.al.|[2604.08584](http://arxiv.org/abs/2604.08584)|
 |**2026-03-28**|**Simulating Human Cognition: Heartbeat-Driven Autonomous Thinking Activity Scheduling for LLM-based AI systems**|Hong Su et.al.|[2604.14178](http://arxiv.org/abs/2604.14178)|
-|**2026-03-26**|**Large Language Models as Optimization Controllers: Adaptive Continuation for SIMP Topology Optimization**|Shaoliang Yang et.al.|[2603.25099](http://arxiv.org/abs/2603.25099)|
 |**2026-03-26**|**GhostServe: A Lightweight Checkpointing System in the Shadow for Fault-Tolerant LLM Serving**|Shakya Jayakody et.al.|[2605.00831](http://arxiv.org/abs/2605.00831)|
-|**2026-03-25**|**LMetric: Simple is Better - Multiplication May Be All You Need for LLM Request Scheduling**|Dingyan Zhang et.al.|[2603.15202](http://arxiv.org/abs/2603.15202)|
 |**2026-03-25**|**Language-Grounded Multi-Agent Planning for Personalized and Fair Participatory Urban Sensing**|Xusen Guo et.al.|[2603.24014](http://arxiv.org/abs/2603.24014)|
 |**2026-03-23**|**Chimera: Latency- and Performance-Aware Multi-agent Serving for Heterogeneous LLMs**|Kangqi Ni et.al.|[2603.22206](http://arxiv.org/abs/2603.22206)|
 |**2026-03-23**|**AI Co-Scientist for Ranking: Discovering Novel Search Ranking Models alongside LLM-based AI Agents with Cloud Computing Access**|Liwei Wu et.al.|[2603.22376_(ACL)](http://arxiv.org/abs/2603.22376)|
@@ -111,7 +184,6 @@ _Updated on 2026.06.10_
 |**2026-03-17**|**EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval**|Zebin Yang et.al.|[2510.18546_(NeurIPS)](http://arxiv.org/abs/2510.18546)|
 |**2026-03-17**|**Efficient LLM Serving for Agentic Workflows: A Data Systems Perspective**|Noppanat Wadlom et.al.|[2603.16104](http://arxiv.org/abs/2603.16104)|
 |**2026-03-17**|**MetaClaw: Just Talk -- An Agent That Meta-Learns and Evolves in the Wild**|Peng Xia et.al.|[2603.17187](http://arxiv.org/abs/2603.17187)|
-|**2026-03-15**|**OxyGen: Unified KV Cache Management for Vision-Language-Action Models under Multi-Task Parallelism**|Xiangyu Li et.al.|[2603.14371](http://arxiv.org/abs/2603.14371)|
 |**2026-03-14**|**ATCC: Adaptive Concurrency Control for Unforeseen Agentic Transactions**|Weixing Zhou et.al.|[2603.13906](http://arxiv.org/abs/2603.13906)|
 |**2026-03-14**|**Retrieve, Schedule, Reflect: LLM Agents for Chip QoR Optimization**|Yikang ouyang et.al.|[2603.13767](http://arxiv.org/abs/2603.13767)|
 |**2026-03-14**|**Justitia: Fair and Efficient Scheduling of Task-parallel LLM Agents with Selective Pampering**|Mingyan Yang et.al.|[2510.17015](http://arxiv.org/abs/2510.17015)|
@@ -166,11 +238,9 @@ _Updated on 2026.06.10_
 |**2026-02-03**|**Cortex: Achieving Low-Latency, Cost-Efficient Remote Data Access For LLM via Semantic-Aware Knowledge Caching**|Chaoyi Ruan et.al.|[2509.17360](http://arxiv.org/abs/2509.17360)|
 |**2026-02-03**|**ENGRAM: Effective, Lightweight Memory Orchestration for Conversational Agents**|Daivik Patel et.al.|[2511.12960](http://arxiv.org/abs/2511.12960)|
 |**2026-02-03**|**LegalOne: A Family of Foundation Models for Reliable Legal Reasoning**|Haitao Li et.al.|[2602.00642](http://arxiv.org/abs/2602.00642)|
-|**2026-02-03**|**Agent Primitives: Reusable Latent Building Blocks for Multi-Agent Systems**|Haibo Jin et.al.|[2602.03695](http://arxiv.org/abs/2602.03695)|
 |**2026-02-02**|**AgentRAN: An Agentic AI Architecture for Autonomous Control of Open 6G Networks**|Maxime Elkael et.al.|[2508.17778](http://arxiv.org/abs/2508.17778)|
 |**2026-02-02**|**Implicit Bias in LLMs for Transgender Populations**|Micaela Hirsch et.al.|[2602.13253](http://arxiv.org/abs/2602.13253)|
 |**2026-02-01**|**PaperDebugger: A Plugin-Based Multi-Agent System for In-Editor Academic Writing, Review, and Editing**|Junyi Hou et.al.|[2512.02589](http://arxiv.org/abs/2512.02589)|
-|**2026-02-01**|**LRAgent: Efficient KV Cache Sharing for Multi-LoRA LLM Agents**|Hyesung Jeon et.al.|[2602.01053](http://arxiv.org/abs/2602.01053)|
 |**2026-01-31**|**FastTTS: Accelerating Test-Time Scaling for Edge LLM Reasoning**|Hao Mark Chen et.al.|[2509.00195_(ASPLOS)](http://arxiv.org/abs/2509.00195)|
 |**2026-01-30**|**Can Transformer Memory Be Corrupted? Investigating Cache-Side Vulnerabilities in Large Language Models**|Elias Hossain et.al.|[2510.17098](http://arxiv.org/abs/2510.17098)|
 |**2026-01-30**|**CONCUR: High-Throughput Agentic Batch Inference of LLM via Congestion-Based Concurrency Control**|Qiaoling Chen et.al.|[2601.22705](http://arxiv.org/abs/2601.22705)|
@@ -232,7 +302,6 @@ _Updated on 2026.06.10_
 |**2025-11-03**|**TPS-Bench: Evaluating AI Agents' Tool Planning \& Scheduling Abilities in Compounding Tasks**|Hanwen Xu et.al.|[2511.01527](http://arxiv.org/abs/2511.01527)|
 |**2025-11-02**|**HEXGEN-FLOW: Optimizing LLM Inference Request Scheduling for Agentic Text-to-SQL**|You Peng et.al.|[2505.05286](http://arxiv.org/abs/2505.05286)|
 |**2025-11-01**|**KVCOMM: Online Cross-context KV-cache Communication for Efficient LLM-based Multi-agent Systems**|Hancheng Ye et.al.|[2510.12872_(FAST)](http://arxiv.org/abs/2510.12872)|
-|**2025-10-31**|**Tokencake: A KV-Cache-centric Serving Framework for LLM-based Multi-Agent Applications**|Zhuohang Bian et.al.|[2510.18586](http://arxiv.org/abs/2510.18586)|
 |**2025-10-30**|**Agentic AI Home Energy Management System: A Large Language Model Framework for Residential Load Scheduling**|Reda El Makroum et.al.|[2510.26603](http://arxiv.org/abs/2510.26603)|
 |**2025-10-28**|**Pie: A Programmable Serving System for Emerging LLM Applications**|In Gim et.al.|[2510.24051_(SOSP)](http://arxiv.org/abs/2510.24051)|
 |**2025-10-28**|**Improving LLM Reasoning via Dependency-Aware Query Decomposition and Logic-Parallel Content Expansion**|Xianjun Gao et.al.|[2510.24390](http://arxiv.org/abs/2510.24390)|
@@ -250,7 +319,6 @@ _Updated on 2026.06.10_
 |**2025-10-13**|**ShishuLM: Lightweight Language Model with Hybrid Decoder-MLP Architecture and Paired Weight Sharing**|Shivanshu Kumar et.al.|[2510.13860](http://arxiv.org/abs/2510.13860)|
 |**2025-10-11**|**Agentic Troubleshooting Guide Automation for Incident Management**|Jiayi Mao et.al.|[2510.10074](http://arxiv.org/abs/2510.10074)|
 |**2025-10-10**|**OrcaLoca: An LLM Agent Framework for Software Issue Localization**|Zhongming Yu et.al.|[2502.00350](http://arxiv.org/abs/2502.00350)|
-|**2025-10-10**|**StreamingVLM: Real-Time Understanding for Infinite Video Streams**|Ruyi Xu et.al.|[2510.09608](http://arxiv.org/abs/2510.09608)|
 |**2025-10-08**|**FLEET: Formal Language-Grounded Scheduling for Heterogeneous Robot Teams**|Corban Rivera et.al.|[2510.07417](http://arxiv.org/abs/2510.07417)|
 |**2025-10-06**|**Multi-Agent Collaborative Intelligence: Dual-Dial Control for Reliable LLM Reasoning**|Edward Y. Chang et.al.|[2510.04488](http://arxiv.org/abs/2510.04488)|
 |**2025-10-06**|**ALE-Bench: A Benchmark for Long-Horizon Objective-Driven Algorithm Engineering**|Yuki Imajuku et.al.|[2506.09050_(NeurIPS)](http://arxiv.org/abs/2506.09050)|
@@ -258,7 +326,6 @@ _Updated on 2026.06.10_
 |**2025-10-01**|**GUI-KV: Efficient GUI Agents via KV Cache with Spatio-Temporal Awareness**|Kung-Hsiang Huang et.al.|[2510.00536](http://arxiv.org/abs/2510.00536)|
 |**2025-09-30**|**Towards Agentic OS: An LLM Agent Framework for Linux Schedulers**|Yusheng Zheng et.al.|[2509.01245](http://arxiv.org/abs/2509.01245)|
 |**2025-09-30**|**AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges**|Ranjan Sapkota et.al.|[2505.10468](http://arxiv.org/abs/2505.10468)|
-|**2025-09-27**|**Runtime Adaptive Pruning for LLM Inference**|Huanrong Liu et.al.|[2505.17138](http://arxiv.org/abs/2505.17138)|
 |**2025-09-26**|**LLM Assisted Alpha Fairness for 6 GHz WiFi and NR_U Coexistence: An Agentic Orchestrator for Throughput, Energy, and SLA**|Qun Wang et.al.|[2510.17814](http://arxiv.org/abs/2510.17814)|
 |**2025-09-26**|**ProRe: A Proactive Reward System for GUI Agents via Reasoner-Actor Collaboration**|Gaole Dai et.al.|[2509.21823](http://arxiv.org/abs/2509.21823)|
 |**2025-09-25**|**Nova: Real-Time Agentic Vision-Language Model Serving with Adaptive Cross-Stage Parallelization**|Yuhang Xu et.al.|[2509.21301](http://arxiv.org/abs/2509.21301)|

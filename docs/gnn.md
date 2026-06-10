@@ -10,6 +10,15 @@ _Updated on 2026.06.10_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-06-08**|**Embedded Graph Convolutional Networks for Real-Time Event Data Processing on SoC FPGAs**|Kamil Jeziorek et.al.|[2406.07318](http://arxiv.org/abs/2406.07318)|
+|**2026-06-08**|**SoccerNet 2026 Player-Centric Ball-Action Spotting:Retraining and Post-Processing Extensions to the FOOTPASS Baselines**|Parthsarthi Rawat et.al.|[2606.09679_(CVPR)](http://arxiv.org/abs/2606.09679)|
+|**2026-06-02**|**SIGMA: A Versatile Streaming Graph Partitioner for Vertex- and Edge-Balanced Distributed GNN Training**|Barbara Hoffmann et.al.|[2606.03519](http://arxiv.org/abs/2606.03519)|
+|**2026-06-01**|**GreenGNN: Energy-Aware Windowed Communication Optimization for Distributed GNN Training**|Arefin Niam et.al.|[2606.02916](http://arxiv.org/abs/2606.02916)|
+|**2026-05-28**|**Understanding and Reducing Metadata-Driven Host Overheads in Sampling-Based GNN Training**|Yidong Gong et.al.|[2605.29346](http://arxiv.org/abs/2605.29346)|
+|**2026-05-27**|**Optimization of CF-mMIMO Systems for the Coexistence between eMBB+ and mMTC+: From Analytical to GNN-Aided Designs**|Sergi Liesegang et.al.|[2605.27930](http://arxiv.org/abs/2605.27930)|
+|**2026-05-20**|**Position: Graph Condensation Needs a Reset -- Move Beyond Full-dataset Training and Model-Dependence**|Mridul Gupta et.al.|[2605.18893](http://arxiv.org/abs/2605.18893)|
+|**2026-05-18**|**Graph Neural ODE Digital Twins for Control-Oriented Reactor Thermal-Hydraulic Forecasting Under Partial Observability**|Akzhol Almukhametov et.al.|[2604.07292](http://arxiv.org/abs/2604.07292)|
+|**2026-05-17**|**An Efficient Machine Learning-based Framework for Detection and Prevention of Frauds in Telecom Networks**|Praveen Hegde et.al.|[2605.17245](http://arxiv.org/abs/2605.17245)|
 |**2026-05-12**|**GriNNder: Breaking the Memory Capacity Wall in Full-Graph GNN Training with Storage Offloading**|Jaeyong Song et.al.|[2605.11517](http://arxiv.org/abs/2605.11517)|
 |**2026-05-10**|**ATLAS: Efficient Out-of-Core Inference for Billion-Scale Graph Neural Networks**|Pranjal Naman et.al.|[2605.09402_(DIS)](http://arxiv.org/abs/2605.09402)|
 |**2026-05-08**|**Graph Computation Meets Circuit Algebra: A Task-Aligned Analysis of Graph Neural Networks for Electronic Design Automation**|Hyunmog Kim et.al.|[2605.08291](http://arxiv.org/abs/2605.08291)|
@@ -17,7 +26,6 @@ _Updated on 2026.06.10_
 |**2026-04-26**|**Hamiltonian Graph Inference Networks: Joint structure discovery and dynamics prediction for lattice Hamiltonian systems from trajectory data**|Ru Geng et.al.|[2604.23606](http://arxiv.org/abs/2604.23606)|
 |**2026-04-25**|**GreenDyGNN: Runtime-Adaptive Energy-Efficient Communication for Distributed GNN Training**|Arefin Niam et.al.|[2604.23139](http://arxiv.org/abs/2604.23139)|
 |**2026-04-17**|**Two-Layer Reinforcement Learning-Assisted Joint Beamforming and Trajectory Optimization for Multi-UAV Downlink Communications**|Ruiqi Wang et.al.|[2601.12659](http://arxiv.org/abs/2601.12659)|
-|**2026-04-08**|**Graph Neural ODE Digital Twins for Control-Oriented Reactor Thermal-Hydraulic Forecasting Under Partial Observability**|Akzhol Almukhametov et.al.|[2604.07292](http://arxiv.org/abs/2604.07292)|
 |**2026-04-01**|**Agent Q-Mix: Selecting the Right Action for LLM Multi-Agent Systems through Reinforcement Learning**|Eric Hanchen Jiang et.al.|[2604.00344](http://arxiv.org/abs/2604.00344)|
 |**2026-03-28**|**LSM-GNN: Large-scale Storage-based Multi-GPU GNN Training by Optimizing Data Transfer Scheme**|Jeongmin Brian Park et.al.|[2407.15264](http://arxiv.org/abs/2407.15264)|
 |**2026-03-21**|**Incremental GNN Embedding Computation on Streaming Graphs**|Qiange Wang et.al.|[2603.20622_(ICDE)](http://arxiv.org/abs/2603.20622)|
@@ -52,7 +60,6 @@ _Updated on 2026.06.10_
 |**2025-07-22**|**Graph Neural Networks Gone Hogwild**|Olga Solodova et.al.|[2407.00494](http://arxiv.org/abs/2407.00494)|
 |**2025-07-18**|**Toward Practical Fluid Antenna Systems: Co-Optimizing Hardware and Software for Port Selection and Beamforming**|Sai Xu et.al.|[2507.14035](http://arxiv.org/abs/2507.14035)|
 |**2025-07-14**|**DESIGN: Encrypted GNN Inference via Server-Side Input Graph Pruning**|Kaixiang Zhao et.al.|[2507.05649_(NeurIPS)](http://arxiv.org/abs/2507.05649)|
-|**2025-07-02**|**Embedded Graph Convolutional Networks for Real-Time Event Data Processing on SoC FPGAs**|Kamil Jeziorek et.al.|[2406.07318_(DATE)](http://arxiv.org/abs/2406.07318)|
 |**2025-06-25**|**Demystifying Distributed Training of Graph Neural Networks for Link Prediction**|Xin Huang et.al.|[2506.20818_(ICDCS)](http://arxiv.org/abs/2506.20818)|
 |**2025-06-06**|**Learning the Electronic Hamiltonian of Large Atomic Structures**|Chen Hao Xia et.al.|[2501.19110](http://arxiv.org/abs/2501.19110)|
 |**2025-05-22**|**Graph Neural Network-Based Collaborative Perception for Adaptive Scheduling in Distributed Systems**|Wenxuan Zhu et.al.|[2505.16248](http://arxiv.org/abs/2505.16248)|

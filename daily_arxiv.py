@@ -188,7 +188,7 @@ def parse_comment(comment: str | None):
     return url, venue
 
 
-def get_daily_papers(topic, query="slam", max_results=5):
+def get_daily_papers(topic, query="slam", max_results=5, fetch_code_links=True):
     """
     @param topic: str
     @param query: str
@@ -205,7 +205,10 @@ def get_daily_papers(topic, query="slam", max_results=5):
     max_errors = 5
 
     try:
-        results = list(search_engine.results())
+        if hasattr(search_engine, "results"):
+            results = list(search_engine.results())
+        else:
+            results = list(arxiv.Client().results(search_engine))
     except Exception as e:
         logging.error(f"Error while fetching results: {e}")
         return {topic: content}, {topic: content_to_web}
@@ -246,7 +249,7 @@ def get_daily_papers(topic, query="slam", max_results=5):
         # 先假设 repo_url = None
         # repo_url = None
 
-        if repo_url is None:
+        if fetch_code_links and repo_url is None:
             if error_count < max_errors:
                 try:
                     # source code link
@@ -645,7 +648,10 @@ def demo(**config):
 
             for query in keywords:
                 data, data_web = get_daily_papers(
-                    topic, query=query, max_results=max_results
+                    topic,
+                    query=query,
+                    max_results=max_results,
+                    fetch_code_links=config.get("show_links", False),
                 )
 
                 data_collector.append(data)
