@@ -6,12 +6,18 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.06.10_
+_Updated on 2026.06.11_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-06-10**|**Libra: Efficient Resource Management for Agentic RL Post-Training**|Kaiwen Chen et.al.|[2606.03077](http://arxiv.org/abs/2606.03077)|
+|**2026-06-10**|**DrivingAgent: Design and Scheduling Agents for Autonomous Driving Systems**|Zhongyu Xia et.al.|[2606.12236](http://arxiv.org/abs/2606.12236)|
+|**2026-06-10**|**A Fast Locality Simulator for GEMM Design-Space Exploration on Multi-Chiplet GPUs**|Euijun Chung et.al.|[2606.11716](http://arxiv.org/abs/2606.11716)|
+|**2026-06-10**|**Goal-Autopilot: A Verifiable Anti-Fabrication Firewall for Unattended Long-Horizon Agents**|Youwang Deng et.al.|[2606.11688](http://arxiv.org/abs/2606.11688)|
 |**2026-06-09**|**Sim2Schedule: A Simulator-Guided LLM Framework for Autonomous Open-Pit Mine Scheduling**|Mustavi Ibne Masum et.al.|[2606.10286](http://arxiv.org/abs/2606.10286)|
 |**2026-06-09**|**RECAP: Regression Evaluation for Continual Adaptation of Prompts**|Harsh Deshpande et.al.|[2606.06698](http://arxiv.org/abs/2606.06698)|
+|**2026-06-09**|**INFRAMIND: Infrastructure-Aware Multi-Agent Orchestration**|Ahasan Kabir et.al.|[2606.11440](http://arxiv.org/abs/2606.11440)|
+|**2026-06-09**|**Knowing When to Ask: Self-Gated Clarification for Hierarchical Language Agents**|Aijing Gao et.al.|[2606.11349](http://arxiv.org/abs/2606.11349)|
 |**2026-06-08**|**AGENTSERVESIM: A Hardware-aware Simulator for Multi-Turn LLM Agent Serving**|Rakibul Hasan Rajib et.al.|[2606.09613](http://arxiv.org/abs/2606.09613)|
 |**2026-06-08**|**End-to-End Context Compression at Scale**|Ang Li et.al.|[2606.09659](http://arxiv.org/abs/2606.09659)|
 |**2026-06-08**|**Visual Para-Thinker++: A Single-Policy Multi-Agent Framework for Visual Reasoning**|Haoran Xu et.al.|[2606.09290](http://arxiv.org/abs/2606.09290)|
@@ -30,7 +36,6 @@ _Updated on 2026.06.10_
 |**2026-06-02**|**SocialCoach: Personalized Social Skill Learning with RL-based Agentic Tutoring and Practice**|Tianfu Wang et.al.|[2606.04155](http://arxiv.org/abs/2606.04155)|
 |**2026-06-02**|**Agent libOS: A Library-OS-Inspired Runtime for Long-Running, Capability-Controlled LLM Agents**|Yingqi Zhang et.al.|[2606.03895](http://arxiv.org/abs/2606.03895)|
 |**2026-06-02**|**Entropy Gate: Entropy Quenching for Near-Lossless Token Compression in LLM Pipelines**|Justice Owusu Agyemang et.al.|[2606.03739](http://arxiv.org/abs/2606.03739)|
-|**2026-06-02**|**Libra: Efficient Resource Management for Agentic RL Post-Training**|Kaiwen Chen et.al.|[2606.03077](http://arxiv.org/abs/2606.03077)|
 |**2026-06-02**|**MOSAIC: Efficient Mixture-of-Agent Scheduling via Adaptive Aggregation and Inference Concurrency**|Saptarshi Mitra et.al.|[2606.03014](http://arxiv.org/abs/2606.03014)|
 |**2026-06-01**|**Multi-Segment Attention: Enabling Efficient KV-Cache Management for Faster Large Language Model Serving**|Chunan Shi et.al.|[2606.02964](http://arxiv.org/abs/2606.02964)|
 |**2026-06-01**|**Observation, Not Prediction: Conversation-Level Disaggregated Scheduling for Agentic Serving**|Jianru Ding et.al.|[2606.01839](http://arxiv.org/abs/2606.01839)|

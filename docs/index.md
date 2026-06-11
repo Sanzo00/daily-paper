@@ -6,7 +6,7 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.06.10_
+_Updated on 2026.06.11_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
@@ -86,6 +86,7 @@ _Updated on 2026.06.10_
 |**2026-04-24**|**OntoLogX: Ontology-Guided Knowledge Graph Extraction from Cybersecurity Logs with Large Language Models**|Luca Cotti et.al.|[2510.01409](http://arxiv.org/abs/2510.01409)|
 |**2026-04-22**|**Automatic Ontology Construction Using LLMs as an External Layer of Memory, Verification, and Planning for Hybrid Intelligent Systems**|Pavel Salovskii et.al.|[2604.20795_(CHI)](http://arxiv.org/abs/2604.20795)|
 |**2026-04-21**|**EHRAG: Bridging Semantic Gaps in Lightweight GraphRAG via Hybrid Hypergraph Construction and Retrieval**|Yifan Song et.al.|[2604.17458_(ACL)](http://arxiv.org/abs/2604.17458)|
+|**2026-04-21**|**The Structural Attention Tax: How Retrieval Format Hijacks In-Context Learning Independent of Content**|Yuqi Zhang et.al.|[2606.11198](http://arxiv.org/abs/2606.11198)|
 |**2026-04-20**|**MIST: A Co-Design Framework for Heterogeneous, Multi-Stage LLM Inference**|Abhimanyu Rajeshkumar Bambhaniya et.al.|[2504.09775](http://arxiv.org/abs/2504.09775)|
 |**2026-04-20**|**AutoGraph-R1: End-to-End Reinforcement Learning for Knowledge Graph Construction**|Hong Ting Tsang et.al.|[2510.15339](http://arxiv.org/abs/2510.15339)|
 |**2026-04-20**|**MegaRAG: Multimodal Knowledge Graph-Based Retrieval Augmented Generation**|Chi-Hsiang Hsiao et.al.|[2512.20626_(ACL)](http://arxiv.org/abs/2512.20626)|
