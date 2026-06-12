@@ -6,10 +6,11 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.06.11_
+_Updated on 2026.06.12_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-06-11**|**HKVM-RAG: Key-Value-Separated Hypergraph Evidence Organization for Multi-Hop RAG**|Mingyu Zhang et.al.|[2606.07218_(ICDE)](http://arxiv.org/abs/2606.07218)|
 |**2026-06-09**|**Trace Only What You Need: Structure-Aware On-Demand Hypergraph Memory for Long-Document Question Answering**|Xiangjun Zai et.al.|[2606.10921](http://arxiv.org/abs/2606.10921)|
 |**2026-06-09**|**ConRAG: Consensus-Driven Multi-View Retrieval for Multi-Hop Question Answering**|Yikai Zhu et.al.|[2605.28093](http://arxiv.org/abs/2605.28093)|
 |**2026-06-08**|**CacheRAG: A Semantic Caching System for Retrieval-Augmented Generation in Knowledge Graph Question Answering**|Yushi Sun et.al.|[2604.26176](http://arxiv.org/abs/2604.26176)|
@@ -17,7 +18,6 @@ _Updated on 2026.06.11_
 |**2026-06-08**|**LongRTL: Graph-Similarity-Guided LLM-driven Long Context RTL Optimization**|Yuyang Ye et.al.|[2606.08944](http://arxiv.org/abs/2606.08944)|
 |**2026-06-07**|**SparseX: Efficient Segment-Level KV Cache Sharing for Interleaved LLM Serving**|Quqing Zhang et.al.|[2606.01751](http://arxiv.org/abs/2606.01751)|
 |**2026-06-06**|**Explainable AML Triage with LLMs: Evidence Retrieval and Counterfactual Checks**|Dorothy Torres et.al.|[2604.19755](http://arxiv.org/abs/2604.19755)|
-|**2026-06-05**|**HKVM-RAG: Key-Value-Separated Hypergraph Evidence Organization for Multi-Hop RAG**|Mingyu Zhang et.al.|[2606.07218_(ICDE)](http://arxiv.org/abs/2606.07218)|
 |**2026-06-04**|**QCFuse: Query-Aware Cache Fusion via Compressed View for Efficient RAG Serving**|Jianxin Yan et.al.|[2606.05875](http://arxiv.org/abs/2606.05875)|
 |**2026-06-04**|**Evidence Graph Consistency in Retrieval-Augmented Generation: A Model-Dependent Analysis of Hallucination Detection**|Jianru Shen et.al.|[2606.06748_(CHI)](http://arxiv.org/abs/2606.06748)|
 |**2026-06-04**|**IA-RAG: Interval-Algebra-Driven Temporal Reasoning for Dynamic Knowledge Retrieval**|Xiaoman Wang et.al.|[2606.06044](http://arxiv.org/abs/2606.06044)|

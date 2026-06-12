@@ -6,10 +6,14 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.06.11_
+_Updated on 2026.06.12_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-06-11**|**HKVM-RAG: Key-Value-Separated Hypergraph Evidence Organization for Multi-Hop RAG**|Mingyu Zhang et.al.|[2606.07218_(ICDE)](http://arxiv.org/abs/2606.07218)|
+|**2026-06-11**|**Maestro: Workload-Aware Cross-Cluster Scheduling for LLM-Based Multi-Agent Systems**|Jinghao Wang et.al.|[2606.12950_(DIS)](http://arxiv.org/abs/2606.12950)|
+|**2026-06-11**|**MiniMax Sparse Attention**|Xunhao Lai et.al.|[2606.13392](http://arxiv.org/abs/2606.13392)|
+|**2026-06-10**|**ITME: Inference Tiered Memory Expansion with Disaggregated CXL-Hybrid Memories**|Hakbeom Jang et.al.|[2606.12556](http://arxiv.org/abs/2606.12556)|
 |**2026-06-09**|**FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention**|Yan Wang et.al.|[2606.09079](http://arxiv.org/abs/2606.09079)|
 |**2026-06-09**|**ReasonAlloc: Hierarchical Decoding-Time KV Cache Budget Allocation for Reasoning Models**|Wenhao Liu et.al.|[2606.11164](http://arxiv.org/abs/2606.11164)|
 |**2026-06-09**|**INFRAMIND: Infrastructure-Aware Multi-Agent Orchestration**|Ahasan Kabir et.al.|[2606.11440](http://arxiv.org/abs/2606.11440)|
@@ -23,7 +27,6 @@ _Updated on 2026.06.11_
 |**2026-06-07**|**RKSC: Reasoning-Aware KV Cache Sharing and Confident Early Exit for Multi-Step LLM Inference**|Anirudh Sekar et.al.|[2606.09937_(ICML)](http://arxiv.org/abs/2606.09937)|
 |**2026-06-07**|**TRADE: Transducer-Augmented Decoder for Speech LLM**|Yun Tang et.al.|[2606.08486](http://arxiv.org/abs/2606.08486)|
 |**2026-06-06**|**IntentKV: Cross-Turn Intent-Aware KV Cache Pruning for Agent Inference**|Junjie Li et.al.|[2606.09916](http://arxiv.org/abs/2606.09916)|
-|**2026-06-05**|**HKVM-RAG: Key-Value-Separated Hypergraph Evidence Organization for Multi-Hop RAG**|Mingyu Zhang et.al.|[2606.07218_(ICDE)](http://arxiv.org/abs/2606.07218)|
 |**2026-06-05**|**Semantic Cache Distillation: Efficient State Transfer via Reuse and Selective Patching**|Qianli Ma et.al.|[2606.07684_(ICML)](http://arxiv.org/abs/2606.07684)|
 |**2026-06-05**|**Clairvoyant: Predictive SJF Scheduling to Mitigate Head-of-Line Blocking in Serial LLM Backends**|Aravind Sundaresan et.al.|[2606.07248_(AVI)](http://arxiv.org/abs/2606.07248)|
 |**2026-06-05**|**WhiFlash: Accelerating Speculative Decoding with Token-Level Cross-Paradigm Routing**|Young D. Kwon et.al.|[2606.07710](http://arxiv.org/abs/2606.07710)|
