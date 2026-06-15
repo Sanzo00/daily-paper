@@ -6,10 +6,11 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.06.14_
+_Updated on 2026.06.15_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-06-12**|**WikiKV: Schema-Evolving Path-Indexed Storage for Hierarchical Knowledge Navigation**|Feifei Li et.al.|[2606.14275](http://arxiv.org/abs/2606.14275)|
 |**2026-06-11**|**HKVM-RAG: Key-Value-Separated Hypergraph Evidence Organization for Multi-Hop RAG**|Mingyu Zhang et.al.|[2606.07218_(ICDE)](http://arxiv.org/abs/2606.07218)|
 |**2026-06-09**|**Trace Only What You Need: Structure-Aware On-Demand Hypergraph Memory for Long-Document Question Answering**|Xiangjun Zai et.al.|[2606.10921](http://arxiv.org/abs/2606.10921)|
 |**2026-06-09**|**ConRAG: Consensus-Driven Multi-View Retrieval for Multi-Hop Question Answering**|Yikai Zhu et.al.|[2605.28093](http://arxiv.org/abs/2605.28093)|

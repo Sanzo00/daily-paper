@@ -6,17 +6,21 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.06.14_
+_Updated on 2026.06.15_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-06-12**|**A Fast Locality Simulator for GEMM Design-Space Exploration on Multi-Chiplet GPUs**|Euijun Chung et.al.|[2606.11716](http://arxiv.org/abs/2606.11716)|
+|**2026-06-12**|**MiniMax Sparse Attention**|Xunhao Lai et.al.|[2606.13392](http://arxiv.org/abs/2606.13392)|
+|**2026-06-12**|**Towards Direct Latent-Space Synthesis for Parallel Branches in LLM-Agent Workflows**|Shikun Liu et.al.|[2606.14672](http://arxiv.org/abs/2606.14672)|
+|**2026-06-12**|**When Errors Become Narratives: A Longitudinal Taxonomy of Silent Failures in a Production LLM Agent Runtime**|Wei Wu et.al.|[2606.14589](http://arxiv.org/abs/2606.14589)|
+|**2026-06-12**|**Closing the Reflection Gap: A Free Calibration Bonus for Agentic RL**|Yinglun Zhu et.al.|[2606.14211](http://arxiv.org/abs/2606.14211)|
 |**2026-06-11**|**DrivingAgent: Design and Scheduling Agents for Autonomous Driving Systems**|Zhongyu Xia et.al.|[2606.12236](http://arxiv.org/abs/2606.12236)|
-|**2026-06-11**|**MiniMax Sparse Attention**|Xunhao Lai et.al.|[2606.13392](http://arxiv.org/abs/2606.13392)|
 |**2026-06-11**|**Maestro: Workload-Aware Cross-Cluster Scheduling for LLM-Based Multi-Agent Systems**|Jinghao Wang et.al.|[2606.12950_(DIS)](http://arxiv.org/abs/2606.12950)|
 |**2026-06-11**|**WISE: A Long-Horizon Agent in Minecraft with Why-Which Reasoning**|Renmin Cheng et.al.|[2606.12852](http://arxiv.org/abs/2606.12852)|
 |**2026-06-11**|**MiniPIC: Flexible Position-Independent Caching in <100LOC**|Nathan Ordonez et.al.|[2606.13126](http://arxiv.org/abs/2606.13126)|
+|**2026-06-11**|**MedLatentDx: Latent Multi-Agent Communication for Cross-Hospital Rare-Disease Diagnosis**|Ziqing Wang et.al.|[2606.13945](http://arxiv.org/abs/2606.13945)|
 |**2026-06-10**|**Libra: Efficient Resource Management for Agentic RL Post-Training**|Kaiwen Chen et.al.|[2606.03077](http://arxiv.org/abs/2606.03077)|
-|**2026-06-10**|**A Fast Locality Simulator for GEMM Design-Space Exploration on Multi-Chiplet GPUs**|Euijun Chung et.al.|[2606.11716](http://arxiv.org/abs/2606.11716)|
 |**2026-06-10**|**Goal-Autopilot: A Verifiable Anti-Fabrication Firewall for Unattended Long-Horizon Agents**|Youwang Deng et.al.|[2606.11688](http://arxiv.org/abs/2606.11688)|
 |**2026-06-10**|**ITME: Inference Tiered Memory Expansion with Disaggregated CXL-Hybrid Memories**|Hakbeom Jang et.al.|[2606.12556](http://arxiv.org/abs/2606.12556)|
 |**2026-06-09**|**Sim2Schedule: A Simulator-Guided LLM Framework for Autonomous Open-Pit Mine Scheduling**|Mustavi Ibne Masum et.al.|[2606.10286](http://arxiv.org/abs/2606.10286)|
