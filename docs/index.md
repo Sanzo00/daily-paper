@@ -6,10 +6,14 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.06.15_
+_Updated on 2026.06.16_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-06-15**|**Tangram: Unlocking Non-Uniform KV Cache Compression for Efficient Multi-turn LLM Serving**|Hyungmin Kim et.al.|[2606.06302](http://arxiv.org/abs/2606.06302)|
+|**2026-06-14**|**DYNA : Dynamic Episodic Memory Networks for Augmenting Large Language Models with Temporal Knowledge Graphs in Continuous Learning**|Ali Sarabadani et.al.|[2606.15778](http://arxiv.org/abs/2606.15778)|
+|**2026-06-14**|**Intelligent Multimodal Retrieval and Reasoning for Geospatial Knowledge Discovery on the I-GUIDE Platform**|Yunfan Kang et.al.|[2606.15838](http://arxiv.org/abs/2606.15838)|
+|**2026-06-13**|**TechRAG: Evidence-Gated Multimodal Agentic RAG for Technical Literature Reasoning**|Kanwar Bharat Singh et.al.|[2606.01613](http://arxiv.org/abs/2606.01613)|
 |**2026-06-12**|**WikiKV: Schema-Evolving Path-Indexed Storage for Hierarchical Knowledge Navigation**|Feifei Li et.al.|[2606.14275](http://arxiv.org/abs/2606.14275)|
 |**2026-06-11**|**HKVM-RAG: Key-Value-Separated Hypergraph Evidence Organization for Multi-Hop RAG**|Mingyu Zhang et.al.|[2606.07218_(ICDE)](http://arxiv.org/abs/2606.07218)|
 |**2026-06-09**|**Trace Only What You Need: Structure-Aware On-Demand Hypergraph Memory for Long-Document Question Answering**|Xiangjun Zai et.al.|[2606.10921](http://arxiv.org/abs/2606.10921)|
@@ -29,7 +33,6 @@ _Updated on 2026.06.15_
 |**2026-06-03**|**Extending AI for Research to the Humanities: A Multi-Agent Framework for Evidence-Grounded Scholarship**|Yating Pan et.al.|[2605.30947_(SC)](http://arxiv.org/abs/2605.30947)|
 |**2026-06-02**|**DTKG: Dual-Track Knowledge Graph-Verified Reasoning Framework for Multi-Hop QA**|Changhao Wang et.al.|[2510.16302_(ICML)](http://arxiv.org/abs/2510.16302)|
 |**2026-06-02**|**eMEM: A Hybrid Spatio-Temporal Memory System For Embodied Agents**|A. Haroon Rasheed et.al.|[2606.03374](http://arxiv.org/abs/2606.03374)|
-|**2026-06-01**|**TechGraphRAG: An Agentic Graph-Augmented RAG Framework for Technical Literature Reasoning**|Kanwar Bharat Singh et.al.|[2606.01613](http://arxiv.org/abs/2606.01613)|
 |**2026-05-31**|**UniD$^3$: A Knowledge Graph-Enhanced RAG Framework for Drug-Disease Discovery and Reasoning**|Qing Wang et.al.|[2606.01394](http://arxiv.org/abs/2606.01394)|
 |**2026-05-30**|**Citation Grounding: Detecting and Reducing LLM Citation Hallucinations via Legal Citation Graphs**|Volodymyr Ovcharov et.al.|[2606.00898](http://arxiv.org/abs/2606.00898)|
 |**2026-05-30**|**MemGraphRAG: Memory-based Multi-Agent System for Graph Retrieval-Augmented Generation**|Chuanjie Wu et.al.|[2606.00610_(KDD)](http://arxiv.org/abs/2606.00610)|
