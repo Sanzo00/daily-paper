@@ -6,10 +6,13 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.06.18_
+_Updated on 2026.06.19_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-06-18**|**Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving**|Liang Su et.al.|[2606.20537](http://arxiv.org/abs/2606.20537)|
+|**2026-06-18**|**Toward Temporal Realism in City-Scale Crisis Response Simulation using LLM Agents**|Anping Zhang et.al.|[2606.19904](http://arxiv.org/abs/2606.19904)|
+|**2026-06-17**|**IHBench: Evaluating Post-Interruption Recovery in Voice Agents with Structured Workflows**|Ahmad Salimi et.al.|[2606.19595](http://arxiv.org/abs/2606.19595)|
 |**2026-06-16**|**ITME: Inference Tiered Memory Expansion with Disaggregated CXL-Hybrid Memories**|Hakbeom Jang et.al.|[2606.12556](http://arxiv.org/abs/2606.12556)|
 |**2026-06-16**|**Generated, Parallel, Scalable? A Study of Agentic AI-Generated Julia Code on Supercomputers**|Linus Bantel et.al.|[2606.16534](http://arxiv.org/abs/2606.16534)|
 |**2026-06-16**|**SpecGen: Accelerating Agentic Kernel Optimization with Speculative Generation**|Jihu Guo et.al.|[2606.17518](http://arxiv.org/abs/2606.17518)|
@@ -21,6 +24,7 @@ _Updated on 2026.06.18_
 |**2026-06-15**|**CacheWise: Understanding Workloads and Optimizing KVCache Management for Efficiently Serving LLM Coding Agents**|Shubham Tiwari et.al.|[2606.16824](http://arxiv.org/abs/2606.16824)|
 |**2026-06-15**|**The Proxy Knows Too Much: Sealing LLM API Routers with Attested TEEs**|Sipeng Xie et.al.|[2606.16358](http://arxiv.org/abs/2606.16358)|
 |**2026-06-14**|**Model-Native Computing Architecture: Envisioning Future System Architecture Through the Lens of Computer Architecture**|Hai Lin et.al.|[2606.00288](http://arxiv.org/abs/2606.00288)|
+|**2026-06-14**|**DynAMO:Dynamic Asset Management Orchestration via Topological Multi-Agent Scheduling**|Kanishk Kushwaha et.al.|[2606.19382](http://arxiv.org/abs/2606.19382)|
 |**2026-06-13**|**Frontier: Towards Comprehensive and Accurate LLM Inference Simulation**|Yicheng Feng et.al.|[2605.21312](http://arxiv.org/abs/2605.21312)|
 |**2026-06-13**|**OSDAG: Online Scheduling for Efficient Multi-Robot Collaboration**|Thanh Nguyen Canh et.al.|[2606.15255](http://arxiv.org/abs/2606.15255)|
 |**2026-06-12**|**A Fast Locality Simulator for GEMM Design-Space Exploration on Multi-Chiplet GPUs**|Euijun Chung et.al.|[2606.11716](http://arxiv.org/abs/2606.11716)|

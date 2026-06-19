@@ -6,10 +6,11 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.06.18_
+_Updated on 2026.06.19_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-06-18**|**AI Economist Agent: An Agentic Framework for Model-Grounded Economic Analysis with RAG, Knowledge Graphs, and Large Language Models**|Masahiro Kato et.al.|[2606.20041](http://arxiv.org/abs/2606.20041)|
 |**2026-06-16**|**A Unified Framework for Context-Aware and Relation-Aware Graph Retrieval-Augmented Generation**|Haoyang Zhong et.al.|[2606.18075_(WWW)](http://arxiv.org/abs/2606.18075)|
 |**2026-06-16**|**DecoSearch: Complexity-Aware Routing and Plan-Level Repair for Text-to-SQL**|Esteban Schafir et.al.|[2606.17821](http://arxiv.org/abs/2606.17821)|
 |**2026-06-16**|**Conflict-Aware Retriever Editing for Knowledge Injection Attacks on LLM-Based RAG Systems**|Xinru Liu et.al.|[2606.18310](http://arxiv.org/abs/2606.18310)|

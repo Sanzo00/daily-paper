@@ -6,10 +6,13 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.06.18_
+_Updated on 2026.06.19_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-06-18**|**Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving**|Liang Su et.al.|[2606.20537](http://arxiv.org/abs/2606.20537)|
+|**2026-06-18**|**SAC: Disaggregated KV Cache System for Sparse Attention LLMs with CXL**|Ruiyang Ma et.al.|[2606.19746](http://arxiv.org/abs/2606.19746)|
+|**2026-06-18**|**ViCoStream: Streaming VideoLLMs Can Run Beyond 100 FPS with Stage-Wise Coordinated Inference**|Yang Tan et.al.|[2606.19849](http://arxiv.org/abs/2606.19849)|
 |**2026-06-17**|**DSB: Dynamic Sliding Block Scheduling for Diffusion LLMs**|Lizhuo Luo et.al.|[2602.05992_(CHI)](http://arxiv.org/abs/2602.05992)|
 |**2026-06-17**|**ReMP: Low-Downtime Runtime Model-Parallelism Reconfiguration for LLM Serving**|Haipeng Yuan et.al.|[2606.18741](http://arxiv.org/abs/2606.18741)|
 |**2026-06-16**|**ITME: Inference Tiered Memory Expansion with Disaggregated CXL-Hybrid Memories**|Hakbeom Jang et.al.|[2606.12556](http://arxiv.org/abs/2606.12556)|
