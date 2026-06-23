@@ -15,6 +15,7 @@ _Updated on 2026.06.23_
 |**2026-06-22**|**Predicate Importance Estimation and Decoupled Rationale-Score Distillation for Entity Alignment**|Keunha Kim et.al.|[2606.22992](http://arxiv.org/abs/2606.22992)|
 |**2026-06-22**|**Graph-Enhanced Large Language Models for Spatial Search**|Nicole R. Schneider et.al.|[2606.22909](http://arxiv.org/abs/2606.22909)|
 |**2026-06-21**|**VISTA Architect: A graph database-oriented health AI system demonstrated in multidisciplinary tumor boards**|Tuomo Kiiskinen et.al.|[2606.22692_(CHI)](http://arxiv.org/abs/2606.22692)|
+|**2026-06-20**|**Agent-Assisted Side-Channel Attacks on Non-Prefix KV Cache in RAG**|He Sun et.al.|[2606.21842](http://arxiv.org/abs/2606.21842)|
 |**2026-06-18**|**AI Economist Agent: An Agentic Framework for Model-Grounded Economic Analysis with RAG, Knowledge Graphs, and Large Language Models**|Masahiro Kato et.al.|[2606.20041](http://arxiv.org/abs/2606.20041)|
 |**2026-06-16**|**A Unified Framework for Context-Aware and Relation-Aware Graph Retrieval-Augmented Generation**|Haoyang Zhong et.al.|[2606.18075_(WWW)](http://arxiv.org/abs/2606.18075)|
 |**2026-06-16**|**DecoSearch: Complexity-Aware Routing and Plan-Level Repair for Text-to-SQL**|Esteban Schafir et.al.|[2606.17821](http://arxiv.org/abs/2606.17821)|
