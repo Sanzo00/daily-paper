@@ -6,10 +6,16 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.06.22_
+_Updated on 2026.06.23_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-06-22**|**Concordia: JIT-Compiled Persistent-Kernel Checkpointing for Fault-Tolerant LLM Inference**|Yuhang Gan et.al.|[2606.23521](http://arxiv.org/abs/2606.23521)|
+|**2026-06-22**|**LiveServe: Interaction-Aware Serving for Real-Time Omni-Modal LLMs**|Xiangyu Zhi et.al.|[2606.22983](http://arxiv.org/abs/2606.22983)|
+|**2026-06-20**|**Agent-Assisted Side-Channel Attacks on Non-Prefix KV Cache in RAG**|He Sun et.al.|[2606.21842](http://arxiv.org/abs/2606.21842)|
+|**2026-06-19**|**SAGA: Workflow-Atomic Scheduling for AI Agent Inference on GPU Clusters**|Dongxin Guo et.al.|[2605.00528](http://arxiv.org/abs/2605.00528)|
+|**2026-06-19**|**HERALD: High-Throughput Block Diffusion LLM Serving via CPU-GPU Cooperative KV Cache Retrieval**|Omin Kwon et.al.|[2606.21633](http://arxiv.org/abs/2606.21633)|
+|**2026-06-18**|**AGENTSERVESIM: A Hardware-aware Simulator for Multi-Turn LLM Agent Serving**|Rakibul Hasan Rajib et.al.|[2606.09613](http://arxiv.org/abs/2606.09613)|
 |**2026-06-18**|**Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving**|Liang Su et.al.|[2606.20537](http://arxiv.org/abs/2606.20537)|
 |**2026-06-18**|**SAC: Disaggregated KV Cache System for Sparse Attention LLMs with CXL**|Ruiyang Ma et.al.|[2606.19746](http://arxiv.org/abs/2606.19746)|
 |**2026-06-18**|**ViCoStream: Streaming VideoLLMs Can Run Beyond 100 FPS with Stage-Wise Coordinated Inference**|Yang Tan et.al.|[2606.19849](http://arxiv.org/abs/2606.19849)|
@@ -39,7 +45,6 @@ _Updated on 2026.06.22_
 |**2026-06-09**|**FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention**|Yan Wang et.al.|[2606.09079](http://arxiv.org/abs/2606.09079)|
 |**2026-06-09**|**ReasonAlloc: Hierarchical Decoding-Time KV Cache Budget Allocation for Reasoning Models**|Wenhao Liu et.al.|[2606.11164](http://arxiv.org/abs/2606.11164)|
 |**2026-06-09**|**INFRAMIND: Infrastructure-Aware Multi-Agent Orchestration**|Ahasan Kabir et.al.|[2606.11440](http://arxiv.org/abs/2606.11440)|
-|**2026-06-08**|**AGENTSERVESIM: A Hardware-aware Simulator for Multi-Turn LLM Agent Serving**|Rakibul Hasan Rajib et.al.|[2606.09613](http://arxiv.org/abs/2606.09613)|
 |**2026-06-08**|**FlexNPU: Transparent NPU Virtualization for Dynamic LLM Prefill-Decode Co-location**|Jiongjiong Gu et.al.|[2606.04415](http://arxiv.org/abs/2606.04415)|
 |**2026-06-08**|**SIFT: Selective-Index For Fast Compute of RAG Prefill by Exploiting Attention Invariance**|Rya Sanovar et.al.|[2606.09441](http://arxiv.org/abs/2606.09441)|
 |**2026-06-08**|**Full Attention Strikes Back: Transferring Full Attention into Sparse within Hundred Training Steps**|Yanke Zhou et.al.|[2605.16928](http://arxiv.org/abs/2605.16928)|
@@ -166,7 +171,6 @@ _Updated on 2026.06.22_
 |**2026-05-04**|**SparKV: Overhead-Aware KV Cache Loading for Efficient On-Device LLM Inference**|Hongyao Liu et.al.|[2604.21231](http://arxiv.org/abs/2604.21231)|
 |**2026-05-02**|**Position: LLM Serving Needs Mathematical Optimization and Algorithmic Foundations, Not Just Heuristics**|Zijie Zhou et.al.|[2605.01280](http://arxiv.org/abs/2605.01280)|
 |**2026-05-01**|**LLM-Emu: Native Runtime Emulation of LLM Inference via Profile-Driven Sampling**|Wei Da et.al.|[2605.00616](http://arxiv.org/abs/2605.00616)|
-|**2026-05-01**|**SAGA: Workflow-Atomic Scheduling for AI Agent Inference on GPU Clusters**|Dongxin Guo et.al.|[2605.00528_(DIS)](http://arxiv.org/abs/2605.00528)|
 |**2026-05-01**|**DARE: Diffusion Language Model Activation Reuse for Efficient Inference**|Natalia Frumkin et.al.|[2605.08134](http://arxiv.org/abs/2605.08134)|
 |**2026-04-30**|**VitaLLM: A Versatile, Ultra-Compact Ternary LLM Accelerator with Dependency-Aware Scheduling**|Zi-Wei Lin et.al.|[2604.27396](http://arxiv.org/abs/2604.27396)|
 |**2026-04-29**|**Unifying Sparse Attention with Hierarchical Memory for Scalable Long-Context LLM Serving**|Zihan Zhao et.al.|[2604.26837](http://arxiv.org/abs/2604.26837)|

@@ -6,10 +6,15 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.06.22_
+_Updated on 2026.06.23_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-06-22**|**eMEM: A Hybrid Spatio-Temporal Memory System For Embodied Agents**|A. Haroon Rasheed et.al.|[2606.03374](http://arxiv.org/abs/2606.03374)|
+|**2026-06-22**|**TTFT-Aware Graph Chain-of-Thought:Distance-Indexed Neural A* for Low-Hallucination Multi-Hop Medical Reasoning**|Bechir Dardouri et.al.|[2606.23108](http://arxiv.org/abs/2606.23108)|
+|**2026-06-22**|**Predicate Importance Estimation and Decoupled Rationale-Score Distillation for Entity Alignment**|Keunha Kim et.al.|[2606.22992](http://arxiv.org/abs/2606.22992)|
+|**2026-06-22**|**Graph-Enhanced Large Language Models for Spatial Search**|Nicole R. Schneider et.al.|[2606.22909](http://arxiv.org/abs/2606.22909)|
+|**2026-06-21**|**VISTA Architect: A graph database-oriented health AI system demonstrated in multidisciplinary tumor boards**|Tuomo Kiiskinen et.al.|[2606.22692_(CHI)](http://arxiv.org/abs/2606.22692)|
 |**2026-06-18**|**AI Economist Agent: An Agentic Framework for Model-Grounded Economic Analysis with RAG, Knowledge Graphs, and Large Language Models**|Masahiro Kato et.al.|[2606.20041](http://arxiv.org/abs/2606.20041)|
 |**2026-06-16**|**A Unified Framework for Context-Aware and Relation-Aware Graph Retrieval-Augmented Generation**|Haoyang Zhong et.al.|[2606.18075_(WWW)](http://arxiv.org/abs/2606.18075)|
 |**2026-06-16**|**DecoSearch: Complexity-Aware Routing and Plan-Level Repair for Text-to-SQL**|Esteban Schafir et.al.|[2606.17821](http://arxiv.org/abs/2606.17821)|
@@ -36,7 +41,6 @@ _Updated on 2026.06.22_
 |**2026-06-03**|**MemoryDocDataSet: A Benchmark for Joint Conversational Memory and Long Document Reasoning**|Qiyang Xie et.al.|[2606.04442](http://arxiv.org/abs/2606.04442)|
 |**2026-06-03**|**Extending AI for Research to the Humanities: A Multi-Agent Framework for Evidence-Grounded Scholarship**|Yating Pan et.al.|[2605.30947_(SC)](http://arxiv.org/abs/2605.30947)|
 |**2026-06-02**|**DTKG: Dual-Track Knowledge Graph-Verified Reasoning Framework for Multi-Hop QA**|Changhao Wang et.al.|[2510.16302_(ICML)](http://arxiv.org/abs/2510.16302)|
-|**2026-06-02**|**eMEM: A Hybrid Spatio-Temporal Memory System For Embodied Agents**|A. Haroon Rasheed et.al.|[2606.03374](http://arxiv.org/abs/2606.03374)|
 |**2026-05-31**|**UniD$^3$: A Knowledge Graph-Enhanced RAG Framework for Drug-Disease Discovery and Reasoning**|Qing Wang et.al.|[2606.01394](http://arxiv.org/abs/2606.01394)|
 |**2026-05-30**|**Citation Grounding: Detecting and Reducing LLM Citation Hallucinations via Legal Citation Graphs**|Volodymyr Ovcharov et.al.|[2606.00898](http://arxiv.org/abs/2606.00898)|
 |**2026-05-30**|**MemGraphRAG: Memory-based Multi-Agent System for Graph Retrieval-Augmented Generation**|Chuanjie Wu et.al.|[2606.00610_(KDD)](http://arxiv.org/abs/2606.00610)|

@@ -6,10 +6,17 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.06.22_
+_Updated on 2026.06.23_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-06-22**|**Against the Monolithic Wireless World Model: Why NextG Needs Composable and Agentic Intelligence**|Aladin Djuhera et.al.|[2605.16689](http://arxiv.org/abs/2605.16689)|
+|**2026-06-22**|**Concordia: JIT-Compiled Persistent-Kernel Checkpointing for Fault-Tolerant LLM Inference**|Yuhang Gan et.al.|[2606.23521](http://arxiv.org/abs/2606.23521)|
+|**2026-06-22**|**HoloAgent-0: A Unified Embodied Agent Framework with 3D Spatial Memory**|Xiaolin Zhou et.al.|[2606.23565](http://arxiv.org/abs/2606.23565)|
+|**2026-06-20**|**Agent-Assisted Side-Channel Attacks on Non-Prefix KV Cache in RAG**|He Sun et.al.|[2606.21842](http://arxiv.org/abs/2606.21842)|
+|**2026-06-20**|**CodeTeam: An LLM-Powered Multi-Agent Framework for Repository-Level Code Generation**|Yifei Wang et.al.|[2606.22082_(SC)](http://arxiv.org/abs/2606.22082)|
+|**2026-06-19**|**SAGA: Workflow-Atomic Scheduling for AI Agent Inference on GPU Clusters**|Dongxin Guo et.al.|[2605.00528](http://arxiv.org/abs/2605.00528)|
+|**2026-06-18**|**AGENTSERVESIM: A Hardware-aware Simulator for Multi-Turn LLM Agent Serving**|Rakibul Hasan Rajib et.al.|[2606.09613](http://arxiv.org/abs/2606.09613)|
 |**2026-06-18**|**Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving**|Liang Su et.al.|[2606.20537](http://arxiv.org/abs/2606.20537)|
 |**2026-06-18**|**Toward Temporal Realism in City-Scale Crisis Response Simulation using LLM Agents**|Anping Zhang et.al.|[2606.19904](http://arxiv.org/abs/2606.19904)|
 |**2026-06-17**|**IHBench: Evaluating Post-Interruption Recovery in Voice Agents with Structured Workflows**|Ahmad Salimi et.al.|[2606.19595](http://arxiv.org/abs/2606.19595)|
@@ -45,7 +52,6 @@ _Updated on 2026.06.22_
 |**2026-06-09**|**Sim2Schedule: A Simulator-Guided LLM Framework for Autonomous Open-Pit Mine Scheduling**|Mustavi Ibne Masum et.al.|[2606.10286](http://arxiv.org/abs/2606.10286)|
 |**2026-06-09**|**RECAP: Regression Evaluation for Continual Adaptation of Prompts**|Harsh Deshpande et.al.|[2606.06698](http://arxiv.org/abs/2606.06698)|
 |**2026-06-09**|**INFRAMIND: Infrastructure-Aware Multi-Agent Orchestration**|Ahasan Kabir et.al.|[2606.11440](http://arxiv.org/abs/2606.11440)|
-|**2026-06-08**|**AGENTSERVESIM: A Hardware-aware Simulator for Multi-Turn LLM Agent Serving**|Rakibul Hasan Rajib et.al.|[2606.09613](http://arxiv.org/abs/2606.09613)|
 |**2026-06-08**|**End-to-End Context Compression at Scale**|Ang Li et.al.|[2606.09659](http://arxiv.org/abs/2606.09659)|
 |**2026-06-08**|**Visual Para-Thinker++: A Single-Policy Multi-Agent Framework for Visual Reasoning**|Haoran Xu et.al.|[2606.09290](http://arxiv.org/abs/2606.09290)|
 |**2026-06-07**|**SparseX: Efficient Segment-Level KV Cache Sharing for Interleaved LLM Serving**|Quqing Zhang et.al.|[2606.01751](http://arxiv.org/abs/2606.01751)|
@@ -116,7 +122,6 @@ _Updated on 2026.06.22_
 |**2026-05-15**|**Large Language Models as Optimization Controllers: Adaptive Continuation for SIMP Topology Optimization**|Shaoliang Yang et.al.|[2603.25099](http://arxiv.org/abs/2603.25099)|
 |**2026-05-15**|**Agentic Recommender System with Hierarchical Belief-State Memory**|Xiang Shen et.al.|[2605.14401](http://arxiv.org/abs/2605.14401)|
 |**2026-05-15**|**HexAGenT: Efficient Agentic LLM Serving via Workflow- and Heterogeneity-Aware Scheduling**|You Peng et.al.|[2605.16637](http://arxiv.org/abs/2605.16637)|
-|**2026-05-15**|**Against the Monolithic Wireless World Model: Why NextG Needs Composable and Agentic Intelligence**|Aladin Djuhera et.al.|[2605.16689](http://arxiv.org/abs/2605.16689)|
 |**2026-05-15**|**PRISM: Prompt Reliability via Iterative Simulation and Monitoring for Enterprise Conversational AI**|Keshava Chaitanya et.al.|[2605.15665](http://arxiv.org/abs/2605.15665)|
 |**2026-05-15**|**TopoClaw: A Human-Centric and Topology-Aware Agent Operating System**|Heyuan Huang et.al.|[2605.15556](http://arxiv.org/abs/2605.15556)|
 |**2026-05-15**|**Hybrid LLM-based Intelligent Framework for Robot Task Scheduling**|Swayamjit Saha et.al.|[2605.15486](http://arxiv.org/abs/2605.15486)|
@@ -146,7 +151,6 @@ _Updated on 2026.06.22_
 |**2026-05-04**|**AAFLOW: Scalable Patterns for Agentic AI Workflows**|Arup Kumar Sarker et.al.|[2605.02162_(SC)](http://arxiv.org/abs/2605.02162)|
 |**2026-05-03**|**WMF-AM: Probing LLM Working Memory via Depth-Parameterized Cumulative State Tracking**|Dengzhe Hou et.al.|[2603.27343](http://arxiv.org/abs/2603.27343)|
 |**2026-05-01**|**HyMem: Hybrid Memory Architecture with Dynamic Retrieval Scheduling**|Xiaochen Zhao et.al.|[2602.13933](http://arxiv.org/abs/2602.13933)|
-|**2026-05-01**|**SAGA: Workflow-Atomic Scheduling for AI Agent Inference on GPU Clusters**|Dongxin Guo et.al.|[2605.00528_(DIS)](http://arxiv.org/abs/2605.00528)|
 |**2026-05-01**|**AgenticAITA: A Proof-Of-Concept About Deliberative Multi-Agent Reasoning for Autonomous Trading Systems**|Ivan Letteri et.al.|[2605.12532](http://arxiv.org/abs/2605.12532)|
 |**2026-04-30**|**Crab: A Semantics-Aware Checkpoint/Restore Runtime for Agent Sandboxes**|Tianyuan Wu et.al.|[2604.28138](http://arxiv.org/abs/2604.28138)|
 |**2026-04-30**|**Bridging Values and Behavior: A Hierarchical Framework for Proactive Embodied Agents**|Chunhui Zhang et.al.|[2604.27699](http://arxiv.org/abs/2604.27699)|
