@@ -6,13 +6,14 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.06.23_
+_Updated on 2026.06.24_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
 |**2026-06-22**|**Against the Monolithic Wireless World Model: Why NextG Needs Composable and Agentic Intelligence**|Aladin Djuhera et.al.|[2605.16689](http://arxiv.org/abs/2605.16689)|
 |**2026-06-22**|**Concordia: JIT-Compiled Persistent-Kernel Checkpointing for Fault-Tolerant LLM Inference**|Yuhang Gan et.al.|[2606.23521](http://arxiv.org/abs/2606.23521)|
 |**2026-06-22**|**HoloAgent-0: A Unified Embodied Agent Framework with 3D Spatial Memory**|Xiaolin Zhou et.al.|[2606.23565](http://arxiv.org/abs/2606.23565)|
+|**2026-06-22**|**Forget Without Compromise: Nexus Sampling for Streaming KV-Cache Eviction Under Fixed Budgets**|Duc Duong et.al.|[2606.23961](http://arxiv.org/abs/2606.23961)|
 |**2026-06-20**|**Agent-Assisted Side-Channel Attacks on Non-Prefix KV Cache in RAG**|He Sun et.al.|[2606.21842](http://arxiv.org/abs/2606.21842)|
 |**2026-06-20**|**CodeTeam: An LLM-Powered Multi-Agent Framework for Repository-Level Code Generation**|Yifei Wang et.al.|[2606.22082_(SC)](http://arxiv.org/abs/2606.22082)|
 |**2026-06-19**|**SAGA: Workflow-Atomic Scheduling for AI Agent Inference on GPU Clusters**|Dongxin Guo et.al.|[2605.00528](http://arxiv.org/abs/2605.00528)|
