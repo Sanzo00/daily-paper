@@ -10,6 +10,8 @@ _Updated on 2026.06.25_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-06-24**|**Hybrid-IR: Dual-Path Hybrid Retrieval with Iterative Reasoning for Complex Medical Question Answering**|Sheng Wan et.al.|[2606.25338](http://arxiv.org/abs/2606.25338)|
+|**2026-06-24**|**PYPILINE: Malicious PyPI Package Detection via Suspicious API Knowledge and Agent Workflow**|Siyuan Pang et.al.|[2606.19063](http://arxiv.org/abs/2606.19063)|
 |**2026-06-22**|**eMEM: A Hybrid Spatio-Temporal Memory System For Embodied Agents**|A. Haroon Rasheed et.al.|[2606.03374](http://arxiv.org/abs/2606.03374)|
 |**2026-06-22**|**TTFT-Aware Graph Chain-of-Thought:Distance-Indexed Neural A* for Low-Hallucination Multi-Hop Medical Reasoning**|Bechir Dardouri et.al.|[2606.23108](http://arxiv.org/abs/2606.23108)|
 |**2026-06-22**|**Predicate Importance Estimation and Decoupled Rationale-Score Distillation for Entity Alignment**|Keunha Kim et.al.|[2606.22992](http://arxiv.org/abs/2606.22992)|
