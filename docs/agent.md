@@ -6,10 +6,13 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.06.24_
+_Updated on 2026.06.25_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-06-24**|**Model-Native Computing Architecture: Envisioning Future System Architecture Through the Lens of Computer Architecture**|Hai Lin et.al.|[2606.00288](http://arxiv.org/abs/2606.00288)|
+|**2026-06-23**|**SplitZip: Ultra Fast Lossless KV Compression for Disaggregated LLM Serving**|Yipin Guo et.al.|[2605.01708](http://arxiv.org/abs/2605.01708)|
+|**2026-06-23**|**ASAP: Agent-System Co-Design for Wall-Clock-Centered Auto HPO Research for ML Experiments**|Taicheng Guo et.al.|[2606.25207](http://arxiv.org/abs/2606.25207)|
 |**2026-06-22**|**Against the Monolithic Wireless World Model: Why NextG Needs Composable and Agentic Intelligence**|Aladin Djuhera et.al.|[2605.16689](http://arxiv.org/abs/2605.16689)|
 |**2026-06-22**|**Concordia: JIT-Compiled Persistent-Kernel Checkpointing for Fault-Tolerant LLM Inference**|Yuhang Gan et.al.|[2606.23521](http://arxiv.org/abs/2606.23521)|
 |**2026-06-22**|**HoloAgent-0: A Unified Embodied Agent Framework with 3D Spatial Memory**|Xiaolin Zhou et.al.|[2606.23565](http://arxiv.org/abs/2606.23565)|
@@ -31,7 +34,6 @@ _Updated on 2026.06.24_
 |**2026-06-15**|**Consensus-based Agentic Large Language Model Framework for Harmonized Tariff Schedule Code Classification**|Truong Thanh Hung Nguyen et.al.|[2606.16987](http://arxiv.org/abs/2606.16987)|
 |**2026-06-15**|**CacheWise: Understanding Workloads and Optimizing KVCache Management for Efficiently Serving LLM Coding Agents**|Shubham Tiwari et.al.|[2606.16824](http://arxiv.org/abs/2606.16824)|
 |**2026-06-15**|**The Proxy Knows Too Much: Sealing LLM API Routers with Attested TEEs**|Sipeng Xie et.al.|[2606.16358](http://arxiv.org/abs/2606.16358)|
-|**2026-06-14**|**Model-Native Computing Architecture: Envisioning Future System Architecture Through the Lens of Computer Architecture**|Hai Lin et.al.|[2606.00288](http://arxiv.org/abs/2606.00288)|
 |**2026-06-14**|**DynAMO:Dynamic Asset Management Orchestration via Topological Multi-Agent Scheduling**|Kanishk Kushwaha et.al.|[2606.19382](http://arxiv.org/abs/2606.19382)|
 |**2026-06-13**|**Frontier: Towards Comprehensive and Accurate LLM Inference Simulation**|Yicheng Feng et.al.|[2605.21312](http://arxiv.org/abs/2605.21312)|
 |**2026-06-13**|**OSDAG: Online Scheduling for Efficient Multi-Robot Collaboration**|Thanh Nguyen Canh et.al.|[2606.15255](http://arxiv.org/abs/2606.15255)|
@@ -134,7 +136,6 @@ _Updated on 2026.06.24_
 |**2026-05-11**|**Agentic Fuzzing: Opportunities and Challenges**|Junyoung Park et.al.|[2605.10074](http://arxiv.org/abs/2605.10074)|
 |**2026-05-10**|**LASSA Architecture-Based Autonomous Fault-Tolerant Control of Unmanned Underwater Vehicles**|Hong Chen et.al.|[2605.09494](http://arxiv.org/abs/2605.09494)|
 |**2026-05-09**|**PRISM: Fast Online LLM Serving via Scheduling-Memory Co-design**|Xingyu Qu et.al.|[2605.08581](http://arxiv.org/abs/2605.08581)|
-|**2026-05-08**|**SplitZip: Ultra Fast Lossless KV Compression for Disaggregated LLM Serving**|Yipin Guo et.al.|[2605.01708](http://arxiv.org/abs/2605.01708)|
 |**2026-05-08**|**Deadline-Driven Hierarchical Agentic Resource Sharing for AI Services and RAN Functions in AI-RAN**|Haiyuan Li et.al.|[2605.07547](http://arxiv.org/abs/2605.07547)|
 |**2026-05-08**|**MARLaaS: Multi-Tenant Asynchronous Reinforcement Learning as a Service**|Timothy Tin Long Yu et.al.|[2605.08527](http://arxiv.org/abs/2605.08527)|
 |**2026-05-07**|**AI Agents Alone Are Not (Yet) Sufficient for Social Simulation**|Yiming Li et.al.|[2603.00113](http://arxiv.org/abs/2603.00113)|
