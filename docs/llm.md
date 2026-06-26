@@ -6,10 +6,13 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.06.25_
+_Updated on 2026.06.26_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-06-25**|**PersistentKV: Page-Aware Decode Scheduling for Long-Context LLM Serving on Commodity GPUs**|Muhammad Ahmed et.al.|[2606.26666](http://arxiv.org/abs/2606.26666)|
+|**2026-06-25**|**Moebius: Serving Mixture-of-Expert Models with Seamless Runtime Parallelism Switch**|Shaoyu Wang et.al.|[2606.26607](http://arxiv.org/abs/2606.26607)|
+|**2026-06-25**|**Information-Aware KV Cache Compression for Long Reasoning**|Jushi Kai et.al.|[2606.26875](http://arxiv.org/abs/2606.26875)|
 |**2026-06-24**|**Streaming-dLLM: Accelerating Diffusion LLMs via Suffix Pruning and Dynamic Decoding**|Zhongyu Xiao et.al.|[2601.17917](http://arxiv.org/abs/2601.17917)|
 |**2026-06-24**|**Model-Native Computing Architecture: Envisioning Future System Architecture Through the Lens of Computer Architecture**|Hai Lin et.al.|[2606.00288](http://arxiv.org/abs/2606.00288)|
 |**2026-06-23**|**SplitZip: Ultra Fast Lossless KV Compression for Disaggregated LLM Serving**|Yipin Guo et.al.|[2605.01708](http://arxiv.org/abs/2605.01708)|
