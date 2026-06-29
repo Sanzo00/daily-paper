@@ -6,13 +6,14 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.06.28_
+_Updated on 2026.06.29_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-06-26**|**PYPILINE: Malicious PyPI Package Detection via Suspicious API Knowledge and Agent Workflow**|Siyuan Pang et.al.|[2606.19063](http://arxiv.org/abs/2606.19063)|
+|**2026-06-26**|**From Detection to Action: Using LLM Agents for Fault-Tolerant Control**|Javal Vyas et.al.|[2606.28011](http://arxiv.org/abs/2606.28011)|
 |**2026-06-25**|**Retrieval-Warmed Energy-Based Reasoning: A Five-Arm Ablation Methodology for Diffusion-as-Inference on Structured Reasoning Tasks**|Libo Sun et.al.|[2606.26476](http://arxiv.org/abs/2606.26476)|
 |**2026-06-24**|**Hybrid-IR: Dual-Path Hybrid Retrieval with Iterative Reasoning for Complex Medical Question Answering**|Sheng Wan et.al.|[2606.25338](http://arxiv.org/abs/2606.25338)|
-|**2026-06-24**|**PYPILINE: Malicious PyPI Package Detection via Suspicious API Knowledge and Agent Workflow**|Siyuan Pang et.al.|[2606.19063](http://arxiv.org/abs/2606.19063)|
 |**2026-06-24**|**MKG-RAG-Bench: Benchmarking Retrieval in Multimodal Knowledge Graph-Augmented Generation**|Xiaochen Wang et.al.|[2606.26458_(KDD)](http://arxiv.org/abs/2606.26458)|
 |**2026-06-22**|**eMEM: A Hybrid Spatio-Temporal Memory System For Embodied Agents**|A. Haroon Rasheed et.al.|[2606.03374](http://arxiv.org/abs/2606.03374)|
 |**2026-06-22**|**TTFT-Aware Graph Chain-of-Thought:Distance-Indexed Neural A* for Low-Hallucination Multi-Hop Medical Reasoning**|Bechir Dardouri et.al.|[2606.23108](http://arxiv.org/abs/2606.23108)|

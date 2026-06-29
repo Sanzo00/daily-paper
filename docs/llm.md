@@ -6,10 +6,13 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.06.28_
+_Updated on 2026.06.29_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-06-26**|**Learning to Evict from Key-Value Cache**|Luca Moschella et.al.|[2602.10238_(ICML)](http://arxiv.org/abs/2602.10238)|
+|**2026-06-26**|**RedKnot: Efficient Long-Context LLM Serving with Head-Aware KV Reuse and SegPagedAttention**|Yang Liu et.al.|[2606.06256](http://arxiv.org/abs/2606.06256)|
+|**2026-06-26**|**CrossPool: Efficient Multi-LLM Serving for Cold MoE Models through KV-Cache and Weight Disaggregation**|Zhuoren Ye et.al.|[2606.24506](http://arxiv.org/abs/2606.24506)|
 |**2026-06-25**|**PersistentKV: Page-Aware Decode Scheduling for Long-Context LLM Serving on Commodity GPUs**|Muhammad Ahmed et.al.|[2606.26666](http://arxiv.org/abs/2606.26666)|
 |**2026-06-25**|**Moebius: Serving Mixture-of-Expert Models with Seamless Runtime Parallelism Switch**|Shaoyu Wang et.al.|[2606.26607](http://arxiv.org/abs/2606.26607)|
 |**2026-06-25**|**Information-Aware KV Cache Compression for Long Reasoning**|Jushi Kai et.al.|[2606.26875](http://arxiv.org/abs/2606.26875)|
@@ -17,7 +20,6 @@ _Updated on 2026.06.28_
 |**2026-06-24**|**Model-Native Computing Architecture: Envisioning Future System Architecture Through the Lens of Computer Architecture**|Hai Lin et.al.|[2606.00288](http://arxiv.org/abs/2606.00288)|
 |**2026-06-23**|**SplitZip: Ultra Fast Lossless KV Compression for Disaggregated LLM Serving**|Yipin Guo et.al.|[2605.01708](http://arxiv.org/abs/2605.01708)|
 |**2026-06-23**|**OTRO: Oblivious Tokenization Path with Square-Root ORAM**|Jonghyun Lee et.al.|[2606.17358](http://arxiv.org/abs/2606.17358)|
-|**2026-06-23**|**CrossPool: Efficient Multi-LLM Serving for Cold MoE Models through KV-Cache and Weight Disaggregation**|Zhuoren Ye et.al.|[2606.24506](http://arxiv.org/abs/2606.24506)|
 |**2026-06-23**|**CompressKV: Semantic-Retrieval-Guided KV-Cache Compression for Resource-Efficient Long-Context LLM Inference**|Xiaolin Lin et.al.|[2606.24467](http://arxiv.org/abs/2606.24467)|
 |**2026-06-23**|**Collaborative Lossless LLM Inference Serving with Offloading-based Pipeline Parallelism on Edge Devices**|Mingyu Sun et.al.|[2512.21835](http://arxiv.org/abs/2512.21835)|
 |**2026-06-23**|**ASAP: Agent-System Co-Design for Wall-Clock-Centered Auto HPO Research for ML Experiments**|Taicheng Guo et.al.|[2606.25207](http://arxiv.org/abs/2606.25207)|
@@ -69,7 +71,6 @@ _Updated on 2026.06.28_
 |**2026-06-05**|**Clairvoyant: Predictive SJF Scheduling to Mitigate Head-of-Line Blocking in Serial LLM Backends**|Aravind Sundaresan et.al.|[2606.07248_(AVI)](http://arxiv.org/abs/2606.07248)|
 |**2026-06-05**|**WhiFlash: Accelerating Speculative Decoding with Token-Level Cross-Paradigm Routing**|Young D. Kwon et.al.|[2606.07710](http://arxiv.org/abs/2606.07710)|
 |**2026-06-05**|**Beyond tokens: a unified framework for latent communication in LLM-based multi-agent systems**|Yingzhuo Liu et.al.|[2606.05711](http://arxiv.org/abs/2606.05711)|
-|**2026-06-04**|**RedKnot: Efficient Long-Context LLM Serving with Head-Aware KV Reuse and SegPagedAttention**|Yang Liu et.al.|[2606.06256](http://arxiv.org/abs/2606.06256)|
 |**2026-06-04**|**QCFuse: Query-Aware Cache Fusion via Compressed View for Efficient RAG Serving**|Jianxin Yan et.al.|[2606.05875](http://arxiv.org/abs/2606.05875)|
 |**2026-06-04**|**You Only Index Once: Cross-Layer Sparse Attention with Shared Routing**|Yutao Sun et.al.|[2606.06467](http://arxiv.org/abs/2606.06467)|
 |**2026-06-04**|**Latent Reasoning with Normalizing Flows**|Guancheng Tu et.al.|[2606.06447](http://arxiv.org/abs/2606.06447)|
@@ -302,7 +303,6 @@ _Updated on 2026.06.28_
 |**2026-02-12**|**GORGO: Maximizing KV-Cache Reuse While Minimizing Network Latency in Cross-Region LLM Load Balancing**|Alessio Ricci Toniolo et.al.|[2602.11688](http://arxiv.org/abs/2602.11688)|
 |**2026-02-12**|**PAM: Processing Across Memory Hierarchy for Efficient KV-centric LLM Serving System**|Lian Liu et.al.|[2602.11521](http://arxiv.org/abs/2602.11521)|
 |**2026-02-10**|**LLM Serving Optimization with Variable Prefill and Decode Lengths**|Meixuan Wang et.al.|[2508.06133](http://arxiv.org/abs/2508.06133)|
-|**2026-02-10**|**Learning to Evict from Key-Value Cache**|Luca Moschella et.al.|[2602.10238](http://arxiv.org/abs/2602.10238)|
 |**2026-02-09**|**Fast KVzip: Efficient and Accurate LLM Inference with Gated KV Eviction**|Jang-Hyun Kim et.al.|[2601.17668_(FAST)](http://arxiv.org/abs/2601.17668)|
 |**2026-02-09**|**Near-Oracle KV Selection via Pre-hoc Sparsity for Long-Context Inference**|Yifei Gao et.al.|[2602.08329](http://arxiv.org/abs/2602.08329)|
 |**2026-02-09**|**Selective KV-Cache Sharing to Mitigate Timing Side-Channels in LLM Inference**|Kexin Chu et.al.|[2508.08438](http://arxiv.org/abs/2508.08438)|

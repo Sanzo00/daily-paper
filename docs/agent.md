@@ -6,10 +6,11 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.06.28_
+_Updated on 2026.06.29_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-06-26**|**Learning to Evict from Key-Value Cache**|Luca Moschella et.al.|[2602.10238_(ICML)](http://arxiv.org/abs/2602.10238)|
 |**2026-06-24**|**Model-Native Computing Architecture: Envisioning Future System Architecture Through the Lens of Computer Architecture**|Hai Lin et.al.|[2606.00288](http://arxiv.org/abs/2606.00288)|
 |**2026-06-23**|**SplitZip: Ultra Fast Lossless KV Compression for Disaggregated LLM Serving**|Yipin Guo et.al.|[2605.01708](http://arxiv.org/abs/2605.01708)|
 |**2026-06-23**|**ASAP: Agent-System Co-Design for Wall-Clock-Centered Auto HPO Research for ML Experiments**|Taicheng Guo et.al.|[2606.25207](http://arxiv.org/abs/2606.25207)|
@@ -264,7 +265,6 @@ _Updated on 2026.06.28_
 |**2026-02-12**|**PrefillShare: A Shared Prefill Module for KV Reuse in Multi-LLM Disaggregated Serving**|Sunghyeon Woo et.al.|[2602.12029](http://arxiv.org/abs/2602.12029)|
 |**2026-02-12**|**Deep Kernel Fusion for Transformers**|Zixi Zhang et.al.|[2602.11808](http://arxiv.org/abs/2602.11808)|
 |**2026-02-12**|**IMAGAgent: Orchestrating Multi-Turn Image Editing via Constraint-Aware Planning and Reflection**|Fei Shen et.al.|[2603.29602](http://arxiv.org/abs/2603.29602)|
-|**2026-02-10**|**Learning to Evict from Key-Value Cache**|Luca Moschella et.al.|[2602.10238](http://arxiv.org/abs/2602.10238)|
 |**2026-02-10**|**ATPO: Adaptive Tree Policy Optimization for Multi-Turn Medical Dialogue**|Ruike Cao et.al.|[2603.02216_(ICLR)](http://arxiv.org/abs/2603.02216)|
 |**2026-02-09**|**Dr. MAS: Stable Reinforcement Learning for Multi-Agent LLM Systems**|Lang Feng et.al.|[2602.08847](http://arxiv.org/abs/2602.08847)|
 |**2026-02-08**|**DeltaKV: Residual-Based KV Cache Compression via Long-Range Similarity**|Jitai Hao et.al.|[2602.08005](http://arxiv.org/abs/2602.08005)|
