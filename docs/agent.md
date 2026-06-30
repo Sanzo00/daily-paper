@@ -6,10 +6,16 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.06.29_
+_Updated on 2026.06.30_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-06-29**|**TraceLab: Characterizing Coding Agent Workloads for LLM Serving**|Kan Zhu et.al.|[2606.30560](http://arxiv.org/abs/2606.30560)|
+|**2026-06-29**|**AI Training Manager: Bounded Closed-Loop Control of Adaptive Training Recipes**|Anjali Rao et.al.|[2606.29871](http://arxiv.org/abs/2606.29871)|
+|**2026-06-29**|**Efficient-VLN: A Simple yet Strong Baseline for Efficient Vision-Language Navigation**|Duo Zheng et.al.|[2512.10310](http://arxiv.org/abs/2512.10310)|
+|**2026-06-28**|**FCDC: Nonvolatile Charge-Domain Attention with HZO Ferroelectric Capacitors**|Fares Abouagor et.al.|[2605.28208](http://arxiv.org/abs/2605.28208)|
+|**2026-06-28**|**KernelFlume: Elastic Core-Attention Scaling for Agentic Long-Context Decoding**|Guangyu Xiang et.al.|[2606.29207](http://arxiv.org/abs/2606.29207)|
+|**2026-06-27**|**When Latent Agents Lie: KV-Cache Integrity in Multi-Agent LLM Collaboration**|Luís Brito et.al.|[2606.28958](http://arxiv.org/abs/2606.28958)|
 |**2026-06-26**|**Learning to Evict from Key-Value Cache**|Luca Moschella et.al.|[2602.10238_(ICML)](http://arxiv.org/abs/2602.10238)|
 |**2026-06-24**|**Model-Native Computing Architecture: Envisioning Future System Architecture Through the Lens of Computer Architecture**|Hai Lin et.al.|[2606.00288](http://arxiv.org/abs/2606.00288)|
 |**2026-06-23**|**SplitZip: Ultra Fast Lossless KV Compression for Disaggregated LLM Serving**|Yipin Guo et.al.|[2605.01708](http://arxiv.org/abs/2605.01708)|
@@ -94,7 +100,6 @@ _Updated on 2026.06.29_
 |**2026-05-28**|**Formalizing Mathematics at Scale**|Ahmad Rammal et.al.|[2605.29955](http://arxiv.org/abs/2605.29955)|
 |**2026-05-28**|**Harmonizing Real-Time Constraints and Long-Horizon Reasoning: An Asynchronous Agentic Framework for Dynamic Scheduling**|Shijie Cao et.al.|[2605.29262](http://arxiv.org/abs/2605.29262)|
 |**2026-05-27**|**How Far Can Disaggregation Go? A Design-Space Exploration of Attention-FFN Disaggregation for Efficient MoE LLM Serving**|Hanjiang Wu et.al.|[2605.28302](http://arxiv.org/abs/2605.28302)|
-|**2026-05-27**|**Nonvolatile Charge-Domain Attention with HZO Ferroelectric Capacitors: A Simulation-Based Device-to-System Evaluation**|Faris Abouagour et.al.|[2605.28208](http://arxiv.org/abs/2605.28208)|
 |**2026-05-27**|**Democratizing Large-Scale Re-Optimization with LLM-Guided Model Patches**|Tinghan Ye et.al.|[2605.18692](http://arxiv.org/abs/2605.18692)|
 |**2026-05-27**|**Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players**|Fangfu Liu et.al.|[2605.28816](http://arxiv.org/abs/2605.28816)|
 |**2026-05-26**|**A Policy-Driven Runtime Layer for Agentic LLM Serving**|Rui Zhang et.al.|[2605.27744](http://arxiv.org/abs/2605.27744)|

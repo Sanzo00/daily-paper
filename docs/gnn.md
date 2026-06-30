@@ -6,7 +6,7 @@ nav_order: 3
 
 # GNN Papers
 
-_Updated on 2026.06.29_
+_Updated on 2026.06.30_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|

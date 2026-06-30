@@ -6,10 +6,14 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.06.29_
+_Updated on 2026.06.30_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-06-29**|**TraceLab: Characterizing Coding Agent Workloads for LLM Serving**|Kan Zhu et.al.|[2606.30560](http://arxiv.org/abs/2606.30560)|
+|**2026-06-28**|**Coverage-Driven KV Cache Eviction for Efficient and Improved Inference of LLM**|Shuvendu Roy et.al.|[2606.29563](http://arxiv.org/abs/2606.29563)|
+|**2026-06-28**|**KernelFlume: Elastic Core-Attention Scaling for Agentic Long-Context Decoding**|Guangyu Xiang et.al.|[2606.29207](http://arxiv.org/abs/2606.29207)|
+|**2026-06-27**|**HARD-KV: Head-Adaptive Regularization for Decoding-time KV Compression**|Yuxuan Yang et.al.|[2606.28831_(ICML)](http://arxiv.org/abs/2606.28831)|
 |**2026-06-26**|**Learning to Evict from Key-Value Cache**|Luca Moschella et.al.|[2602.10238_(ICML)](http://arxiv.org/abs/2602.10238)|
 |**2026-06-26**|**RedKnot: Efficient Long-Context LLM Serving with Head-Aware KV Reuse and SegPagedAttention**|Yang Liu et.al.|[2606.06256](http://arxiv.org/abs/2606.06256)|
 |**2026-06-26**|**CrossPool: Efficient Multi-LLM Serving for Cold MoE Models through KV-Cache and Weight Disaggregation**|Zhuoren Ye et.al.|[2606.24506](http://arxiv.org/abs/2606.24506)|
@@ -47,6 +51,7 @@ _Updated on 2026.06.29_
 |**2026-06-15**|**KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing**|Mufei Li et.al.|[2606.17034_(ICML)](http://arxiv.org/abs/2606.17034)|
 |**2026-06-13**|**Coordinated Scheduling for MoE LLM Serving**|Yifan Sun et.al.|[2606.15177](http://arxiv.org/abs/2606.15177)|
 |**2026-06-13**|**CogGuard: Cognitive and Operational Profiling for Proactive Warning in Edge Intelligent Services**|Zhi Yao et.al.|[2606.15199](http://arxiv.org/abs/2606.15199)|
+|**2026-06-13**|**ConCise: Training-Free Conclusion-Chain State Compression for Cost-Efficient Multi-Step RAG Services**|Kuan Yan et.al.|[2606.28361](http://arxiv.org/abs/2606.28361)|
 |**2026-06-12**|**MiniMax Sparse Attention**|Xunhao Lai et.al.|[2606.13392](http://arxiv.org/abs/2606.13392)|
 |**2026-06-12**|**Towards Direct Latent-Space Synthesis for Parallel Branches in LLM-Agent Workflows**|Shikun Liu et.al.|[2606.14672](http://arxiv.org/abs/2606.14672)|
 |**2026-06-12**|**Decoupled Mixture-of-Experts for Parametric Knowledge Injection**|Baoqing Yue et.al.|[2606.14243](http://arxiv.org/abs/2606.14243)|
