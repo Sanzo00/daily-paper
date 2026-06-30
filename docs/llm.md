@@ -11,6 +11,10 @@ _Updated on 2026.06.30_
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
 |**2026-06-29**|**TraceLab: Characterizing Coding Agent Workloads for LLM Serving**|Kan Zhu et.al.|[2606.30560](http://arxiv.org/abs/2606.30560)|
+|**2026-06-29**|**HBM Is Not All You Need: Efficient Disaggregated LLM Serving across Memory-heterogeneous Accelerators**|Zhixiang Wei et.al.|[2606.29986](http://arxiv.org/abs/2606.29986)|
+|**2026-06-29**|**Demystifying the Design Space and Best Practices for Heterogeneous LLM Inference and Serving**|Zhixin Wang et.al.|[2606.29708](http://arxiv.org/abs/2606.29708)|
+|**2026-06-28**|**LLM Serving Optimization with Variable Prefill and Decode Lengths**|Meixuan Wang et.al.|[2508.06133](http://arxiv.org/abs/2508.06133)|
+|**2026-06-28**|**FCDC: Nonvolatile Charge-Domain Attention with HZO Ferroelectric Capacitors**|Fares Abouagor et.al.|[2605.28208](http://arxiv.org/abs/2605.28208)|
 |**2026-06-28**|**Coverage-Driven KV Cache Eviction for Efficient and Improved Inference of LLM**|Shuvendu Roy et.al.|[2606.29563](http://arxiv.org/abs/2606.29563)|
 |**2026-06-28**|**KernelFlume: Elastic Core-Attention Scaling for Agentic Long-Context Decoding**|Guangyu Xiang et.al.|[2606.29207](http://arxiv.org/abs/2606.29207)|
 |**2026-06-27**|**HARD-KV: Head-Adaptive Regularization for Decoding-time KV Compression**|Yuxuan Yang et.al.|[2606.28831_(ICML)](http://arxiv.org/abs/2606.28831)|
@@ -102,7 +106,6 @@ _Updated on 2026.06.30_
 |**2026-05-28**|**RTP-LLM: High-Performance Alibaba LLM Inference Engine**|Boyu Tan et.al.|[2605.29639](http://arxiv.org/abs/2605.29639)|
 |**2026-05-28**|**Moment-KV: Momentum-Based Decode-Time KV Cache Compression for Long Generation**|Soumyadeep Jana et.al.|[2605.29873](http://arxiv.org/abs/2605.29873)|
 |**2026-05-27**|**How Far Can Disaggregation Go? A Design-Space Exploration of Attention-FFN Disaggregation for Efficient MoE LLM Serving**|Hanjiang Wu et.al.|[2605.28302](http://arxiv.org/abs/2605.28302)|
-|**2026-05-27**|**Nonvolatile Charge-Domain Attention with HZO Ferroelectric Capacitors: A Simulation-Based Device-to-System Evaluation**|Faris Abouagour et.al.|[2605.28208](http://arxiv.org/abs/2605.28208)|
 |**2026-05-27**|**SiDP: Memory-Efficient Data Parallelism for Offline LLM Inference**|Alan Zhao et.al.|[2605.28095](http://arxiv.org/abs/2605.28095)|
 |**2026-05-27**|**CIVIC: End-to-End Sequence Compactness for Efficient Vision-Language Models**|Fengze Yang et.al.|[2605.28115](http://arxiv.org/abs/2605.28115)|
 |**2026-05-26**|**A Policy-Driven Runtime Layer for Agentic LLM Serving**|Rui Zhang et.al.|[2605.27744](http://arxiv.org/abs/2605.27744)|
@@ -307,7 +310,6 @@ _Updated on 2026.06.30_
 |**2026-02-12**|**PrefillShare: A Shared Prefill Module for KV Reuse in Multi-LLM Disaggregated Serving**|Sunghyeon Woo et.al.|[2602.12029](http://arxiv.org/abs/2602.12029)|
 |**2026-02-12**|**GORGO: Maximizing KV-Cache Reuse While Minimizing Network Latency in Cross-Region LLM Load Balancing**|Alessio Ricci Toniolo et.al.|[2602.11688](http://arxiv.org/abs/2602.11688)|
 |**2026-02-12**|**PAM: Processing Across Memory Hierarchy for Efficient KV-centric LLM Serving System**|Lian Liu et.al.|[2602.11521](http://arxiv.org/abs/2602.11521)|
-|**2026-02-10**|**LLM Serving Optimization with Variable Prefill and Decode Lengths**|Meixuan Wang et.al.|[2508.06133](http://arxiv.org/abs/2508.06133)|
 |**2026-02-09**|**Fast KVzip: Efficient and Accurate LLM Inference with Gated KV Eviction**|Jang-Hyun Kim et.al.|[2601.17668_(FAST)](http://arxiv.org/abs/2601.17668)|
 |**2026-02-09**|**Near-Oracle KV Selection via Pre-hoc Sparsity for Long-Context Inference**|Yifei Gao et.al.|[2602.08329](http://arxiv.org/abs/2602.08329)|
 |**2026-02-09**|**Selective KV-Cache Sharing to Mitigate Timing Side-Channels in LLM Inference**|Kexin Chu et.al.|[2508.08438](http://arxiv.org/abs/2508.08438)|
