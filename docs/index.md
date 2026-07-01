@@ -6,7 +6,7 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.06.30_
+_Updated on 2026.07.01_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
