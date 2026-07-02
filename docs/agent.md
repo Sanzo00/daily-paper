@@ -6,13 +6,16 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.07.01_
+_Updated on 2026.07.02_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-07-01**|**When Less Latent Leads to Better Relay: Information-Preserving Compression for Latent Multi-Agent LLM Collaboration**|Yiping Li et.al.|[2604.13349](http://arxiv.org/abs/2604.13349)|
+|**2026-07-01**|**Vehicle Routing Problem Meets Large Language Models: An Overview and Perspectives**|Xianchao Xiu et.al.|[2607.00604](http://arxiv.org/abs/2607.00604)|
 |**2026-06-30**|**ThunderAgent: A Simple, Fast and Program-Aware Agentic Inference System**|Hao Kang et.al.|[2602.13692](http://arxiv.org/abs/2602.13692)|
 |**2026-06-30**|**TraceLab: Characterizing Coding Agent Workloads for LLM Serving**|Kan Zhu et.al.|[2606.30560](http://arxiv.org/abs/2606.30560)|
 |**2026-06-30**|**Plan Right, Then Plan Tight: Symbolic RL for Efficient Embodied Reasoning**|Xiangli Shi et.al.|[2606.31260](http://arxiv.org/abs/2606.31260)|
+|**2026-06-30**|**SmoothAgent: Efficient Long-Horizon LLM-Based Agent Serving with Lookahead Context Engineering**|Zaifeng Pan et.al.|[2607.00151](http://arxiv.org/abs/2607.00151)|
 |**2026-06-29**|**AI Training Manager: Bounded Closed-Loop Control of Adaptive Training Recipes**|Anjali Rao et.al.|[2606.29871](http://arxiv.org/abs/2606.29871)|
 |**2026-06-29**|**Efficient-VLN: A Simple yet Strong Baseline for Efficient Vision-Language Navigation**|Duo Zheng et.al.|[2512.10310](http://arxiv.org/abs/2512.10310)|
 |**2026-06-29**|**Understanding and Evaluating Claw-like Agent Security Through a Computer-Systems Lens**|Peizhi Niu et.al.|[2606.30755](http://arxiv.org/abs/2606.30755)|
@@ -20,6 +23,7 @@ _Updated on 2026.07.01_
 |**2026-06-28**|**KernelFlume: Elastic Core-Attention Scaling for Agentic Long-Context Decoding**|Guangyu Xiang et.al.|[2606.29207](http://arxiv.org/abs/2606.29207)|
 |**2026-06-27**|**When Latent Agents Lie: KV-Cache Integrity in Multi-Agent LLM Collaboration**|Luís Brito et.al.|[2606.28958](http://arxiv.org/abs/2606.28958)|
 |**2026-06-26**|**Learning to Evict from Key-Value Cache**|Luca Moschella et.al.|[2602.10238_(ICML)](http://arxiv.org/abs/2602.10238)|
+|**2026-06-25**|**Making Failure Safe: A Constrained, Verifiable Agent Framework for Open-Web Data Collection**|Bo Chen et.al.|[2607.00035](http://arxiv.org/abs/2607.00035)|
 |**2026-06-24**|**Model-Native Computing Architecture: Envisioning Future System Architecture Through the Lens of Computer Architecture**|Hai Lin et.al.|[2606.00288](http://arxiv.org/abs/2606.00288)|
 |**2026-06-23**|**SplitZip: Ultra Fast Lossless KV Compression for Disaggregated LLM Serving**|Yipin Guo et.al.|[2605.01708](http://arxiv.org/abs/2605.01708)|
 |**2026-06-23**|**ASAP: Agent-System Co-Design for Wall-Clock-Centered Auto HPO Research for ML Experiments**|Taicheng Guo et.al.|[2606.25207](http://arxiv.org/abs/2606.25207)|
@@ -188,7 +192,6 @@ _Updated on 2026.07.01_
 |**2026-04-16**|**Scepsy: Serving Agentic Workflows Using Aggregate LLM Pipelines**|Marcel Wagenländer et.al.|[2604.15186](http://arxiv.org/abs/2604.15186)|
 |**2026-04-16**|**ARGUS: Agentic GPU Optimization Guided by Data-Flow Invariants**|Haohui Mai et.al.|[2604.18616](http://arxiv.org/abs/2604.18616)|
 |**2026-04-15**|**AgentOpt v0.1 Technical Report: Client-Side Optimization for LLM-Based Agent**|Wenyue Hua et.al.|[2604.06296](http://arxiv.org/abs/2604.06296)|
-|**2026-04-14**|**When Less Latent Leads to Better Relay: Information-Preserving Compression for Latent Multi-Agent LLM Collaboration**|Yiping Li et.al.|[2604.13349](http://arxiv.org/abs/2604.13349)|
 |**2026-04-13**|**FlashMem: Distilling Intrinsic Latent Memory via Computation Reuse**|Yubo Hou et.al.|[2601.05505](http://arxiv.org/abs/2601.05505)|
 |**2026-04-13**|**MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens**|Yu Chen et.al.|[2603.23516](http://arxiv.org/abs/2603.23516)|
 |**2026-04-13**|**From Agent Loops to Structured Graphs:A Scheduler-Theoretic Framework for LLM Agent Execution**|Hu Wei et.al.|[2604.11378](http://arxiv.org/abs/2604.11378)|
