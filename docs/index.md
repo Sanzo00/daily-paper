@@ -10,6 +10,9 @@ _Updated on 2026.07.02_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-07-01**|**ClinRAG-GRAPH: Clinical-prior Retrieval-Augmented Graph Model with Domain Adversarial Learning for Breast pCR Prediction**|Yaofei Duan et.al.|[2607.00798](http://arxiv.org/abs/2607.00798)|
+|**2026-07-01**|**When RAG Meets Query Planning: Logical Query Trees for Resolving Exploratory Reasoning Problems**|Ganlin Xu et.al.|[2607.00508_(SIGMOD)](http://arxiv.org/abs/2607.00508)|
+|**2026-06-30**|**AGE: Adaptive-masking for Graph Embedding in Graph Retrieval-Augmented Generation**|Bao Long Nguyen Huu et.al.|[2607.00052](http://arxiv.org/abs/2607.00052)|
 |**2026-06-29**|**Efficient Retrieval-Augmented Generation via Token Co-occurrence Graphs**|Gianluca Bonifazi et.al.|[2606.30093](http://arxiv.org/abs/2606.30093)|
 |**2026-06-29**|**Mandol: An Agglomerative Agent Memory System for Long-Term Conversations**|Yuhan Zhang et.al.|[2606.29778](http://arxiv.org/abs/2606.29778)|
 |**2026-06-27**|**Evidence Graph Consistency in Retrieval-Augmented Generation: A Model-Dependent Analysis of Hallucination Detection**|Jianru Shen et.al.|[2606.06748_(CHI)](http://arxiv.org/abs/2606.06748)|

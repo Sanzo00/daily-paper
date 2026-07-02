@@ -10,6 +10,11 @@ _Updated on 2026.07.02_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-07-01**|**When Less Latent Leads to Better Relay: Information-Preserving Compression for Latent Multi-Agent LLM Collaboration**|Yiping Li et.al.|[2604.13349](http://arxiv.org/abs/2604.13349)|
+|**2026-07-01**|**PersistentKV: Page-Aware Decode Scheduling for Long-Context LLM Serving on Commodity GPUs**|Muhammad Ahmed et.al.|[2606.26666](http://arxiv.org/abs/2606.26666)|
+|**2026-07-01**|**MosaicKV: Serving Long-Context LLM with Dynamic Two-D KV Cache Compression**|Sheng Qiang et.al.|[2607.00760](http://arxiv.org/abs/2607.00760)|
+|**2026-07-01**|**ELDR: Expert-Locality-Aware Decode Routing for PD-Disaggregated MoE Serving**|Sangjin Choi et.al.|[2607.00466](http://arxiv.org/abs/2607.00466)|
+|**2026-07-01**|**Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillation**|Shayan Talaei et.al.|[2607.01208_(ICML)](http://arxiv.org/abs/2607.01208)|
 |**2026-06-30**|**GORGO: Online Tuning for Cross-Region Network-Aware LLM Serving**|Alessio Ricci Toniolo et.al.|[2602.11688](http://arxiv.org/abs/2602.11688)|
 |**2026-06-30**|**ThunderAgent: A Simple, Fast and Program-Aware Agentic Inference System**|Hao Kang et.al.|[2602.13692](http://arxiv.org/abs/2602.13692)|
 |**2026-06-30**|**KV-RM: Regularizing KV-Cache Movement for Static-Graph LLM Serving**|Zhiqing Zhong et.al.|[2605.09735](http://arxiv.org/abs/2605.09735)|
@@ -18,6 +23,7 @@ _Updated on 2026.07.02_
 |**2026-06-30**|**RaBitQCache: Rotated Binary Quantization for KVCache in Long Context LLM Inference**|Wenhao Li et.al.|[2606.31519_(ICML)](http://arxiv.org/abs/2606.31519)|
 |**2026-06-30**|**SeKV: Resolution-Adaptive KV Cache with Hierarchical Semantic Memory for Long-Context LLM Inference**|Amirhossein Abaskohi et.al.|[2606.31145](http://arxiv.org/abs/2606.31145)|
 |**2026-06-30**|**Omni-Flow: A Unified Workflow Orchestration and Distributed KV Cache Sharing Framework for Multimodal Inference**|Bin Xiao et.al.|[2606.31093](http://arxiv.org/abs/2606.31093)|
+|**2026-06-30**|**SmoothAgent: Efficient Long-Horizon LLM-Based Agent Serving with Lookahead Context Engineering**|Zaifeng Pan et.al.|[2607.00151](http://arxiv.org/abs/2607.00151)|
 |**2026-06-29**|**HBM Is Not All You Need: Efficient Disaggregated LLM Serving across Memory-heterogeneous Accelerators**|Zhixiang Wei et.al.|[2606.29986](http://arxiv.org/abs/2606.29986)|
 |**2026-06-29**|**Preserving Speech-to-Text LLM Capabilities in Speech-to-Speech Generation**|Yuxuan Hu et.al.|[2606.30944](http://arxiv.org/abs/2606.30944)|
 |**2026-06-28**|**LLM Serving Optimization with Variable Prefill and Decode Lengths**|Meixuan Wang et.al.|[2508.06133](http://arxiv.org/abs/2508.06133)|
@@ -28,7 +34,6 @@ _Updated on 2026.07.02_
 |**2026-06-26**|**Learning to Evict from Key-Value Cache**|Luca Moschella et.al.|[2602.10238_(ICML)](http://arxiv.org/abs/2602.10238)|
 |**2026-06-26**|**RedKnot: Efficient Long-Context LLM Serving with Head-Aware KV Reuse and SegPagedAttention**|Yang Liu et.al.|[2606.06256](http://arxiv.org/abs/2606.06256)|
 |**2026-06-26**|**CrossPool: Efficient Multi-LLM Serving for Cold MoE Models through KV-Cache and Weight Disaggregation**|Zhuoren Ye et.al.|[2606.24506](http://arxiv.org/abs/2606.24506)|
-|**2026-06-25**|**PersistentKV: Page-Aware Decode Scheduling for Long-Context LLM Serving on Commodity GPUs**|Muhammad Ahmed et.al.|[2606.26666](http://arxiv.org/abs/2606.26666)|
 |**2026-06-25**|**Moebius: Serving Mixture-of-Expert Models with Seamless Runtime Parallelism Switch**|Shaoyu Wang et.al.|[2606.26607](http://arxiv.org/abs/2606.26607)|
 |**2026-06-25**|**Information-Aware KV Cache Compression for Long Reasoning**|Jushi Kai et.al.|[2606.26875](http://arxiv.org/abs/2606.26875)|
 |**2026-06-24**|**Streaming-dLLM: Accelerating Diffusion LLMs via Suffix Pruning and Dynamic Decoding**|Zhongyu Xiao et.al.|[2601.17917](http://arxiv.org/abs/2601.17917)|
@@ -233,7 +238,6 @@ _Updated on 2026.07.02_
 |**2026-04-14**|**Beyond Accuracy: Unveiling Inefficiency Patterns in Tool-Integrated Reasoning**|Qisheng Su et.al.|[2604.05404_(ACL)](http://arxiv.org/abs/2604.05404)|
 |**2026-04-14**|**Token-Budget-Aware Pool Routing for Cost-Efficient LLM Inference**|Huamin Chen et.al.|[2604.09613](http://arxiv.org/abs/2604.09613)|
 |**2026-04-14**|**PipeLive: Efficient Live In-place Pipeline Parallelism Reconfiguration for Dynamic LLM Serving**|Xu Bai et.al.|[2604.12171](http://arxiv.org/abs/2604.12171)|
-|**2026-04-14**|**When Less Latent Leads to Better Relay: Information-Preserving Compression for Latent Multi-Agent LLM Collaboration**|Yiping Li et.al.|[2604.13349](http://arxiv.org/abs/2604.13349)|
 |**2026-04-13**|**MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens**|Yu Chen et.al.|[2603.23516](http://arxiv.org/abs/2603.23516)|
 |**2026-04-13**|**Flow-Controlled Scheduling for LLM Inference with Provable Stability Guarantees**|Zhuolun Dong et.al.|[2604.11001](http://arxiv.org/abs/2604.11001)|
 |**2026-04-13**|**ZoomR: Memory Efficient Reasoning through Multi-Granularity Key Value Retrieval**|David H. Yang et.al.|[2604.10898](http://arxiv.org/abs/2604.10898)|
