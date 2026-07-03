@@ -6,12 +6,14 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.07.02_
+_Updated on 2026.07.03_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-07-02**|**BLAgent: Agentic RAG for File-Level Bug Localization**|Md Afif Al Mamun et.al.|[2605.17965](http://arxiv.org/abs/2605.17965)|
+|**2026-07-02**|**When RAG Meets Query Planning: Logical Query Trees for Resolving Exploratory Reasoning Problems**|Ganlin Xu et.al.|[2607.00508_(SIGMOD)](http://arxiv.org/abs/2607.00508)|
 |**2026-07-01**|**ClinRAG-GRAPH: Clinical-prior Retrieval-Augmented Graph Model with Domain Adversarial Learning for Breast pCR Prediction**|Yaofei Duan et.al.|[2607.00798](http://arxiv.org/abs/2607.00798)|
-|**2026-07-01**|**When RAG Meets Query Planning: Logical Query Trees for Resolving Exploratory Reasoning Problems**|Ganlin Xu et.al.|[2607.00508_(SIGMOD)](http://arxiv.org/abs/2607.00508)|
+|**2026-07-01**|**HYPIC: Accelerating Hybrid-Attention LLM Serving with Position-Independent Caching**|Yifei Liu et.al.|[2607.01299](http://arxiv.org/abs/2607.01299)|
 |**2026-06-30**|**AGE: Adaptive-masking for Graph Embedding in Graph Retrieval-Augmented Generation**|Bao Long Nguyen Huu et.al.|[2607.00052](http://arxiv.org/abs/2607.00052)|
 |**2026-06-29**|**Efficient Retrieval-Augmented Generation via Token Co-occurrence Graphs**|Gianluca Bonifazi et.al.|[2606.30093](http://arxiv.org/abs/2606.30093)|
 |**2026-06-29**|**Mandol: An Agglomerative Agent Memory System for Long-Term Conversations**|Yuhan Zhang et.al.|[2606.29778](http://arxiv.org/abs/2606.29778)|
@@ -80,7 +82,6 @@ _Updated on 2026.07.02_
 |**2026-05-19**|**Toward Robust GraphRAG: Mitigating Retrieval Drift and Hallucination from Imperfect Knowledge Graphs**|Yizhuo Ma et.al.|[2603.14828](http://arxiv.org/abs/2603.14828)|
 |**2026-05-19**|**ContextRAG: Extraction-Free Hierarchical Graph Construction for Retrieval-Augmented Generation**|Roman Prosvirnin et.al.|[2605.19735](http://arxiv.org/abs/2605.19735)|
 |**2026-05-19**|**Can Large Language Models Revolutionize Survey Research? Experiments with Disaster Preparedness Responses**|Yan Wang et.al.|[2605.19229](http://arxiv.org/abs/2605.19229)|
-|**2026-05-18**|**BLAgent: Agentic RAG for File-Level Bug Localization**|Md Afif Al Mamun et.al.|[2605.17965](http://arxiv.org/abs/2605.17965)|
 |**2026-05-16**|**Navigating the Emotion Tree: Hierarchical Hyperbolic RAG for Multimodal Emotion Recognition**|Zeheng Wang et.al.|[2605.18884](http://arxiv.org/abs/2605.18884)|
 |**2026-05-15**|**Falkor-IRAC: Graph-Constrained Generation for Verified Legal Reasoning in Indian Judicial AI**|Joy Bose et.al.|[2605.14665](http://arxiv.org/abs/2605.14665)|
 |**2026-05-13**|**GAAMA: Graph Augmented Associative Memory for Agents**|Swarna Kamal Paul et.al.|[2603.27910](http://arxiv.org/abs/2603.27910)|
