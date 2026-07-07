@@ -6,10 +6,17 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.07.06_
+_Updated on 2026.07.07_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-07-06**|**Toward Trustworthy Large Language Model Agents in Healthcare**|Hadi Hasan et.al.|[2607.05055](http://arxiv.org/abs/2607.05055)|
+|**2026-07-06**|**Multi-Turn On-Policy Distillation with Prefix Replay**|Baohao Liao et.al.|[2607.04763](http://arxiv.org/abs/2607.04763)|
+|**2026-07-06**|**LLMs for Agentic Home Energy Management**|Sokipriala Jonah et.al.|[2607.04569](http://arxiv.org/abs/2607.04569)|
+|**2026-07-05**|**Kwai Summary Attention Technical Report**|Chenglong Chu et.al.|[2604.24432_(DATE)](http://arxiv.org/abs/2604.24432)|
+|**2026-07-05**|**Auto: The AGI Compiler**|Jaber Jaber et.al.|[2607.04542](http://arxiv.org/abs/2607.04542)|
+|**2026-07-05**|**Regime-Conditional Stabilisation of LLM-Augmented Cooperative Multi-Agent Reinforcement Learning**|Faid Keddouri et.al.|[2607.04470](http://arxiv.org/abs/2607.04470)|
+|**2026-07-05**|**Agentic-V2X: Small Language Model Agents for Deadline-Aware V2X Scheduling in 5G/6G Networks**|Gerasimos Papanikolaou-Ntais et.al.|[2607.04290](http://arxiv.org/abs/2607.04290)|
 |**2026-07-02**|**FCDC: Nonvolatile Charge-Domain Attention with HZO Ferroelectric Capacitors**|Fares Abouagor et.al.|[2605.28208](http://arxiv.org/abs/2605.28208)|
 |**2026-07-02**|**Lynx: Progressive Speculative Quantization for accelerating KV Transfer in Long-Context Inference**|Wenchen Han et.al.|[2607.01831_(SC)](http://arxiv.org/abs/2607.01831)|
 |**2026-07-01**|**When Less Latent Leads to Better Relay: Information-Preserving Compression for Latent Multi-Agent LLM Collaboration**|Yiping Li et.al.|[2604.13349](http://arxiv.org/abs/2604.13349)|
@@ -175,7 +182,6 @@ _Updated on 2026.07.06_
 |**2026-04-28**|**Inferix: A Block-Diffusion based Next-Generation Inference Engine for World Simulation**| Inferix Team et.al.|[2511.20714](http://arxiv.org/abs/2511.20714)|
 |**2026-04-28**|**AOI: Context-Aware Multi-Agent Operations via Dynamic Scheduling and Hierarchical Memory Compression**|Zishan Bai et.al.|[2512.13956](http://arxiv.org/abs/2512.13956)|
 |**2026-04-28**|**CacheFlow: Efficient LLM Serving with 3D-Parallel KV Cache Restoration**|Sean Nian et.al.|[2604.25080](http://arxiv.org/abs/2604.25080)|
-|**2026-04-27**|**Kwai Summary Attention Technical Report**|Chenglong Chu et.al.|[2604.24432](http://arxiv.org/abs/2604.24432)|
 |**2026-04-27**|**PolyKV: A Shared Asymmetrically-Compressed KV Cache Pool for Multi-Agent LLM Inference**|Ishan Patel et.al.|[2604.24971](http://arxiv.org/abs/2604.24971)|
 |**2026-04-27**|**Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate**|John Seon Keun Yi et.al.|[2604.24881_(ACL)](http://arxiv.org/abs/2604.24881)|
 |**2026-04-26**|**JigsawRL: Assembling RL Pipelines for Efficient LLM Post-Training**|Zhengding Hu et.al.|[2604.23838](http://arxiv.org/abs/2604.23838)|

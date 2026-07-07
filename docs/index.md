@@ -6,10 +6,15 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.07.06_
+_Updated on 2026.07.07_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-07-06**|**MIRAGE: Defending Long-Form RAG Against Misinformation Pollution**|Saadeldine Eletter et.al.|[2607.05069_(ACL)](http://arxiv.org/abs/2607.05069)|
+|**2026-07-05**|**MemTrace: Tracing and Attributing Errors in Large Language Model Memory Systems**|Xinle Deng et.al.|[2605.28732](http://arxiv.org/abs/2605.28732)|
+|**2026-07-05**|**Memory-Orchestrated Semantic System (MOSS): An Auditable Agentic Memory Architecture**|Serge Lacasse et.al.|[2607.04391](http://arxiv.org/abs/2607.04391)|
+|**2026-07-03**|**TRIAGE: Trustworthy Retrieval Instrumentation And Graph Evaluation**|Axel TahmasebiMoradi et.al.|[2607.03447](http://arxiv.org/abs/2607.03447)|
+|**2026-07-03**|**Agentic and Generative AI for Open-Source Intelligence and Cyber Investigations: Taxonomy, Evaluation, Challenges, and Future Directions**|Eduardo Almeida Palmieri et.al.|[2607.03233](http://arxiv.org/abs/2607.03233)|
 |**2026-07-02**|**BLAgent: Agentic RAG for File-Level Bug Localization**|Md Afif Al Mamun et.al.|[2605.17965](http://arxiv.org/abs/2605.17965)|
 |**2026-07-02**|**When RAG Meets Query Planning: Logical Query Trees for Resolving Exploratory Reasoning Problems**|Ganlin Xu et.al.|[2607.00508_(SIGMOD)](http://arxiv.org/abs/2607.00508)|
 |**2026-07-01**|**ClinRAG-GRAPH: Clinical-prior Retrieval-Augmented Graph Model with Domain Adversarial Learning for Breast pCR Prediction**|Yaofei Duan et.al.|[2607.00798](http://arxiv.org/abs/2607.00798)|
@@ -66,7 +71,6 @@ _Updated on 2026.07.06_
 |**2026-05-28**|**Enhancing LLM Medical Coding with Structured External Knowledge**|Yidong Gan et.al.|[2605.27377](http://arxiv.org/abs/2605.27377)|
 |**2026-05-27**|**Nonvolatile Charge-Domain Attention with HZO Ferroelectric Capacitors: A Simulation-Based Device-to-System Evaluation**|Faris Abouagour et.al.|[2605.28208](http://arxiv.org/abs/2605.28208)|
 |**2026-05-27**|**Better Later Than Sooner: Neuro-Symbolic Knowledge Graph Construction via Ontology-grounded Post-extraction Correction**|Lorenzo Loconte et.al.|[2605.29168](http://arxiv.org/abs/2605.29168)|
-|**2026-05-27**|**MemTrace: Tracing and Attributing Errors in Large Language Model Memory Systems**|Xinle Deng et.al.|[2605.28732](http://arxiv.org/abs/2605.28732)|
 |**2026-05-27**|**GraphSteal: Structural Knowledge Stealing from Graph RAG via Traversal Reconstruction**|Jinze Gu et.al.|[2605.28645](http://arxiv.org/abs/2605.28645)|
 |**2026-05-27**|**LegalGraphRAG: Multi-Agent Graph Retrieval-Augmented Generation for Reliable Legal Reasoning**|Zerui Chen et.al.|[2605.28120_(ACL)](http://arxiv.org/abs/2605.28120)|
 |**2026-05-26**|**OMD-GraphRAG: Enhancing GraphRAG with Ontology-Guided Extraction, Multi-Dimensional Clustering and Dual-Channel Fusion**|Jie Wang et.al.|[2603.25152](http://arxiv.org/abs/2603.25152)|

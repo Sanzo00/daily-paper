@@ -6,10 +6,11 @@ nav_order: 3
 
 # GNN Papers
 
-_Updated on 2026.07.06_
+_Updated on 2026.07.07_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-07-06**|**FAST: A Holistic Framework for Optimizing Memory-I/O, Computation, and Sampling in Temporal GNN Training**|Yushu Cai et.al.|[2607.05095](http://arxiv.org/abs/2607.05095)|
 |**2026-06-30**|**Towards a Joint Task-Oriented and Generative Semantic Communication Framework for 6G Networks**|Soheyb Ribouh et.al.|[2606.31426](http://arxiv.org/abs/2606.31426)|
 |**2026-06-24**|**Latency-Aware Service Placement using Neural Combinatorial Optimisers for Edge--Cloud Systems**|Kimia Abedpour et.al.|[2606.25553](http://arxiv.org/abs/2606.25553)|
 |**2026-06-08**|**Embedded Graph Convolutional Networks for Real-Time Event Data Processing on SoC FPGAs**|Kamil Jeziorek et.al.|[2406.07318](http://arxiv.org/abs/2406.07318)|
