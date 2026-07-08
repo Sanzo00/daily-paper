@@ -6,13 +6,15 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.07.07_
+_Updated on 2026.07.08_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-07-07**|**Think Before You Grid-Search: Floor-First Triage for LLM Serving**|Yihua Liu et.al.|[2607.05876](http://arxiv.org/abs/2607.05876)|
 |**2026-07-06**|**Toward Trustworthy Large Language Model Agents in Healthcare**|Hadi Hasan et.al.|[2607.05055](http://arxiv.org/abs/2607.05055)|
 |**2026-07-06**|**Multi-Turn On-Policy Distillation with Prefix Replay**|Baohao Liao et.al.|[2607.04763](http://arxiv.org/abs/2607.04763)|
 |**2026-07-06**|**LLMs for Agentic Home Energy Management**|Sokipriala Jonah et.al.|[2607.04569](http://arxiv.org/abs/2607.04569)|
+|**2026-07-06**|**TypeGo: An OS Runtime for Embodied Agents**|Guojun Chen et.al.|[2607.05482](http://arxiv.org/abs/2607.05482)|
 |**2026-07-05**|**Kwai Summary Attention Technical Report**|Chenglong Chu et.al.|[2604.24432_(DATE)](http://arxiv.org/abs/2604.24432)|
 |**2026-07-05**|**Auto: The AGI Compiler**|Jaber Jaber et.al.|[2607.04542](http://arxiv.org/abs/2607.04542)|
 |**2026-07-05**|**Regime-Conditional Stabilisation of LLM-Augmented Cooperative Multi-Agent Reinforcement Learning**|Faid Keddouri et.al.|[2607.04470](http://arxiv.org/abs/2607.04470)|
