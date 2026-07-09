@@ -6,11 +6,11 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.07.08_
+_Updated on 2026.07.09_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
-|**2026-07-07**|**Think Before You Grid-Search: Floor-First Triage for LLM Serving**|Yihua Liu et.al.|[2607.05876](http://arxiv.org/abs/2607.05876)|
+|**2026-07-08**|**Think Before You Grid-Search: Floor-First Triage for LLM Serving**|Yihua Liu et.al.|[2607.05876](http://arxiv.org/abs/2607.05876)|
 |**2026-07-06**|**Toward Trustworthy Large Language Model Agents in Healthcare**|Hadi Hasan et.al.|[2607.05055](http://arxiv.org/abs/2607.05055)|
 |**2026-07-06**|**Multi-Turn On-Policy Distillation with Prefix Replay**|Baohao Liao et.al.|[2607.04763](http://arxiv.org/abs/2607.04763)|
 |**2026-07-06**|**LLMs for Agentic Home Energy Management**|Sokipriala Jonah et.al.|[2607.04569](http://arxiv.org/abs/2607.04569)|

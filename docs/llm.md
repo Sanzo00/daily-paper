@@ -6,11 +6,13 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.07.08_
+_Updated on 2026.07.09_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
-|**2026-07-07**|**Think Before You Grid-Search: Floor-First Triage for LLM Serving**|Yihua Liu et.al.|[2607.05876](http://arxiv.org/abs/2607.05876)|
+|**2026-07-08**|**Think Before You Grid-Search: Floor-First Triage for LLM Serving**|Yihua Liu et.al.|[2607.05876](http://arxiv.org/abs/2607.05876)|
+|**2026-07-08**|**Fractal KV-Cache Archives: Lossless Symbolic Storage with In-Place Retrieval for Long-Context LLM Inference**|Vladimir Gusev et.al.|[2607.07144](http://arxiv.org/abs/2607.07144)|
+|**2026-07-08**|**Edge-Inference Governors Need Memory-Clock State**|Jaehoon Kang et.al.|[2606.16106](http://arxiv.org/abs/2606.16106)|
 |**2026-07-07**|**FreqDepthKV: Frequency-Guided Depth Sharing for Robust KV Cache Compression in Long-Context LLM Inference**|Anna Córdoba et.al.|[2607.06519](http://arxiv.org/abs/2607.06519)|
 |**2026-07-06**|**Learning When to Attend: Conditional Memory Access for Long-Context LLMs**|Sakshi Choudhary et.al.|[2603.17484_(ICML)](http://arxiv.org/abs/2603.17484)|
 |**2026-07-06**|**When Words Predict Workload**|Anubhab Banerjee et.al.|[2607.04951_(ISS)](http://arxiv.org/abs/2607.04951)|
