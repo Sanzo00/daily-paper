@@ -6,13 +6,15 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.07.09_
+_Updated on 2026.07.10_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-07-09**|**PolyUQuest: Verifiable Structure-Aware Web RAG over Heterogeneous Graphs**|Ying Liu et.al.|[2607.08269](http://arxiv.org/abs/2607.08269)|
 |**2026-07-06**|**MIRAGE: Defending Long-Form RAG Against Misinformation Pollution**|Saadeldine Eletter et.al.|[2607.05069_(ACL)](http://arxiv.org/abs/2607.05069)|
 |**2026-07-05**|**MemTrace: Tracing and Attributing Errors in Large Language Model Memory Systems**|Xinle Deng et.al.|[2605.28732](http://arxiv.org/abs/2605.28732)|
 |**2026-07-05**|**Memory-Orchestrated Semantic System (MOSS): An Auditable Agentic Memory Architecture**|Serge Lacasse et.al.|[2607.04391](http://arxiv.org/abs/2607.04391)|
+|**2026-07-04**|**Context Graphs for Proactive Enterprise Agents**|Avinash Kumar et.al.|[2607.07721](http://arxiv.org/abs/2607.07721)|
 |**2026-07-03**|**TRIAGE: Trustworthy Retrieval Instrumentation And Graph Evaluation**|Axel TahmasebiMoradi et.al.|[2607.03447](http://arxiv.org/abs/2607.03447)|
 |**2026-07-03**|**Agentic and Generative AI for Open-Source Intelligence and Cyber Investigations: Taxonomy, Evaluation, Challenges, and Future Directions**|Eduardo Almeida Palmieri et.al.|[2607.03233](http://arxiv.org/abs/2607.03233)|
 |**2026-07-02**|**BLAgent: Agentic RAG for File-Level Bug Localization**|Md Afif Al Mamun et.al.|[2605.17965](http://arxiv.org/abs/2605.17965)|

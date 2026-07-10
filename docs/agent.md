@@ -6,10 +6,14 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.07.09_
+_Updated on 2026.07.10_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-07-09**|**StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling**|Meng Wei et.al.|[2507.05240_(ICRA)](http://arxiv.org/abs/2507.05240)|
+|**2026-07-09**|**SMetric: Rethink LLM Scheduling for Serving Agents with Balanced Session-centric Scheduling**|Jiahao Wang et.al.|[2607.08565](http://arxiv.org/abs/2607.08565)|
+|**2026-07-09**|**What to Keep, What to Forget: A Rate--Distortion View of Memory Compaction in LLMs and Agents**|Ashwin Gerard Colaco et.al.|[2607.08032](http://arxiv.org/abs/2607.08032)|
+|**2026-07-09**|**MORES: Mobile Reasoning-as-a-Service via Distributed LLM Inference-Time Scaling**|Guanchen Liu et.al.|[2607.08116](http://arxiv.org/abs/2607.08116)|
 |**2026-07-08**|**Think Before You Grid-Search: Floor-First Triage for LLM Serving**|Yihua Liu et.al.|[2607.05876](http://arxiv.org/abs/2607.05876)|
 |**2026-07-06**|**Toward Trustworthy Large Language Model Agents in Healthcare**|Hadi Hasan et.al.|[2607.05055](http://arxiv.org/abs/2607.05055)|
 |**2026-07-06**|**Multi-Turn On-Policy Distillation with Prefix Replay**|Baohao Liao et.al.|[2607.04763](http://arxiv.org/abs/2607.04763)|
@@ -406,7 +410,6 @@ _Updated on 2026.07.09_
 |**2025-07-14**|**DroidSpeak: KV Cache Sharing for Cross-LLM Communication and Multi-LLM Serving**|Yuhan Liu et.al.|[2411.02820](http://arxiv.org/abs/2411.02820)|
 |**2025-07-10**|**KVFlow: Efficient Prefix Caching for Accelerating LLM-Based Multi-Agent Workflows**|Zaifeng Pan et.al.|[2507.07400](http://arxiv.org/abs/2507.07400)|
 |**2025-07-09**|**Gradientsys: A Multi-Agent LLM Scheduler with ReAct Orchestration**|Xinyuan Song et.al.|[2507.06520](http://arxiv.org/abs/2507.06520)|
-|**2025-07-07**|**StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling**|Meng Wei et.al.|[2507.05240](http://arxiv.org/abs/2507.05240)|
 |**2025-06-28**|**FairMarket-RL: LLM-Guided Fairness Shaping for Multi-Agent Reinforcement Learning in Peer-to-Peer Markets**|Shrenik Jadhav et.al.|[2506.22708](http://arxiv.org/abs/2506.22708)|
 |**2025-06-26**|**CitySim: Modeling Urban Behaviors and City Dynamics with Large-Scale LLM-Driven Agent Simulation**|Nicolas Bougie et.al.|[2506.21805](http://arxiv.org/abs/2506.21805)|
 |**2025-06-26**|**MobiVerse: Scaling Urban Mobility Simulation with Hybrid Lightweight Domain-Specific Generator and Large Language Models**|Yifan Liu et.al.|[2506.21784](http://arxiv.org/abs/2506.21784)|
