@@ -6,10 +6,20 @@ nav_order: 5
 
 # Memory Papers
 
-_Updated on 2026.07.12_
+_Updated on 2026.07.13_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-07-10**|**ECHO: Prune To Act, Trace To Learn With Selective Turn Memory In Agentic RL**|Zijun Xie et.al.|[2606.31650](http://arxiv.org/abs/2606.31650)|
+|**2026-07-10**|**Mosaic: Runtime-Efficient Multi-Agent Embodied Planning**|Kunjal Panchal et.al.|[2607.09603_(ICML)](http://arxiv.org/abs/2607.09603)|
+|**2026-07-10**|**SAGEAgent: A Self-Evolving Agent for Cost-Aware Modality Acquisition in Multimodal Survival Prediction**|Chongyu Qu et.al.|[2607.09521](http://arxiv.org/abs/2607.09521)|
+|**2026-07-10**|**Shared Selective Persistent Memory for Agentic LLM Systems**|Sanjana Pedada et.al.|[2607.09493](http://arxiv.org/abs/2607.09493)|
+|**2026-07-10**|**LongMedBench: Benchmarking Medical Agents for Long-Horizon Clinical Decision-Making**|Yanzhen Chen et.al.|[2607.09322_(ICC)](http://arxiv.org/abs/2607.09322)|
+|**2026-07-10**|**Super-Tuning: From Activation-Aware Pruning to Sparse Fine-Tuning**|Ivan Ilin et.al.|[2607.09287](http://arxiv.org/abs/2607.09287)|
+|**2026-07-10**|**General Non-Clairvoyant KV-Cache Scheduling via Regime-Aware Routing**|Yiding Feng et.al.|[2607.09248](http://arxiv.org/abs/2607.09248)|
+|**2026-07-10**|**KV-PRM: Efficient Process Reward Modeling via KV-Cache Transfer for Multi-Agent Test-Time Scaling**|Peng Kuang et.al.|[2607.09153](http://arxiv.org/abs/2607.09153)|
+|**2026-07-10**|**STEEL: Sparsity-Aware Fused Attention for Energy-Efficient Long-Sequence Inference on AMD's XDNA NPU**|Victor J. B. Jung et.al.|[2607.09385](http://arxiv.org/abs/2607.09385)|
+|**2026-07-10**|**Memory-Managed Long-Context Attention: Bounded Editable Memory with a Hard Lifecycle and Calibrated Sparse Fallback**|Junyi Zou et.al.|[2606.28876_(DIS)](http://arxiv.org/abs/2606.28876)|
 |**2026-07-09**|**Deployment-Time Memorization in Foundation-Model Agents**| Lei et.al.|[2606.10062_(ICML)](http://arxiv.org/abs/2606.10062)|
 |**2026-07-09**|**ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation**|Pengcheng Huang et.al.|[2502.15543](http://arxiv.org/abs/2502.15543)|
 |**2026-07-09**|**ContextSniper: AntTrail's Token-Efficient Code Memory for Repository-Level Program Repair**|Chiwang Luk et.al.|[2607.01916](http://arxiv.org/abs/2607.01916)|
@@ -30,6 +40,8 @@ _Updated on 2026.07.12_
 |**2026-07-09**|**Cognitive-structured Multimodal Agent for Multimodal Understanding, Generation, and Editing**|Feng Wang et.al.|[2607.08497](http://arxiv.org/abs/2607.08497)|
 |**2026-07-09**|**ADORN: Adaptive Drift handling for Open RAN using Reinforcement Learning**|Ashit Kumar Subudhi et.al.|[2607.08443](http://arxiv.org/abs/2607.08443)|
 |**2026-07-09**|**AutoPersonas: A Multi-Timescale Loop Engine for Open-Ended Persona Evolution**|Mengchen Li et.al.|[2607.08252](http://arxiv.org/abs/2607.08252)|
+|**2026-07-09**|**StreamDQ: Near-Memory Weight DeQuantization in Custom HBM for Scalable AI Inference Acceleration**|Minki Jeong et.al.|[2607.08993](http://arxiv.org/abs/2607.08993)|
+|**2026-07-09**|**Eluna: An Agentic LLM System for Automating Warehouse Operations with Reasoning and Task Execution**|Ning Liu et.al.|[2607.08960](http://arxiv.org/abs/2607.08960)|
 |**2026-07-08**|**Structured Belief State and the First Precision-Aware Benchmark for LLM Memory Retrieval**|Jeffrey Flynt et.al.|[2605.11325](http://arxiv.org/abs/2605.11325)|
 |**2026-07-08**|**Edge-Inference Governors Need Memory-Clock State**|Jaehoon Kang et.al.|[2606.16106](http://arxiv.org/abs/2606.16106)|
 |**2026-07-08**|**A-TMA: Decoupling State-Aware Memory Failures in Long-Term Agent Memory**|Zitong Shi et.al.|[2607.01935](http://arxiv.org/abs/2607.01935)|
@@ -173,7 +185,6 @@ _Updated on 2026.07.12_
 |**2026-06-30**|**OpenLife: Toward Open-World Artificial Life with Autonomous LLM Agents**|Atsushi Masumori et.al.|[2606.31046](http://arxiv.org/abs/2606.31046)|
 |**2026-06-30**|**Teaching LLMs to Recommend and Defer in Underrepresented Epilepsy Care**|Shreyas Rajesh et.al.|[2606.31036](http://arxiv.org/abs/2606.31036)|
 |**2026-06-30**|**Resolving Asynchronous Distributed Knowledge**|Philippe Balbiani et.al.|[2606.31855](http://arxiv.org/abs/2606.31855)|
-|**2026-06-30**|**ECHO: Prune to act, trace to learn with selective turn memory in agentic RL**|Zijun Xie et.al.|[2606.31650](http://arxiv.org/abs/2606.31650)|
 |**2026-06-30**|**Think in English, Answer in Korean: Efficient Adaptation of Multilingual Tool-Using Agents**|Utsav Garg et.al.|[2606.31648](http://arxiv.org/abs/2606.31648)|
 |**2026-06-30**|**DataEvolver: Self-Evolving Multi-Agent Data Construction for Text-Rich Image Generation**|Siyu Yan et.al.|[2606.31537](http://arxiv.org/abs/2606.31537)|
 |**2026-06-30**|**MIRTH: Mutual-Information Reasoning with Temporal Hubs for Vision-Language-Action Agents**|Hao Sun et.al.|[2606.31167_(ACL)](http://arxiv.org/abs/2606.31167)|
@@ -491,6 +502,7 @@ _Updated on 2026.07.12_
 |**2026-06-13**|**LLM: LSTM Look-Ahead Moving Target Defense Based on Historical Malicious Scan**|Yu Li et.al.|[2606.15229](http://arxiv.org/abs/2606.15229)|
 |**2026-06-13**|**Keep It in Mind: User Centric Continual Spatial Intelligence Reasoning in Egocentric Video Streams**|Yun Wang et.al.|[2606.15200_(ICML)](http://arxiv.org/abs/2606.15200)|
 |**2026-06-13**|**Quantum learning with a single-atom sensor**|Yin Mo et.al.|[2606.15071](http://arxiv.org/abs/2606.15071)|
+|**2026-06-13**|**Accelerating GPU Inference of Large Language Models with Moderately Unstructured Sparse Weight Matrices**|Tao Lu et.al.|[2607.08786_(DAC)](http://arxiv.org/abs/2607.08786)|
 |**2026-06-12**|**VikingMem: A Memory Base Management System for Stateful LLM-based Applications**|Jiajie Fu et.al.|[2605.29640_(VLDB)](http://arxiv.org/abs/2605.29640)|
 |**2026-06-12**|**The Missing Knowledge Layer in Cognitive Architectures for AI Agents**|Michaël Roynard et.al.|[2604.11364](http://arxiv.org/abs/2604.11364)|
 |**2026-06-12**|**Making Locality-aware GEMM Compatible with Page-Granularity Placement on Chiplet GPUs**|Euijun Chung et.al.|[2606.11718](http://arxiv.org/abs/2606.11718)|

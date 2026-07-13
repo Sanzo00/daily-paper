@@ -6,10 +6,13 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.07.12_
+_Updated on 2026.07.13_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-07-10**|**KV-PRM: Efficient Process Reward Modeling via KV-Cache Transfer for Multi-Agent Test-Time Scaling**|Peng Kuang et.al.|[2607.09153](http://arxiv.org/abs/2607.09153)|
+|**2026-07-10**|**Fictional Worldbuilding: Multi-Agent LLM Collaboration with Hierarchical Context Compression and Iterative Review**|Jingbo Chen et.al.|[2607.09403](http://arxiv.org/abs/2607.09403)|
+|**2026-07-10**|**Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE**|Haozhan Tang et.al.|[2607.07740_(ACL)](http://arxiv.org/abs/2607.07740)|
 |**2026-07-09**|**StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling**|Meng Wei et.al.|[2507.05240_(ICRA)](http://arxiv.org/abs/2507.05240)|
 |**2026-07-09**|**SMetric: Rethink LLM Scheduling for Serving Agents with Balanced Session-centric Scheduling**|Jiahao Wang et.al.|[2607.08565](http://arxiv.org/abs/2607.08565)|
 |**2026-07-09**|**What to Keep, What to Forget: A Rate--Distortion View of Memory Compaction in LLMs and Agents**|Ashwin Gerard Colaco et.al.|[2607.08032](http://arxiv.org/abs/2607.08032)|

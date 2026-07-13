@@ -6,10 +6,13 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.07.12_
+_Updated on 2026.07.13_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-07-10**|**COBS: Cumulant Order Block Sparse Attention**|Alexander Tian et.al.|[2607.09052](http://arxiv.org/abs/2607.09052)|
+|**2026-07-10**|**General Non-Clairvoyant KV-Cache Scheduling via Regime-Aware Routing**|Yiding Feng et.al.|[2607.09248](http://arxiv.org/abs/2607.09248)|
+|**2026-07-09**|**The Serialized Bridge: Understanding and Recovering LLM Serving Performance under Blackwell GPU Confidential Computing**|Hang Yin et.al.|[2606.23969](http://arxiv.org/abs/2606.23969)|
 |**2026-07-09**|**SMetric: Rethink LLM Scheduling for Serving Agents with Balanced Session-centric Scheduling**|Jiahao Wang et.al.|[2607.08565](http://arxiv.org/abs/2607.08565)|
 |**2026-07-09**|**Towards Efficient Large Language Model Serving: A Survey on System-Aware KV Cache Optimization**|Jiantong Jiang et.al.|[2607.08057_(ACL)](http://arxiv.org/abs/2607.08057)|
 |**2026-07-09**|**What to Keep, What to Forget: A Rate--Distortion View of Memory Compaction in LLMs and Agents**|Ashwin Gerard Colaco et.al.|[2607.08032](http://arxiv.org/abs/2607.08032)|
@@ -68,7 +71,6 @@ _Updated on 2026.07.12_
 |**2026-06-23**|**ASAP: Agent-System Co-Design for Wall-Clock-Centered Auto HPO Research for ML Experiments**|Taicheng Guo et.al.|[2606.25207](http://arxiv.org/abs/2606.25207)|
 |**2026-06-22**|**Concordia: JIT-Compiled Persistent-Kernel Checkpointing for Fault-Tolerant LLM Inference**|Yuhang Gan et.al.|[2606.23521](http://arxiv.org/abs/2606.23521)|
 |**2026-06-22**|**LiveServe: Interaction-Aware Serving for Real-Time Omni-Modal LLMs**|Xiangyu Zhi et.al.|[2606.22983](http://arxiv.org/abs/2606.22983)|
-|**2026-06-22**|**The Serialized Bridge: Understanding and Recovering LLM Serving Performance under Blackwell GPU Confidential Computing**|Hang Yin et.al.|[2606.23969](http://arxiv.org/abs/2606.23969)|
 |**2026-06-22**|**Forget Without Compromise: Nexus Sampling for Streaming KV-Cache Eviction Under Fixed Budgets**|Duc Duong et.al.|[2606.23961](http://arxiv.org/abs/2606.23961)|
 |**2026-06-20**|**Agent-Assisted Side-Channel Attacks on Non-Prefix KV Cache in RAG**|He Sun et.al.|[2606.21842](http://arxiv.org/abs/2606.21842)|
 |**2026-06-19**|**SAGA: Workflow-Atomic Scheduling for AI Agent Inference on GPU Clusters**|Dongxin Guo et.al.|[2605.00528](http://arxiv.org/abs/2605.00528)|

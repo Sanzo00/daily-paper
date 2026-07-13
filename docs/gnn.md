@@ -6,10 +6,11 @@ nav_order: 3
 
 # GNN Papers
 
-_Updated on 2026.07.12_
+_Updated on 2026.07.13_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-07-10**|**RIS-Assisted Downlink Pinching-Antenna Systems: GNN-Enabled Optimization Approaches**|Changpeng He et.al.|[2511.20305](http://arxiv.org/abs/2511.20305)|
 |**2026-07-06**|**FAST: A Holistic Framework for Optimizing Memory-I/O, Computation, and Sampling in Temporal GNN Training**|Yushu Cai et.al.|[2607.05095](http://arxiv.org/abs/2607.05095)|
 |**2026-06-30**|**Towards a Joint Task-Oriented and Generative Semantic Communication Framework for 6G Networks**|Soheyb Ribouh et.al.|[2606.31426](http://arxiv.org/abs/2606.31426)|
 |**2026-06-24**|**Latency-Aware Service Placement using Neural Combinatorial Optimisers for Edge--Cloud Systems**|Kimia Abedpour et.al.|[2606.25553](http://arxiv.org/abs/2606.25553)|
@@ -47,7 +48,6 @@ _Updated on 2026.07.12_
 |**2025-12-11**|**Formula size game and model checking for modal substitution calculus**|Veeti Ahvonen et.al.|[2505.07966](http://arxiv.org/abs/2505.07966)|
 |**2025-12-05**|**GCoDE: Efficient Device-Edge Co-Inference for GNNs via Architecture-Mapping Co-Search**|Ao Zhou et.al.|[2512.11856](http://arxiv.org/abs/2512.11856)|
 |**2025-12-01**|**Domain-Decomposed Graph Neural Network Surrogate Modeling for Ice Sheets**|Adrienne M. Propp et.al.|[2512.01888](http://arxiv.org/abs/2512.01888)|
-|**2025-11-25**|**RIS-Assisted Downlink Pinching-Antenna Systems: GNN-Enabled Optimization Approaches**|Changpeng He et.al.|[2511.20305](http://arxiv.org/abs/2511.20305)|
 |**2025-10-16**|**Spatial Computing Communications for Multi-User Virtual Reality in Distributed Mobile Edge Computing Network**|Caolu Xu et.al.|[2510.14243](http://arxiv.org/abs/2510.14243)|
 |**2025-10-15**|**ACE-GNN: Adaptive GNN Co-Inference with System-Aware Scheduling in Dynamic Edge Environments**|Ao Zhou et.al.|[2511.11586](http://arxiv.org/abs/2511.11586)|
 |**2025-10-11**|**Learning Joint Embeddings of Function and Process Call Graphs for Malware Detection**|Kartikeya Aneja et.al.|[2510.09984](http://arxiv.org/abs/2510.09984)|

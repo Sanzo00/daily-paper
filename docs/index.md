@@ -6,10 +6,11 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.07.12_
+_Updated on 2026.07.13_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-07-10**|**AgentKGV: Agentic LLM-RAG Framework with Two-Stage Training for the Fact Verification of Knowledge Graphs**|Yumin Heo et.al.|[2607.09092](http://arxiv.org/abs/2607.09092)|
 |**2026-07-09**|**PolyUQuest: Verifiable Structure-Aware Web RAG over Heterogeneous Graphs**|Ying Liu et.al.|[2607.08269](http://arxiv.org/abs/2607.08269)|
 |**2026-07-06**|**MIRAGE: Defending Long-Form RAG Against Misinformation Pollution**|Saadeldine Eletter et.al.|[2607.05069_(ACL)](http://arxiv.org/abs/2607.05069)|
 |**2026-07-05**|**MemTrace: Tracing and Attributing Errors in Large Language Model Memory Systems**|Xinle Deng et.al.|[2605.28732](http://arxiv.org/abs/2605.28732)|
