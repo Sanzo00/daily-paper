@@ -6,10 +6,15 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.07.13_
+_Updated on 2026.07.14_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-07-13**|**[AAFLOW+] Stateful Operator Abstraction with Zero-Copy Distributed KV Cache Orchestration for Multi-Agent Workflows**|Arup Kumar Sarker et.al.|[2607.10987](http://arxiv.org/abs/2607.10987)|
+|**2026-07-13**|**FastTPS: An Optimized Method for LLM Token Phase for AI accelerators**|Wenzong Yang et.al.|[2607.11211](http://arxiv.org/abs/2607.11211)|
+|**2026-07-12**|**KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing**|Mufei Li et.al.|[2606.17034_(ICML)](http://arxiv.org/abs/2606.17034)|
+|**2026-07-12**|**HYPIC: Accelerating Hybrid-Attention LLM Serving with Position-Independent Caching**|Yifei Liu et.al.|[2607.01299](http://arxiv.org/abs/2607.01299)|
+|**2026-07-12**|**MemDecay: Region-Aware KV Cache Eviction for Efficient LLM Agent Inference**|Venkatesha Matam et.al.|[2607.10582](http://arxiv.org/abs/2607.10582)|
 |**2026-07-10**|**COBS: Cumulant Order Block Sparse Attention**|Alexander Tian et.al.|[2607.09052](http://arxiv.org/abs/2607.09052)|
 |**2026-07-10**|**General Non-Clairvoyant KV-Cache Scheduling via Regime-Aware Routing**|Yiding Feng et.al.|[2607.09248](http://arxiv.org/abs/2607.09248)|
 |**2026-07-09**|**The Serialized Bridge: Understanding and Recovering LLM Serving Performance under Blackwell GPU Confidential Computing**|Hang Yin et.al.|[2606.23969](http://arxiv.org/abs/2606.23969)|
@@ -40,7 +45,6 @@ _Updated on 2026.07.13_
 |**2026-07-01**|**PersistentKV: Page-Aware Decode Scheduling for Long-Context LLM Serving on Commodity GPUs**|Muhammad Ahmed et.al.|[2606.26666](http://arxiv.org/abs/2606.26666)|
 |**2026-07-01**|**MosaicKV: Serving Long-Context LLM with Dynamic Two-D KV Cache Compression**|Sheng Qiang et.al.|[2607.00760](http://arxiv.org/abs/2607.00760)|
 |**2026-07-01**|**Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillation**|Shayan Talaei et.al.|[2607.01208_(ICML)](http://arxiv.org/abs/2607.01208)|
-|**2026-07-01**|**HYPIC: Accelerating Hybrid-Attention LLM Serving with Position-Independent Caching**|Yifei Liu et.al.|[2607.01299](http://arxiv.org/abs/2607.01299)|
 |**2026-06-30**|**GORGO: Online Tuning for Cross-Region Network-Aware LLM Serving**|Alessio Ricci Toniolo et.al.|[2602.11688](http://arxiv.org/abs/2602.11688)|
 |**2026-06-30**|**ThunderAgent: A Simple, Fast and Program-Aware Agentic Inference System**|Hao Kang et.al.|[2602.13692](http://arxiv.org/abs/2602.13692)|
 |**2026-06-30**|**KV-RM: Regularizing KV-Cache Movement for Static-Graph LLM Serving**|Zhiqing Zhong et.al.|[2605.09735](http://arxiv.org/abs/2605.09735)|
@@ -89,7 +93,6 @@ _Updated on 2026.07.13_
 |**2026-06-15**|**MARS: Efficient, Adaptive Co-Scheduling for Heterogeneous Agentic Systems**|Yifei Wang et.al.|[2604.26963](http://arxiv.org/abs/2604.26963)|
 |**2026-06-15**|**Tangram: Unlocking Non-Uniform KV Cache Compression for Efficient Multi-turn LLM Serving**|Hyungmin Kim et.al.|[2606.06302](http://arxiv.org/abs/2606.06302)|
 |**2026-06-15**|**SwiftCache: Efficient LLM Serving for Multi-turn Conversations with Heterogeneous KV Cache Sharing**|Jianmin Hu et.al.|[2606.16135](http://arxiv.org/abs/2606.16135)|
-|**2026-06-15**|**KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing**|Mufei Li et.al.|[2606.17034_(ICML)](http://arxiv.org/abs/2606.17034)|
 |**2026-06-13**|**Coordinated Scheduling for MoE LLM Serving**|Yifan Sun et.al.|[2606.15177](http://arxiv.org/abs/2606.15177)|
 |**2026-06-13**|**CogGuard: Cognitive and Operational Profiling for Proactive Warning in Edge Intelligent Services**|Zhi Yao et.al.|[2606.15199](http://arxiv.org/abs/2606.15199)|
 |**2026-06-13**|**ConCise: Training-Free Conclusion-Chain State Compression for Cost-Efficient Multi-Step RAG Services**|Kuan Yan et.al.|[2606.28361](http://arxiv.org/abs/2606.28361)|
