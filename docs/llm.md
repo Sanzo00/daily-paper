@@ -6,10 +6,11 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.07.14_
+_Updated on 2026.07.15_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-07-14**|**A JoLT for the KV Cache: Near-Lossless KV Cache Compression via Joint Tucker and JL-Residual Allocation for LLMs**|Rahul Krishnan et.al.|[2607.12550](http://arxiv.org/abs/2607.12550)|
 |**2026-07-13**|**[AAFLOW+] Stateful Operator Abstraction with Zero-Copy Distributed KV Cache Orchestration for Multi-Agent Workflows**|Arup Kumar Sarker et.al.|[2607.10987](http://arxiv.org/abs/2607.10987)|
 |**2026-07-13**|**FastTPS: An Optimized Method for LLM Token Phase for AI accelerators**|Wenzong Yang et.al.|[2607.11211](http://arxiv.org/abs/2607.11211)|
 |**2026-07-12**|**KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing**|Mufei Li et.al.|[2606.17034_(ICML)](http://arxiv.org/abs/2606.17034)|

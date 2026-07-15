@@ -6,11 +6,13 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.07.14_
+_Updated on 2026.07.15_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-07-14**|**How to Realize Recursively Self-Improving Agents and Personal Singularity: A Goal-, Scope-, Tool-, and Benchmark-Driven Multi-Agent Architecture**|Chengshuai Yang et.al.|[2607.12254_(ADMA)](http://arxiv.org/abs/2607.12254)|
 |**2026-07-13**|**[AAFLOW+] Stateful Operator Abstraction with Zero-Copy Distributed KV Cache Orchestration for Multi-Agent Workflows**|Arup Kumar Sarker et.al.|[2607.10987](http://arxiv.org/abs/2607.10987)|
+|**2026-07-13**|**CityBehavEx: A Scalable and Empirically Validated LLM-Assisted Urban Simulation Platform**|Gustavo H. Santos et.al.|[2607.12086](http://arxiv.org/abs/2607.12086)|
 |**2026-07-12**|**HYPIC: Accelerating Hybrid-Attention LLM Serving with Position-Independent Caching**|Yifei Liu et.al.|[2607.01299](http://arxiv.org/abs/2607.01299)|
 |**2026-07-12**|**MemDecay: Region-Aware KV Cache Eviction for Efficient LLM Agent Inference**|Venkatesha Matam et.al.|[2607.10582](http://arxiv.org/abs/2607.10582)|
 |**2026-07-11**|**Confining Nondeterminism: AI-Driven Research Systems as DBMSs for Reliable, Non-Wasteful, Transparent, and Collaborative Research [Vision]**|Kyoungmin Kim et.al.|[2607.10508](http://arxiv.org/abs/2607.10508)|
