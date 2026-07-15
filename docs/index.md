@@ -13,6 +13,7 @@ _Updated on 2026.07.15_
 |**2026-07-13**|**FAIR GraphRAG: A Retrieval-Augmented Generation Approach for Semantic Data Analysis**|Marlena Flüh et.al.|[2607.11464](http://arxiv.org/abs/2607.11464)|
 |**2026-07-13**|**NGM-RAG: Neural Graph Matching based Retrieval-Augmented Generation**|Guo Chen et.al.|[2607.11159](http://arxiv.org/abs/2607.11159)|
 |**2026-07-13**|**A Multi-Agent Framework for Zero-Dimensional Reduced-Order Model Planning**|Bingteng Sun et.al.|[2607.10994](http://arxiv.org/abs/2607.10994)|
+|**2026-07-13**|**Cost-Governed RAG: Unified Per-Tenant Cost Attribution Across Retrieval and Generation in Multi-Tenant LLM Systems**|Navnit Shukla et.al.|[2607.12188](http://arxiv.org/abs/2607.12188)|
 |**2026-07-11**|**TGMS: An Agent-Native Bi-Temporal Graph Management System**|Xiaofei Zhang et.al.|[2607.10265](http://arxiv.org/abs/2607.10265)|
 |**2026-07-10**|**AgentKGV: Agentic LLM-RAG Framework with Two-Stage Training for the Fact Verification of Knowledge Graphs**|Yumin Heo et.al.|[2607.09092](http://arxiv.org/abs/2607.09092)|
 |**2026-07-09**|**PolyUQuest: Verifiable Structure-Aware Web RAG over Heterogeneous Graphs**|Ying Liu et.al.|[2607.08269](http://arxiv.org/abs/2607.08269)|
