@@ -6,10 +6,11 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.07.15_
+_Updated on 2026.07.16_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-07-15**|**Beyond tokens: a unified framework for latent communication in LLM-based multi-agent systems**|Yingzhuo Liu et.al.|[2606.05711](http://arxiv.org/abs/2606.05711)|
 |**2026-07-14**|**A JoLT for the KV Cache: Near-Lossless KV Cache Compression via Joint Tucker and JL-Residual Allocation for LLMs**|Rahul Krishnan et.al.|[2607.12550](http://arxiv.org/abs/2607.12550)|
 |**2026-07-13**|**[AAFLOW+] Stateful Operator Abstraction with Zero-Copy Distributed KV Cache Orchestration for Multi-Agent Workflows**|Arup Kumar Sarker et.al.|[2607.10987](http://arxiv.org/abs/2607.10987)|
 |**2026-07-13**|**FastTPS: An Optimized Method for LLM Token Phase for AI accelerators**|Wenzong Yang et.al.|[2607.11211](http://arxiv.org/abs/2607.11211)|
@@ -46,6 +47,7 @@ _Updated on 2026.07.15_
 |**2026-07-01**|**PersistentKV: Page-Aware Decode Scheduling for Long-Context LLM Serving on Commodity GPUs**|Muhammad Ahmed et.al.|[2606.26666](http://arxiv.org/abs/2606.26666)|
 |**2026-07-01**|**MosaicKV: Serving Long-Context LLM with Dynamic Two-D KV Cache Compression**|Sheng Qiang et.al.|[2607.00760](http://arxiv.org/abs/2607.00760)|
 |**2026-07-01**|**Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillation**|Shayan Talaei et.al.|[2607.01208_(ICML)](http://arxiv.org/abs/2607.01208)|
+|**2026-07-01**|**Precomputing the Future-Offset Average in TriAttention**|Amarnath Mukherjee et.al.|[2607.13051](http://arxiv.org/abs/2607.13051)|
 |**2026-06-30**|**GORGO: Online Tuning for Cross-Region Network-Aware LLM Serving**|Alessio Ricci Toniolo et.al.|[2602.11688](http://arxiv.org/abs/2602.11688)|
 |**2026-06-30**|**ThunderAgent: A Simple, Fast and Program-Aware Agentic Inference System**|Hao Kang et.al.|[2602.13692](http://arxiv.org/abs/2602.13692)|
 |**2026-06-30**|**KV-RM: Regularizing KV-Cache Movement for Static-Graph LLM Serving**|Zhiqing Zhong et.al.|[2605.09735](http://arxiv.org/abs/2605.09735)|
@@ -120,7 +122,6 @@ _Updated on 2026.07.15_
 |**2026-06-05**|**Semantic Cache Distillation: Efficient State Transfer via Reuse and Selective Patching**|Qianli Ma et.al.|[2606.07684_(ICML)](http://arxiv.org/abs/2606.07684)|
 |**2026-06-05**|**Clairvoyant: Predictive SJF Scheduling to Mitigate Head-of-Line Blocking in Serial LLM Backends**|Aravind Sundaresan et.al.|[2606.07248_(AVI)](http://arxiv.org/abs/2606.07248)|
 |**2026-06-05**|**WhiFlash: Accelerating Speculative Decoding with Token-Level Cross-Paradigm Routing**|Young D. Kwon et.al.|[2606.07710](http://arxiv.org/abs/2606.07710)|
-|**2026-06-05**|**Beyond tokens: a unified framework for latent communication in LLM-based multi-agent systems**|Yingzhuo Liu et.al.|[2606.05711](http://arxiv.org/abs/2606.05711)|
 |**2026-06-04**|**QCFuse: Query-Aware Cache Fusion via Compressed View for Efficient RAG Serving**|Jianxin Yan et.al.|[2606.05875](http://arxiv.org/abs/2606.05875)|
 |**2026-06-04**|**You Only Index Once: Cross-Layer Sparse Attention with Shared Routing**|Yutao Sun et.al.|[2606.06467](http://arxiv.org/abs/2606.06467)|
 |**2026-06-04**|**Latent Reasoning with Normalizing Flows**|Guancheng Tu et.al.|[2606.06447](http://arxiv.org/abs/2606.06447)|

@@ -6,10 +6,14 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.07.15_
+_Updated on 2026.07.16_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-07-15**|**Beyond tokens: a unified framework for latent communication in LLM-based multi-agent systems**|Yingzhuo Liu et.al.|[2606.05711](http://arxiv.org/abs/2606.05711)|
+|**2026-07-15**|**JW-ASTClaw: A Generalizable Multi-Agent Framework for Autonomous Solar Telescope and Its Implementation within Chinese Meridian Project**|Li-Yue Tong et.al.|[2607.13549](http://arxiv.org/abs/2607.13549)|
+|**2026-07-15**|**Scientific-Intention Driven Embodied Intelligent Solar Telescope: Conceptual Design**|Lin Jiaben et.al.|[2607.13533](http://arxiv.org/abs/2607.13533)|
+|**2026-07-15**|**Set-shifting Behavioral Test for Harnessed Agents**|Ziwei Ye et.al.|[2607.13396](http://arxiv.org/abs/2607.13396)|
 |**2026-07-14**|**How to Realize Recursively Self-Improving Agents and Personal Singularity: A Goal-, Scope-, Tool-, and Benchmark-Driven Multi-Agent Architecture**|Chengshuai Yang et.al.|[2607.12254_(ADMA)](http://arxiv.org/abs/2607.12254)|
 |**2026-07-13**|**[AAFLOW+] Stateful Operator Abstraction with Zero-Copy Distributed KV Cache Orchestration for Multi-Agent Workflows**|Arup Kumar Sarker et.al.|[2607.10987](http://arxiv.org/abs/2607.10987)|
 |**2026-07-13**|**CityBehavEx: A Scalable and Empirically Validated LLM-Assisted Urban Simulation Platform**|Gustavo H. Santos et.al.|[2607.12086](http://arxiv.org/abs/2607.12086)|
@@ -100,7 +104,6 @@ _Updated on 2026.07.15_
 |**2026-06-05**|**Simple is Better: Multiplication May Be All You Need for LLM Request Scheduling**|Dingyan Zhang et.al.|[2603.15202_(OSDI)](http://arxiv.org/abs/2603.15202)|
 |**2026-06-05**|**CalBench: Evaluating Coordination-Privacy Trade-offs in Multi-Agent LLMs**|Chelsea Zou et.al.|[2605.09823](http://arxiv.org/abs/2605.09823)|
 |**2026-06-05**|**WhiFlash: Accelerating Speculative Decoding with Token-Level Cross-Paradigm Routing**|Young D. Kwon et.al.|[2606.07710](http://arxiv.org/abs/2606.07710)|
-|**2026-06-05**|**Beyond tokens: a unified framework for latent communication in LLM-based multi-agent systems**|Yingzhuo Liu et.al.|[2606.05711](http://arxiv.org/abs/2606.05711)|
 |**2026-06-05**|**SCALE: Scalable Cross-Attention Learning with Extrapolation for Agentic Workflow Scheduling**|Zhifei Xu et.al.|[2606.06820](http://arxiv.org/abs/2606.06820)|
 |**2026-06-04**|**MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery**|Shangheng Du et.al.|[2606.06473](http://arxiv.org/abs/2606.06473)|
 |**2026-06-04**|**Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads**|Yasmine Omri et.al.|[2606.06448](http://arxiv.org/abs/2606.06448)|
