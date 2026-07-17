@@ -6,10 +6,12 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.07.16_
+_Updated on 2026.07.17_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-07-16**|**MemTrace: Tracing and Attributing Errors in Large Language Model Memory Systems**|Xinle Deng et.al.|[2605.28732](http://arxiv.org/abs/2605.28732)|
+|**2026-07-16**|**SmartRAG: Native Graph-Based RAG for Mobile Device**|Zhihan Jiang et.al.|[2607.14661](http://arxiv.org/abs/2607.14661)|
 |**2026-07-13**|**FAIR GraphRAG: A Retrieval-Augmented Generation Approach for Semantic Data Analysis**|Marlena Flüh et.al.|[2607.11464](http://arxiv.org/abs/2607.11464)|
 |**2026-07-13**|**NGM-RAG: Neural Graph Matching based Retrieval-Augmented Generation**|Guo Chen et.al.|[2607.11159](http://arxiv.org/abs/2607.11159)|
 |**2026-07-13**|**A Multi-Agent Framework for Zero-Dimensional Reduced-Order Model Planning**|Bingteng Sun et.al.|[2607.10994](http://arxiv.org/abs/2607.10994)|
@@ -18,7 +20,6 @@ _Updated on 2026.07.16_
 |**2026-07-10**|**AgentKGV: Agentic LLM-RAG Framework with Two-Stage Training for the Fact Verification of Knowledge Graphs**|Yumin Heo et.al.|[2607.09092](http://arxiv.org/abs/2607.09092)|
 |**2026-07-09**|**PolyUQuest: Verifiable Structure-Aware Web RAG over Heterogeneous Graphs**|Ying Liu et.al.|[2607.08269](http://arxiv.org/abs/2607.08269)|
 |**2026-07-06**|**MIRAGE: Defending Long-Form RAG Against Misinformation Pollution**|Saadeldine Eletter et.al.|[2607.05069_(ACL)](http://arxiv.org/abs/2607.05069)|
-|**2026-07-05**|**MemTrace: Tracing and Attributing Errors in Large Language Model Memory Systems**|Xinle Deng et.al.|[2605.28732](http://arxiv.org/abs/2605.28732)|
 |**2026-07-05**|**Memory-Orchestrated Semantic System (MOSS): An Auditable Agentic Memory Architecture**|Serge Lacasse et.al.|[2607.04391](http://arxiv.org/abs/2607.04391)|
 |**2026-07-04**|**Context Graphs for Proactive Enterprise Agents**|Avinash Kumar et.al.|[2607.07721](http://arxiv.org/abs/2607.07721)|
 |**2026-07-03**|**TRIAGE: Trustworthy Retrieval Instrumentation And Graph Evaluation**|Axel TahmasebiMoradi et.al.|[2607.03447](http://arxiv.org/abs/2607.03447)|
@@ -135,6 +136,7 @@ _Updated on 2026.07.16_
 |**2026-04-16**|**Enhancing Mental Health Counseling Support in Bangladesh using Culturally-Grounded Knowledge**|Md Arid Hasan et.al.|[2604.14576](http://arxiv.org/abs/2604.14576)|
 |**2026-04-16**|**UrbanClipAtlas: A Visual Analytics Framework for Event and Scene Retrieval in Urban Videos**|Joel Perca et.al.|[2604.15225](http://arxiv.org/abs/2604.15225)|
 |**2026-04-16**|**Ragged Paged Attention: A High-Performance and Flexible LLM Inference Kernel for TPU**|Jevin Jiang et.al.|[2604.15464](http://arxiv.org/abs/2604.15464)|
+|**2026-04-16**|**HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge Graphs**|Pranav Yadav et.al.|[2607.14095](http://arxiv.org/abs/2607.14095)|
 |**2026-04-15**|**Agentic GraphRAG: Navigating Unstructured Financial Data with Collaborative AI**|Arthur Capozzi et.al.|[2605.18770](http://arxiv.org/abs/2605.18770)|
 |**2026-04-14**|**Think Parallax: Solving Multi-Hop Problems via Multi-View Knowledge-Graph-Based Retrieval-Augmented Generation**|Jinliang Liu et.al.|[2510.15552](http://arxiv.org/abs/2510.15552)|
 |**2026-04-14**|**RAG or Learning? Understanding the Limits of LLM Adaptation under Continuous Knowledge Drift in the Real World**|Hanbing Liu et.al.|[2604.05096](http://arxiv.org/abs/2604.05096)|

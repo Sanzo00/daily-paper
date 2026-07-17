@@ -6,15 +6,17 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.07.16_
+_Updated on 2026.07.17_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-07-16**|**Multi-Turn On-Policy Distillation with Prefix Replay**|Baohao Liao et.al.|[2607.04763](http://arxiv.org/abs/2607.04763)|
+|**2026-07-16**|**Self-Aware Recursively Self-Improving Agents for Personal Singularity: A Goal-, Scope-, Tool-, and Benchmark-Driven Multi-Agent Architecture**|Chengshuai Yang et.al.|[2607.12254](http://arxiv.org/abs/2607.12254)|
 |**2026-07-15**|**Beyond tokens: a unified framework for latent communication in LLM-based multi-agent systems**|Yingzhuo Liu et.al.|[2606.05711](http://arxiv.org/abs/2606.05711)|
 |**2026-07-15**|**JW-ASTClaw: A Generalizable Multi-Agent Framework for Autonomous Solar Telescope and Its Implementation within Chinese Meridian Project**|Li-Yue Tong et.al.|[2607.13549](http://arxiv.org/abs/2607.13549)|
 |**2026-07-15**|**Scientific-Intention Driven Embodied Intelligent Solar Telescope: Conceptual Design**|Lin Jiaben et.al.|[2607.13533](http://arxiv.org/abs/2607.13533)|
 |**2026-07-15**|**Set-shifting Behavioral Test for Harnessed Agents**|Ziwei Ye et.al.|[2607.13396](http://arxiv.org/abs/2607.13396)|
-|**2026-07-14**|**How to Realize Recursively Self-Improving Agents and Personal Singularity: A Goal-, Scope-, Tool-, and Benchmark-Driven Multi-Agent Architecture**|Chengshuai Yang et.al.|[2607.12254_(ADMA)](http://arxiv.org/abs/2607.12254)|
+|**2026-07-15**|**Stop Means Stop: Measuring and Repairing the Enforcement Gap in Agent-Framework Control Primitives**|Sajjad Khan et.al.|[2607.14166](http://arxiv.org/abs/2607.14166)|
 |**2026-07-13**|**[AAFLOW+] Stateful Operator Abstraction with Zero-Copy Distributed KV Cache Orchestration for Multi-Agent Workflows**|Arup Kumar Sarker et.al.|[2607.10987](http://arxiv.org/abs/2607.10987)|
 |**2026-07-13**|**CityBehavEx: A Scalable and Empirically Validated LLM-Assisted Urban Simulation Platform**|Gustavo H. Santos et.al.|[2607.12086](http://arxiv.org/abs/2607.12086)|
 |**2026-07-12**|**HYPIC: Accelerating Hybrid-Attention LLM Serving with Position-Independent Caching**|Yifei Liu et.al.|[2607.01299](http://arxiv.org/abs/2607.01299)|
@@ -29,7 +31,6 @@ _Updated on 2026.07.16_
 |**2026-07-09**|**MORES: Mobile Reasoning-as-a-Service via Distributed LLM Inference-Time Scaling**|Guanchen Liu et.al.|[2607.08116](http://arxiv.org/abs/2607.08116)|
 |**2026-07-08**|**Think Before You Grid-Search: Floor-First Triage for LLM Serving**|Yihua Liu et.al.|[2607.05876](http://arxiv.org/abs/2607.05876)|
 |**2026-07-06**|**Toward Trustworthy Large Language Model Agents in Healthcare**|Hadi Hasan et.al.|[2607.05055](http://arxiv.org/abs/2607.05055)|
-|**2026-07-06**|**Multi-Turn On-Policy Distillation with Prefix Replay**|Baohao Liao et.al.|[2607.04763](http://arxiv.org/abs/2607.04763)|
 |**2026-07-06**|**LLMs for Agentic Home Energy Management**|Sokipriala Jonah et.al.|[2607.04569](http://arxiv.org/abs/2607.04569)|
 |**2026-07-06**|**TypeGo: An OS Runtime for Embodied Agents**|Guojun Chen et.al.|[2607.05482](http://arxiv.org/abs/2607.05482)|
 |**2026-07-05**|**Kwai Summary Attention Technical Report**|Chenglong Chu et.al.|[2604.24432_(DATE)](http://arxiv.org/abs/2604.24432)|
