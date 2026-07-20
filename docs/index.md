@@ -10,6 +10,7 @@ _Updated on 2026.07.20_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-07-17**|**Cache-Aware Prompt Compression:A Two-Tier Cost Model for LLM API Caching**|Yan Song et.al.|[2607.15516](http://arxiv.org/abs/2607.15516)|
 |**2026-07-16**|**MemTrace: Tracing and Attributing Errors in Large Language Model Memory Systems**|Xinle Deng et.al.|[2605.28732](http://arxiv.org/abs/2605.28732)|
 |**2026-07-16**|**SmartRAG: Native Graph-Based RAG for Mobile Device**|Zhihan Jiang et.al.|[2607.14661](http://arxiv.org/abs/2607.14661)|
 |**2026-07-13**|**FAIR GraphRAG: A Retrieval-Augmented Generation Approach for Semantic Data Analysis**|Marlena Flüh et.al.|[2607.11464](http://arxiv.org/abs/2607.11464)|
