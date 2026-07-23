@@ -10,6 +10,7 @@ _Updated on 2026.07.23_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-07-22**|**HijackKV: New Threat in Position-Independent KV Cache Reuse**|Yichi Zhang et.al.|[2607.19957_(USENIX Security)](http://arxiv.org/abs/2607.19957)|
 |**2026-07-20**|**FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention**|Yan Wang et.al.|[2606.09079](http://arxiv.org/abs/2606.09079)|
 |**2026-07-20**|**HyMCache: A KV Cache Framework for Multi-Turn LLM Serving with CXL-Hybrid Memory**|Hakbeom Jang et.al.|[2607.18141](http://arxiv.org/abs/2607.18141)|
 |**2026-07-20**|**C$^2$KV: Compressed and Composable KV Cache Reuse for Efficient LLM Inference**|Chuheng Du et.al.|[2607.17715_(KDD)](http://arxiv.org/abs/2607.17715)|

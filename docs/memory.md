@@ -14,6 +14,10 @@ _Updated on 2026.07.23_
 |**2026-07-22**|**PRO-LONG: Programmatic Memory Enables Long-Horizon Reasoning**|Alexis Fox et.al.|[2607.20064](http://arxiv.org/abs/2607.20064)|
 |**2026-07-22**|**Personalized Recommendation Tool Learning via Autonomous Language Agents**|Mingdai Yang et.al.|[2607.19739_(RecSys)](http://arxiv.org/abs/2607.19739)|
 |**2026-07-22**|**Coordinating from Memory: Graph-Structured Experience Reuse for Multi-Agent Adaptation in Dynamic Manufacturing**|Chengxiao Dai et.al.|[2607.19985](http://arxiv.org/abs/2607.19985)|
+|**2026-07-22**|**SLAI T-Rex: Full-Parameter Post-training of the DeepSeek-V4 Family on Ascend SuperPOD**|Dongfang Li et.al.|[2607.20145](http://arxiv.org/abs/2607.20145)|
+|**2026-07-22**|**Towards Reliable C-to-Rust Translation with Rule-Guided Reasoning and Reinforcement Learning**|Feng Luo et.al.|[2607.19966](http://arxiv.org/abs/2607.19966)|
+|**2026-07-22**|**Efficient Clustering with Provable Guardrails for LLM Inference at Scale**|Longshaokan Wang et.al.|[2607.19704_(CHI)](http://arxiv.org/abs/2607.19704)|
+|**2026-07-22**|**The World Model Remembers, the Actor Forgets: Dream Rehearsal for Continual Model-Based RL**|Gurp Nijjer et.al.|[2607.19749](http://arxiv.org/abs/2607.19749)|
 |**2026-07-21**|**Forensic Trajectory Signatures for Agent Memory Poisoning Detection**|Jun Wen Leong et.al.|[2606.30566](http://arxiv.org/abs/2606.30566)|
 |**2026-07-21**|**RetroAgent: Harnessing LLMs to Search Over Structured Memory for Agentic Retrosynthesis Planning**|Yanqiao Zhu et.al.|[2607.14512](http://arxiv.org/abs/2607.14512)|
 |**2026-07-21**|**Retain or Consolidate? Budget-Dependent Operator Selection for Language Agent Memory**|Qingcan Kang et.al.|[2607.17545](http://arxiv.org/abs/2607.17545)|
@@ -29,6 +33,8 @@ _Updated on 2026.07.23_
 |**2026-07-21**|**Falsifiable Release Gates for Self-Improving Systems: Standing Invariants at Scale**|Deepak Soni et.al.|[2607.13070_(CHI)](http://arxiv.org/abs/2607.13070)|
 |**2026-07-21**|**From Bit-Position Sensitivity to Unequal Error Protection for DNN Inference Memory**|Muhammad Husnain Mubarik et.al.|[2607.19623_(CHI)](http://arxiv.org/abs/2607.19623)|
 |**2026-07-21**|**BaseRT: Advancing Best-in-Class LLM Inference with Apple M5 Neural Accelerators**|Fabian Waschkowski et.al.|[2607.19438](http://arxiv.org/abs/2607.19438)|
+|**2026-07-21**|**Hybrid LLM-Guided Search for Quantum Reservoir Architecture Design**|Krishna Bhatia et.al.|[2607.19506](http://arxiv.org/abs/2607.19506)|
+|**2026-07-21**|**REGEN: Replay-recycling for Expert-to-Generalist distillation with Offline Reinforcement Learning**|Yunjie Chen et.al.|[2607.19450](http://arxiv.org/abs/2607.19450)|
 |**2026-07-20**|**FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention**|Yan Wang et.al.|[2606.09079](http://arxiv.org/abs/2606.09079)|
 |**2026-07-20**|**LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget**|Changhai Zhou et.al.|[2607.14952](http://arxiv.org/abs/2607.14952)|
 |**2026-07-20**|**HyMCache: A KV Cache Framework for Multi-Turn LLM Serving with CXL-Hybrid Memory**|Hakbeom Jang et.al.|[2607.18141](http://arxiv.org/abs/2607.18141)|
