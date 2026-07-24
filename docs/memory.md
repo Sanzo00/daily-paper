@@ -12,6 +12,7 @@ _Updated on 2026.07.24_
 |:-------------|:------|:--------|:----|
 |**2026-07-23**|**SafeHarbor: Defining Precise Decision Boundaries via Hierarchical Memory-Augmented Guardrail for LLM Agent Safety**|Zhe Liu et.al.|[2605.05704_(ICML)](http://arxiv.org/abs/2605.05704)|
 |**2026-07-23**|**HarnessX: A Composable, Adaptive, and Evolvable Agent Harness Foundry**|Tingyang Chen et.al.|[2606.14249](http://arxiv.org/abs/2606.14249)|
+|**2026-07-23**|**S-Agent: Spatial Tool-Use Elicits Reasoning for Spatial Intelligence**|Yalun Dai et.al.|[2606.20515](http://arxiv.org/abs/2606.20515)|
 |**2026-07-23**|**LLM Agents Are Latent Context Managers: Eliciting Self-Managed Context via State Proprioception**|Binyan Xu et.al.|[2606.30005](http://arxiv.org/abs/2606.30005)|
 |**2026-07-23**|**PRO-LONG: Programmatic Memory Enables Long-Horizon Reasoning**|Alexis Fox et.al.|[2607.20064](http://arxiv.org/abs/2607.20064)|
 |**2026-07-23**|**Agentic Context Management: Solving Agent Memory and Cost by Treating Them as Lifecycle and Architecture Problems**|Gaurav Dadhich et.al.|[2607.21503](http://arxiv.org/abs/2607.21503)|
@@ -26,6 +27,9 @@ _Updated on 2026.07.24_
 |**2026-07-23**|**Causal-AgentIR: Self-Evolving Causal Memory for Adaptive Image Restoration Agents**|Hu Gao et.al.|[2607.21125](http://arxiv.org/abs/2607.21125)|
 |**2026-07-23**|**Delivery, Not Storage: Cue-Anchored Working Memory as a Harness Property for Coding Agents**|Swapnanil Saha et.al.|[2607.20972](http://arxiv.org/abs/2607.20972)|
 |**2026-07-23**|**C-PTQ: Fisher-weighted Channel-wise Sensitivity for Post-training Quantization of MLLMs**|Jiameng Li et.al.|[2607.21076](http://arxiv.org/abs/2607.21076)|
+|**2026-07-23**|**Profiling Lightweight Large Language Models**|Tomohiro Harada et.al.|[2607.20806](http://arxiv.org/abs/2607.20806)|
+|**2026-07-23**|**Beyond Episodic Evaluation: Memory Architectural Bottlenecks in Sequential Embodied Question Answering**|Zikui Cai et.al.|[2607.21571_(IROS)](http://arxiv.org/abs/2607.21571)|
+|**2026-07-23**|**Workflow-Localized Mechanism Learning: Attribution-Guided Repair and Knowledge Reuse for Structured Agent Skills**|Zibin Lin et.al.|[2607.20999](http://arxiv.org/abs/2607.20999)|
 |**2026-07-22**|**Zero2Skill: Bootstrapping Robot Skills through Autonomous Data Collection, Training, and Deployment**|Boyuan Wang et.al.|[2607.14047](http://arxiv.org/abs/2607.14047)|
 |**2026-07-22**|**Personalized Recommendation Tool Learning via Autonomous Language Agents**|Mingdai Yang et.al.|[2607.19739_(RecSys)](http://arxiv.org/abs/2607.19739)|
 |**2026-07-22**|**Coordinating from Memory: Graph-Structured Experience Reuse for Multi-Agent Adaptation in Dynamic Manufacturing**|Chengxiao Dai et.al.|[2607.19985](http://arxiv.org/abs/2607.19985)|
@@ -189,6 +193,7 @@ _Updated on 2026.07.24_
 |**2026-07-13**|**SymbOmni: Evolving Agentic Omni Models via Symbolic Concept Learning**|Jinxiu Liu et.al.|[2607.12042_(ECCV)](http://arxiv.org/abs/2607.12042)|
 |**2026-07-13**|**SkillComm: Skill-Driven Semantic Communication for Sequential Workflows via Incremental Token Transmission**|Ziyang Meng et.al.|[2607.11972](http://arxiv.org/abs/2607.11972)|
 |**2026-07-13**|**Securing LLMs in the Wild: Privacy and Security Challenges at the Edge**|Ren-Yi Huang et.al.|[2607.13088](http://arxiv.org/abs/2607.13088)|
+|**2026-07-13**|**SOAP, Muon, and Beyond: Pushing LLM Pretraining Scales**|Mikail Khona et.al.|[2607.20548](http://arxiv.org/abs/2607.20548)|
 |**2026-07-12**|**Unlocking Parallelism in Autoregressive Language Models via Speculative Decoding with Progressive Tree Drafting**|Zipeng Gao et.al.|[2607.10661](http://arxiv.org/abs/2607.10661)|
 |**2026-07-12**|**MemDecay: Region-Aware KV Cache Eviction for Efficient LLM Agent Inference**|Venkatesha Matam et.al.|[2607.10582](http://arxiv.org/abs/2607.10582)|
 |**2026-07-12**|**LOGOS: A Living Logic for AI Agent Teams That Evolve With Humans**|Yuma Ichikawa et.al.|[2607.10878](http://arxiv.org/abs/2607.10878)|
@@ -401,7 +406,6 @@ _Updated on 2026.07.24_
 |**2026-06-29**|**AgRefactor: Self-Evolving Agentic Workflow for HLS Compatibility and Performance**|Yang Zou et.al.|[2606.30949](http://arxiv.org/abs/2606.30949)|
 |**2026-06-29**|**When Regulation Has Memory: Hysteresis and Control Burden in Artificial Agency**|Veronique Ziegler et.al.|[2606.30975](http://arxiv.org/abs/2606.30975)|
 |**2026-06-28**|**From Agent Traces to Trust: A Survey of Evidence Tracing and Execution Provenance in LLM Agents**|Yiqi Wang et.al.|[2606.04990](http://arxiv.org/abs/2606.04990)|
-|**2026-06-28**|**S-Agent: Spatial Tool-Use Elicits Reasoning for Spatial Intelligence**|Yalun Dai et.al.|[2606.20515](http://arxiv.org/abs/2606.20515)|
 |**2026-06-28**|**SFBench: The SciFy Scientific Feasibility Benchmark**|Cash Costello et.al.|[2606.29630](http://arxiv.org/abs/2606.29630)|
 |**2026-06-28**|**Coverage-Driven KV Cache Eviction for Efficient and Improved Inference of LLM**|Shuvendu Roy et.al.|[2606.29563](http://arxiv.org/abs/2606.29563)|
 |**2026-06-28**|**Fog Computing and Large Language Models: A vision for the mutual beneficiaries**|Satish Narayana Srirama et.al.|[2606.29483](http://arxiv.org/abs/2606.29483)|

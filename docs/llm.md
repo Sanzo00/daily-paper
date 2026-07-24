@@ -176,6 +176,7 @@ _Updated on 2026.07.24_
 |**2026-05-21**|**LCGuard: Latent Communication Guard for Safe KV Sharing in Multi-Agent Systems**|Sadia Asif et.al.|[2605.22786](http://arxiv.org/abs/2605.22786)|
 |**2026-05-21**|**Self-Policy Distillation via Capability-Selective Subspace Projection**|Guangya Hao et.al.|[2605.22675](http://arxiv.org/abs/2605.22675)|
 |**2026-05-21**|**ArborKV: Structure-Aware KV Cache Management for Scaling Tree-based LLM Reasoning**|Yeqiu Chen et.al.|[2605.22106](http://arxiv.org/abs/2605.22106)|
+|**2026-05-21**|**DecodeShare: Tracing the Shared Subspace of LLM Decode-Time Decisions**|Zishan Shao et.al.|[2607.20469](http://arxiv.org/abs/2607.20469)|
 |**2026-05-20**|**TokenCake: A KV-Cache-centric Serving Framework for LLM-based Multi-Agent Applications**|Zhuohang Bian et.al.|[2510.18586](http://arxiv.org/abs/2510.18586)|
 |**2026-05-20**|**Adaptive KV Cache Reuse for Fast Long-Context LLM Serving**|Fei li et.al.|[2605.24022_(CHI)](http://arxiv.org/abs/2605.24022)|
 |**2026-05-20**|**Evaluating Temporal Semantic Caching and Workflow Optimization in Agentic Plan-Execute Pipelines**|Alimurtaza Mustafa Merchant et.al.|[2605.20630](http://arxiv.org/abs/2605.20630)|
@@ -192,6 +193,7 @@ _Updated on 2026.07.24_
 |**2026-05-15**|**KV Cache Offloading for Context-Intensive Tasks**|Andrey Bocharnikov et.al.|[2604.08426](http://arxiv.org/abs/2604.08426)|
 |**2026-05-15**|**HexAGenT: Efficient Agentic LLM Serving via Workflow- and Heterogeneity-Aware Scheduling**|You Peng et.al.|[2605.16637](http://arxiv.org/abs/2605.16637)|
 |**2026-05-14**|**KVCapsule: Efficient Sequential KV Cache Compression for Vision-Language Models with Asymmetric Redundancy**|Yingbing Huang et.al.|[2605.16439](http://arxiv.org/abs/2605.16439)|
+|**2026-05-14**|**Dropping the Anchor: Statistical Context Summarization for Distributed Systems via Pulsar Attention**|Aryan Sood et.al.|[2607.20457](http://arxiv.org/abs/2607.20457)|
 |**2026-05-13**|**Good Agentic Friends Do Not Just Give Verbal Advice: They Can Update Your Weights**|Wenrui Bao et.al.|[2605.13839](http://arxiv.org/abs/2605.13839)|
 |**2026-05-13**|**KVServe: Service-Aware KV Cache Compression for Communication-Efficient Disaggregated LLM Serving**|Zedong Liu et.al.|[2605.13734_(SIGCOMM)](http://arxiv.org/abs/2605.13734)|
 |**2026-05-13**|**MultiPath Memory Access: Breaking Host-GPU Bandwidth Bottlenecks in LLM Services**|Lingfeng Tang et.al.|[2512.16056](http://arxiv.org/abs/2512.16056)|

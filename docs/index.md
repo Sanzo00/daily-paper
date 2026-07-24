@@ -10,6 +10,7 @@ _Updated on 2026.07.24_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-07-23**|**GRADRAG: Cross-Component Prompt Adaptation for Coordinated Multi-Agent RAG**|Paolo Pedinotti et.al.|[2607.21324](http://arxiv.org/abs/2607.21324)|
 |**2026-07-22**|**Reducing Hallucinations in Complex Question Answering using Simple Graph-based Retrieval-Augmented Generation (long version)**|Christopher J. Wedge et.al.|[2606.05901_(ISS)](http://arxiv.org/abs/2606.05901)|
 |**2026-07-20**|**GARAGE: Characterizing the Automation Boundary in LLM-based Attack Graph Generation**|Daekwon Pi et.al.|[2607.18108](http://arxiv.org/abs/2607.18108)|
 |**2026-07-19**|**SAGA: Synthetic Agentic Graph Architecture for Temporal Benchmark Generation**|Jiacheng Ding et.al.|[2607.17288](http://arxiv.org/abs/2607.17288)|
@@ -17,6 +18,7 @@ _Updated on 2026.07.24_
 |**2026-07-18**|**SmartRAG: Native Graph-Based RAG for Mobile Device**|Zhihan Jiang et.al.|[2607.14661](http://arxiv.org/abs/2607.14661)|
 |**2026-07-18**|**When Do Multimodal and Graph-Augmented RAG Help? A Controlled Evaluation for Document Question Answering**|Sokipriala Jonah et.al.|[2607.16604](http://arxiv.org/abs/2607.16604)|
 |**2026-07-17**|**Cache-Aware Prompt Compression:A Two-Tier Cost Model for LLM API Caching**|Yan Song et.al.|[2607.15516](http://arxiv.org/abs/2607.15516)|
+|**2026-07-17**|**Chronofy: A Temporal-Logical Decay Architecture for Information Validity in Time-Aware Retrieval-Augmented Generation**|Muntaser Syed et.al.|[2607.20560](http://arxiv.org/abs/2607.20560)|
 |**2026-07-16**|**MemTrace: Tracing and Attributing Errors in Large Language Model Memory Systems**|Xinle Deng et.al.|[2605.28732](http://arxiv.org/abs/2605.28732)|
 |**2026-07-13**|**FAIR GraphRAG: A Retrieval-Augmented Generation Approach for Semantic Data Analysis**|Marlena Flüh et.al.|[2607.11464](http://arxiv.org/abs/2607.11464)|
 |**2026-07-13**|**NGM-RAG: Neural Graph Matching based Retrieval-Augmented Generation**|Guo Chen et.al.|[2607.11159](http://arxiv.org/abs/2607.11159)|
@@ -25,6 +27,7 @@ _Updated on 2026.07.24_
 |**2026-07-11**|**TGMS: An Agent-Native Bi-Temporal Graph Management System**|Xiaofei Zhang et.al.|[2607.10265](http://arxiv.org/abs/2607.10265)|
 |**2026-07-10**|**AgentKGV: Agentic LLM-RAG Framework with Two-Stage Training for the Fact Verification of Knowledge Graphs**|Yumin Heo et.al.|[2607.09092](http://arxiv.org/abs/2607.09092)|
 |**2026-07-09**|**PolyUQuest: Verifiable Structure-Aware Web RAG over Heterogeneous Graphs**|Ying Liu et.al.|[2607.08269](http://arxiv.org/abs/2607.08269)|
+|**2026-07-07**|**Multimodal CoLRAG-TF: Triple-Filtered Retrieval for Complex PDFs**|Takato Yasuno et.al.|[2607.20517](http://arxiv.org/abs/2607.20517)|
 |**2026-07-06**|**MIRAGE: Defending Long-Form RAG Against Misinformation Pollution**|Saadeldine Eletter et.al.|[2607.05069_(ACL)](http://arxiv.org/abs/2607.05069)|
 |**2026-07-05**|**Memory-Orchestrated Semantic System (MOSS): An Auditable Agentic Memory Architecture**|Serge Lacasse et.al.|[2607.04391](http://arxiv.org/abs/2607.04391)|
 |**2026-07-04**|**Context Graphs for Proactive Enterprise Agents**|Avinash Kumar et.al.|[2607.07721](http://arxiv.org/abs/2607.07721)|
@@ -33,6 +36,7 @@ _Updated on 2026.07.24_
 |**2026-07-03**|**Agentic and Generative AI for Open-Source Intelligence and Cyber Investigations: Taxonomy, Evaluation, Challenges, and Future Directions**|Eduardo Almeida Palmieri et.al.|[2607.03233](http://arxiv.org/abs/2607.03233)|
 |**2026-07-02**|**BLAgent: Agentic RAG for File-Level Bug Localization**|Md Afif Al Mamun et.al.|[2605.17965](http://arxiv.org/abs/2605.17965)|
 |**2026-07-02**|**When RAG Meets Query Planning: Logical Query Trees for Resolving Exploratory Reasoning Problems**|Ganlin Xu et.al.|[2607.00508_(SIGMOD)](http://arxiv.org/abs/2607.00508)|
+|**2026-07-02**|**Optimizing Hypergraph-Based RAG: Toward Better Fact Extraction and Chunk Retrieval**|Houda Khrouf et.al.|[2607.20506](http://arxiv.org/abs/2607.20506)|
 |**2026-07-01**|**ClinRAG-GRAPH: Clinical-prior Retrieval-Augmented Graph Model with Domain Adversarial Learning for Breast pCR Prediction**|Yaofei Duan et.al.|[2607.00798](http://arxiv.org/abs/2607.00798)|
 |**2026-07-01**|**HYPIC: Accelerating Hybrid-Attention LLM Serving with Position-Independent Caching**|Yifei Liu et.al.|[2607.01299](http://arxiv.org/abs/2607.01299)|
 |**2026-06-30**|**AGE: Adaptive-masking for Graph Embedding in Graph Retrieval-Augmented Generation**|Bao Long Nguyen Huu et.al.|[2607.00052](http://arxiv.org/abs/2607.00052)|
