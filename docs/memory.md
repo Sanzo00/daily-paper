@@ -10,6 +10,7 @@ _Updated on 2026.07.27_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-07-24**|**Short-Term-to-Long-Term Memory Transfer for Knowledge Graphs under Partial Observability**|Taewoon Kim et.al.|[2605.22142](http://arxiv.org/abs/2605.22142)|
 |**2026-07-24**|**VTM-Nav: Harnessing Cross-Episode Experience for Object-Goal Navigation with Hierarchical Visual-Topological Memory**|Xiaoran Xu et.al.|[2607.14514](http://arxiv.org/abs/2607.14514)|
 |**2026-07-24**|**RecGPT-V3 Technical Report**|Bowen Zheng et.al.|[2607.15591](http://arxiv.org/abs/2607.15591)|
 |**2026-07-24**|**HiKV: Hierarchical Importance-Aware KV Cache with Hardware Acceleration for LLM Decoding**|Chao Fang et.al.|[2607.22389](http://arxiv.org/abs/2607.22389)|
@@ -276,6 +277,7 @@ _Updated on 2026.07.27_
 |**2026-07-07**|**From Passive Retrieval to Active Memory Navigation: Learning to Use Memory as a Structured Action Space**|Yue Xu et.al.|[2607.05794](http://arxiv.org/abs/2607.05794)|
 |**2026-07-07**|**Do You Remember? Toward Memory-Centric Multimodal AI**|Xuguang Yu et.al.|[2607.11919](http://arxiv.org/abs/2607.11919)|
 |**2026-07-07**|**FBLayout: Optimizing Memory Layout for Efficient LLM Finetuning on Mobile GPUs**|Kahou Tam et.al.|[2607.21624_(MobiSys)](http://arxiv.org/abs/2607.21624)|
+|**2026-07-07**|**Do Modules Stay in Their Lane? Role Drift in Compound LLM Systems**|Xiaoyang Cao et.al.|[2607.21627](http://arxiv.org/abs/2607.21627)|
 |**2026-07-06**|**SHIFT: Dynamic Compute Relocation Framework for Communication-Aware Chiplet-Based Systems**|Arvin Delavari et.al.|[2606.28754](http://arxiv.org/abs/2606.28754)|
 |**2026-07-06**|**PHOENIX: Resilient LLM Training with Hot-Swapping via Zero-Overhead Checkpoint**|Haotian Xie et.al.|[2607.01646](http://arxiv.org/abs/2607.01646)|
 |**2026-07-06**|**PiSAs: Benchmarking Contextual Integrity in Multi-User Agentic Systems**|Shubham Gupta et.al.|[2607.05318](http://arxiv.org/abs/2607.05318)|
@@ -620,7 +622,6 @@ _Updated on 2026.07.27_
 |**2026-06-18**|**Process-Reward Tactic Evolution for Long-Horizon Bioinformatics Workflows**|Lingzhi Yang et.al.|[2606.20839](http://arxiv.org/abs/2606.20839)|
 |**2026-06-17**|**CogniFold: Always-On Proactive Memory via Cognitive Folding**|Suli Wang et.al.|[2605.13438](http://arxiv.org/abs/2605.13438)|
 |**2026-06-17**|**SkillRevise: Improving LLM-Authored Agent Skills via Trace-Conditioned Skill Revision**|Yuxuan Liu et.al.|[2606.01139](http://arxiv.org/abs/2606.01139)|
-|**2026-06-17**|**Short-Term-to-Long-Term Memory Transfer for Knowledge Graphs under Partial Observability**|Taewoon Kim et.al.|[2605.22142](http://arxiv.org/abs/2605.22142)|
 |**2026-06-17**|**Improving Visual Token Reduction via Rectifying Distortions for Efficient Multimodal LLM Inference**|Hyeonwoo Cho et.al.|[2606.01711_(ICML)](http://arxiv.org/abs/2606.01711)|
 |**2026-06-17**|**EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments**|Jundong Xu et.al.|[2606.13681](http://arxiv.org/abs/2606.13681)|
 |**2026-06-17**|**EfficientRollout: System-Aware Self-Speculative Decoding for RL Rollouts**|Minseo Kim et.al.|[2606.18967](http://arxiv.org/abs/2606.18967)|

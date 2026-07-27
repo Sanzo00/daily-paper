@@ -10,6 +10,8 @@ _Updated on 2026.07.27_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-07-24**|**Fewer Paths, Better Performance: Understanding the ZCube Topology through Braess's Paradox**|Li Chen et.al.|[2607.21893](http://arxiv.org/abs/2607.21893)|
+|**2026-07-23**|**Persistent Computational State: A Session-Centric Runtime for Generative World Models**|Zhen Lin et.al.|[2607.21686](http://arxiv.org/abs/2607.21686)|
 |**2026-07-22**|**HijackKV: New Threat in Position-Independent KV Cache Reuse**|Yichi Zhang et.al.|[2607.19957_(USENIX Security)](http://arxiv.org/abs/2607.19957)|
 |**2026-07-20**|**FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention**|Yan Wang et.al.|[2606.09079](http://arxiv.org/abs/2606.09079)|
 |**2026-07-20**|**HyMCache: A KV Cache Framework for Multi-Turn LLM Serving with CXL-Hybrid Memory**|Hakbeom Jang et.al.|[2607.18141](http://arxiv.org/abs/2607.18141)|
@@ -192,6 +194,7 @@ _Updated on 2026.07.27_
 |**2026-05-16**|**ObjectCache: Layerwise Object-Storage Retrieval for KV Cache Reuse**|Yu Zhu et.al.|[2605.22850](http://arxiv.org/abs/2605.22850)|
 |**2026-05-15**|**KV Cache Offloading for Context-Intensive Tasks**|Andrey Bocharnikov et.al.|[2604.08426](http://arxiv.org/abs/2604.08426)|
 |**2026-05-15**|**HexAGenT: Efficient Agentic LLM Serving via Workflow- and Heterogeneity-Aware Scheduling**|You Peng et.al.|[2605.16637](http://arxiv.org/abs/2605.16637)|
+|**2026-05-15**|**AgentKVShift: Efficient KV Cache Reuse for Agentic Memory Systems**|Nilesh Prasad Pandey et.al.|[2607.21604](http://arxiv.org/abs/2607.21604)|
 |**2026-05-14**|**KVCapsule: Efficient Sequential KV Cache Compression for Vision-Language Models with Asymmetric Redundancy**|Yingbing Huang et.al.|[2605.16439](http://arxiv.org/abs/2605.16439)|
 |**2026-05-14**|**Dropping the Anchor: Statistical Context Summarization for Distributed Systems via Pulsar Attention**|Aryan Sood et.al.|[2607.20457](http://arxiv.org/abs/2607.20457)|
 |**2026-05-13**|**Good Agentic Friends Do Not Just Give Verbal Advice: They Can Update Your Weights**|Wenrui Bao et.al.|[2605.13839](http://arxiv.org/abs/2605.13839)|

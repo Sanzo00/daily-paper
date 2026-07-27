@@ -111,6 +111,7 @@ _Updated on 2026.07.27_
 |**2026-05-19**|**Can Large Language Models Revolutionize Survey Research? Experiments with Disaster Preparedness Responses**|Yan Wang et.al.|[2605.19229](http://arxiv.org/abs/2605.19229)|
 |**2026-05-16**|**Navigating the Emotion Tree: Hierarchical Hyperbolic RAG for Multimodal Emotion Recognition**|Zeheng Wang et.al.|[2605.18884](http://arxiv.org/abs/2605.18884)|
 |**2026-05-15**|**Falkor-IRAC: Graph-Constrained Generation for Verified Legal Reasoning in Indian Judicial AI**|Joy Bose et.al.|[2605.14665](http://arxiv.org/abs/2605.14665)|
+|**2026-05-15**|**AgentKVShift: Efficient KV Cache Reuse for Agentic Memory Systems**|Nilesh Prasad Pandey et.al.|[2607.21604](http://arxiv.org/abs/2607.21604)|
 |**2026-05-13**|**GAAMA: Graph Augmented Associative Memory for Agents**|Swarna Kamal Paul et.al.|[2603.27910](http://arxiv.org/abs/2603.27910)|
 |**2026-05-13**|**EpiGraph: Building Generalists for Evidence-Intensive Epilepsy Reasoning in the Wild**|Yuyang Dai et.al.|[2605.09505](http://arxiv.org/abs/2605.09505)|
 |**2026-05-13**|**Thinking Ahead: Prospection-Guided Retrieval of Memory with Language Models**|Harshita Chopra et.al.|[2605.14177](http://arxiv.org/abs/2605.14177)|
@@ -130,6 +131,7 @@ _Updated on 2026.07.27_
 |**2026-05-03**|**Improving Factuality in LLMs via Inference-Time Knowledge Graph Construction**|Shanglin Wu et.al.|[2509.03540](http://arxiv.org/abs/2509.03540)|
 |**2026-05-03**|**The Provenance Gap in Clinical AI: Evidence-Traceable Temporal Knowledge Graphs for Rare Disease Reasoning**|Md Shamim Ahmed et.al.|[2604.17114](http://arxiv.org/abs/2604.17114)|
 |**2026-05-03**|**AutoRAGTuner: A Declarative Framework for Automatic Optimization of RAG Pipelines**|Xintan Zeng et.al.|[2605.02967_(EuroSys)](http://arxiv.org/abs/2605.02967)|
+|**2026-05-03**|**Decoupled Attention Fusion: Accelerating RAG with Efficient KV Cache Reuse**|Xiabao Wu et.al.|[2607.21599_(EuroSys)](http://arxiv.org/abs/2607.21599)|
 |**2026-05-02**|**FT-RAG: A Fine-grained Retrieval-Augmented Generation Framework for Complex Table Reasoning**|Zebin Guo et.al.|[2605.01495](http://arxiv.org/abs/2605.01495)|
 |**2026-04-30**|**PRAG: End-to-End Privacy-Preserving Retrieval-Augmented Generation**|Zhijun Li et.al.|[2604.26525](http://arxiv.org/abs/2604.26525)|
 |**2026-04-29**|**Think it, Run it: Autonomous ML pipeline generation via self-healing multi-agent AI**|Adela Bara et.al.|[2604.27096](http://arxiv.org/abs/2604.27096)|
