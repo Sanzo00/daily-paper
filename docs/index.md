@@ -6,10 +6,12 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.07.26_
+_Updated on 2026.07.27_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-07-24**|**Towards Trustworthy and Cost-Efficient Data Integration: From Naïve RAG to Agentic RAG**|Chuangtao Ma et.al.|[2607.22319](http://arxiv.org/abs/2607.22319)|
+|**2026-07-24**|**Leveraging Resolved Incident History for LLM-Assisted Software Bug Diagnosis**|Boyuan Guan et.al.|[2607.21911](http://arxiv.org/abs/2607.21911)|
 |**2026-07-23**|**GRADRAG: Cross-Component Prompt Adaptation for Coordinated Multi-Agent RAG**|Paolo Pedinotti et.al.|[2607.21324](http://arxiv.org/abs/2607.21324)|
 |**2026-07-22**|**Reducing Hallucinations in Complex Question Answering using Simple Graph-based Retrieval-Augmented Generation (long version)**|Christopher J. Wedge et.al.|[2606.05901_(ISS)](http://arxiv.org/abs/2606.05901)|
 |**2026-07-20**|**GARAGE: Characterizing the Automation Boundary in LLM-based Attack Graph Generation**|Daekwon Pi et.al.|[2607.18108](http://arxiv.org/abs/2607.18108)|
