@@ -10,6 +10,9 @@ _Updated on 2026.07.28_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-07-27**|**A corrective agentic hybrid RAG and an operations-grounded evaluation for a scientific facility**|Rajat Sainju et.al.|[2607.24663](http://arxiv.org/abs/2607.24663)|
+|**2026-07-27**|**Robust Interpretation of Historical Documents in Knowledge Graphs Through Query Inference and Execution**|Sebastià Nicolau et.al.|[2607.24475](http://arxiv.org/abs/2607.24475)|
+|**2026-07-24**|**TGMS: An Agent-Native Bi-Temporal Graph Management System**|Xiaofei Zhang et.al.|[2607.10265](http://arxiv.org/abs/2607.10265)|
 |**2026-07-24**|**Towards Trustworthy and Cost-Efficient Data Integration: From Naïve RAG to Agentic RAG**|Chuangtao Ma et.al.|[2607.22319](http://arxiv.org/abs/2607.22319)|
 |**2026-07-24**|**Leveraging Resolved Incident History for LLM-Assisted Software Bug Diagnosis**|Boyuan Guan et.al.|[2607.21911](http://arxiv.org/abs/2607.21911)|
 |**2026-07-23**|**GRADRAG: Cross-Component Prompt Adaptation for Coordinated Multi-Agent RAG**|Paolo Pedinotti et.al.|[2607.21324](http://arxiv.org/abs/2607.21324)|
@@ -26,7 +29,6 @@ _Updated on 2026.07.28_
 |**2026-07-13**|**NGM-RAG: Neural Graph Matching based Retrieval-Augmented Generation**|Guo Chen et.al.|[2607.11159](http://arxiv.org/abs/2607.11159)|
 |**2026-07-13**|**A Multi-Agent Framework for Zero-Dimensional Reduced-Order Model Planning**|Bingteng Sun et.al.|[2607.10994](http://arxiv.org/abs/2607.10994)|
 |**2026-07-13**|**Cost-Governed RAG: Unified Per-Tenant Cost Attribution Across Retrieval and Generation in Multi-Tenant LLM Systems**|Navnit Shukla et.al.|[2607.12188](http://arxiv.org/abs/2607.12188)|
-|**2026-07-11**|**TGMS: An Agent-Native Bi-Temporal Graph Management System**|Xiaofei Zhang et.al.|[2607.10265](http://arxiv.org/abs/2607.10265)|
 |**2026-07-10**|**AgentKGV: Agentic LLM-RAG Framework with Two-Stage Training for the Fact Verification of Knowledge Graphs**|Yumin Heo et.al.|[2607.09092](http://arxiv.org/abs/2607.09092)|
 |**2026-07-09**|**PolyUQuest: Verifiable Structure-Aware Web RAG over Heterogeneous Graphs**|Ying Liu et.al.|[2607.08269](http://arxiv.org/abs/2607.08269)|
 |**2026-07-07**|**Multimodal CoLRAG-TF: Triple-Filtered Retrieval for Complex PDFs**|Takato Yasuno et.al.|[2607.20517](http://arxiv.org/abs/2607.20517)|
@@ -48,6 +50,7 @@ _Updated on 2026.07.28_
 |**2026-06-27**|**Multimodal Graph RAG for Long-range Visually Rich Document Understanding**|Yi-Cheng Wang et.al.|[2606.28780](http://arxiv.org/abs/2606.28780)|
 |**2026-06-26**|**PYPILINE: Malicious PyPI Package Detection via Suspicious API Knowledge and Agent Workflow**|Siyuan Pang et.al.|[2606.19063](http://arxiv.org/abs/2606.19063)|
 |**2026-06-26**|**From Detection to Action: Using LLM Agents for Fault-Tolerant Control**|Javal Vyas et.al.|[2606.28011](http://arxiv.org/abs/2606.28011)|
+|**2026-06-26**|**KG2Code: Bridging Knowledge Graphs and Large Language Models via Executable Code for Question Answering**|Yike Wu et.al.|[2607.22652](http://arxiv.org/abs/2607.22652)|
 |**2026-06-25**|**Retrieval-Warmed Energy-Based Reasoning: A Five-Arm Ablation Methodology for Diffusion-as-Inference on Structured Reasoning Tasks**|Libo Sun et.al.|[2606.26476](http://arxiv.org/abs/2606.26476)|
 |**2026-06-24**|**Hybrid-IR: Dual-Path Hybrid Retrieval with Iterative Reasoning for Complex Medical Question Answering**|Sheng Wan et.al.|[2606.25338](http://arxiv.org/abs/2606.25338)|
 |**2026-06-24**|**MKG-RAG-Bench: Benchmarking Retrieval in Multimodal Knowledge Graph-Augmented Generation**|Xiaochen Wang et.al.|[2606.26458_(KDD)](http://arxiv.org/abs/2606.26458)|
@@ -68,6 +71,7 @@ _Updated on 2026.07.28_
 |**2026-06-13**|**ConCise: Training-Free Conclusion-Chain State Compression for Cost-Efficient Multi-Step RAG Services**|Kuan Yan et.al.|[2606.28361](http://arxiv.org/abs/2606.28361)|
 |**2026-06-12**|**WikiKV: Schema-Evolving Path-Indexed Storage for Hierarchical Knowledge Navigation**|Feifei Li et.al.|[2606.14275](http://arxiv.org/abs/2606.14275)|
 |**2026-06-11**|**HKVM-RAG: Key-Value-Separated Hypergraph Evidence Organization for Multi-Hop RAG**|Mingyu Zhang et.al.|[2606.07218_(ICDE)](http://arxiv.org/abs/2606.07218)|
+|**2026-06-10**|**Structure Over Scale: Schema-Constrained Causal Graphs for RAG**|Marc Saouda et.al.|[2607.22592](http://arxiv.org/abs/2607.22592)|
 |**2026-06-09**|**Trace Only What You Need: Structure-Aware On-Demand Hypergraph Memory for Long-Document Question Answering**|Xiangjun Zai et.al.|[2606.10921](http://arxiv.org/abs/2606.10921)|
 |**2026-06-09**|**ConRAG: Consensus-Driven Multi-View Retrieval for Multi-Hop Question Answering**|Yikai Zhu et.al.|[2605.28093](http://arxiv.org/abs/2605.28093)|
 |**2026-06-08**|**CacheRAG: A Semantic Caching System for Retrieval-Augmented Generation in Knowledge Graph Question Answering**|Yushi Sun et.al.|[2604.26176](http://arxiv.org/abs/2604.26176)|
