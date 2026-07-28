@@ -6,15 +6,17 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.07.27_
+_Updated on 2026.07.28_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-07-27**|**KAP: Bridging the Knowledge Selection-Runtime Consumption Gap in LLM Systems**|Shuo Wang et.al.|[2607.24260](http://arxiv.org/abs/2607.24260)|
+|**2026-07-26**|**Kalypso: Relational LLM Serving**|Hojae Son et.al.|[2607.23815](http://arxiv.org/abs/2607.23815)|
+|**2026-07-24**|**HyMCache: A KV Cache Framework for Multi-Turn LLM Serving with CXL-Hybrid Memory**|Hakbeom Jang et.al.|[2607.18141](http://arxiv.org/abs/2607.18141)|
 |**2026-07-24**|**Fewer Paths, Better Performance: Understanding the ZCube Topology through Braess's Paradox**|Li Chen et.al.|[2607.21893](http://arxiv.org/abs/2607.21893)|
 |**2026-07-23**|**Persistent Computational State: A Session-Centric Runtime for Generative World Models**|Zhen Lin et.al.|[2607.21686](http://arxiv.org/abs/2607.21686)|
 |**2026-07-22**|**HijackKV: New Threat in Position-Independent KV Cache Reuse**|Yichi Zhang et.al.|[2607.19957_(USENIX Security)](http://arxiv.org/abs/2607.19957)|
 |**2026-07-20**|**FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention**|Yan Wang et.al.|[2606.09079](http://arxiv.org/abs/2606.09079)|
-|**2026-07-20**|**HyMCache: A KV Cache Framework for Multi-Turn LLM Serving with CXL-Hybrid Memory**|Hakbeom Jang et.al.|[2607.18141](http://arxiv.org/abs/2607.18141)|
 |**2026-07-20**|**C$^2$KV: Compressed and Composable KV Cache Reuse for Efficient LLM Inference**|Chuheng Du et.al.|[2607.17715_(KDD)](http://arxiv.org/abs/2607.17715)|
 |**2026-07-20**|**SALT: Salience-Aware Lexical Trie for Long-Context Compression**|Oteo Mamo et.al.|[2607.17486](http://arxiv.org/abs/2607.17486)|
 |**2026-07-19**|**Talaria: Session-Aware Serverless Serving of Hundred-Billion-Parameter LLMs**|Utopia Meng et.al.|[2607.17181](http://arxiv.org/abs/2607.17181)|
@@ -79,6 +81,7 @@ _Updated on 2026.07.27_
 |**2026-06-26**|**CrossPool: Efficient Multi-LLM Serving for Cold MoE Models through KV-Cache and Weight Disaggregation**|Zhuoren Ye et.al.|[2606.24506](http://arxiv.org/abs/2606.24506)|
 |**2026-06-25**|**Moebius: Serving Mixture-of-Expert Models with Seamless Runtime Parallelism Switch**|Shaoyu Wang et.al.|[2606.26607](http://arxiv.org/abs/2606.26607)|
 |**2026-06-25**|**Information-Aware KV Cache Compression for Long Reasoning**|Jushi Kai et.al.|[2606.26875](http://arxiv.org/abs/2606.26875)|
+|**2026-06-25**|**PTStore (Prefix Tensor Store): Distributed Prefix Caching and Replication for High Throughput Inference Serving**|Meghana Maghyastha et.al.|[2607.22648](http://arxiv.org/abs/2607.22648)|
 |**2026-06-24**|**Streaming-dLLM: Accelerating Diffusion LLMs via Suffix Pruning and Dynamic Decoding**|Zhongyu Xiao et.al.|[2601.17917](http://arxiv.org/abs/2601.17917)|
 |**2026-06-24**|**Model-Native Computing Architecture: Envisioning Future System Architecture Through the Lens of Computer Architecture**|Hai Lin et.al.|[2606.00288](http://arxiv.org/abs/2606.00288)|
 |**2026-06-23**|**SplitZip: Ultra Fast Lossless KV Compression for Disaggregated LLM Serving**|Yipin Guo et.al.|[2605.01708](http://arxiv.org/abs/2605.01708)|

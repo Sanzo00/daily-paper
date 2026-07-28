@@ -6,19 +6,21 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.07.27_
+_Updated on 2026.07.28_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-07-27**|**SpecBox: Speculative Sandbox Scheduling for Efficient LLM Agent Serving**|Yihui Zhang et.al.|[2607.23933](http://arxiv.org/abs/2607.23933)|
+|**2026-07-26**|**Multi-Turn On-Policy Distillation with Prefix Replay**|Baohao Liao et.al.|[2607.04763](http://arxiv.org/abs/2607.04763)|
+|**2026-07-24**|**HyMCache: A KV Cache Framework for Multi-Turn LLM Serving with CXL-Hybrid Memory**|Hakbeom Jang et.al.|[2607.18141](http://arxiv.org/abs/2607.18141)|
 |**2026-07-24**|**Where FactsGo Missing: A LayerwiseTaxonomy and Per-Layer Attribution of Information Omissionin Air-Gapped LLM Agent Pipelines**|Santhiya Rajan et.al.|[2607.22448](http://arxiv.org/abs/2607.22448)|
 |**2026-07-24**|**Agentic CPU-GPU Scheduling for Heterogeneous AI Workloads**|Tianxi Lu et.al.|[2607.22242](http://arxiv.org/abs/2607.22242)|
-|**2026-07-20**|**HyMCache: A KV Cache Framework for Multi-Turn LLM Serving with CXL-Hybrid Memory**|Hakbeom Jang et.al.|[2607.18141](http://arxiv.org/abs/2607.18141)|
 |**2026-07-20**|**LLMs and Agentic AI Systems for Smart Grids: A Tutorial on Architectures and Applications**|Daniela Rojas et.al.|[2607.18147](http://arxiv.org/abs/2607.18147)|
 |**2026-07-20**|**LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget**|Changhai Zhou et.al.|[2607.14952](http://arxiv.org/abs/2607.14952)|
 |**2026-07-20**|**Trusted Credentials, Untrusted Behavior: Benchmarking LLM-Agent Security in High-Performance Computing**|Jie Li et.al.|[2607.18485](http://arxiv.org/abs/2607.18485)|
 |**2026-07-19**|**Talaria: Session-Aware Serverless Serving of Hundred-Billion-Parameter LLMs**|Utopia Meng et.al.|[2607.17181](http://arxiv.org/abs/2607.17181)|
 |**2026-07-19**|**WAR: Workload-Aware Rollouts for Synchronous Agentic Reinforcement Learning**|Ryan Xu et.al.|[2607.17299](http://arxiv.org/abs/2607.17299)|
-|**2026-07-16**|**Multi-Turn On-Policy Distillation with Prefix Replay**|Baohao Liao et.al.|[2607.04763](http://arxiv.org/abs/2607.04763)|
+|**2026-07-17**|**HiLLTS: Zero-Shot Hierarchical LLM-Guided Traffic Signal Control for Sustainable Transportation**|Yue Ding et.al.|[2607.22691](http://arxiv.org/abs/2607.22691)|
 |**2026-07-16**|**Self-Aware Recursively Self-Improving Agents for Personal Singularity: A Goal-, Scope-, Tool-, and Benchmark-Driven Multi-Agent Architecture**|Chengshuai Yang et.al.|[2607.12254](http://arxiv.org/abs/2607.12254)|
 |**2026-07-15**|**Beyond tokens: a unified framework for latent communication in LLM-based multi-agent systems**|Yingzhuo Liu et.al.|[2606.05711](http://arxiv.org/abs/2606.05711)|
 |**2026-07-15**|**JW-ASTClaw: A Generalizable Multi-Agent Framework for Autonomous Solar Telescope and Its Implementation within Chinese Meridian Project**|Li-Yue Tong et.al.|[2607.13549](http://arxiv.org/abs/2607.13549)|
@@ -109,6 +111,7 @@ _Updated on 2026.07.27_
 |**2026-06-08**|**End-to-End Context Compression at Scale**|Ang Li et.al.|[2606.09659](http://arxiv.org/abs/2606.09659)|
 |**2026-06-08**|**Visual Para-Thinker++: A Single-Policy Multi-Agent Framework for Visual Reasoning**|Haoran Xu et.al.|[2606.09290](http://arxiv.org/abs/2606.09290)|
 |**2026-06-07**|**SparseX: Efficient Segment-Level KV Cache Sharing for Interleaved LLM Serving**|Quqing Zhang et.al.|[2606.01751](http://arxiv.org/abs/2606.01751)|
+|**2026-06-07**|**HeraSys: Collaborative Serving of Multiple LLM Workflows via Fine-Grained End-to-End Optimization**|Size Li et.al.|[2607.22578_(ICML)](http://arxiv.org/abs/2607.22578)|
 |**2026-06-06**|**IntentKV: Cross-Turn Intent-Aware KV Cache Pruning for Agent Inference**|Junjie Li et.al.|[2606.09916](http://arxiv.org/abs/2606.09916)|
 |**2026-06-06**|**Latent Cache Flow: Model-to-Model Communication Without Text**|Maximillian Rossi et.al.|[2605.22863](http://arxiv.org/abs/2605.22863)|
 |**2026-06-05**|**Simple is Better: Multiplication May Be All You Need for LLM Request Scheduling**|Dingyan Zhang et.al.|[2603.15202_(OSDI)](http://arxiv.org/abs/2603.15202)|
