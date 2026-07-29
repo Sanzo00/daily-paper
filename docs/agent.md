@@ -6,14 +6,15 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.07.28_
+_Updated on 2026.07.29_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-07-28**|**LLMs for Agentic Home Energy Management**|Sokipriala Jonah et.al.|[2607.04569](http://arxiv.org/abs/2607.04569)|
+|**2026-07-27**|**Where Facts Go Missing: A Layerwise Taxonomy and Per-Layer Attribution of Information Omission in Air-Gapped LLMAgent Pipelines**|Santhiya Rajan et.al.|[2607.22448](http://arxiv.org/abs/2607.22448)|
 |**2026-07-27**|**SpecBox: Speculative Sandbox Scheduling for Efficient LLM Agent Serving**|Yihui Zhang et.al.|[2607.23933](http://arxiv.org/abs/2607.23933)|
 |**2026-07-26**|**Multi-Turn On-Policy Distillation with Prefix Replay**|Baohao Liao et.al.|[2607.04763](http://arxiv.org/abs/2607.04763)|
 |**2026-07-24**|**HyMCache: A KV Cache Framework for Multi-Turn LLM Serving with CXL-Hybrid Memory**|Hakbeom Jang et.al.|[2607.18141](http://arxiv.org/abs/2607.18141)|
-|**2026-07-24**|**Where FactsGo Missing: A LayerwiseTaxonomy and Per-Layer Attribution of Information Omissionin Air-Gapped LLM Agent Pipelines**|Santhiya Rajan et.al.|[2607.22448](http://arxiv.org/abs/2607.22448)|
 |**2026-07-24**|**Agentic CPU-GPU Scheduling for Heterogeneous AI Workloads**|Tianxi Lu et.al.|[2607.22242](http://arxiv.org/abs/2607.22242)|
 |**2026-07-20**|**LLMs and Agentic AI Systems for Smart Grids: A Tutorial on Architectures and Applications**|Daniela Rojas et.al.|[2607.18147](http://arxiv.org/abs/2607.18147)|
 |**2026-07-20**|**LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget**|Changhai Zhou et.al.|[2607.14952](http://arxiv.org/abs/2607.14952)|
@@ -42,7 +43,6 @@ _Updated on 2026.07.28_
 |**2026-07-08**|**Think Before You Grid-Search: Floor-First Triage for LLM Serving**|Yihua Liu et.al.|[2607.05876](http://arxiv.org/abs/2607.05876)|
 |**2026-07-07**|**From Intent to Infrastructure: LLM-Driven Agent Compilers for ISAC Networks**|Lijie Zheng et.al.|[2607.16269](http://arxiv.org/abs/2607.16269)|
 |**2026-07-06**|**Toward Trustworthy Large Language Model Agents in Healthcare**|Hadi Hasan et.al.|[2607.05055](http://arxiv.org/abs/2607.05055)|
-|**2026-07-06**|**LLMs for Agentic Home Energy Management**|Sokipriala Jonah et.al.|[2607.04569](http://arxiv.org/abs/2607.04569)|
 |**2026-07-06**|**TypeGo: An OS Runtime for Embodied Agents**|Guojun Chen et.al.|[2607.05482](http://arxiv.org/abs/2607.05482)|
 |**2026-07-05**|**Kwai Summary Attention Technical Report**|Chenglong Chu et.al.|[2604.24432_(DATE)](http://arxiv.org/abs/2604.24432)|
 |**2026-07-05**|**Auto: The AGI Compiler**|Jaber Jaber et.al.|[2607.04542](http://arxiv.org/abs/2607.04542)|

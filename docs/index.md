@@ -6,12 +6,13 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.07.28_
+_Updated on 2026.07.29_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
 |**2026-07-27**|**A corrective agentic hybrid RAG and an operations-grounded evaluation for a scientific facility**|Rajat Sainju et.al.|[2607.24663](http://arxiv.org/abs/2607.24663)|
 |**2026-07-27**|**Robust Interpretation of Historical Documents in Knowledge Graphs Through Query Inference and Execution**|Sebastià Nicolau et.al.|[2607.24475](http://arxiv.org/abs/2607.24475)|
+|**2026-07-27**|**ScalableRAG: High-Quality RAG at Zero Ingestion Cost**|Hilaf Hasson et.al.|[2607.25135](http://arxiv.org/abs/2607.25135)|
 |**2026-07-24**|**TGMS: An Agent-Native Bi-Temporal Graph Management System**|Xiaofei Zhang et.al.|[2607.10265](http://arxiv.org/abs/2607.10265)|
 |**2026-07-24**|**Towards Trustworthy and Cost-Efficient Data Integration: From Naïve RAG to Agentic RAG**|Chuangtao Ma et.al.|[2607.22319](http://arxiv.org/abs/2607.22319)|
 |**2026-07-24**|**Leveraging Resolved Incident History for LLM-Assisted Software Bug Diagnosis**|Boyuan Guan et.al.|[2607.21911](http://arxiv.org/abs/2607.21911)|
