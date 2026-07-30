@@ -10,6 +10,10 @@ _Updated on 2026.07.30_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-07-29**|**RedKnot: Efficient Long-Context LLM Serving with Head-Aware KV Reuse and SegPagedAttention**|Yang Liu et.al.|[2606.06256](http://arxiv.org/abs/2606.06256)|
+|**2026-07-29**|**InferScale: GPU-Native KV Injection for Personalized LLM Serving**|Peter Li et.al.|[2607.27090](http://arxiv.org/abs/2607.27090)|
+|**2026-07-29**|**DualDecoder: Accelerate Long Context LLM Inference by Predictive Prefetch**|Zuning Liang et.al.|[2607.26475](http://arxiv.org/abs/2607.26475)|
+|**2026-07-29**|**A Photonic-CXL Memory Appliance for Scalable KV Cache Management in LLM Inference**|Jing Ding et.al.|[2607.27187](http://arxiv.org/abs/2607.27187)|
 |**2026-07-27**|**KAP: Bridging the Knowledge Selection-Runtime Consumption Gap in LLM Systems**|Shuo Wang et.al.|[2607.24260](http://arxiv.org/abs/2607.24260)|
 |**2026-07-26**|**Kalypso: Relational LLM Serving**|Hojae Son et.al.|[2607.23815](http://arxiv.org/abs/2607.23815)|
 |**2026-07-24**|**HyMCache: A KV Cache Framework for Multi-Turn LLM Serving with CXL-Hybrid Memory**|Hakbeom Jang et.al.|[2607.18141](http://arxiv.org/abs/2607.18141)|
@@ -77,7 +81,6 @@ _Updated on 2026.07.30_
 |**2026-06-28**|**KernelFlume: Elastic Core-Attention Scaling for Agentic Long-Context Decoding**|Guangyu Xiang et.al.|[2606.29207](http://arxiv.org/abs/2606.29207)|
 |**2026-06-27**|**HARD-KV: Head-Adaptive Regularization for Decoding-time KV Compression**|Yuxuan Yang et.al.|[2606.28831_(ICML)](http://arxiv.org/abs/2606.28831)|
 |**2026-06-26**|**Learning to Evict from Key-Value Cache**|Luca Moschella et.al.|[2602.10238_(ICML)](http://arxiv.org/abs/2602.10238)|
-|**2026-06-26**|**RedKnot: Efficient Long-Context LLM Serving with Head-Aware KV Reuse and SegPagedAttention**|Yang Liu et.al.|[2606.06256](http://arxiv.org/abs/2606.06256)|
 |**2026-06-26**|**CrossPool: Efficient Multi-LLM Serving for Cold MoE Models through KV-Cache and Weight Disaggregation**|Zhuoren Ye et.al.|[2606.24506](http://arxiv.org/abs/2606.24506)|
 |**2026-06-25**|**Moebius: Serving Mixture-of-Expert Models with Seamless Runtime Parallelism Switch**|Shaoyu Wang et.al.|[2606.26607](http://arxiv.org/abs/2606.26607)|
 |**2026-06-25**|**Information-Aware KV Cache Compression for Long Reasoning**|Jushi Kai et.al.|[2606.26875](http://arxiv.org/abs/2606.26875)|

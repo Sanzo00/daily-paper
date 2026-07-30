@@ -33,6 +33,12 @@ _Updated on 2026.07.30_
 |**2026-07-29**|**From Tokens to Watt-hours: Analytical Energy Estimation for LLM Inference on Modern GPUs**|Tina Vartziotis et.al.|[2607.26571_(ECML-PKDD)](http://arxiv.org/abs/2607.26571)|
 |**2026-07-29**|**Practice Makes Policies: Bootstrapping and Consolidating Robotic Capabilities from Zero Human Demonstrations**|Jialiang Li et.al.|[2607.26809](http://arxiv.org/abs/2607.26809)|
 |**2026-07-29**|**One Run Is Not an Idea: The Implementation Lottery in Automated Research**|Jingjie Ning et.al.|[2607.26587](http://arxiv.org/abs/2607.26587)|
+|**2026-07-29**|**TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM**|Hengyi Xie et.al.|[2607.27205](http://arxiv.org/abs/2607.27205)|
+|**2026-07-29**|**Fewer Clarifications, Better Code: Benchmarking Cross-Session Personalized Ambiguity Adaptation in Coding Assistants**|Zijian Xu et.al.|[2607.26611](http://arxiv.org/abs/2607.26611)|
+|**2026-07-29**|**LLMET: Enabling Cross-Layer Evaluation of Emerging M3D Memories for Energy-Efficient LLM Serving**|Ming-Yen Lee et.al.|[2607.26491](http://arxiv.org/abs/2607.26491)|
+|**2026-07-29**|**Minimal Markovization via Stable Quotients in Holonomy-Cover Decision Processes**|Zuyuan Zhang et.al.|[2607.27132](http://arxiv.org/abs/2607.27132)|
+|**2026-07-29**|**Voice Memory for Agentic Speech Recognition**|Chao-Han Huck Yang et.al.|[2607.26410](http://arxiv.org/abs/2607.26410)|
+|**2026-07-29**|**Scalable Dynamic Optimal Transport via Distributed Linearized ADMM**|Hari Dahal et.al.|[2607.26407](http://arxiv.org/abs/2607.26407)|
 |**2026-07-28**|**Short-Term-to-Long-Term Memory Transfer for Knowledge Graphs under Partial Observability**|Taewoon Kim et.al.|[2605.22142](http://arxiv.org/abs/2605.22142)|
 |**2026-07-28**|**RoboHarness: Memory-Driven Orchestration of Heterogeneous Robot Policies for Long-Horizon Planning**|Jinbang Huang et.al.|[2607.18060](http://arxiv.org/abs/2607.18060)|
 |**2026-07-28**|**LazyMem: Retrieve Broadly, Construct Selectively for Efficient Long-Term Agent Memory**|Jing Yu et.al.|[2607.22690](http://arxiv.org/abs/2607.22690)|
