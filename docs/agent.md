@@ -6,10 +6,15 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.07.29_
+_Updated on 2026.07.30_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-07-29**|**DualDecoder: Accelerate Long Context LLM Inference by Predictive Prefetch**|Zuning Liang et.al.|[2607.26475](http://arxiv.org/abs/2607.26475)|
+|**2026-07-29**|**PowerAtlas: Towards Electricity-Computing Co-Scheduling for Power Systems**|Kaiwen Jiang et.al.|[2607.26710](http://arxiv.org/abs/2607.26710)|
+|**2026-07-29**|**NELSSA: A GPU-PNM Heterogeneous System for Mixed-Length LLM Serving via Length-based Request Placement**|Sookyung Choi et.al.|[2607.26633_(CHI)](http://arxiv.org/abs/2607.26633)|
+|**2026-07-29**|**MultiFixer: A Coordinator-Proposer Based Multi-Agent Framework For Fixing Multi-Hunk Bugs**|Haichuan Hu et.al.|[2607.26591](http://arxiv.org/abs/2607.26591)|
+|**2026-07-29**|**Emission-Forecasting-Based Spatial-Temporal Carbon Response: A Multi-Agent Attention-Enhanced Deep Learning Framework**|Feiyu Cai et.al.|[2607.26560](http://arxiv.org/abs/2607.26560)|
 |**2026-07-28**|**LLMs for Agentic Home Energy Management**|Sokipriala Jonah et.al.|[2607.04569](http://arxiv.org/abs/2607.04569)|
 |**2026-07-27**|**Where Facts Go Missing: A Layerwise Taxonomy and Per-Layer Attribution of Information Omission in Air-Gapped LLMAgent Pipelines**|Santhiya Rajan et.al.|[2607.22448](http://arxiv.org/abs/2607.22448)|
 |**2026-07-27**|**SpecBox: Speculative Sandbox Scheduling for Efficient LLM Agent Serving**|Yihui Zhang et.al.|[2607.23933](http://arxiv.org/abs/2607.23933)|
