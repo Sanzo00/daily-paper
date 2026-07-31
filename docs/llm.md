@@ -6,10 +6,14 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.07.30_
+_Updated on 2026.07.31_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-07-30**|**A Policy-Driven Runtime Layer for Agentic LLM Serving**|Rui Zhang et.al.|[2605.27744](http://arxiv.org/abs/2605.27744)|
+|**2026-07-30**|**Clairvoyant: Predictive Shortest-Job-First Admission for Serial LLM Inference**|Aravind Sundaresan et.al.|[2606.07248_(AVI)](http://arxiv.org/abs/2606.07248)|
+|**2026-07-30**|**SmartGen: Seamless Disaggregated LLM Inference with Selective KV Cache Transfer**|Xuchuan Luo et.al.|[2607.28150](http://arxiv.org/abs/2607.28150)|
+|**2026-07-29**|**GORGO: Online Tuning for Cross-Region Network-Aware LLM Serving**|Alessio Ricci Toniolo et.al.|[2602.11688](http://arxiv.org/abs/2602.11688)|
 |**2026-07-29**|**RedKnot: Efficient Long-Context LLM Serving with Head-Aware KV Reuse and SegPagedAttention**|Yang Liu et.al.|[2606.06256](http://arxiv.org/abs/2606.06256)|
 |**2026-07-29**|**InferScale: GPU-Native KV Injection for Personalized LLM Serving**|Peter Li et.al.|[2607.27090](http://arxiv.org/abs/2607.27090)|
 |**2026-07-29**|**DualDecoder: Accelerate Long Context LLM Inference by Predictive Prefetch**|Zuning Liang et.al.|[2607.26475](http://arxiv.org/abs/2607.26475)|
@@ -64,7 +68,6 @@ _Updated on 2026.07.30_
 |**2026-07-01**|**MosaicKV: Serving Long-Context LLM with Dynamic Two-D KV Cache Compression**|Sheng Qiang et.al.|[2607.00760](http://arxiv.org/abs/2607.00760)|
 |**2026-07-01**|**Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillation**|Shayan Talaei et.al.|[2607.01208_(ICML)](http://arxiv.org/abs/2607.01208)|
 |**2026-07-01**|**Precomputing the Future-Offset Average in TriAttention**|Amarnath Mukherjee et.al.|[2607.13051](http://arxiv.org/abs/2607.13051)|
-|**2026-06-30**|**GORGO: Online Tuning for Cross-Region Network-Aware LLM Serving**|Alessio Ricci Toniolo et.al.|[2602.11688](http://arxiv.org/abs/2602.11688)|
 |**2026-06-30**|**ThunderAgent: A Simple, Fast and Program-Aware Agentic Inference System**|Hao Kang et.al.|[2602.13692](http://arxiv.org/abs/2602.13692)|
 |**2026-06-30**|**KV-RM: Regularizing KV-Cache Movement for Static-Graph LLM Serving**|Zhiqing Zhong et.al.|[2605.09735](http://arxiv.org/abs/2605.09735)|
 |**2026-06-30**|**TraceLab: Characterizing Coding Agent Workloads for LLM Serving**|Kan Zhu et.al.|[2606.30560](http://arxiv.org/abs/2606.30560)|
@@ -135,7 +138,6 @@ _Updated on 2026.07.30_
 |**2026-06-07**|**TRADE: Transducer-Augmented Decoder for Speech LLM**|Yun Tang et.al.|[2606.08486](http://arxiv.org/abs/2606.08486)|
 |**2026-06-06**|**IntentKV: Cross-Turn Intent-Aware KV Cache Pruning for Agent Inference**|Junjie Li et.al.|[2606.09916](http://arxiv.org/abs/2606.09916)|
 |**2026-06-05**|**Semantic Cache Distillation: Efficient State Transfer via Reuse and Selective Patching**|Qianli Ma et.al.|[2606.07684_(ICML)](http://arxiv.org/abs/2606.07684)|
-|**2026-06-05**|**Clairvoyant: Predictive SJF Scheduling to Mitigate Head-of-Line Blocking in Serial LLM Backends**|Aravind Sundaresan et.al.|[2606.07248_(AVI)](http://arxiv.org/abs/2606.07248)|
 |**2026-06-05**|**WhiFlash: Accelerating Speculative Decoding with Token-Level Cross-Paradigm Routing**|Young D. Kwon et.al.|[2606.07710](http://arxiv.org/abs/2606.07710)|
 |**2026-06-04**|**QCFuse: Query-Aware Cache Fusion via Compressed View for Efficient RAG Serving**|Jianxin Yan et.al.|[2606.05875](http://arxiv.org/abs/2606.05875)|
 |**2026-06-04**|**You Only Index Once: Cross-Layer Sparse Attention with Shared Routing**|Yutao Sun et.al.|[2606.06467](http://arxiv.org/abs/2606.06467)|
@@ -165,7 +167,6 @@ _Updated on 2026.07.30_
 |**2026-05-27**|**How Far Can Disaggregation Go? A Design-Space Exploration of Attention-FFN Disaggregation for Efficient MoE LLM Serving**|Hanjiang Wu et.al.|[2605.28302](http://arxiv.org/abs/2605.28302)|
 |**2026-05-27**|**SiDP: Memory-Efficient Data Parallelism for Offline LLM Inference**|Alan Zhao et.al.|[2605.28095](http://arxiv.org/abs/2605.28095)|
 |**2026-05-27**|**CIVIC: End-to-End Sequence Compactness for Efficient Vision-Language Models**|Fengze Yang et.al.|[2605.28115](http://arxiv.org/abs/2605.28115)|
-|**2026-05-26**|**A Policy-Driven Runtime Layer for Agentic LLM Serving**|Rui Zhang et.al.|[2605.27744](http://arxiv.org/abs/2605.27744)|
 |**2026-05-26**|**Grounded Cache Routing for Retrieval-Augmented Generation: When Is It Safe to Reuse an Answer?**|Syed Huma Shah et.al.|[2605.27494](http://arxiv.org/abs/2605.27494)|
 |**2026-05-26**|**Cassandra: Enabling Reasoning LLMs at Edge via Self-Speculative Decoding**|Soongyu Choi et.al.|[2605.26558_(ISCA)](http://arxiv.org/abs/2605.26558)|
 |**2026-05-25**|**Continuum: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live**|Hanchen Li et.al.|[2511.02230](http://arxiv.org/abs/2511.02230)|

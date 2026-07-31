@@ -6,10 +6,13 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.07.30_
+_Updated on 2026.07.31_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-07-30**|**A Policy-Driven Runtime Layer for Agentic LLM Serving**|Rui Zhang et.al.|[2605.27744](http://arxiv.org/abs/2605.27744)|
+|**2026-07-30**|**VISA: A Structured Description Protocol for Agent-Based Simulation Models Towards Machine Reproducibility**|Zhou He et.al.|[2607.28027](http://arxiv.org/abs/2607.28027)|
+|**2026-07-30**|**RELIC: Revealed Principles for Learning Interpretable Composable Skills in Multi-Agent Planning**|Nguyen Viet Tuan Kiet et.al.|[2607.16745_(CHI)](http://arxiv.org/abs/2607.16745)|
 |**2026-07-29**|**DualDecoder: Accelerate Long Context LLM Inference by Predictive Prefetch**|Zuning Liang et.al.|[2607.26475](http://arxiv.org/abs/2607.26475)|
 |**2026-07-29**|**PowerAtlas: Towards Electricity-Computing Co-Scheduling for Power Systems**|Kaiwen Jiang et.al.|[2607.26710](http://arxiv.org/abs/2607.26710)|
 |**2026-07-29**|**NELSSA: A GPU-PNM Heterogeneous System for Mixed-Length LLM Serving via Length-based Request Placement**|Sookyung Choi et.al.|[2607.26633_(CHI)](http://arxiv.org/abs/2607.26633)|
@@ -153,7 +156,6 @@ _Updated on 2026.07.30_
 |**2026-05-27**|**How Far Can Disaggregation Go? A Design-Space Exploration of Attention-FFN Disaggregation for Efficient MoE LLM Serving**|Hanjiang Wu et.al.|[2605.28302](http://arxiv.org/abs/2605.28302)|
 |**2026-05-27**|**Democratizing Large-Scale Re-Optimization with LLM-Guided Model Patches**|Tinghan Ye et.al.|[2605.18692](http://arxiv.org/abs/2605.18692)|
 |**2026-05-27**|**Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players**|Fangfu Liu et.al.|[2605.28816](http://arxiv.org/abs/2605.28816)|
-|**2026-05-26**|**A Policy-Driven Runtime Layer for Agentic LLM Serving**|Rui Zhang et.al.|[2605.27744](http://arxiv.org/abs/2605.27744)|
 |**2026-05-26**|**DynaSchedBench: Calibrated Dynamic Scheduling Benchmarks and Observability Paradox in LLM-based Scheduling Agents**|Shijie Cao et.al.|[2605.27566](http://arxiv.org/abs/2605.27566)|
 |**2026-05-25**|**Continuum: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live**|Hanchen Li et.al.|[2511.02230](http://arxiv.org/abs/2511.02230)|
 |**2026-05-25**|**AutoSOTA: An End-to-End Automated Research System for State-of-the-Art AI Model Discovery**|Yu Li et.al.|[2604.05550](http://arxiv.org/abs/2604.05550)|
