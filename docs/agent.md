@@ -6,10 +6,12 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.08.02_
+_Updated on 2026.08.03_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-07-31**|**TokTier: Exact Stateful Tokenization for Agentic LLM Serving**|Zhenyu Zhang et.al.|[2607.29678](http://arxiv.org/abs/2607.29678)|
+|**2026-07-31**|**Mixture-of-Translators: Translating KV Caches Across Heterogeneous Large Language Models**|Jin-woo Lee et.al.|[2607.28979](http://arxiv.org/abs/2607.28979)|
 |**2026-07-30**|**A Policy-Driven Runtime Layer for Agentic LLM Serving**|Rui Zhang et.al.|[2605.27744](http://arxiv.org/abs/2605.27744)|
 |**2026-07-30**|**VISA: A Structured Description Protocol for Agent-Based Simulation Models Towards Machine Reproducibility**|Zhou He et.al.|[2607.28027](http://arxiv.org/abs/2607.28027)|
 |**2026-07-30**|**RELIC: Revealed Principles for Learning Interpretable Composable Skills in Multi-Agent Planning**|Nguyen Viet Tuan Kiet et.al.|[2607.16745_(CHI)](http://arxiv.org/abs/2607.16745)|

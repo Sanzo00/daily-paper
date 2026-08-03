@@ -6,10 +6,14 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.08.02_
+_Updated on 2026.08.03_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-07-31**|**HijackKV: New Threat in Position-Independent KV Cache Reuse**|Yichi Zhang et.al.|[2607.19957_(USENIX Security)](http://arxiv.org/abs/2607.19957)|
+|**2026-07-31**|**TokTier: Exact Stateful Tokenization for Agentic LLM Serving**|Zhenyu Zhang et.al.|[2607.29678](http://arxiv.org/abs/2607.29678)|
+|**2026-07-31**|**Mixture-of-Translators: Translating KV Caches Across Heterogeneous Large Language Models**|Jin-woo Lee et.al.|[2607.28979](http://arxiv.org/abs/2607.28979)|
+|**2026-07-31**|**Selective KV Cache Protection for Noise-Resilient LLM Inference on Analog Compute-In-Memory Systems**|Yuannuo Feng et.al.|[2607.29076](http://arxiv.org/abs/2607.29076)|
 |**2026-07-30**|**A Policy-Driven Runtime Layer for Agentic LLM Serving**|Rui Zhang et.al.|[2605.27744](http://arxiv.org/abs/2605.27744)|
 |**2026-07-30**|**Clairvoyant: Predictive Shortest-Job-First Admission for Serial LLM Inference**|Aravind Sundaresan et.al.|[2606.07248_(AVI)](http://arxiv.org/abs/2606.07248)|
 |**2026-07-30**|**SmartGen: Seamless Disaggregated LLM Inference with Selective KV Cache Transfer**|Xuchuan Luo et.al.|[2607.28150](http://arxiv.org/abs/2607.28150)|
@@ -23,7 +27,6 @@ _Updated on 2026.08.02_
 |**2026-07-24**|**HyMCache: A KV Cache Framework for Multi-Turn LLM Serving with CXL-Hybrid Memory**|Hakbeom Jang et.al.|[2607.18141](http://arxiv.org/abs/2607.18141)|
 |**2026-07-24**|**Fewer Paths, Better Performance: Understanding the ZCube Topology through Braess's Paradox**|Li Chen et.al.|[2607.21893](http://arxiv.org/abs/2607.21893)|
 |**2026-07-23**|**Persistent Computational State: A Session-Centric Runtime for Generative World Models**|Zhen Lin et.al.|[2607.21686](http://arxiv.org/abs/2607.21686)|
-|**2026-07-22**|**HijackKV: New Threat in Position-Independent KV Cache Reuse**|Yichi Zhang et.al.|[2607.19957_(USENIX Security)](http://arxiv.org/abs/2607.19957)|
 |**2026-07-20**|**FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention**|Yan Wang et.al.|[2606.09079](http://arxiv.org/abs/2606.09079)|
 |**2026-07-20**|**C$^2$KV: Compressed and Composable KV Cache Reuse for Efficient LLM Inference**|Chuheng Du et.al.|[2607.17715_(KDD)](http://arxiv.org/abs/2607.17715)|
 |**2026-07-20**|**SALT: Salience-Aware Lexical Trie for Long-Context Compression**|Oteo Mamo et.al.|[2607.17486](http://arxiv.org/abs/2607.17486)|
