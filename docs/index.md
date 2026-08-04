@@ -10,6 +10,13 @@ _Updated on 2026.08.04_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-08-03**|**Structured Memory for Edge Language Models: Persistent Context and Corpus Retrieval via O(1) SSM State Injection**|Anusha Madan Gopal et.al.|[2608.02560](http://arxiv.org/abs/2608.02560)|
+|**2026-08-03**|**PrefixPlace: Provable Prefix Key-Value Placement for Large Language Model Serving under Heterogeneous Compute and Transfer Costs**|Zhiyu Wang et.al.|[2608.01655](http://arxiv.org/abs/2608.01655)|
+|**2026-08-03**|**X-KGRank: A Knowledge Graph RAG Framework for Explainable Recommendations via Pattern Mining and LLM Re-Ranking**|Meenakshi Rajpurohit et.al.|[2608.01732](http://arxiv.org/abs/2608.01732)|
+|**2026-08-03**|**Effective and Efficient Context Retrieval via Partial Dependency Graph for Repository-Level Code Generation**|Zhongxin Liu et.al.|[2608.01927](http://arxiv.org/abs/2608.01927)|
+|**2026-08-02**|**From Cloud to Crowd: Democratizing LLM Service with Decentralized Edge Collaboration for RAG**|Jiaxing Li et.al.|[2608.00922](http://arxiv.org/abs/2608.00922)|
+|**2026-08-01**|**A Triple-Robustness Analysis of Retrieval-Augmented Generation for Multi-Hop Requirements Traceability**|Meftun Akarsu et.al.|[2608.00705](http://arxiv.org/abs/2608.00705)|
+|**2026-08-01**|**AiFlow: Token-Native Reactive Orchestration with Bounded Backpressure for Streaming LLM Applications**|Qunhui Zhang et.al.|[2608.00558_(GROUP)](http://arxiv.org/abs/2608.00558)|
 |**2026-07-31**|**BM25 Wins at Scale: A Scaling Study of Retrieval-Augmented Generation Paradigms**|Pengyu Wang et.al.|[2607.26497](http://arxiv.org/abs/2607.26497)|
 |**2026-07-27**|**A corrective agentic hybrid RAG and an operations-grounded evaluation for a scientific facility**|Rajat Sainju et.al.|[2607.24663](http://arxiv.org/abs/2607.24663)|
 |**2026-07-27**|**Robust Interpretation of Historical Documents in Knowledge Graphs Through Query Inference and Execution**|Sebastià Nicolau et.al.|[2607.24475](http://arxiv.org/abs/2607.24475)|
