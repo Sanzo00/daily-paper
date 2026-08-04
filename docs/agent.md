@@ -6,15 +6,24 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.08.03_
+_Updated on 2026.08.04_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
-|**2026-07-31**|**TokTier: Exact Stateful Tokenization for Agentic LLM Serving**|Zhenyu Zhang et.al.|[2607.29678](http://arxiv.org/abs/2607.29678)|
+|**2026-08-03**|**TokTier: Exact Stateful CPU+GPU Tokenization for Agentic LLM Serving**|Zhenyu Zhang et.al.|[2607.29678_(DATE)](http://arxiv.org/abs/2607.29678)|
+|**2026-08-03**|**LiveMem: Maintaining Memory State Continuity in Long-Running LLM Inference**|Zhichen Liu et.al.|[2608.02515](http://arxiv.org/abs/2608.02515)|
+|**2026-08-03**|**Bole: Efficient Tree Speculation for Hybrid-Attention Language Models**|Li Wang et.al.|[2608.01651](http://arxiv.org/abs/2608.01651)|
+|**2026-08-02**|**An Internet for the KV Cache: Rethinking Classical Infrastructure Boundaries in the LLM Inference Age**|Siddhant Ray et.al.|[2608.01526](http://arxiv.org/abs/2608.01526)|
+|**2026-08-02**|**Practical Online KV Cache Compaction for LLM Agents: An Empirical Study**|Yujian Liu et.al.|[2608.00902](http://arxiv.org/abs/2608.00902)|
+|**2026-08-02**|**Learning What to Remember and What to Internalize in LLM Self-Evolution via Adaptive Memory-Parameter Coordination**|Tianyun Ji et.al.|[2608.01234](http://arxiv.org/abs/2608.01234)|
+|**2026-08-02**|**MiniWorld: Democratizing the Training of Video World Models from Scratch**|Yian Zhao et.al.|[2608.01127](http://arxiv.org/abs/2608.01127)|
+|**2026-08-01**|**BANDMAS: Causality-Inspired Semantic Packet Scheduling for Bandwidth-Efficient Multi-Agent Collaboration**|Jiangwen Dong et.al.|[2608.00458](http://arxiv.org/abs/2608.00458)|
 |**2026-07-31**|**Mixture-of-Translators: Translating KV Caches Across Heterogeneous Large Language Models**|Jin-woo Lee et.al.|[2607.28979](http://arxiv.org/abs/2607.28979)|
+|**2026-07-31**|**CrystalMem: Elastic Memory for Self-Evolving LLM Agents via Knowledge Crystallization**|Beining Wu et.al.|[2608.00303](http://arxiv.org/abs/2608.00303)|
 |**2026-07-30**|**A Policy-Driven Runtime Layer for Agentic LLM Serving**|Rui Zhang et.al.|[2605.27744](http://arxiv.org/abs/2605.27744)|
 |**2026-07-30**|**VISA: A Structured Description Protocol for Agent-Based Simulation Models Towards Machine Reproducibility**|Zhou He et.al.|[2607.28027](http://arxiv.org/abs/2607.28027)|
 |**2026-07-30**|**RELIC: Revealed Principles for Learning Interpretable Composable Skills in Multi-Agent Planning**|Nguyen Viet Tuan Kiet et.al.|[2607.16745_(CHI)](http://arxiv.org/abs/2607.16745)|
+|**2026-07-30**|**Agentic Coding in the Wild: Characterizing GitHub Copilot Traces at Production Scale**|Banruo Liu et.al.|[2608.00101](http://arxiv.org/abs/2608.00101)|
 |**2026-07-29**|**DualDecoder: Accelerate Long Context LLM Inference by Predictive Prefetch**|Zuning Liang et.al.|[2607.26475](http://arxiv.org/abs/2607.26475)|
 |**2026-07-29**|**PowerAtlas: Towards Electricity-Computing Co-Scheduling for Power Systems**|Kaiwen Jiang et.al.|[2607.26710](http://arxiv.org/abs/2607.26710)|
 |**2026-07-29**|**NELSSA: A GPU-PNM Heterogeneous System for Mixed-Length LLM Serving via Length-based Request Placement**|Sookyung Choi et.al.|[2607.26633_(CHI)](http://arxiv.org/abs/2607.26633)|
