@@ -10,6 +10,9 @@ _Updated on 2026.08.05_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-08-04**|**NVLLM: A 3D NAND-Centric Architecture Enabling Edge on-Device LLM Inference**|Mingbo Hao et.al.|[2604.25699_(DAC)](http://arxiv.org/abs/2604.25699)|
+|**2026-08-04**|**GRACE: Generative Recommender Acceleration Engine for Real-Time Ads Retrieval**|Zhou Fang et.al.|[2608.00938](http://arxiv.org/abs/2608.00938)|
+|**2026-08-04**|**Heterogeneous LLM Serving with General-Purpose Processing-Near-Memory for Retrieval-Based Sparse Attention**|Hyungkyu Ham et.al.|[2608.03555](http://arxiv.org/abs/2608.03555)|
 |**2026-08-03**|**HERALD: High-Throughput Block Diffusion LLM Serving via CPU-GPU Cooperative KV Cache Retrieval**|Omin Kwon et.al.|[2606.21633](http://arxiv.org/abs/2606.21633)|
 |**2026-08-03**|**TokTier: Exact Stateful CPU+GPU Tokenization for Agentic LLM Serving**|Zhenyu Zhang et.al.|[2607.29678_(DATE)](http://arxiv.org/abs/2607.29678)|
 |**2026-08-03**|**LiveMem: Maintaining Memory State Continuity in Long-Running LLM Inference**|Zhichen Liu et.al.|[2608.02515](http://arxiv.org/abs/2608.02515)|
@@ -20,7 +23,6 @@ _Updated on 2026.08.05_
 |**2026-08-03**|**Structured Memory for Edge Language Models: Persistent Context and Corpus Retrieval via O(1) SSM State Injection**|Anusha Madan Gopal et.al.|[2608.02560](http://arxiv.org/abs/2608.02560)|
 |**2026-08-03**|**Preserving Admission Responsibility in Multi-Tenant Large Language Model Prefix Caches**|Zhiyu Wang et.al.|[2608.01657](http://arxiv.org/abs/2608.01657)|
 |**2026-08-02**|**Spatial Prefix Caching for Wireless Edge LLM Inference: A Stochastic-Geometry and Queueing Framework**|Le Yang et.al.|[2608.01126](http://arxiv.org/abs/2608.01126)|
-|**2026-08-02**|**GRACE: Generative Recommender Acceleration Engine for Real-Time Ads Retrieval**|Zhou Fang et.al.|[2608.00938](http://arxiv.org/abs/2608.00938)|
 |**2026-08-02**|**An Internet for the KV Cache: Rethinking Classical Infrastructure Boundaries in the LLM Inference Age**|Siddhant Ray et.al.|[2608.01526](http://arxiv.org/abs/2608.01526)|
 |**2026-08-02**|**Practical Online KV Cache Compaction for LLM Agents: An Empirical Study**|Yujian Liu et.al.|[2608.00902](http://arxiv.org/abs/2608.00902)|
 |**2026-08-01**|**Diagnose Before You Compress: Prediction-Independent Bottleneck Witness Refinement for LLM Serving Traces**|Liming Liu et.al.|[2608.00423](http://arxiv.org/abs/2608.00423)|
@@ -274,7 +276,6 @@ _Updated on 2026.08.05_
 |**2026-04-28**|**Hidden States as Early Signals: Step-level Trace Evaluation and Pruning for Efficient Test-Time Scaling**|Zhixiang Liang et.al.|[2601.09093](http://arxiv.org/abs/2601.09093)|
 |**2026-04-28**|**SnapMLA: Efficient Long-Context MLA Decoding via Hardware-Aware FP8 Quantized Pipelining**|Yifan Zhang et.al.|[2602.10718](http://arxiv.org/abs/2602.10718)|
 |**2026-04-28**|**CacheFlow: Efficient LLM Serving with 3D-Parallel KV Cache Restoration**|Sean Nian et.al.|[2604.25080](http://arxiv.org/abs/2604.25080)|
-|**2026-04-28**|**NVLLM: A 3D NAND-Centric Architecture Enabling Edge on-Device LLM Inference**|Mingbo Hao et.al.|[2604.25699](http://arxiv.org/abs/2604.25699)|
 |**2026-04-27**|**RetroInfer: A Vector Storage Engine for Scalable Long-Context LLM Inference**|Yaoqi Chen et.al.|[2505.02922_(VLDB)](http://arxiv.org/abs/2505.02922)|
 |**2026-04-27**|**The 1/W Law: An Analytical Study of Context-Length Routing Topology and GPU Generation Gains for LLM Inference Energy Efficiency**|Huamin Chen et.al.|[2603.17280](http://arxiv.org/abs/2603.17280)|
 |**2026-04-27**|**CacheTrap: Unveiling a Stealthier Gray-Box Trojan against LLMs**|Mohaiminul Al Nahian et.al.|[2511.22681](http://arxiv.org/abs/2511.22681)|
