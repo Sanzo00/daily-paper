@@ -10,6 +10,7 @@ _Updated on 2026.08.06_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-08-05**|**D$^2$F-ReAG: Dynamic Decomposition and Filtering for Multi-Hop Reasoning-Augmented Generation**|Jiaoyang Li et.al.|[2608.04444](http://arxiv.org/abs/2608.04444)|
 |**2026-08-03**|**Structured Memory for Edge Language Models: Persistent Context and Corpus Retrieval via O(1) SSM State Injection**|Anusha Madan Gopal et.al.|[2608.02560](http://arxiv.org/abs/2608.02560)|
 |**2026-08-03**|**PrefixPlace: Provable Prefix Key-Value Placement for Large Language Model Serving under Heterogeneous Compute and Transfer Costs**|Zhiyu Wang et.al.|[2608.01655](http://arxiv.org/abs/2608.01655)|
 |**2026-08-03**|**X-KGRank: A Knowledge Graph RAG Framework for Explainable Recommendations via Pattern Mining and LLM Re-Ranking**|Meenakshi Rajpurohit et.al.|[2608.01732](http://arxiv.org/abs/2608.01732)|

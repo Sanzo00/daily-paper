@@ -14,6 +14,7 @@ _Updated on 2026.08.06_
 |**2026-08-05**|**AffectAgent: Collaborative Multi-Agent Reasoning for Retrieval-Augmented Multimodal Emotion Recognition**|Zeheng Wang et.al.|[2604.12735_(ACM MM)](http://arxiv.org/abs/2604.12735)|
 |**2026-08-05**|**SpecBox: Speculative Sandbox Scheduling for Efficient LLM Agent Serving**|Yihui Zhang et.al.|[2607.23933](http://arxiv.org/abs/2607.23933)|
 |**2026-08-05**|**ChronoMem: Version Control and Semantic Rollback for Large Language Model Agent Memory**|Yongye Su et.al.|[2607.27773](http://arxiv.org/abs/2607.27773)|
+|**2026-08-05**|**DragonCrawl: A Generative, Intent-Based Framework for Scalable Mobile End-to-End Testing**|Sowjanya Puligadda et.al.|[2607.28750](http://arxiv.org/abs/2607.28750)|
 |**2026-08-05**|**MemSIF: From Structured Interactions to Dual-Track Fact Memory for LLM Agents**|YuFei Luo et.al.|[2608.01742_(AAAI)](http://arxiv.org/abs/2608.01742)|
 |**2026-08-05**|**Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning**|Boxiu Li et.al.|[2608.05144](http://arxiv.org/abs/2608.05144)|
 |**2026-08-05**|**Reward Structure Shapes the Interaction Between Episodic Exploration and Neural Memory in Reinforcement Learning**|Jai Malegaonkar et.al.|[2608.05111](http://arxiv.org/abs/2608.05111)|
@@ -28,6 +29,9 @@ _Updated on 2026.08.06_
 |**2026-08-05**|**Architectural Implications of Agentic AI Workflows**|Jirong Yang et.al.|[2608.04458](http://arxiv.org/abs/2608.04458)|
 |**2026-08-05**|**MCHA: A Memory-Centric Hierarchical Architecture for Parallel-Sequential Computing**|Daijing Shi et.al.|[2608.04443_(MICRO)](http://arxiv.org/abs/2608.04443)|
 |**2026-08-05**|**Persistent Object Narratives for Token-Efficient Video Language Models**|Junzhe Chen et.al.|[2608.04866](http://arxiv.org/abs/2608.04866)|
+|**2026-08-05**|**From Score Matrices to Football-Aware Match-State Simulation: An Auditable LLM Harness for Exact-Score Reranking**|Shaopeng Liang et.al.|[2608.05030_(ATC)](http://arxiv.org/abs/2608.05030)|
+|**2026-08-05**|**The Personalization Mirage: How LLMs Fabricate User Profiles, and Why Self-Monitoring Misleads**|Yushi Sun et.al.|[2608.04570](http://arxiv.org/abs/2608.04570)|
+|**2026-08-05**|**Energy- and Memory-Efficient PEFT Methods for Personalized On-Device SLMs on Consumer GPUs**|Kuanysh Akhmetzhanov et.al.|[2608.04488](http://arxiv.org/abs/2608.04488)|
 |**2026-08-04**|**SPEAR: Code-Augmented Agentic Prompt Optimization**|Mengyin Lu et.al.|[2605.26275_(EMNLP)](http://arxiv.org/abs/2605.26275)|
 |**2026-08-04**|**Fast and Efficient Approximate Nearest Neighbor Search for High-Dimensional LLM Embeddings**|Nico Hezel et.al.|[2607.20957](http://arxiv.org/abs/2607.20957)|
 |**2026-08-04**|**System-Aware Adaptive CSI Feedback via RL-Guided Autoencoder Switching in Multi-User MIMO System**|Maryam Ansarifard et.al.|[2607.25588](http://arxiv.org/abs/2607.25588)|
@@ -76,6 +80,8 @@ _Updated on 2026.08.06_
 |**2026-08-04**|**FinPerMA: A Theory-Informed, Event-Grounded Personalized-Memory Benchmark for LLM Agents**|Ben Wang et.al.|[2608.04095](http://arxiv.org/abs/2608.04095)|
 |**2026-08-04**|**OneDayAgent: Towards a Long-Horizon Harness for Autonomous Agents**|Jingsheng Zheng et.al.|[2608.05013](http://arxiv.org/abs/2608.05013)|
 |**2026-08-04**|**On Design Principles for Efficient Heterogeneous DRAM-PIM-GPU Systems**|Corey Lammie et.al.|[2608.04169_(CHI)](http://arxiv.org/abs/2608.04169)|
+|**2026-08-04**|**RUTA: Principled Visual Token Allocation via Rate-Utility Optimization**|Jian Zou et.al.|[2608.04132](http://arxiv.org/abs/2608.04132)|
+|**2026-08-04**|**Recurrent Residual Quantization: A Progressive Multi-Precision Representation for LLMs**|Yu Luo et.al.|[2608.04048_(ISS)](http://arxiv.org/abs/2608.04048)|
 |**2026-08-03**|**HUSH-Bench: Measuring Memory-Use Boundaries for Sensitive History in Conversational Agents**|Lingxiang Xu et.al.|[2606.06055](http://arxiv.org/abs/2606.06055)|
 |**2026-08-03**|**Long-Term Memory for VLA-based Agents in Open-World Task Execution**|Xu Huang et.al.|[2604.15671](http://arxiv.org/abs/2604.15671)|
 |**2026-08-03**|**HERALD: High-Throughput Block Diffusion LLM Serving via CPU-GPU Cooperative KV Cache Retrieval**|Omin Kwon et.al.|[2606.21633](http://arxiv.org/abs/2606.21633)|
@@ -192,7 +198,6 @@ _Updated on 2026.08.06_
 |**2026-07-30**|**MemTxn: A Transaction Boundary for Source-Supported Updates and Complete-State Recovery in Agent Memory**|Hanshuai Cui et.al.|[2607.27834](http://arxiv.org/abs/2607.27834)|
 |**2026-07-30**|**RELIC: Revealed Principles for Learning Interpretable Composable Skills in Multi-Agent Planning**|Nguyen Viet Tuan Kiet et.al.|[2607.16745_(CHI)](http://arxiv.org/abs/2607.16745)|
 |**2026-07-30**|**Characterizing LLM Kernel Access and Memory Interaction in Multi-Partition NUMA GPUs**|Donghyeon Joo et.al.|[2607.28824](http://arxiv.org/abs/2607.28824)|
-|**2026-07-30**|**DragonCrawl: A Generative, Intent-Based Framework for Scalable Mobile End-to-End Testing**|Sowjanya Puligadda et.al.|[2607.28750](http://arxiv.org/abs/2607.28750)|
 |**2026-07-30**|**SciToolAgent-Evo: An Ontology-Aware Self-Evolving Agent for Open-World Scientific Tool Acquisition**|Yuqi Tang et.al.|[2607.28692](http://arxiv.org/abs/2607.28692)|
 |**2026-07-30**|**From C to Idiomatic Rust: A Ship-of-Theseus Agentic Translation**|Vasily A. Sartakov et.al.|[2607.28835](http://arxiv.org/abs/2607.28835)|
 |**2026-07-30**|**Model or Harness? An Interaction-Centric Taxonomy for Localizing Agent Failures**|Harsh Raj et.al.|[2607.28802](http://arxiv.org/abs/2607.28802)|
