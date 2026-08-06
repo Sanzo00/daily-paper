@@ -6,13 +6,14 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.08.05_
+_Updated on 2026.08.06_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
 |**2026-08-04**|**NVLLM: A 3D NAND-Centric Architecture Enabling Edge on-Device LLM Inference**|Mingbo Hao et.al.|[2604.25699_(DAC)](http://arxiv.org/abs/2604.25699)|
 |**2026-08-04**|**GRACE: Generative Recommender Acceleration Engine for Real-Time Ads Retrieval**|Zhou Fang et.al.|[2608.00938](http://arxiv.org/abs/2608.00938)|
 |**2026-08-04**|**Heterogeneous LLM Serving with General-Purpose Processing-Near-Memory for Retrieval-Based Sparse Attention**|Hyungkyu Ham et.al.|[2608.03555](http://arxiv.org/abs/2608.03555)|
+|**2026-08-04**|**Spend Bits Where Queries Look: KV Cache Vector Quantization with Attention-Preserving Transforms**|Samuel Fernández-Menduiña et.al.|[2608.04074](http://arxiv.org/abs/2608.04074)|
 |**2026-08-03**|**HERALD: High-Throughput Block Diffusion LLM Serving via CPU-GPU Cooperative KV Cache Retrieval**|Omin Kwon et.al.|[2606.21633](http://arxiv.org/abs/2606.21633)|
 |**2026-08-03**|**TokTier: Exact Stateful CPU+GPU Tokenization for Agentic LLM Serving**|Zhenyu Zhang et.al.|[2607.29678_(DATE)](http://arxiv.org/abs/2607.29678)|
 |**2026-08-03**|**LiveMem: Maintaining Memory State Continuity in Long-Running LLM Inference**|Zhichen Liu et.al.|[2608.02515](http://arxiv.org/abs/2608.02515)|

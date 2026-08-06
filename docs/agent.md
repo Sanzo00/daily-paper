@@ -6,14 +6,18 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.08.05_
+_Updated on 2026.08.06_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-08-05**|**SpecBox: Speculative Sandbox Scheduling for Efficient LLM Agent Serving**|Yihui Zhang et.al.|[2607.23933](http://arxiv.org/abs/2607.23933)|
+|**2026-08-05**|**When Does Latent Communication Pay? A Causal Audit of Relayed KV Caches in Multi-Agent LLMs**|Jiaming Cheng et.al.|[2608.04893](http://arxiv.org/abs/2608.04893)|
+|**2026-08-05**|**Architectural Implications of Agentic AI Workflows**|Jirong Yang et.al.|[2608.04458](http://arxiv.org/abs/2608.04458)|
 |**2026-08-04**|**MiniWorld: Democratizing the Training of Video World Models from Scratch**|Yian Zhao et.al.|[2608.01127](http://arxiv.org/abs/2608.01127)|
 |**2026-08-04**|**Heterogeneous LLM Serving with General-Purpose Processing-Near-Memory for Retrieval-Based Sparse Attention**|Hyungkyu Ham et.al.|[2608.03555](http://arxiv.org/abs/2608.03555)|
 |**2026-08-04**|**MAFIA: Query-Only Memory Attacks via Probing and Factual Injection against Audited LLM Agents**|Jiaming Chen et.al.|[2608.03844](http://arxiv.org/abs/2608.03844)|
 |**2026-08-04**|**When Does Disaggregation Pay? Simulating Prefill--Decode--Attention--FFN Specialization for Agentic LLM Inference**|Przemyslaw Forys et.al.|[2608.03741](http://arxiv.org/abs/2608.03741)|
+|**2026-08-04**|**Strategic Evaluation of Planning Strategies for LLM Agents in Cyber-Physical Systems**|J. de Curtò et.al.|[2608.04265](http://arxiv.org/abs/2608.04265)|
 |**2026-08-03**|**TokTier: Exact Stateful CPU+GPU Tokenization for Agentic LLM Serving**|Zhenyu Zhang et.al.|[2607.29678_(DATE)](http://arxiv.org/abs/2607.29678)|
 |**2026-08-03**|**LiveMem: Maintaining Memory State Continuity in Long-Running LLM Inference**|Zhichen Liu et.al.|[2608.02515](http://arxiv.org/abs/2608.02515)|
 |**2026-08-03**|**Bole: Efficient Tree Speculation for Hybrid-Attention Language Models**|Li Wang et.al.|[2608.01651](http://arxiv.org/abs/2608.01651)|
@@ -34,7 +38,6 @@ _Updated on 2026.08.05_
 |**2026-07-29**|**Emission-Forecasting-Based Spatial-Temporal Carbon Response: A Multi-Agent Attention-Enhanced Deep Learning Framework**|Feiyu Cai et.al.|[2607.26560](http://arxiv.org/abs/2607.26560)|
 |**2026-07-28**|**LLMs for Agentic Home Energy Management**|Sokipriala Jonah et.al.|[2607.04569](http://arxiv.org/abs/2607.04569)|
 |**2026-07-27**|**Where Facts Go Missing: A Layerwise Taxonomy and Per-Layer Attribution of Information Omission in Air-Gapped LLMAgent Pipelines**|Santhiya Rajan et.al.|[2607.22448](http://arxiv.org/abs/2607.22448)|
-|**2026-07-27**|**SpecBox: Speculative Sandbox Scheduling for Efficient LLM Agent Serving**|Yihui Zhang et.al.|[2607.23933](http://arxiv.org/abs/2607.23933)|
 |**2026-07-26**|**Multi-Turn On-Policy Distillation with Prefix Replay**|Baohao Liao et.al.|[2607.04763](http://arxiv.org/abs/2607.04763)|
 |**2026-07-24**|**HyMCache: A KV Cache Framework for Multi-Turn LLM Serving with CXL-Hybrid Memory**|Hakbeom Jang et.al.|[2607.18141](http://arxiv.org/abs/2607.18141)|
 |**2026-07-24**|**Agentic CPU-GPU Scheduling for Heterogeneous AI Workloads**|Tianxi Lu et.al.|[2607.22242](http://arxiv.org/abs/2607.22242)|
