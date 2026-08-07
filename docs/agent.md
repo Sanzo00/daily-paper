@@ -10,6 +10,8 @@ _Updated on 2026.08.07_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-08-06**|**TensorCast: The Missing Tensor Management Layer in Large Language Model Infrastructure**|Yuhan Zhou et.al.|[2608.06007](http://arxiv.org/abs/2608.06007)|
+|**2026-08-05**|**A CXL Memory Rack for Multi-Turn LLM Serving**|Hakbeom Jang et.al.|[2607.18141](http://arxiv.org/abs/2607.18141)|
 |**2026-08-05**|**SpecBox: Speculative Sandbox Scheduling for Efficient LLM Agent Serving**|Yihui Zhang et.al.|[2607.23933](http://arxiv.org/abs/2607.23933)|
 |**2026-08-05**|**When Does Latent Communication Pay? A Causal Audit of Relayed KV Caches in Multi-Agent LLMs**|Jiaming Cheng et.al.|[2608.04893](http://arxiv.org/abs/2608.04893)|
 |**2026-08-05**|**Architectural Implications of Agentic AI Workflows**|Jirong Yang et.al.|[2608.04458](http://arxiv.org/abs/2608.04458)|
@@ -39,7 +41,6 @@ _Updated on 2026.08.07_
 |**2026-07-28**|**LLMs for Agentic Home Energy Management**|Sokipriala Jonah et.al.|[2607.04569](http://arxiv.org/abs/2607.04569)|
 |**2026-07-27**|**Where Facts Go Missing: A Layerwise Taxonomy and Per-Layer Attribution of Information Omission in Air-Gapped LLMAgent Pipelines**|Santhiya Rajan et.al.|[2607.22448](http://arxiv.org/abs/2607.22448)|
 |**2026-07-26**|**Multi-Turn On-Policy Distillation with Prefix Replay**|Baohao Liao et.al.|[2607.04763](http://arxiv.org/abs/2607.04763)|
-|**2026-07-24**|**HyMCache: A KV Cache Framework for Multi-Turn LLM Serving with CXL-Hybrid Memory**|Hakbeom Jang et.al.|[2607.18141](http://arxiv.org/abs/2607.18141)|
 |**2026-07-24**|**Agentic CPU-GPU Scheduling for Heterogeneous AI Workloads**|Tianxi Lu et.al.|[2607.22242](http://arxiv.org/abs/2607.22242)|
 |**2026-07-20**|**LLMs and Agentic AI Systems for Smart Grids: A Tutorial on Architectures and Applications**|Daniela Rojas et.al.|[2607.18147](http://arxiv.org/abs/2607.18147)|
 |**2026-07-20**|**LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget**|Changhai Zhou et.al.|[2607.14952](http://arxiv.org/abs/2607.14952)|

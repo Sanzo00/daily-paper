@@ -10,7 +10,9 @@ _Updated on 2026.08.07_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-08-06**|**Trace Only What You Need: Structure-Aware On-Demand Hypergraph Memory for Long-Document Question Answering**|Xiangjun Zai et.al.|[2606.10921](http://arxiv.org/abs/2606.10921)|
 |**2026-08-05**|**D$^2$F-ReAG: Dynamic Decomposition and Filtering for Multi-Hop Reasoning-Augmented Generation**|Jiaoyang Li et.al.|[2608.04444](http://arxiv.org/abs/2608.04444)|
+|**2026-08-05**|**Agentic self-driving microscopy benchmarks support qualification but do not necessarily generalize to unseen tasks**|Nathan S Johnson et.al.|[2608.05266](http://arxiv.org/abs/2608.05266)|
 |**2026-08-03**|**Structured Memory for Edge Language Models: Persistent Context and Corpus Retrieval via O(1) SSM State Injection**|Anusha Madan Gopal et.al.|[2608.02560](http://arxiv.org/abs/2608.02560)|
 |**2026-08-03**|**PrefixPlace: Provable Prefix Key-Value Placement for Large Language Model Serving under Heterogeneous Compute and Transfer Costs**|Zhiyu Wang et.al.|[2608.01655](http://arxiv.org/abs/2608.01655)|
 |**2026-08-03**|**X-KGRank: A Knowledge Graph RAG Framework for Explainable Recommendations via Pattern Mining and LLM Re-Ranking**|Meenakshi Rajpurohit et.al.|[2608.01732](http://arxiv.org/abs/2608.01732)|
@@ -82,7 +84,6 @@ _Updated on 2026.08.07_
 |**2026-06-12**|**WikiKV: Schema-Evolving Path-Indexed Storage for Hierarchical Knowledge Navigation**|Feifei Li et.al.|[2606.14275](http://arxiv.org/abs/2606.14275)|
 |**2026-06-11**|**HKVM-RAG: Key-Value-Separated Hypergraph Evidence Organization for Multi-Hop RAG**|Mingyu Zhang et.al.|[2606.07218_(ICDE)](http://arxiv.org/abs/2606.07218)|
 |**2026-06-10**|**Structure Over Scale: Schema-Constrained Causal Graphs for RAG**|Marc Saouda et.al.|[2607.22592](http://arxiv.org/abs/2607.22592)|
-|**2026-06-09**|**Trace Only What You Need: Structure-Aware On-Demand Hypergraph Memory for Long-Document Question Answering**|Xiangjun Zai et.al.|[2606.10921](http://arxiv.org/abs/2606.10921)|
 |**2026-06-09**|**ConRAG: Consensus-Driven Multi-View Retrieval for Multi-Hop Question Answering**|Yikai Zhu et.al.|[2605.28093](http://arxiv.org/abs/2605.28093)|
 |**2026-06-08**|**CacheRAG: A Semantic Caching System for Retrieval-Augmented Generation in Knowledge Graph Question Answering**|Yushi Sun et.al.|[2604.26176](http://arxiv.org/abs/2604.26176)|
 |**2026-06-08**|**SIFT: Selective-Index For Fast Compute of RAG Prefill by Exploiting Attention Invariance**|Rya Sanovar et.al.|[2606.09441](http://arxiv.org/abs/2606.09441)|

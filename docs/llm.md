@@ -10,6 +10,8 @@ _Updated on 2026.08.07_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-08-05**|**Fractal KV-Cache Archives: Lossless Symbolic Storage with In-Place Retrieval for Long-Context LLM Inference**|Vladimir Gusev et.al.|[2607.07144](http://arxiv.org/abs/2607.07144)|
+|**2026-08-05**|**A CXL Memory Rack for Multi-Turn LLM Serving**|Hakbeom Jang et.al.|[2607.18141](http://arxiv.org/abs/2607.18141)|
 |**2026-08-04**|**NVLLM: A 3D NAND-Centric Architecture Enabling Edge on-Device LLM Inference**|Mingbo Hao et.al.|[2604.25699_(DAC)](http://arxiv.org/abs/2604.25699)|
 |**2026-08-04**|**GRACE: Generative Recommender Acceleration Engine for Real-Time Ads Retrieval**|Zhou Fang et.al.|[2608.00938](http://arxiv.org/abs/2608.00938)|
 |**2026-08-04**|**Heterogeneous LLM Serving with General-Purpose Processing-Near-Memory for Retrieval-Based Sparse Attention**|Hyungkyu Ham et.al.|[2608.03555](http://arxiv.org/abs/2608.03555)|
@@ -41,7 +43,6 @@ _Updated on 2026.08.07_
 |**2026-07-29**|**A Photonic-CXL Memory Appliance for Scalable KV Cache Management in LLM Inference**|Jing Ding et.al.|[2607.27187](http://arxiv.org/abs/2607.27187)|
 |**2026-07-27**|**KAP: Bridging the Knowledge Selection-Runtime Consumption Gap in LLM Systems**|Shuo Wang et.al.|[2607.24260](http://arxiv.org/abs/2607.24260)|
 |**2026-07-26**|**Kalypso: Relational LLM Serving**|Hojae Son et.al.|[2607.23815](http://arxiv.org/abs/2607.23815)|
-|**2026-07-24**|**HyMCache: A KV Cache Framework for Multi-Turn LLM Serving with CXL-Hybrid Memory**|Hakbeom Jang et.al.|[2607.18141](http://arxiv.org/abs/2607.18141)|
 |**2026-07-24**|**Fewer Paths, Better Performance: Understanding the ZCube Topology through Braess's Paradox**|Li Chen et.al.|[2607.21893](http://arxiv.org/abs/2607.21893)|
 |**2026-07-23**|**Persistent Computational State: A Session-Centric Runtime for Generative World Models**|Zhen Lin et.al.|[2607.21686](http://arxiv.org/abs/2607.21686)|
 |**2026-07-20**|**FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention**|Yan Wang et.al.|[2606.09079](http://arxiv.org/abs/2606.09079)|
@@ -64,7 +65,6 @@ _Updated on 2026.08.07_
 |**2026-07-09**|**Towards Efficient Large Language Model Serving: A Survey on System-Aware KV Cache Optimization**|Jiantong Jiang et.al.|[2607.08057_(ACL)](http://arxiv.org/abs/2607.08057)|
 |**2026-07-09**|**What to Keep, What to Forget: A Rate--Distortion View of Memory Compaction in LLMs and Agents**|Ashwin Gerard Colaco et.al.|[2607.08032](http://arxiv.org/abs/2607.08032)|
 |**2026-07-08**|**Think Before You Grid-Search: Floor-First Triage for LLM Serving**|Yihua Liu et.al.|[2607.05876](http://arxiv.org/abs/2607.05876)|
-|**2026-07-08**|**Fractal KV-Cache Archives: Lossless Symbolic Storage with In-Place Retrieval for Long-Context LLM Inference**|Vladimir Gusev et.al.|[2607.07144](http://arxiv.org/abs/2607.07144)|
 |**2026-07-08**|**Edge-Inference Governors Need Memory-Clock State**|Jaehoon Kang et.al.|[2606.16106](http://arxiv.org/abs/2606.16106)|
 |**2026-07-07**|**FreqDepthKV: Frequency-Guided Depth Sharing for Robust KV Cache Compression in Long-Context LLM Inference**|Anna Córdoba et.al.|[2607.06519](http://arxiv.org/abs/2607.06519)|
 |**2026-07-06**|**Learning When to Attend: Conditional Memory Access for Long-Context LLMs**|Sakshi Choudhary et.al.|[2603.17484_(ICML)](http://arxiv.org/abs/2603.17484)|
