@@ -10,6 +10,12 @@ _Updated on 2026.08.10_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-08-07**|**Dropping the Anchor: Statistical Context Summarization for Distributed Systems via Pulsar Attention**|Aryan Sood et.al.|[2607.20457](http://arxiv.org/abs/2607.20457)|
+|**2026-08-07**|**LiveMem: Maintaining Memory State Continuity in Long-Running LLM Inference**|Zhichen Liu et.al.|[2608.02515](http://arxiv.org/abs/2608.02515)|
+|**2026-08-07**|**HiSparse: Scaling Sparse-Attention Decoding with Hierarchical KV Cache Management**|Zhiqiang Xie et.al.|[2608.07009](http://arxiv.org/abs/2608.07009)|
+|**2026-08-07**|**Autonomy-of-Heads: Data-Free Sparse Attention from Frozen Query-Key Geometry**|Yehan Yang et.al.|[2608.06849](http://arxiv.org/abs/2608.06849)|
+|**2026-08-06**|**TokTier: Exact Stateful CPU+GPU Tokenization for Agentic LLM Serving**|Zhenyu Zhang et.al.|[2607.29678](http://arxiv.org/abs/2607.29678)|
+|**2026-08-06**|**Cascade: Exploiting SLO-Aware latency budget for fair and high goodput LLM inference serving**|Muhammad Adnan et.al.|[2608.06557](http://arxiv.org/abs/2608.06557)|
 |**2026-08-05**|**Fractal KV-Cache Archives: Lossless Symbolic Storage with In-Place Retrieval for Long-Context LLM Inference**|Vladimir Gusev et.al.|[2607.07144](http://arxiv.org/abs/2607.07144)|
 |**2026-08-05**|**A CXL Memory Rack for Multi-Turn LLM Serving**|Hakbeom Jang et.al.|[2607.18141](http://arxiv.org/abs/2607.18141)|
 |**2026-08-04**|**NVLLM: A 3D NAND-Centric Architecture Enabling Edge on-Device LLM Inference**|Mingbo Hao et.al.|[2604.25699_(DAC)](http://arxiv.org/abs/2604.25699)|
@@ -17,8 +23,6 @@ _Updated on 2026.08.10_
 |**2026-08-04**|**Heterogeneous LLM Serving with General-Purpose Processing-Near-Memory for Retrieval-Based Sparse Attention**|Hyungkyu Ham et.al.|[2608.03555](http://arxiv.org/abs/2608.03555)|
 |**2026-08-04**|**Spend Bits Where Queries Look: KV Cache Vector Quantization with Attention-Preserving Transforms**|Samuel Fernández-Menduiña et.al.|[2608.04074](http://arxiv.org/abs/2608.04074)|
 |**2026-08-03**|**HERALD: High-Throughput Block Diffusion LLM Serving via CPU-GPU Cooperative KV Cache Retrieval**|Omin Kwon et.al.|[2606.21633](http://arxiv.org/abs/2606.21633)|
-|**2026-08-03**|**TokTier: Exact Stateful CPU+GPU Tokenization for Agentic LLM Serving**|Zhenyu Zhang et.al.|[2607.29678_(DATE)](http://arxiv.org/abs/2607.29678)|
-|**2026-08-03**|**LiveMem: Maintaining Memory State Continuity in Long-Running LLM Inference**|Zhichen Liu et.al.|[2608.02515](http://arxiv.org/abs/2608.02515)|
 |**2026-08-03**|**Efficiency and Cost Alignment in Batched LLM Serving via Resource-Fair Scheduling**|Dayi Yao et.al.|[2608.02244](http://arxiv.org/abs/2608.02244)|
 |**2026-08-03**|**PrefixPlace: Provable Prefix Key-Value Placement for Large Language Model Serving under Heterogeneous Compute and Transfer Costs**|Zhiyu Wang et.al.|[2608.01655](http://arxiv.org/abs/2608.01655)|
 |**2026-08-03**|**Bole: Efficient Tree Speculation for Hybrid-Attention Language Models**|Li Wang et.al.|[2608.01651](http://arxiv.org/abs/2608.01651)|
@@ -222,7 +226,6 @@ _Updated on 2026.08.10_
 |**2026-05-15**|**HexAGenT: Efficient Agentic LLM Serving via Workflow- and Heterogeneity-Aware Scheduling**|You Peng et.al.|[2605.16637](http://arxiv.org/abs/2605.16637)|
 |**2026-05-15**|**AgentKVShift: Efficient KV Cache Reuse for Agentic Memory Systems**|Nilesh Prasad Pandey et.al.|[2607.21604](http://arxiv.org/abs/2607.21604)|
 |**2026-05-14**|**KVCapsule: Efficient Sequential KV Cache Compression for Vision-Language Models with Asymmetric Redundancy**|Yingbing Huang et.al.|[2605.16439](http://arxiv.org/abs/2605.16439)|
-|**2026-05-14**|**Dropping the Anchor: Statistical Context Summarization for Distributed Systems via Pulsar Attention**|Aryan Sood et.al.|[2607.20457](http://arxiv.org/abs/2607.20457)|
 |**2026-05-13**|**Good Agentic Friends Do Not Just Give Verbal Advice: They Can Update Your Weights**|Wenrui Bao et.al.|[2605.13839](http://arxiv.org/abs/2605.13839)|
 |**2026-05-13**|**KVServe: Service-Aware KV Cache Compression for Communication-Efficient Disaggregated LLM Serving**|Zedong Liu et.al.|[2605.13734_(SIGCOMM)](http://arxiv.org/abs/2605.13734)|
 |**2026-05-13**|**MultiPath Memory Access: Breaking Host-GPU Bandwidth Bottlenecks in LLM Services**|Lingfeng Tang et.al.|[2512.16056](http://arxiv.org/abs/2512.16056)|
