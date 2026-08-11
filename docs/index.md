@@ -10,6 +10,11 @@ _Updated on 2026.08.11_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-08-10**|**KGCaRe: Explainable Complex Conditional Question Answering using Automatic Knowledge Graph Construction and Context Retrieval with LLMs**|Ghanshyam Verma et.al.|[2608.09779](http://arxiv.org/abs/2608.09779)|
+|**2026-08-09**|**InSituANN: Revisiting IVF for PCIe-Efficient Billion-Scale Vector Search**|Yuemeng Xu et.al.|[2608.08751](http://arxiv.org/abs/2608.08751)|
+|**2026-08-09**|**RAG-Based Auto-Configuration for Industrial Fieldbus Devices**|Aadil Gani Ganie et.al.|[2608.08618](http://arxiv.org/abs/2608.08618)|
+|**2026-08-08**|**OpRAG: A Resource-Deterministic Runtime for GPU-Backed Multi-Stage RAG Workflows**|Arup Kumar Sarker et.al.|[2608.08340](http://arxiv.org/abs/2608.08340)|
+|**2026-08-08**|**SodaMem: Evidence-Grounded Temporal Graph Memory for LLM Agents**|Fengrong Wan et.al.|[2608.08055](http://arxiv.org/abs/2608.08055)|
 |**2026-08-06**|**Trace Only What You Need: Structure-Aware On-Demand Hypergraph Memory for Long-Document Question Answering**|Xiangjun Zai et.al.|[2606.10921](http://arxiv.org/abs/2606.10921)|
 |**2026-08-05**|**D$^2$F-ReAG: Dynamic Decomposition and Filtering for Multi-Hop Reasoning-Augmented Generation**|Jiaoyang Li et.al.|[2608.04444](http://arxiv.org/abs/2608.04444)|
 |**2026-08-05**|**Agentic self-driving microscopy benchmarks support qualification but do not necessarily generalize to unseen tasks**|Nathan S Johnson et.al.|[2608.05266](http://arxiv.org/abs/2608.05266)|

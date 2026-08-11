@@ -10,6 +10,11 @@ _Updated on 2026.08.11_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-08-10**|**Governing the KV Cache: Preventing Timing Side-Channel Leakage in Multi-Tenant LLM Inference**|Tejasvi C. Addagada et.al.|[2608.09225_(SC)](http://arxiv.org/abs/2608.09225)|
+|**2026-08-09**|**Mesh-Attention: A New Communication-Efficient Distributed Attention with Improved Data Locality**|Sirui Chen et.al.|[2512.20968](http://arxiv.org/abs/2512.20968)|
+|**2026-08-09**|**DistillCache: KL-Guided Adaptive KV-Cache Eviction for Memory-Efficient LLM Inference**|Asaad Althoubi et.al.|[2608.08878](http://arxiv.org/abs/2608.08878)|
+|**2026-08-08**|**Alignment Collapse Under KV Cache Quantization: Diagnosis and Mitigation**|Bruce Changlong Xu et.al.|[2606.09864](http://arxiv.org/abs/2606.09864)|
+|**2026-08-08**|**OasisKV: Scaling In-Decode KV Cache Beyond HBM with Lookahead Sparse Prefetching**|Can Xiao et.al.|[2608.08097](http://arxiv.org/abs/2608.08097)|
 |**2026-08-07**|**Dropping the Anchor: Statistical Context Summarization for Distributed Systems via Pulsar Attention**|Aryan Sood et.al.|[2607.20457](http://arxiv.org/abs/2607.20457)|
 |**2026-08-07**|**LiveMem: Maintaining Memory State Continuity in Long-Running LLM Inference**|Zhichen Liu et.al.|[2608.02515](http://arxiv.org/abs/2608.02515)|
 |**2026-08-07**|**HiSparse: Scaling Sparse-Attention Decoding with Hierarchical KV Cache Management**|Zhiqiang Xie et.al.|[2608.07009](http://arxiv.org/abs/2608.07009)|
@@ -172,7 +177,6 @@ _Updated on 2026.08.11_
 |**2026-06-01**|**ForesightKV: Optimizing KV Cache Eviction for Reasoning Models by Learning Long-Term Contribution**|Zican Dong et.al.|[2602.03203_(ICML)](http://arxiv.org/abs/2602.03203)|
 |**2026-06-01**|**Multi-Segment Attention: Enabling Efficient KV-Cache Management for Faster Large Language Model Serving**|Chunan Shi et.al.|[2606.02964](http://arxiv.org/abs/2606.02964)|
 |**2026-06-01**|**Observation, Not Prediction: Conversation-Level Disaggregated Scheduling for Agentic Serving**|Jianru Ding et.al.|[2606.01839](http://arxiv.org/abs/2606.01839)|
-|**2026-06-01**|**Alignment Collapse Under KV Cache Quantization: Diagnosis and Mitigation**|Bruce Changlong Xu et.al.|[2606.09864](http://arxiv.org/abs/2606.09864)|
 |**2026-06-01**|**Scaling LLM Inference Beyond Amdahl`s Limits via Eliminating Non-Scalable Overheads**|Alan Zhao et.al.|[2606.01927](http://arxiv.org/abs/2606.01927)|
 |**2026-05-31**|**Fail-Closed Lowering of Resident KV Claims onto LLM Serving Runtimes**|Lukas Stepanek et.al.|[2606.01387](http://arxiv.org/abs/2606.01387)|
 |**2026-05-31**|**Leyline: KV Cache Directives for Agentic Inference**|Bole Ma et.al.|[2606.01065](http://arxiv.org/abs/2606.01065)|
