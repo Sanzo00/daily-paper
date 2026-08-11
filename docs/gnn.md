@@ -6,10 +6,11 @@ nav_order: 3
 
 # GNN Papers
 
-_Updated on 2026.08.10_
+_Updated on 2026.08.11_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-08-07**|**LGNNIC: Acceleration of Large-Scale GNN Training using SmartNICs**|Liad Gerstman et.al.|[2608.07733](http://arxiv.org/abs/2608.07733)|
 |**2026-08-06**|**SNI-GNN: SmartNIC-Assisted Full-Graph GNN Training with In-Network Embedding Prediction**|Guofan Yu et.al.|[2608.06441_(ICDE)](http://arxiv.org/abs/2608.06441)|
 |**2026-07-24**|**Efficient Recommendations via Graph Coarsening and Label Propagation**|Alessandro Sbandi et.al.|[2607.22287](http://arxiv.org/abs/2607.22287)|
 |**2026-07-19**|**Taurus: Accelerating Out-of-Core Graph Neural Network Inference on Billion-Scale Graphs**|Pranjal Naman et.al.|[2607.17374_(DIS)](http://arxiv.org/abs/2607.17374)|
