@@ -6,10 +6,13 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.08.11_
+_Updated on 2026.08.12_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-08-11**|**A Fast Locality Simulator for GEMM Design-Space Exploration on Multi-Chiplet GPUs**|Euijun Chung et.al.|[2606.11716](http://arxiv.org/abs/2606.11716)|
+|**2026-08-11**|**Scheduling Mixed RL Rollouts Beyond Prefix Locality**|Zetao Hong et.al.|[2608.11152](http://arxiv.org/abs/2608.11152)|
+|**2026-08-11**|**TideRL: Boosting Agentic RL Goodput with Readiness-Aware Scheduling**|Yanyu Ren et.al.|[2608.10402](http://arxiv.org/abs/2608.10402)|
 |**2026-08-10**|**The Politician, the Liar, and the Obedient Worker: Emerging Behavior of LLM Agents in Hierarchical Games**|Fatemeh Seyedin et.al.|[2608.09574](http://arxiv.org/abs/2608.09574)|
 |**2026-08-10**|**LLM-Guided Heuristic Design from Simulation Traces: A Case Study in Dynamic Production and AGV Scheduling**|Jinbo Li et.al.|[2608.09343](http://arxiv.org/abs/2608.09343)|
 |**2026-08-10**|**Automated Synthesis of Deterministic Cross-Domain Interfaces**|Konstantinos Christodoulopoulos et.al.|[2608.09312](http://arxiv.org/abs/2608.09312)|
@@ -126,7 +129,6 @@ _Updated on 2026.08.11_
 |**2026-06-14**|**DynAMO:Dynamic Asset Management Orchestration via Topological Multi-Agent Scheduling**|Kanishk Kushwaha et.al.|[2606.19382](http://arxiv.org/abs/2606.19382)|
 |**2026-06-13**|**Frontier: Towards Comprehensive and Accurate LLM Inference Simulation**|Yicheng Feng et.al.|[2605.21312](http://arxiv.org/abs/2605.21312)|
 |**2026-06-13**|**OSDAG: Online Scheduling for Efficient Multi-Robot Collaboration**|Thanh Nguyen Canh et.al.|[2606.15255](http://arxiv.org/abs/2606.15255)|
-|**2026-06-12**|**A Fast Locality Simulator for GEMM Design-Space Exploration on Multi-Chiplet GPUs**|Euijun Chung et.al.|[2606.11716](http://arxiv.org/abs/2606.11716)|
 |**2026-06-12**|**Knowing When to Ask: Self-Gated Clarification for Hierarchical Language Agents**|Aijing Gao et.al.|[2606.11349](http://arxiv.org/abs/2606.11349)|
 |**2026-06-12**|**MiniMax Sparse Attention**|Xunhao Lai et.al.|[2606.13392](http://arxiv.org/abs/2606.13392)|
 |**2026-06-12**|**Towards Direct Latent-Space Synthesis for Parallel Branches in LLM-Agent Workflows**|Shikun Liu et.al.|[2606.14672](http://arxiv.org/abs/2606.14672)|
