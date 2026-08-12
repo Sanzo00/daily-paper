@@ -10,6 +10,8 @@ _Updated on 2026.08.12_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-08-11**|**Scheduling Mixed RL Rollouts Beyond Prefix Locality**|Zetao Hong et.al.|[2608.11152](http://arxiv.org/abs/2608.11152)|
+|**2026-08-11**|**ImpactHO: Importance-Aware KV Cache Transfer for Multi-User Edge LLM Handover**|Minwoo Kim et.al.|[2608.10545](http://arxiv.org/abs/2608.10545)|
 |**2026-08-10**|**Governing the KV Cache: Preventing Timing Side-Channel Leakage in Multi-Tenant LLM Inference**|Tejasvi C. Addagada et.al.|[2608.09225_(SC)](http://arxiv.org/abs/2608.09225)|
 |**2026-08-09**|**Mesh-Attention: A New Communication-Efficient Distributed Attention with Improved Data Locality**|Sirui Chen et.al.|[2512.20968](http://arxiv.org/abs/2512.20968)|
 |**2026-08-09**|**DistillCache: KL-Guided Adaptive KV-Cache Eviction for Memory-Efficient LLM Inference**|Asaad Althoubi et.al.|[2608.08878](http://arxiv.org/abs/2608.08878)|
