@@ -10,6 +10,8 @@ _Updated on 2026.08.13_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-08-12**|**SAG: SQL-Retrieval Augmented Generation with Query-Time Dynamic Hyperedges**|Yuchao Wu et.al.|[2608.12129](http://arxiv.org/abs/2608.12129)|
+|**2026-08-11**|**Knowledge-Graph-Guided Retrieval-Augmented LLMs for Explainable Root Cause Analysis in Automotive HiL Validation**|Hamza Ouarrad et.al.|[2608.11277_(ICS)](http://arxiv.org/abs/2608.11277)|
 |**2026-08-10**|**KGCaRe: Explainable Complex Conditional Question Answering using Automatic Knowledge Graph Construction and Context Retrieval with LLMs**|Ghanshyam Verma et.al.|[2608.09779](http://arxiv.org/abs/2608.09779)|
 |**2026-08-09**|**InSituANN: Revisiting IVF for PCIe-Efficient Billion-Scale Vector Search**|Yuemeng Xu et.al.|[2608.08751](http://arxiv.org/abs/2608.08751)|
 |**2026-08-09**|**RAG-Based Auto-Configuration for Industrial Fieldbus Devices**|Aadil Gani Ganie et.al.|[2608.08618](http://arxiv.org/abs/2608.08618)|

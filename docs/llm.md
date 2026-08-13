@@ -11,6 +11,8 @@ _Updated on 2026.08.13_
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
 |**2026-08-12**|**Luna-TTS Family Technical Report**|Feng Yin et.al.|[2608.11593](http://arxiv.org/abs/2608.11593)|
+|**2026-08-12**|**A Full-Stack Characterization of High-Bandwidth Flash for KV-Centric LLM Serving**|Zhuoran Li et.al.|[2608.11668](http://arxiv.org/abs/2608.11668)|
+|**2026-08-12**|**XBridge: Entity-Grounded Latent Bridge for Heterogeneous LLM Communication**|Wooseong Yang et.al.|[2608.11676](http://arxiv.org/abs/2608.11676)|
 |**2026-08-11**|**Scheduling Mixed RL Rollouts Beyond Prefix Locality**|Zetao Hong et.al.|[2608.11152](http://arxiv.org/abs/2608.11152)|
 |**2026-08-11**|**ImpactHO: Importance-Aware KV Cache Transfer for Multi-User Edge LLM Handover**|Minwoo Kim et.al.|[2608.10545](http://arxiv.org/abs/2608.10545)|
 |**2026-08-10**|**Governing the KV Cache: Preventing Timing Side-Channel Leakage in Multi-Tenant LLM Inference**|Tejasvi C. Addagada et.al.|[2608.09225_(SC)](http://arxiv.org/abs/2608.09225)|
