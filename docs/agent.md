@@ -6,7 +6,7 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.08.13_
+_Updated on 2026.08.14_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
@@ -62,6 +62,7 @@ _Updated on 2026.08.13_
 |**2026-07-20**|**Trusted Credentials, Untrusted Behavior: Benchmarking LLM-Agent Security in High-Performance Computing**|Jie Li et.al.|[2607.18485](http://arxiv.org/abs/2607.18485)|
 |**2026-07-19**|**Talaria: Session-Aware Serverless Serving of Hundred-Billion-Parameter LLMs**|Utopia Meng et.al.|[2607.17181](http://arxiv.org/abs/2607.17181)|
 |**2026-07-19**|**WAR: Workload-Aware Rollouts for Synchronous Agentic Reinforcement Learning**|Ryan Xu et.al.|[2607.17299](http://arxiv.org/abs/2607.17299)|
+|**2026-07-19**|**Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing**|Sabeur Lajili et.al.|[2608.12371](http://arxiv.org/abs/2608.12371)|
 |**2026-07-17**|**HiLLTS: Zero-Shot Hierarchical LLM-Guided Traffic Signal Control for Sustainable Transportation**|Yue Ding et.al.|[2607.22691](http://arxiv.org/abs/2607.22691)|
 |**2026-07-16**|**Self-Aware Recursively Self-Improving Agents for Personal Singularity: A Goal-, Scope-, Tool-, and Benchmark-Driven Multi-Agent Architecture**|Chengshuai Yang et.al.|[2607.12254](http://arxiv.org/abs/2607.12254)|
 |**2026-07-15**|**Beyond tokens: a unified framework for latent communication in LLM-based multi-agent systems**|Yingzhuo Liu et.al.|[2606.05711](http://arxiv.org/abs/2606.05711)|
