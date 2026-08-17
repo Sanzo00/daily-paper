@@ -12,6 +12,7 @@ _Updated on 2026.08.17_
 |:-------------|:------|:--------|:----|
 |**2026-08-14**|**Kalypso: Relational LLM Serving**|Hojae Son et.al.|[2607.23815](http://arxiv.org/abs/2607.23815)|
 |**2026-08-14**|**LUNAR: Benchmarking Personalized Large Language Models on UNiversal User BehAvioR Logs**|Jiahao Zhang et.al.|[2608.05246](http://arxiv.org/abs/2608.05246)|
+|**2026-08-14**|**SLAC: Access-Driven CPU-to-GPU Side-channel Attacks via System-Level Cache on Apple Silicon**|Tianhong Xu et.al.|[2608.09075_(CCS)](http://arxiv.org/abs/2608.09075)|
 |**2026-08-14**|**Potential Applications of HBF in LLM Serving Systems**|Yihan Yin et.al.|[2608.13127](http://arxiv.org/abs/2608.13127)|
 |**2026-08-14**|**TIEM: Temporal Integration of Hypergraph Evidence and Skill Memory for Event-Driven Financial Forecasting**|Wenjin Liu et.al.|[2608.13024](http://arxiv.org/abs/2608.13024)|
 |**2026-08-14**|**Demystifying Agent Skills: Why They Work-Until They Don't**|Zhiyuan Jiang et.al.|[2608.14036](http://arxiv.org/abs/2608.14036)|
@@ -23,6 +24,13 @@ _Updated on 2026.08.17_
 |**2026-08-14**|**Consensus-gated Multi-Agent Neural Architecture Search for Seismic Fault Segmentation**|Shehram Baig et.al.|[2608.13889](http://arxiv.org/abs/2608.13889)|
 |**2026-08-14**|**Exploring High-Bandwidth Flash for Modern LLM Inference: Opportunities and Challenges**|Dowon Son et.al.|[2608.13868_(CHI)](http://arxiv.org/abs/2608.13868)|
 |**2026-08-14**|**Nanbeige4.2-3B on Apple Silicon: Fixing Deployment Bugs and Decreasing Looped Transformer Memory Overhead**|John T. Halloran et.al.|[2608.13987](http://arxiv.org/abs/2608.13987)|
+|**2026-08-14**|**SheetCompass: Hierarchical Relation Graphs for Agentic Spreadsheet Reasoning**|Panjing He et.al.|[2608.14452](http://arxiv.org/abs/2608.14452)|
+|**2026-08-14**|**MINT: A Universal Zero-Shot Predictor for Transaction Data**|Parameswaran Kamalaruban et.al.|[2608.14198](http://arxiv.org/abs/2608.14198)|
+|**2026-08-14**|**When Personal Memory Has No Single Answer: Evaluating LLM Agents under Irreducible Conflict**|Lu Yang et.al.|[2608.13921](http://arxiv.org/abs/2608.13921)|
+|**2026-08-14**|**Handover of In-Context Learning State Across Session Boundaries**|Masahiro Kato et.al.|[2608.14528](http://arxiv.org/abs/2608.14528)|
+|**2026-08-14**|**Rollplex: Cross-Phase GPU Spatial Sharing for Vision Language Model Post-Training**|Hanfeng Lu et.al.|[2608.14498](http://arxiv.org/abs/2608.14498)|
+|**2026-08-14**|**PACE-Bench: Benchmarking Physics Adaptation via Code Evolution in Dynamic Environments**|Yuhao Zhan et.al.|[2608.14441](http://arxiv.org/abs/2608.14441)|
+|**2026-08-14**|**Absorbing phase transition in a queueing model of coupled adaptive agents**|Alexei Vazquez et.al.|[2608.14398](http://arxiv.org/abs/2608.14398)|
 |**2026-08-13**|**DREAM Technical Report**|Bin Zhang et.al.|[2608.09408](http://arxiv.org/abs/2608.09408)|
 |**2026-08-13**|**Private Etymology: Designing Relational Reuse of Shared Symbols in Long-Term Human-AI Interaction**|Miki Ueno et.al.|[2608.08443_(ATC)](http://arxiv.org/abs/2608.08443)|
 |**2026-08-13**|**YAVIN: A Unified Architecture for Secure Edge Processing in Memory**|Shouzhi Fang et.al.|[2608.13496](http://arxiv.org/abs/2608.13496)|
@@ -41,6 +49,7 @@ _Updated on 2026.08.17_
 |**2026-08-13**|**Spatial Memory Agent: Experience-Grounded Procedure Memory for Spatial Intelligence**|Haokai Zhang et.al.|[2608.12743](http://arxiv.org/abs/2608.12743)|
 |**2026-08-13**|**Ontology-Grounded Project Memory for Coding Agents**|James Adam et.al.|[2608.13662_(CHI)](http://arxiv.org/abs/2608.13662)|
 |**2026-08-13**|**Fine-Tuning Qwen3-27B for C-to-Rust Code Translation: A Three-Stage Curriculum of Pretraining, Debugging-Aware SFT, and Task-Specific SFT**|Pu Zhao et.al.|[2608.13681](http://arxiv.org/abs/2608.13681)|
+|**2026-08-13**|**Simplicial Semantics for Belief Revision**|Philip Sink et.al.|[2608.13763](http://arxiv.org/abs/2608.13763)|
 |**2026-08-12**|**Continual Learning in Transition**|Zhiyan Hou et.al.|[2608.06216](http://arxiv.org/abs/2608.06216)|
 |**2026-08-12**|**Learning Preference Adaptation for Large Language Model Personalization via Verbal Reinforcement Learning**|Yuting Liu et.al.|[2608.09507](http://arxiv.org/abs/2608.09507)|
 |**2026-08-12**|**FinEvolveBench: A Benchmark for Self-Evolving Agents on Low-Repetition Tasks with Implicit Rewards**|Zihao Deng et.al.|[2606.06960](http://arxiv.org/abs/2606.06960)|
@@ -106,7 +115,6 @@ _Updated on 2026.08.17_
 |**2026-08-10**|**Skills in Weights, Memory in Code: Hybrid Learning for Memory-Dependent Robot Manipulation**|Yunhao Zhao et.al.|[2608.09410](http://arxiv.org/abs/2608.09410)|
 |**2026-08-10**|**SHE: Trajectory-driven Safety Harness Evolution for LLM Agents**|Wanying Qu et.al.|[2608.09885](http://arxiv.org/abs/2608.09885)|
 |**2026-08-10**|**UnionSparse: An Index-Efficient Sparsity Framework for Low-Bit Sparse LLM Inference on Edge**|Tianhao Jiang et.al.|[2608.09291](http://arxiv.org/abs/2608.09291)|
-|**2026-08-10**|**SLAC: Access-Driven CPU-to-GPU Side-channel Attacks via System-Level Cache on Apple Silicon**|Tianhong Xu et.al.|[2608.09075_(CCS)](http://arxiv.org/abs/2608.09075)|
 |**2026-08-10**|**OpenLoopEvolve: A Verifiable Self-Evolution Framework for Loop Policies in Long-Horizon Complex Tasks**|Siqi Wang et.al.|[2608.09380](http://arxiv.org/abs/2608.09380)|
 |**2026-08-10**|**DH-VLM: Dual-Horizon Cooperative Latent Reasoning for Autonomous Driving**|Ziyi Song et.al.|[2608.09333](http://arxiv.org/abs/2608.09333)|
 |**2026-08-10**|**SAIN: Structure-Aware Interactive Navigation with Active Dialogue Grounding for Mobile Robot**|Yuhao Cao et.al.|[2608.09196](http://arxiv.org/abs/2608.09196)|
