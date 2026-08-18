@@ -10,6 +10,10 @@ _Updated on 2026.08.18_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-08-17**|**ReMP: Low-Downtime Runtime Model-Parallelism Reconfiguration for LLM Serving**|Haipeng Yuan et.al.|[2606.18741](http://arxiv.org/abs/2606.18741)|
+|**2026-08-17**|**Pallas: A Proactive KV Cache Migration Framework for LLM Inference in AI-RAN**|Tianhang Ding et.al.|[2608.16477](http://arxiv.org/abs/2608.16477)|
+|**2026-08-16**|**Q-First: Attention and Feed-Forward Concurrency at the Smallest Change to the Block**|WenJie Fan et.al.|[2608.15473](http://arxiv.org/abs/2608.15473)|
+|**2026-08-15**|**LOCAL: Enabling Learning On-device Contiguously for Agent LLMs**|Xinxin Liu et.al.|[2608.15241](http://arxiv.org/abs/2608.15241)|
 |**2026-08-14**|**Kalypso: Relational LLM Serving**|Hojae Son et.al.|[2607.23815](http://arxiv.org/abs/2607.23815)|
 |**2026-08-14**|**Potential Applications of HBF in LLM Serving Systems**|Yihan Yin et.al.|[2608.13127](http://arxiv.org/abs/2608.13127)|
 |**2026-08-14**|**Beyond Capacity: Scalable MoE LLM Inference via High-Bandwidth Flash with Direct GPU and HBM Paths**|Seeyeon Kim et.al.|[2608.14333](http://arxiv.org/abs/2608.14333)|
@@ -59,6 +63,7 @@ _Updated on 2026.08.18_
 |**2026-07-29**|**InferScale: GPU-Native KV Injection for Personalized LLM Serving**|Peter Li et.al.|[2607.27090](http://arxiv.org/abs/2607.27090)|
 |**2026-07-29**|**DualDecoder: Accelerate Long Context LLM Inference by Predictive Prefetch**|Zuning Liang et.al.|[2607.26475](http://arxiv.org/abs/2607.26475)|
 |**2026-07-29**|**A Photonic-CXL Memory Appliance for Scalable KV Cache Management in LLM Inference**|Jing Ding et.al.|[2607.27187](http://arxiv.org/abs/2607.27187)|
+|**2026-07-28**|**Belayer: Efficient Fault Tolerance for LLM Agentic RL Training**|Jiecheng Zhou et.al.|[2608.14635](http://arxiv.org/abs/2608.14635)|
 |**2026-07-27**|**KAP: Bridging the Knowledge Selection-Runtime Consumption Gap in LLM Systems**|Shuo Wang et.al.|[2607.24260](http://arxiv.org/abs/2607.24260)|
 |**2026-07-24**|**Fewer Paths, Better Performance: Understanding the ZCube Topology through Braess's Paradox**|Li Chen et.al.|[2607.21893](http://arxiv.org/abs/2607.21893)|
 |**2026-07-23**|**Persistent Computational State: A Session-Centric Runtime for Generative World Models**|Zhen Lin et.al.|[2607.21686](http://arxiv.org/abs/2607.21686)|
@@ -69,6 +74,7 @@ _Updated on 2026.08.18_
 |**2026-07-18**|**Robust KV Cache Management for LLM Serving under Output Token Length Uncertainty**|Jiaming Cheng et.al.|[2607.16892](http://arxiv.org/abs/2607.16892)|
 |**2026-07-17**|**A JoLT for the KV Cache: Near-Lossless KV Cache Compression via Joint Tucker and JL-Residual Allocation for LLMs**|Rahul Krishnan et.al.|[2607.12550](http://arxiv.org/abs/2607.12550)|
 |**2026-07-17**|**PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-Aware Weight Quantization**|Yuchen Yang et.al.|[2607.16184](http://arxiv.org/abs/2607.16184)|
+|**2026-07-16**|**Learning Agent Execution for KV-Cache Management in Agentic Serving**|Rui Zhang et.al.|[2608.14624](http://arxiv.org/abs/2608.14624)|
 |**2026-07-15**|**Beyond tokens: a unified framework for latent communication in LLM-based multi-agent systems**|Yingzhuo Liu et.al.|[2606.05711](http://arxiv.org/abs/2606.05711)|
 |**2026-07-13**|**[AAFLOW+] Stateful Operator Abstraction with Zero-Copy Distributed KV Cache Orchestration for Multi-Agent Workflows**|Arup Kumar Sarker et.al.|[2607.10987](http://arxiv.org/abs/2607.10987)|
 |**2026-07-13**|**FastTPS: An Optimized Method for LLM Token Phase for AI accelerators**|Wenzong Yang et.al.|[2607.11211](http://arxiv.org/abs/2607.11211)|
@@ -142,7 +148,6 @@ _Updated on 2026.08.18_
 |**2026-06-18**|**SAC: Disaggregated KV Cache System for Sparse Attention LLMs with CXL**|Ruiyang Ma et.al.|[2606.19746](http://arxiv.org/abs/2606.19746)|
 |**2026-06-18**|**ViCoStream: Streaming VideoLLMs Can Run Beyond 100 FPS with Stage-Wise Coordinated Inference**|Yang Tan et.al.|[2606.19849](http://arxiv.org/abs/2606.19849)|
 |**2026-06-17**|**DSB: Dynamic Sliding Block Scheduling for Diffusion LLMs**|Lizhuo Luo et.al.|[2602.05992_(CHI)](http://arxiv.org/abs/2602.05992)|
-|**2026-06-17**|**ReMP: Low-Downtime Runtime Model-Parallelism Reconfiguration for LLM Serving**|Haipeng Yuan et.al.|[2606.18741](http://arxiv.org/abs/2606.18741)|
 |**2026-06-16**|**ITME: Inference Tiered Memory Expansion with Disaggregated CXL-Hybrid Memories**|Hakbeom Jang et.al.|[2606.12556](http://arxiv.org/abs/2606.12556)|
 |**2026-06-16**|**LUMEN: Coordinated Failure Recovery for Distributed LLM Serving**|Zhang Cao et.al.|[2606.17787](http://arxiv.org/abs/2606.17787)|
 |**2026-06-16**|**Bifrost: Hybrid TEE-FHE Inference for Privacy-Preserving Transformer and LLM Serving**|Chenghao Chen et.al.|[2606.17421](http://arxiv.org/abs/2606.17421)|
@@ -162,6 +167,7 @@ _Updated on 2026.08.18_
 |**2026-06-11**|**MedLatentDx: Latent Multi-Agent Communication for Cross-Hospital Rare-Disease Diagnosis**|Ziqing Wang et.al.|[2606.13945](http://arxiv.org/abs/2606.13945)|
 |**2026-06-11**|**Efficient On-Device Diffusion LLM Inference with Mobile NPU**|Tuowei Wang et.al.|[2606.13740](http://arxiv.org/abs/2606.13740)|
 |**2026-06-10**|**Unified KV Pooling to Accelerate Long-Context LLM Serving**|Minchul Kang et.al.|[2606.14779](http://arxiv.org/abs/2606.14779)|
+|**2026-06-10**|**HW-Router: Hardware-Aware Routing for Scalable Multi-LLM Serving**|Ahasan Kabir et.al.|[2608.14575](http://arxiv.org/abs/2608.14575)|
 |**2026-06-09**|**ReasonAlloc: Hierarchical Decoding-Time KV Cache Budget Allocation for Reasoning Models**|Wenhao Liu et.al.|[2606.11164](http://arxiv.org/abs/2606.11164)|
 |**2026-06-09**|**INFRAMIND: Infrastructure-Aware Multi-Agent Orchestration**|Ahasan Kabir et.al.|[2606.11440](http://arxiv.org/abs/2606.11440)|
 |**2026-06-08**|**FlexNPU: Transparent NPU Virtualization for Dynamic LLM Prefill-Decode Co-location**|Jiongjiong Gu et.al.|[2606.04415](http://arxiv.org/abs/2606.04415)|
