@@ -6,10 +6,17 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.08.17_
+_Updated on 2026.08.18_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-08-17**|**$R^3$-Bench: LLMs Struggle with Resource-Rational Reasoning under Shared Budgets**|Peisong Wang et.al.|[2608.16033](http://arxiv.org/abs/2608.16033)|
+|**2026-08-16**|**SocialCoach: Personalized Social Skill Learning with Agentic Tutoring and Practice**|Tianfu Wang et.al.|[2606.04155](http://arxiv.org/abs/2606.04155)|
+|**2026-08-16**|**Aborted but Not Forgotten: KV-Cache Retention Breaks Rollback Consistency in Language Agents**|Guijia Zhang et.al.|[2608.15939](http://arxiv.org/abs/2608.15939)|
+|**2026-08-15**|**LOCAL: Enabling Learning On-device Contiguously for Agent LLMs**|Xinxin Liu et.al.|[2608.15241](http://arxiv.org/abs/2608.15241)|
+|**2026-08-15**|**Anatomy of a Quantized Agent: VRAM Stability and Forecasting in Code-Synthesis Agentic Workloads**|Anubhab Banerjee et.al.|[2608.15117](http://arxiv.org/abs/2608.15117)|
+|**2026-08-15**|**P-PAS: Prefill-Pressure Adaptive Scheduling for Long-Context LLM Serving**|Timo Sämann et.al.|[2608.15171](http://arxiv.org/abs/2608.15171)|
+|**2026-08-15**|**When Does Distributed AI Inference Need More Wide-Area Bandwidth? A Co-Design Evaluation of Optical, Packet, and Software Levers**|Prasanna C et.al.|[2608.14967](http://arxiv.org/abs/2608.14967)|
 |**2026-08-13**|**VoiceChat-TTS: A Low-Latency Continuous Speech Synthesis Model for Interactive Agents**|Edresson Casanova et.al.|[2608.13831](http://arxiv.org/abs/2608.13831)|
 |**2026-08-12**|**XBridge: Entity-Grounded Latent Bridge for Heterogeneous LLM Communication**|Wooseong Yang et.al.|[2608.11676](http://arxiv.org/abs/2608.11676)|
 |**2026-08-11**|**A Fast Locality Simulator for GEMM Design-Space Exploration on Multi-Chiplet GPUs**|Euijun Chung et.al.|[2606.11716](http://arxiv.org/abs/2606.11716)|
@@ -41,6 +48,7 @@ _Updated on 2026.08.17_
 |**2026-08-02**|**An Internet for the KV Cache: Rethinking Classical Infrastructure Boundaries in the LLM Inference Age**|Siddhant Ray et.al.|[2608.01526](http://arxiv.org/abs/2608.01526)|
 |**2026-08-02**|**Practical Online KV Cache Compaction for LLM Agents: An Empirical Study**|Yujian Liu et.al.|[2608.00902](http://arxiv.org/abs/2608.00902)|
 |**2026-08-02**|**Learning What to Remember and What to Internalize in LLM Self-Evolution via Adaptive Memory-Parameter Coordination**|Tianyun Ji et.al.|[2608.01234](http://arxiv.org/abs/2608.01234)|
+|**2026-08-02**|**BRA-Audit: Budgeted Runtime Auditing for LLM Multi-Agent Systems via Cumulative-Exposure Audit-Point Placement**|Kaixiang Wang et.al.|[2608.14668](http://arxiv.org/abs/2608.14668)|
 |**2026-08-01**|**BANDMAS: Causality-Inspired Semantic Packet Scheduling for Bandwidth-Efficient Multi-Agent Collaboration**|Jiangwen Dong et.al.|[2608.00458](http://arxiv.org/abs/2608.00458)|
 |**2026-07-31**|**Mixture-of-Translators: Translating KV Caches Across Heterogeneous Large Language Models**|Jin-woo Lee et.al.|[2607.28979](http://arxiv.org/abs/2607.28979)|
 |**2026-07-31**|**CrystalMem: Elastic Memory for Self-Evolving LLM Agents via Knowledge Crystallization**|Beining Wu et.al.|[2608.00303](http://arxiv.org/abs/2608.00303)|
@@ -55,6 +63,7 @@ _Updated on 2026.08.17_
 |**2026-07-29**|**MultiFixer: A Coordinator-Proposer Based Multi-Agent Framework For Fixing Multi-Hunk Bugs**|Haichuan Hu et.al.|[2607.26591](http://arxiv.org/abs/2607.26591)|
 |**2026-07-29**|**Emission-Forecasting-Based Spatial-Temporal Carbon Response: A Multi-Agent Attention-Enhanced Deep Learning Framework**|Feiyu Cai et.al.|[2607.26560](http://arxiv.org/abs/2607.26560)|
 |**2026-07-28**|**LLMs for Agentic Home Energy Management**|Sokipriala Jonah et.al.|[2607.04569](http://arxiv.org/abs/2607.04569)|
+|**2026-07-28**|**Belayer: Efficient Fault Tolerance for LLM Agentic RL Training**|Jiecheng Zhou et.al.|[2608.14635](http://arxiv.org/abs/2608.14635)|
 |**2026-07-27**|**Where Facts Go Missing: A Layerwise Taxonomy and Per-Layer Attribution of Information Omission in Air-Gapped LLMAgent Pipelines**|Santhiya Rajan et.al.|[2607.22448](http://arxiv.org/abs/2607.22448)|
 |**2026-07-26**|**Multi-Turn On-Policy Distillation with Prefix Replay**|Baohao Liao et.al.|[2607.04763](http://arxiv.org/abs/2607.04763)|
 |**2026-07-24**|**Agentic CPU-GPU Scheduling for Heterogeneous AI Workloads**|Tianxi Lu et.al.|[2607.22242](http://arxiv.org/abs/2607.22242)|
@@ -66,6 +75,7 @@ _Updated on 2026.08.17_
 |**2026-07-19**|**Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing**|Sabeur Lajili et.al.|[2608.12371](http://arxiv.org/abs/2608.12371)|
 |**2026-07-17**|**HiLLTS: Zero-Shot Hierarchical LLM-Guided Traffic Signal Control for Sustainable Transportation**|Yue Ding et.al.|[2607.22691](http://arxiv.org/abs/2607.22691)|
 |**2026-07-16**|**Self-Aware Recursively Self-Improving Agents for Personal Singularity: A Goal-, Scope-, Tool-, and Benchmark-Driven Multi-Agent Architecture**|Chengshuai Yang et.al.|[2607.12254](http://arxiv.org/abs/2607.12254)|
+|**2026-07-16**|**Learning Agent Execution for KV-Cache Management in Agentic Serving**|Rui Zhang et.al.|[2608.14624](http://arxiv.org/abs/2608.14624)|
 |**2026-07-15**|**Beyond tokens: a unified framework for latent communication in LLM-based multi-agent systems**|Yingzhuo Liu et.al.|[2606.05711](http://arxiv.org/abs/2606.05711)|
 |**2026-07-15**|**JW-ASTClaw: A Generalizable Multi-Agent Framework for Autonomous Solar Telescope and Its Implementation within Chinese Meridian Project**|Li-Yue Tong et.al.|[2607.13549](http://arxiv.org/abs/2607.13549)|
 |**2026-07-15**|**Scientific-Intention Driven Embodied Intelligent Solar Telescope: Conceptual Design**|Lin Jiaben et.al.|[2607.13533](http://arxiv.org/abs/2607.13533)|
@@ -164,7 +174,6 @@ _Updated on 2026.08.17_
 |**2026-06-04**|**Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads**|Yasmine Omri et.al.|[2606.06448](http://arxiv.org/abs/2606.06448)|
 |**2026-06-04**|**TOKI: A Bitemporal Operator Algebra for Contradiction Resolution in LLM-Agent Persistent Memory**|Ziming Wang et.al.|[2606.06240](http://arxiv.org/abs/2606.06240)|
 |**2026-06-03**|**CuTeGen: An LLM-Based Agentic Framework for Generation and Optimization of High-Performance GPU Kernels using CuTe**|Tara Saba et.al.|[2604.01489](http://arxiv.org/abs/2604.01489)|
-|**2026-06-02**|**SocialCoach: Personalized Social Skill Learning with RL-based Agentic Tutoring and Practice**|Tianfu Wang et.al.|[2606.04155](http://arxiv.org/abs/2606.04155)|
 |**2026-06-02**|**Agent libOS: A Library-OS-Inspired Runtime for Long-Running, Capability-Controlled LLM Agents**|Yingqi Zhang et.al.|[2606.03895](http://arxiv.org/abs/2606.03895)|
 |**2026-06-02**|**Entropy Gate: Entropy Quenching for Near-Lossless Token Compression in LLM Pipelines**|Justice Owusu Agyemang et.al.|[2606.03739](http://arxiv.org/abs/2606.03739)|
 |**2026-06-02**|**MOSAIC: Efficient Mixture-of-Agent Scheduling via Adaptive Aggregation and Inference Concurrency**|Saptarshi Mitra et.al.|[2606.03014](http://arxiv.org/abs/2606.03014)|
