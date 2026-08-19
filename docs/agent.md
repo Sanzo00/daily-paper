@@ -6,10 +6,13 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.08.18_
+_Updated on 2026.08.19_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-08-18**|**Belayer: Efficient Fault Tolerance for LLM Agentic RL Training**|Jiecheng Zhou et.al.|[2608.14635](http://arxiv.org/abs/2608.14635)|
+|**2026-08-18**|**Agent Lightning v1.0: Towards Harnessed Agentic RL**|Zhiyuan He et.al.|[2608.17528](http://arxiv.org/abs/2608.17528)|
+|**2026-08-18**|**Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements**|Zhi Zheng et.al.|[2608.17310](http://arxiv.org/abs/2608.17310)|
 |**2026-08-17**|**$R^3$-Bench: LLMs Struggle with Resource-Rational Reasoning under Shared Budgets**|Peisong Wang et.al.|[2608.16033](http://arxiv.org/abs/2608.16033)|
 |**2026-08-16**|**SocialCoach: Personalized Social Skill Learning with Agentic Tutoring and Practice**|Tianfu Wang et.al.|[2606.04155](http://arxiv.org/abs/2606.04155)|
 |**2026-08-16**|**Aborted but Not Forgotten: KV-Cache Retention Breaks Rollback Consistency in Language Agents**|Guijia Zhang et.al.|[2608.15939](http://arxiv.org/abs/2608.15939)|
@@ -63,7 +66,6 @@ _Updated on 2026.08.18_
 |**2026-07-29**|**MultiFixer: A Coordinator-Proposer Based Multi-Agent Framework For Fixing Multi-Hunk Bugs**|Haichuan Hu et.al.|[2607.26591](http://arxiv.org/abs/2607.26591)|
 |**2026-07-29**|**Emission-Forecasting-Based Spatial-Temporal Carbon Response: A Multi-Agent Attention-Enhanced Deep Learning Framework**|Feiyu Cai et.al.|[2607.26560](http://arxiv.org/abs/2607.26560)|
 |**2026-07-28**|**LLMs for Agentic Home Energy Management**|Sokipriala Jonah et.al.|[2607.04569](http://arxiv.org/abs/2607.04569)|
-|**2026-07-28**|**Belayer: Efficient Fault Tolerance for LLM Agentic RL Training**|Jiecheng Zhou et.al.|[2608.14635](http://arxiv.org/abs/2608.14635)|
 |**2026-07-27**|**Where Facts Go Missing: A Layerwise Taxonomy and Per-Layer Attribution of Information Omission in Air-Gapped LLMAgent Pipelines**|Santhiya Rajan et.al.|[2607.22448](http://arxiv.org/abs/2607.22448)|
 |**2026-07-26**|**Multi-Turn On-Policy Distillation with Prefix Replay**|Baohao Liao et.al.|[2607.04763](http://arxiv.org/abs/2607.04763)|
 |**2026-07-24**|**Agentic CPU-GPU Scheduling for Heterogeneous AI Workloads**|Tianxi Lu et.al.|[2607.22242](http://arxiv.org/abs/2607.22242)|

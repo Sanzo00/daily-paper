@@ -6,10 +6,11 @@ nav_order: 3
 
 # GNN Papers
 
-_Updated on 2026.08.18_
+_Updated on 2026.08.19_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-08-17**|**Community Concealment from Graph Neural Networks**|Dalyapraz Manatova et.al.|[2602.12250](http://arxiv.org/abs/2602.12250)|
 |**2026-08-15**|**BrainLinear: A Linear Model for Brain Network Analysis in Sparse Tangent Subspaces**|Sijing Wu et.al.|[2608.15266](http://arxiv.org/abs/2608.15266)|
 |**2026-08-07**|**LGNNIC: Acceleration of Large-Scale GNN Training using SmartNICs**|Liad Gerstman et.al.|[2608.07733](http://arxiv.org/abs/2608.07733)|
 |**2026-08-06**|**SNI-GNN: SmartNIC-Assisted Full-Graph GNN Training with In-Network Embedding Prediction**|Guofan Yu et.al.|[2608.06441_(ICDE)](http://arxiv.org/abs/2608.06441)|
@@ -44,7 +45,6 @@ _Updated on 2026.08.18_
 |**2026-02-20**|**Graph-Neural Multi-Agent Coordination for Distributed Access-Point Selection in Cell-Free Massive MIMO**|Mohammad Zangooei et.al.|[2602.17954_(ISS)](http://arxiv.org/abs/2602.17954)|
 |**2026-02-18**|**ASSENT: Learning-Based Association Optimization for Distributed Cell-Free ISAC**|Mehdi Zafari et.al.|[2511.09992_(ICC)](http://arxiv.org/abs/2511.09992)|
 |**2026-02-16**|**Grappa: Gradient-Only Communication for Scalable Graph Neural Network Training**|Chongyang Xu et.al.|[2602.01872](http://arxiv.org/abs/2602.01872)|
-|**2026-02-12**|**Community Concealment from Unsupervised Graph Learning-Based Clustering**|Dalyapraz Manatova et.al.|[2602.12250](http://arxiv.org/abs/2602.12250)|
 |**2026-01-24**|**Network-Optimised Spiking Neural Network for Event-Driven Networking**|Muhammad Bilal et.al.|[2509.23516](http://arxiv.org/abs/2509.23516)|
 |**2026-01-15**|**Hardware Acceleration for Neural Networks: A Comprehensive Survey**|Bin Xu et.al.|[2512.23914](http://arxiv.org/abs/2512.23914)|
 |**2026-01-09**|**CyberGFM: Graph Foundation Models for Lateral Movement Detection in Enterprise Networks**|Isaiah J. King et.al.|[2601.05988](http://arxiv.org/abs/2601.05988)|

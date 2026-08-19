@@ -6,10 +6,12 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.08.18_
+_Updated on 2026.08.19_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-08-18**|**Belayer: Efficient Fault Tolerance for LLM Agentic RL Training**|Jiecheng Zhou et.al.|[2608.14635](http://arxiv.org/abs/2608.14635)|
+|**2026-08-18**|**Bounded-State Restoration: Decoupling Local Restore Capacity from External LLM State**|Zixuan Li et.al.|[2608.17826](http://arxiv.org/abs/2608.17826)|
 |**2026-08-17**|**ReMP: Low-Downtime Runtime Model-Parallelism Reconfiguration for LLM Serving**|Haipeng Yuan et.al.|[2606.18741](http://arxiv.org/abs/2606.18741)|
 |**2026-08-17**|**Pallas: A Proactive KV Cache Migration Framework for LLM Inference in AI-RAN**|Tianhang Ding et.al.|[2608.16477](http://arxiv.org/abs/2608.16477)|
 |**2026-08-16**|**Q-First: Attention and Feed-Forward Concurrency at the Smallest Change to the Block**|WenJie Fan et.al.|[2608.15473](http://arxiv.org/abs/2608.15473)|
@@ -17,6 +19,7 @@ _Updated on 2026.08.18_
 |**2026-08-14**|**Kalypso: Relational LLM Serving**|Hojae Son et.al.|[2607.23815](http://arxiv.org/abs/2607.23815)|
 |**2026-08-14**|**Potential Applications of HBF in LLM Serving Systems**|Yihan Yin et.al.|[2608.13127](http://arxiv.org/abs/2608.13127)|
 |**2026-08-14**|**Beyond Capacity: Scalable MoE LLM Inference via High-Bandwidth Flash with Direct GPU and HBM Paths**|Seeyeon Kim et.al.|[2608.14333](http://arxiv.org/abs/2608.14333)|
+|**2026-08-14**|**A Tight Linear Deterministic Competitive Ratio for Fully Online KV-Cache Scheduling**|Ian D'Ambrosio et.al.|[2608.16944_(CHI)](http://arxiv.org/abs/2608.16944)|
 |**2026-08-13**|**HBF Sucks! A Full-Stack Characterization of High-Bandwidth Flash for KV-Centric LLM Serving**|Zhuoran Li et.al.|[2608.11668](http://arxiv.org/abs/2608.11668)|
 |**2026-08-12**|**Luna-TTS Family Technical Report**|Feng Yin et.al.|[2608.11593](http://arxiv.org/abs/2608.11593)|
 |**2026-08-12**|**XBridge: Entity-Grounded Latent Bridge for Heterogeneous LLM Communication**|Wooseong Yang et.al.|[2608.11676](http://arxiv.org/abs/2608.11676)|
@@ -63,7 +66,6 @@ _Updated on 2026.08.18_
 |**2026-07-29**|**InferScale: GPU-Native KV Injection for Personalized LLM Serving**|Peter Li et.al.|[2607.27090](http://arxiv.org/abs/2607.27090)|
 |**2026-07-29**|**DualDecoder: Accelerate Long Context LLM Inference by Predictive Prefetch**|Zuning Liang et.al.|[2607.26475](http://arxiv.org/abs/2607.26475)|
 |**2026-07-29**|**A Photonic-CXL Memory Appliance for Scalable KV Cache Management in LLM Inference**|Jing Ding et.al.|[2607.27187](http://arxiv.org/abs/2607.27187)|
-|**2026-07-28**|**Belayer: Efficient Fault Tolerance for LLM Agentic RL Training**|Jiecheng Zhou et.al.|[2608.14635](http://arxiv.org/abs/2608.14635)|
 |**2026-07-27**|**KAP: Bridging the Knowledge Selection-Runtime Consumption Gap in LLM Systems**|Shuo Wang et.al.|[2607.24260](http://arxiv.org/abs/2607.24260)|
 |**2026-07-24**|**Fewer Paths, Better Performance: Understanding the ZCube Topology through Braess's Paradox**|Li Chen et.al.|[2607.21893](http://arxiv.org/abs/2607.21893)|
 |**2026-07-23**|**Persistent Computational State: A Session-Centric Runtime for Generative World Models**|Zhen Lin et.al.|[2607.21686](http://arxiv.org/abs/2607.21686)|
