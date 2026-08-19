@@ -23,6 +23,13 @@ _Updated on 2026.08.19_
 |**2026-08-18**|**Multi-turn Conversational AI from Text to Multimodal Interaction: Data, Models, Evaluation, and Open Challenges**|Syeda Faiza Ahmed et.al.|[2608.17605_(SAT)](http://arxiv.org/abs/2608.17605)|
 |**2026-08-18**|**HODAgent: Towards On-Demand, Responsive Humanoids for Physical World Human Interaction**|Wang Warren Chen et.al.|[2608.17584](http://arxiv.org/abs/2608.17584)|
 |**2026-08-18**|**Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements**|Zhi Zheng et.al.|[2608.17310](http://arxiv.org/abs/2608.17310)|
+|**2026-08-18**|**Memory Tree Guided Key Frame Querying for Efficient 3D Question Answering**|Hsiang-Wei Huang et.al.|[2608.18009_(ECCV)](http://arxiv.org/abs/2608.18009)|
+|**2026-08-18**|**Beyond FLOPs: Energy-Aware Knowledge Distillation for Sustainable LLMs on Code-Related Task**|Enrique Barba Roque et.al.|[2608.17515](http://arxiv.org/abs/2608.17515)|
+|**2026-08-18**|**Structure-Internalized Rule Language Model for Faithful Knowledge Graph Reasoning**|Xingrui Zhuo et.al.|[2608.17443](http://arxiv.org/abs/2608.17443)|
+|**2026-08-18**|**Auditing Self-Evolution in Financial Agents: Capability Gains, Security Drift, and Execution-Interface Mismatch**|Jialong Li et.al.|[2608.17684](http://arxiv.org/abs/2608.17684)|
+|**2026-08-18**|**Communication Reduction via Semantic-Based Encoding in DMPC Using LSTMs**|Torben Schiz et.al.|[2608.17592](http://arxiv.org/abs/2608.17592)|
+|**2026-08-18**|**Embodied-Navigator: Point, Think, Memorize, and Align for Efficient Navigation**|Hongyan Feng et.al.|[2608.17512](http://arxiv.org/abs/2608.17512)|
+|**2026-08-18**|**Repetition as Reinforcement: Enhancing Sample Efficiency via Instant Episode Repetition in Reinforcement Learning**|Hoda Yamani et.al.|[2608.17347](http://arxiv.org/abs/2608.17347)|
 |**2026-08-17**|**AQuA: Recursively Self-Improving Quantitative Trading Research Agents**|Jiacheng Guo et.al.|[2608.12841](http://arxiv.org/abs/2608.12841)|
 |**2026-08-17**|**MobileMem: Learning from a Year of Mobile Experiences**|Xinle Deng et.al.|[2608.13606](http://arxiv.org/abs/2608.13606)|
 |**2026-08-17**|**Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory**|Bingxin Xu et.al.|[2608.16889](http://arxiv.org/abs/2608.16889)|
@@ -42,6 +49,11 @@ _Updated on 2026.08.19_
 |**2026-08-17**|**FTA-Mem: Fact-Time-Affect Anchored Memory for Low-Density Long-Term Dialogue**|Chang Liu et.al.|[2608.16303](http://arxiv.org/abs/2608.16303)|
 |**2026-08-17**|**FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution**|Shuo Yang et.al.|[2608.16157](http://arxiv.org/abs/2608.16157)|
 |**2026-08-17**|**Authorization Before Context: A Model-Neutral Audience Boundary Against Cross-Audience Memory Leakage in Agentic Systems**|Sibo Liu et.al.|[2608.17148_(CHI)](http://arxiv.org/abs/2608.17148)|
+|**2026-08-17**|**Structured Driving-State Narratives for Small Language Model-Based GNSS Spoofing Detection**|Abyad Enan et.al.|[2608.17092](http://arxiv.org/abs/2608.17092)|
+|**2026-08-17**|**Teach and Grow: An Agent-Centered Architecture for General Robot Learning**|Chang Nie et.al.|[2608.17209](http://arxiv.org/abs/2608.17209)|
+|**2026-08-17**|**KernelArc: A Multi-Agent Framework for GPU Kernel Optimization**|Joyjit Kundu et.al.|[2608.17071](http://arxiv.org/abs/2608.17071)|
+|**2026-08-17**|**Memory Is Communication: The Frontier Between Remembering and Signaling**|Yashar Talebirad et.al.|[2608.17053](http://arxiv.org/abs/2608.17053)|
+|**2026-08-17**|**SkillEffect: Checked Lowering for Memory-Bounded Agent Tools**|Yinuo Wang et.al.|[2608.17007](http://arxiv.org/abs/2608.17007)|
 |**2026-08-16**|**Persistent Recursive Worlds Enable Autonomous Software Evolution**|Beichen Huang et.al.|[2608.10450](http://arxiv.org/abs/2608.10450)|
 |**2026-08-16**|**When Your Agent Opens the Chat App: Agent-Controlled Search over Raw Chat Logs Rivals Structured Memory**|Ruizhe Li et.al.|[2608.12888](http://arxiv.org/abs/2608.12888)|
 |**2026-08-16**|**HyMem: Hierarchical Context Management for Long-Horizon Agents via Information Isolation**|XinQi Wang et.al.|[2608.15703](http://arxiv.org/abs/2608.15703)|
