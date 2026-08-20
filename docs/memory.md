@@ -6,13 +6,23 @@ nav_order: 5
 
 # Memory Papers
 
-_Updated on 2026.08.19_
+_Updated on 2026.08.20_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-08-19**|**Selective KV Cache Protection for Noise-Resilient LLM Inference on Analog Compute-In-Memory Systems**|Yuannuo Feng et.al.|[2607.29076](http://arxiv.org/abs/2607.29076)|
+|**2026-08-19**|**Q-First: Most of Attention Needs Only the Query in Disaggregated LLM Decoding**|WenJie Fan et.al.|[2608.15473](http://arxiv.org/abs/2608.15473)|
+|**2026-08-19**|**D$^2$ACCI: A Dual-Loop Diagnostic Protocol for Evidence-Preserving Agent Memory**|Xule Liu et.al.|[2608.17756](http://arxiv.org/abs/2608.17756)|
+|**2026-08-19**|**Adaptive Memory and Reflection Multi-Agent System for Medical Question Answering**|Pradeep Murugesan et.al.|[2608.19029](http://arxiv.org/abs/2608.19029)|
+|**2026-08-19**|**MemFuse: Multi-Source Memory Fusion from Fragmented Observations**|Chao Li et.al.|[2608.18704](http://arxiv.org/abs/2608.18704)|
+|**2026-08-19**|**Sanyu Studio: A Multi-Agent System for Art-Historical Narrative Construction**|Zhaoxi Wei et.al.|[2608.18677](http://arxiv.org/abs/2608.18677)|
+|**2026-08-19**|**Report on The 1st Workshop on Human-Centered Proactive and Personalized Agents for Interactive Information Access at CHIIR 2026**|Kirandeep Kaur et.al.|[2608.18638](http://arxiv.org/abs/2608.18638)|
+|**2026-08-19**|**PILOT Technical Report**|Jiuning Lin et.al.|[2608.18637](http://arxiv.org/abs/2608.18637)|
+|**2026-08-19**|**rEDMRec: Distilling Large Language Model Reasoning into an Editable Experience Memory for Recommendation**|Minh Hoang Nguyen et.al.|[2608.18952](http://arxiv.org/abs/2608.18952)|
+|**2026-08-19**|**Compress and Forget: bitsandbytes Quantization Amplifies Proactive Interference in LLMs**|Shayan Shahrabi-Farahani et.al.|[2608.18578](http://arxiv.org/abs/2608.18578)|
+|**2026-08-18**|**EgoCITE: Context-Augmented Indexing and Time-Aware Retrieval for Long-Horizon Egocentric Memory**|Le Zhang et.al.|[2608.12627](http://arxiv.org/abs/2608.12627)|
 |**2026-08-18**|**LENS: In-Context Search via Latent Evidence Exploration over Dynamic Raw Documents**|Xingjun Wang et.al.|[2608.16185](http://arxiv.org/abs/2608.16185)|
 |**2026-08-18**|**CABLE: Extending the Reach of Memory Retrieval via Complementary Antecedent-Based Linking and Expansion**|Zheling Tan et.al.|[2608.17911](http://arxiv.org/abs/2608.17911)|
-|**2026-08-18**|**D$^2$ACCI: A Dual-Loop Diagnostic Protocol for Evidence-Preserving Agent Memory**|Xule Liu et.al.|[2608.17756](http://arxiv.org/abs/2608.17756)|
 |**2026-08-18**|**GraphWake: Group Polarization via Memory-Mediated Polarization Cascade in LLM-Agent Communities**|Haoran Bu et.al.|[2608.17665](http://arxiv.org/abs/2608.17665)|
 |**2026-08-18**|**Explicit State Elicitation Is Not Enough: A Controlled Audit of Memory-Policy Classification**|Yihang Chen et.al.|[2608.17247](http://arxiv.org/abs/2608.17247)|
 |**2026-08-18**|**Bounded-State Restoration: Decoupling Local Restore Capacity from External LLM State**|Zixuan Li et.al.|[2608.17826](http://arxiv.org/abs/2608.17826)|
@@ -59,7 +69,6 @@ _Updated on 2026.08.19_
 |**2026-08-16**|**HyMem: Hierarchical Context Management for Long-Horizon Agents via Information Isolation**|XinQi Wang et.al.|[2608.15703](http://arxiv.org/abs/2608.15703)|
 |**2026-08-16**|**Mental Model Management: An Operator-Based Framework for LLM Memory**|Oliver Kramer et.al.|[2608.15451](http://arxiv.org/abs/2608.15451)|
 |**2026-08-16**|**When Entropy Is Not Enough: Reclaiming Lost Semantics in LLM Output Length Prediction**|Feiyang Ren et.al.|[2608.15592](http://arxiv.org/abs/2608.15592)|
-|**2026-08-16**|**Q-First: Attention and Feed-Forward Concurrency at the Smallest Change to the Block**|WenJie Fan et.al.|[2608.15473](http://arxiv.org/abs/2608.15473)|
 |**2026-08-16**|**GraniKV: Asymmetric Granularity KV-Cache Paging for Multi-Agent Systems with Long Shared Prefix**|Jinhyun Jeon et.al.|[2608.15584](http://arxiv.org/abs/2608.15584)|
 |**2026-08-16**|**Global Simulation-Guided Dynamic Operator Scheduling for Efficient Multi-Tenant Model Serving**|Weinan Liu et.al.|[2608.15762](http://arxiv.org/abs/2608.15762)|
 |**2026-08-16**|**FlashQuant: Sparse-Dense Fusion for Memory-Efficient Outlier-Aware LLM Inference**|Junqing Lin et.al.|[2608.15531](http://arxiv.org/abs/2608.15531)|
@@ -74,7 +83,6 @@ _Updated on 2026.08.19_
 |**2026-08-16**|**A memory-based three-state model of competing technology adoption: substitution regimes, multi-homing, and churn**|Stefano Scialla et.al.|[2608.15706](http://arxiv.org/abs/2608.15706)|
 |**2026-08-15**|**Evolving Skill-Structured Attack Memory Enhances LLM Jailbreaking**|Junke Zhang et.al.|[2605.29237](http://arxiv.org/abs/2605.29237)|
 |**2026-08-15**|**LACE-SVD: Loss-Aware SVD with Cumulative Error Correction for LLM Compression**|Zhuowen Liu et.al.|[2607.03057](http://arxiv.org/abs/2607.03057)|
-|**2026-08-15**|**EgoCITE: Context-Augmented Indexing and Time-Aware Retrieval for Long-Horizon Egocentric Memory**|Le Zhang et.al.|[2608.12627](http://arxiv.org/abs/2608.12627)|
 |**2026-08-15**|**Afterlife Delegation Protocol: Speculative Design of Self-Sovereign Agents that Outlive Their Principals**|Botao Amber Hu et.al.|[2608.15405_(NeurIPS)](http://arxiv.org/abs/2608.15405)|
 |**2026-08-15**|**Valhalla: A Layered Knowledge-State and Service-Governance Framework for Long-Term Scientific Knowledge Work**|Yuyang Zheng et.al.|[2608.15193](http://arxiv.org/abs/2608.15193)|
 |**2026-08-15**|**From LLM Inference to Agentic Workloads: Characterization and Implications for Serving Systems**|Chaokun Chang et.al.|[2608.15127](http://arxiv.org/abs/2608.15127)|
@@ -430,7 +438,6 @@ _Updated on 2026.08.19_
 |**2026-07-31**|**AgenticRepair: Multi-Faceted Program Context Engineering for Agentic Vulnerability Repair**|Michael Fu et.al.|[2607.29422](http://arxiv.org/abs/2607.29422)|
 |**2026-07-31**|**Zero-Mem: Zero-Token Memory Operations for LLM Agents**|Yilin Xiao et.al.|[2607.29377](http://arxiv.org/abs/2607.29377)|
 |**2026-07-31**|**Memory Provenance Laundering in LLM Agents: A Non-Amplification Firewall for Persistent Memory**|Jinghan Xu et.al.|[2607.29167_(EMNLP)](http://arxiv.org/abs/2607.29167)|
-|**2026-07-31**|**Selective KV Cache Protection for Noise-Resilient LLM Inference on Analog Compute-In-Memory Systems**|Yuannuo Feng et.al.|[2607.29076](http://arxiv.org/abs/2607.29076)|
 |**2026-07-31**|**TransMem: Transforming Hidden States into Memory for Large Language Models**|Haodong Lei et.al.|[2607.29032](http://arxiv.org/abs/2607.29032)|
 |**2026-07-31**|**Mixture-of-Translators: Translating KV Caches Across Heterogeneous Large Language Models**|Jin-woo Lee et.al.|[2607.28979](http://arxiv.org/abs/2607.28979)|
 |**2026-07-31**|**Self-Play Meets Skill Evolution: Self-Evolving Search Agents that Pose, Solve, and Remember**|Zenghuang Fu et.al.|[2607.29468](http://arxiv.org/abs/2607.29468)|
