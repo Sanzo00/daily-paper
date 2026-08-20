@@ -10,11 +10,12 @@ _Updated on 2026.08.20_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-08-19**|**Selective KV Cache Protection for Noise-Resilient LLM Inference on Analog Compute-In-Memory Systems**|Yuannuo Feng et.al.|[2607.29076](http://arxiv.org/abs/2607.29076)|
+|**2026-08-19**|**Q-First: Most of Attention Needs Only the Query in Disaggregated LLM Decoding**|WenJie Fan et.al.|[2608.15473](http://arxiv.org/abs/2608.15473)|
 |**2026-08-18**|**Belayer: Efficient Fault Tolerance for LLM Agentic RL Training**|Jiecheng Zhou et.al.|[2608.14635](http://arxiv.org/abs/2608.14635)|
 |**2026-08-18**|**Bounded-State Restoration: Decoupling Local Restore Capacity from External LLM State**|Zixuan Li et.al.|[2608.17826](http://arxiv.org/abs/2608.17826)|
 |**2026-08-17**|**ReMP: Low-Downtime Runtime Model-Parallelism Reconfiguration for LLM Serving**|Haipeng Yuan et.al.|[2606.18741](http://arxiv.org/abs/2606.18741)|
 |**2026-08-17**|**Pallas: A Proactive KV Cache Migration Framework for LLM Inference in AI-RAN**|Tianhang Ding et.al.|[2608.16477](http://arxiv.org/abs/2608.16477)|
-|**2026-08-16**|**Q-First: Attention and Feed-Forward Concurrency at the Smallest Change to the Block**|WenJie Fan et.al.|[2608.15473](http://arxiv.org/abs/2608.15473)|
 |**2026-08-15**|**LOCAL: Enabling Learning On-device Contiguously for Agent LLMs**|Xinxin Liu et.al.|[2608.15241](http://arxiv.org/abs/2608.15241)|
 |**2026-08-14**|**Kalypso: Relational LLM Serving**|Hojae Son et.al.|[2607.23815](http://arxiv.org/abs/2607.23815)|
 |**2026-08-14**|**Potential Applications of HBF in LLM Serving Systems**|Yihan Yin et.al.|[2608.13127](http://arxiv.org/abs/2608.13127)|
@@ -55,7 +56,6 @@ _Updated on 2026.08.20_
 |**2026-08-01**|**Diagnose Before You Compress: Prediction-Independent Bottleneck Witness Refinement for LLM Serving Traces**|Liming Liu et.al.|[2608.00423](http://arxiv.org/abs/2608.00423)|
 |**2026-07-31**|**HijackKV: New Threat in Position-Independent KV Cache Reuse**|Yichi Zhang et.al.|[2607.19957_(USENIX Security)](http://arxiv.org/abs/2607.19957)|
 |**2026-07-31**|**Mixture-of-Translators: Translating KV Caches Across Heterogeneous Large Language Models**|Jin-woo Lee et.al.|[2607.28979](http://arxiv.org/abs/2607.28979)|
-|**2026-07-31**|**Selective KV Cache Protection for Noise-Resilient LLM Inference on Analog Compute-In-Memory Systems**|Yuannuo Feng et.al.|[2607.29076](http://arxiv.org/abs/2607.29076)|
 |**2026-07-31**|**LinearKV: One Cached State Suffices for Position-Independent Caching in Hybrid LLMs**|Yirui Liu et.al.|[2608.11231](http://arxiv.org/abs/2608.11231)|
 |**2026-07-30**|**A Policy-Driven Runtime Layer for Agentic LLM Serving**|Rui Zhang et.al.|[2605.27744](http://arxiv.org/abs/2605.27744)|
 |**2026-07-30**|**Clairvoyant: Predictive Shortest-Job-First Admission for Serial LLM Inference**|Aravind Sundaresan et.al.|[2606.07248_(AVI)](http://arxiv.org/abs/2606.07248)|
