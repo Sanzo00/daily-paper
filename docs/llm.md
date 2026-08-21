@@ -10,6 +10,9 @@ _Updated on 2026.08.21_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-08-20**|**FlashPrefill V2: Block-Sparse Prefill Attention for Long-Context LLM Serving**|Qihang Fan et.al.|[2608.19758](http://arxiv.org/abs/2608.19758)|
+|**2026-08-20**|**CacheRoute: Planned Prefix-Affinity Routing for Large-Scale LLM Serving**|Huang Cheng et.al.|[2608.19677](http://arxiv.org/abs/2608.19677)|
+|**2026-08-20**|**ReCache: Efficient KV Cache Reuse and Compression for Tool-Augmented LLM Agents**|Yichu Fang et.al.|[2608.19662](http://arxiv.org/abs/2608.19662)|
 |**2026-08-19**|**Selective KV Cache Protection for Noise-Resilient LLM Inference on Analog Compute-In-Memory Systems**|Yuannuo Feng et.al.|[2607.29076](http://arxiv.org/abs/2607.29076)|
 |**2026-08-19**|**Q-First: Most of Attention Needs Only the Query in Disaggregated LLM Decoding**|WenJie Fan et.al.|[2608.15473](http://arxiv.org/abs/2608.15473)|
 |**2026-08-18**|**Belayer: Efficient Fault Tolerance for LLM Agentic RL Training**|Jiecheng Zhou et.al.|[2608.14635](http://arxiv.org/abs/2608.14635)|
