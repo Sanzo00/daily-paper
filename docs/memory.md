@@ -6,10 +6,14 @@ nav_order: 5
 
 # Memory Papers
 
-_Updated on 2026.08.20_
+_Updated on 2026.08.21_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-08-20**|**Compress and Forget: bitsandbytes Quantization Amplifies Proactive Interference in LLMs**|Shayan Shahrabi-Farahani et.al.|[2608.18578](http://arxiv.org/abs/2608.18578)|
+|**2026-08-20**|**A Thread-Register Decoupled GPU Execution Model for Efficient Tensor Computation**|Zihan Liu et.al.|[2608.19628](http://arxiv.org/abs/2608.19628)|
+|**2026-08-20**|**ReCache: Efficient KV Cache Reuse and Compression for Tool-Augmented LLM Agents**|Yichu Fang et.al.|[2608.19662](http://arxiv.org/abs/2608.19662)|
+|**2026-08-20**|**Mitigating Identity Essentialism in LLM Agents with Longitudinal Life Trajectories**|Hexi Wang et.al.|[2608.19621](http://arxiv.org/abs/2608.19621)|
 |**2026-08-19**|**ContextSniper: AntTrail's Token-Efficient Code Memory for Repository-Level Program Repair**|Chiwang Luk et.al.|[2607.01916](http://arxiv.org/abs/2607.01916)|
 |**2026-08-19**|**Selective KV Cache Protection for Noise-Resilient LLM Inference on Analog Compute-In-Memory Systems**|Yuannuo Feng et.al.|[2607.29076](http://arxiv.org/abs/2607.29076)|
 |**2026-08-19**|**HINT: Toward an Executable Hardware-Intent Representation Layer for LLM-Driven RTL Generation**|Tairan Cheng et.al.|[2608.07625](http://arxiv.org/abs/2608.07625)|
@@ -22,7 +26,6 @@ _Updated on 2026.08.20_
 |**2026-08-19**|**Report on The 1st Workshop on Human-Centered Proactive and Personalized Agents for Interactive Information Access at CHIIR 2026**|Kirandeep Kaur et.al.|[2608.18638](http://arxiv.org/abs/2608.18638)|
 |**2026-08-19**|**PILOT Technical Report**|Jiuning Lin et.al.|[2608.18637](http://arxiv.org/abs/2608.18637)|
 |**2026-08-19**|**rEDMRec: Distilling Large Language Model Reasoning into an Editable Experience Memory for Recommendation**|Minh Hoang Nguyen et.al.|[2608.18952](http://arxiv.org/abs/2608.18952)|
-|**2026-08-19**|**Compress and Forget: bitsandbytes Quantization Amplifies Proactive Interference in LLMs**|Shayan Shahrabi-Farahani et.al.|[2608.18578](http://arxiv.org/abs/2608.18578)|
 |**2026-08-19**|**SPADE: Self-Play in Adaptive Synthetic Executable Environments**|Bo Liu et.al.|[2608.19197](http://arxiv.org/abs/2608.19197)|
 |**2026-08-19**|**Pre-Compiled Pipeline Shards for Distributed LLM Inference on Intel AI PC Fleets**|Tate Berenbaum et.al.|[2608.19147](http://arxiv.org/abs/2608.19147)|
 |**2026-08-19**|**Tuning the Stochastic Machine: A Systems Engineer's Operating Model for Human-AI Engineering**|George Andrikopoulos et.al.|[2608.19125](http://arxiv.org/abs/2608.19125)|
@@ -30,6 +33,7 @@ _Updated on 2026.08.20_
 |**2026-08-19**|**FM-Bench: A Benchmark for Long-Horizon Management with Competing Agents**|Tianyou Wang et.al.|[2608.18423](http://arxiv.org/abs/2608.18423)|
 |**2026-08-19**|**Eureka: Task-Conditioned Meta-Agent Orchestration for Scientific Discovery**|Alizer Wong et.al.|[2608.19047](http://arxiv.org/abs/2608.19047)|
 |**2026-08-19**|**Harness Continual Learning: Continual Adaptation Beyond Model Parameters**|Borui Kang et.al.|[2608.19013](http://arxiv.org/abs/2608.19013)|
+|**2026-08-19**|**HYDRA: A Heterogeneous Chiplet DSE Framework for Serving Dynamic Hybrid LLM Workloads**|Jiahao Lin et.al.|[2608.19395_(CASES)](http://arxiv.org/abs/2608.19395)|
 |**2026-08-18**|**EgoCITE: Context-Augmented Indexing and Time-Aware Retrieval for Long-Horizon Egocentric Memory**|Le Zhang et.al.|[2608.12627](http://arxiv.org/abs/2608.12627)|
 |**2026-08-18**|**LENS: In-Context Search via Latent Evidence Exploration over Dynamic Raw Documents**|Xingjun Wang et.al.|[2608.16185](http://arxiv.org/abs/2608.16185)|
 |**2026-08-18**|**CABLE: Extending the Reach of Memory Retrieval via Complementary Antecedent-Based Linking and Expansion**|Zheling Tan et.al.|[2608.17911](http://arxiv.org/abs/2608.17911)|

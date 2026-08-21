@@ -6,10 +6,13 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.08.20_
+_Updated on 2026.08.21_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-08-20**|**ReCache: Efficient KV Cache Reuse and Compression for Tool-Augmented LLM Agents**|Yichu Fang et.al.|[2608.19662](http://arxiv.org/abs/2608.19662)|
+|**2026-08-20**|**When Do LLM Agents Help? Deadline-Aware Mixed-Criticality Task Scheduling at the Autonomous-Vehicle Edge**|Reza Zakerian et.al.|[2608.19557](http://arxiv.org/abs/2608.19557)|
+|**2026-08-19**|**Where Facts Go Missing: A Layerwise Taxonomy and Per-Layer Attribution of Information Omission in Air-Gapped LLMAgent Pipelines**|Santhiya Rajan et.al.|[2607.22448](http://arxiv.org/abs/2607.22448)|
 |**2026-08-18**|**Belayer: Efficient Fault Tolerance for LLM Agentic RL Training**|Jiecheng Zhou et.al.|[2608.14635](http://arxiv.org/abs/2608.14635)|
 |**2026-08-18**|**Agent Lightning v1.0: Towards Harnessed Agentic RL**|Zhiyuan He et.al.|[2608.17528](http://arxiv.org/abs/2608.17528)|
 |**2026-08-18**|**Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements**|Zhi Zheng et.al.|[2608.17310](http://arxiv.org/abs/2608.17310)|
@@ -66,7 +69,6 @@ _Updated on 2026.08.20_
 |**2026-07-29**|**MultiFixer: A Coordinator-Proposer Based Multi-Agent Framework For Fixing Multi-Hunk Bugs**|Haichuan Hu et.al.|[2607.26591](http://arxiv.org/abs/2607.26591)|
 |**2026-07-29**|**Emission-Forecasting-Based Spatial-Temporal Carbon Response: A Multi-Agent Attention-Enhanced Deep Learning Framework**|Feiyu Cai et.al.|[2607.26560](http://arxiv.org/abs/2607.26560)|
 |**2026-07-28**|**LLMs for Agentic Home Energy Management**|Sokipriala Jonah et.al.|[2607.04569](http://arxiv.org/abs/2607.04569)|
-|**2026-07-27**|**Where Facts Go Missing: A Layerwise Taxonomy and Per-Layer Attribution of Information Omission in Air-Gapped LLMAgent Pipelines**|Santhiya Rajan et.al.|[2607.22448](http://arxiv.org/abs/2607.22448)|
 |**2026-07-26**|**Multi-Turn On-Policy Distillation with Prefix Replay**|Baohao Liao et.al.|[2607.04763](http://arxiv.org/abs/2607.04763)|
 |**2026-07-24**|**Agentic CPU-GPU Scheduling for Heterogeneous AI Workloads**|Tianxi Lu et.al.|[2607.22242](http://arxiv.org/abs/2607.22242)|
 |**2026-07-20**|**LLMs and Agentic AI Systems for Smart Grids: A Tutorial on Architectures and Applications**|Daniela Rojas et.al.|[2607.18147](http://arxiv.org/abs/2607.18147)|
