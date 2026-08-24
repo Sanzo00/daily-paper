@@ -10,6 +10,7 @@ _Updated on 2026.08.24_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-08-21**|**MedRAGChecker: Claim-Level Verification for Biomedical Retrieval-Augmented Generation**|Yuelyu Ji et.al.|[2601.06519](http://arxiv.org/abs/2601.06519)|
 |**2026-08-21**|**Do Large Language Models Play Six Degrees of Separation? Measuring Topological Compression in Long-Context Manifolds**|Md. Faiyaz Abdullah Sayeedi et.al.|[2608.17950](http://arxiv.org/abs/2608.17950)|
 |**2026-08-17**|**Think Inside the Chunk: RegulaRAG for Regulation-Compliant Scenario Generation using LLMs: A Case Study of UN Regulation No. 152**|Vahid Zolfaghari et.al.|[2608.16394](http://arxiv.org/abs/2608.16394)|
 |**2026-08-12**|**SAG: SQL-Retrieval Augmented Generation with Query-Time Dynamic Hyperedges**|Yuchao Wu et.al.|[2608.12129](http://arxiv.org/abs/2608.12129)|
@@ -299,7 +300,6 @@ _Updated on 2026.08.24_
 |**2026-01-13**|**Reliable Graph-RAG for Codebases: AST-Derived Graphs vs LLM-Extracted Knowledge Graphs**|Manideep Reddy Chinthareddy et.al.|[2601.08773](http://arxiv.org/abs/2601.08773)|
 |**2026-01-11**|**Graph-KV: Breaking Sequence via Injecting Structural Biases into Large Language Models**|Haoyu Wang et.al.|[2506.07334](http://arxiv.org/abs/2506.07334)|
 |**2026-01-11**|**CyberLLM-FINDS 2025: Instruction-Tuned Fine-tuning of Domain-Specific LLMs with Retrieval-Augmented Generation and Graph Integration for MITRE Evaluation**|Vasanth Iyer et.al.|[2601.06779](http://arxiv.org/abs/2601.06779)|
-|**2026-01-10**|**MedRAGChecker: Claim-Level Verification for Biomedical Retrieval-Augmented Generation**|Yuelyu Ji et.al.|[2601.06519](http://arxiv.org/abs/2601.06519)|
 |**2026-01-10**|**N2N-GQA: Noise-to-Narrative for Graph-Based Table-Text Question Answering Using LLMs**|Mohamed Sharafath et.al.|[2601.06603_(AAAI)](http://arxiv.org/abs/2601.06603)|
 |**2026-01-09**|**Guiding Generative Storytelling with Knowledge Graphs**|Zhijun Pan et.al.|[2505.24803](http://arxiv.org/abs/2505.24803)|
 |**2026-01-09**|**Scaling Beyond Context: A Survey of Multimodal Retrieval-Augmented Generation for Document Understanding**|Sensen Gao et.al.|[2510.15253](http://arxiv.org/abs/2510.15253)|

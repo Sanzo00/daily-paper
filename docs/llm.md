@@ -13,6 +13,7 @@ _Updated on 2026.08.24_
 |**2026-08-20**|**FlashPrefill V2: Block-Sparse Prefill Attention for Long-Context LLM Serving**|Qihang Fan et.al.|[2608.19758](http://arxiv.org/abs/2608.19758)|
 |**2026-08-20**|**CacheRoute: Planned Prefix-Affinity Routing for Large-Scale LLM Serving**|Huang Cheng et.al.|[2608.19677](http://arxiv.org/abs/2608.19677)|
 |**2026-08-20**|**ReCache: Efficient KV Cache Reuse and Compression for Tool-Augmented LLM Agents**|Yichu Fang et.al.|[2608.19662](http://arxiv.org/abs/2608.19662)|
+|**2026-08-20**|**Dual-Cache Latent Space Communication between Heterogeneous Language Models**|Jiyao Liu et.al.|[2608.20617](http://arxiv.org/abs/2608.20617)|
 |**2026-08-19**|**Selective KV Cache Protection for Noise-Resilient LLM Inference on Analog Compute-In-Memory Systems**|Yuannuo Feng et.al.|[2607.29076](http://arxiv.org/abs/2607.29076)|
 |**2026-08-19**|**Q-First: Most of Attention Needs Only the Query in Disaggregated LLM Decoding**|WenJie Fan et.al.|[2608.15473](http://arxiv.org/abs/2608.15473)|
 |**2026-08-18**|**Belayer: Efficient Fault Tolerance for LLM Agentic RL Training**|Jiecheng Zhou et.al.|[2608.14635](http://arxiv.org/abs/2608.14635)|
@@ -116,6 +117,7 @@ _Updated on 2026.08.24_
 |**2026-07-01**|**MosaicKV: Serving Long-Context LLM with Dynamic Two-D KV Cache Compression**|Sheng Qiang et.al.|[2607.00760](http://arxiv.org/abs/2607.00760)|
 |**2026-07-01**|**Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillation**|Shayan Talaei et.al.|[2607.01208_(ICML)](http://arxiv.org/abs/2607.01208)|
 |**2026-07-01**|**Precomputing the Future-Offset Average in TriAttention**|Amarnath Mukherjee et.al.|[2607.13051](http://arxiv.org/abs/2607.13051)|
+|**2026-07-01**|**Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory**|Mustafa Arslan et.al.|[2608.20397](http://arxiv.org/abs/2608.20397)|
 |**2026-06-30**|**ThunderAgent: A Simple, Fast and Program-Aware Agentic Inference System**|Hao Kang et.al.|[2602.13692](http://arxiv.org/abs/2602.13692)|
 |**2026-06-30**|**KV-RM: Regularizing KV-Cache Movement for Static-Graph LLM Serving**|Zhiqing Zhong et.al.|[2605.09735](http://arxiv.org/abs/2605.09735)|
 |**2026-06-30**|**TraceLab: Characterizing Coding Agent Workloads for LLM Serving**|Kan Zhu et.al.|[2606.30560](http://arxiv.org/abs/2606.30560)|

@@ -28,6 +28,7 @@ _Updated on 2026.08.24_
 |**2026-08-20**|**AgRefactor: Self-Evolving Agentic Workflow for HLS Compatibility and Performance**|Yang Zou et.al.|[2606.30949](http://arxiv.org/abs/2606.30949)|
 |**2026-08-20**|**Self-Evolving Coding Agents**|Hao Zhou et.al.|[2608.03392](http://arxiv.org/abs/2608.03392)|
 |**2026-08-20**|**HODAgent: Towards On-Demand, Responsive Humanoids for Physical World Human Interaction**|Wang Warren Chen et.al.|[2608.17584_(ASSETS)](http://arxiv.org/abs/2608.17584)|
+|**2026-08-20**|**KernelArc: A Multi-Agent Framework for GPU Kernel Optimization**|Joyjit Kundu et.al.|[2608.17071](http://arxiv.org/abs/2608.17071)|
 |**2026-08-20**|**PILOT Technical Report**|Jiuning Lin et.al.|[2608.18637](http://arxiv.org/abs/2608.18637)|
 |**2026-08-20**|**Compress and Forget: bitsandbytes Quantization Amplifies Proactive Interference in LLMs**|Shayan Shahrabi-Farahani et.al.|[2608.18578](http://arxiv.org/abs/2608.18578)|
 |**2026-08-20**|**FM-Bench: A Benchmark for Long-Horizon Management with Competing Agents**|Tianyou Wang et.al.|[2608.18423](http://arxiv.org/abs/2608.18423)|
@@ -108,7 +109,6 @@ _Updated on 2026.08.24_
 |**2026-08-17**|**Authorization Before Context: A Model-Neutral Audience Boundary Against Cross-Audience Memory Leakage in Agentic Systems**|Sibo Liu et.al.|[2608.17148_(CHI)](http://arxiv.org/abs/2608.17148)|
 |**2026-08-17**|**Structured Driving-State Narratives for Small Language Model-Based GNSS Spoofing Detection**|Abyad Enan et.al.|[2608.17092](http://arxiv.org/abs/2608.17092)|
 |**2026-08-17**|**Teach and Grow: An Agent-Centered Architecture for General Robot Learning**|Chang Nie et.al.|[2608.17209](http://arxiv.org/abs/2608.17209)|
-|**2026-08-17**|**KernelArc: A Multi-Agent Framework for GPU Kernel Optimization**|Joyjit Kundu et.al.|[2608.17071](http://arxiv.org/abs/2608.17071)|
 |**2026-08-17**|**Memory Is Communication: The Frontier Between Remembering and Signaling**|Yashar Talebirad et.al.|[2608.17053](http://arxiv.org/abs/2608.17053)|
 |**2026-08-17**|**SkillEffect: Checked Lowering for Memory-Bounded Agent Tools**|Yinuo Wang et.al.|[2608.17007](http://arxiv.org/abs/2608.17007)|
 |**2026-08-16**|**Persistent Recursive Worlds Enable Autonomous Software Evolution**|Beichen Huang et.al.|[2608.10450](http://arxiv.org/abs/2608.10450)|
@@ -882,6 +882,7 @@ _Updated on 2026.08.24_
 |**2026-07-05**|**ACE: Agentic Control for Embodied Manipulation via Zero-shot Workflow Reasoning**|Iok Tong Lei et.al.|[2607.04162](http://arxiv.org/abs/2607.04162)|
 |**2026-07-05**|**PLACEMEM: Toward a Compute-Aware Memory Plane for Lifelong Agents**|Sukanta Ganguly et.al.|[2607.04089](http://arxiv.org/abs/2607.04089)|
 |**2026-07-05**|**LLM-Centric Agentic AI for UAV Swarms: Architecture, Enabling Technologies, and Open Problems**|Yousef Emami et.al.|[2607.09756](http://arxiv.org/abs/2607.09756)|
+|**2026-07-05**|**When Retrieval Fails Before It Begins: Structurally Indirect Prerequisite Eviction as a Retention Failure in Agentic Memory**|Minkyu Song et.al.|[2608.20400_(CHI)](http://arxiv.org/abs/2608.20400)|
 |**2026-07-04**|**TileLens: Efficiently Using Large-Granularity Memory Systems with Transparent Two-Dimensional Memory Layout**|Jae Hyung Ju et.al.|[2607.04031](http://arxiv.org/abs/2607.04031)|
 |**2026-07-04**|**Neuro-Symbolic Reasoning for Vulnerability Detection**|Yanjie Zhao et.al.|[2607.03963](http://arxiv.org/abs/2607.03963)|
 |**2026-07-04**|**AdaptiveSD A Stability-Aware, Runtime-Adaptive Speculative Decoding Framework with Multi-Policy Orchestration for CPU-Constrained LLM Inference**|Sadra Saremi et.al.|[2607.03876](http://arxiv.org/abs/2607.03876)|
