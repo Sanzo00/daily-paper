@@ -6,16 +6,20 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.08.23_
+_Updated on 2026.08.24_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-08-21**|**TokenCake: A KV-Cache-centric Serving Framework for LLM-based Multi-Agent Applications**|Zhuohang Bian et.al.|[2510.18586_(EuroSys)](http://arxiv.org/abs/2510.18586)|
+|**2026-08-21**|**Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements**|Zhi Zheng et.al.|[2608.17310](http://arxiv.org/abs/2608.17310)|
+|**2026-08-21**|**Just Noticeable Difference Modeling for Token Compression in Vision-Language-Action Models**|Zhuoyuan Li et.al.|[2608.21247](http://arxiv.org/abs/2608.21247)|
 |**2026-08-20**|**ReCache: Efficient KV Cache Reuse and Compression for Tool-Augmented LLM Agents**|Yichu Fang et.al.|[2608.19662](http://arxiv.org/abs/2608.19662)|
 |**2026-08-20**|**When Do LLM Agents Help? Deadline-Aware Mixed-Criticality Task Scheduling at the Autonomous-Vehicle Edge**|Reza Zakerian et.al.|[2608.19557](http://arxiv.org/abs/2608.19557)|
+|**2026-08-20**|**Dual-Cache Latent Space Communication between Heterogeneous Language Models**|Jiyao Liu et.al.|[2608.20617](http://arxiv.org/abs/2608.20617)|
+|**2026-08-20**|**Consilience: Conformally Calibrated Communication Control for Hidden-Profile Multi-Agent Reasoning**|Abhijith Babu et.al.|[2608.20564](http://arxiv.org/abs/2608.20564)|
 |**2026-08-19**|**Where Facts Go Missing: A Layerwise Taxonomy and Per-Layer Attribution of Information Omission in Air-Gapped LLMAgent Pipelines**|Santhiya Rajan et.al.|[2607.22448](http://arxiv.org/abs/2607.22448)|
 |**2026-08-18**|**Belayer: Efficient Fault Tolerance for LLM Agentic RL Training**|Jiecheng Zhou et.al.|[2608.14635](http://arxiv.org/abs/2608.14635)|
 |**2026-08-18**|**Agent Lightning v1.0: Towards Harnessed Agentic RL**|Zhiyuan He et.al.|[2608.17528](http://arxiv.org/abs/2608.17528)|
-|**2026-08-18**|**Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements**|Zhi Zheng et.al.|[2608.17310](http://arxiv.org/abs/2608.17310)|
 |**2026-08-17**|**$R^3$-Bench: LLMs Struggle with Resource-Rational Reasoning under Shared Budgets**|Peisong Wang et.al.|[2608.16033](http://arxiv.org/abs/2608.16033)|
 |**2026-08-16**|**SocialCoach: Personalized Social Skill Learning with Agentic Tutoring and Practice**|Tianfu Wang et.al.|[2606.04155](http://arxiv.org/abs/2606.04155)|
 |**2026-08-16**|**Aborted but Not Forgotten: KV-Cache Retention Breaks Rollback Consistency in Language Agents**|Guijia Zhang et.al.|[2608.15939](http://arxiv.org/abs/2608.15939)|
@@ -109,6 +113,7 @@ _Updated on 2026.08.23_
 |**2026-07-02**|**Lynx: Progressive Speculative Quantization for accelerating KV Transfer in Long-Context Inference**|Wenchen Han et.al.|[2607.01831_(SC)](http://arxiv.org/abs/2607.01831)|
 |**2026-07-01**|**When Less Latent Leads to Better Relay: Information-Preserving Compression for Latent Multi-Agent LLM Collaboration**|Yiping Li et.al.|[2604.13349](http://arxiv.org/abs/2604.13349)|
 |**2026-07-01**|**Vehicle Routing Problem Meets Large Language Models: An Overview and Perspectives**|Xianchao Xiu et.al.|[2607.00604](http://arxiv.org/abs/2607.00604)|
+|**2026-07-01**|**Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory**|Mustafa Arslan et.al.|[2608.20397](http://arxiv.org/abs/2608.20397)|
 |**2026-06-30**|**ThunderAgent: A Simple, Fast and Program-Aware Agentic Inference System**|Hao Kang et.al.|[2602.13692](http://arxiv.org/abs/2602.13692)|
 |**2026-06-30**|**TraceLab: Characterizing Coding Agent Workloads for LLM Serving**|Kan Zhu et.al.|[2606.30560](http://arxiv.org/abs/2606.30560)|
 |**2026-06-30**|**Plan Right, Then Plan Tight: Symbolic RL for Efficient Embodied Reasoning**|Xiangli Shi et.al.|[2606.31260](http://arxiv.org/abs/2606.31260)|
@@ -216,7 +221,6 @@ _Updated on 2026.08.23_
 |**2026-05-21**|**LCGuard: Latent Communication Guard for Safe KV Sharing in Multi-Agent Systems**|Sadia Asif et.al.|[2605.22786](http://arxiv.org/abs/2605.22786)|
 |**2026-05-21**|**GraphFlow: A Graph-Based Workflow Management for Efficient LLM-Agent Serving**|Ao Li et.al.|[2605.22566_(ICML)](http://arxiv.org/abs/2605.22566)|
 |**2026-05-21**|**A Proactive Multi-Agent Dialogue Framework for Assessing Social Language Disorder Traits in Autism**|Chuanbo Hu et.al.|[2605.22993](http://arxiv.org/abs/2605.22993)|
-|**2026-05-20**|**TokenCake: A KV-Cache-centric Serving Framework for LLM-based Multi-Agent Applications**|Zhuohang Bian et.al.|[2510.18586](http://arxiv.org/abs/2510.18586)|
 |**2026-05-20**|**ROSE: Rollout On Serving GPUs via Cooperative Elasticity for Agentic RL**|Wei Gao et.al.|[2605.06534](http://arxiv.org/abs/2605.06534)|
 |**2026-05-20**|**Evaluating Temporal Semantic Caching and Workflow Optimization in Agentic Plan-Execute Pipelines**|Alimurtaza Mustafa Merchant et.al.|[2605.20630](http://arxiv.org/abs/2605.20630)|
 |**2026-05-20**|**VIPER-MCP: Detecting and Exploiting Taint-Style Vulnerabilities in Model Context Protocol Servers**|Pengyu Sun et.al.|[2605.21392](http://arxiv.org/abs/2605.21392)|

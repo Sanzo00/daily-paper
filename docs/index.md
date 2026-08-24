@@ -6,11 +6,11 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.08.23_
+_Updated on 2026.08.24_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
-|**2026-08-18**|**Do Large Language Models Play Six Degrees of Separation? Measuring Topological Compression in Long-Context Manifolds**|Md. Faiyaz Abdullah Sayeedi et.al.|[2608.17950](http://arxiv.org/abs/2608.17950)|
+|**2026-08-21**|**Do Large Language Models Play Six Degrees of Separation? Measuring Topological Compression in Long-Context Manifolds**|Md. Faiyaz Abdullah Sayeedi et.al.|[2608.17950](http://arxiv.org/abs/2608.17950)|
 |**2026-08-17**|**Think Inside the Chunk: RegulaRAG for Regulation-Compliant Scenario Generation using LLMs: A Case Study of UN Regulation No. 152**|Vahid Zolfaghari et.al.|[2608.16394](http://arxiv.org/abs/2608.16394)|
 |**2026-08-12**|**SAG: SQL-Retrieval Augmented Generation with Query-Time Dynamic Hyperedges**|Yuchao Wu et.al.|[2608.12129](http://arxiv.org/abs/2608.12129)|
 |**2026-08-11**|**Knowledge-Graph-Guided Retrieval-Augmented LLMs for Explainable Root Cause Analysis in Automotive HiL Validation**|Hamza Ouarrad et.al.|[2608.11277_(ICS)](http://arxiv.org/abs/2608.11277)|
