@@ -10,6 +10,10 @@ _Updated on 2026.08.25_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-08-24**|**WnW: Waxing-and-Waning KV Cache for Long-Form Speech LLMs**|Yiming Yao et.al.|[2608.22704_(EMNLP)](http://arxiv.org/abs/2608.22704)|
+|**2026-08-24**|**Beyond Factual Knowledge: Benchmarking and Learning Step-Level Procedural Rule Reasoning in Large Language Models**|Bohan Yu et.al.|[2608.22753_(EMNLP)](http://arxiv.org/abs/2608.22753)|
+|**2026-08-23**|**A JoLT for the KV cache: Near-lossless KV cache compression via joint Lagrangian allocation of Tucker ranks and a rotated residual for llms**|Rahul Krishnan et.al.|[2607.12550](http://arxiv.org/abs/2607.12550)|
+|**2026-08-22**|**PowerSlider: Exploiting Phase Asymmetry for LLM Serving under Demand Response**|Yueying Li et.al.|[2608.21719](http://arxiv.org/abs/2608.21719)|
 |**2026-08-20**|**FlashPrefill V2: Block-Sparse Prefill Attention for Long-Context LLM Serving**|Qihang Fan et.al.|[2608.19758](http://arxiv.org/abs/2608.19758)|
 |**2026-08-20**|**CacheRoute: Planned Prefix-Affinity Routing for Large-Scale LLM Serving**|Huang Cheng et.al.|[2608.19677](http://arxiv.org/abs/2608.19677)|
 |**2026-08-20**|**ReCache: Efficient KV Cache Reuse and Compression for Tool-Augmented LLM Agents**|Yichu Fang et.al.|[2608.19662](http://arxiv.org/abs/2608.19662)|
@@ -78,7 +82,6 @@ _Updated on 2026.08.25_
 |**2026-07-20**|**SALT: Salience-Aware Lexical Trie for Long-Context Compression**|Oteo Mamo et.al.|[2607.17486](http://arxiv.org/abs/2607.17486)|
 |**2026-07-19**|**Talaria: Session-Aware Serverless Serving of Hundred-Billion-Parameter LLMs**|Utopia Meng et.al.|[2607.17181](http://arxiv.org/abs/2607.17181)|
 |**2026-07-18**|**Robust KV Cache Management for LLM Serving under Output Token Length Uncertainty**|Jiaming Cheng et.al.|[2607.16892](http://arxiv.org/abs/2607.16892)|
-|**2026-07-17**|**A JoLT for the KV Cache: Near-Lossless KV Cache Compression via Joint Tucker and JL-Residual Allocation for LLMs**|Rahul Krishnan et.al.|[2607.12550](http://arxiv.org/abs/2607.12550)|
 |**2026-07-17**|**PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-Aware Weight Quantization**|Yuchen Yang et.al.|[2607.16184](http://arxiv.org/abs/2607.16184)|
 |**2026-07-16**|**Learning Agent Execution for KV-Cache Management in Agentic Serving**|Rui Zhang et.al.|[2608.14624](http://arxiv.org/abs/2608.14624)|
 |**2026-07-15**|**Beyond tokens: a unified framework for latent communication in LLM-based multi-agent systems**|Yingzhuo Liu et.al.|[2606.05711](http://arxiv.org/abs/2606.05711)|
@@ -234,6 +237,7 @@ _Updated on 2026.08.25_
 |**2026-05-21**|**Self-Policy Distillation via Capability-Selective Subspace Projection**|Guangya Hao et.al.|[2605.22675](http://arxiv.org/abs/2605.22675)|
 |**2026-05-21**|**ArborKV: Structure-Aware KV Cache Management for Scaling Tree-based LLM Reasoning**|Yeqiu Chen et.al.|[2605.22106](http://arxiv.org/abs/2605.22106)|
 |**2026-05-21**|**DecodeShare: Tracing the Shared Subspace of LLM Decode-Time Decisions**|Zishan Shao et.al.|[2607.20469](http://arxiv.org/abs/2607.20469)|
+|**2026-05-21**|**KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference**|Srihari Unnikrishnan et.al.|[2608.21362](http://arxiv.org/abs/2608.21362)|
 |**2026-05-20**|**TokenCake: A KV-Cache-centric Serving Framework for LLM-based Multi-Agent Applications**|Zhuohang Bian et.al.|[2510.18586](http://arxiv.org/abs/2510.18586)|
 |**2026-05-20**|**Adaptive KV Cache Reuse for Fast Long-Context LLM Serving**|Fei li et.al.|[2605.24022_(CHI)](http://arxiv.org/abs/2605.24022)|
 |**2026-05-20**|**Evaluating Temporal Semantic Caching and Workflow Optimization in Agentic Plan-Execute Pipelines**|Alimurtaza Mustafa Merchant et.al.|[2605.20630](http://arxiv.org/abs/2605.20630)|

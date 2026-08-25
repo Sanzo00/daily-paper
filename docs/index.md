@@ -10,10 +10,14 @@ _Updated on 2026.08.25_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-08-24**|**SAG: SQL-Retrieval Augmented Generation with Query-Time Dynamic Hyperedges**|Yuchao Wu et.al.|[2608.12129_(DATE)](http://arxiv.org/abs/2608.12129)|
+|**2026-08-24**|**FashionKG-RAG: Knowledge Graph-Enhanced Retrieval-Augmented Generation for Fashion Question Answering**|Yujuan Ding et.al.|[2608.22688](http://arxiv.org/abs/2608.22688)|
+|**2026-08-23**|**GeoRisk-RAG: A Hierarchy-Aware Risk Framework for Improving RAG Reliability through Selective Answering**|Meenu Ravi et.al.|[2608.22634_(CIKM)](http://arxiv.org/abs/2608.22634)|
+|**2026-08-23**|**GTA-RAG: Graph-Trajectory-Augmented Reinforcement Learning for Multi-Turn Retrieval-Augmented Reasoning**|Jun Chen et.al.|[2608.22479_(EMNLP)](http://arxiv.org/abs/2608.22479)|
+|**2026-08-22**|**From Association to Causation: Improving Retrieval Precision of Retrieval-Augmented Generation via Causal Relations and an Attention Mechanism**|Jing Liu et.al.|[2608.21702](http://arxiv.org/abs/2608.21702)|
 |**2026-08-21**|**MedRAGChecker: Claim-Level Verification for Biomedical Retrieval-Augmented Generation**|Yuelyu Ji et.al.|[2601.06519](http://arxiv.org/abs/2601.06519)|
 |**2026-08-21**|**Do Large Language Models Play Six Degrees of Separation? Measuring Topological Compression in Long-Context Manifolds**|Md. Faiyaz Abdullah Sayeedi et.al.|[2608.17950](http://arxiv.org/abs/2608.17950)|
 |**2026-08-17**|**Think Inside the Chunk: RegulaRAG for Regulation-Compliant Scenario Generation using LLMs: A Case Study of UN Regulation No. 152**|Vahid Zolfaghari et.al.|[2608.16394](http://arxiv.org/abs/2608.16394)|
-|**2026-08-12**|**SAG: SQL-Retrieval Augmented Generation with Query-Time Dynamic Hyperedges**|Yuchao Wu et.al.|[2608.12129](http://arxiv.org/abs/2608.12129)|
 |**2026-08-11**|**Knowledge-Graph-Guided Retrieval-Augmented LLMs for Explainable Root Cause Analysis in Automotive HiL Validation**|Hamza Ouarrad et.al.|[2608.11277_(ICS)](http://arxiv.org/abs/2608.11277)|
 |**2026-08-10**|**KGCaRe: Explainable Complex Conditional Question Answering using Automatic Knowledge Graph Construction and Context Retrieval with LLMs**|Ghanshyam Verma et.al.|[2608.09779](http://arxiv.org/abs/2608.09779)|
 |**2026-08-09**|**InSituANN: Revisiting IVF for PCIe-Efficient Billion-Scale Vector Search**|Yuemeng Xu et.al.|[2608.08751](http://arxiv.org/abs/2608.08751)|
@@ -60,6 +64,7 @@ _Updated on 2026.08.25_
 |**2026-07-04**|**HyGRL: Adaptive Hybrid Graph Reasoning for Multi-Entity Questions**|Junyi Wang et.al.|[2607.19398](http://arxiv.org/abs/2607.19398)|
 |**2026-07-03**|**TRIAGE: Trustworthy Retrieval Instrumentation And Graph Evaluation**|Axel TahmasebiMoradi et.al.|[2607.03447](http://arxiv.org/abs/2607.03447)|
 |**2026-07-03**|**Agentic and Generative AI for Open-Source Intelligence and Cyber Investigations: Taxonomy, Evaluation, Challenges, and Future Directions**|Eduardo Almeida Palmieri et.al.|[2607.03233](http://arxiv.org/abs/2607.03233)|
+|**2026-07-03**|**SchemaRouter: Field-Aware Tool Routing for Efficient Heterogeneous Agentic RAG**|Yong-eun Cho et.al.|[2608.21375_(SC)](http://arxiv.org/abs/2608.21375)|
 |**2026-07-02**|**BLAgent: Agentic RAG for File-Level Bug Localization**|Md Afif Al Mamun et.al.|[2605.17965](http://arxiv.org/abs/2605.17965)|
 |**2026-07-02**|**When RAG Meets Query Planning: Logical Query Trees for Resolving Exploratory Reasoning Problems**|Ganlin Xu et.al.|[2607.00508_(SIGMOD)](http://arxiv.org/abs/2607.00508)|
 |**2026-07-02**|**Optimizing Hypergraph-Based RAG: Toward Better Fact Extraction and Chunk Retrieval**|Houda Khrouf et.al.|[2607.20506](http://arxiv.org/abs/2607.20506)|
