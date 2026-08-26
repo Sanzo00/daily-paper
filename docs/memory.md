@@ -6,10 +6,15 @@ nav_order: 5
 
 # Memory Papers
 
-_Updated on 2026.08.25_
+_Updated on 2026.08.26_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-08-25**|**More GPUs or a Smaller Cache? Tensor Parallelism versus KV Compression for Memory-Bound LLM Serving**|Srikanta Datta Tumkur et.al.|[2608.23962](http://arxiv.org/abs/2608.23962)|
+|**2026-08-25**|**Reading Is Not Using: Retrieval, Judgment, and the Design of AI Financial Research Workflows**|Miao Liu et.al.|[2608.24842](http://arxiv.org/abs/2608.24842)|
+|**2026-08-25**|**When "Must" Becomes "Maybe": Constraint Weakening in LLM Agent Workflows**|Yiheng Sun et.al.|[2608.24569](http://arxiv.org/abs/2608.24569)|
+|**2026-08-25**|**Agentopia on a Consumer GPU: A Reduced-Scale Long-Horizon Port with an 8B Model**|Luo Huan et.al.|[2608.24215](http://arxiv.org/abs/2608.24215)|
+|**2026-08-25**|**Compression Trinity: Exploring Sparsity, Quantization, and Low-Rank Approximations for LLM Compression**|Mohammad Mozaffari et.al.|[2608.24070_(ATC)](http://arxiv.org/abs/2608.24070)|
 |**2026-08-24**|**Recalling Too Well: Sycophancy Evaluation and Mitigation in Memory-Augmented Models**|Shelly Bensal et.al.|[2606.10949_(ISS)](http://arxiv.org/abs/2606.10949)|
 |**2026-08-24**|**When Entropy Is Not Enough: Reclaiming Lost Semantics in LLM Output Length Prediction**|Feiyang Ren et.al.|[2608.15592](http://arxiv.org/abs/2608.15592)|
 |**2026-08-24**|**SPADE: Self-Play in Adaptive Synthetic Executable Environments**|Bo Liu et.al.|[2608.19197](http://arxiv.org/abs/2608.19197)|
@@ -32,6 +37,8 @@ _Updated on 2026.08.25_
 |**2026-08-24**|**Counter with Evidence! A Multi-Agent Memory Efficient Reasoning Framework for Hate Category Informed Counterspeech Generation**|Sujoy Nath et.al.|[2608.23152](http://arxiv.org/abs/2608.23152)|
 |**2026-08-24**|**CDEG: Learning Decision-Critical Evidence for Long-Horizon Diagnostic Agents**|Xiwei Dai et.al.|[2608.22899](http://arxiv.org/abs/2608.22899)|
 |**2026-08-24**|**SEAM: Shot Entity-Attribute Memory for Consistent Short-Drama Generation at Scale**|Jiaqi Liu et.al.|[2608.22725](http://arxiv.org/abs/2608.22725)|
+|**2026-08-24**|**PuzzleKV: Page-Wise Low-Rank Decomposition for KV Cache Compression**|Zizhong Wang et.al.|[2608.23843](http://arxiv.org/abs/2608.23843)|
+|**2026-08-24**|**Elastic KV Cache for LLM Serving:A Working Reclamation Mechanism, and Why Chunked Prefill Already Closes the Gap**|Sathishkumar Sivashanmugam et.al.|[2608.23658](http://arxiv.org/abs/2608.23658)|
 |**2026-08-23**|**A JoLT for the KV cache: Near-lossless KV cache compression via joint Lagrangian allocation of Tucker ranks and a rotated residual for llms**|Rahul Krishnan et.al.|[2607.12550](http://arxiv.org/abs/2607.12550)|
 |**2026-08-23**|**GraniKV: Asymmetric Granularity KV-Cache Paging for Multi-Agent Systems with Long Shared Prefix**|Jinhyun Jeon et.al.|[2608.15584](http://arxiv.org/abs/2608.15584)|
 |**2026-08-23**|**NOVA: Technology-Architecture Co-Design of Near-Memory Processing for Attention-SSM-MoE Hybrid LLM Inference**|In-Jun Jung et.al.|[2608.22613_(CHI)](http://arxiv.org/abs/2608.22613)|

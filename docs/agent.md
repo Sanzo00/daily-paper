@@ -6,10 +6,11 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.08.25_
+_Updated on 2026.08.26_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-08-25**|**PeakBench: Benchmarking Resource-Aware Tool Invocation in LLM Agents**|Zhi-Kai Chen et.al.|[2608.24509](http://arxiv.org/abs/2608.24509)|
 |**2026-08-23**|**KMGen: A Skill-based Approach for Synthetic Individual Patient Data Generation**|Jalen Jiang et.al.|[2608.22618](http://arxiv.org/abs/2608.22618)|
 |**2026-08-23**|**MCP-Universe RL: A Framework for Training MCP Tool-Use Agents via Reinforcement Learning**|Ziyang Luo et.al.|[2608.22167](http://arxiv.org/abs/2608.22167)|
 |**2026-08-22**|**When Less Latent Leads to Better Relay: Information-Preserving Compression for Latent Multi-Agent LLM Collaboration**|Yiping Li et.al.|[2604.13349](http://arxiv.org/abs/2604.13349)|
