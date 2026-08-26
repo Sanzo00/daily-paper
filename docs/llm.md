@@ -10,8 +10,12 @@ _Updated on 2026.08.26_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-08-25**|**HBF Sucks? A Full-Stack Characterization of High-Bandwidth Flash for KV-Centric LLM Serving**|Zhuoran Li et.al.|[2608.11668](http://arxiv.org/abs/2608.11668)|
+|**2026-08-25**|**More GPUs or a Smaller Cache? Tensor Parallelism versus KV Compression for Memory-Bound LLM Serving**|Srikanta Datta Tumkur et.al.|[2608.23962](http://arxiv.org/abs/2608.23962)|
 |**2026-08-24**|**WnW: Waxing-and-Waning KV Cache for Long-Form Speech LLMs**|Yiming Yao et.al.|[2608.22704_(EMNLP)](http://arxiv.org/abs/2608.22704)|
 |**2026-08-24**|**Beyond Factual Knowledge: Benchmarking and Learning Step-Level Procedural Rule Reasoning in Large Language Models**|Bohan Yu et.al.|[2608.22753_(EMNLP)](http://arxiv.org/abs/2608.22753)|
+|**2026-08-24**|**Minima-KV: Retention-Preserving KV Cache Compression with Mixed-Format Paged Attention**|Sergii Kozyrev et.al.|[2608.23834](http://arxiv.org/abs/2608.23834)|
+|**2026-08-24**|**Elastic KV Cache for LLM Serving:A Working Reclamation Mechanism, and Why Chunked Prefill Already Closes the Gap**|Sathishkumar Sivashanmugam et.al.|[2608.23658](http://arxiv.org/abs/2608.23658)|
 |**2026-08-23**|**A JoLT for the KV cache: Near-lossless KV cache compression via joint Lagrangian allocation of Tucker ranks and a rotated residual for llms**|Rahul Krishnan et.al.|[2607.12550](http://arxiv.org/abs/2607.12550)|
 |**2026-08-22**|**PowerSlider: Exploiting Phase Asymmetry for LLM Serving under Demand Response**|Yueying Li et.al.|[2608.21719](http://arxiv.org/abs/2608.21719)|
 |**2026-08-20**|**FlashPrefill V2: Block-Sparse Prefill Attention for Long-Context LLM Serving**|Qihang Fan et.al.|[2608.19758](http://arxiv.org/abs/2608.19758)|
@@ -29,7 +33,6 @@ _Updated on 2026.08.26_
 |**2026-08-14**|**Potential Applications of HBF in LLM Serving Systems**|Yihan Yin et.al.|[2608.13127](http://arxiv.org/abs/2608.13127)|
 |**2026-08-14**|**Beyond Capacity: Scalable MoE LLM Inference via High-Bandwidth Flash with Direct GPU and HBM Paths**|Seeyeon Kim et.al.|[2608.14333](http://arxiv.org/abs/2608.14333)|
 |**2026-08-14**|**A Tight Linear Deterministic Competitive Ratio for Fully Online KV-Cache Scheduling**|Ian D'Ambrosio et.al.|[2608.16944_(CHI)](http://arxiv.org/abs/2608.16944)|
-|**2026-08-13**|**HBF Sucks! A Full-Stack Characterization of High-Bandwidth Flash for KV-Centric LLM Serving**|Zhuoran Li et.al.|[2608.11668](http://arxiv.org/abs/2608.11668)|
 |**2026-08-12**|**Luna-TTS Family Technical Report**|Feng Yin et.al.|[2608.11593](http://arxiv.org/abs/2608.11593)|
 |**2026-08-12**|**XBridge: Entity-Grounded Latent Bridge for Heterogeneous LLM Communication**|Wooseong Yang et.al.|[2608.11676](http://arxiv.org/abs/2608.11676)|
 |**2026-08-11**|**Scheduling Mixed RL Rollouts Beyond Prefix Locality**|Zetao Hong et.al.|[2608.11152](http://arxiv.org/abs/2608.11152)|
