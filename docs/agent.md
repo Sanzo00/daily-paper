@@ -6,10 +6,13 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.08.26_
+_Updated on 2026.08.27_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-08-26**|**TOPAS: Workflow-Aware Prefix-State Scheduling for Multi-Agent LLM Serving**|Hongqiu Ni et.al.|[2608.25523](http://arxiv.org/abs/2608.25523)|
+|**2026-08-26**|**Spatial-Knowledge-Graph-Grounded LLM Agents for Neighborhood Livability Evaluation**|Haiyan Hao et.al.|[2608.25952](http://arxiv.org/abs/2608.25952)|
+|**2026-08-26**|**psRL: Efficient Training for Agentic AI via Training-Time Prefix Sharing**|Mianjie Yu et.al.|[2608.25683](http://arxiv.org/abs/2608.25683)|
 |**2026-08-25**|**PeakBench: Benchmarking Resource-Aware Tool Invocation in LLM Agents**|Zhi-Kai Chen et.al.|[2608.24509](http://arxiv.org/abs/2608.24509)|
 |**2026-08-23**|**KMGen: A Skill-based Approach for Synthetic Individual Patient Data Generation**|Jalen Jiang et.al.|[2608.22618](http://arxiv.org/abs/2608.22618)|
 |**2026-08-23**|**MCP-Universe RL: A Framework for Training MCP Tool-Use Agents via Reinforcement Learning**|Ziyang Luo et.al.|[2608.22167](http://arxiv.org/abs/2608.22167)|

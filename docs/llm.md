@@ -6,10 +6,11 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.08.26_
+_Updated on 2026.08.27_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-08-26**|**TOPAS: Workflow-Aware Prefix-State Scheduling for Multi-Agent LLM Serving**|Hongqiu Ni et.al.|[2608.25523](http://arxiv.org/abs/2608.25523)|
 |**2026-08-25**|**HBF Sucks? A Full-Stack Characterization of High-Bandwidth Flash for KV-Centric LLM Serving**|Zhuoran Li et.al.|[2608.11668](http://arxiv.org/abs/2608.11668)|
 |**2026-08-25**|**More GPUs or a Smaller Cache? Tensor Parallelism versus KV Compression for Memory-Bound LLM Serving**|Srikanta Datta Tumkur et.al.|[2608.23962](http://arxiv.org/abs/2608.23962)|
 |**2026-08-24**|**WnW: Waxing-and-Waning KV Cache for Long-Form Speech LLMs**|Yiming Yao et.al.|[2608.22704_(EMNLP)](http://arxiv.org/abs/2608.22704)|

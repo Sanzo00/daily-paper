@@ -6,10 +6,14 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.08.26_
+_Updated on 2026.08.27_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-08-26**|**Multi-Granularity Context-Enhanced RAG over Multimodal Knowledge Graphs**|Zongyu Wu et.al.|[2608.25986](http://arxiv.org/abs/2608.25986)|
+|**2026-08-26**|**Spatial-Knowledge-Graph-Grounded LLM Agents for Neighborhood Livability Evaluation**|Haiyan Hao et.al.|[2608.25952](http://arxiv.org/abs/2608.25952)|
+|**2026-08-26**|**LivingRAG: Augmenting Graph RAG with Experience**|Yuzhuo Cui et.al.|[2608.25960](http://arxiv.org/abs/2608.25960)|
+|**2026-08-25**|**SAG: SQL-Retrieval Augmented Generation with Query-Time Dynamic Hyperedges**|Yuchao Wu et.al.|[2606.15971_(ISS)](http://arxiv.org/abs/2606.15971)|
 |**2026-08-24**|**SAG: SQL-Retrieval Augmented Generation with Query-Time Dynamic Hyperedges**|Yuchao Wu et.al.|[2608.12129_(DATE)](http://arxiv.org/abs/2608.12129)|
 |**2026-08-24**|**FashionKG-RAG: Knowledge Graph-Enhanced Retrieval-Augmented Generation for Fashion Question Answering**|Yujuan Ding et.al.|[2608.22688](http://arxiv.org/abs/2608.22688)|
 |**2026-08-23**|**GeoRisk-RAG: A Hierarchy-Aware Risk Framework for Improving RAG Reliability through Selective Answering**|Meenu Ravi et.al.|[2608.22634_(CIKM)](http://arxiv.org/abs/2608.22634)|
