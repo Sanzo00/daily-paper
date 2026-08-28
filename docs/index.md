@@ -6,10 +6,11 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.08.27_
+_Updated on 2026.08.28_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-08-27**|**SymbolLKG: Towards Verifiable Logical Reasoning via Logical Knowledge Graph and Symbolic Solvers**|Haizhao Fan et.al.|[2608.26836](http://arxiv.org/abs/2608.26836)|
 |**2026-08-26**|**Multi-Granularity Context-Enhanced RAG over Multimodal Knowledge Graphs**|Zongyu Wu et.al.|[2608.25986](http://arxiv.org/abs/2608.25986)|
 |**2026-08-26**|**Spatial-Knowledge-Graph-Grounded LLM Agents for Neighborhood Livability Evaluation**|Haiyan Hao et.al.|[2608.25952](http://arxiv.org/abs/2608.25952)|
 |**2026-08-26**|**LivingRAG: Augmenting Graph RAG with Experience**|Yuzhuo Cui et.al.|[2608.25960](http://arxiv.org/abs/2608.25960)|

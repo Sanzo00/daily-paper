@@ -6,10 +6,13 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.08.27_
+_Updated on 2026.08.28_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-08-27**|**When Does Latent Communication Pay? A Causal Audit of Relayed KV Caches in Multi-Agent LLMs**|Jiaming Cheng et.al.|[2608.04893](http://arxiv.org/abs/2608.04893)|
+|**2026-08-27**|**When Context Gets Root: Privilege Escalation in LLM Harnesses**|Xingbang He et.al.|[2608.27299](http://arxiv.org/abs/2608.27299)|
+|**2026-08-27**|**BekchiAI: Measuring, Observing, and Controlling LLM Agents in One Click**|Mesut Toruk et.al.|[2608.26867](http://arxiv.org/abs/2608.26867)|
 |**2026-08-26**|**TOPAS: Workflow-Aware Prefix-State Scheduling for Multi-Agent LLM Serving**|Hongqiu Ni et.al.|[2608.25523](http://arxiv.org/abs/2608.25523)|
 |**2026-08-26**|**Spatial-Knowledge-Graph-Grounded LLM Agents for Neighborhood Livability Evaluation**|Haiyan Hao et.al.|[2608.25952](http://arxiv.org/abs/2608.25952)|
 |**2026-08-26**|**psRL: Efficient Training for Agentic AI via Training-Time Prefix Sharing**|Mianjie Yu et.al.|[2608.25683](http://arxiv.org/abs/2608.25683)|
@@ -54,7 +57,6 @@ _Updated on 2026.08.27_
 |**2026-08-06**|**Cascade: Exploiting SLO-Aware latency budget for fair and high goodput LLM inference serving**|Muhammad Adnan et.al.|[2608.06557](http://arxiv.org/abs/2608.06557)|
 |**2026-08-05**|**A CXL Memory Rack for Multi-Turn LLM Serving**|Hakbeom Jang et.al.|[2607.18141](http://arxiv.org/abs/2607.18141)|
 |**2026-08-05**|**SpecBox: Speculative Sandbox Scheduling for Efficient LLM Agent Serving**|Yihui Zhang et.al.|[2607.23933](http://arxiv.org/abs/2607.23933)|
-|**2026-08-05**|**When Does Latent Communication Pay? A Causal Audit of Relayed KV Caches in Multi-Agent LLMs**|Jiaming Cheng et.al.|[2608.04893](http://arxiv.org/abs/2608.04893)|
 |**2026-08-05**|**Architectural Implications of Agentic AI Workflows**|Jirong Yang et.al.|[2608.04458](http://arxiv.org/abs/2608.04458)|
 |**2026-08-04**|**MiniWorld: Democratizing the Training of Video World Models from Scratch**|Yian Zhao et.al.|[2608.01127](http://arxiv.org/abs/2608.01127)|
 |**2026-08-04**|**Heterogeneous LLM Serving with General-Purpose Processing-Near-Memory for Retrieval-Based Sparse Attention**|Hyungkyu Ham et.al.|[2608.03555](http://arxiv.org/abs/2608.03555)|
