@@ -6,10 +6,11 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.08.30_
+_Updated on 2026.08.31_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-08-28**|**Gen-TAS: A Generative AI-Aided Hardware-Software Task Allocation Framework for FPGA-GPP Heterogeneous Systems**|Mary Kong et.al.|[2608.28160](http://arxiv.org/abs/2608.28160)|
 |**2026-08-27**|**SymbolLKG: Towards Verifiable Logical Reasoning via Logical Knowledge Graph and Symbolic Solvers**|Haizhao Fan et.al.|[2608.26836](http://arxiv.org/abs/2608.26836)|
 |**2026-08-26**|**Multi-Granularity Context-Enhanced RAG over Multimodal Knowledge Graphs**|Zongyu Wu et.al.|[2608.25986](http://arxiv.org/abs/2608.25986)|
 |**2026-08-26**|**Spatial-Knowledge-Graph-Grounded LLM Agents for Neighborhood Livability Evaluation**|Haiyan Hao et.al.|[2608.25952](http://arxiv.org/abs/2608.25952)|

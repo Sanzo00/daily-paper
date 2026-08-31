@@ -6,10 +6,11 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.08.30_
+_Updated on 2026.08.31_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-08-28**|**Parser States Already Know: Structure-Conditioned KV Persistence for Structured Generation**|Linze Wu et.al.|[2608.28276](http://arxiv.org/abs/2608.28276)|
 |**2026-08-27**|**VPP: Virtual Pipeline Parallelism for Efficient Chunked Prefill in Long-Context LLM Inference**|Yan Shi et.al.|[2608.26523](http://arxiv.org/abs/2608.26523)|
 |**2026-08-26**|**TOPAS: Workflow-Aware Prefix-State Scheduling for Multi-Agent LLM Serving**|Hongqiu Ni et.al.|[2608.25523](http://arxiv.org/abs/2608.25523)|
 |**2026-08-25**|**HBF Sucks? A Full-Stack Characterization of High-Bandwidth Flash for KV-Centric LLM Serving**|Zhuoran Li et.al.|[2608.11668](http://arxiv.org/abs/2608.11668)|

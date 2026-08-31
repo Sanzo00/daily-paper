@@ -6,10 +6,14 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.08.30_
+_Updated on 2026.08.31_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-08-28**|**TokenPilot: Cache-Efficient Context Management for LLM Agents**|Buqiang Xu et.al.|[2606.17016_(EMNLP)](http://arxiv.org/abs/2606.17016)|
+|**2026-08-28**|**Set-shifting Behavioral Test for Harnessed Agents**|Ye Ziwei et.al.|[2607.13396_(AVI)](http://arxiv.org/abs/2607.13396)|
+|**2026-08-28**|**Parser States Already Know: Structure-Conditioned KV Persistence for Structured Generation**|Linze Wu et.al.|[2608.28276](http://arxiv.org/abs/2608.28276)|
+|**2026-08-28**|**Coverage, Not Credit: Failure-Credit Routing of Zeroth-Order Perturbation Budgets Does Not Improve On-Pool Sample Efficiency for LLM Agents**|Yuxu Ge et.al.|[2608.28011](http://arxiv.org/abs/2608.28011)|
 |**2026-08-27**|**When Does Latent Communication Pay? A Causal Audit of Relayed KV Caches in Multi-Agent LLMs**|Jiaming Cheng et.al.|[2608.04893](http://arxiv.org/abs/2608.04893)|
 |**2026-08-27**|**When Context Gets Root: Privilege Escalation in LLM Harnesses**|Xingbang He et.al.|[2608.27299](http://arxiv.org/abs/2608.27299)|
 |**2026-08-27**|**BekchiAI: Measuring, Observing, and Controlling LLM Agents in One Click**|Mesut Toruk et.al.|[2608.26867](http://arxiv.org/abs/2608.26867)|
@@ -96,7 +100,6 @@ _Updated on 2026.08.30_
 |**2026-07-15**|**Beyond tokens: a unified framework for latent communication in LLM-based multi-agent systems**|Yingzhuo Liu et.al.|[2606.05711](http://arxiv.org/abs/2606.05711)|
 |**2026-07-15**|**JW-ASTClaw: A Generalizable Multi-Agent Framework for Autonomous Solar Telescope and Its Implementation within Chinese Meridian Project**|Li-Yue Tong et.al.|[2607.13549](http://arxiv.org/abs/2607.13549)|
 |**2026-07-15**|**Scientific-Intention Driven Embodied Intelligent Solar Telescope: Conceptual Design**|Lin Jiaben et.al.|[2607.13533](http://arxiv.org/abs/2607.13533)|
-|**2026-07-15**|**Set-shifting Behavioral Test for Harnessed Agents**|Ziwei Ye et.al.|[2607.13396](http://arxiv.org/abs/2607.13396)|
 |**2026-07-15**|**Stop Means Stop: Measuring and Repairing the Enforcement Gap in Agent-Framework Control Primitives**|Sajjad Khan et.al.|[2607.14166](http://arxiv.org/abs/2607.14166)|
 |**2026-07-13**|**[AAFLOW+] Stateful Operator Abstraction with Zero-Copy Distributed KV Cache Orchestration for Multi-Agent Workflows**|Arup Kumar Sarker et.al.|[2607.10987](http://arxiv.org/abs/2607.10987)|
 |**2026-07-13**|**CityBehavEx: A Scalable and Empirically Validated LLM-Assisted Urban Simulation Platform**|Gustavo H. Santos et.al.|[2607.12086](http://arxiv.org/abs/2607.12086)|
@@ -153,7 +156,6 @@ _Updated on 2026.08.30_
 |**2026-06-16**|**LLMZero: Discovering Adaptive Training Strategies for RL Post-Training via LLM Agents**|Haoyang Fang et.al.|[2606.18388](http://arxiv.org/abs/2606.18388)|
 |**2026-06-15**|**MARS: Efficient, Adaptive Co-Scheduling for Heterogeneous Agentic Systems**|Yifei Wang et.al.|[2604.26963](http://arxiv.org/abs/2604.26963)|
 |**2026-06-15**|**SwiftCache: Efficient LLM Serving for Multi-turn Conversations with Heterogeneous KV Cache Sharing**|Jianmin Hu et.al.|[2606.16135](http://arxiv.org/abs/2606.16135)|
-|**2026-06-15**|**TokenPilot: Cache-Efficient Context Management for LLM Agents**|Buqiang Xu et.al.|[2606.17016](http://arxiv.org/abs/2606.17016)|
 |**2026-06-15**|**Consensus-based Agentic Large Language Model Framework for Harmonized Tariff Schedule Code Classification**|Truong Thanh Hung Nguyen et.al.|[2606.16987](http://arxiv.org/abs/2606.16987)|
 |**2026-06-15**|**CacheWise: Understanding Workloads and Optimizing KVCache Management for Efficiently Serving LLM Coding Agents**|Shubham Tiwari et.al.|[2606.16824](http://arxiv.org/abs/2606.16824)|
 |**2026-06-15**|**The Proxy Knows Too Much: Sealing LLM API Routers with Attested TEEs**|Sipeng Xie et.al.|[2606.16358](http://arxiv.org/abs/2606.16358)|
