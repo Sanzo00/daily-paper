@@ -6,20 +6,23 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.08.31_
+_Updated on 2026.09.01_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-08-31**|**Extending AI for Research to the Humanities: A Multi-Agent Framework for Evidence-Grounded Scholarship**|Yating Pan et.al.|[2605.30947_(EMNLP)](http://arxiv.org/abs/2605.30947)|
+|**2026-08-31**|**Citation-Closure Retrieval and Per-Rule Attribution for Real-World Regulatory Compliance Question Answering**|Yeong-Joon Ju et.al.|[2605.29742_(EMNLP)](http://arxiv.org/abs/2605.29742)|
+|**2026-08-31**|**Controlled Evaluation of Graph and Multimodal Augmentation in RAG for Document Question Answering**|Sokipriala Jonah et.al.|[2607.16604](http://arxiv.org/abs/2607.16604)|
+|**2026-08-30**|**GTA-RAG: Graph-Trajectory-Augmented Reinforcement Learning for Multi-Turn Retrieval-Augmented Reasoning**|Jun Chen et.al.|[2608.22479_(EMNLP)](http://arxiv.org/abs/2608.22479)|
+|**2026-08-29**|**Spatial-Knowledge-Graph-Grounded LLM Agents for Neighborhood Livability Evaluation**|Haiyan Hao et.al.|[2608.25952](http://arxiv.org/abs/2608.25952)|
 |**2026-08-28**|**Gen-TAS: A Generative AI-Aided Hardware-Software Task Allocation Framework for FPGA-GPP Heterogeneous Systems**|Mary Kong et.al.|[2608.28160](http://arxiv.org/abs/2608.28160)|
 |**2026-08-27**|**SymbolLKG: Towards Verifiable Logical Reasoning via Logical Knowledge Graph and Symbolic Solvers**|Haizhao Fan et.al.|[2608.26836](http://arxiv.org/abs/2608.26836)|
 |**2026-08-26**|**Multi-Granularity Context-Enhanced RAG over Multimodal Knowledge Graphs**|Zongyu Wu et.al.|[2608.25986](http://arxiv.org/abs/2608.25986)|
-|**2026-08-26**|**Spatial-Knowledge-Graph-Grounded LLM Agents for Neighborhood Livability Evaluation**|Haiyan Hao et.al.|[2608.25952](http://arxiv.org/abs/2608.25952)|
 |**2026-08-26**|**LivingRAG: Augmenting Graph RAG with Experience**|Yuzhuo Cui et.al.|[2608.25960](http://arxiv.org/abs/2608.25960)|
 |**2026-08-25**|**SAG: SQL-Retrieval Augmented Generation with Query-Time Dynamic Hyperedges**|Yuchao Wu et.al.|[2606.15971_(ISS)](http://arxiv.org/abs/2606.15971)|
 |**2026-08-24**|**SAG: SQL-Retrieval Augmented Generation with Query-Time Dynamic Hyperedges**|Yuchao Wu et.al.|[2608.12129_(DATE)](http://arxiv.org/abs/2608.12129)|
 |**2026-08-24**|**FashionKG-RAG: Knowledge Graph-Enhanced Retrieval-Augmented Generation for Fashion Question Answering**|Yujuan Ding et.al.|[2608.22688](http://arxiv.org/abs/2608.22688)|
 |**2026-08-23**|**GeoRisk-RAG: A Hierarchy-Aware Risk Framework for Improving RAG Reliability through Selective Answering**|Meenu Ravi et.al.|[2608.22634_(CIKM)](http://arxiv.org/abs/2608.22634)|
-|**2026-08-23**|**GTA-RAG: Graph-Trajectory-Augmented Reinforcement Learning for Multi-Turn Retrieval-Augmented Reasoning**|Jun Chen et.al.|[2608.22479_(EMNLP)](http://arxiv.org/abs/2608.22479)|
 |**2026-08-22**|**From Association to Causation: Improving Retrieval Precision of Retrieval-Augmented Generation via Causal Relations and an Attention Mechanism**|Jing Liu et.al.|[2608.21702](http://arxiv.org/abs/2608.21702)|
 |**2026-08-21**|**MedRAGChecker: Claim-Level Verification for Biomedical Retrieval-Augmented Generation**|Yuelyu Ji et.al.|[2601.06519](http://arxiv.org/abs/2601.06519)|
 |**2026-08-21**|**Do Large Language Models Play Six Degrees of Separation? Measuring Topological Compression in Long-Context Manifolds**|Md. Faiyaz Abdullah Sayeedi et.al.|[2608.17950](http://arxiv.org/abs/2608.17950)|
@@ -53,7 +56,6 @@ _Updated on 2026.08.31_
 |**2026-07-19**|**SAGA: Synthetic Agentic Graph Architecture for Temporal Benchmark Generation**|Jiacheng Ding et.al.|[2607.17288](http://arxiv.org/abs/2607.17288)|
 |**2026-07-18**|**MMGraphRAG: Bridging Vision and Language with Interpretable Multimodal Knowledge Graphs**|Xueyao Wan et.al.|[2507.20804](http://arxiv.org/abs/2507.20804)|
 |**2026-07-18**|**SmartRAG: Native Graph-Based RAG for Mobile Device**|Zhihan Jiang et.al.|[2607.14661](http://arxiv.org/abs/2607.14661)|
-|**2026-07-18**|**When Do Multimodal and Graph-Augmented RAG Help? A Controlled Evaluation for Document Question Answering**|Sokipriala Jonah et.al.|[2607.16604](http://arxiv.org/abs/2607.16604)|
 |**2026-07-17**|**Cache-Aware Prompt Compression:A Two-Tier Cost Model for LLM API Caching**|Yan Song et.al.|[2607.15516](http://arxiv.org/abs/2607.15516)|
 |**2026-07-17**|**Chronofy: A Temporal-Logical Decay Architecture for Information Validity in Time-Aware Retrieval-Augmented Generation**|Muntaser Syed et.al.|[2607.20560](http://arxiv.org/abs/2607.20560)|
 |**2026-07-16**|**MemTrace: Tracing and Attributing Errors in Large Language Model Memory Systems**|Xinle Deng et.al.|[2605.28732](http://arxiv.org/abs/2605.28732)|
@@ -63,6 +65,7 @@ _Updated on 2026.08.31_
 |**2026-07-13**|**Cost-Governed RAG: Unified Per-Tenant Cost Attribution Across Retrieval and Generation in Multi-Tenant LLM Systems**|Navnit Shukla et.al.|[2607.12188](http://arxiv.org/abs/2607.12188)|
 |**2026-07-10**|**AgentKGV: Agentic LLM-RAG Framework with Two-Stage Training for the Fact Verification of Knowledge Graphs**|Yumin Heo et.al.|[2607.09092](http://arxiv.org/abs/2607.09092)|
 |**2026-07-09**|**PolyUQuest: Verifiable Structure-Aware Web RAG over Heterogeneous Graphs**|Ying Liu et.al.|[2607.08269](http://arxiv.org/abs/2607.08269)|
+|**2026-07-08**|**RegDivergence-101: An LLM Benchmark for Cross-Jurisdiction Regulatory Contradiction Detection in Life Sciences**|Chuchu Wu et.al.|[2608.28607](http://arxiv.org/abs/2608.28607)|
 |**2026-07-07**|**Multimodal CoLRAG-TF: Triple-Filtered Retrieval for Complex PDFs**|Takato Yasuno et.al.|[2607.20517](http://arxiv.org/abs/2607.20517)|
 |**2026-07-06**|**MIRAGE: Defending Long-Form RAG Against Misinformation Pollution**|Saadeldine Eletter et.al.|[2607.05069_(ACL)](http://arxiv.org/abs/2607.05069)|
 |**2026-07-05**|**Memory-Orchestrated Semantic System (MOSS): An Auditable Agentic Memory Architecture**|Serge Lacasse et.al.|[2607.04391](http://arxiv.org/abs/2607.04391)|
@@ -117,7 +120,6 @@ _Updated on 2026.08.31_
 |**2026-06-04**|**Beyond Vector Similarity: A Structural Analysis of Graph-Augmented Retrieval for Industrial Knowledge Graphs**|Grama Chethan et.al.|[2606.06003](http://arxiv.org/abs/2606.06003)|
 |**2026-06-03**|**LazyAttention: Efficient Retrieval-Augmented Generation with Deferred Positional Encoding**|Haocheng Xia et.al.|[2606.04302_(ICML)](http://arxiv.org/abs/2606.04302)|
 |**2026-06-03**|**MemoryDocDataSet: A Benchmark for Joint Conversational Memory and Long Document Reasoning**|Qiyang Xie et.al.|[2606.04442](http://arxiv.org/abs/2606.04442)|
-|**2026-06-03**|**Extending AI for Research to the Humanities: A Multi-Agent Framework for Evidence-Grounded Scholarship**|Yating Pan et.al.|[2605.30947_(SC)](http://arxiv.org/abs/2605.30947)|
 |**2026-06-03**|**HyperSU: Corpus-Driven Semantic-Unit Hypergraph for Retrieval-Augmented Generation**|Jiate Liu et.al.|[2606.28351](http://arxiv.org/abs/2606.28351)|
 |**2026-06-02**|**DTKG: Dual-Track Knowledge Graph-Verified Reasoning Framework for Multi-Hop QA**|Changhao Wang et.al.|[2510.16302_(ICML)](http://arxiv.org/abs/2510.16302)|
 |**2026-06-01**|**Profile-Graph Memory for LLM Agents: Implicit Cross-Entity Traversal through Narrative Profiles**|Shengtong Zhu et.al.|[2607.19359](http://arxiv.org/abs/2607.19359)|
@@ -126,7 +128,6 @@ _Updated on 2026.08.31_
 |**2026-05-30**|**MemGraphRAG: Memory-based Multi-Agent System for Graph Retrieval-Augmented Generation**|Chuanjie Wu et.al.|[2606.00610_(KDD)](http://arxiv.org/abs/2606.00610)|
 |**2026-05-29**|**Mixture-of-Experts Knowledge Graph Retrieval-Augmented Generation for Multi-Agent LLM-based Recommendation**|Shijie Wang et.al.|[2605.28175_(KDD)](http://arxiv.org/abs/2605.28175)|
 |**2026-05-29**|**Experiments in Agentic AI for Science**|Judy Fox et.al.|[2605.26305](http://arxiv.org/abs/2605.26305)|
-|**2026-05-28**|**Citation-Closure Retrieval and Per-Rule Attribution for Real-World Regulatory Compliance Question Answering**|Yeong-Joon Ju et.al.|[2605.29742](http://arxiv.org/abs/2605.29742)|
 |**2026-05-28**|**Enhancing LLM Medical Coding with Structured External Knowledge**|Yidong Gan et.al.|[2605.27377](http://arxiv.org/abs/2605.27377)|
 |**2026-05-27**|**Nonvolatile Charge-Domain Attention with HZO Ferroelectric Capacitors: A Simulation-Based Device-to-System Evaluation**|Faris Abouagour et.al.|[2605.28208](http://arxiv.org/abs/2605.28208)|
 |**2026-05-27**|**Better Later Than Sooner: Neuro-Symbolic Knowledge Graph Construction via Ontology-grounded Post-extraction Correction**|Lorenzo Loconte et.al.|[2605.29168](http://arxiv.org/abs/2605.29168)|

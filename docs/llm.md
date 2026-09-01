@@ -6,10 +6,17 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.08.31_
+_Updated on 2026.09.01_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-08-31**|**SALT: Salience-Aware Lexical Trie for Long-Context Compression**|Oteo Mamo et.al.|[2607.17486](http://arxiv.org/abs/2607.17486)|
+|**2026-08-31**|**A Universal Context-Reuse Layer for Cross-Model KV Sharing**|Yi Li et.al.|[2608.30963](http://arxiv.org/abs/2608.30963)|
+|**2026-08-31**|**Adaptive KV Retention for LLM Agents at Human-Approval Timescales**|Minseo Choi et.al.|[2608.30830](http://arxiv.org/abs/2608.30830)|
+|**2026-08-31**|**CHIPSMORE: Compute-in-Interconnect and -Memory Chiplets for Multi-Mode Multi-Request LLM Inference Acceleration**|Yue Jiet Chong et.al.|[2608.30509](http://arxiv.org/abs/2608.30509)|
+|**2026-08-31**|**Faithfulness Is Not Free: Auditing Offline KV-Cache Quantization in Retrieval-Augmented Generation**|Atta Ul Asad et.al.|[2608.30996_(EMNLP)](http://arxiv.org/abs/2608.30996)|
+|**2026-08-31**|**Strong Drafts Need Compact Memories: Long-Context Speculative Decoding with Compressed KV Cache**|Tong Yuan et.al.|[2608.30252_(EMNLP)](http://arxiv.org/abs/2608.30252)|
+|**2026-08-30**|**Budget-Aware Compression Pipeline for Single-GPU LLM Inference: Methods, Trade-offs, and Coupling Effects**|Hongyu Yu et.al.|[2608.30076_(EMNLP)](http://arxiv.org/abs/2608.30076)|
 |**2026-08-28**|**Parser States Already Know: Structure-Conditioned KV Persistence for Structured Generation**|Linze Wu et.al.|[2608.28276](http://arxiv.org/abs/2608.28276)|
 |**2026-08-27**|**VPP: Virtual Pipeline Parallelism for Efficient Chunked Prefill in Long-Context LLM Inference**|Yan Shi et.al.|[2608.26523](http://arxiv.org/abs/2608.26523)|
 |**2026-08-26**|**TOPAS: Workflow-Aware Prefix-State Scheduling for Multi-Agent LLM Serving**|Hongqiu Ni et.al.|[2608.25523](http://arxiv.org/abs/2608.25523)|
@@ -85,7 +92,6 @@ _Updated on 2026.08.31_
 |**2026-07-23**|**Persistent Computational State: A Session-Centric Runtime for Generative World Models**|Zhen Lin et.al.|[2607.21686](http://arxiv.org/abs/2607.21686)|
 |**2026-07-20**|**FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention**|Yan Wang et.al.|[2606.09079](http://arxiv.org/abs/2606.09079)|
 |**2026-07-20**|**C$^2$KV: Compressed and Composable KV Cache Reuse for Efficient LLM Inference**|Chuheng Du et.al.|[2607.17715_(KDD)](http://arxiv.org/abs/2607.17715)|
-|**2026-07-20**|**SALT: Salience-Aware Lexical Trie for Long-Context Compression**|Oteo Mamo et.al.|[2607.17486](http://arxiv.org/abs/2607.17486)|
 |**2026-07-19**|**Talaria: Session-Aware Serverless Serving of Hundred-Billion-Parameter LLMs**|Utopia Meng et.al.|[2607.17181](http://arxiv.org/abs/2607.17181)|
 |**2026-07-18**|**Robust KV Cache Management for LLM Serving under Output Token Length Uncertainty**|Jiaming Cheng et.al.|[2607.16892](http://arxiv.org/abs/2607.16892)|
 |**2026-07-17**|**PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-Aware Weight Quantization**|Yuchen Yang et.al.|[2607.16184](http://arxiv.org/abs/2607.16184)|

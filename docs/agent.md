@@ -6,10 +6,16 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.08.31_
+_Updated on 2026.09.01_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-08-31**|**A Universal Context-Reuse Layer for Cross-Model KV Sharing**|Yi Li et.al.|[2608.30963](http://arxiv.org/abs/2608.30963)|
+|**2026-08-31**|**Adaptive KV Retention for LLM Agents at Human-Approval Timescales**|Minseo Choi et.al.|[2608.30830](http://arxiv.org/abs/2608.30830)|
+|**2026-08-31**|**Strong Drafts Need Compact Memories: Long-Context Speculative Decoding with Compressed KV Cache**|Tong Yuan et.al.|[2608.30252_(EMNLP)](http://arxiv.org/abs/2608.30252)|
+|**2026-08-31**|**TRIPPULSE: Multi-Agent Travel Planning with Review-Grounded Reasoning**|Priyanshu Karmakar et.al.|[2608.30924_(EMNLP)](http://arxiv.org/abs/2608.30924)|
+|**2026-08-31**|**Mnemosyne: Agentic Transaction Processing for Validating and Repairing AI-generated Workflows**|Edward Y. Chang et.al.|[2607.00269](http://arxiv.org/abs/2607.00269)|
+|**2026-08-29**|**Spatial-Knowledge-Graph-Grounded LLM Agents for Neighborhood Livability Evaluation**|Haiyan Hao et.al.|[2608.25952](http://arxiv.org/abs/2608.25952)|
 |**2026-08-28**|**TokenPilot: Cache-Efficient Context Management for LLM Agents**|Buqiang Xu et.al.|[2606.17016_(EMNLP)](http://arxiv.org/abs/2606.17016)|
 |**2026-08-28**|**Set-shifting Behavioral Test for Harnessed Agents**|Ye Ziwei et.al.|[2607.13396_(AVI)](http://arxiv.org/abs/2607.13396)|
 |**2026-08-28**|**Parser States Already Know: Structure-Conditioned KV Persistence for Structured Generation**|Linze Wu et.al.|[2608.28276](http://arxiv.org/abs/2608.28276)|
@@ -18,7 +24,6 @@ _Updated on 2026.08.31_
 |**2026-08-27**|**When Context Gets Root: Privilege Escalation in LLM Harnesses**|Xingbang He et.al.|[2608.27299](http://arxiv.org/abs/2608.27299)|
 |**2026-08-27**|**BekchiAI: Measuring, Observing, and Controlling LLM Agents in One Click**|Mesut Toruk et.al.|[2608.26867](http://arxiv.org/abs/2608.26867)|
 |**2026-08-26**|**TOPAS: Workflow-Aware Prefix-State Scheduling for Multi-Agent LLM Serving**|Hongqiu Ni et.al.|[2608.25523](http://arxiv.org/abs/2608.25523)|
-|**2026-08-26**|**Spatial-Knowledge-Graph-Grounded LLM Agents for Neighborhood Livability Evaluation**|Haiyan Hao et.al.|[2608.25952](http://arxiv.org/abs/2608.25952)|
 |**2026-08-26**|**psRL: Efficient Training for Agentic AI via Training-Time Prefix Sharing**|Mianjie Yu et.al.|[2608.25683](http://arxiv.org/abs/2608.25683)|
 |**2026-08-25**|**PeakBench: Benchmarking Resource-Aware Tool Invocation in LLM Agents**|Zhi-Kai Chen et.al.|[2608.24509](http://arxiv.org/abs/2608.24509)|
 |**2026-08-23**|**KMGen: A Skill-based Approach for Synthetic Individual Patient Data Generation**|Jalen Jiang et.al.|[2608.22618](http://arxiv.org/abs/2608.22618)|
