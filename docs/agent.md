@@ -6,10 +6,13 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.09.01_
+_Updated on 2026.09.02_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-01**|**ContextPipe: Database-Inspired Context Assembly for Long-Horizon Agents**|Peng Xu et.al.|[2609.00749](http://arxiv.org/abs/2609.00749)|
+|**2026-09-01**|**Automatic Model-Hardware Co-Adaptation for Heterogeneous AI Accelerators**|Tian Chen et.al.|[2607.12875](http://arxiv.org/abs/2607.12875)|
+|**2026-09-01**|**AInfer-PD: Communication-Safe In-Place Prefill-Decode Multiplexing for Distributed MoE Rollouts**|Guowei Wang et.al.|[2609.00993](http://arxiv.org/abs/2609.00993)|
 |**2026-08-31**|**A Universal Context-Reuse Layer for Cross-Model KV Sharing**|Yi Li et.al.|[2608.30963](http://arxiv.org/abs/2608.30963)|
 |**2026-08-31**|**Adaptive KV Retention for LLM Agents at Human-Approval Timescales**|Minseo Choi et.al.|[2608.30830](http://arxiv.org/abs/2608.30830)|
 |**2026-08-31**|**Strong Drafts Need Compact Memories: Long-Context Speculative Decoding with Compressed KV Cache**|Tong Yuan et.al.|[2608.30252_(EMNLP)](http://arxiv.org/abs/2608.30252)|

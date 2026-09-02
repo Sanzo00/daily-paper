@@ -6,10 +6,13 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.09.01_
+_Updated on 2026.09.02_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-01**|**Automated Tree Knowledge Graph Construction using Ontology Expansion and Retrieval from Vietnamese History Textbooks**|Ket Doan Nguyen et.al.|[2609.00763](http://arxiv.org/abs/2609.00763)|
+|**2026-09-01**|**Agent-Enhanced Heterogeneous Graph RAG for Academic Question Answering**|Runsong Jia et.al.|[2609.00761](http://arxiv.org/abs/2609.00761)|
+|**2026-09-01**|**ISO-RAG: Isoperimetric Noise Control for Retrieval-Augmented Generation**|Siyuan Zhang et.al.|[2609.00513](http://arxiv.org/abs/2609.00513)|
 |**2026-08-31**|**Extending AI for Research to the Humanities: A Multi-Agent Framework for Evidence-Grounded Scholarship**|Yating Pan et.al.|[2605.30947_(EMNLP)](http://arxiv.org/abs/2605.30947)|
 |**2026-08-31**|**Citation-Closure Retrieval and Per-Rule Attribution for Real-World Regulatory Compliance Question Answering**|Yeong-Joon Ju et.al.|[2605.29742_(EMNLP)](http://arxiv.org/abs/2605.29742)|
 |**2026-08-31**|**Controlled Evaluation of Graph and Multimodal Augmentation in RAG for Document Question Answering**|Sokipriala Jonah et.al.|[2607.16604](http://arxiv.org/abs/2607.16604)|

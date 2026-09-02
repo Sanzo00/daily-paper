@@ -6,10 +6,16 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.09.01_
+_Updated on 2026.09.02_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-01**|**KV Cache Offloading for Context-Intensive Tasks**|Andrey Bocharnikov et.al.|[2604.08426](http://arxiv.org/abs/2604.08426)|
+|**2026-09-01**|**Enabling KV Caching of Shared Prefix for Diffusion Language Models**|Younghun Go et.al.|[2606.07571_(EMNLP)](http://arxiv.org/abs/2606.07571)|
+|**2026-09-01**|**From Language to Behavior: Scaling Sequence Transformers for Industrial Recommendation Ranking with Rec-Native Designs**|Jie Chen et.al.|[2609.01240](http://arxiv.org/abs/2609.01240)|
+|**2026-09-01**|**Automatic Model-Hardware Co-Adaptation for Heterogeneous AI Accelerators**|Tian Chen et.al.|[2607.12875](http://arxiv.org/abs/2607.12875)|
+|**2026-09-01**|**Hardware Acceleration of Block-Diffusion LLM for Edge Devices**|Wei-Hsing Huang et.al.|[2609.01084](http://arxiv.org/abs/2609.01084)|
+|**2026-09-01**|**CacheBridge: Efficient Cross-Model KV Cache Transfer**|Xingyu Qu et.al.|[2609.00891](http://arxiv.org/abs/2609.00891)|
 |**2026-08-31**|**SALT: Salience-Aware Lexical Trie for Long-Context Compression**|Oteo Mamo et.al.|[2607.17486](http://arxiv.org/abs/2607.17486)|
 |**2026-08-31**|**A Universal Context-Reuse Layer for Cross-Model KV Sharing**|Yi Li et.al.|[2608.30963](http://arxiv.org/abs/2608.30963)|
 |**2026-08-31**|**Adaptive KV Retention for LLM Agents at Human-Approval Timescales**|Minseo Choi et.al.|[2608.30830](http://arxiv.org/abs/2608.30830)|
@@ -120,7 +126,6 @@ _Updated on 2026.09.01_
 |**2026-07-03**|**Reading Between the Dots: Decoding Hidden Computation across Filler Tokens**|Kaley Brauer et.al.|[2607.03502_(ICML)](http://arxiv.org/abs/2607.03502)|
 |**2026-07-03**|**Hierarchical Sparse Attention Done Right: Toward Infinite Context Modeling**|Xiang Hu et.al.|[2607.02980](http://arxiv.org/abs/2607.02980)|
 |**2026-07-02**|**FCDC: Nonvolatile Charge-Domain Attention with HZO Ferroelectric Capacitors**|Fares Abouagor et.al.|[2605.28208](http://arxiv.org/abs/2605.28208)|
-|**2026-07-02**|**Enabling KV Caching of Shared Prefix for Diffusion Language Models**|Younghun Go et.al.|[2606.07571](http://arxiv.org/abs/2606.07571)|
 |**2026-07-02**|**ELDR: Expert-Locality-Aware Decode Routing for PD-Disaggregated MoE Serving**|Sangjin Choi et.al.|[2607.00466](http://arxiv.org/abs/2607.00466)|
 |**2026-07-02**|**Towards Load-Aware Prefill Deflection for Disaggregated LLM Serving**|Shrikara Arun et.al.|[2607.02043](http://arxiv.org/abs/2607.02043)|
 |**2026-07-02**|**Lynx: Progressive Speculative Quantization for accelerating KV Transfer in Long-Context Inference**|Wenchen Han et.al.|[2607.01831_(SC)](http://arxiv.org/abs/2607.01831)|
@@ -263,7 +268,6 @@ _Updated on 2026.09.01_
 |**2026-05-17**|**VeriCache: Turning Lossy KV Cache into Lossless LLM Inference**|Jiayi Yao et.al.|[2605.17613](http://arxiv.org/abs/2605.17613)|
 |**2026-05-16**|**TriAxialKV: Toward Extreme Low-Precision KV-Cache Quantization for Agentic Inference Tasks**|Hanzhang Shen et.al.|[2605.17170](http://arxiv.org/abs/2605.17170)|
 |**2026-05-16**|**ObjectCache: Layerwise Object-Storage Retrieval for KV Cache Reuse**|Yu Zhu et.al.|[2605.22850](http://arxiv.org/abs/2605.22850)|
-|**2026-05-15**|**KV Cache Offloading for Context-Intensive Tasks**|Andrey Bocharnikov et.al.|[2604.08426](http://arxiv.org/abs/2604.08426)|
 |**2026-05-15**|**HexAGenT: Efficient Agentic LLM Serving via Workflow- and Heterogeneity-Aware Scheduling**|You Peng et.al.|[2605.16637](http://arxiv.org/abs/2605.16637)|
 |**2026-05-15**|**AgentKVShift: Efficient KV Cache Reuse for Agentic Memory Systems**|Nilesh Prasad Pandey et.al.|[2607.21604](http://arxiv.org/abs/2607.21604)|
 |**2026-05-14**|**KVCapsule: Efficient Sequential KV Cache Compression for Vision-Language Models with Asymmetric Redundancy**|Yingbing Huang et.al.|[2605.16439](http://arxiv.org/abs/2605.16439)|
