@@ -6,13 +6,15 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.09.02_
+_Updated on 2026.09.03_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-01**|**WhiFlash: Accelerating Speculative Decoding with Token-Level Cross-Paradigm Routing**|Young D. Kwon et.al.|[2606.07710_(EMNLP)](http://arxiv.org/abs/2606.07710)|
 |**2026-09-01**|**ContextPipe: Database-Inspired Context Assembly for Long-Horizon Agents**|Peng Xu et.al.|[2609.00749](http://arxiv.org/abs/2609.00749)|
 |**2026-09-01**|**Automatic Model-Hardware Co-Adaptation for Heterogeneous AI Accelerators**|Tian Chen et.al.|[2607.12875](http://arxiv.org/abs/2607.12875)|
 |**2026-09-01**|**AInfer-PD: Communication-Safe In-Place Prefill-Decode Multiplexing for Distributed MoE Rollouts**|Guowei Wang et.al.|[2609.00993](http://arxiv.org/abs/2609.00993)|
+|**2026-08-31**|**RECAP: Regression Evaluation for Continual Adaptation of Prompts**|Harsh Deshpande et.al.|[2606.06698](http://arxiv.org/abs/2606.06698)|
 |**2026-08-31**|**A Universal Context-Reuse Layer for Cross-Model KV Sharing**|Yi Li et.al.|[2608.30963](http://arxiv.org/abs/2608.30963)|
 |**2026-08-31**|**Adaptive KV Retention for LLM Agents at Human-Approval Timescales**|Minseo Choi et.al.|[2608.30830](http://arxiv.org/abs/2608.30830)|
 |**2026-08-31**|**Strong Drafts Need Compact Memories: Long-Context Speculative Decoding with Compressed KV Cache**|Tong Yuan et.al.|[2608.30252_(EMNLP)](http://arxiv.org/abs/2608.30252)|
@@ -185,7 +187,6 @@ _Updated on 2026.09.02_
 |**2026-06-10**|**Libra: Efficient Resource Management for Agentic RL Post-Training**|Kaiwen Chen et.al.|[2606.03077](http://arxiv.org/abs/2606.03077)|
 |**2026-06-10**|**Goal-Autopilot: A Verifiable Anti-Fabrication Firewall for Unattended Long-Horizon Agents**|Youwang Deng et.al.|[2606.11688](http://arxiv.org/abs/2606.11688)|
 |**2026-06-09**|**Sim2Schedule: A Simulator-Guided LLM Framework for Autonomous Open-Pit Mine Scheduling**|Mustavi Ibne Masum et.al.|[2606.10286](http://arxiv.org/abs/2606.10286)|
-|**2026-06-09**|**RECAP: Regression Evaluation for Continual Adaptation of Prompts**|Harsh Deshpande et.al.|[2606.06698](http://arxiv.org/abs/2606.06698)|
 |**2026-06-09**|**INFRAMIND: Infrastructure-Aware Multi-Agent Orchestration**|Ahasan Kabir et.al.|[2606.11440](http://arxiv.org/abs/2606.11440)|
 |**2026-06-08**|**End-to-End Context Compression at Scale**|Ang Li et.al.|[2606.09659](http://arxiv.org/abs/2606.09659)|
 |**2026-06-08**|**Visual Para-Thinker++: A Single-Policy Multi-Agent Framework for Visual Reasoning**|Haoran Xu et.al.|[2606.09290](http://arxiv.org/abs/2606.09290)|
@@ -195,7 +196,6 @@ _Updated on 2026.09.02_
 |**2026-06-06**|**Latent Cache Flow: Model-to-Model Communication Without Text**|Maximillian Rossi et.al.|[2605.22863](http://arxiv.org/abs/2605.22863)|
 |**2026-06-05**|**Simple is Better: Multiplication May Be All You Need for LLM Request Scheduling**|Dingyan Zhang et.al.|[2603.15202_(OSDI)](http://arxiv.org/abs/2603.15202)|
 |**2026-06-05**|**CalBench: Evaluating Coordination-Privacy Trade-offs in Multi-Agent LLMs**|Chelsea Zou et.al.|[2605.09823](http://arxiv.org/abs/2605.09823)|
-|**2026-06-05**|**WhiFlash: Accelerating Speculative Decoding with Token-Level Cross-Paradigm Routing**|Young D. Kwon et.al.|[2606.07710](http://arxiv.org/abs/2606.07710)|
 |**2026-06-05**|**SCALE: Scalable Cross-Attention Learning with Extrapolation for Agentic Workflow Scheduling**|Zhifei Xu et.al.|[2606.06820](http://arxiv.org/abs/2606.06820)|
 |**2026-06-04**|**MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery**|Shangheng Du et.al.|[2606.06473](http://arxiv.org/abs/2606.06473)|
 |**2026-06-04**|**Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads**|Yasmine Omri et.al.|[2606.06448](http://arxiv.org/abs/2606.06448)|

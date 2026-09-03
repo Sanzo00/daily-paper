@@ -6,16 +6,20 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.09.02_
+_Updated on 2026.09.03_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-02**|**Enabling KV Caching of Shared Prefix for Diffusion Language Models**|Younghun Go et.al.|[2606.07571_(EMNLP)](http://arxiv.org/abs/2606.07571)|
+|**2026-09-02**|**Multi-Turn LLM Conversations under the Least-Recently-Used Policy: Mean-Field Asymptotics and Hit Ratio Approximation**|Heyuan Yao et.al.|[2609.02027](http://arxiv.org/abs/2609.02027)|
+|**2026-09-02**|**SCX Router: Streaming Zero-Shot Model Selection with a Decoder-KV Classifier and a Real-World Task Ontology**|Ihor Stepanov et.al.|[2609.02292](http://arxiv.org/abs/2609.02292)|
 |**2026-09-01**|**KV Cache Offloading for Context-Intensive Tasks**|Andrey Bocharnikov et.al.|[2604.08426](http://arxiv.org/abs/2604.08426)|
-|**2026-09-01**|**Enabling KV Caching of Shared Prefix for Diffusion Language Models**|Younghun Go et.al.|[2606.07571_(EMNLP)](http://arxiv.org/abs/2606.07571)|
+|**2026-09-01**|**WhiFlash: Accelerating Speculative Decoding with Token-Level Cross-Paradigm Routing**|Young D. Kwon et.al.|[2606.07710_(EMNLP)](http://arxiv.org/abs/2606.07710)|
 |**2026-09-01**|**From Language to Behavior: Scaling Sequence Transformers for Industrial Recommendation Ranking with Rec-Native Designs**|Jie Chen et.al.|[2609.01240](http://arxiv.org/abs/2609.01240)|
 |**2026-09-01**|**Automatic Model-Hardware Co-Adaptation for Heterogeneous AI Accelerators**|Tian Chen et.al.|[2607.12875](http://arxiv.org/abs/2607.12875)|
 |**2026-09-01**|**Hardware Acceleration of Block-Diffusion LLM for Edge Devices**|Wei-Hsing Huang et.al.|[2609.01084](http://arxiv.org/abs/2609.01084)|
 |**2026-09-01**|**CacheBridge: Efficient Cross-Model KV Cache Transfer**|Xingyu Qu et.al.|[2609.00891](http://arxiv.org/abs/2609.00891)|
+|**2026-09-01**|**Architecting Conversational Data Systems for Stateless LLM APIs: The Hydration Proxy Pattern**|Joseph Axisa et.al.|[2609.01834](http://arxiv.org/abs/2609.01834)|
 |**2026-08-31**|**SALT: Salience-Aware Lexical Trie for Long-Context Compression**|Oteo Mamo et.al.|[2607.17486](http://arxiv.org/abs/2607.17486)|
 |**2026-08-31**|**A Universal Context-Reuse Layer for Cross-Model KV Sharing**|Yi Li et.al.|[2608.30963](http://arxiv.org/abs/2608.30963)|
 |**2026-08-31**|**Adaptive KV Retention for LLM Agents at Human-Approval Timescales**|Minseo Choi et.al.|[2608.30830](http://arxiv.org/abs/2608.30830)|
@@ -207,7 +211,6 @@ _Updated on 2026.09.02_
 |**2026-06-07**|**TRADE: Transducer-Augmented Decoder for Speech LLM**|Yun Tang et.al.|[2606.08486](http://arxiv.org/abs/2606.08486)|
 |**2026-06-06**|**IntentKV: Cross-Turn Intent-Aware KV Cache Pruning for Agent Inference**|Junjie Li et.al.|[2606.09916](http://arxiv.org/abs/2606.09916)|
 |**2026-06-05**|**Semantic Cache Distillation: Efficient State Transfer via Reuse and Selective Patching**|Qianli Ma et.al.|[2606.07684_(ICML)](http://arxiv.org/abs/2606.07684)|
-|**2026-06-05**|**WhiFlash: Accelerating Speculative Decoding with Token-Level Cross-Paradigm Routing**|Young D. Kwon et.al.|[2606.07710](http://arxiv.org/abs/2606.07710)|
 |**2026-06-04**|**QCFuse: Query-Aware Cache Fusion via Compressed View for Efficient RAG Serving**|Jianxin Yan et.al.|[2606.05875](http://arxiv.org/abs/2606.05875)|
 |**2026-06-04**|**You Only Index Once: Cross-Layer Sparse Attention with Shared Routing**|Yutao Sun et.al.|[2606.06467](http://arxiv.org/abs/2606.06467)|
 |**2026-06-04**|**Latent Reasoning with Normalizing Flows**|Guancheng Tu et.al.|[2606.06447](http://arxiv.org/abs/2606.06447)|

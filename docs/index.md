@@ -6,7 +6,7 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.09.02_
+_Updated on 2026.09.03_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
@@ -16,6 +16,7 @@ _Updated on 2026.09.02_
 |**2026-08-31**|**Extending AI for Research to the Humanities: A Multi-Agent Framework for Evidence-Grounded Scholarship**|Yating Pan et.al.|[2605.30947_(EMNLP)](http://arxiv.org/abs/2605.30947)|
 |**2026-08-31**|**Citation-Closure Retrieval and Per-Rule Attribution for Real-World Regulatory Compliance Question Answering**|Yeong-Joon Ju et.al.|[2605.29742_(EMNLP)](http://arxiv.org/abs/2605.29742)|
 |**2026-08-31**|**Controlled Evaluation of Graph and Multimodal Augmentation in RAG for Document Question Answering**|Sokipriala Jonah et.al.|[2607.16604](http://arxiv.org/abs/2607.16604)|
+|**2026-08-31**|**Enhancing Clinical Decision Support and Differential Diagnosis with Knowledge Graphs, and Retrieval Augmented Generation in Generative AI**|Henri Feto et.al.|[2609.01653](http://arxiv.org/abs/2609.01653)|
 |**2026-08-30**|**GTA-RAG: Graph-Trajectory-Augmented Reinforcement Learning for Multi-Turn Retrieval-Augmented Reasoning**|Jun Chen et.al.|[2608.22479_(EMNLP)](http://arxiv.org/abs/2608.22479)|
 |**2026-08-29**|**Spatial-Knowledge-Graph-Grounded LLM Agents for Neighborhood Livability Evaluation**|Haiyan Hao et.al.|[2608.25952](http://arxiv.org/abs/2608.25952)|
 |**2026-08-28**|**Gen-TAS: A Generative AI-Aided Hardware-Software Task Allocation Framework for FPGA-GPP Heterogeneous Systems**|Mary Kong et.al.|[2608.28160](http://arxiv.org/abs/2608.28160)|
@@ -83,6 +84,8 @@ _Updated on 2026.09.02_
 |**2026-07-01**|**ClinRAG-GRAPH: Clinical-prior Retrieval-Augmented Graph Model with Domain Adversarial Learning for Breast pCR Prediction**|Yaofei Duan et.al.|[2607.00798](http://arxiv.org/abs/2607.00798)|
 |**2026-07-01**|**HYPIC: Accelerating Hybrid-Attention LLM Serving with Position-Independent Caching**|Yifei Liu et.al.|[2607.01299](http://arxiv.org/abs/2607.01299)|
 |**2026-06-30**|**AGE: Adaptive-masking for Graph Embedding in Graph Retrieval-Augmented Generation**|Bao Long Nguyen Huu et.al.|[2607.00052](http://arxiv.org/abs/2607.00052)|
+|**2026-06-30**|**Multi-Agent Retrieval-Augmented Generation for Efficient Cloud Knowledge Base Search in Telecom SNOC Environment**|Harish Saragadam et.al.|[2609.01618](http://arxiv.org/abs/2609.01618)|
+|**2026-06-30**|**Hybrid Retrieval-Augmented Generation with Knowledge Graph Expansion, RRF Fusion, and Per-Chunk Grounded Evaluation for Enterprise Document Search**|Harish Saragadam et.al.|[2609.01617](http://arxiv.org/abs/2609.01617)|
 |**2026-06-29**|**Efficient Retrieval-Augmented Generation via Token Co-occurrence Graphs**|Gianluca Bonifazi et.al.|[2606.30093](http://arxiv.org/abs/2606.30093)|
 |**2026-06-29**|**Mandol: An Agglomerative Agent Memory System for Long-Term Conversations**|Yuhan Zhang et.al.|[2606.29778](http://arxiv.org/abs/2606.29778)|
 |**2026-06-27**|**Evidence Graph Consistency in Retrieval-Augmented Generation: A Model-Dependent Analysis of Hallucination Detection**|Jianru Shen et.al.|[2606.06748_(CHI)](http://arxiv.org/abs/2606.06748)|
