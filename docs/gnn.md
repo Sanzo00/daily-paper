@@ -6,10 +6,12 @@ nav_order: 3
 
 # GNN Papers
 
-_Updated on 2026.09.03_
+_Updated on 2026.09.04_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-02**|**Feasible but Not Safe: Constraint Violations and Report-Channel Attacks in Learned Cell-Free ISAC Association**|Mehdi Zafari et.al.|[2609.03147_(MobiCom)](http://arxiv.org/abs/2609.03147)|
+|**2026-09-02**|**Privacy-Preserving Topology-Guided Safety for LLM-Based Multi-Agent Systems via Federated Graph Learning**|Jinxi Yu et.al.|[2609.02967](http://arxiv.org/abs/2609.02967)|
 |**2026-08-17**|**Community Concealment from Graph Neural Networks**|Dalyapraz Manatova et.al.|[2602.12250](http://arxiv.org/abs/2602.12250)|
 |**2026-08-15**|**BrainLinear: A Linear Model for Brain Network Analysis in Sparse Tangent Subspaces**|Sijing Wu et.al.|[2608.15266](http://arxiv.org/abs/2608.15266)|
 |**2026-08-07**|**LGNNIC: Acceleration of Large-Scale GNN Training using SmartNICs**|Liad Gerstman et.al.|[2608.07733](http://arxiv.org/abs/2608.07733)|

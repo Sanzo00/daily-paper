@@ -6,7 +6,7 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.09.03_
+_Updated on 2026.09.04_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
@@ -83,6 +83,7 @@ _Updated on 2026.09.03_
 |**2026-07-02**|**Optimizing Hypergraph-Based RAG: Toward Better Fact Extraction and Chunk Retrieval**|Houda Khrouf et.al.|[2607.20506](http://arxiv.org/abs/2607.20506)|
 |**2026-07-01**|**ClinRAG-GRAPH: Clinical-prior Retrieval-Augmented Graph Model with Domain Adversarial Learning for Breast pCR Prediction**|Yaofei Duan et.al.|[2607.00798](http://arxiv.org/abs/2607.00798)|
 |**2026-07-01**|**HYPIC: Accelerating Hybrid-Attention LLM Serving with Position-Independent Caching**|Yifei Liu et.al.|[2607.01299](http://arxiv.org/abs/2607.01299)|
+|**2026-07-01**|**R$^{2}$Adapter: A Routing and Rewriting Adapter for Efficient Hybrid RAG**|Yucan Guo et.al.|[2609.02894](http://arxiv.org/abs/2609.02894)|
 |**2026-06-30**|**AGE: Adaptive-masking for Graph Embedding in Graph Retrieval-Augmented Generation**|Bao Long Nguyen Huu et.al.|[2607.00052](http://arxiv.org/abs/2607.00052)|
 |**2026-06-30**|**Multi-Agent Retrieval-Augmented Generation for Efficient Cloud Knowledge Base Search in Telecom SNOC Environment**|Harish Saragadam et.al.|[2609.01618](http://arxiv.org/abs/2609.01618)|
 |**2026-06-30**|**Hybrid Retrieval-Augmented Generation with Knowledge Graph Expansion, RRF Fusion, and Per-Chunk Grounded Evaluation for Enterprise Document Search**|Harish Saragadam et.al.|[2609.01617](http://arxiv.org/abs/2609.01617)|
