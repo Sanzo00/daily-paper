@@ -6,10 +6,12 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.09.06_
+_Updated on 2026.09.07_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-04**|**Forgetting Without Restarting: Execution-State Unlearning for Stateful LLM Agents**|Chao Yao et.al.|[2609.04875](http://arxiv.org/abs/2609.04875)|
+|**2026-09-04**|**KVMem: Virtualizing Million-Token Agent Workspaces on a Consumer GPU**|Di Chai et.al.|[2609.04852](http://arxiv.org/abs/2609.04852)|
 |**2026-09-03**|**Budget-Aware Compression Pipeline for Single-GPU LLM Inference: Methods, Trade-offs, and Coupling Effects**|Hongyu Yu et.al.|[2608.30076_(DIS)](http://arxiv.org/abs/2608.30076)|
 |**2026-09-03**|**Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM**|Sergii Kozyrev et.al.|[2609.04098](http://arxiv.org/abs/2609.04098)|
 |**2026-09-03**|**GrowPage: On-Demand KV Budgeting for Efficient LLM Reasoning Serving**|Qiankun Ma et.al.|[2609.03494](http://arxiv.org/abs/2609.03494)|

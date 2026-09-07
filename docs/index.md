@@ -6,10 +6,13 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.09.06_
+_Updated on 2026.09.07_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-03**|**LentEx: Generalizable Latent Entity Extraction via Synthetic Data and Instruction-Tuned LLMs**|Umesh Bodhwani et.al.|[2609.04511](http://arxiv.org/abs/2609.04511)|
+|**2026-09-03**|**GRACE: Graph-Grounded Reflective Agent Copilot Engine for Expert-in-the-Loop Knowledge Expansion**|John Seon Keun Yi et.al.|[2609.04442_(EMNLP)](http://arxiv.org/abs/2609.04442)|
+|**2026-09-03**|**Corporate Language Model (CLM): Transforming Tacit and Fragmented Enterprise Knowledge into a Sovereign, Auditable, and Executable Corporate Intelligence Layer**|Fabricio C. Avini et.al.|[2609.04377](http://arxiv.org/abs/2609.04377)|
 |**2026-09-01**|**Automated Tree Knowledge Graph Construction using Ontology Expansion and Retrieval from Vietnamese History Textbooks**|Ket Doan Nguyen et.al.|[2609.00763](http://arxiv.org/abs/2609.00763)|
 |**2026-09-01**|**Agent-Enhanced Heterogeneous Graph RAG for Academic Question Answering**|Runsong Jia et.al.|[2609.00761](http://arxiv.org/abs/2609.00761)|
 |**2026-09-01**|**ISO-RAG: Isoperimetric Noise Control for Retrieval-Augmented Generation**|Siyuan Zhang et.al.|[2609.00513](http://arxiv.org/abs/2609.00513)|

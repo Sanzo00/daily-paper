@@ -6,10 +6,14 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.09.06_
+_Updated on 2026.09.07_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-04**|**Forgetting Without Restarting: Execution-State Unlearning for Stateful LLM Agents**|Chao Yao et.al.|[2609.04875](http://arxiv.org/abs/2609.04875)|
+|**2026-09-04**|**KVMem: Virtualizing Million-Token Agent Workspaces on a Consumer GPU**|Di Chai et.al.|[2609.04852](http://arxiv.org/abs/2609.04852)|
+|**2026-09-04**|**TROVE: Adaptive Agent Skill Orchestration via Trace-Grounded Route Validation and Editing**|Tianxing Wang et.al.|[2609.05019](http://arxiv.org/abs/2609.05019)|
+|**2026-09-04**|**Model Retirement Creates Reproducibility Risk in Biomedical AI Publications**|Nathan Wolfrath et.al.|[2609.04699](http://arxiv.org/abs/2609.04699)|
 |**2026-09-03**|**Extending concurrent separation logic to the hardware level to verify the xv6 OS kernel on RISC-V with AI agents**|M. Frans Kaashoek et.al.|[2609.04043](http://arxiv.org/abs/2609.04043)|
 |**2026-09-03**|**Latency-Aware Orchestration for Multi-Agent LLM Workflows on Heterogeneous GPUs**|Jinghao Wang et.al.|[2609.03335](http://arxiv.org/abs/2609.03335)|
 |**2026-09-03**|**Two Truths and A Lie? Benchmarking Off-the-Shelf LLMs for Requirements Quality Assessment: Performance, False Alarms, and Misses**|Jannatul Shefa et.al.|[2609.03230](http://arxiv.org/abs/2609.03230)|
