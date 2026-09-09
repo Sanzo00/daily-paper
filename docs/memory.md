@@ -31,6 +31,8 @@ _Updated on 2026.09.09_
 |**2026-09-08**|**MemForest: Efficient Agent Memory Management via EventTree Partitioning and Progressive Merging**|Junxi Wang et.al.|[2609.08273](http://arxiv.org/abs/2609.08273)|
 |**2026-09-08**|**Revoked but Still Authoritative: An Empirical Study of Revocation Enforcement in Agent-Memory Systems**|Yi Ting Shen et.al.|[2609.08258](http://arxiv.org/abs/2609.08258)|
 |**2026-09-08**|**ResidualAuth: What Authorization State Must Language Agents Preserve under Revocable Delegation?**|Moonwon Choi et.al.|[2609.08062](http://arxiv.org/abs/2609.08062)|
+|**2026-09-08**|**Procedural Graphs: Self-Evolving Execution Structures for LLM Agents**|Yuxing Lu et.al.|[2609.09153](http://arxiv.org/abs/2609.09153)|
+|**2026-09-08**|**MeClear: Cooperative Game-Theoretic Attribution and Risk-Aware Memory Clearance for Long-Horizon LLM Agents**|Boyu Yang et.al.|[2609.09115](http://arxiv.org/abs/2609.09115)|
 |**2026-09-07**|**Dynamic probabilistic decision networks**|V. I. Yukalov et.al.|[2609.03632](http://arxiv.org/abs/2609.03632)|
 |**2026-09-07**|**MetaKV: Adaptive KV Cache Compression for Constrained LLM Inference**|Michael Wang et.al.|[2609.07966](http://arxiv.org/abs/2609.07966)|
 |**2026-09-07**|**MpSub: A Momentum $p$-Dimensional Subspace Trust-Region Method for Derivative-Free Fine-Tuning of Large Language Models**|Yuyang Wang et.al.|[2609.07666](http://arxiv.org/abs/2609.07666)|
