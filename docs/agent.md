@@ -6,10 +6,16 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.09.08_
+_Updated on 2026.09.09_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-08**|**BIO-MEMART: Biometric-Aware KV Cache Memory for Multi-User LLM Agents**|Yanhong Qian et.al.|[2609.08566](http://arxiv.org/abs/2609.08566)|
+|**2026-09-07**|**Automated Synthesis of Deterministic Cross-Domain Interfaces**|Konstantinos Christodoulopoulos et.al.|[2608.09312](http://arxiv.org/abs/2608.09312)|
+|**2026-09-07**|**The OCUDU dApp Platform: An Open Runtime and E3 Interface for Real-Time AI-RAN**|Timothy O'Shea et.al.|[2609.07843_(GROUP)](http://arxiv.org/abs/2609.07843)|
+|**2026-09-07**|**Staying on the Attack Path: Structured State for Long-Horizon Automated Penetration Testing**|Weizhe Wang et.al.|[2609.07344](http://arxiv.org/abs/2609.07344)|
+|**2026-09-07**|**Elastic Horizon: Discovering the Effective Interaction Frontier in Agentic Reinforcement Learning**|Gangyi Zhang et.al.|[2609.07247_(EMNLP)](http://arxiv.org/abs/2609.07247)|
+|**2026-09-05**|**AgentServeSim: Serving-System Simulation and Policy Search for LLM Agent Programs**|Rakibul Hasan Rajib et.al.|[2606.09613](http://arxiv.org/abs/2606.09613)|
 |**2026-09-04**|**Forgetting Without Restarting: Execution-State Unlearning for Stateful LLM Agents**|Chao Yao et.al.|[2609.04875](http://arxiv.org/abs/2609.04875)|
 |**2026-09-04**|**KVMem: Virtualizing Million-Token Agent Workspaces on a Consumer GPU**|Di Chai et.al.|[2609.04852](http://arxiv.org/abs/2609.04852)|
 |**2026-09-04**|**TROVE: Adaptive Agent Skill Orchestration via Trace-Grounded Route Validation and Editing**|Tianxing Wang et.al.|[2609.05019](http://arxiv.org/abs/2609.05019)|
@@ -66,7 +72,6 @@ _Updated on 2026.09.08_
 |**2026-08-11**|**TideRL: Boosting Agentic RL Goodput with Readiness-Aware Scheduling**|Yanyu Ren et.al.|[2608.10402](http://arxiv.org/abs/2608.10402)|
 |**2026-08-10**|**The Politician, the Liar, and the Obedient Worker: Emerging Behavior of LLM Agents in Hierarchical Games**|Fatemeh Seyedin et.al.|[2608.09574](http://arxiv.org/abs/2608.09574)|
 |**2026-08-10**|**LLM-Guided Heuristic Design from Simulation Traces: A Case Study in Dynamic Production and AGV Scheduling**|Jinbo Li et.al.|[2608.09343](http://arxiv.org/abs/2608.09343)|
-|**2026-08-10**|**Automated Synthesis of Deterministic Cross-Domain Interfaces**|Konstantinos Christodoulopoulos et.al.|[2608.09312](http://arxiv.org/abs/2608.09312)|
 |**2026-08-10**|**Graphing the Everyday: A Neurosymbolic Approach to Eliciting Routines for Just-In-Time Adaptive Interventions**|Shakyani Jayasiriwardene et.al.|[2608.09294_(CHI)](http://arxiv.org/abs/2608.09294)|
 |**2026-08-08**|**SPECTRA: Pushing the KV Cache Beyond the 2-Bit Cliff via Spectral Transform Coding**|Jiamu Zhang et.al.|[2608.07915](http://arxiv.org/abs/2608.07915)|
 |**2026-08-08**|**OpRAG: A Resource-Deterministic Runtime for GPU-Backed Multi-Stage RAG Workflows**|Arup Kumar Sarker et.al.|[2608.08340](http://arxiv.org/abs/2608.08340)|
@@ -164,7 +169,6 @@ _Updated on 2026.09.08_
 |**2026-06-20**|**Agent-Assisted Side-Channel Attacks on Non-Prefix KV Cache in RAG**|He Sun et.al.|[2606.21842](http://arxiv.org/abs/2606.21842)|
 |**2026-06-20**|**CodeTeam: An LLM-Powered Multi-Agent Framework for Repository-Level Code Generation**|Yifei Wang et.al.|[2606.22082_(SC)](http://arxiv.org/abs/2606.22082)|
 |**2026-06-19**|**SAGA: Workflow-Atomic Scheduling for AI Agent Inference on GPU Clusters**|Dongxin Guo et.al.|[2605.00528](http://arxiv.org/abs/2605.00528)|
-|**2026-06-18**|**AGENTSERVESIM: A Hardware-aware Simulator for Multi-Turn LLM Agent Serving**|Rakibul Hasan Rajib et.al.|[2606.09613](http://arxiv.org/abs/2606.09613)|
 |**2026-06-18**|**Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving**|Liang Su et.al.|[2606.20537](http://arxiv.org/abs/2606.20537)|
 |**2026-06-18**|**Toward Temporal Realism in City-Scale Crisis Response Simulation using LLM Agents**|Anping Zhang et.al.|[2606.19904](http://arxiv.org/abs/2606.19904)|
 |**2026-06-17**|**IHBench: Evaluating Post-Interruption Recovery in Voice Agents with Structured Workflows**|Ahmad Salimi et.al.|[2606.19595](http://arxiv.org/abs/2606.19595)|

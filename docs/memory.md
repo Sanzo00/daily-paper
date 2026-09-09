@@ -6,10 +6,65 @@ nav_order: 5
 
 # Memory Papers
 
-_Updated on 2026.09.08_
+_Updated on 2026.09.09_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-08**|**T-Mem: Memory That Anticipates, Not Archives**|Weidong Guo et.al.|[2606.15405](http://arxiv.org/abs/2606.15405)|
+|**2026-09-08**|**pykci: A Compact Urban Knowledge Graph for Semantic and Spatial Queries using LLMs**|Huynh Duc An Son Nguyen et.al.|[2607.01605](http://arxiv.org/abs/2607.01605)|
+|**2026-09-08**|**ICM-Bench: Person-Level Identity Reasoning in Multimodal Agents with Long-Term Memory**|Shidu Ren et.al.|[2609.04438](http://arxiv.org/abs/2609.04438)|
+|**2026-09-08**|**Closing the Consistency Gap: Self-Evolving Agents That Learn to Stay on Course**|Evelyn Duesterwald et.al.|[2609.08832](http://arxiv.org/abs/2609.08832)|
+|**2026-09-08**|**HDA-MoE: Hybrid Parallelism and Dynamic, Adaptive Scheduling for Mixture-of-Experts with 3D Near-Memory Processing**|Haochen Huang et.al.|[2609.08682](http://arxiv.org/abs/2609.08682)|
+|**2026-09-08**|**Graph-Based Personalized Memory for LLM Agents: Representation, Evolution, Retrieval, and Evaluation**|Dac Duy Anh Nguyen et.al.|[2609.08599](http://arxiv.org/abs/2609.08599)|
+|**2026-09-08**|**BIO-MEMART: Biometric-Aware KV Cache Memory for Multi-User LLM Agents**|Yanhong Qian et.al.|[2609.08566](http://arxiv.org/abs/2609.08566)|
+|**2026-09-08**|**Personalizing LLM Agent Memory Using Biometrics**|Yanhong Qian et.al.|[2609.08558](http://arxiv.org/abs/2609.08558)|
+|**2026-09-08**|**CreaMem: A Scene-Aware Memory Architecture for Personalized Agents**|Qixuan Sun et.al.|[2609.08550_(EMNLP)](http://arxiv.org/abs/2609.08550)|
+|**2026-09-08**|**Safe Task Planning with Long-Term Graph Memory for Embodied Agents**|Siyuan Li et.al.|[2609.08444](http://arxiv.org/abs/2609.08444)|
+|**2026-09-08**|**HoneyRoute: Honeypot-Model Routing for Adversarial LLM Serving**|Han Jin et.al.|[2609.08306](http://arxiv.org/abs/2609.08306)|
+|**2026-09-08**|**What Eviction Destroys: A Restore-Counterfactual Audit of Forgetting in Agent Memory**|Chen Shen et.al.|[2609.08279](http://arxiv.org/abs/2609.08279)|
+|**2026-09-08**|**Do Dynamic Routers Need Memory? HeRo: History-Aware Routing for Efficient LLM Inference**|Hongjin Lin et.al.|[2609.08189](http://arxiv.org/abs/2609.08189)|
+|**2026-09-08**|**SkillAdam: Stable and Efficient Skill Evolution for Agents**|Gaoyuan Li et.al.|[2609.08944](http://arxiv.org/abs/2609.08944)|
+|**2026-09-08**|**Hi-FLoop: Hierarchical State-Feedback Loops for Multi-Timescale World Modeling**|Rx Fan et.al.|[2609.08796](http://arxiv.org/abs/2609.08796)|
+|**2026-09-08**|**MemSentry: A Framework for Detecting Persistent Memory Poisoning in Agentic AI**|Ayan Roy et.al.|[2609.08747](http://arxiv.org/abs/2609.08747)|
+|**2026-09-08**|**Beyond Agent Harnesses: Cross-Substrate Authority for Multi-Agent Systems**|Yang Li et.al.|[2609.08472](http://arxiv.org/abs/2609.08472)|
+|**2026-09-08**|**AirAnchor: Bridging Local and Global Spatial Information for Zero-Shot Aerial Vision-and-Language Navigation**|Shanwei Fan et.al.|[2609.08442](http://arxiv.org/abs/2609.08442)|
+|**2026-09-08**|**MemForest: Efficient Agent Memory Management via EventTree Partitioning and Progressive Merging**|Junxi Wang et.al.|[2609.08273](http://arxiv.org/abs/2609.08273)|
+|**2026-09-08**|**Revoked but Still Authoritative: An Empirical Study of Revocation Enforcement in Agent-Memory Systems**|Yi Ting Shen et.al.|[2609.08258](http://arxiv.org/abs/2609.08258)|
+|**2026-09-08**|**ResidualAuth: What Authorization State Must Language Agents Preserve under Revocable Delegation?**|Moonwon Choi et.al.|[2609.08062](http://arxiv.org/abs/2609.08062)|
+|**2026-09-07**|**Dynamic probabilistic decision networks**|V. I. Yukalov et.al.|[2609.03632](http://arxiv.org/abs/2609.03632)|
+|**2026-09-07**|**MetaKV: Adaptive KV Cache Compression for Constrained LLM Inference**|Michael Wang et.al.|[2609.07966](http://arxiv.org/abs/2609.07966)|
+|**2026-09-07**|**MpSub: A Momentum $p$-Dimensional Subspace Trust-Region Method for Derivative-Free Fine-Tuning of Large Language Models**|Yuyang Wang et.al.|[2609.07666](http://arxiv.org/abs/2609.07666)|
+|**2026-09-07**|**Accuracy is Not Enough: A Divergence-Based Approach to Evaluate Fidelity Loss in Quantized LLMs**|Shahzeb Qamar et.al.|[2609.07664](http://arxiv.org/abs/2609.07664)|
+|**2026-09-07**|**MEMO: Multimodal Evidence Memory Organization for Long-Horizon LLM Agents**|Xian Gao et.al.|[2609.07471](http://arxiv.org/abs/2609.07471)|
+|**2026-09-07**|**Uncertainty Quantification for LLM Agents: A Taxonomy, an Evaluation Protocol, and an Empirical Study**|Moule Lin et.al.|[2609.07395](http://arxiv.org/abs/2609.07395)|
+|**2026-09-07**|**Where to Look and What to Use: Retrieve-Localize-Generate for Long-Term Conversational Memory Question Answering**|Yifan Wang et.al.|[2609.07093_(EMNLP)](http://arxiv.org/abs/2609.07093)|
+|**2026-09-07**|**Train Overcomplete, Deploy Compact: Scaling Recovery Capacity for Structured LLM Pruning**|Seungmin Oh et.al.|[2609.06974_(EMNLP)](http://arxiv.org/abs/2609.06974)|
+|**2026-09-07**|**TrajectoryDB: A New Database for Agent Trajectories**|Yunjia Zheng et.al.|[2609.07782](http://arxiv.org/abs/2609.07782)|
+|**2026-09-07**|**EnvPilot: Systematic Design and Evaluation of an Experience-Augmented Agent for Software Environment Setup**|Hanwu Chen et.al.|[2609.07357](http://arxiv.org/abs/2609.07357)|
+|**2026-09-07**|**Agentic Algorithm Engineering: Improving Shared-Memory Exact Minimum Cuts**|David A. Bader et.al.|[2609.07204](http://arxiv.org/abs/2609.07204)|
+|**2026-09-07**|**NutriBench-Kitchen: Benchmarking Embodied AI for Nutrition Management**|Yulin Wei et.al.|[2609.07135_(ECCV)](http://arxiv.org/abs/2609.07135)|
+|**2026-09-07**|**Human-agent discovery of reconfigurable in-plane ferroelectric superdomain control**|Yu Liu et.al.|[2609.06887](http://arxiv.org/abs/2609.06887)|
+|**2026-09-06**|**On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification**|Qinyuan Ye et.al.|[2608.18066](http://arxiv.org/abs/2608.18066)|
+|**2026-09-06**|**A Queryable Graph-Based Security Analysis Framework for O-RAN**|Corban Villa et.al.|[2609.06855](http://arxiv.org/abs/2609.06855)|
+|**2026-09-06**|**PARSER: Read in Parallel, Reason in Depth for Long-Context LLM Agents**|Kun Li et.al.|[2609.06702](http://arxiv.org/abs/2609.06702)|
+|**2026-09-06**|**Detokenization Leaks: Reconstructing Local LLM Outputs From Cache Traces**|Roy Weiss et.al.|[2609.06674](http://arxiv.org/abs/2609.06674)|
+|**2026-09-06**|**Hidden in Plain Sight: The Overlooked Significance of Canonical Elements for Extreme LLM Sparsity**|Hyeondo Jang et.al.|[2609.06557_(EMNLP)](http://arxiv.org/abs/2609.06557)|
+|**2026-09-06**|**EStream: Fast and Memory-Efficient MoE Prefill through Expert Virtualization on Mobile NPUs**|Junming Zhang et.al.|[2609.06551](http://arxiv.org/abs/2609.06551)|
+|**2026-09-06**|**CAM: Question Answering on Entity-Centric Videos with Continuous Extraction and Adaptive Querying**|Yizhou Tian et.al.|[2609.06504](http://arxiv.org/abs/2609.06504)|
+|**2026-09-06**|**Steering Under Compression: Dose-Response, Capability Cost, and Failure Asymmetry in Quantized LLMs**|Saurav Bhandari et.al.|[2609.06473](http://arxiv.org/abs/2609.06473)|
+|**2026-09-06**|**AutoKD: Autonomous Knowledge Discovery**|Qinwen Ge et.al.|[2609.06366](http://arxiv.org/abs/2609.06366)|
+|**2026-09-06**|**A Unified Policy Architecture (UPA): The Governance Kernel for Enterprise AI Operating Systems**|Prabhu Raghav et.al.|[2609.06543](http://arxiv.org/abs/2609.06543)|
+|**2026-09-06**|**One MLLM, One Call: Efficient Zero-Shot Vision-and-Language Navigation via Spatial-Aware Waypoints**|Shiqi Pan et.al.|[2609.06476](http://arxiv.org/abs/2609.06476)|
+|**2026-09-05**|**Understanding the (In)Security of Vibe-Coded Applications**|Junquan Deng et.al.|[2606.23130](http://arxiv.org/abs/2606.23130)|
+|**2026-09-05**|**Celty: SpMSpV GPU Kernel and SIMT Co-Design for Efficient Dual-Sparse LLM Inference**|Ruokai Yin et.al.|[2608.01536_(ICC)](http://arxiv.org/abs/2608.01536)|
+|**2026-09-05**|**AutoUVM: Automated Prefetching Framework for LLMs under UVM Oversubscription**|Mao Lin et.al.|[2609.06172](http://arxiv.org/abs/2609.06172)|
+|**2026-09-05**|**All for 1-Bit: Towards Genuine 1-Bit Post-Training Quantization for LLMs**|Zhixiong Zhao et.al.|[2609.06161_(EMNLP)](http://arxiv.org/abs/2609.06161)|
+|**2026-09-05**|**Beyond Retraining-Free MoE Compression: A Cost-Normalized Study of Post-Compression Adjustment**|Sieun Hyeon et.al.|[2609.06076_(EMNLP)](http://arxiv.org/abs/2609.06076)|
+|**2026-09-05**|**ACE: Adapter Consolidation across Experts for Parameter-Efficient Fine-Tuning of MoE LLMs**|Ahin Lee et.al.|[2609.06072_(EMNLP)](http://arxiv.org/abs/2609.06072)|
+|**2026-09-05**|**Structurally Close, Temporally Distant: Measuring Security Exposure in Long-Horizon LLM Agents**|Md Jafrin Hossain et.al.|[2609.05911](http://arxiv.org/abs/2609.05911)|
+|**2026-09-05**|**From Gaze to Meaning: A Training-Free AI Agent for Unified Grounding and Explanation**|Shayan Nasiriboukani et.al.|[2609.06208_(ECCV)](http://arxiv.org/abs/2609.06208)|
+|**2026-09-05**|**Report of the 8th LSVOS Challenge: Complex and Multimodal Video Object Segmentation**|Chang Liu et.al.|[2609.06078_(ECCV)](http://arxiv.org/abs/2609.06078)|
+|**2026-09-05**|**Memory in Deep Time-Series Models**|Minh Hoang Nguyen et.al.|[2609.06006](http://arxiv.org/abs/2609.06006)|
 |**2026-09-04**|**LookStep: Efficient Vision-Language Navigation with Linguistic Foresight and Event Driven Memory**|Kun-Yang Yu et.al.|[2609.02350_(EMNLP)](http://arxiv.org/abs/2609.02350)|
 |**2026-09-04**|**Compact-Memory LLM Agents via Online Max-Member Clustering and Atom-Aware Packing**|Jiahe Geng et.al.|[2609.04915](http://arxiv.org/abs/2609.04915)|
 |**2026-09-04**|**Forgetting Without Restarting: Execution-State Unlearning for Stateful LLM Agents**|Chao Yao et.al.|[2609.04875](http://arxiv.org/abs/2609.04875)|
@@ -25,6 +80,9 @@ _Updated on 2026.09.08_
 |**2026-09-04**|**AtomRec: Evolving Atomic Memory for Agentic Recommendation**|Peiyu Hu et.al.|[2609.04882](http://arxiv.org/abs/2609.04882)|
 |**2026-09-04**|**From Interaction Traces to Persistent Skills: Online Evolution for Computer-Use Agents**|Longtao Hu et.al.|[2609.04869](http://arxiv.org/abs/2609.04869)|
 |**2026-09-04**|**Linguistic Trajectory Encoding for Efficient Long-Horizon Spatial Memory in Embodied Agents**|Tianyidan Xie et.al.|[2609.04802](http://arxiv.org/abs/2609.04802)|
+|**2026-09-04**|**Will My Assistant Remember My Allergy? What Personal LLM Assistants Forget When Conversation Memory Is Compressed**|Lichen Zhu et.al.|[2609.05767](http://arxiv.org/abs/2609.05767)|
+|**2026-09-04**|**Interface-Aware KV Cache Quantization for Dense On-Chip NVM in Long-Context LLM Decoding**|Jiahao Zheng et.al.|[2609.05764_(ICC)](http://arxiv.org/abs/2609.05764)|
+|**2026-09-04**|**Intra-Prompt Parallel Decoding for Common-Context Question Answering**|Theodore Glavas et.al.|[2609.05707_(EMNLP)](http://arxiv.org/abs/2609.05707)|
 |**2026-09-03**|**VideoHarness-RSI: Recursive Harness Self-Improvement for Long-Video Understanding with Frozen Vision-Language Models**|Guoyang Xu et.al.|[2608.24302](http://arxiv.org/abs/2608.24302)|
 |**2026-09-03**|**JIT-Agent: Scaling Harness Intelligence via Just-in-Time Harness Evolution**|Guibin Zhang et.al.|[2608.25593](http://arxiv.org/abs/2608.25593)|
 |**2026-09-03**|**Budget-Aware Compression Pipeline for Single-GPU LLM Inference: Methods, Trade-offs, and Coupling Effects**|Hongyu Yu et.al.|[2608.30076_(DIS)](http://arxiv.org/abs/2608.30076)|
@@ -45,12 +103,12 @@ _Updated on 2026.09.08_
 |**2026-09-03**|**Bioinfoysis Technical Report**|Qingyang Shao et.al.|[2609.03871](http://arxiv.org/abs/2609.03871)|
 |**2026-09-03**|**NACRE: Rethinking Confidential Containers through Native Architectural Support**|Linke Song et.al.|[2609.03849_(DATE)](http://arxiv.org/abs/2609.03849)|
 |**2026-09-03**|**Proactive Service Agents: A Unified Decision Framework, Methods, and Evaluation**|Yan Tang et.al.|[2609.03727](http://arxiv.org/abs/2609.03727)|
-|**2026-09-03**|**Dynamic probabilistic decision networks**|V. I. Yukalov et.al.|[2609.03632](http://arxiv.org/abs/2609.03632)|
 |**2026-09-03**|**Remember and Reweight: Enhancing Multi-Agent Debate with Experience Memory and Confidence Estimation**|Xuanfa Jin et.al.|[2609.03619_(EMNLP)](http://arxiv.org/abs/2609.03619)|
 |**2026-09-03**|**Plan Pointers and Record-Directive Form in Budgeted Verification of Inherited Agent Memory**|Kazuki Nakayashiki et.al.|[2609.03450_(CHI)](http://arxiv.org/abs/2609.03450)|
 |**2026-09-03**|**The Civilization Framework: Sovereign-Anchored Communication Between Personal Multi-Agent Systems**|Guangjun Liu et.al.|[2609.03425](http://arxiv.org/abs/2609.03425)|
 |**2026-09-03**|**HarvestBench: Measuring Whether LLM Agents Will Pay to Avoid Killing Animals**|Jasmine Brazilek et.al.|[2609.04444](http://arxiv.org/abs/2609.04444)|
-|**2026-09-03**|**ICM-Bench: Person-Level Identity Reasoning in Multimodal Agents with Long-Term Memory**|Shidu Ren et.al.|[2609.04438](http://arxiv.org/abs/2609.04438)|
+|**2026-09-03**|**EdgeMem: LLM-Free Agent Memory Construction and Retrieval via Evidence-Preserving Multi-Anchor Hypergraph**|Zeyang Cui et.al.|[2609.05553_(DATE)](http://arxiv.org/abs/2609.05553)|
+|**2026-09-03**|**An Agent Model Abstraction for Human-AI Teaming Cognitive Coupling**|Kolitha Kottagaha W. M et.al.|[2609.05552](http://arxiv.org/abs/2609.05552)|
 |**2026-09-02**|**AdaMem: Learning What to Remember with Adaptive Memory Policies for Personalized Agents**|Xingyu Chen et.al.|[2606.21144](http://arxiv.org/abs/2606.21144)|
 |**2026-09-02**|**PGMem: Tightly Coupled Persona-Memory Graph for Lifelong Personalized Agents**|Wonjun Choi et.al.|[2608.01708_(EMNLP)](http://arxiv.org/abs/2608.01708)|
 |**2026-09-02**|**Nova: An End-to-End MLIR Compiler for Deep Learning**|Adwaid Suresh et.al.|[2608.00029](http://arxiv.org/abs/2608.00029)|
@@ -146,6 +204,7 @@ _Updated on 2026.09.08_
 |**2026-08-31**|**Beneath the Diff: Diagnosing and Mitigating Algorithmic Mode Collapse in Code-Level Autonomous Research Loops**|Bowei He et.al.|[2609.00077_(EMNLP)](http://arxiv.org/abs/2609.00077)|
 |**2026-08-31**|**mimeo: Compiling Public Expert Corpora into Agent Skills and Testing What Transfers**|Timothy Kassis et.al.|[2609.00453](http://arxiv.org/abs/2609.00453)|
 |**2026-08-31**|**Enhancing Clinical Decision Support and Differential Diagnosis with Knowledge Graphs, and Retrieval Augmented Generation in Generative AI**|Henri Feto et.al.|[2609.01653](http://arxiv.org/abs/2609.01653)|
+|**2026-08-31**|**Memory as Infrastructure: Reliability Engineering for Persistent Agent Memory in Months-Long LLM-Assisted Development**|Mike Helwig et.al.|[2609.05510](http://arxiv.org/abs/2609.05510)|
 |**2026-08-30**|**View-oriented Conversation Compiler for Agent Trace Analysis**|Lvmin Zhang et.al.|[2603.29678](http://arxiv.org/abs/2603.29678)|
 |**2026-08-30**|**SyRuP: Enhancing System-Prompt Following via Reward-Guided Prediction in LLM Decoding**|Seoyeon Kim et.al.|[2607.23991_(EMNLP)](http://arxiv.org/abs/2607.23991)|
 |**2026-08-30**|**Evo-Harness: Context-to-Harness Skill Compilation for Self-Evolving Agents**|Tianxin Wei et.al.|[2608.15071_(EMNLP)](http://arxiv.org/abs/2608.15071)|
@@ -397,7 +456,6 @@ _Updated on 2026.09.08_
 |**2026-08-18**|**Bounded-State Restoration: Decoupling Local Restore Capacity from External LLM State**|Zixuan Li et.al.|[2608.17826](http://arxiv.org/abs/2608.17826)|
 |**2026-08-18**|**TileMix: Tile-Centric Mixed-Precision Attention for LLM Inference Acceleration**|Hanzhi Zhang et.al.|[2608.17336](http://arxiv.org/abs/2608.17336)|
 |**2026-08-18**|**DominoTree: Conditional Tree-Structured Drafting with Domino for Speculative Decoding**|Saw S. Lin et.al.|[2607.08642](http://arxiv.org/abs/2607.08642)|
-|**2026-08-18**|**On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification**|Qinyuan Ye et.al.|[2608.18066](http://arxiv.org/abs/2608.18066)|
 |**2026-08-18**|**Edge-Native Embodied Intelligence for Action-Aware Wireless Edge Networks**|Yiru Wang et.al.|[2608.17774](http://arxiv.org/abs/2608.17774)|
 |**2026-08-18**|**Multi-turn Conversational AI from Text to Multimodal Interaction: Data, Models, Evaluation, and Open Challenges**|Syeda Faiza Ahmed et.al.|[2608.17605_(SAT)](http://arxiv.org/abs/2608.17605)|
 |**2026-08-18**|**Memory Tree Guided Key Frame Querying for Efficient 3D Question Answering**|Hsiang-Wei Huang et.al.|[2608.18009_(ECCV)](http://arxiv.org/abs/2608.18009)|
@@ -514,6 +572,7 @@ _Updated on 2026.09.08_
 |**2026-08-12**|**CAKE: Compiler-Agent Co-Design for Frontier Kernel Evolution**|Zihao Ye et.al.|[2608.12629](http://arxiv.org/abs/2608.12629)|
 |**2026-08-12**|**MindMemOS: A Portable and Self-Evolving Memory Operating Layer for AI Agents**|Kaichao Liang et.al.|[2608.12428](http://arxiv.org/abs/2608.12428)|
 |**2026-08-12**|**From Extraction to Governed Memory: Multi-Agent Knowledge Graph Construction with Domain-Expert Review**|Pranav Bykampadi et.al.|[2608.28642](http://arxiv.org/abs/2608.28642)|
+|**2026-08-12**|**A Three-Layer Caching Architecture for Low-Latency LLM Web Search on Commodity CPU Hardware**|Ayushman Bhattacharya et.al.|[2609.05463](http://arxiv.org/abs/2609.05463)|
 |**2026-08-11**|**A Fast Locality Simulator for GEMM Design-Space Exploration on Multi-Chiplet GPUs**|Euijun Chung et.al.|[2606.11716](http://arxiv.org/abs/2606.11716)|
 |**2026-08-11**|**Adaptive Filtering of the KV Cache: Diagnosing and Correcting Structural-Role Bias in LLM Inference**|Soumil Mandal et.al.|[2607.13205](http://arxiv.org/abs/2607.13205)|
 |**2026-08-11**|**AttriMem: Attribution-Guided Process Feedback for Agent Memory Construction**|Qinfeng Li et.al.|[2607.21106](http://arxiv.org/abs/2607.21106)|
@@ -761,7 +820,6 @@ _Updated on 2026.09.08_
 |**2026-08-02**|**Augmented Backpressure for Decentralized Management of Agentic Networks**|Zuyuan Zhang et.al.|[2608.00914](http://arxiv.org/abs/2608.00914)|
 |**2026-08-02**|**From AI Technical Debt to Agentic Technical Debt: A Systematic Mapping of Root Causes and Manifestations in Agentic AI Systems**|Muhammad Tukur et.al.|[2608.01001](http://arxiv.org/abs/2608.01001)|
 |**2026-08-02**|**Learning What to Remember and What to Internalize in LLM Self-Evolution via Adaptive Memory-Parameter Coordination**|Tianyun Ji et.al.|[2608.01234](http://arxiv.org/abs/2608.01234)|
-|**2026-08-02**|**Celty: SpMspV GPU Kernel and SIMT Co-Design for Efficient Dual-Sparse LLM Inference**|Ruokai Yin et.al.|[2608.01536_(DATE)](http://arxiv.org/abs/2608.01536)|
 |**2026-08-02**|**Think in Sets for Streaming Video Token Compression**|Moxu Duan et.al.|[2608.01169](http://arxiv.org/abs/2608.01169)|
 |**2026-08-02**|**ShiJianBench: From Dialogue to Decision for Long-Horizon Evaluation of Investment Advisors**|Jie Gong et.al.|[2608.01204](http://arxiv.org/abs/2608.01204)|
 |**2026-08-02**|**Spatial Prefix Caching for Wireless Edge LLM Inference: A Stochastic-Geometry and Queueing Framework**|Le Yang et.al.|[2608.01126](http://arxiv.org/abs/2608.01126)|
@@ -894,6 +952,7 @@ _Updated on 2026.09.08_
 |**2026-07-26**|**MemVLN: Episodic and Procedural Memory for Vision-and-Language Navigation**|Yuqi Liu et.al.|[2607.23504](http://arxiv.org/abs/2607.23504)|
 |**2026-07-26**|**CALMRec: Causally Aligned Language Memory for Long-Horizon Recommendation**|Gengyu Zhan et.al.|[2607.23647](http://arxiv.org/abs/2607.23647)|
 |**2026-07-26**|**Tokens are All You Need: Dual-purpose Semantic IDs for Achieving LLM-Level I/O Efficiency in recommendation systems**|Baolei Li et.al.|[2607.24865_(RecSys)](http://arxiv.org/abs/2607.24865)|
+|**2026-07-26**|**When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using LLM Agents**|Shweta Mishra et.al.|[2609.05441](http://arxiv.org/abs/2609.05441)|
 |**2026-07-25**|**HeteroMosaic: Exposing and Exploiting Heterogeneous Execution Opportunities for Energy-Efficient Edge LLM Inference**|Gregory Hyegang Jun et.al.|[2607.12839_(CHI)](http://arxiv.org/abs/2607.12839)|
 |**2026-07-25**|**An MLIR-Based Compilation Method for Large Language Models**|Pengchao Hu et.al.|[2607.15865](http://arxiv.org/abs/2607.15865)|
 |**2026-07-25**|**ConsistencyGate: Preventing Memory Contamination in LLM Agents via Self-Consistency Admission Control**|Yan Zhang et.al.|[2607.22962](http://arxiv.org/abs/2607.22962)|
@@ -1220,7 +1279,6 @@ _Updated on 2026.09.08_
 |**2026-07-02**|**InduceKV: Fixed-Footprint Continual Adaptation of Multimodal LLMs via Inducing KV Memories**|Qianyu Chen et.al.|[2607.02010](http://arxiv.org/abs/2607.02010)|
 |**2026-07-02**|**Rethinking Complexity Metrics for LLM-Integrated Applications: Beyond Source Code**|Zihao Xu et.al.|[2607.01903](http://arxiv.org/abs/2607.01903)|
 |**2026-07-02**|**AgentFlow: Building Agent Dependency Graphs for Static Analysis of Agent Programs**|Shenao Wang et.al.|[2607.01640](http://arxiv.org/abs/2607.01640)|
-|**2026-07-02**|**pykci: A Compact Urban Knowledge Graph for Semantic and Spatial Queries using LLMs**|Huynh Duc An Son Nguyen et.al.|[2607.01605](http://arxiv.org/abs/2607.01605)|
 |**2026-07-02**|**Seek to Segment: Active Perception for Panoramic Referring Segmentation**|Song Tang et.al.|[2607.02497_(ECCV)](http://arxiv.org/abs/2607.02497)|
 |**2026-07-02**|**Consensus-Breaking Global Hopf Bifurcation in Memory-Based Multi-Agent Systems**|Casey Maikalani Crane et.al.|[2607.02388](http://arxiv.org/abs/2607.02388)|
 |**2026-07-02**|**Securing People and their Machines Against Major Faults**|Ohad Eitan et.al.|[2607.02304](http://arxiv.org/abs/2607.02304)|
@@ -1389,7 +1447,6 @@ _Updated on 2026.09.08_
 |**2026-06-23**|**SplitZip: Ultra Fast Lossless KV Compression for Disaggregated LLM Serving**|Yipin Guo et.al.|[2605.01708](http://arxiv.org/abs/2605.01708)|
 |**2026-06-23**|**OTRO: Oblivious Tokenization Path with Square-Root ORAM**|Jonghyun Lee et.al.|[2606.17358](http://arxiv.org/abs/2606.17358)|
 |**2026-06-23**|**Deep Research in Physical Sciences: A Multi-Agent Framework and Comprehensive Benchmark**|Yigeng Jiang et.al.|[2606.18648](http://arxiv.org/abs/2606.18648)|
-|**2026-06-23**|**Understanding the (In)Security of Vibe-Coded Applications**|Junquan Deng et.al.|[2606.23130](http://arxiv.org/abs/2606.23130)|
 |**2026-06-23**|**Are We Ready For An Agent-Native Memory System?**|Wei Zhou et.al.|[2606.24775](http://arxiv.org/abs/2606.24775)|
 |**2026-06-23**|**SAFARI: Scaling Long Horizon Agentic Fault Attribution via Active Investigation**|Chenyang Zhu et.al.|[2606.24626_(ICML)](http://arxiv.org/abs/2606.24626)|
 |**2026-06-23**|**MEMPROBE: Probing Long-Term Agent Memory via Hidden User-State Recovery**|Enze Ma et.al.|[2606.24595](http://arxiv.org/abs/2606.24595)|
@@ -1579,7 +1636,6 @@ _Updated on 2026.09.08_
 |**2026-06-14**|**Service-Induced Congestion in Memory-Constrained LLM Serving**|Ruicheng Ao et.al.|[2606.15555](http://arxiv.org/abs/2606.15555)|
 |**2026-06-13**|**Adaptive Memory Crystallization for Autonomous AI Agent Learning in Dynamic Environments**|Rajat Khanda et.al.|[2604.13085](http://arxiv.org/abs/2604.13085)|
 |**2026-06-13**|**Frontier: Towards Comprehensive and Accurate LLM Inference Simulation**|Yicheng Feng et.al.|[2605.21312](http://arxiv.org/abs/2605.21312)|
-|**2026-06-13**|**T-Mem: Memory That Anticipates, Not Archives**|Weidong Guo et.al.|[2606.15405](http://arxiv.org/abs/2606.15405)|
 |**2026-06-13**|**LLM: LSTM Look-Ahead Moving Target Defense Based on Historical Malicious Scan**|Yu Li et.al.|[2606.15229](http://arxiv.org/abs/2606.15229)|
 |**2026-06-13**|**Keep It in Mind: User Centric Continual Spatial Intelligence Reasoning in Egocentric Video Streams**|Yun Wang et.al.|[2606.15200_(ICML)](http://arxiv.org/abs/2606.15200)|
 |**2026-06-13**|**Quantum learning with a single-atom sensor**|Yin Mo et.al.|[2606.15071](http://arxiv.org/abs/2606.15071)|

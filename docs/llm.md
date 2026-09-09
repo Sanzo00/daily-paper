@@ -6,16 +6,23 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.09.08_
+_Updated on 2026.09.09_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-08**|**BIO-MEMART: Biometric-Aware KV Cache Memory for Multi-User LLM Agents**|Yanhong Qian et.al.|[2609.08566](http://arxiv.org/abs/2609.08566)|
+|**2026-09-07**|**Unified AI Gateway: A Framework for Joint Model Routing and KV Cache Management**|Jiaxun Lu et.al.|[2609.06940](http://arxiv.org/abs/2609.06940)|
+|**2026-09-07**|**MetaKV: Adaptive KV Cache Compression for Constrained LLM Inference**|Michael Wang et.al.|[2609.07966](http://arxiv.org/abs/2609.07966)|
+|**2026-09-06**|**Characterizing Contention-Induced Reliability Collapse in KV-Cache Timing Side Channels for Multi-Tenant LLM Serving**|Rana Abu Bakar et.al.|[2609.06853](http://arxiv.org/abs/2609.06853)|
+|**2026-09-05**|**AgentServeSim: Serving-System Simulation and Policy Search for LLM Agent Programs**|Rakibul Hasan Rajib et.al.|[2606.09613](http://arxiv.org/abs/2606.09613)|
 |**2026-09-04**|**Forgetting Without Restarting: Execution-State Unlearning for Stateful LLM Agents**|Chao Yao et.al.|[2609.04875](http://arxiv.org/abs/2609.04875)|
 |**2026-09-04**|**KVMem: Virtualizing Million-Token Agent Workspaces on a Consumer GPU**|Di Chai et.al.|[2609.04852](http://arxiv.org/abs/2609.04852)|
+|**2026-09-04**|**Interface-Aware KV Cache Quantization for Dense On-Chip NVM in Long-Context LLM Decoding**|Jiahao Zheng et.al.|[2609.05764_(ICC)](http://arxiv.org/abs/2609.05764)|
 |**2026-09-03**|**Budget-Aware Compression Pipeline for Single-GPU LLM Inference: Methods, Trade-offs, and Coupling Effects**|Hongyu Yu et.al.|[2608.30076_(DIS)](http://arxiv.org/abs/2608.30076)|
 |**2026-09-03**|**Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM**|Sergii Kozyrev et.al.|[2609.04098](http://arxiv.org/abs/2609.04098)|
 |**2026-09-03**|**GrowPage: On-Demand KV Budgeting for Efficient LLM Reasoning Serving**|Qiankun Ma et.al.|[2609.03494](http://arxiv.org/abs/2609.03494)|
 |**2026-09-03**|**SGD-KV: Summarization Guided KV Cache Compression**|Zeyu Liu et.al.|[2609.03235_(NeurIPS)](http://arxiv.org/abs/2609.03235)|
+|**2026-09-03**|**Toward Sustainable Distributed LLM Inference: A Systems Synthesis and Research Agenda for an Energy-, Carbon-, and Cache-Aware llm-d Control Plane**|Twinkll Sisodia et.al.|[2609.05565_(DIS)](http://arxiv.org/abs/2609.05565)|
 |**2026-09-02**|**Enabling KV Caching of Shared Prefix for Diffusion Language Models**|Younghun Go et.al.|[2606.07571_(EMNLP)](http://arxiv.org/abs/2606.07571)|
 |**2026-09-02**|**Multi-Turn LLM Conversations under the Least-Recently-Used Policy: Mean-Field Asymptotics and Hit Ratio Approximation**|Heyuan Yao et.al.|[2609.02027](http://arxiv.org/abs/2609.02027)|
 |**2026-09-02**|**SCX Router: Streaming Zero-Shot Model Selection with a Decoder-KV Classifier and a Real-World Task Ontology**|Ihor Stepanov et.al.|[2609.02292](http://arxiv.org/abs/2609.02292)|
@@ -179,7 +186,6 @@ _Updated on 2026.09.08_
 |**2026-06-22**|**Forget Without Compromise: Nexus Sampling for Streaming KV-Cache Eviction Under Fixed Budgets**|Duc Duong et.al.|[2606.23961](http://arxiv.org/abs/2606.23961)|
 |**2026-06-20**|**Agent-Assisted Side-Channel Attacks on Non-Prefix KV Cache in RAG**|He Sun et.al.|[2606.21842](http://arxiv.org/abs/2606.21842)|
 |**2026-06-19**|**SAGA: Workflow-Atomic Scheduling for AI Agent Inference on GPU Clusters**|Dongxin Guo et.al.|[2605.00528](http://arxiv.org/abs/2605.00528)|
-|**2026-06-18**|**AGENTSERVESIM: A Hardware-aware Simulator for Multi-Turn LLM Agent Serving**|Rakibul Hasan Rajib et.al.|[2606.09613](http://arxiv.org/abs/2606.09613)|
 |**2026-06-18**|**Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving**|Liang Su et.al.|[2606.20537](http://arxiv.org/abs/2606.20537)|
 |**2026-06-18**|**SAC: Disaggregated KV Cache System for Sparse Attention LLMs with CXL**|Ruiyang Ma et.al.|[2606.19746](http://arxiv.org/abs/2606.19746)|
 |**2026-06-18**|**ViCoStream: Streaming VideoLLMs Can Run Beyond 100 FPS with Stage-Wise Coordinated Inference**|Yang Tan et.al.|[2606.19849](http://arxiv.org/abs/2606.19849)|

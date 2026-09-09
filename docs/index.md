@@ -6,10 +6,16 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.09.08_
+_Updated on 2026.09.09_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-08**|**Sample-Guided Exact Top-K Selection for Long-Context Sparse Attention**|Siran Liu et.al.|[2609.08450](http://arxiv.org/abs/2609.08450)|
+|**2026-09-08**|**Evidence-Grounded Retrieval for Investigation Hunt Lead Generation from CTI Reports**|Akash Prakash et.al.|[2609.08790_(SC)](http://arxiv.org/abs/2609.08790)|
+|**2026-09-07**|**Where to Look and What to Use: Retrieve-Localize-Generate for Long-Term Conversational Memory Question Answering**|Yifan Wang et.al.|[2609.07093_(EMNLP)](http://arxiv.org/abs/2609.07093)|
+|**2026-09-06**|**Better Later Than Sooner: Neuro-Symbolic Knowledge Graph Construction via Ontology-grounded Post-extraction Correction**|Lorenzo Loconte et.al.|[2605.29168](http://arxiv.org/abs/2605.29168)|
+|**2026-09-05**|**Substrate-Portable Execution for Production LLM Workflows**|Tarun Gopinath et.al.|[2609.06128](http://arxiv.org/abs/2609.06128)|
+|**2026-09-05**|**Don't Lose Entities from Retrieval to Generation: Dual Entity Recovery RAG for multi-hop QA**|Heechang Lee et.al.|[2609.06065_(EMNLP)](http://arxiv.org/abs/2609.06065)|
 |**2026-09-03**|**LentEx: Generalizable Latent Entity Extraction via Synthetic Data and Instruction-Tuned LLMs**|Umesh Bodhwani et.al.|[2609.04511](http://arxiv.org/abs/2609.04511)|
 |**2026-09-03**|**GRACE: Graph-Grounded Reflective Agent Copilot Engine for Expert-in-the-Loop Knowledge Expansion**|John Seon Keun Yi et.al.|[2609.04442_(EMNLP)](http://arxiv.org/abs/2609.04442)|
 |**2026-09-03**|**Corporate Language Model (CLM): Transforming Tacit and Fragmented Enterprise Knowledge into a Sovereign, Auditable, and Executable Corporate Intelligence Layer**|Fabricio C. Avini et.al.|[2609.04377](http://arxiv.org/abs/2609.04377)|
@@ -20,6 +26,7 @@ _Updated on 2026.09.08_
 |**2026-08-31**|**Citation-Closure Retrieval and Per-Rule Attribution for Real-World Regulatory Compliance Question Answering**|Yeong-Joon Ju et.al.|[2605.29742_(EMNLP)](http://arxiv.org/abs/2605.29742)|
 |**2026-08-31**|**Controlled Evaluation of Graph and Multimodal Augmentation in RAG for Document Question Answering**|Sokipriala Jonah et.al.|[2607.16604](http://arxiv.org/abs/2607.16604)|
 |**2026-08-31**|**Enhancing Clinical Decision Support and Differential Diagnosis with Knowledge Graphs, and Retrieval Augmented Generation in Generative AI**|Henri Feto et.al.|[2609.01653](http://arxiv.org/abs/2609.01653)|
+|**2026-08-31**|**CrossModalQA: A Cross-modal and Multi-hop Benchmark for Multimodal Retrieval-augmented Generation**|Jiacheng Cai et.al.|[2609.05518](http://arxiv.org/abs/2609.05518)|
 |**2026-08-30**|**GTA-RAG: Graph-Trajectory-Augmented Reinforcement Learning for Multi-Turn Retrieval-Augmented Reasoning**|Jun Chen et.al.|[2608.22479_(EMNLP)](http://arxiv.org/abs/2608.22479)|
 |**2026-08-29**|**Spatial-Knowledge-Graph-Grounded LLM Agents for Neighborhood Livability Evaluation**|Haiyan Hao et.al.|[2608.25952](http://arxiv.org/abs/2608.25952)|
 |**2026-08-28**|**Gen-TAS: A Generative AI-Aided Hardware-Software Task Allocation Framework for FPGA-GPP Heterogeneous Systems**|Mary Kong et.al.|[2608.28160](http://arxiv.org/abs/2608.28160)|
@@ -140,7 +147,6 @@ _Updated on 2026.09.08_
 |**2026-05-29**|**Experiments in Agentic AI for Science**|Judy Fox et.al.|[2605.26305](http://arxiv.org/abs/2605.26305)|
 |**2026-05-28**|**Enhancing LLM Medical Coding with Structured External Knowledge**|Yidong Gan et.al.|[2605.27377](http://arxiv.org/abs/2605.27377)|
 |**2026-05-27**|**Nonvolatile Charge-Domain Attention with HZO Ferroelectric Capacitors: A Simulation-Based Device-to-System Evaluation**|Faris Abouagour et.al.|[2605.28208](http://arxiv.org/abs/2605.28208)|
-|**2026-05-27**|**Better Later Than Sooner: Neuro-Symbolic Knowledge Graph Construction via Ontology-grounded Post-extraction Correction**|Lorenzo Loconte et.al.|[2605.29168](http://arxiv.org/abs/2605.29168)|
 |**2026-05-27**|**GraphSteal: Structural Knowledge Stealing from Graph RAG via Traversal Reconstruction**|Jinze Gu et.al.|[2605.28645](http://arxiv.org/abs/2605.28645)|
 |**2026-05-27**|**LegalGraphRAG: Multi-Agent Graph Retrieval-Augmented Generation for Reliable Legal Reasoning**|Zerui Chen et.al.|[2605.28120_(ACL)](http://arxiv.org/abs/2605.28120)|
 |**2026-05-26**|**OMD-GraphRAG: Enhancing GraphRAG with Ontology-Guided Extraction, Multi-Dimensional Clustering and Dual-Channel Fusion**|Jie Wang et.al.|[2603.25152](http://arxiv.org/abs/2603.25152)|
