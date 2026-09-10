@@ -6,10 +6,11 @@ nav_order: 3
 
 # GNN Papers
 
-_Updated on 2026.09.09_
+_Updated on 2026.09.10_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-09**|**Efficient Graph Neural Networks for Multicarrier Wideband Hybrid Beamforming Optimization**|Beier Li et.al.|[2609.09708](http://arxiv.org/abs/2609.09708)|
 |**2026-09-08**|**GraphFAS: A Distributed System for Automated Graph Feature Generation and Selection in Industrial Transaction Networks**|Yice Luo et.al.|[2609.08970_(CIKM)](http://arxiv.org/abs/2609.08970)|
 |**2026-09-06**|**Sharing a Fabric with Collective Communication: Two Storage Penalties in Deep Learning Training**|Chen Wang et.al.|[2609.06506](http://arxiv.org/abs/2609.06506)|
 |**2026-09-02**|**Feasible but Not Safe: Constraint Violations and Report-Channel Attacks in Learned Cell-Free ISAC Association**|Mehdi Zafari et.al.|[2609.03147_(MobiCom)](http://arxiv.org/abs/2609.03147)|

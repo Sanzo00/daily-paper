@@ -6,10 +6,13 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.09.09_
+_Updated on 2026.09.10_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-09**|**LatentDx: Latent Multi-Agent Communication for Cross-Hospital Rare-Disease Diagnosis**|Ziqing Wang et.al.|[2606.13945](http://arxiv.org/abs/2606.13945)|
+|**2026-09-09**|**KVShareArena: KV-Cache Reuse Across Contexts and Model Checkpoints**|Xi Shi et.al.|[2609.10266](http://arxiv.org/abs/2609.10266)|
+|**2026-09-09**|**UNISON: A Co-Designed Near-Memory Scheduler of Session KV Residency for LLM Agents**|Fan He et.al.|[2609.09643](http://arxiv.org/abs/2609.09643)|
 |**2026-09-08**|**BIO-MEMART: Biometric-Aware KV Cache Memory for Multi-User LLM Agents**|Yanhong Qian et.al.|[2609.08566](http://arxiv.org/abs/2609.08566)|
 |**2026-09-07**|**Unified AI Gateway: A Framework for Joint Model Routing and KV Cache Management**|Jiaxun Lu et.al.|[2609.06940](http://arxiv.org/abs/2609.06940)|
 |**2026-09-07**|**MetaKV: Adaptive KV Cache Compression for Constrained LLM Inference**|Michael Wang et.al.|[2609.07966](http://arxiv.org/abs/2609.07966)|
@@ -206,7 +209,6 @@ _Updated on 2026.09.09_
 |**2026-06-12**|**Decoupled Mixture-of-Experts for Parametric Knowledge Injection**|Baoqing Yue et.al.|[2606.14243](http://arxiv.org/abs/2606.14243)|
 |**2026-06-11**|**HKVM-RAG: Key-Value-Separated Hypergraph Evidence Organization for Multi-Hop RAG**|Mingyu Zhang et.al.|[2606.07218_(ICDE)](http://arxiv.org/abs/2606.07218)|
 |**2026-06-11**|**Maestro: Workload-Aware Cross-Cluster Scheduling for LLM-Based Multi-Agent Systems**|Jinghao Wang et.al.|[2606.12950_(DIS)](http://arxiv.org/abs/2606.12950)|
-|**2026-06-11**|**MedLatentDx: Latent Multi-Agent Communication for Cross-Hospital Rare-Disease Diagnosis**|Ziqing Wang et.al.|[2606.13945](http://arxiv.org/abs/2606.13945)|
 |**2026-06-11**|**Efficient On-Device Diffusion LLM Inference with Mobile NPU**|Tuowei Wang et.al.|[2606.13740](http://arxiv.org/abs/2606.13740)|
 |**2026-06-10**|**Unified KV Pooling to Accelerate Long-Context LLM Serving**|Minchul Kang et.al.|[2606.14779](http://arxiv.org/abs/2606.14779)|
 |**2026-06-10**|**HW-Router: Hardware-Aware Routing for Scalable Multi-LLM Serving**|Ahasan Kabir et.al.|[2608.14575](http://arxiv.org/abs/2608.14575)|

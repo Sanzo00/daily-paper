@@ -6,10 +6,16 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.09.09_
+_Updated on 2026.09.10_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-09**|**LatentDx: Latent Multi-Agent Communication for Cross-Hospital Rare-Disease Diagnosis**|Ziqing Wang et.al.|[2606.13945](http://arxiv.org/abs/2606.13945)|
+|**2026-09-09**|**KVShareArena: KV-Cache Reuse Across Contexts and Model Checkpoints**|Xi Shi et.al.|[2609.10266](http://arxiv.org/abs/2609.10266)|
+|**2026-09-09**|**UNISON: A Co-Designed Near-Memory Scheduler of Session KV Residency for LLM Agents**|Fan He et.al.|[2609.09643](http://arxiv.org/abs/2609.09643)|
+|**2026-09-09**|**SocialRL: Refining LLMs' Social Intelligence through Multi-turn Reinforcement Learning and Reward Design**|Jianing Wang et.al.|[2609.09764](http://arxiv.org/abs/2609.09764)|
+|**2026-09-09**|**TRACE: Trajectory-robust Admission with Evidence Ordering for Efficient GUI Agents**|Yuhao Wang et.al.|[2609.10297](http://arxiv.org/abs/2609.10297)|
+|**2026-09-08**|**Continuum: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live**|Hanchen Li et.al.|[2511.02230](http://arxiv.org/abs/2511.02230)|
 |**2026-09-08**|**BIO-MEMART: Biometric-Aware KV Cache Memory for Multi-User LLM Agents**|Yanhong Qian et.al.|[2609.08566](http://arxiv.org/abs/2609.08566)|
 |**2026-09-07**|**Automated Synthesis of Deterministic Cross-Domain Interfaces**|Konstantinos Christodoulopoulos et.al.|[2608.09312](http://arxiv.org/abs/2608.09312)|
 |**2026-09-07**|**The OCUDU dApp Platform: An Open Runtime and E3 Interface for Real-Time AI-RAN**|Timothy O'Shea et.al.|[2609.07843_(GROUP)](http://arxiv.org/abs/2609.07843)|
@@ -193,7 +199,6 @@ _Updated on 2026.09.09_
 |**2026-06-11**|**Maestro: Workload-Aware Cross-Cluster Scheduling for LLM-Based Multi-Agent Systems**|Jinghao Wang et.al.|[2606.12950_(DIS)](http://arxiv.org/abs/2606.12950)|
 |**2026-06-11**|**WISE: A Long-Horizon Agent in Minecraft with Why-Which Reasoning**|Renmin Cheng et.al.|[2606.12852](http://arxiv.org/abs/2606.12852)|
 |**2026-06-11**|**MiniPIC: Flexible Position-Independent Caching in <100LOC**|Nathan Ordonez et.al.|[2606.13126](http://arxiv.org/abs/2606.13126)|
-|**2026-06-11**|**MedLatentDx: Latent Multi-Agent Communication for Cross-Hospital Rare-Disease Diagnosis**|Ziqing Wang et.al.|[2606.13945](http://arxiv.org/abs/2606.13945)|
 |**2026-06-11**|**The Price of Anarchy in Disaggregated Inference**|Athos Georgiou et.al.|[2606.17081_(CLUSTER)](http://arxiv.org/abs/2606.17081)|
 |**2026-06-10**|**Libra: Efficient Resource Management for Agentic RL Post-Training**|Kaiwen Chen et.al.|[2606.03077](http://arxiv.org/abs/2606.03077)|
 |**2026-06-10**|**Goal-Autopilot: A Verifiable Anti-Fabrication Firewall for Unattended Long-Horizon Agents**|Youwang Deng et.al.|[2606.11688](http://arxiv.org/abs/2606.11688)|
@@ -238,7 +243,6 @@ _Updated on 2026.09.09_
 |**2026-05-27**|**Democratizing Large-Scale Re-Optimization with LLM-Guided Model Patches**|Tinghan Ye et.al.|[2605.18692](http://arxiv.org/abs/2605.18692)|
 |**2026-05-27**|**Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players**|Fangfu Liu et.al.|[2605.28816](http://arxiv.org/abs/2605.28816)|
 |**2026-05-26**|**DynaSchedBench: Calibrated Dynamic Scheduling Benchmarks and Observability Paradox in LLM-based Scheduling Agents**|Shijie Cao et.al.|[2605.27566](http://arxiv.org/abs/2605.27566)|
-|**2026-05-25**|**Continuum: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live**|Hanchen Li et.al.|[2511.02230](http://arxiv.org/abs/2511.02230)|
 |**2026-05-25**|**AutoSOTA: An End-to-End Automated Research System for State-of-the-Art AI Model Discovery**|Yu Li et.al.|[2604.05550](http://arxiv.org/abs/2604.05550)|
 |**2026-05-25**|**Agentic AI Workload Characteristics**|Yichao Yuan et.al.|[2605.26297](http://arxiv.org/abs/2605.26297)|
 |**2026-05-25**|**Stateful Inference for Low-Latency Multi-Agent Tool Calling**|Victor Norgren et.al.|[2605.26289](http://arxiv.org/abs/2605.26289)|
