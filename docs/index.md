@@ -6,10 +6,14 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.09.10_
+_Updated on 2026.09.11_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-10**|**AI Economist Agent: An Agentic Framework for Evidence-Based Economic and Financial Analysis with RAG, Knowledge Graphs, and Large Language Models**|Masahiro Kato et.al.|[2606.20041](http://arxiv.org/abs/2606.20041)|
+|**2026-09-10**|**REVA: Reusable Evidence View Aggregation for Context-Efficient RAG Serving**|Tuan Nguyen et.al.|[2609.11209_(ICDM)](http://arxiv.org/abs/2609.11209)|
+|**2026-09-10**|**Enabling Knowledge Graph Understanding at Scale with the EXplore Your Graphs ENgine (EXYGEN)**|Harshdeep Singh et.al.|[2609.11569](http://arxiv.org/abs/2609.11569)|
+|**2026-09-10**|**From Document Silos to Process Intelligence: A Multi-Layer Knowledge Graph for CMC Process Development**|Reza Amirmoshiri et.al.|[2609.11493](http://arxiv.org/abs/2609.11493)|
 |**2026-09-08**|**Sample-Guided Exact Top-K Selection for Long-Context Sparse Attention**|Siran Liu et.al.|[2609.08450](http://arxiv.org/abs/2609.08450)|
 |**2026-09-08**|**Evidence-Grounded Retrieval for Investigation Hunt Lead Generation from CTI Reports**|Akash Prakash et.al.|[2609.08790_(SC)](http://arxiv.org/abs/2609.08790)|
 |**2026-09-07**|**Where to Look and What to Use: Retrieve-Localize-Generate for Long-Term Conversational Memory Question Answering**|Yifan Wang et.al.|[2609.07093_(EMNLP)](http://arxiv.org/abs/2609.07093)|
@@ -113,7 +117,6 @@ _Updated on 2026.09.10_
 |**2026-06-22**|**Graph-Enhanced Large Language Models for Spatial Search**|Nicole R. Schneider et.al.|[2606.22909](http://arxiv.org/abs/2606.22909)|
 |**2026-06-21**|**VISTA Architect: A graph database-oriented health AI system demonstrated in multidisciplinary tumor boards**|Tuomo Kiiskinen et.al.|[2606.22692_(CHI)](http://arxiv.org/abs/2606.22692)|
 |**2026-06-20**|**Agent-Assisted Side-Channel Attacks on Non-Prefix KV Cache in RAG**|He Sun et.al.|[2606.21842](http://arxiv.org/abs/2606.21842)|
-|**2026-06-18**|**AI Economist Agent: An Agentic Framework for Model-Grounded Economic Analysis with RAG, Knowledge Graphs, and Large Language Models**|Masahiro Kato et.al.|[2606.20041](http://arxiv.org/abs/2606.20041)|
 |**2026-06-16**|**A Unified Framework for Context-Aware and Relation-Aware Graph Retrieval-Augmented Generation**|Haoyang Zhong et.al.|[2606.18075_(WWW)](http://arxiv.org/abs/2606.18075)|
 |**2026-06-16**|**DecoSearch: Complexity-Aware Routing and Plan-Level Repair for Text-to-SQL**|Esteban Schafir et.al.|[2606.17821](http://arxiv.org/abs/2606.17821)|
 |**2026-06-16**|**Conflict-Aware Retriever Editing for Knowledge Injection Attacks on LLM-Based RAG Systems**|Xinru Liu et.al.|[2606.18310](http://arxiv.org/abs/2606.18310)|

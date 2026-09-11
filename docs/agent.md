@@ -6,10 +6,15 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.09.10_
+_Updated on 2026.09.11_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-10**|**A Voice-Interactive Multi-Agent System for Smart Operating Rooms: Architecture Design and Key Technologies**|Tianxiang Zhou et.al.|[2609.11231](http://arxiv.org/abs/2609.11231)|
+|**2026-09-10**|**MAPLE: Memory-Augmented Planning with Language and Evolution**|Kesheng Chen et.al.|[2609.11636](http://arxiv.org/abs/2609.11636)|
+|**2026-09-10**|**Memory Compression for High-Fanout Agent Sandboxes**|Mengming Li et.al.|[2609.11294](http://arxiv.org/abs/2609.11294)|
+|**2026-09-10**|**Decoupling Readiness from Release for Tail-Aware Scheduling of Agentic LLM Workflows**|Bochao Feng et.al.|[2609.10964](http://arxiv.org/abs/2609.10964)|
+|**2026-09-10**|**SparseDitto: An Agentic Sparse Compilation Framework through Architecture-Aware Synthesis on GPUs**|Shiyang Li et.al.|[2608.05033](http://arxiv.org/abs/2608.05033)|
 |**2026-09-09**|**LatentDx: Latent Multi-Agent Communication for Cross-Hospital Rare-Disease Diagnosis**|Ziqing Wang et.al.|[2606.13945](http://arxiv.org/abs/2606.13945)|
 |**2026-09-09**|**KVShareArena: KV-Cache Reuse Across Contexts and Model Checkpoints**|Xi Shi et.al.|[2609.10266](http://arxiv.org/abs/2609.10266)|
 |**2026-09-09**|**UNISON: A Co-Designed Near-Memory Scheduler of Session KV Residency for LLM Agents**|Fan He et.al.|[2609.09643](http://arxiv.org/abs/2609.09643)|

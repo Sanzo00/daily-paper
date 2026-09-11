@@ -6,13 +6,19 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.09.10_
+_Updated on 2026.09.11_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-10**|**PATTON: Enabling Commodity PIM for Production LLM Serving**|Hangyeol Kim et.al.|[2609.11392](http://arxiv.org/abs/2609.11392)|
+|**2026-09-10**|**REVA: Reusable Evidence View Aggregation for Context-Efficient RAG Serving**|Tuan Nguyen et.al.|[2609.11209_(ICDM)](http://arxiv.org/abs/2609.11209)|
+|**2026-09-10**|**FlexComp: One Model for Every Ratio in Context Compression**|Kaiyan Zhao et.al.|[2609.11192](http://arxiv.org/abs/2609.11192)|
+|**2026-09-10**|**Building py-kvcache: A Performance Characterization of External KV Caching for vLLM with NVMe SSDs**|Joseph Kanichai et.al.|[2609.11744](http://arxiv.org/abs/2609.11744)|
+|**2026-09-10**|**A Voice-Interactive Multi-Agent System for Smart Operating Rooms: Architecture Design and Key Technologies**|Tianxiang Zhou et.al.|[2609.11231](http://arxiv.org/abs/2609.11231)|
 |**2026-09-09**|**LatentDx: Latent Multi-Agent Communication for Cross-Hospital Rare-Disease Diagnosis**|Ziqing Wang et.al.|[2606.13945](http://arxiv.org/abs/2606.13945)|
 |**2026-09-09**|**KVShareArena: KV-Cache Reuse Across Contexts and Model Checkpoints**|Xi Shi et.al.|[2609.10266](http://arxiv.org/abs/2609.10266)|
 |**2026-09-09**|**UNISON: A Co-Designed Near-Memory Scheduler of Session KV Residency for LLM Agents**|Fan He et.al.|[2609.09643](http://arxiv.org/abs/2609.09643)|
+|**2026-09-09**|**Composable CXL Memory as a Kubernetes-Native Shared Memory for LLM Serving**|Hongjian Fan et.al.|[2609.10790](http://arxiv.org/abs/2609.10790)|
 |**2026-09-08**|**BIO-MEMART: Biometric-Aware KV Cache Memory for Multi-User LLM Agents**|Yanhong Qian et.al.|[2609.08566](http://arxiv.org/abs/2609.08566)|
 |**2026-09-07**|**Unified AI Gateway: A Framework for Joint Model Routing and KV Cache Management**|Jiaxun Lu et.al.|[2609.06940](http://arxiv.org/abs/2609.06940)|
 |**2026-09-07**|**MetaKV: Adaptive KV Cache Compression for Constrained LLM Inference**|Michael Wang et.al.|[2609.07966](http://arxiv.org/abs/2609.07966)|
