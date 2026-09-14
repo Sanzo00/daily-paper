@@ -10,6 +10,8 @@ _Updated on 2026.09.14_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-11**|**Rethinking Heterogeneous System Disaggregation for Subquadratic Attention**|Arya Tschand et.al.|[2609.13134](http://arxiv.org/abs/2609.13134)|
+|**2026-09-11**|**Attention Quantization for Tabular Foundation Models**|Jonas M. Kübler et.al.|[2609.13031](http://arxiv.org/abs/2609.13031)|
 |**2026-09-10**|**PATTON: Enabling Commodity PIM for Production LLM Serving**|Hangyeol Kim et.al.|[2609.11392](http://arxiv.org/abs/2609.11392)|
 |**2026-09-10**|**REVA: Reusable Evidence View Aggregation for Context-Efficient RAG Serving**|Tuan Nguyen et.al.|[2609.11209_(ICDM)](http://arxiv.org/abs/2609.11209)|
 |**2026-09-10**|**FlexComp: One Model for Every Ratio in Context Compression**|Kaiyan Zhao et.al.|[2609.11192](http://arxiv.org/abs/2609.11192)|
