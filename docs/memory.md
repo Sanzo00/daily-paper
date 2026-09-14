@@ -6,13 +6,21 @@ nav_order: 5
 
 # Memory Papers
 
-_Updated on 2026.09.13_
+_Updated on 2026.09.14_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-11**|**SimSkill: A Self-Evolving LLM Agent for Skill and Knowledge Accumulation in Traffic Simulation**|Qi Liu et.al.|[2609.03753](http://arxiv.org/abs/2609.03753)|
+|**2026-09-11**|**AIM: A Privacy-Aware Interoperable Memory Framework for Multi-Agent Multi-User LLM Systems**|Zachary Johnson et.al.|[2609.12320](http://arxiv.org/abs/2609.12320)|
+|**2026-09-11**|**LifeMem: Enabling Lifelong Experience Reuse for LLM Agents**|Yuli Qiu et.al.|[2609.12655_(EMNLP)](http://arxiv.org/abs/2609.12655)|
+|**2026-09-11**|**RoofLang: Enabling AI-Driven Architecting of LLM Inference Systems**|Ziyue Yang et.al.|[2609.12551](http://arxiv.org/abs/2609.12551)|
+|**2026-09-11**|**Earth-Agent-Pro: Towards Real-World Full-Chain Earth Observation with Agents**|Zhutao Lv et.al.|[2609.12533](http://arxiv.org/abs/2609.12533)|
+|**2026-09-11**|**LifeFuse-Mem: Lifecycle-Aware State Fusion Against Temporary Overwriting for Long-Term Memory**|Hanyu Zhao et.al.|[2609.12436](http://arxiv.org/abs/2609.12436)|
+|**2026-09-11**|**SoK: Rethinking Jailbreaking in the Era of Agentic AI: Attacks, Defenses, and Practical Consideration**|Md Jueal Mia et.al.|[2609.12413](http://arxiv.org/abs/2609.12413)|
+|**2026-09-11**|**CueMem: Cue-Guided Context Reconstruction for Long-Term Conversational Memory**|Changjian Wang et.al.|[2609.12354](http://arxiv.org/abs/2609.12354)|
 |**2026-09-10**|**Causal Episodic Memory for Feedback-Driven Agent Repair**|Khang Nhat Hoang Vo et.al.|[2608.05906](http://arxiv.org/abs/2608.05906)|
 |**2026-09-10**|**Motus2: A Self-Evolving General World Model for Dexterous Manipulation**|Hongzhe Bi et.al.|[2608.30237](http://arxiv.org/abs/2608.30237)|
-|**2026-09-10**|**SimSkill: A Self-Evolving LLM Agent for Skill and Knowledge Accumulation in Traffic Simulation**|Qi Liu et.al.|[2609.03753](http://arxiv.org/abs/2609.03753)|
+|**2026-09-10**|**NS-Copilot: An LLM-Driven Agent System for Autonomous Neuroscience Analysis**|Wuche Liu et.al.|[2609.01971_(EMNLP)](http://arxiv.org/abs/2609.01971)|
 |**2026-09-10**|**Building py-kvcache: A Performance Characterization of External KV Caching for vLLM with NVMe SSDs**|Joseph Kanichai et.al.|[2609.11744](http://arxiv.org/abs/2609.11744)|
 |**2026-09-10**|**MAPLE: Memory-Augmented Planning with Language and Evolution**|Kesheng Chen et.al.|[2609.11636](http://arxiv.org/abs/2609.11636)|
 |**2026-09-10**|**OmniKVQuant: KV Cache Quantization for Omni-LLMs**|Suho Yoo et.al.|[2609.11582](http://arxiv.org/abs/2609.11582)|
@@ -175,7 +183,6 @@ _Updated on 2026.09.13_
 |**2026-09-02**|**MASkills: Continual Skills Optimization for Multi-Agent LLM Systems**|Huaiyuan Yao et.al.|[2609.02094](http://arxiv.org/abs/2609.02094)|
 |**2026-09-02**|**Compositional Spectral Prompts for LLM-based Online Time Series Forecasting**|Seungyoon Choi et.al.|[2609.02093_(CIKM)](http://arxiv.org/abs/2609.02093)|
 |**2026-09-02**|**Multi-Turn LLM Conversations under the Least-Recently-Used Policy: Mean-Field Asymptotics and Hit Ratio Approximation**|Heyuan Yao et.al.|[2609.02027](http://arxiv.org/abs/2609.02027)|
-|**2026-09-02**|**NS-Copilot: An LLM-Driven Agent System for Autonomous Neuroscience Analysis**|Wuche Liu et.al.|[2609.01971_(EMNLP)](http://arxiv.org/abs/2609.01971)|
 |**2026-09-02**|**Measurement-Driven Sub-Network Selection for On-Premise Retrieval-Augmented Factory Agents**|Vasileios Rizeakos et.al.|[2609.02760](http://arxiv.org/abs/2609.02760)|
 |**2026-09-02**|**Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills**|Jianlyu Chen et.al.|[2609.02749](http://arxiv.org/abs/2609.02749)|
 |**2026-09-02**|**BuildOcc: A Large Language Model Occupant Agent Platform for Building Energy Research**|Wooyoung Jung et.al.|[2609.02729](http://arxiv.org/abs/2609.02729)|
