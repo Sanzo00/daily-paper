@@ -10,8 +10,11 @@ _Updated on 2026.09.15_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-14**|**A Voice-Interactive Multi-Agent System for Smart Operating Rooms: Architecture Design and Key Technologies**|Tianxiang Zhou et.al.|[2609.11231_(SC)](http://arxiv.org/abs/2609.11231)|
+|**2026-09-14**|**AgentKV: Phase-Aware KV Eviction for Agentic LLMs**|Taowen Tony Liu et.al.|[2609.14872](http://arxiv.org/abs/2609.14872)|
+|**2026-09-13**|**SMetric: Rethink LLM Scheduling for Serving Agents with Balanced Session-centric Scheduling**|Jiahao Wang et.al.|[2607.08565](http://arxiv.org/abs/2607.08565)|
+|**2026-09-12**|**LLM-Enhanced Multi-Agent Reinforcement Learning for Unified Electric Vehicles-Charging Station-Grid Optimization in Public Charging Systems**|Yang Zhang et.al.|[2609.13805](http://arxiv.org/abs/2609.13805)|
 |**2026-09-11**|**RoofLang: Enabling AI-Driven Architecting of LLM Inference Systems**|Ziyue Yang et.al.|[2609.12551](http://arxiv.org/abs/2609.12551)|
-|**2026-09-10**|**A Voice-Interactive Multi-Agent System for Smart Operating Rooms: Architecture Design and Key Technologies**|Tianxiang Zhou et.al.|[2609.11231](http://arxiv.org/abs/2609.11231)|
 |**2026-09-10**|**MAPLE: Memory-Augmented Planning with Language and Evolution**|Kesheng Chen et.al.|[2609.11636](http://arxiv.org/abs/2609.11636)|
 |**2026-09-10**|**Memory Compression for High-Fanout Agent Sandboxes**|Mengming Li et.al.|[2609.11294](http://arxiv.org/abs/2609.11294)|
 |**2026-09-10**|**Decoupling Readiness from Release for Tail-Aware Scheduling of Agentic LLM Workflows**|Bochao Feng et.al.|[2609.10964](http://arxiv.org/abs/2609.10964)|
@@ -130,6 +133,7 @@ _Updated on 2026.09.15_
 |**2026-07-19**|**Talaria: Session-Aware Serverless Serving of Hundred-Billion-Parameter LLMs**|Utopia Meng et.al.|[2607.17181](http://arxiv.org/abs/2607.17181)|
 |**2026-07-19**|**WAR: Workload-Aware Rollouts for Synchronous Agentic Reinforcement Learning**|Ryan Xu et.al.|[2607.17299](http://arxiv.org/abs/2607.17299)|
 |**2026-07-19**|**Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing**|Sabeur Lajili et.al.|[2608.12371](http://arxiv.org/abs/2608.12371)|
+|**2026-07-18**|**PDD: Unleashing Economical and Flexible Heterogeneous LLM Inference via Cross-Datacenter Prefill-Decode Disaggregation**|Yida Wang et.al.|[2609.13161](http://arxiv.org/abs/2609.13161)|
 |**2026-07-17**|**HiLLTS: Zero-Shot Hierarchical LLM-Guided Traffic Signal Control for Sustainable Transportation**|Yue Ding et.al.|[2607.22691](http://arxiv.org/abs/2607.22691)|
 |**2026-07-16**|**Self-Aware Recursively Self-Improving Agents for Personal Singularity: A Goal-, Scope-, Tool-, and Benchmark-Driven Multi-Agent Architecture**|Chengshuai Yang et.al.|[2607.12254](http://arxiv.org/abs/2607.12254)|
 |**2026-07-16**|**Learning Agent Execution for KV-Cache Management in Agentic Serving**|Rui Zhang et.al.|[2608.14624](http://arxiv.org/abs/2608.14624)|
@@ -146,7 +150,6 @@ _Updated on 2026.09.15_
 |**2026-07-10**|**Fictional Worldbuilding: Multi-Agent LLM Collaboration with Hierarchical Context Compression and Iterative Review**|Jingbo Chen et.al.|[2607.09403](http://arxiv.org/abs/2607.09403)|
 |**2026-07-10**|**Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE**|Haozhan Tang et.al.|[2607.07740_(ACL)](http://arxiv.org/abs/2607.07740)|
 |**2026-07-09**|**StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling**|Meng Wei et.al.|[2507.05240_(ICRA)](http://arxiv.org/abs/2507.05240)|
-|**2026-07-09**|**SMetric: Rethink LLM Scheduling for Serving Agents with Balanced Session-centric Scheduling**|Jiahao Wang et.al.|[2607.08565](http://arxiv.org/abs/2607.08565)|
 |**2026-07-09**|**What to Keep, What to Forget: A Rate--Distortion View of Memory Compaction in LLMs and Agents**|Ashwin Gerard Colaco et.al.|[2607.08032](http://arxiv.org/abs/2607.08032)|
 |**2026-07-09**|**MORES: Mobile Reasoning-as-a-Service via Distributed LLM Inference-Time Scaling**|Guanchen Liu et.al.|[2607.08116](http://arxiv.org/abs/2607.08116)|
 |**2026-07-08**|**Think Before You Grid-Search: Floor-First Triage for LLM Serving**|Yihua Liu et.al.|[2607.05876](http://arxiv.org/abs/2607.05876)|

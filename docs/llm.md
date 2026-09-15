@@ -11,8 +11,10 @@ _Updated on 2026.09.15_
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
 |**2026-09-14**|**HBF Sucks? A Full-Stack Characterization of High-Bandwidth Flash for KV-Centric LLM Serving**|Zhuoran Li et.al.|[2608.11668](http://arxiv.org/abs/2608.11668)|
+|**2026-09-14**|**A Voice-Interactive Multi-Agent System for Smart Operating Rooms: Architecture Design and Key Technologies**|Tianxiang Zhou et.al.|[2609.11231_(SC)](http://arxiv.org/abs/2609.11231)|
 |**2026-09-14**|**AgentKV: Phase-Aware KV Eviction for Agentic LLMs**|Taowen Tony Liu et.al.|[2609.14872](http://arxiv.org/abs/2609.14872)|
 |**2026-09-13**|**SMetric: Rethink LLM Scheduling for Serving Agents with Balanced Session-centric Scheduling**|Jiahao Wang et.al.|[2607.08565](http://arxiv.org/abs/2607.08565)|
+|**2026-09-13**|**Self-Orchestrating Language Models: Leveraging Semantic Dependence for Efficient Inference**|Tian Jin et.al.|[2609.14850](http://arxiv.org/abs/2609.14850)|
 |**2026-09-12**|**PEEK: Predictive Queue-Informed KV Cache Management for LLM Serving**|Bing Xie et.al.|[2607.02525](http://arxiv.org/abs/2607.02525)|
 |**2026-09-12**|**Prefix Sharing Is a Sorting Problem**|Rong He et.al.|[2609.13692](http://arxiv.org/abs/2609.13692)|
 |**2026-09-11**|**Rethinking Heterogeneous System Disaggregation for Subquadratic Attention**|Arya Tschand et.al.|[2609.13134](http://arxiv.org/abs/2609.13134)|
@@ -22,7 +24,6 @@ _Updated on 2026.09.15_
 |**2026-09-10**|**REVA: Reusable Evidence View Aggregation for Context-Efficient RAG Serving**|Tuan Nguyen et.al.|[2609.11209_(ICDM)](http://arxiv.org/abs/2609.11209)|
 |**2026-09-10**|**FlexComp: One Model for Every Ratio in Context Compression**|Kaiyan Zhao et.al.|[2609.11192](http://arxiv.org/abs/2609.11192)|
 |**2026-09-10**|**Building py-kvcache: A Performance Characterization of External KV Caching for vLLM with NVMe SSDs**|Joseph Kanichai et.al.|[2609.11744](http://arxiv.org/abs/2609.11744)|
-|**2026-09-10**|**A Voice-Interactive Multi-Agent System for Smart Operating Rooms: Architecture Design and Key Technologies**|Tianxiang Zhou et.al.|[2609.11231](http://arxiv.org/abs/2609.11231)|
 |**2026-09-09**|**LatentDx: Latent Multi-Agent Communication for Cross-Hospital Rare-Disease Diagnosis**|Ziqing Wang et.al.|[2606.13945](http://arxiv.org/abs/2606.13945)|
 |**2026-09-09**|**KVShareArena: KV-Cache Reuse Across Contexts and Model Checkpoints**|Xi Shi et.al.|[2609.10266](http://arxiv.org/abs/2609.10266)|
 |**2026-09-09**|**UNISON: A Co-Designed Near-Memory Scheduler of Session KV Residency for LLM Agents**|Fan He et.al.|[2609.09643](http://arxiv.org/abs/2609.09643)|
@@ -76,6 +77,7 @@ _Updated on 2026.09.15_
 |**2026-08-18**|**Bounded-State Restoration: Decoupling Local Restore Capacity from External LLM State**|Zixuan Li et.al.|[2608.17826](http://arxiv.org/abs/2608.17826)|
 |**2026-08-17**|**ReMP: Low-Downtime Runtime Model-Parallelism Reconfiguration for LLM Serving**|Haipeng Yuan et.al.|[2606.18741](http://arxiv.org/abs/2606.18741)|
 |**2026-08-17**|**Pallas: A Proactive KV Cache Migration Framework for LLM Inference in AI-RAN**|Tianhang Ding et.al.|[2608.16477](http://arxiv.org/abs/2608.16477)|
+|**2026-08-16**|**Self-Indexing Attention for Compression-Compatible Sparse Long-Context LLM Inference**|Xu Yang et.al.|[2609.13205](http://arxiv.org/abs/2609.13205)|
 |**2026-08-15**|**LOCAL: Enabling Learning On-device Contiguously for Agent LLMs**|Xinxin Liu et.al.|[2608.15241](http://arxiv.org/abs/2608.15241)|
 |**2026-08-14**|**Kalypso: Relational LLM Serving**|Hojae Son et.al.|[2607.23815](http://arxiv.org/abs/2607.23815)|
 |**2026-08-14**|**Potential Applications of HBF in LLM Serving Systems**|Yihan Yin et.al.|[2608.13127](http://arxiv.org/abs/2608.13127)|

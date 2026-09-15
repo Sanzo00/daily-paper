@@ -10,13 +10,20 @@ _Updated on 2026.09.15_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-14**|**Where to Look and What to Use: Retrieve-Localize-Generate for Long-Term Conversational Memory Question Answering**|Yifan Wang et.al.|[2609.07093_(EMNLP)](http://arxiv.org/abs/2609.07093)|
+|**2026-09-13**|**AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education -- A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory**|Sushan Adhikari et.al.|[2609.14572](http://arxiv.org/abs/2609.14572)|
+|**2026-09-12**|**Prefix Sharing Is a Sorting Problem**|Rong He et.al.|[2609.13692](http://arxiv.org/abs/2609.13692)|
+|**2026-09-11**|**A Graph-Based Approach for Mapping Kernel-Level Telemetry to MITRE ATT&CK**|Matteo Lupinacci et.al.|[2609.12841](http://arxiv.org/abs/2609.12841)|
+|**2026-09-11**|**Cognition on Graph: Navigating Massive Knowledge Space via Cognitive Cycles and Bidirectional Graph-Text Synergy**|Gengxian Zhou et.al.|[2609.12791_(EMNLP)](http://arxiv.org/abs/2609.12791)|
+|**2026-09-11**|**Beyond Vector Similarity: Hierarchical Context-Aware Graph RAG vs Standard RAG in Enterprise Code Migration**|Nilesh Jaiswal et.al.|[2609.12464](http://arxiv.org/abs/2609.12464)|
 |**2026-09-10**|**AI Economist Agent: An Agentic Framework for Evidence-Based Economic and Financial Analysis with RAG, Knowledge Graphs, and Large Language Models**|Masahiro Kato et.al.|[2606.20041](http://arxiv.org/abs/2606.20041)|
 |**2026-09-10**|**REVA: Reusable Evidence View Aggregation for Context-Efficient RAG Serving**|Tuan Nguyen et.al.|[2609.11209_(ICDM)](http://arxiv.org/abs/2609.11209)|
 |**2026-09-10**|**Enabling Knowledge Graph Understanding at Scale with the EXplore Your Graphs ENgine (EXYGEN)**|Harshdeep Singh et.al.|[2609.11569](http://arxiv.org/abs/2609.11569)|
 |**2026-09-10**|**From Document Silos to Process Intelligence: A Multi-Layer Knowledge Graph for CMC Process Development**|Reza Amirmoshiri et.al.|[2609.11493](http://arxiv.org/abs/2609.11493)|
+|**2026-09-10**|**Decoupling Error Attribution in Cloud-Native Graph-RAG: A Data Integrity Diagnostic Framework**|Shuai Yan et.al.|[2609.13324_(CCC)](http://arxiv.org/abs/2609.13324)|
+|**2026-09-10**|**Retrieval-Augmented Generation for Scientific Code Understanding**|Aaron Nobile et.al.|[2609.12190](http://arxiv.org/abs/2609.12190)|
 |**2026-09-08**|**Sample-Guided Exact Top-K Selection for Long-Context Sparse Attention**|Siran Liu et.al.|[2609.08450](http://arxiv.org/abs/2609.08450)|
 |**2026-09-08**|**Evidence-Grounded Retrieval for Investigation Hunt Lead Generation from CTI Reports**|Akash Prakash et.al.|[2609.08790_(SC)](http://arxiv.org/abs/2609.08790)|
-|**2026-09-07**|**Where to Look and What to Use: Retrieve-Localize-Generate for Long-Term Conversational Memory Question Answering**|Yifan Wang et.al.|[2609.07093_(EMNLP)](http://arxiv.org/abs/2609.07093)|
 |**2026-09-06**|**Better Later Than Sooner: Neuro-Symbolic Knowledge Graph Construction via Ontology-grounded Post-extraction Correction**|Lorenzo Loconte et.al.|[2605.29168](http://arxiv.org/abs/2605.29168)|
 |**2026-09-05**|**Substrate-Portable Execution for Production LLM Workflows**|Tarun Gopinath et.al.|[2609.06128](http://arxiv.org/abs/2609.06128)|
 |**2026-09-05**|**Don't Lose Entities from Retrieval to Generation: Dual Entity Recovery RAG for multi-hop QA**|Heechang Lee et.al.|[2609.06065_(EMNLP)](http://arxiv.org/abs/2609.06065)|
