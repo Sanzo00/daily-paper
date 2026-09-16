@@ -6,13 +6,21 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.09.15_
+_Updated on 2026.09.16_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-15**|**Can LLMs Model Incorrect Student Reasoning? A Case Study on Distractor Generation**|Yanick Zengaffinen et.al.|[2603.15547_(EMNLP)](http://arxiv.org/abs/2603.15547)|
+|**2026-09-15**|**Comparative Characterization of KV Cache Management Strategies for LLM Inference**|Oteo Mamo et.al.|[2604.05012](http://arxiv.org/abs/2604.05012)|
+|**2026-09-15**|**JustFit: 200K-Token LLM Serving on a 24 GiB Laptop with Just-in-Time State Management**|Yuhua Chen et.al.|[2609.17475](http://arxiv.org/abs/2609.17475)|
+|**2026-09-15**|**Early-Bird Decoding: Accelerating Diffusion LLMs with Learnable Block Sizes and Parallel Sampling**|Lixuan Wei et.al.|[2609.16450](http://arxiv.org/abs/2609.16450)|
+|**2026-09-15**|**Where Should a Document Live: Context, Representations, or Parameters?**|Nathanaël Carraz Rakotonirina et.al.|[2609.17346](http://arxiv.org/abs/2609.17346)|
+|**2026-09-15**|**End-to-End Latency-Minimizing and Load-Balanced Request Scheduling for Edge LLM Inference in Agentic AI Services**|Zhen Li et.al.|[2609.17193](http://arxiv.org/abs/2609.17193)|
 |**2026-09-14**|**HBF Sucks? A Full-Stack Characterization of High-Bandwidth Flash for KV-Centric LLM Serving**|Zhuoran Li et.al.|[2608.11668](http://arxiv.org/abs/2608.11668)|
 |**2026-09-14**|**A Voice-Interactive Multi-Agent System for Smart Operating Rooms: Architecture Design and Key Technologies**|Tianxiang Zhou et.al.|[2609.11231_(SC)](http://arxiv.org/abs/2609.11231)|
 |**2026-09-14**|**AgentKV: Phase-Aware KV Eviction for Agentic LLMs**|Taowen Tony Liu et.al.|[2609.14872](http://arxiv.org/abs/2609.14872)|
+|**2026-09-14**|**Calibrate, Then Route: A Measured Study of Learned Request Routing for Disaggregated LLM Serving**|Srikanta Datta Tumkur et.al.|[2609.16206](http://arxiv.org/abs/2609.16206)|
+|**2026-09-14**|**LLM Inference in a Flash!**|Sebastian Zhao et.al.|[2609.16161](http://arxiv.org/abs/2609.16161)|
 |**2026-09-13**|**SMetric: Rethink LLM Scheduling for Serving Agents with Balanced Session-centric Scheduling**|Jiahao Wang et.al.|[2607.08565](http://arxiv.org/abs/2607.08565)|
 |**2026-09-13**|**Self-Orchestrating Language Models: Leveraging Semantic Dependence for Efficient Inference**|Tian Jin et.al.|[2609.14850](http://arxiv.org/abs/2609.14850)|
 |**2026-09-12**|**PEEK: Predictive Queue-Informed KV Cache Management for LLM Serving**|Bing Xie et.al.|[2607.02525](http://arxiv.org/abs/2607.02525)|
@@ -401,7 +409,6 @@ _Updated on 2026.09.15_
 |**2026-04-07**|**ForkKV: Scaling Multi-LoRA Agent Serving via Copy-on-Write Disaggregated KV Cache**|Shao Wang et.al.|[2604.06370](http://arxiv.org/abs/2604.06370)|
 |**2026-04-06**|**TriAttention: Efficient Long Reasoning with Trigonometric KV Compression**|Weian Mao et.al.|[2604.04921](http://arxiv.org/abs/2604.04921)|
 |**2026-04-06**|**Don't Waste Bits! Adaptive KV-Cache Quantization for Lightweight On-Device LLMs**|Sayed Pedram Haeri Boroujeni et.al.|[2604.04722_(CVPR)](http://arxiv.org/abs/2604.04722)|
-|**2026-04-06**|**Comparative Characterization of KV Cache Management Strategies for LLM Inference**|Oteo Mamo et.al.|[2604.05012](http://arxiv.org/abs/2604.05012)|
 |**2026-04-03**|**TokenDance: Scaling Multi-Agent LLM Serving via Collective KV Cache Sharing**|Zhuohang Bian et.al.|[2604.03143](http://arxiv.org/abs/2604.03143)|
 |**2026-04-01**|**Universal YOCO for Efficient Depth Scaling**|Yutao Sun et.al.|[2604.01220](http://arxiv.org/abs/2604.01220)|
 |**2026-03-30**|**Low-Latency Edge LLM Handover via Joint KV Cache Transfer and Token Prefill**|Seunghun Lee et.al.|[2603.28018](http://arxiv.org/abs/2603.28018)|
@@ -424,7 +431,6 @@ _Updated on 2026.09.15_
 |**2026-03-17**|**EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval**|Zebin Yang et.al.|[2510.18546_(NeurIPS)](http://arxiv.org/abs/2510.18546)|
 |**2026-03-17**|**Efficient LLM Serving for Agentic Workflows: A Data Systems Perspective**|Noppanat Wadlom et.al.|[2603.16104](http://arxiv.org/abs/2603.16104)|
 |**2026-03-16**|**PAT: Accelerating LLM Decoding via Prefix-Aware Attention with Resource Efficient Multi-Tile Kernel**|Jinjun Yi et.al.|[2511.22333_(ASPLOS)](http://arxiv.org/abs/2511.22333)|
-|**2026-03-16**|**Can LLMs Model Incorrect Student Reasoning? A Case Study on Distractor Generation**|Yanick Zengaffinen et.al.|[2603.15547](http://arxiv.org/abs/2603.15547)|
 |**2026-03-15**|**Learning to Forget: Sleep-Inspired Memory Consolidation for Resolving Proactive Interference in Large Language Models**|Ying Xie et.al.|[2603.14517](http://arxiv.org/abs/2603.14517)|
 |**2026-03-15**|**Self-Indexing KVCache: Predicting Sparse Attention from Compressed Keys**|Xu Yang et.al.|[2603.14224](http://arxiv.org/abs/2603.14224)|
 |**2026-03-14**|**StreamingTOM: Streaming Token Compression for Efficient Video Understanding**|Xueyi Chen et.al.|[2510.18269_(CVPR)](http://arxiv.org/abs/2510.18269)|

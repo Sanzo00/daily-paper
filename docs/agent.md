@@ -6,10 +6,15 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.09.15_
+_Updated on 2026.09.16_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-15**|**AInfer-PD: Communication-Safe In-Place Prefill-Decode Multiplexing for Distributed MoE Rollouts**|Guowei Wang et.al.|[2609.00993](http://arxiv.org/abs/2609.00993)|
+|**2026-09-15**|**End-to-End Latency-Minimizing and Load-Balanced Request Scheduling for Edge LLM Inference in Agentic AI Services**|Zhen Li et.al.|[2609.17193](http://arxiv.org/abs/2609.17193)|
+|**2026-09-15**|**QART: A Quantum-Classical Hybrid Architecture for Long-Horizon Reasoning -- Exploring a Conditional Path toward Quantum Scaling**|Lehao Lin et.al.|[2609.16887](http://arxiv.org/abs/2609.16887)|
+|**2026-09-15**|**Explainable Post-Disaster Grid Observability Recovery Using Human-Oversight Agentic LLMs**|Biswas Rudra Jyoti Arka et.al.|[2609.16774](http://arxiv.org/abs/2609.16774)|
+|**2026-09-15**|**PipeSwift: Revisiting Pipeline Parallelism for Large-Scale Completion-Oriented Agentic Serving**|Shiju Wang et.al.|[2609.16491](http://arxiv.org/abs/2609.16491)|
 |**2026-09-14**|**A Voice-Interactive Multi-Agent System for Smart Operating Rooms: Architecture Design and Key Technologies**|Tianxiang Zhou et.al.|[2609.11231_(SC)](http://arxiv.org/abs/2609.11231)|
 |**2026-09-14**|**AgentKV: Phase-Aware KV Eviction for Agentic LLMs**|Taowen Tony Liu et.al.|[2609.14872](http://arxiv.org/abs/2609.14872)|
 |**2026-09-13**|**SMetric: Rethink LLM Scheduling for Serving Agents with Balanced Session-centric Scheduling**|Jiahao Wang et.al.|[2607.08565](http://arxiv.org/abs/2607.08565)|
@@ -43,7 +48,6 @@ _Updated on 2026.09.15_
 |**2026-09-01**|**WhiFlash: Accelerating Speculative Decoding with Token-Level Cross-Paradigm Routing**|Young D. Kwon et.al.|[2606.07710_(EMNLP)](http://arxiv.org/abs/2606.07710)|
 |**2026-09-01**|**ContextPipe: Database-Inspired Context Assembly for Long-Horizon Agents**|Peng Xu et.al.|[2609.00749](http://arxiv.org/abs/2609.00749)|
 |**2026-09-01**|**Automatic Model-Hardware Co-Adaptation for Heterogeneous AI Accelerators**|Tian Chen et.al.|[2607.12875](http://arxiv.org/abs/2607.12875)|
-|**2026-09-01**|**AInfer-PD: Communication-Safe In-Place Prefill-Decode Multiplexing for Distributed MoE Rollouts**|Guowei Wang et.al.|[2609.00993](http://arxiv.org/abs/2609.00993)|
 |**2026-08-31**|**RECAP: Regression Evaluation for Continual Adaptation of Prompts**|Harsh Deshpande et.al.|[2606.06698](http://arxiv.org/abs/2606.06698)|
 |**2026-08-31**|**A Universal Context-Reuse Layer for Cross-Model KV Sharing**|Yi Li et.al.|[2608.30963](http://arxiv.org/abs/2608.30963)|
 |**2026-08-31**|**Adaptive KV Retention for LLM Agents at Human-Approval Timescales**|Minseo Choi et.al.|[2608.30830](http://arxiv.org/abs/2608.30830)|
