@@ -6,15 +6,16 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.09.16_
+_Updated on 2026.09.17_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-16**|**PipeSwift: Revisiting Pipeline Parallelism for Large-Scale Completion-Oriented Agentic LLM Serving**|Shiju Wang et.al.|[2609.16491](http://arxiv.org/abs/2609.16491)|
+|**2026-09-16**|**Contiguity, Not Importance: Budgeted Repair of Stale KV Caches After Document Edits**|Mingyang Mao et.al.|[2609.17983](http://arxiv.org/abs/2609.17983)|
 |**2026-09-15**|**AInfer-PD: Communication-Safe In-Place Prefill-Decode Multiplexing for Distributed MoE Rollouts**|Guowei Wang et.al.|[2609.00993](http://arxiv.org/abs/2609.00993)|
 |**2026-09-15**|**End-to-End Latency-Minimizing and Load-Balanced Request Scheduling for Edge LLM Inference in Agentic AI Services**|Zhen Li et.al.|[2609.17193](http://arxiv.org/abs/2609.17193)|
 |**2026-09-15**|**QART: A Quantum-Classical Hybrid Architecture for Long-Horizon Reasoning -- Exploring a Conditional Path toward Quantum Scaling**|Lehao Lin et.al.|[2609.16887](http://arxiv.org/abs/2609.16887)|
 |**2026-09-15**|**Explainable Post-Disaster Grid Observability Recovery Using Human-Oversight Agentic LLMs**|Biswas Rudra Jyoti Arka et.al.|[2609.16774](http://arxiv.org/abs/2609.16774)|
-|**2026-09-15**|**PipeSwift: Revisiting Pipeline Parallelism for Large-Scale Completion-Oriented Agentic Serving**|Shiju Wang et.al.|[2609.16491](http://arxiv.org/abs/2609.16491)|
 |**2026-09-14**|**A Voice-Interactive Multi-Agent System for Smart Operating Rooms: Architecture Design and Key Technologies**|Tianxiang Zhou et.al.|[2609.11231_(SC)](http://arxiv.org/abs/2609.11231)|
 |**2026-09-14**|**AgentKV: Phase-Aware KV Eviction for Agentic LLMs**|Taowen Tony Liu et.al.|[2609.14872](http://arxiv.org/abs/2609.14872)|
 |**2026-09-13**|**SMetric: Rethink LLM Scheduling for Serving Agents with Balanced Session-centric Scheduling**|Jiahao Wang et.al.|[2607.08565](http://arxiv.org/abs/2607.08565)|
@@ -25,6 +26,7 @@ _Updated on 2026.09.16_
 |**2026-09-10**|**Decoupling Readiness from Release for Tail-Aware Scheduling of Agentic LLM Workflows**|Bochao Feng et.al.|[2609.10964](http://arxiv.org/abs/2609.10964)|
 |**2026-09-10**|**SparseDitto: An Agentic Sparse Compilation Framework through Architecture-Aware Synthesis on GPUs**|Shiyang Li et.al.|[2608.05033](http://arxiv.org/abs/2608.05033)|
 |**2026-09-10**|**AKTS: Sub-Microsecond Kernel Policy Switching for Language-Model Agents**|Mohammadali Khodabandehlou et.al.|[2609.12276](http://arxiv.org/abs/2609.12276)|
+|**2026-09-10**|**Serving Agentic Workflows with a Physical-Plan Compiler and Adaptive Runtime**|Jiayi Qian et.al.|[2607.02942](http://arxiv.org/abs/2607.02942)|
 |**2026-09-09**|**LatentDx: Latent Multi-Agent Communication for Cross-Hospital Rare-Disease Diagnosis**|Ziqing Wang et.al.|[2606.13945](http://arxiv.org/abs/2606.13945)|
 |**2026-09-09**|**KVShareArena: KV-Cache Reuse Across Contexts and Model Checkpoints**|Xi Shi et.al.|[2609.10266](http://arxiv.org/abs/2609.10266)|
 |**2026-09-09**|**UNISON: A Co-Designed Near-Memory Scheduler of Session KV Residency for LLM Agents**|Fan He et.al.|[2609.09643](http://arxiv.org/abs/2609.09643)|
