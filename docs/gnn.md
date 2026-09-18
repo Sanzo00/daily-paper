@@ -6,7 +6,7 @@ nav_order: 3
 
 # GNN Papers
 
-_Updated on 2026.09.17_
+_Updated on 2026.09.18_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
@@ -19,6 +19,7 @@ _Updated on 2026.09.17_
 |**2026-08-15**|**BrainLinear: A Linear Model for Brain Network Analysis in Sparse Tangent Subspaces**|Sijing Wu et.al.|[2608.15266](http://arxiv.org/abs/2608.15266)|
 |**2026-08-07**|**LGNNIC: Acceleration of Large-Scale GNN Training using SmartNICs**|Liad Gerstman et.al.|[2608.07733](http://arxiv.org/abs/2608.07733)|
 |**2026-08-06**|**SNI-GNN: SmartNIC-Assisted Full-Graph GNN Training with In-Network Embedding Prediction**|Guofan Yu et.al.|[2608.06441_(ICDE)](http://arxiv.org/abs/2608.06441)|
+|**2026-07-29**|**AI-Driven Real-Time Relay Optimisation in Smart Urban NR-V2X Networks via Learning-to-Optimise Graph Neural Networks**|Giambattista Amati et.al.|[2609.20271](http://arxiv.org/abs/2609.20271)|
 |**2026-07-24**|**Efficient Recommendations via Graph Coarsening and Label Propagation**|Alessandro Sbandi et.al.|[2607.22287](http://arxiv.org/abs/2607.22287)|
 |**2026-07-19**|**Taurus: Accelerating Out-of-Core Graph Neural Network Inference on Billion-Scale Graphs**|Pranjal Naman et.al.|[2607.17374_(DIS)](http://arxiv.org/abs/2607.17374)|
 |**2026-07-10**|**RIS-Assisted Downlink Pinching-Antenna Systems: GNN-Enabled Optimization Approaches**|Changpeng He et.al.|[2511.20305](http://arxiv.org/abs/2511.20305)|

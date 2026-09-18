@@ -6,10 +6,12 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.09.17_
+_Updated on 2026.09.18_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-17**|**Understanding and Exploiting Diagonal Attention Sparsity in Autoregressive Image Generation**|Daeun Kim et.al.|[2609.19702](http://arxiv.org/abs/2609.19702)|
+|**2026-09-17**|**PrefixBench-H100: Characterizing Prefix Reuse and Time-to-First-Token in H100 LLM Serving**|Omkar Shewale et.al.|[2609.19657](http://arxiv.org/abs/2609.19657)|
 |**2026-09-16**|**How to Compress KV Cache in RL Post-Training? Shadow Mask Distillation for Memory-Efficient Alignment**|Rui Zhu et.al.|[2605.06850](http://arxiv.org/abs/2605.06850)|
 |**2026-09-16**|**HBFlex: A Flexible Memory System for Bridging Fine-Grained LLM States and Coarse-Grained HBF Parallel Execution**|Shuzhang Zhong et.al.|[2609.18675](http://arxiv.org/abs/2609.18675)|
 |**2026-09-16**|**Token Latency Fairness: Performance Isolation for Multi-Tenant LLM Serving**|Dev Bali et.al.|[2609.18112](http://arxiv.org/abs/2609.18112)|

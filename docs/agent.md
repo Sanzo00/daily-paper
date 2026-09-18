@@ -6,10 +6,12 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.09.17_
+_Updated on 2026.09.18_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-17**|**PrefixBench-H100: Characterizing Prefix Reuse and Time-to-First-Token in H100 LLM Serving**|Omkar Shewale et.al.|[2609.19657](http://arxiv.org/abs/2609.19657)|
+|**2026-09-17**|**On-Demand Attention: Language Models Know When to Recall**|Haibo Feng et.al.|[2609.20734](http://arxiv.org/abs/2609.20734)|
 |**2026-09-16**|**PipeSwift: Revisiting Pipeline Parallelism for Large-Scale Completion-Oriented Agentic LLM Serving**|Shiju Wang et.al.|[2609.16491](http://arxiv.org/abs/2609.16491)|
 |**2026-09-16**|**Contiguity, Not Importance: Budgeted Repair of Stale KV Caches After Document Edits**|Mingyang Mao et.al.|[2609.17983](http://arxiv.org/abs/2609.17983)|
 |**2026-09-15**|**AInfer-PD: Communication-Safe In-Place Prefill-Decode Multiplexing for Distributed MoE Rollouts**|Guowei Wang et.al.|[2609.00993](http://arxiv.org/abs/2609.00993)|
@@ -20,6 +22,7 @@ _Updated on 2026.09.17_
 |**2026-09-14**|**AgentKV: Phase-Aware KV Eviction for Agentic LLMs**|Taowen Tony Liu et.al.|[2609.14872](http://arxiv.org/abs/2609.14872)|
 |**2026-09-13**|**SMetric: Rethink LLM Scheduling for Serving Agents with Balanced Session-centric Scheduling**|Jiahao Wang et.al.|[2607.08565](http://arxiv.org/abs/2607.08565)|
 |**2026-09-12**|**LLM-Enhanced Multi-Agent Reinforcement Learning for Unified Electric Vehicles-Charging Station-Grid Optimization in Public Charging Systems**|Yang Zhang et.al.|[2609.13805](http://arxiv.org/abs/2609.13805)|
+|**2026-09-12**|**SiliconBench: Speed, Memory, and Fidelity for LLM Serving on Unified-Memory Desktops**|Ranran Haoran Zhang et.al.|[2609.19169_(CHI)](http://arxiv.org/abs/2609.19169)|
 |**2026-09-11**|**RoofLang: Enabling AI-Driven Architecting of LLM Inference Systems**|Ziyue Yang et.al.|[2609.12551](http://arxiv.org/abs/2609.12551)|
 |**2026-09-10**|**MAPLE: Memory-Augmented Planning with Language and Evolution**|Kesheng Chen et.al.|[2609.11636](http://arxiv.org/abs/2609.11636)|
 |**2026-09-10**|**Memory Compression for High-Fanout Agent Sandboxes**|Mengming Li et.al.|[2609.11294](http://arxiv.org/abs/2609.11294)|
