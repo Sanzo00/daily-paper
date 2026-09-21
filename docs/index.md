@@ -6,12 +6,12 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.09.20_
+_Updated on 2026.09.21_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-18**|**Knowledge-Graph Based Augmentation versus Retrieval Augmented Generation for Cultural-Related Question Answering**|Pablo Poulenard et.al.|[2609.18317_(ACL)](http://arxiv.org/abs/2609.18317)|
 |**2026-09-17**|**Beyond Similarity through Zero-Token Geometric Graphs for Multi-Hop RAG**|Zeliang Li et.al.|[2609.19622](http://arxiv.org/abs/2609.19622)|
-|**2026-09-16**|**Knowledge-Graph Based Augmentation versus Retrieval Augmented Generation for Cultural-Related Question Answering**|Pablo Poulenard et.al.|[2609.18317](http://arxiv.org/abs/2609.18317)|
 |**2026-09-16**|**When Is Graph Structure Worth Its Cost? The Case for Structure Pricing in Retrieval-Augmented Generation**|Yuzhong Zhang et.al.|[2609.18099](http://arxiv.org/abs/2609.18099)|
 |**2026-09-14**|**Where to Look and What to Use: Retrieve-Localize-Generate for Long-Term Conversational Memory Question Answering**|Yifan Wang et.al.|[2609.07093_(EMNLP)](http://arxiv.org/abs/2609.07093)|
 |**2026-09-13**|**AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education -- A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory**|Sushan Adhikari et.al.|[2609.14572](http://arxiv.org/abs/2609.14572)|

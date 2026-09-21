@@ -6,10 +6,12 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.09.20_
+_Updated on 2026.09.21_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-18**|**Staying on the Attack Path: Structured State for Long-Horizon Automated Penetration Testing**|Weizhe Wang et.al.|[2609.07344](http://arxiv.org/abs/2609.07344)|
+|**2026-09-18**|**Synthetic Human Mobility Data Generation: A Structured Review of Representations, Methods, and Practical Capabilities**|Yanbo Pang et.al.|[2609.21413](http://arxiv.org/abs/2609.21413)|
 |**2026-09-17**|**PrefixBench-H100: Characterizing Prefix Reuse and Time-to-First-Token in H100 LLM Serving**|Omkar Shewale et.al.|[2609.19657](http://arxiv.org/abs/2609.19657)|
 |**2026-09-17**|**On-Demand Attention: Language Models Know When to Recall**|Haibo Feng et.al.|[2609.20734](http://arxiv.org/abs/2609.20734)|
 |**2026-09-16**|**PipeSwift: Revisiting Pipeline Parallelism for Large-Scale Completion-Oriented Agentic LLM Serving**|Shiju Wang et.al.|[2609.16491](http://arxiv.org/abs/2609.16491)|
@@ -39,7 +41,6 @@ _Updated on 2026.09.20_
 |**2026-09-08**|**BIO-MEMART: Biometric-Aware KV Cache Memory for Multi-User LLM Agents**|Yanhong Qian et.al.|[2609.08566](http://arxiv.org/abs/2609.08566)|
 |**2026-09-07**|**Automated Synthesis of Deterministic Cross-Domain Interfaces**|Konstantinos Christodoulopoulos et.al.|[2608.09312](http://arxiv.org/abs/2608.09312)|
 |**2026-09-07**|**The OCUDU dApp Platform: An Open Runtime and E3 Interface for Real-Time AI-RAN**|Timothy O'Shea et.al.|[2609.07843_(GROUP)](http://arxiv.org/abs/2609.07843)|
-|**2026-09-07**|**Staying on the Attack Path: Structured State for Long-Horizon Automated Penetration Testing**|Weizhe Wang et.al.|[2609.07344](http://arxiv.org/abs/2609.07344)|
 |**2026-09-07**|**Elastic Horizon: Discovering the Effective Interaction Frontier in Agentic Reinforcement Learning**|Gangyi Zhang et.al.|[2609.07247_(EMNLP)](http://arxiv.org/abs/2609.07247)|
 |**2026-09-05**|**AgentServeSim: Serving-System Simulation and Policy Search for LLM Agent Programs**|Rakibul Hasan Rajib et.al.|[2606.09613](http://arxiv.org/abs/2606.09613)|
 |**2026-09-04**|**Forgetting Without Restarting: Execution-State Unlearning for Stateful LLM Agents**|Chao Yao et.al.|[2609.04875](http://arxiv.org/abs/2609.04875)|
