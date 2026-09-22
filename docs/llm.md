@@ -15,6 +15,9 @@ _Updated on 2026.09.22_
 |**2026-09-21**|**ARM: Attention with Routed-Memory for Learnable Sparse Control**|Qiuhao Zeng et.al.|[2609.24417_(CHI)](http://arxiv.org/abs/2609.24417)|
 |**2026-09-21**|**Who Pays for the KV Cache? Attributing Shared AI Inference Spend Across Kubernetes and LLM Provider Bills**|Timothy Urista et.al.|[2609.24991_(DIS)](http://arxiv.org/abs/2609.24991)|
 |**2026-09-20**|**JustFit: Just-in-Time State Management for Local LLM Serving**|Yuhua Chen et.al.|[2609.17475](http://arxiv.org/abs/2609.17475)|
+|**2026-09-20**|**SPLASH: Co-Designing Sparse Attention with High-Bandwidth Flash for Efficient Long-Context Inference**|Aditya Anirudh Jonnalagadda et.al.|[2609.23816](http://arxiv.org/abs/2609.23816)|
+|**2026-09-19**|**Stage-Aware Communication Scheduling for Disaggregated LLM Serving**|Yijun Sun et.al.|[2603.17456](http://arxiv.org/abs/2603.17456)|
+|**2026-09-19**|**From Inference Engine to Inference Control Plane: Connecting vLLM, llm-d, and the Evolution of Efficient Distributed LLM Serving**|Twinkll Sisodia et.al.|[2609.23130_(DIS)](http://arxiv.org/abs/2609.23130)|
 |**2026-09-17**|**Understanding and Exploiting Diagonal Attention Sparsity in Autoregressive Image Generation**|Daeun Kim et.al.|[2609.19702](http://arxiv.org/abs/2609.19702)|
 |**2026-09-17**|**PrefixBench-H100: Characterizing Prefix Reuse and Time-to-First-Token in H100 LLM Serving**|Omkar Shewale et.al.|[2609.19657](http://arxiv.org/abs/2609.19657)|
 |**2026-09-17**|**An Approximate Queueing Model of LLM Inference Serving for SLO-Driven Autoscaling**|Vishakha Ramani et.al.|[2609.20957](http://arxiv.org/abs/2609.20957)|
@@ -436,7 +439,6 @@ _Updated on 2026.09.22_
 |**2026-03-20**|**KV Cache Optimization Strategies for Scalable and Efficient LLM Inference**|Yichun Xu et.al.|[2603.20397](http://arxiv.org/abs/2603.20397)|
 |**2026-03-20**|**Trained Persistent Memory for Frozen Decoder-Only LLMs**|Hong Jeong et.al.|[2603.22329](http://arxiv.org/abs/2603.22329)|
 |**2026-03-19**|**StreamingThinker: Large Language Models Can Think While Reading**|Junlong Tong et.al.|[2510.17238_(ICLR)](http://arxiv.org/abs/2510.17238)|
-|**2026-03-18**|**Multi-stage Flow Scheduling for LLM Serving**|Yijun Sun et.al.|[2603.17456](http://arxiv.org/abs/2603.17456)|
 |**2026-03-18**|**Swarm: Co-Activation Aware KVCache Offloading Across Multiple SSDs**|Tuowei Wang et.al.|[2603.17803](http://arxiv.org/abs/2603.17803)|
 |**2026-03-18**|**IEMAS: An Incentive-Efficiency Routing Framework for Open Agentic Web Ecosystems**|Hongze Liu et.al.|[2603.17302](http://arxiv.org/abs/2603.17302)|
 |**2026-03-17**|**EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval**|Zebin Yang et.al.|[2510.18546_(NeurIPS)](http://arxiv.org/abs/2510.18546)|
