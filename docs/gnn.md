@@ -6,13 +6,14 @@ nav_order: 3
 
 # GNN Papers
 
-_Updated on 2026.09.21_
+_Updated on 2026.09.22_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-21**|**Reforge: Low-Latency Distributed GNN Serving with Selective Embedding Recomputation**|Geon-Woo Kim et.al.|[2501.08547_(IPDPS)](http://arxiv.org/abs/2501.08547)|
+|**2026-09-19**|**Sharing a Fabric with Collective Communication: Two Storage Penalties in Deep Learning Training**|Chen Wang et.al.|[2609.06506](http://arxiv.org/abs/2609.06506)|
 |**2026-09-09**|**Efficient Graph Neural Networks for Multicarrier Wideband Hybrid Beamforming Optimization**|Beier Li et.al.|[2609.09708](http://arxiv.org/abs/2609.09708)|
 |**2026-09-08**|**GraphFAS: A Distributed System for Automated Graph Feature Generation and Selection in Industrial Transaction Networks**|Yice Luo et.al.|[2609.08970_(CIKM)](http://arxiv.org/abs/2609.08970)|
-|**2026-09-06**|**Sharing a Fabric with Collective Communication: Two Storage Penalties in Deep Learning Training**|Chen Wang et.al.|[2609.06506](http://arxiv.org/abs/2609.06506)|
 |**2026-09-02**|**Feasible but Not Safe: Constraint Violations and Report-Channel Attacks in Learned Cell-Free ISAC Association**|Mehdi Zafari et.al.|[2609.03147_(MobiCom)](http://arxiv.org/abs/2609.03147)|
 |**2026-09-02**|**Privacy-Preserving Topology-Guided Safety for LLM-Based Multi-Agent Systems via Federated Graph Learning**|Jinxi Yu et.al.|[2609.02967](http://arxiv.org/abs/2609.02967)|
 |**2026-08-17**|**Community Concealment from Graph Neural Networks**|Dalyapraz Manatova et.al.|[2602.12250](http://arxiv.org/abs/2602.12250)|
@@ -92,7 +93,6 @@ _Updated on 2026.09.21_
 |**2025-02-13**|**Revisiting Topological Interference Management: A Learning-to-Code on Graphs Perspective**|Zhiwei Shan et.al.|[2502.09344](http://arxiv.org/abs/2502.09344)|
 |**2025-02-08**|**Graph Neural Network Enabled Pinching Antennas**|Xinke Xie et.al.|[2502.05447](http://arxiv.org/abs/2502.05447)|
 |**2025-01-25**|**ReInc: Scaling Training of Dynamic Graph Neural Networks**|Mingyu Guan et.al.|[2501.15348](http://arxiv.org/abs/2501.15348)|
-|**2025-01-15**|**OMEGA: A Low-Latency GNN Serving System for Large Graphs**|Geon-Woo Kim et.al.|[2501.08547](http://arxiv.org/abs/2501.08547)|
 |**2024-12-29**|**NeutronTP: Load-Balanced Distributed Full-Graph GNN Training with Tensor Parallelism**|Xin Ai et.al.|[2412.20379_(VLDB)](http://arxiv.org/abs/2412.20379)|
 |**2024-12-20**|**X-MeshGraphNet: Scalable Multi-Scale Graph Neural Networks for Physics Simulation**|Mohammad Amin Nabian et.al.|[2411.17164](http://arxiv.org/abs/2411.17164)|
 |**2024-12-19**|**Answer Set Networks: Casting Answer Set Programming into Deep Learning**|Arseny Skryagin et.al.|[2412.14814](http://arxiv.org/abs/2412.14814)|

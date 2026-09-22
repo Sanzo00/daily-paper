@@ -6,15 +6,23 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.09.21_
+_Updated on 2026.09.22_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-21**|**Agentic AI Workload Characteristics**|Yichao Yuan et.al.|[2605.26297_(ISWC)](http://arxiv.org/abs/2605.26297)|
+|**2026-09-21**|**Just Noticeable Difference Modeling for Token Compression in Vision-Language-Action Models**|Zhuoyuan Li et.al.|[2608.21247](http://arxiv.org/abs/2608.21247)|
+|**2026-09-21**|**Luck Is Not Skill: When Do Paired Rollouts Help Group-Relative RL of LLM Agents?**|Nazmus Sakib et.al.|[2609.24144](http://arxiv.org/abs/2609.24144)|
+|**2026-09-20**|**Extending concurrent separation logic to the hardware level to verify the xv6 OS kernel on RISC-V with AI agents**|M. Frans Kaashoek et.al.|[2609.04043](http://arxiv.org/abs/2609.04043)|
+|**2026-09-20**|**RoofLang: Enabling AI-Driven Architecting of LLM Inference Systems**|Ziyue Yang et.al.|[2609.12551_(DATE)](http://arxiv.org/abs/2609.12551)|
+|**2026-09-20**|**PipeSwift: Revisiting Pipeline Parallelism for Large-Scale Completion-Oriented Agentic LLM Serving**|Shiju Wang et.al.|[2609.16491](http://arxiv.org/abs/2609.16491)|
+|**2026-09-20**|**JustFit: Just-in-Time State Management for Local LLM Serving**|Yuhua Chen et.al.|[2609.17475](http://arxiv.org/abs/2609.17475)|
+|**2026-09-19**|**From Inference Engine to Inference Control Plane: Connecting vLLM, llm-d, and the Evolution of Efficient Distributed LLM Serving**|Twinkll Sisodia et.al.|[2609.23130_(DIS)](http://arxiv.org/abs/2609.23130)|
+|**2026-09-19**|**DeepSeek Elastic Compute (DSec): A Sandbox Infrastructure for Effective Agentic Training at Scale**|Jialiang Huang et.al.|[2609.22978_(ATC)](http://arxiv.org/abs/2609.22978)|
 |**2026-09-18**|**Staying on the Attack Path: Structured State for Long-Horizon Automated Penetration Testing**|Weizhe Wang et.al.|[2609.07344](http://arxiv.org/abs/2609.07344)|
 |**2026-09-18**|**Synthetic Human Mobility Data Generation: A Structured Review of Representations, Methods, and Practical Capabilities**|Yanbo Pang et.al.|[2609.21413](http://arxiv.org/abs/2609.21413)|
 |**2026-09-17**|**PrefixBench-H100: Characterizing Prefix Reuse and Time-to-First-Token in H100 LLM Serving**|Omkar Shewale et.al.|[2609.19657](http://arxiv.org/abs/2609.19657)|
 |**2026-09-17**|**On-Demand Attention: Language Models Know When to Recall**|Haibo Feng et.al.|[2609.20734](http://arxiv.org/abs/2609.20734)|
-|**2026-09-16**|**PipeSwift: Revisiting Pipeline Parallelism for Large-Scale Completion-Oriented Agentic LLM Serving**|Shiju Wang et.al.|[2609.16491](http://arxiv.org/abs/2609.16491)|
 |**2026-09-16**|**Contiguity, Not Importance: Budgeted Repair of Stale KV Caches After Document Edits**|Mingyang Mao et.al.|[2609.17983](http://arxiv.org/abs/2609.17983)|
 |**2026-09-15**|**AInfer-PD: Communication-Safe In-Place Prefill-Decode Multiplexing for Distributed MoE Rollouts**|Guowei Wang et.al.|[2609.00993](http://arxiv.org/abs/2609.00993)|
 |**2026-09-15**|**End-to-End Latency-Minimizing and Load-Balanced Request Scheduling for Edge LLM Inference in Agentic AI Services**|Zhen Li et.al.|[2609.17193](http://arxiv.org/abs/2609.17193)|
@@ -25,7 +33,6 @@ _Updated on 2026.09.21_
 |**2026-09-13**|**SMetric: Rethink LLM Scheduling for Serving Agents with Balanced Session-centric Scheduling**|Jiahao Wang et.al.|[2607.08565](http://arxiv.org/abs/2607.08565)|
 |**2026-09-12**|**LLM-Enhanced Multi-Agent Reinforcement Learning for Unified Electric Vehicles-Charging Station-Grid Optimization in Public Charging Systems**|Yang Zhang et.al.|[2609.13805](http://arxiv.org/abs/2609.13805)|
 |**2026-09-12**|**SiliconBench: Speed, Memory, and Fidelity for LLM Serving on Unified-Memory Desktops**|Ranran Haoran Zhang et.al.|[2609.19169_(CHI)](http://arxiv.org/abs/2609.19169)|
-|**2026-09-11**|**RoofLang: Enabling AI-Driven Architecting of LLM Inference Systems**|Ziyue Yang et.al.|[2609.12551](http://arxiv.org/abs/2609.12551)|
 |**2026-09-10**|**MAPLE: Memory-Augmented Planning with Language and Evolution**|Kesheng Chen et.al.|[2609.11636](http://arxiv.org/abs/2609.11636)|
 |**2026-09-10**|**Memory Compression for High-Fanout Agent Sandboxes**|Mengming Li et.al.|[2609.11294](http://arxiv.org/abs/2609.11294)|
 |**2026-09-10**|**Decoupling Readiness from Release for Tail-Aware Scheduling of Agentic LLM Workflows**|Bochao Feng et.al.|[2609.10964](http://arxiv.org/abs/2609.10964)|
@@ -47,7 +54,6 @@ _Updated on 2026.09.21_
 |**2026-09-04**|**KVMem: Virtualizing Million-Token Agent Workspaces on a Consumer GPU**|Di Chai et.al.|[2609.04852](http://arxiv.org/abs/2609.04852)|
 |**2026-09-04**|**TROVE: Adaptive Agent Skill Orchestration via Trace-Grounded Route Validation and Editing**|Tianxing Wang et.al.|[2609.05019](http://arxiv.org/abs/2609.05019)|
 |**2026-09-04**|**Model Retirement Creates Reproducibility Risk in Biomedical AI Publications**|Nathan Wolfrath et.al.|[2609.04699](http://arxiv.org/abs/2609.04699)|
-|**2026-09-03**|**Extending concurrent separation logic to the hardware level to verify the xv6 OS kernel on RISC-V with AI agents**|M. Frans Kaashoek et.al.|[2609.04043](http://arxiv.org/abs/2609.04043)|
 |**2026-09-03**|**Latency-Aware Orchestration for Multi-Agent LLM Workflows on Heterogeneous GPUs**|Jinghao Wang et.al.|[2609.03335](http://arxiv.org/abs/2609.03335)|
 |**2026-09-03**|**Two Truths and A Lie? Benchmarking Off-the-Shelf LLMs for Requirements Quality Assessment: Performance, False Alarms, and Misses**|Jannatul Shefa et.al.|[2609.03230](http://arxiv.org/abs/2609.03230)|
 |**2026-09-02**|**LLMZero: Discovering Adaptive Training Strategies for RL Post-Training via LLM Agents**|Haoyang Fang et.al.|[2606.18388](http://arxiv.org/abs/2606.18388)|
@@ -70,13 +76,13 @@ _Updated on 2026.09.21_
 |**2026-08-27**|**BekchiAI: Measuring, Observing, and Controlling LLM Agents in One Click**|Mesut Toruk et.al.|[2608.26867](http://arxiv.org/abs/2608.26867)|
 |**2026-08-26**|**TOPAS: Workflow-Aware Prefix-State Scheduling for Multi-Agent LLM Serving**|Hongqiu Ni et.al.|[2608.25523](http://arxiv.org/abs/2608.25523)|
 |**2026-08-26**|**psRL: Efficient Training for Agentic AI via Training-Time Prefix Sharing**|Mianjie Yu et.al.|[2608.25683](http://arxiv.org/abs/2608.25683)|
+|**2026-08-26**|**StepKV: Step-Aware KV Cache Compression for LLM Agents**|Boyu Feng et.al.|[2609.22158](http://arxiv.org/abs/2609.22158)|
 |**2026-08-25**|**PeakBench: Benchmarking Resource-Aware Tool Invocation in LLM Agents**|Zhi-Kai Chen et.al.|[2608.24509](http://arxiv.org/abs/2608.24509)|
 |**2026-08-23**|**KMGen: A Skill-based Approach for Synthetic Individual Patient Data Generation**|Jalen Jiang et.al.|[2608.22618](http://arxiv.org/abs/2608.22618)|
 |**2026-08-23**|**MCP-Universe RL: A Framework for Training MCP Tool-Use Agents via Reinforcement Learning**|Ziyang Luo et.al.|[2608.22167](http://arxiv.org/abs/2608.22167)|
 |**2026-08-22**|**When Less Latent Leads to Better Relay: Information-Preserving Compression for Latent Multi-Agent LLM Collaboration**|Yiping Li et.al.|[2604.13349](http://arxiv.org/abs/2604.13349)|
 |**2026-08-21**|**TokenCake: A KV-Cache-centric Serving Framework for LLM-based Multi-Agent Applications**|Zhuohang Bian et.al.|[2510.18586_(EuroSys)](http://arxiv.org/abs/2510.18586)|
 |**2026-08-21**|**Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements**|Zhi Zheng et.al.|[2608.17310](http://arxiv.org/abs/2608.17310)|
-|**2026-08-21**|**Just Noticeable Difference Modeling for Token Compression in Vision-Language-Action Models**|Zhuoyuan Li et.al.|[2608.21247](http://arxiv.org/abs/2608.21247)|
 |**2026-08-20**|**ReCache: Efficient KV Cache Reuse and Compression for Tool-Augmented LLM Agents**|Yichu Fang et.al.|[2608.19662](http://arxiv.org/abs/2608.19662)|
 |**2026-08-20**|**When Do LLM Agents Help? Deadline-Aware Mixed-Criticality Task Scheduling at the Autonomous-Vehicle Edge**|Reza Zakerian et.al.|[2608.19557](http://arxiv.org/abs/2608.19557)|
 |**2026-08-20**|**Dual-Cache Latent Space Communication between Heterogeneous Language Models**|Jiyao Liu et.al.|[2608.20617](http://arxiv.org/abs/2608.20617)|
@@ -264,7 +270,6 @@ _Updated on 2026.09.21_
 |**2026-05-27**|**Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players**|Fangfu Liu et.al.|[2605.28816](http://arxiv.org/abs/2605.28816)|
 |**2026-05-26**|**DynaSchedBench: Calibrated Dynamic Scheduling Benchmarks and Observability Paradox in LLM-based Scheduling Agents**|Shijie Cao et.al.|[2605.27566](http://arxiv.org/abs/2605.27566)|
 |**2026-05-25**|**AutoSOTA: An End-to-End Automated Research System for State-of-the-Art AI Model Discovery**|Yu Li et.al.|[2604.05550](http://arxiv.org/abs/2604.05550)|
-|**2026-05-25**|**Agentic AI Workload Characteristics**|Yichao Yuan et.al.|[2605.26297](http://arxiv.org/abs/2605.26297)|
 |**2026-05-25**|**Stateful Inference for Low-Latency Multi-Agent Tool Calling**|Victor Norgren et.al.|[2605.26289](http://arxiv.org/abs/2605.26289)|
 |**2026-05-25**|**A Token/KV-Cache Communication Media Selection and Resource Allocation Strategy for Multi-Agent Collaboration**|Lipeng Dai et.al.|[2605.25422](http://arxiv.org/abs/2605.25422)|
 |**2026-05-25**|**Fast-dDrive: Efficient Block-Diffusion VLM for Autonomous Driving**|Kewei Zhang et.al.|[2605.23163](http://arxiv.org/abs/2605.23163)|
