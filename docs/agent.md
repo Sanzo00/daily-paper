@@ -6,10 +6,13 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.09.22_
+_Updated on 2026.09.23_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-22**|**StepKV: Step-Aware KV Cache Compression for LLM Agents**|Boyu Feng et.al.|[2609.22158](http://arxiv.org/abs/2609.22158)|
+|**2026-09-22**|**SARA: SLO-Aware Resource Allocation for Disaggregated Agentic LLM Services**|Shicong Liu et.al.|[2609.26763](http://arxiv.org/abs/2609.26763)|
+|**2026-09-22**|**Hot-Cold Tiering of HBM and High Bandwidth Flash for Agentic LLM Serving**|Jongjin Baek et.al.|[2609.25782](http://arxiv.org/abs/2609.25782)|
 |**2026-09-21**|**Agentic AI Workload Characteristics**|Yichao Yuan et.al.|[2605.26297_(ISWC)](http://arxiv.org/abs/2605.26297)|
 |**2026-09-21**|**Just Noticeable Difference Modeling for Token Compression in Vision-Language-Action Models**|Zhuoyuan Li et.al.|[2608.21247](http://arxiv.org/abs/2608.21247)|
 |**2026-09-21**|**Luck Is Not Skill: When Do Paired Rollouts Help Group-Relative RL of LLM Agents?**|Nazmus Sakib et.al.|[2609.24144](http://arxiv.org/abs/2609.24144)|
@@ -49,6 +52,7 @@ _Updated on 2026.09.22_
 |**2026-09-07**|**Automated Synthesis of Deterministic Cross-Domain Interfaces**|Konstantinos Christodoulopoulos et.al.|[2608.09312](http://arxiv.org/abs/2608.09312)|
 |**2026-09-07**|**The OCUDU dApp Platform: An Open Runtime and E3 Interface for Real-Time AI-RAN**|Timothy O'Shea et.al.|[2609.07843_(GROUP)](http://arxiv.org/abs/2609.07843)|
 |**2026-09-07**|**Elastic Horizon: Discovering the Effective Interaction Frontier in Agentic Reinforcement Learning**|Gangyi Zhang et.al.|[2609.07247_(EMNLP)](http://arxiv.org/abs/2609.07247)|
+|**2026-09-06**|**AIBuildAI-2.5: Efficient Autonomous AI Model Development Through LLM-Guided Tree Search**|Peijia Qin et.al.|[2609.25047](http://arxiv.org/abs/2609.25047)|
 |**2026-09-05**|**AgentServeSim: Serving-System Simulation and Policy Search for LLM Agent Programs**|Rakibul Hasan Rajib et.al.|[2606.09613](http://arxiv.org/abs/2606.09613)|
 |**2026-09-04**|**Forgetting Without Restarting: Execution-State Unlearning for Stateful LLM Agents**|Chao Yao et.al.|[2609.04875](http://arxiv.org/abs/2609.04875)|
 |**2026-09-04**|**KVMem: Virtualizing Million-Token Agent Workspaces on a Consumer GPU**|Di Chai et.al.|[2609.04852](http://arxiv.org/abs/2609.04852)|
@@ -76,7 +80,6 @@ _Updated on 2026.09.22_
 |**2026-08-27**|**BekchiAI: Measuring, Observing, and Controlling LLM Agents in One Click**|Mesut Toruk et.al.|[2608.26867](http://arxiv.org/abs/2608.26867)|
 |**2026-08-26**|**TOPAS: Workflow-Aware Prefix-State Scheduling for Multi-Agent LLM Serving**|Hongqiu Ni et.al.|[2608.25523](http://arxiv.org/abs/2608.25523)|
 |**2026-08-26**|**psRL: Efficient Training for Agentic AI via Training-Time Prefix Sharing**|Mianjie Yu et.al.|[2608.25683](http://arxiv.org/abs/2608.25683)|
-|**2026-08-26**|**StepKV: Step-Aware KV Cache Compression for LLM Agents**|Boyu Feng et.al.|[2609.22158](http://arxiv.org/abs/2609.22158)|
 |**2026-08-25**|**PeakBench: Benchmarking Resource-Aware Tool Invocation in LLM Agents**|Zhi-Kai Chen et.al.|[2608.24509](http://arxiv.org/abs/2608.24509)|
 |**2026-08-23**|**KMGen: A Skill-based Approach for Synthetic Individual Patient Data Generation**|Jalen Jiang et.al.|[2608.22618](http://arxiv.org/abs/2608.22618)|
 |**2026-08-23**|**MCP-Universe RL: A Framework for Training MCP Tool-Use Agents via Reinforcement Learning**|Ziyang Luo et.al.|[2608.22167](http://arxiv.org/abs/2608.22167)|
@@ -90,6 +93,7 @@ _Updated on 2026.09.22_
 |**2026-08-19**|**Where Facts Go Missing: A Layerwise Taxonomy and Per-Layer Attribution of Information Omission in Air-Gapped LLMAgent Pipelines**|Santhiya Rajan et.al.|[2607.22448](http://arxiv.org/abs/2607.22448)|
 |**2026-08-18**|**Belayer: Efficient Fault Tolerance for LLM Agentic RL Training**|Jiecheng Zhou et.al.|[2608.14635](http://arxiv.org/abs/2608.14635)|
 |**2026-08-18**|**Agent Lightning v1.0: Towards Harnessed Agentic RL**|Zhiyuan He et.al.|[2608.17528](http://arxiv.org/abs/2608.17528)|
+|**2026-08-18**|**PatchKV: Efficient KV Cache Recovery for Dynamically Edited LLM Contexts**|Guotao Yang et.al.|[2609.26219](http://arxiv.org/abs/2609.26219)|
 |**2026-08-17**|**$R^3$-Bench: LLMs Struggle with Resource-Rational Reasoning under Shared Budgets**|Peisong Wang et.al.|[2608.16033](http://arxiv.org/abs/2608.16033)|
 |**2026-08-16**|**SocialCoach: Personalized Social Skill Learning with Agentic Tutoring and Practice**|Tianfu Wang et.al.|[2606.04155](http://arxiv.org/abs/2606.04155)|
 |**2026-08-16**|**Aborted but Not Forgotten: KV-Cache Retention Breaks Rollback Consistency in Language Agents**|Guijia Zhang et.al.|[2608.15939](http://arxiv.org/abs/2608.15939)|
