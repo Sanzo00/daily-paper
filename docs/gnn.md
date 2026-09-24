@@ -6,10 +6,11 @@ nav_order: 3
 
 # GNN Papers
 
-_Updated on 2026.09.23_
+_Updated on 2026.09.24_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-23**|**A Scalable Multi-Robot Framework for Decentralized and Asynchronous Perception-Action-Communication Loops**|Saurav Agarwal et.al.|[2309.10164](http://arxiv.org/abs/2309.10164)|
 |**2026-09-21**|**Reforge: Low-Latency Distributed GNN Serving with Selective Embedding Recomputation**|Geon-Woo Kim et.al.|[2501.08547_(IPDPS)](http://arxiv.org/abs/2501.08547)|
 |**2026-09-19**|**Sharing a Fabric with Collective Communication: Two Storage Penalties in Deep Learning Training**|Chen Wang et.al.|[2609.06506](http://arxiv.org/abs/2609.06506)|
 |**2026-09-09**|**Efficient Graph Neural Networks for Multicarrier Wideband Hybrid Beamforming Optimization**|Beier Li et.al.|[2609.09708](http://arxiv.org/abs/2609.09708)|
@@ -64,7 +65,6 @@ _Updated on 2026.09.23_
 |**2025-10-15**|**ACE-GNN: Adaptive GNN Co-Inference with System-Aware Scheduling in Dynamic Edge Environments**|Ao Zhou et.al.|[2511.11586](http://arxiv.org/abs/2511.11586)|
 |**2025-10-11**|**Learning Joint Embeddings of Function and Process Call Graphs for Malware Detection**|Kartikeya Aneja et.al.|[2510.09984](http://arxiv.org/abs/2510.09984)|
 |**2025-10-01**|**Graph Neural Networks in Large Scale Wireless Communication Networks: Scalability Across Random Geometric Graphs**|Romina Garcia Camargo et.al.|[2510.00896](http://arxiv.org/abs/2510.00896)|
-|**2025-09-21**|**A Scalable Multi-Robot Framework for Decentralized and Asynchronous Perception-Action-Communication Loops**|Saurav Agarwal et.al.|[2309.10164](http://arxiv.org/abs/2309.10164)|
 |**2025-09-18**|**Federated Hypergraph Learning with Local Differential Privacy: Toward Privacy-Aware Hypergraph Structure Completion**|Linfeng Luo et.al.|[2408.05160_(ICDM)](http://arxiv.org/abs/2408.05160)|
 |**2025-09-08**|**Graph Neural Networks for Resource Allocation in Interference-limited Multi-Channel Wireless Networks with QoS Constraints**|Lili Chen et.al.|[2509.06395](http://arxiv.org/abs/2509.06395)|
 |**2025-09-02**|**HydroGAT: Distributed Heterogeneous Graph Attention Transformer for Spatiotemporal Flood Prediction**|Aishwarya Sarkar et.al.|[2509.02481_(SIGSPATIAL)](http://arxiv.org/abs/2509.02481)|

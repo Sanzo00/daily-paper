@@ -6,13 +6,16 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.09.23_
+_Updated on 2026.09.24_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-23**|**The KV Cache Working Set: Online Capacity Planning for LLM Inference Systems**|Luchang Li et.al.|[2609.27746](http://arxiv.org/abs/2609.27746)|
+|**2026-09-23**|**KITE: KV-Invariant Transformer Expansion for Efficient Agentic LLM Scaling**|Zhiheng Hu et.al.|[2609.27294](http://arxiv.org/abs/2609.27294)|
 |**2026-09-22**|**StepKV: Step-Aware KV Cache Compression for LLM Agents**|Boyu Feng et.al.|[2609.22158](http://arxiv.org/abs/2609.22158)|
 |**2026-09-22**|**SARA: SLO-Aware Resource Allocation for Disaggregated Agentic LLM Services**|Shicong Liu et.al.|[2609.26763](http://arxiv.org/abs/2609.26763)|
 |**2026-09-22**|**Hot-Cold Tiering of HBM and High Bandwidth Flash for Agentic LLM Serving**|Jongjin Baek et.al.|[2609.25782](http://arxiv.org/abs/2609.25782)|
+|**2026-09-22**|**Crossflow: Prefill-Decode Elasticity for Agentic LLM Serving**|Yi Xu et.al.|[2609.27085](http://arxiv.org/abs/2609.27085)|
 |**2026-09-21**|**Agentic AI Workload Characteristics**|Yichao Yuan et.al.|[2605.26297_(ISWC)](http://arxiv.org/abs/2605.26297)|
 |**2026-09-21**|**Just Noticeable Difference Modeling for Token Compression in Vision-Language-Action Models**|Zhuoyuan Li et.al.|[2608.21247](http://arxiv.org/abs/2608.21247)|
 |**2026-09-21**|**Luck Is Not Skill: When Do Paired Rollouts Help Group-Relative RL of LLM Agents?**|Nazmus Sakib et.al.|[2609.24144](http://arxiv.org/abs/2609.24144)|
@@ -90,6 +93,7 @@ _Updated on 2026.09.23_
 |**2026-08-20**|**When Do LLM Agents Help? Deadline-Aware Mixed-Criticality Task Scheduling at the Autonomous-Vehicle Edge**|Reza Zakerian et.al.|[2608.19557](http://arxiv.org/abs/2608.19557)|
 |**2026-08-20**|**Dual-Cache Latent Space Communication between Heterogeneous Language Models**|Jiyao Liu et.al.|[2608.20617](http://arxiv.org/abs/2608.20617)|
 |**2026-08-20**|**Consilience: Conformally Calibrated Communication Control for Hidden-Profile Multi-Agent Reasoning**|Abhijith Babu et.al.|[2608.20564](http://arxiv.org/abs/2608.20564)|
+|**2026-08-20**|**ChronosAttack: Adversarial Tool Scheduling Attacks on LLM Agents**|Arash Vashagh et.al.|[2609.27857](http://arxiv.org/abs/2609.27857)|
 |**2026-08-19**|**Where Facts Go Missing: A Layerwise Taxonomy and Per-Layer Attribution of Information Omission in Air-Gapped LLMAgent Pipelines**|Santhiya Rajan et.al.|[2607.22448](http://arxiv.org/abs/2607.22448)|
 |**2026-08-18**|**Belayer: Efficient Fault Tolerance for LLM Agentic RL Training**|Jiecheng Zhou et.al.|[2608.14635](http://arxiv.org/abs/2608.14635)|
 |**2026-08-18**|**Agent Lightning v1.0: Towards Harnessed Agentic RL**|Zhiyuan He et.al.|[2608.17528](http://arxiv.org/abs/2608.17528)|

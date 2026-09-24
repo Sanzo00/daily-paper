@@ -6,10 +6,12 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.09.23_
+_Updated on 2026.09.24_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-23**|**From Document Silos to Process Intelligence: A Multi-Layer Knowledge Graph for CMC Process Development**|Reza Amirmoshiri et.al.|[2609.11493](http://arxiv.org/abs/2609.11493)|
+|**2026-09-22**|**LEGO: Synergizing Expert GraphRAG and Expert Chain-of-Thought for Legal Reasoning**|Qingjing Chen et.al.|[2609.27009_(EMNLP)](http://arxiv.org/abs/2609.27009)|
 |**2026-09-18**|**Knowledge-Graph Based Augmentation versus Retrieval Augmented Generation for Cultural-Related Question Answering**|Pablo Poulenard et.al.|[2609.18317_(ACL)](http://arxiv.org/abs/2609.18317)|
 |**2026-09-17**|**Beyond Similarity through Zero-Token Geometric Graphs for Multi-Hop RAG**|Zeliang Li et.al.|[2609.19622](http://arxiv.org/abs/2609.19622)|
 |**2026-09-16**|**When Is Graph Structure Worth Its Cost? The Case for Structure Pricing in Retrieval-Augmented Generation**|Yuzhong Zhang et.al.|[2609.18099](http://arxiv.org/abs/2609.18099)|
@@ -22,7 +24,6 @@ _Updated on 2026.09.23_
 |**2026-09-10**|**AI Economist Agent: An Agentic Framework for Evidence-Based Economic and Financial Analysis with RAG, Knowledge Graphs, and Large Language Models**|Masahiro Kato et.al.|[2606.20041](http://arxiv.org/abs/2606.20041)|
 |**2026-09-10**|**REVA: Reusable Evidence View Aggregation for Context-Efficient RAG Serving**|Tuan Nguyen et.al.|[2609.11209_(ICDM)](http://arxiv.org/abs/2609.11209)|
 |**2026-09-10**|**Enabling Knowledge Graph Understanding at Scale with the EXplore Your Graphs ENgine (EXYGEN)**|Harshdeep Singh et.al.|[2609.11569](http://arxiv.org/abs/2609.11569)|
-|**2026-09-10**|**From Document Silos to Process Intelligence: A Multi-Layer Knowledge Graph for CMC Process Development**|Reza Amirmoshiri et.al.|[2609.11493](http://arxiv.org/abs/2609.11493)|
 |**2026-09-10**|**Decoupling Error Attribution in Cloud-Native Graph-RAG: A Data Integrity Diagnostic Framework**|Shuai Yan et.al.|[2609.13324_(CCC)](http://arxiv.org/abs/2609.13324)|
 |**2026-09-10**|**Retrieval-Augmented Generation for Scientific Code Understanding**|Aaron Nobile et.al.|[2609.12190](http://arxiv.org/abs/2609.12190)|
 |**2026-09-08**|**Sample-Guided Exact Top-K Selection for Long-Context Sparse Attention**|Siran Liu et.al.|[2609.08450](http://arxiv.org/abs/2609.08450)|
@@ -54,6 +55,7 @@ _Updated on 2026.09.23_
 |**2026-08-22**|**From Association to Causation: Improving Retrieval Precision of Retrieval-Augmented Generation via Causal Relations and an Attention Mechanism**|Jing Liu et.al.|[2608.21702](http://arxiv.org/abs/2608.21702)|
 |**2026-08-21**|**MedRAGChecker: Claim-Level Verification for Biomedical Retrieval-Augmented Generation**|Yuelyu Ji et.al.|[2601.06519](http://arxiv.org/abs/2601.06519)|
 |**2026-08-21**|**Do Large Language Models Play Six Degrees of Separation? Measuring Topological Compression in Long-Context Manifolds**|Md. Faiyaz Abdullah Sayeedi et.al.|[2608.17950](http://arxiv.org/abs/2608.17950)|
+|**2026-08-20**|**Agentic Governance and Adversarial Verification for Policy-Constrained LLM Healthcare Appeal Generation**|Harshil Lodhiya et.al.|[2609.27844_(SC)](http://arxiv.org/abs/2609.27844)|
 |**2026-08-17**|**Think Inside the Chunk: RegulaRAG for Regulation-Compliant Scenario Generation using LLMs: A Case Study of UN Regulation No. 152**|Vahid Zolfaghari et.al.|[2608.16394](http://arxiv.org/abs/2608.16394)|
 |**2026-08-11**|**Knowledge-Graph-Guided Retrieval-Augmented LLMs for Explainable Root Cause Analysis in Automotive HiL Validation**|Hamza Ouarrad et.al.|[2608.11277_(ICS)](http://arxiv.org/abs/2608.11277)|
 |**2026-08-10**|**KGCaRe: Explainable Complex Conditional Question Answering using Automatic Knowledge Graph Construction and Context Retrieval with LLMs**|Ghanshyam Verma et.al.|[2608.09779](http://arxiv.org/abs/2608.09779)|

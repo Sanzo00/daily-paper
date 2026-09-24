@@ -6,22 +6,25 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.09.23_
+_Updated on 2026.09.24_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-23**|**The KV Cache Working Set: Online Capacity Planning for LLM Inference Systems**|Luchang Li et.al.|[2609.27746](http://arxiv.org/abs/2609.27746)|
 |**2026-09-22**|**Preserving Speech-to-Text LLM Capabilities in Speech-to-Speech Generation**|Yuxuan Hu et.al.|[2606.30944](http://arxiv.org/abs/2606.30944)|
 |**2026-09-22**|**StepKV: Step-Aware KV Cache Compression for LLM Agents**|Boyu Feng et.al.|[2609.22158](http://arxiv.org/abs/2609.22158)|
 |**2026-09-22**|**Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs**|Quan Nguyen-Tri et.al.|[2609.26796](http://arxiv.org/abs/2609.26796)|
 |**2026-09-22**|**SARA: SLO-Aware Resource Allocation for Disaggregated Agentic LLM Services**|Shicong Liu et.al.|[2609.26763](http://arxiv.org/abs/2609.26763)|
 |**2026-09-22**|**Hot-Cold Tiering of HBM and High Bandwidth Flash for Agentic LLM Serving**|Jongjin Baek et.al.|[2609.25782](http://arxiv.org/abs/2609.25782)|
 |**2026-09-22**|**PAGE: Partition-Aware Gated KV-Cache Eviction**|Pankaj Kumar et.al.|[2609.22157](http://arxiv.org/abs/2609.22157)|
+|**2026-09-22**|**Crossflow: Prefill-Decode Elasticity for Agentic LLM Serving**|Yi Xu et.al.|[2609.27085](http://arxiv.org/abs/2609.27085)|
 |**2026-09-21**|**RedKnot: Efficient Long-Context LLM Serving with Head-Aware KV Reuse and SegPagedAttention**|Yang Liu et.al.|[2606.06256](http://arxiv.org/abs/2606.06256)|
 |**2026-09-21**|**Agentic AI Workload Characteristics**|Yichao Yuan et.al.|[2605.26297_(ISWC)](http://arxiv.org/abs/2605.26297)|
 |**2026-09-21**|**ARM: Attention with Routed-Memory for Learnable Sparse Control**|Qiuhao Zeng et.al.|[2609.24417_(CHI)](http://arxiv.org/abs/2609.24417)|
 |**2026-09-21**|**Who Pays for the KV Cache? Attributing Shared AI Inference Spend Across Kubernetes and LLM Provider Bills**|Timothy Urista et.al.|[2609.24991_(DIS)](http://arxiv.org/abs/2609.24991)|
 |**2026-09-20**|**JustFit: Just-in-Time State Management for Local LLM Serving**|Yuhua Chen et.al.|[2609.17475](http://arxiv.org/abs/2609.17475)|
 |**2026-09-20**|**SPLASH: Co-Designing Sparse Attention with High-Bandwidth Flash for Efficient Long-Context Inference**|Aditya Anirudh Jonnalagadda et.al.|[2609.23816](http://arxiv.org/abs/2609.23816)|
+|**2026-09-20**|**Bridging LLM Serving and CXL-SSDs with Chunk-Aware KV Cache Management**|Hyunsun Chung et.al.|[2609.26828](http://arxiv.org/abs/2609.26828)|
 |**2026-09-19**|**Stage-Aware Communication Scheduling for Disaggregated LLM Serving**|Yijun Sun et.al.|[2603.17456](http://arxiv.org/abs/2603.17456)|
 |**2026-09-19**|**From Inference Engine to Inference Control Plane: Connecting vLLM, llm-d, and the Evolution of Efficient Distributed LLM Serving**|Twinkll Sisodia et.al.|[2609.23130_(DIS)](http://arxiv.org/abs/2609.23130)|
 |**2026-09-17**|**Understanding and Exploiting Diagonal Attention Sparsity in Autoregressive Image Generation**|Daeun Kim et.al.|[2609.19702](http://arxiv.org/abs/2609.19702)|
