@@ -6,10 +6,11 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.09.24_
+_Updated on 2026.09.25_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-24**|**Asymmetric Dynamic Routing: Balancing Reasoning Depth and Computational Efficiency in Hypergraph RAG**|Qi Sun et.al.|[2609.29282](http://arxiv.org/abs/2609.29282)|
 |**2026-09-23**|**From Document Silos to Process Intelligence: A Multi-Layer Knowledge Graph for CMC Process Development**|Reza Amirmoshiri et.al.|[2609.11493](http://arxiv.org/abs/2609.11493)|
 |**2026-09-22**|**LEGO: Synergizing Expert GraphRAG and Expert Chain-of-Thought for Legal Reasoning**|Qingjing Chen et.al.|[2609.27009_(EMNLP)](http://arxiv.org/abs/2609.27009)|
 |**2026-09-18**|**Knowledge-Graph Based Augmentation versus Retrieval Augmented Generation for Cultural-Related Question Answering**|Pablo Poulenard et.al.|[2609.18317_(ACL)](http://arxiv.org/abs/2609.18317)|
@@ -49,6 +50,7 @@ _Updated on 2026.09.24_
 |**2026-08-26**|**Multi-Granularity Context-Enhanced RAG over Multimodal Knowledge Graphs**|Zongyu Wu et.al.|[2608.25986](http://arxiv.org/abs/2608.25986)|
 |**2026-08-26**|**LivingRAG: Augmenting Graph RAG with Experience**|Yuzhuo Cui et.al.|[2608.25960](http://arxiv.org/abs/2608.25960)|
 |**2026-08-25**|**SAG: SQL-Retrieval Augmented Generation with Query-Time Dynamic Hyperedges**|Yuchao Wu et.al.|[2606.15971_(ISS)](http://arxiv.org/abs/2606.15971)|
+|**2026-08-25**|**BiGraph-Diffuse: A Bidirectional Diffusion Language Model with Graph-Structured Retrieval For Mental Health Counseling**|Yuxiang Cheng et.al.|[2609.29519](http://arxiv.org/abs/2609.29519)|
 |**2026-08-24**|**SAG: SQL-Retrieval Augmented Generation with Query-Time Dynamic Hyperedges**|Yuchao Wu et.al.|[2608.12129_(DATE)](http://arxiv.org/abs/2608.12129)|
 |**2026-08-24**|**FashionKG-RAG: Knowledge Graph-Enhanced Retrieval-Augmented Generation for Fashion Question Answering**|Yujuan Ding et.al.|[2608.22688](http://arxiv.org/abs/2608.22688)|
 |**2026-08-23**|**GeoRisk-RAG: A Hierarchy-Aware Risk Framework for Improving RAG Reliability through Selective Answering**|Meenu Ravi et.al.|[2608.22634_(CIKM)](http://arxiv.org/abs/2608.22634)|
