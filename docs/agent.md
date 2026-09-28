@@ -6,10 +6,12 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.09.27_
+_Updated on 2026.09.28_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-25**|**DeepEdu-v1: Efficient and Scalable Agentic LLMs for Vietnamese Education**|Quang Nguyen et.al.|[2609.31568](http://arxiv.org/abs/2609.31568)|
+|**2026-09-25**|**ActKV: Efficient LLM Agents through Action-Guided KV Cache Management**|Zihan Wang et.al.|[2609.31395](http://arxiv.org/abs/2609.31395)|
 |**2026-09-24**|**GRASP: Generating, Revising, and Assessing for Strategic Planning with Agentic AI**|Arunabh Srivastava et.al.|[2609.30147_(EMNLP)](http://arxiv.org/abs/2609.30147)|
 |**2026-09-23**|**The KV Cache Working Set: Online Capacity Planning for LLM Inference Systems**|Luchang Li et.al.|[2609.27746](http://arxiv.org/abs/2609.27746)|
 |**2026-09-23**|**KITE: KV-Invariant Transformer Expansion for Efficient Agentic LLM Scaling**|Zhiheng Hu et.al.|[2609.27294](http://arxiv.org/abs/2609.27294)|

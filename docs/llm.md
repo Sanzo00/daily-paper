@@ -6,10 +6,13 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.09.27_
+_Updated on 2026.09.28_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-25**|**DeepEdu-v1: Efficient and Scalable Agentic LLMs for Vietnamese Education**|Quang Nguyen et.al.|[2609.31568](http://arxiv.org/abs/2609.31568)|
+|**2026-09-25**|**ActKV: Efficient LLM Agents through Action-Guided KV Cache Management**|Zihan Wang et.al.|[2609.31395](http://arxiv.org/abs/2609.31395)|
+|**2026-09-25**|**The KV Cache Is the New Memory Wall**|Tejinder Singh et.al.|[2609.30854](http://arxiv.org/abs/2609.30854)|
 |**2026-09-24**|**MILO: Efficient Many-shot In-Context Learning with Block-wise Low-rank Compression**|Youpeng Zhao et.al.|[2609.29913](http://arxiv.org/abs/2609.29913)|
 |**2026-09-24**|**Cross-Model Autoscaling for Shared LLM Serving**|Xin Zhang et.al.|[2609.29160](http://arxiv.org/abs/2609.29160)|
 |**2026-09-24**|**NebulaSD: Many-for-Many Speculative Decoding**|Junhao He et.al.|[2609.29364](http://arxiv.org/abs/2609.29364)|
