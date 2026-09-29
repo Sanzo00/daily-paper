@@ -6,10 +6,28 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.09.28_
+_Updated on 2026.09.29_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-28**|**TokenCake: A KV-Cache-centric Serving Framework for LLM-based Multi-Agent Applications**|Zhuohang Bian et.al.|[2510.18586_(EuroSys)](http://arxiv.org/abs/2510.18586)|
+|**2026-09-28**|**Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE**|Haozhan Tang et.al.|[2607.07740_(NeurIPS)](http://arxiv.org/abs/2607.07740)|
+|**2026-09-28**|**KV-streams for Efficient Compaction in Agentic Reinforcement Learning**|Emiliano Penaloza et.al.|[2609.35750](http://arxiv.org/abs/2609.35750)|
+|**2026-09-28**|**Tool Waiting and Re-arrival in Compile-Time-Static LLM Serving: Cost Mechanisms and Configuration Selection**|Dongkyeom Jang et.al.|[2609.34663](http://arxiv.org/abs/2609.34663)|
+|**2026-09-28**|**AgentPerfBench: A Benchmarking and Evaluation Suite for Inference Performance of Agentic LLMs**|Cheuk Hang Lau et.al.|[2609.34683](http://arxiv.org/abs/2609.34683)|
+|**2026-09-28**|**KVCMAS: Efficient KV cache Correction for Shared Context in Multi-Agent Systems**|Hyesung Jeon et.al.|[2609.34060](http://arxiv.org/abs/2609.34060)|
+|**2026-09-28**|**PReCache: Efficient KV Cache Sharing for Multi-LoRA Agents via Low-Rank Precomputation and Neutral Reconstruction**|Hyesung Jeon et.al.|[2609.34054](http://arxiv.org/abs/2609.34054)|
+|**2026-09-27**|**KVShareArena: KV-Cache Reuse Across Contexts and Model Checkpoints**|Xi Shi et.al.|[2609.10266](http://arxiv.org/abs/2609.10266)|
+|**2026-09-27**|**EfficientAgent: What Makes KV Cache Offloading Work for Concurrent Agents?**|Kunming Shao et.al.|[2609.33762](http://arxiv.org/abs/2609.33762)|
+|**2026-09-27**|**PackServe: SLO-Aware Request Scheduling for Agentic LLM Serving at Scale**|Zhiyuan Tan et.al.|[2609.33224](http://arxiv.org/abs/2609.33224)|
+|**2026-09-27**|**ORBIT: A Framework for Multi-Agent Safety and Security Evaluations**|Ben Hagag et.al.|[2609.33102](http://arxiv.org/abs/2609.33102)|
+|**2026-09-26**|**On-Demand Attention: Language Models Know When to Recall**|Haibo Feng et.al.|[2609.20734](http://arxiv.org/abs/2609.20734)|
+|**2026-09-26**|**Tessera: Demand-Driven KV Cache Management for Retrieval-Augmented LLM Serving**|Fei Fang et.al.|[2609.32999](http://arxiv.org/abs/2609.32999)|
+|**2026-09-26**|**RR-Evict: Fine-Grained Prefix Cache Eviction beyond LRU for Agentic LLM Serving**|Zaifeng Pan et.al.|[2609.32278](http://arxiv.org/abs/2609.32278)|
+|**2026-09-26**|**Prefill-Free Cross-Family KV Cache Transfer for Heterogeneous Multi-Agent LLMs**|Vincent-Daniel Yun et.al.|[2609.32259](http://arxiv.org/abs/2609.32259)|
+|**2026-09-26**|**AgentReplay: Token-Wise Trace Replay Is Essential for Fair Serving System Performance Benchmarking**|Zaifeng Pan et.al.|[2609.32283](http://arxiv.org/abs/2609.32283)|
+|**2026-09-26**|**LAM: Efficient Lossy Agent Memory Framework With A Retrieval-Score Error Bound**|Baixi Sun et.al.|[2609.32256](http://arxiv.org/abs/2609.32256)|
+|**2026-09-26**|**PastForward: Faster On-Device GUI Agents via Computational Experience Reuse**|Taehwan Park et.al.|[2609.32166](http://arxiv.org/abs/2609.32166)|
 |**2026-09-25**|**DeepEdu-v1: Efficient and Scalable Agentic LLMs for Vietnamese Education**|Quang Nguyen et.al.|[2609.31568](http://arxiv.org/abs/2609.31568)|
 |**2026-09-25**|**ActKV: Efficient LLM Agents through Action-Guided KV Cache Management**|Zihan Wang et.al.|[2609.31395](http://arxiv.org/abs/2609.31395)|
 |**2026-09-24**|**GRASP: Generating, Revising, and Assessing for Strategic Planning with Agentic AI**|Arunabh Srivastava et.al.|[2609.30147_(EMNLP)](http://arxiv.org/abs/2609.30147)|
@@ -32,7 +50,6 @@ _Updated on 2026.09.28_
 |**2026-09-18**|**Staying on the Attack Path: Structured State for Long-Horizon Automated Penetration Testing**|Weizhe Wang et.al.|[2609.07344](http://arxiv.org/abs/2609.07344)|
 |**2026-09-18**|**Synthetic Human Mobility Data Generation: A Structured Review of Representations, Methods, and Practical Capabilities**|Yanbo Pang et.al.|[2609.21413](http://arxiv.org/abs/2609.21413)|
 |**2026-09-17**|**PrefixBench-H100: Characterizing Prefix Reuse and Time-to-First-Token in H100 LLM Serving**|Omkar Shewale et.al.|[2609.19657](http://arxiv.org/abs/2609.19657)|
-|**2026-09-17**|**On-Demand Attention: Language Models Know When to Recall**|Haibo Feng et.al.|[2609.20734](http://arxiv.org/abs/2609.20734)|
 |**2026-09-16**|**Contiguity, Not Importance: Budgeted Repair of Stale KV Caches After Document Edits**|Mingyang Mao et.al.|[2609.17983](http://arxiv.org/abs/2609.17983)|
 |**2026-09-15**|**AInfer-PD: Communication-Safe In-Place Prefill-Decode Multiplexing for Distributed MoE Rollouts**|Guowei Wang et.al.|[2609.00993](http://arxiv.org/abs/2609.00993)|
 |**2026-09-15**|**End-to-End Latency-Minimizing and Load-Balanced Request Scheduling for Edge LLM Inference in Agentic AI Services**|Zhen Li et.al.|[2609.17193](http://arxiv.org/abs/2609.17193)|
@@ -50,7 +67,6 @@ _Updated on 2026.09.28_
 |**2026-09-10**|**AKTS: Sub-Microsecond Kernel Policy Switching for Language-Model Agents**|Mohammadali Khodabandehlou et.al.|[2609.12276](http://arxiv.org/abs/2609.12276)|
 |**2026-09-10**|**Serving Agentic Workflows with a Physical-Plan Compiler and Adaptive Runtime**|Jiayi Qian et.al.|[2607.02942](http://arxiv.org/abs/2607.02942)|
 |**2026-09-09**|**LatentDx: Latent Multi-Agent Communication for Cross-Hospital Rare-Disease Diagnosis**|Ziqing Wang et.al.|[2606.13945](http://arxiv.org/abs/2606.13945)|
-|**2026-09-09**|**KVShareArena: KV-Cache Reuse Across Contexts and Model Checkpoints**|Xi Shi et.al.|[2609.10266](http://arxiv.org/abs/2609.10266)|
 |**2026-09-09**|**UNISON: A Co-Designed Near-Memory Scheduler of Session KV Residency for LLM Agents**|Fan He et.al.|[2609.09643](http://arxiv.org/abs/2609.09643)|
 |**2026-09-09**|**SocialRL: Refining LLMs' Social Intelligence through Multi-turn Reinforcement Learning and Reward Design**|Jianing Wang et.al.|[2609.09764](http://arxiv.org/abs/2609.09764)|
 |**2026-09-09**|**TRACE: Trajectory-robust Admission with Evidence Ordering for Efficient GUI Agents**|Yuhao Wang et.al.|[2609.10297](http://arxiv.org/abs/2609.10297)|
@@ -92,7 +108,6 @@ _Updated on 2026.09.28_
 |**2026-08-23**|**KMGen: A Skill-based Approach for Synthetic Individual Patient Data Generation**|Jalen Jiang et.al.|[2608.22618](http://arxiv.org/abs/2608.22618)|
 |**2026-08-23**|**MCP-Universe RL: A Framework for Training MCP Tool-Use Agents via Reinforcement Learning**|Ziyang Luo et.al.|[2608.22167](http://arxiv.org/abs/2608.22167)|
 |**2026-08-22**|**When Less Latent Leads to Better Relay: Information-Preserving Compression for Latent Multi-Agent LLM Collaboration**|Yiping Li et.al.|[2604.13349](http://arxiv.org/abs/2604.13349)|
-|**2026-08-21**|**TokenCake: A KV-Cache-centric Serving Framework for LLM-based Multi-Agent Applications**|Zhuohang Bian et.al.|[2510.18586_(EuroSys)](http://arxiv.org/abs/2510.18586)|
 |**2026-08-21**|**Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements**|Zhi Zheng et.al.|[2608.17310](http://arxiv.org/abs/2608.17310)|
 |**2026-08-20**|**ReCache: Efficient KV Cache Reuse and Compression for Tool-Augmented LLM Agents**|Yichu Fang et.al.|[2608.19662](http://arxiv.org/abs/2608.19662)|
 |**2026-08-20**|**When Do LLM Agents Help? Deadline-Aware Mixed-Criticality Task Scheduling at the Autonomous-Vehicle Edge**|Reza Zakerian et.al.|[2608.19557](http://arxiv.org/abs/2608.19557)|
@@ -177,7 +192,6 @@ _Updated on 2026.09.28_
 |**2026-07-11**|**Confining Nondeterminism: AI-Driven Research Systems as DBMSs for Reliable, Non-Wasteful, Transparent, and Collaborative Research [Vision]**|Kyoungmin Kim et.al.|[2607.10508](http://arxiv.org/abs/2607.10508)|
 |**2026-07-10**|**KV-PRM: Efficient Process Reward Modeling via KV-Cache Transfer for Multi-Agent Test-Time Scaling**|Peng Kuang et.al.|[2607.09153](http://arxiv.org/abs/2607.09153)|
 |**2026-07-10**|**Fictional Worldbuilding: Multi-Agent LLM Collaboration with Hierarchical Context Compression and Iterative Review**|Jingbo Chen et.al.|[2607.09403](http://arxiv.org/abs/2607.09403)|
-|**2026-07-10**|**Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE**|Haozhan Tang et.al.|[2607.07740_(ACL)](http://arxiv.org/abs/2607.07740)|
 |**2026-07-09**|**StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling**|Meng Wei et.al.|[2507.05240_(ICRA)](http://arxiv.org/abs/2507.05240)|
 |**2026-07-09**|**What to Keep, What to Forget: A Rate--Distortion View of Memory Compaction in LLMs and Agents**|Ashwin Gerard Colaco et.al.|[2607.08032](http://arxiv.org/abs/2607.08032)|
 |**2026-07-09**|**MORES: Mobile Reasoning-as-a-Service via Distributed LLM Inference-Time Scaling**|Guanchen Liu et.al.|[2607.08116](http://arxiv.org/abs/2607.08116)|

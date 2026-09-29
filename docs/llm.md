@@ -6,10 +6,30 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.09.28_
+_Updated on 2026.09.29_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-28**|**Memory-Efficient Looped Transformer: Decoupling Compute from Memory in Looped Language Models**|Victor Conchello Vendrell et.al.|[2605.07721](http://arxiv.org/abs/2605.07721)|
+|**2026-09-28**|**Cartridges++: KV Cache Compression without Off-Context Derailment**|Sonia Laguna et.al.|[2609.35621](http://arxiv.org/abs/2609.35621)|
+|**2026-09-28**|**TempoKV: Timely Staging of LLM KV Caches for Memory-Semantic Flash**|Jay H. Park et.al.|[2609.35065](http://arxiv.org/abs/2609.35065)|
+|**2026-09-28**|**Dynamic Flow, Static Graph: KV Cache Reuse for Efficient LLM Serving on Mobile NPUs**|Zhengxiang Huang et.al.|[2609.34727_(EuroSys)](http://arxiv.org/abs/2609.34727)|
+|**2026-09-28**|**Tool Waiting and Re-arrival in Compile-Time-Static LLM Serving: Cost Mechanisms and Configuration Selection**|Dongkyeom Jang et.al.|[2609.34663](http://arxiv.org/abs/2609.34663)|
+|**2026-09-28**|**PulseInfer: I/O-Centric Sparse KV Cache Offloading for Efficient Long-Context LLM Decoding**|Qiuyang Zhang et.al.|[2609.34555](http://arxiv.org/abs/2609.34555)|
+|**2026-09-28**|**DPS: Dual-Mode Precision LLM Serving with Semi-Unified Memory**|Xuan Truong Nguyen et.al.|[2609.34380](http://arxiv.org/abs/2609.34380)|
+|**2026-09-28**|**Spexis: Speculative Lookahead Scheduling for LLM Inference**|Hyungyu Jung et.al.|[2609.34370_(EMNLP)](http://arxiv.org/abs/2609.34370)|
+|**2026-09-28**|**CacheRepair: Learning to Repair Cross-Chunk Context in RAG for KV Cache Fusion**|Genglin Wang et.al.|[2609.35139](http://arxiv.org/abs/2609.35139)|
+|**2026-09-27**|**Tackling the Data-Parallel Load Balancing Bottleneck in LLM Serving: Practical Online Routing at Scale**|Tianci Bu et.al.|[2605.06113](http://arxiv.org/abs/2605.06113)|
+|**2026-09-27**|**InferScale: GPU-Native KV Injection for Personalized LLM Serving**|Peter Li et.al.|[2607.27090](http://arxiv.org/abs/2607.27090)|
+|**2026-09-27**|**KVShareArena: KV-Cache Reuse Across Contexts and Model Checkpoints**|Xi Shi et.al.|[2609.10266](http://arxiv.org/abs/2609.10266)|
+|**2026-09-27**|**EfficientAgent: What Makes KV Cache Offloading Work for Concurrent Agents?**|Kunming Shao et.al.|[2609.33762](http://arxiv.org/abs/2609.33762)|
+|**2026-09-27**|**Does Execution Require Target KV Fidelity? A Mixed-Fidelity KV Runtime for LLM Serving**|Jiantong Jiang et.al.|[2609.33536](http://arxiv.org/abs/2609.33536)|
+|**2026-09-27**|**Just Let Linear States Forget the Distant Past: Prefix Caching via Suffix Replay for Hybrid LLMs**|Yirui Liu et.al.|[2609.33477](http://arxiv.org/abs/2609.33477)|
+|**2026-09-27**|**Resource-Efficient Speculative Decoding for Long-Context LLM Serving**|Fei Li et.al.|[2609.33184](http://arxiv.org/abs/2609.33184)|
+|**2026-09-27**|**Splitting Prompt Prefill from Response Replay for Context-Parallel Long-Context LLM Post-Training**|Yubing Bao et.al.|[2609.33133](http://arxiv.org/abs/2609.33133)|
+|**2026-09-26**|**Tessera: Demand-Driven KV Cache Management for Retrieval-Augmented LLM Serving**|Fei Fang et.al.|[2609.32999](http://arxiv.org/abs/2609.32999)|
+|**2026-09-26**|**RR-Evict: Fine-Grained Prefix Cache Eviction beyond LRU for Agentic LLM Serving**|Zaifeng Pan et.al.|[2609.32278](http://arxiv.org/abs/2609.32278)|
+|**2026-09-26**|**Distance-KV: Exploiting Relative Distance for Efficient Long-Context Inference**|Xianpeng Shang et.al.|[2609.32663](http://arxiv.org/abs/2609.32663)|
 |**2026-09-25**|**DeepEdu-v1: Efficient and Scalable Agentic LLMs for Vietnamese Education**|Quang Nguyen et.al.|[2609.31568](http://arxiv.org/abs/2609.31568)|
 |**2026-09-25**|**ActKV: Efficient LLM Agents through Action-Guided KV Cache Management**|Zihan Wang et.al.|[2609.31395](http://arxiv.org/abs/2609.31395)|
 |**2026-09-25**|**The KV Cache Is the New Memory Wall**|Tejinder Singh et.al.|[2609.30854](http://arxiv.org/abs/2609.30854)|
@@ -41,6 +61,7 @@ _Updated on 2026.09.28_
 |**2026-09-16**|**HBFlex: A Flexible Memory System for Bridging Fine-Grained LLM States and Coarse-Grained HBF Parallel Execution**|Shuzhang Zhong et.al.|[2609.18675](http://arxiv.org/abs/2609.18675)|
 |**2026-09-16**|**Token Latency Fairness: Performance Isolation for Multi-Tenant LLM Serving**|Dev Bali et.al.|[2609.18112](http://arxiv.org/abs/2609.18112)|
 |**2026-09-16**|**ASPIRE: Asynchronous Batched Self-Speculative Decoding for Long-Context LLM Inference**|Amir Ziashahabi et.al.|[2609.17943](http://arxiv.org/abs/2609.17943)|
+|**2026-09-16**|**When Keywords Drop but Classifiers Hold: Soft Refusals under KV Cache Compression**|Kang Chen et.al.|[2609.31678](http://arxiv.org/abs/2609.31678)|
 |**2026-09-15**|**Can LLMs Model Incorrect Student Reasoning? A Case Study on Distractor Generation**|Yanick Zengaffinen et.al.|[2603.15547_(EMNLP)](http://arxiv.org/abs/2603.15547)|
 |**2026-09-15**|**Comparative Characterization of KV Cache Management Strategies for LLM Inference**|Oteo Mamo et.al.|[2604.05012](http://arxiv.org/abs/2604.05012)|
 |**2026-09-15**|**Early-Bird Decoding: Accelerating Diffusion LLMs with Learnable Block Sizes and Parallel Sampling**|Lixuan Wei et.al.|[2609.16450](http://arxiv.org/abs/2609.16450)|
@@ -63,7 +84,6 @@ _Updated on 2026.09.28_
 |**2026-09-10**|**FlexComp: One Model for Every Ratio in Context Compression**|Kaiyan Zhao et.al.|[2609.11192](http://arxiv.org/abs/2609.11192)|
 |**2026-09-10**|**Building py-kvcache: A Performance Characterization of External KV Caching for vLLM with NVMe SSDs**|Joseph Kanichai et.al.|[2609.11744](http://arxiv.org/abs/2609.11744)|
 |**2026-09-09**|**LatentDx: Latent Multi-Agent Communication for Cross-Hospital Rare-Disease Diagnosis**|Ziqing Wang et.al.|[2606.13945](http://arxiv.org/abs/2606.13945)|
-|**2026-09-09**|**KVShareArena: KV-Cache Reuse Across Contexts and Model Checkpoints**|Xi Shi et.al.|[2609.10266](http://arxiv.org/abs/2609.10266)|
 |**2026-09-09**|**UNISON: A Co-Designed Near-Memory Scheduler of Session KV Residency for LLM Agents**|Fan He et.al.|[2609.09643](http://arxiv.org/abs/2609.09643)|
 |**2026-09-09**|**Composable CXL Memory as a Kubernetes-Native Shared Memory for LLM Serving**|Hongjian Fan et.al.|[2609.10790](http://arxiv.org/abs/2609.10790)|
 |**2026-09-08**|**BIO-MEMART: Biometric-Aware KV Cache Memory for Multi-User LLM Agents**|Yanhong Qian et.al.|[2609.08566](http://arxiv.org/abs/2609.08566)|
@@ -163,7 +183,6 @@ _Updated on 2026.09.28_
 |**2026-07-30**|**Agentic Coding in the Wild: Characterizing GitHub Copilot Traces at Production Scale**|Banruo Liu et.al.|[2608.00101](http://arxiv.org/abs/2608.00101)|
 |**2026-07-30**|**GroupKV: Hierarchical KV Cache Management for Long-Context Diffusion LLM Inference**|Jinhao Wang et.al.|[2609.17573](http://arxiv.org/abs/2609.17573)|
 |**2026-07-29**|**GORGO: Online Tuning for Cross-Region Network-Aware LLM Serving**|Alessio Ricci Toniolo et.al.|[2602.11688](http://arxiv.org/abs/2602.11688)|
-|**2026-07-29**|**InferScale: GPU-Native KV Injection for Personalized LLM Serving**|Peter Li et.al.|[2607.27090](http://arxiv.org/abs/2607.27090)|
 |**2026-07-29**|**DualDecoder: Accelerate Long Context LLM Inference by Predictive Prefetch**|Zuning Liang et.al.|[2607.26475](http://arxiv.org/abs/2607.26475)|
 |**2026-07-29**|**A Photonic-CXL Memory Appliance for Scalable KV Cache Management in LLM Inference**|Jing Ding et.al.|[2607.27187](http://arxiv.org/abs/2607.27187)|
 |**2026-07-27**|**KAP: Bridging the Knowledge Selection-Runtime Consumption Gap in LLM Systems**|Shuo Wang et.al.|[2607.24260](http://arxiv.org/abs/2607.24260)|
@@ -327,7 +346,6 @@ _Updated on 2026.09.28_
 |**2026-05-20**|**Adaptive KV Cache Reuse for Fast Long-Context LLM Serving**|Fei li et.al.|[2605.24022_(CHI)](http://arxiv.org/abs/2605.24022)|
 |**2026-05-20**|**Evaluating Temporal Semantic Caching and Workflow Optimization in Agentic Plan-Execute Pipelines**|Alimurtaza Mustafa Merchant et.al.|[2605.20630](http://arxiv.org/abs/2605.20630)|
 |**2026-05-20**|**Runtime-Certified Bounded-Error Quantized Attention**|Dean Calver et.al.|[2605.20868](http://arxiv.org/abs/2605.20868)|
-|**2026-05-19**|**Memory-Efficient Looped Transformer: Decoupling Compute from Memory in Looped Language Models**|Victor Conchello Vendrell et.al.|[2605.07721](http://arxiv.org/abs/2605.07721)|
 |**2026-05-19**|**Understanding Inference Scaling for LLMs: Bottlenecks, Trade-offs, and Performance Principles**|Moiz Arif et.al.|[2605.19775_(CHI)](http://arxiv.org/abs/2605.19775)|
 |**2026-05-19**|**OScaR: The Occam's Razor for Extreme KV Cache Quantization in LLMs and Beyond**|Zunhai Su et.al.|[2605.19660](http://arxiv.org/abs/2605.19660)|
 |**2026-05-18**|**SuperInfer: SLO-Aware Rotary Scheduling and Memory Management for LLM Inference on Superchips**|Jiahuan Yu et.al.|[2601.20309](http://arxiv.org/abs/2601.20309)|
@@ -359,7 +377,6 @@ _Updated on 2026.09.28_
 |**2026-05-09**|**Memory Inception: Latent-Space KV Cache Manipulation for Steering LLMs**|Andy Zeyi Liu et.al.|[2605.06225](http://arxiv.org/abs/2605.06225)|
 |**2026-05-09**|**PRISM: Fast Online LLM Serving via Scheduling-Memory Co-design**|Xingyu Qu et.al.|[2605.08581](http://arxiv.org/abs/2605.08581)|
 |**2026-05-09**|**Relative Kinetic Utility for Reasoning-Aware Structural Pruning in Large Language Models**|Tianhao Qian et.al.|[2605.09008](http://arxiv.org/abs/2605.09008)|
-|**2026-05-08**|**Tackling the Data-Parallel Load Balancing Bottleneck in LLM Serving: Practical Online Routing at Scale**|Tianci Bu et.al.|[2605.06113](http://arxiv.org/abs/2605.06113)|
 |**2026-05-08**|**RcLLM: Accelerating Generative Recommendation via Beyond-Prefix KV Caching**|Zhan Zhao et.al.|[2605.07443_(ICDCS)](http://arxiv.org/abs/2605.07443)|
 |**2026-05-08**|**WiCER: Wiki-memory Compile, Evaluate, Refine Iterative Knowledge Compilation for LLM Wiki Systems**|Juan M. Huerta et.al.|[2605.07068](http://arxiv.org/abs/2605.07068)|
 |**2026-05-08**|**STARFlow2: Bridging Language Models and Normalizing Flows for Unified Multimodal Generation**|Ying Shen et.al.|[2605.08029](http://arxiv.org/abs/2605.08029)|

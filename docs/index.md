@@ -6,10 +6,17 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.09.28_
+_Updated on 2026.09.29_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-28**|**CacheRepair: Learning to Repair Cross-Chunk Context in RAG for KV Cache Fusion**|Genglin Wang et.al.|[2609.35139](http://arxiv.org/abs/2609.35139)|
+|**2026-09-28**|**ConRAG: Lightweight inference of multi-hop relations**|Kilian Bänziger et.al.|[2609.35193](http://arxiv.org/abs/2609.35193)|
+|**2026-09-27**|**KVShareArena: KV-Cache Reuse Across Contexts and Model Checkpoints**|Xi Shi et.al.|[2609.10266](http://arxiv.org/abs/2609.10266)|
+|**2026-09-26**|**Tessera: Demand-Driven KV Cache Management for Retrieval-Augmented LLM Serving**|Fei Fang et.al.|[2609.32999](http://arxiv.org/abs/2609.32999)|
+|**2026-09-26**|**CacheFlow: Efficient LLM Serving via Automated 3D-Parallel KV Cache Restoration**|Sean Nian et.al.|[2604.25080](http://arxiv.org/abs/2604.25080)|
+|**2026-09-26**|**HyperReCo: Retrieving and Connecting Evidence with Hypergraph Neural Networks for LLM Multi-hop Reasoning**|Zicheng Zhao et.al.|[2609.32327](http://arxiv.org/abs/2609.32327)|
+|**2026-09-25**|**EngramRAG: Dynamic Usage-Weighted Topology and Synaptic Consolidation for Multi-Hop Agentic Memory**|Bhavyateja Potineni et.al.|[2609.32049](http://arxiv.org/abs/2609.32049)|
 |**2026-09-24**|**Asymmetric Dynamic Routing: Balancing Reasoning Depth and Computational Efficiency in Hypergraph RAG**|Qi Sun et.al.|[2609.29282](http://arxiv.org/abs/2609.29282)|
 |**2026-09-23**|**From Document Silos to Process Intelligence: A Multi-Layer Knowledge Graph for CMC Process Development**|Reza Amirmoshiri et.al.|[2609.11493](http://arxiv.org/abs/2609.11493)|
 |**2026-09-22**|**LEGO: Synergizing Expert GraphRAG and Expert Chain-of-Thought for Legal Reasoning**|Qingjing Chen et.al.|[2609.27009_(EMNLP)](http://arxiv.org/abs/2609.27009)|
