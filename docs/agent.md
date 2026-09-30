@@ -6,17 +6,23 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.09.29_
+_Updated on 2026.09.30_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-29**|**Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE**|Haozhan Tang et.al.|[2607.07740_(DATE)](http://arxiv.org/abs/2607.07740)|
+|**2026-09-29**|**KV-streams for Efficient Compaction in Agentic Reinforcement Learning**|Emiliano Penaloza et.al.|[2609.35750](http://arxiv.org/abs/2609.35750)|
+|**2026-09-29**|**SPLASH: Switching Parallel Layouts of Attention with Seamless Handoff for LLM Serving**|Chuan Liu et.al.|[2609.37626](http://arxiv.org/abs/2609.37626)|
+|**2026-09-29**|**Efficient Agentic LLM Serving over SSD-based Sparse KV Storage**|Wenhao He et.al.|[2609.36938](http://arxiv.org/abs/2609.36938)|
+|**2026-09-29**|**ATTUNER: Recomputation-Free KV Cache Reuse via Query-Side Adaptation**|Xinghao Chen et.al.|[2609.36722](http://arxiv.org/abs/2609.36722)|
+|**2026-09-29**|**LLM-Based Multi-Agent Systems over Wireless Networks: A Joint Agent--Network Design Perspective**|Chao Hu et.al.|[2609.37094](http://arxiv.org/abs/2609.37094)|
 |**2026-09-28**|**TokenCake: A KV-Cache-centric Serving Framework for LLM-based Multi-Agent Applications**|Zhuohang Bian et.al.|[2510.18586_(EuroSys)](http://arxiv.org/abs/2510.18586)|
-|**2026-09-28**|**Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE**|Haozhan Tang et.al.|[2607.07740_(NeurIPS)](http://arxiv.org/abs/2607.07740)|
-|**2026-09-28**|**KV-streams for Efficient Compaction in Agentic Reinforcement Learning**|Emiliano Penaloza et.al.|[2609.35750](http://arxiv.org/abs/2609.35750)|
+|**2026-09-28**|**XBridge: Entity-Grounded Latent Bridge for Heterogeneous LLM Communication**|Wooseong Yang et.al.|[2608.11676_(NeurIPS)](http://arxiv.org/abs/2608.11676)|
 |**2026-09-28**|**Tool Waiting and Re-arrival in Compile-Time-Static LLM Serving: Cost Mechanisms and Configuration Selection**|Dongkyeom Jang et.al.|[2609.34663](http://arxiv.org/abs/2609.34663)|
 |**2026-09-28**|**AgentPerfBench: A Benchmarking and Evaluation Suite for Inference Performance of Agentic LLMs**|Cheuk Hang Lau et.al.|[2609.34683](http://arxiv.org/abs/2609.34683)|
 |**2026-09-28**|**KVCMAS: Efficient KV cache Correction for Shared Context in Multi-Agent Systems**|Hyesung Jeon et.al.|[2609.34060](http://arxiv.org/abs/2609.34060)|
 |**2026-09-28**|**PReCache: Efficient KV Cache Sharing for Multi-LoRA Agents via Low-Rank Precomputation and Neutral Reconstruction**|Hyesung Jeon et.al.|[2609.34054](http://arxiv.org/abs/2609.34054)|
+|**2026-09-28**|**Systematic Multi-Agent Vision-and-Language Navigation: Formulation, Benchmark, and Method**|Yunzhe Xu et.al.|[2609.35965](http://arxiv.org/abs/2609.35965)|
 |**2026-09-27**|**KVShareArena: KV-Cache Reuse Across Contexts and Model Checkpoints**|Xi Shi et.al.|[2609.10266](http://arxiv.org/abs/2609.10266)|
 |**2026-09-27**|**EfficientAgent: What Makes KV Cache Offloading Work for Concurrent Agents?**|Kunming Shao et.al.|[2609.33762](http://arxiv.org/abs/2609.33762)|
 |**2026-09-27**|**PackServe: SLO-Aware Request Scheduling for Agentic LLM Serving at Scale**|Zhiyuan Tan et.al.|[2609.33224](http://arxiv.org/abs/2609.33224)|
@@ -126,7 +132,6 @@ _Updated on 2026.09.29_
 |**2026-08-15**|**P-PAS: Prefill-Pressure Adaptive Scheduling for Long-Context LLM Serving**|Timo Sämann et.al.|[2608.15171](http://arxiv.org/abs/2608.15171)|
 |**2026-08-15**|**When Does Distributed AI Inference Need More Wide-Area Bandwidth? A Co-Design Evaluation of Optical, Packet, and Software Levers**|Prasanna C et.al.|[2608.14967](http://arxiv.org/abs/2608.14967)|
 |**2026-08-13**|**VoiceChat-TTS: A Low-Latency Continuous Speech Synthesis Model for Interactive Agents**|Edresson Casanova et.al.|[2608.13831](http://arxiv.org/abs/2608.13831)|
-|**2026-08-12**|**XBridge: Entity-Grounded Latent Bridge for Heterogeneous LLM Communication**|Wooseong Yang et.al.|[2608.11676](http://arxiv.org/abs/2608.11676)|
 |**2026-08-11**|**A Fast Locality Simulator for GEMM Design-Space Exploration on Multi-Chiplet GPUs**|Euijun Chung et.al.|[2606.11716](http://arxiv.org/abs/2606.11716)|
 |**2026-08-11**|**Scheduling Mixed RL Rollouts Beyond Prefix Locality**|Zetao Hong et.al.|[2608.11152](http://arxiv.org/abs/2608.11152)|
 |**2026-08-11**|**TideRL: Boosting Agentic RL Goodput with Readiness-Aware Scheduling**|Yanyu Ren et.al.|[2608.10402](http://arxiv.org/abs/2608.10402)|

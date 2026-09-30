@@ -6,11 +6,18 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.09.29_
+_Updated on 2026.09.30_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-29**|**Adaptive Mass-Segmented KV Compression for Long-Context Reasoning**|Junzhe Yang et.al.|[2605.23200_(NeurIPS)](http://arxiv.org/abs/2605.23200)|
+|**2026-09-29**|**SPLASH: Switching Parallel Layouts of Attention with Seamless Handoff for LLM Serving**|Chuan Liu et.al.|[2609.37626](http://arxiv.org/abs/2609.37626)|
+|**2026-09-29**|**AVSG: Accelerated Vectorized Sparse Gather for Efficient KV Cache Offload in Sparse-Attention LLM Serving**|Wenwei Kuang et.al.|[2609.37538](http://arxiv.org/abs/2609.37538)|
+|**2026-09-29**|**vSkipper: Translating Dynamic Layer Skipping into LLM Serving Gains**|Wei Da et.al.|[2609.37062](http://arxiv.org/abs/2609.37062)|
+|**2026-09-29**|**Efficient Agentic LLM Serving over SSD-based Sparse KV Storage**|Wenhao He et.al.|[2609.36938](http://arxiv.org/abs/2609.36938)|
+|**2026-09-29**|**KV-Kaizen: Learning Context-Adaptive Cache Compression Choices**|Joao Monteiro et.al.|[2609.37988](http://arxiv.org/abs/2609.37988)|
 |**2026-09-28**|**Memory-Efficient Looped Transformer: Decoupling Compute from Memory in Looped Language Models**|Victor Conchello Vendrell et.al.|[2605.07721](http://arxiv.org/abs/2605.07721)|
+|**2026-09-28**|**XBridge: Entity-Grounded Latent Bridge for Heterogeneous LLM Communication**|Wooseong Yang et.al.|[2608.11676_(NeurIPS)](http://arxiv.org/abs/2608.11676)|
 |**2026-09-28**|**Cartridges++: KV Cache Compression without Off-Context Derailment**|Sonia Laguna et.al.|[2609.35621](http://arxiv.org/abs/2609.35621)|
 |**2026-09-28**|**TempoKV: Timely Staging of LLM KV Caches for Memory-Semantic Flash**|Jay H. Park et.al.|[2609.35065](http://arxiv.org/abs/2609.35065)|
 |**2026-09-28**|**Dynamic Flow, Static Graph: KV Cache Reuse for Efficient LLM Serving on Mobile NPUs**|Zhengxiang Huang et.al.|[2609.34727_(EuroSys)](http://arxiv.org/abs/2609.34727)|
@@ -143,7 +150,6 @@ _Updated on 2026.09.29_
 |**2026-08-14**|**Beyond Capacity: Scalable MoE LLM Inference via High-Bandwidth Flash with Direct GPU and HBM Paths**|Seeyeon Kim et.al.|[2608.14333](http://arxiv.org/abs/2608.14333)|
 |**2026-08-14**|**A Tight Linear Deterministic Competitive Ratio for Fully Online KV-Cache Scheduling**|Ian D'Ambrosio et.al.|[2608.16944_(CHI)](http://arxiv.org/abs/2608.16944)|
 |**2026-08-12**|**Luna-TTS Family Technical Report**|Feng Yin et.al.|[2608.11593](http://arxiv.org/abs/2608.11593)|
-|**2026-08-12**|**XBridge: Entity-Grounded Latent Bridge for Heterogeneous LLM Communication**|Wooseong Yang et.al.|[2608.11676](http://arxiv.org/abs/2608.11676)|
 |**2026-08-11**|**Scheduling Mixed RL Rollouts Beyond Prefix Locality**|Zetao Hong et.al.|[2608.11152](http://arxiv.org/abs/2608.11152)|
 |**2026-08-11**|**ImpactHO: Importance-Aware KV Cache Transfer for Multi-User Edge LLM Handover**|Minwoo Kim et.al.|[2608.10545](http://arxiv.org/abs/2608.10545)|
 |**2026-08-10**|**Governing the KV Cache: Preventing Timing Side-Channel Leakage in Multi-Tenant LLM Inference**|Tejasvi C. Addagada et.al.|[2608.09225_(SC)](http://arxiv.org/abs/2608.09225)|
@@ -333,7 +339,6 @@ _Updated on 2026.09.29_
 |**2026-05-24**|**Kavier: Exploring Performance, Sustainability, and Efficiency of LLM Ecosystems under Inference through Cache-Aware Discrete-Event Simulation**|Radu Nicolae et.al.|[2605.25247](http://arxiv.org/abs/2605.25247)|
 |**2026-05-22**|**CachePrune: Privacy-Aware and Fine-Grained KV Cache Sharing for Efficient LLM Inference**|Guanlong Wu et.al.|[2605.23640](http://arxiv.org/abs/2605.23640)|
 |**2026-05-22**|**AlignedServe: Orchestrating Prefix-aware Batching to Build a High-throughput and Computing-efficient LLM Serving System**|Fengyao Bai et.al.|[2605.23389](http://arxiv.org/abs/2605.23389)|
-|**2026-05-22**|**Adaptive Mass-Segmented KV Compression for Long-Context Reasoning**|Junzhe Yang et.al.|[2605.23200](http://arxiv.org/abs/2605.23200)|
 |**2026-05-21**|**CacheClip: Accelerating RAG with Effective KV Cache Reuse**|Bin Yang et.al.|[2510.10129](http://arxiv.org/abs/2510.10129)|
 |**2026-05-21**|**GraphFlow: A Graph-Based Workflow Management for Efficient LLM-Agent Serving**|Ao Li et.al.|[2605.22566_(ICML)](http://arxiv.org/abs/2605.22566)|
 |**2026-05-21**|**MuKV: Multi-Grained KV Cache Compression for Long Streaming Video Question-Answering**|Junbin Xiao et.al.|[2605.22269_(CVPR)](http://arxiv.org/abs/2605.22269)|

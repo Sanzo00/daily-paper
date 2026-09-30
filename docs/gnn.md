@@ -6,10 +6,12 @@ nav_order: 3
 
 # GNN Papers
 
-_Updated on 2026.09.29_
+_Updated on 2026.09.30_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-29**|**BandPC: Learning Residual-Band Preconditioner Combinations for Flexible Conjugate Gradient Solvers**|D. M. Li et.al.|[2609.37140](http://arxiv.org/abs/2609.37140)|
+|**2026-09-28**|**Scalable Heterogeneous Graph Foundation Models for Data-Driven Optimal Power Flow in Smart Grids**|Massimiliano Lupo Pasini et.al.|[2605.23194](http://arxiv.org/abs/2605.23194)|
 |**2026-09-23**|**A Scalable Multi-Robot Framework for Decentralized and Asynchronous Perception-Action-Communication Loops**|Saurav Agarwal et.al.|[2309.10164](http://arxiv.org/abs/2309.10164)|
 |**2026-09-21**|**Reforge: Low-Latency Distributed GNN Serving with Selective Embedding Recomputation**|Geon-Woo Kim et.al.|[2501.08547_(IPDPS)](http://arxiv.org/abs/2501.08547)|
 |**2026-09-19**|**Sharing a Fabric with Collective Communication: Two Storage Penalties in Deep Learning Training**|Chen Wang et.al.|[2609.06506](http://arxiv.org/abs/2609.06506)|
