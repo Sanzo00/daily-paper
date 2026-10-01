@@ -6,16 +6,25 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.09.30_
+_Updated on 2026.10.01_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-30**|**JustFit: Just-in-Time State Management for Local LLM Serving**|Yuhua Chen et.al.|[2609.17475](http://arxiv.org/abs/2609.17475)|
+|**2026-09-30**|**KV-Kaizen: Learning Context-Adaptive Cache Compression Choices**|Joao Monteiro et.al.|[2609.37988](http://arxiv.org/abs/2609.37988)|
+|**2026-09-30**|**Capture the lifecycle: KV Cache management in ReAct Agents with KVTether**|Kaihua Fu et.al.|[2609.39819](http://arxiv.org/abs/2609.39819)|
+|**2026-09-30**|**Working Around the Compute Ceiling: Byte-Exact Memory in Galahad Makes LLM Reading a One-Time Cost LLM Reading a One-Time Cost**|Sietse Schelpe et.al.|[2609.39358](http://arxiv.org/abs/2609.39358)|
+|**2026-09-30**|**PatchKV: Weight-Space Compensation of KV Cache**|Chanryeol Lee et.al.|[2609.39329_(ATC)](http://arxiv.org/abs/2609.39329)|
+|**2026-09-30**|**Characterizing High Bandwidth Flash for LLM Serving**|Zack Yu et.al.|[2609.39131](http://arxiv.org/abs/2609.39131)|
+|**2026-09-30**|**SparseEngine: Sparse-First Inference Engine**|Jitai Hao et.al.|[2609.39068](http://arxiv.org/abs/2609.39068)|
+|**2026-09-30**|**Preserving Provenance in Shared KV Caches for LLM Serving**|Wei Song et.al.|[2609.38706](http://arxiv.org/abs/2609.38706)|
+|**2026-09-30**|**Vosti: Specifying, Implementing, and Verifying Deterministic LLM Inference**|Jianxing Qin et.al.|[2609.38981](http://arxiv.org/abs/2609.38981)|
 |**2026-09-29**|**Adaptive Mass-Segmented KV Compression for Long-Context Reasoning**|Junzhe Yang et.al.|[2605.23200_(NeurIPS)](http://arxiv.org/abs/2605.23200)|
 |**2026-09-29**|**SPLASH: Switching Parallel Layouts of Attention with Seamless Handoff for LLM Serving**|Chuan Liu et.al.|[2609.37626](http://arxiv.org/abs/2609.37626)|
 |**2026-09-29**|**AVSG: Accelerated Vectorized Sparse Gather for Efficient KV Cache Offload in Sparse-Attention LLM Serving**|Wenwei Kuang et.al.|[2609.37538](http://arxiv.org/abs/2609.37538)|
 |**2026-09-29**|**vSkipper: Translating Dynamic Layer Skipping into LLM Serving Gains**|Wei Da et.al.|[2609.37062](http://arxiv.org/abs/2609.37062)|
 |**2026-09-29**|**Efficient Agentic LLM Serving over SSD-based Sparse KV Storage**|Wenhao He et.al.|[2609.36938](http://arxiv.org/abs/2609.36938)|
-|**2026-09-29**|**KV-Kaizen: Learning Context-Adaptive Cache Compression Choices**|Joao Monteiro et.al.|[2609.37988](http://arxiv.org/abs/2609.37988)|
+|**2026-09-29**|**ORACLE: Agentic AI Orchestrator Routing Via Adaptive Verifier Calibration Feedback**|Ritik Raj et.al.|[2607.22465](http://arxiv.org/abs/2607.22465)|
 |**2026-09-28**|**Memory-Efficient Looped Transformer: Decoupling Compute from Memory in Looped Language Models**|Victor Conchello Vendrell et.al.|[2605.07721](http://arxiv.org/abs/2605.07721)|
 |**2026-09-28**|**XBridge: Entity-Grounded Latent Bridge for Heterogeneous LLM Communication**|Wooseong Yang et.al.|[2608.11676_(NeurIPS)](http://arxiv.org/abs/2608.11676)|
 |**2026-09-28**|**Cartridges++: KV Cache Compression without Off-Context Derailment**|Sonia Laguna et.al.|[2609.35621](http://arxiv.org/abs/2609.35621)|
@@ -56,7 +65,6 @@ _Updated on 2026.09.30_
 |**2026-09-21**|**Agentic AI Workload Characteristics**|Yichao Yuan et.al.|[2605.26297_(ISWC)](http://arxiv.org/abs/2605.26297)|
 |**2026-09-21**|**ARM: Attention with Routed-Memory for Learnable Sparse Control**|Qiuhao Zeng et.al.|[2609.24417_(CHI)](http://arxiv.org/abs/2609.24417)|
 |**2026-09-21**|**Who Pays for the KV Cache? Attributing Shared AI Inference Spend Across Kubernetes and LLM Provider Bills**|Timothy Urista et.al.|[2609.24991_(DIS)](http://arxiv.org/abs/2609.24991)|
-|**2026-09-20**|**JustFit: Just-in-Time State Management for Local LLM Serving**|Yuhua Chen et.al.|[2609.17475](http://arxiv.org/abs/2609.17475)|
 |**2026-09-20**|**SPLASH: Co-Designing Sparse Attention with High-Bandwidth Flash for Efficient Long-Context Inference**|Aditya Anirudh Jonnalagadda et.al.|[2609.23816](http://arxiv.org/abs/2609.23816)|
 |**2026-09-20**|**Bridging LLM Serving and CXL-SSDs with Chunk-Aware KV Cache Management**|Hyunsun Chung et.al.|[2609.26828](http://arxiv.org/abs/2609.26828)|
 |**2026-09-19**|**Stage-Aware Communication Scheduling for Disaggregated LLM Serving**|Yijun Sun et.al.|[2603.17456](http://arxiv.org/abs/2603.17456)|

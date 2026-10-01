@@ -6,16 +6,28 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.09.30_
+_Updated on 2026.10.01_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-30**|**JustFit: Just-in-Time State Management for Local LLM Serving**|Yuhua Chen et.al.|[2609.17475](http://arxiv.org/abs/2609.17475)|
+|**2026-09-30**|**Persistent Context Graphs for Efficient Memory Compaction in LLM Agents**|Jingbo Yang et.al.|[2609.40118](http://arxiv.org/abs/2609.40118)|
+|**2026-09-30**|**Capture the lifecycle: KV Cache management in ReAct Agents with KVTether**|Kaihua Fu et.al.|[2609.39819](http://arxiv.org/abs/2609.39819)|
+|**2026-09-30**|**Characterizing High Bandwidth Flash for LLM Serving**|Zack Yu et.al.|[2609.39131](http://arxiv.org/abs/2609.39131)|
+|**2026-09-30**|**SparseEngine: Sparse-First Inference Engine**|Jitai Hao et.al.|[2609.39068](http://arxiv.org/abs/2609.39068)|
+|**2026-09-30**|**Resource-Efficient Semantic Communication for Heterogeneous Agentic Teams**|Farhad Rezazadeh et.al.|[2609.39477](http://arxiv.org/abs/2609.39477)|
+|**2026-09-30**|**CamAgent: An LLM-Agent Framework for Multi-Species Camera-Trap Workflows**|Yutong Deng et.al.|[2609.39112](http://arxiv.org/abs/2609.39112)|
+|**2026-09-30**|**Can Agents Trust Their Skills? Uncovering Unsafe Chains of Trust in Skill-Based LLM Agents**|Yan Wang et.al.|[2609.39065](http://arxiv.org/abs/2609.39065)|
+|**2026-09-30**|**DAMP: Decay-Aware Mixed-Precision Recurrent-State Quantization**|Tao Zhang et.al.|[2608.27513](http://arxiv.org/abs/2608.27513)|
 |**2026-09-29**|**Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE**|Haozhan Tang et.al.|[2607.07740_(DATE)](http://arxiv.org/abs/2607.07740)|
 |**2026-09-29**|**KV-streams for Efficient Compaction in Agentic Reinforcement Learning**|Emiliano Penaloza et.al.|[2609.35750](http://arxiv.org/abs/2609.35750)|
+|**2026-09-29**|**Prefill-Free Cross-Family KV Cache Transfer for Heterogeneous Multi-Agent LLMs**|Vincent-Daniel Yun et.al.|[2609.32259](http://arxiv.org/abs/2609.32259)|
 |**2026-09-29**|**SPLASH: Switching Parallel Layouts of Attention with Seamless Handoff for LLM Serving**|Chuan Liu et.al.|[2609.37626](http://arxiv.org/abs/2609.37626)|
 |**2026-09-29**|**Efficient Agentic LLM Serving over SSD-based Sparse KV Storage**|Wenhao He et.al.|[2609.36938](http://arxiv.org/abs/2609.36938)|
 |**2026-09-29**|**ATTUNER: Recomputation-Free KV Cache Reuse via Query-Side Adaptation**|Xinghao Chen et.al.|[2609.36722](http://arxiv.org/abs/2609.36722)|
 |**2026-09-29**|**LLM-Based Multi-Agent Systems over Wireless Networks: A Joint Agent--Network Design Perspective**|Chao Hu et.al.|[2609.37094](http://arxiv.org/abs/2609.37094)|
+|**2026-09-29**|**ORACLE: Agentic AI Orchestrator Routing Via Adaptive Verifier Calibration Feedback**|Ritik Raj et.al.|[2607.22465](http://arxiv.org/abs/2607.22465)|
+|**2026-09-29**|**PANDA: A Decentralized Architecture with Flexible Orchestration for Scalable, Fault-Tolerant Multi-Agent Systems**|Matthew D. Laws et.al.|[2609.38482](http://arxiv.org/abs/2609.38482)|
 |**2026-09-28**|**TokenCake: A KV-Cache-centric Serving Framework for LLM-based Multi-Agent Applications**|Zhuohang Bian et.al.|[2510.18586_(EuroSys)](http://arxiv.org/abs/2510.18586)|
 |**2026-09-28**|**XBridge: Entity-Grounded Latent Bridge for Heterogeneous LLM Communication**|Wooseong Yang et.al.|[2608.11676_(NeurIPS)](http://arxiv.org/abs/2608.11676)|
 |**2026-09-28**|**Tool Waiting and Re-arrival in Compile-Time-Static LLM Serving: Cost Mechanisms and Configuration Selection**|Dongkyeom Jang et.al.|[2609.34663](http://arxiv.org/abs/2609.34663)|
@@ -30,7 +42,6 @@ _Updated on 2026.09.30_
 |**2026-09-26**|**On-Demand Attention: Language Models Know When to Recall**|Haibo Feng et.al.|[2609.20734](http://arxiv.org/abs/2609.20734)|
 |**2026-09-26**|**Tessera: Demand-Driven KV Cache Management for Retrieval-Augmented LLM Serving**|Fei Fang et.al.|[2609.32999](http://arxiv.org/abs/2609.32999)|
 |**2026-09-26**|**RR-Evict: Fine-Grained Prefix Cache Eviction beyond LRU for Agentic LLM Serving**|Zaifeng Pan et.al.|[2609.32278](http://arxiv.org/abs/2609.32278)|
-|**2026-09-26**|**Prefill-Free Cross-Family KV Cache Transfer for Heterogeneous Multi-Agent LLMs**|Vincent-Daniel Yun et.al.|[2609.32259](http://arxiv.org/abs/2609.32259)|
 |**2026-09-26**|**AgentReplay: Token-Wise Trace Replay Is Essential for Fair Serving System Performance Benchmarking**|Zaifeng Pan et.al.|[2609.32283](http://arxiv.org/abs/2609.32283)|
 |**2026-09-26**|**LAM: Efficient Lossy Agent Memory Framework With A Retrieval-Score Error Bound**|Baixi Sun et.al.|[2609.32256](http://arxiv.org/abs/2609.32256)|
 |**2026-09-26**|**PastForward: Faster On-Device GUI Agents via Computational Experience Reuse**|Taehwan Park et.al.|[2609.32166](http://arxiv.org/abs/2609.32166)|
@@ -50,7 +61,6 @@ _Updated on 2026.09.30_
 |**2026-09-20**|**Extending concurrent separation logic to the hardware level to verify the xv6 OS kernel on RISC-V with AI agents**|M. Frans Kaashoek et.al.|[2609.04043](http://arxiv.org/abs/2609.04043)|
 |**2026-09-20**|**RoofLang: Enabling AI-Driven Architecting of LLM Inference Systems**|Ziyue Yang et.al.|[2609.12551_(DATE)](http://arxiv.org/abs/2609.12551)|
 |**2026-09-20**|**PipeSwift: Revisiting Pipeline Parallelism for Large-Scale Completion-Oriented Agentic LLM Serving**|Shiju Wang et.al.|[2609.16491](http://arxiv.org/abs/2609.16491)|
-|**2026-09-20**|**JustFit: Just-in-Time State Management for Local LLM Serving**|Yuhua Chen et.al.|[2609.17475](http://arxiv.org/abs/2609.17475)|
 |**2026-09-19**|**From Inference Engine to Inference Control Plane: Connecting vLLM, llm-d, and the Evolution of Efficient Distributed LLM Serving**|Twinkll Sisodia et.al.|[2609.23130_(DIS)](http://arxiv.org/abs/2609.23130)|
 |**2026-09-19**|**DeepSeek Elastic Compute (DSec): A Sandbox Infrastructure for Effective Agentic Training at Scale**|Jialiang Huang et.al.|[2609.22978_(ATC)](http://arxiv.org/abs/2609.22978)|
 |**2026-09-18**|**Staying on the Attack Path: Structured State for Long-Horizon Automated Penetration Testing**|Weizhe Wang et.al.|[2609.07344](http://arxiv.org/abs/2609.07344)|

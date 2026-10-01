@@ -6,16 +6,16 @@ nav_order: 3
 
 # GNN Papers
 
-_Updated on 2026.09.30_
+_Updated on 2026.10.01_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-09-30**|**Efficient Graph Neural Networks for Multicarrier Wideband Hybrid Beamforming Optimization**|Beier Li et.al.|[2609.09708](http://arxiv.org/abs/2609.09708)|
 |**2026-09-29**|**BandPC: Learning Residual-Band Preconditioner Combinations for Flexible Conjugate Gradient Solvers**|D. M. Li et.al.|[2609.37140](http://arxiv.org/abs/2609.37140)|
 |**2026-09-28**|**Scalable Heterogeneous Graph Foundation Models for Data-Driven Optimal Power Flow in Smart Grids**|Massimiliano Lupo Pasini et.al.|[2605.23194](http://arxiv.org/abs/2605.23194)|
 |**2026-09-23**|**A Scalable Multi-Robot Framework for Decentralized and Asynchronous Perception-Action-Communication Loops**|Saurav Agarwal et.al.|[2309.10164](http://arxiv.org/abs/2309.10164)|
 |**2026-09-21**|**Reforge: Low-Latency Distributed GNN Serving with Selective Embedding Recomputation**|Geon-Woo Kim et.al.|[2501.08547_(IPDPS)](http://arxiv.org/abs/2501.08547)|
 |**2026-09-19**|**Sharing a Fabric with Collective Communication: Two Storage Penalties in Deep Learning Training**|Chen Wang et.al.|[2609.06506](http://arxiv.org/abs/2609.06506)|
-|**2026-09-09**|**Efficient Graph Neural Networks for Multicarrier Wideband Hybrid Beamforming Optimization**|Beier Li et.al.|[2609.09708](http://arxiv.org/abs/2609.09708)|
 |**2026-09-08**|**GraphFAS: A Distributed System for Automated Graph Feature Generation and Selection in Industrial Transaction Networks**|Yice Luo et.al.|[2609.08970_(CIKM)](http://arxiv.org/abs/2609.08970)|
 |**2026-09-02**|**Feasible but Not Safe: Constraint Violations and Report-Channel Attacks in Learned Cell-Free ISAC Association**|Mehdi Zafari et.al.|[2609.03147_(MobiCom)](http://arxiv.org/abs/2609.03147)|
 |**2026-09-02**|**Privacy-Preserving Topology-Guided Safety for LLM-Based Multi-Agent Systems via Federated Graph Learning**|Jinxi Yu et.al.|[2609.02967](http://arxiv.org/abs/2609.02967)|
