@@ -6,10 +6,16 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.10.01_
+_Updated on 2026.10.02_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-10-01**|**Serving a Revisable World: Versioned Execution for Interruptible Agents**|Yanxin Zhang et.al.|[2610.01160](http://arxiv.org/abs/2610.01160)|
+|**2026-10-01**|**Mimir: Physics-Grounded LLM Agents for Long-Horizon Irrigation Control**|Yimeng Liu et.al.|[2610.02038](http://arxiv.org/abs/2610.02038)|
+|**2026-10-01**|**TRACE: Tackling Real-World Resource Assignment Problems via Agentic Heuristic Design**|Jose A. Ayala-Romero et.al.|[2610.01887](http://arxiv.org/abs/2610.01887)|
+|**2026-10-01**|**The Persona Is Still There, but Who Is Speaking? Latent Identity Reversion in Persistent AI Agents**|David Fraile Navarro et.al.|[2610.01490](http://arxiv.org/abs/2610.01490)|
+|**2026-10-01**|**Selection-Based Structured Reasoning: Toward Efficient Multimodal Search Agents**|Feiyu Gavin Zhu et.al.|[2610.01892](http://arxiv.org/abs/2610.01892)|
+|**2026-09-30**|**Nalar: Workflow-Aware Management of Agentic Applications**|Saurabh Agarwal et.al.|[2601.05109](http://arxiv.org/abs/2601.05109)|
 |**2026-09-30**|**JustFit: Just-in-Time State Management for Local LLM Serving**|Yuhua Chen et.al.|[2609.17475](http://arxiv.org/abs/2609.17475)|
 |**2026-09-30**|**Persistent Context Graphs for Efficient Memory Compaction in LLM Agents**|Jingbo Yang et.al.|[2609.40118](http://arxiv.org/abs/2609.40118)|
 |**2026-09-30**|**Capture the lifecycle: KV Cache management in ReAct Agents with KVTether**|Kaihua Fu et.al.|[2609.39819](http://arxiv.org/abs/2609.39819)|
@@ -500,7 +506,6 @@ _Updated on 2026.10.01_
 |**2026-01-13**|**Unleashing Tool Engineering and Intelligence for Agentic AI in Next-Generation Communication Networks**|Yinqiu Liu et.al.|[2601.08259](http://arxiv.org/abs/2601.08259)|
 |**2026-01-12**|**OpenTinker: Separating Concerns in Agentic Reinforcement Learning**|Siqi Zhu et.al.|[2601.07376](http://arxiv.org/abs/2601.07376)|
 |**2026-01-11**|**RealMem: Benchmarking LLMs in Real-World Memory-Driven Interaction**|Haonan Bian et.al.|[2601.06966](http://arxiv.org/abs/2601.06966)|
-|**2026-01-08**|**Nalar: An agent serving framework**|Marco Laju et.al.|[2601.05109](http://arxiv.org/abs/2601.05109)|
 |**2026-01-07**|**NEMO-4-PAYPAL: Leveraging NVIDIA's Nemo Framework for empowering PayPal's Commerce Agent**|Sudhanshu Garg et.al.|[2512.21578](http://arxiv.org/abs/2512.21578)|
 |**2026-01-06**|**Agent.xpu: Efficient Scheduling of Agentic LLM Workloads on Heterogeneous SoC**|Xinming Wei et.al.|[2506.24045](http://arxiv.org/abs/2506.24045)|
 |**2026-01-03**|**Chimera: Harnessing Multi-Agent LLMs for Automatic Insider Threat Simulation**|Jiongchi Yu et.al.|[2508.07745_(NDSS)](http://arxiv.org/abs/2508.07745)|

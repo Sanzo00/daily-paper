@@ -6,10 +6,12 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.10.01_
+_Updated on 2026.10.02_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-10-01**|**Reading Between the Dots: Decoding Hidden Computation across Filler Tokens**|Kaley Brauer et.al.|[2607.03502_(NeurIPS)](http://arxiv.org/abs/2607.03502)|
+|**2026-10-01**|**Serving a Revisable World: Versioned Execution for Interruptible Agents**|Yanxin Zhang et.al.|[2610.01160](http://arxiv.org/abs/2610.01160)|
 |**2026-09-30**|**JustFit: Just-in-Time State Management for Local LLM Serving**|Yuhua Chen et.al.|[2609.17475](http://arxiv.org/abs/2609.17475)|
 |**2026-09-30**|**KV-Kaizen: Learning Context-Adaptive Cache Compression Choices**|Joao Monteiro et.al.|[2609.37988](http://arxiv.org/abs/2609.37988)|
 |**2026-09-30**|**Capture the lifecycle: KV Cache management in ReAct Agents with KVTether**|Kaihua Fu et.al.|[2609.39819](http://arxiv.org/abs/2609.39819)|
@@ -230,7 +232,6 @@ _Updated on 2026.10.01_
 |**2026-07-04**|**Online Linear Programming for Multi-Objective Routing in LLM Serving**|Zixi Chen et.al.|[2607.03948](http://arxiv.org/abs/2607.03948)|
 |**2026-07-03**|**IndexMem: Learned KV-Cache Eviction with Latent Memory for Long-Context LLM Inference**|Xintong Yang et.al.|[2605.25475](http://arxiv.org/abs/2605.25475)|
 |**2026-07-03**|**KARA: Efficient Reasoning LLM Serving via Sliding-Window KV Cache Compression**|Shen Han et.al.|[2607.01237](http://arxiv.org/abs/2607.01237)|
-|**2026-07-03**|**Reading Between the Dots: Decoding Hidden Computation across Filler Tokens**|Kaley Brauer et.al.|[2607.03502_(ICML)](http://arxiv.org/abs/2607.03502)|
 |**2026-07-03**|**Hierarchical Sparse Attention Done Right: Toward Infinite Context Modeling**|Xiang Hu et.al.|[2607.02980](http://arxiv.org/abs/2607.02980)|
 |**2026-07-02**|**FCDC: Nonvolatile Charge-Domain Attention with HZO Ferroelectric Capacitors**|Fares Abouagor et.al.|[2605.28208](http://arxiv.org/abs/2605.28208)|
 |**2026-07-02**|**ELDR: Expert-Locality-Aware Decode Routing for PD-Disaggregated MoE Serving**|Sangjin Choi et.al.|[2607.00466](http://arxiv.org/abs/2607.00466)|
