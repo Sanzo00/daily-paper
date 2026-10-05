@@ -6,10 +6,11 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.10.04_
+_Updated on 2026.10.05_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-10-02**|**ServeTwin: A Benchmark-Validated Simulator for Distributed LLM Architecture Exploration**|Sungjoon Park et.al.|[2610.02732](http://arxiv.org/abs/2610.02732)|
 |**2026-10-01**|**A Matryoshka Hierarchical RAG for Efficient Multi-Hop Question Answering**|Gianluca Bonifazi et.al.|[2610.01767](http://arxiv.org/abs/2610.01767)|
 |**2026-10-01**|**Mem++: Non-Destructive Memory for Long-Term Organizational LLM Agents**|Ahmad Yehia et.al.|[2610.02002](http://arxiv.org/abs/2610.02002)|
 |**2026-09-29**|**UltRAG: a Universal Simple Scalable Recipe for Knowledge Graph RAG**|Dobrik Georgiev et.al.|[2603.28773](http://arxiv.org/abs/2603.28773)|

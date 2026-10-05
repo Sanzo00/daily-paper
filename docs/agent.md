@@ -6,15 +6,23 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.10.04_
+_Updated on 2026.10.05_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-10-02**|**VenusRL: A Fully Disaggregated Agentic RL System with Priority Scheduling and Scalable Interaction**|Mingjun Zhang et.al.|[2610.03286](http://arxiv.org/abs/2610.03286)|
+|**2026-10-02**|**Coda: Exploiting Admission Flexibility for Coding-Agent Serving**|Youhe Jiang et.al.|[2610.03088](http://arxiv.org/abs/2610.03088)|
+|**2026-10-02**|**ServeTwin: A Benchmark-Validated Simulator for Distributed LLM Architecture Exploration**|Sungjoon Park et.al.|[2610.02732](http://arxiv.org/abs/2610.02732)|
+|**2026-10-02**|**EdgeAgent: Orchestrating On-Device LLM inference for End-User Multi-Agent Systems on CPU-GPU Unified Memory Architectures**|Yuhai Long et.al.|[2610.03394](http://arxiv.org/abs/2610.03394)|
+|**2026-10-02**|**Defense-in-Depth at the Perception-Reasoning Interface of LLM-Centric Agentic UAV Swarms**|Mohammadhossein Homaei et.al.|[2610.03319](http://arxiv.org/abs/2610.03319)|
+|**2026-10-02**|**Ask, Relax, or Act? Evaluating Actionable Indeterminacy in LLM Preference Reasoning**|Ang Li et.al.|[2610.03102](http://arxiv.org/abs/2610.03102)|
+|**2026-10-01**|**ORACLE: Agentic AI Orchestrator Routing Via Adaptive Verifier Calibration Feedback**|Ritik Raj et.al.|[2607.22465](http://arxiv.org/abs/2607.22465)|
 |**2026-10-01**|**Serving a Revisable World: Versioned Execution for Interruptible Agents**|Yanxin Zhang et.al.|[2610.01160](http://arxiv.org/abs/2610.01160)|
 |**2026-10-01**|**Mimir: Physics-Grounded LLM Agents for Long-Horizon Irrigation Control**|Yimeng Liu et.al.|[2610.02038](http://arxiv.org/abs/2610.02038)|
 |**2026-10-01**|**TRACE: Tackling Real-World Resource Assignment Problems via Agentic Heuristic Design**|Jose A. Ayala-Romero et.al.|[2610.01887](http://arxiv.org/abs/2610.01887)|
 |**2026-10-01**|**The Persona Is Still There, but Who Is Speaking? Latent Identity Reversion in Persistent AI Agents**|David Fraile Navarro et.al.|[2610.01490](http://arxiv.org/abs/2610.01490)|
 |**2026-10-01**|**Selection-Based Structured Reasoning: Toward Efficient Multimodal Search Agents**|Feiyu Gavin Zhu et.al.|[2610.01892](http://arxiv.org/abs/2610.01892)|
+|**2026-10-01**|**Prompted to Discriminate: Generalizing Malicious-Input Probes in the Wild**|Elad David et.al.|[2610.02413_(NeurIPS)](http://arxiv.org/abs/2610.02413)|
 |**2026-09-30**|**Nalar: Workflow-Aware Management of Agentic Applications**|Saurabh Agarwal et.al.|[2601.05109](http://arxiv.org/abs/2601.05109)|
 |**2026-09-30**|**JustFit: Just-in-Time State Management for Local LLM Serving**|Yuhua Chen et.al.|[2609.17475](http://arxiv.org/abs/2609.17475)|
 |**2026-09-30**|**Persistent Context Graphs for Efficient Memory Compaction in LLM Agents**|Jingbo Yang et.al.|[2609.40118](http://arxiv.org/abs/2609.40118)|
@@ -32,7 +40,6 @@ _Updated on 2026.10.04_
 |**2026-09-29**|**Efficient Agentic LLM Serving over SSD-based Sparse KV Storage**|Wenhao He et.al.|[2609.36938](http://arxiv.org/abs/2609.36938)|
 |**2026-09-29**|**ATTUNER: Recomputation-Free KV Cache Reuse via Query-Side Adaptation**|Xinghao Chen et.al.|[2609.36722](http://arxiv.org/abs/2609.36722)|
 |**2026-09-29**|**LLM-Based Multi-Agent Systems over Wireless Networks: A Joint Agent--Network Design Perspective**|Chao Hu et.al.|[2609.37094](http://arxiv.org/abs/2609.37094)|
-|**2026-09-29**|**ORACLE: Agentic AI Orchestrator Routing Via Adaptive Verifier Calibration Feedback**|Ritik Raj et.al.|[2607.22465](http://arxiv.org/abs/2607.22465)|
 |**2026-09-29**|**PANDA: A Decentralized Architecture with Flexible Orchestration for Scalable, Fault-Tolerant Multi-Agent Systems**|Matthew D. Laws et.al.|[2609.38482](http://arxiv.org/abs/2609.38482)|
 |**2026-09-28**|**TokenCake: A KV-Cache-centric Serving Framework for LLM-based Multi-Agent Applications**|Zhuohang Bian et.al.|[2510.18586_(EuroSys)](http://arxiv.org/abs/2510.18586)|
 |**2026-09-28**|**XBridge: Entity-Grounded Latent Bridge for Heterogeneous LLM Communication**|Wooseong Yang et.al.|[2608.11676_(NeurIPS)](http://arxiv.org/abs/2608.11676)|

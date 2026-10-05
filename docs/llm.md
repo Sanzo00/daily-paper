@@ -6,12 +6,21 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.10.04_
+_Updated on 2026.10.05_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-10-02**|**Coda: Exploiting Admission Flexibility for Coding-Agent Serving**|Youhe Jiang et.al.|[2610.03088](http://arxiv.org/abs/2610.03088)|
+|**2026-10-02**|**Tailoring the Quantization Space for 1-Bit KV Cache Compression**|Minsoo Cheong et.al.|[2610.03027](http://arxiv.org/abs/2610.03027)|
+|**2026-10-02**|**SlimKV: Joint Token-Feature KV Cache Compression with Reconstruction-Free Beacon Attention**|Zihan Teng et.al.|[2610.02953_(EMNLP)](http://arxiv.org/abs/2610.02953)|
+|**2026-10-02**|**ServeTwin: A Benchmark-Validated Simulator for Distributed LLM Architecture Exploration**|Sungjoon Park et.al.|[2610.02732](http://arxiv.org/abs/2610.02732)|
+|**2026-10-02**|**Weave Forcing: Compositional Memory Routing for Interactive Long Video Generation**|Ziyi Wang et.al.|[2610.03510](http://arxiv.org/abs/2610.03510)|
+|**2026-10-02**|**VenusRL: A Fully Disaggregated Agentic RL System with Priority Scheduling and Scalable Interaction**|Mingjun Zhang et.al.|[2610.03286](http://arxiv.org/abs/2610.03286)|
+|**2026-10-02**|**Foresight: planning future perception in streaming VLMs without retraining**|Ashok Prasad Neupane et.al.|[2610.03123](http://arxiv.org/abs/2610.03123)|
 |**2026-10-01**|**Reading Between the Dots: Decoding Hidden Computation across Filler Tokens**|Kaley Brauer et.al.|[2607.03502_(NeurIPS)](http://arxiv.org/abs/2607.03502)|
+|**2026-10-01**|**ORACLE: Agentic AI Orchestrator Routing Via Adaptive Verifier Calibration Feedback**|Ritik Raj et.al.|[2607.22465](http://arxiv.org/abs/2607.22465)|
 |**2026-10-01**|**Serving a Revisable World: Versioned Execution for Interruptible Agents**|Yanxin Zhang et.al.|[2610.01160](http://arxiv.org/abs/2610.01160)|
+|**2026-10-01**|**Prompted to Discriminate: Generalizing Malicious-Input Probes in the Wild**|Elad David et.al.|[2610.02413_(NeurIPS)](http://arxiv.org/abs/2610.02413)|
 |**2026-09-30**|**JustFit: Just-in-Time State Management for Local LLM Serving**|Yuhua Chen et.al.|[2609.17475](http://arxiv.org/abs/2609.17475)|
 |**2026-09-30**|**KV-Kaizen: Learning Context-Adaptive Cache Compression Choices**|Joao Monteiro et.al.|[2609.37988](http://arxiv.org/abs/2609.37988)|
 |**2026-09-30**|**Capture the lifecycle: KV Cache management in ReAct Agents with KVTether**|Kaihua Fu et.al.|[2609.39819](http://arxiv.org/abs/2609.39819)|
@@ -26,7 +35,6 @@ _Updated on 2026.10.04_
 |**2026-09-29**|**AVSG: Accelerated Vectorized Sparse Gather for Efficient KV Cache Offload in Sparse-Attention LLM Serving**|Wenwei Kuang et.al.|[2609.37538](http://arxiv.org/abs/2609.37538)|
 |**2026-09-29**|**vSkipper: Translating Dynamic Layer Skipping into LLM Serving Gains**|Wei Da et.al.|[2609.37062](http://arxiv.org/abs/2609.37062)|
 |**2026-09-29**|**Efficient Agentic LLM Serving over SSD-based Sparse KV Storage**|Wenhao He et.al.|[2609.36938](http://arxiv.org/abs/2609.36938)|
-|**2026-09-29**|**ORACLE: Agentic AI Orchestrator Routing Via Adaptive Verifier Calibration Feedback**|Ritik Raj et.al.|[2607.22465](http://arxiv.org/abs/2607.22465)|
 |**2026-09-28**|**Memory-Efficient Looped Transformer: Decoupling Compute from Memory in Looped Language Models**|Victor Conchello Vendrell et.al.|[2605.07721](http://arxiv.org/abs/2605.07721)|
 |**2026-09-28**|**XBridge: Entity-Grounded Latent Bridge for Heterogeneous LLM Communication**|Wooseong Yang et.al.|[2608.11676_(NeurIPS)](http://arxiv.org/abs/2608.11676)|
 |**2026-09-28**|**Cartridges++: KV Cache Compression without Off-Context Derailment**|Sonia Laguna et.al.|[2609.35621](http://arxiv.org/abs/2609.35621)|
