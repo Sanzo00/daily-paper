@@ -6,10 +6,18 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.10.05_
+_Updated on 2026.10.06_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-10-05**|**Characterizing High Bandwidth Flash for LLM Serving**|Zack Yu et.al.|[2609.39131](http://arxiv.org/abs/2609.39131)|
+|**2026-10-05**|**Can Agent Harnesses and Inference Engines Hear Each Other? The HEAR Protocol for Agentic LLM Serving**|Jiaqi Zhao et.al.|[2610.06597](http://arxiv.org/abs/2610.06597)|
+|**2026-10-05**|**Request Order Matters: Cache-History Sensitivity in Selective KV-Cache Reuse for Rolling Agents**|Tiffany Gu et.al.|[2610.05833](http://arxiv.org/abs/2610.05833)|
+|**2026-10-03**|**KV Cache Translation across Heterogeneous Large Language Models**|Jin-woo Lee et.al.|[2607.28979](http://arxiv.org/abs/2607.28979)|
+|**2026-10-03**|**Asymmetric Repository Lineage Modeling and Verifier-Guided Coordination in Concurrent AI Coding Agents**|Arjun Subramanian et.al.|[2610.04779](http://arxiv.org/abs/2610.04779)|
+|**2026-10-03**|**MASBench: Benchmarking LLM-based Multi-Agent Collaboration under Partial Observability**|Qizhi Chu et.al.|[2610.04672](http://arxiv.org/abs/2610.04672)|
+|**2026-10-03**|**Asynchronous Is Nearly Free for Evolution Strategies on Long-Horizon Agentic Tasks**|William Hoy et.al.|[2610.04196](http://arxiv.org/abs/2610.04196)|
+|**2026-10-02**|**RR-Evict: Fine-Grained Prefix Cache Eviction beyond LRU for Agentic LLM Serving**|Zaifeng Pan et.al.|[2609.32278](http://arxiv.org/abs/2609.32278)|
 |**2026-10-02**|**VenusRL: A Fully Disaggregated Agentic RL System with Priority Scheduling and Scalable Interaction**|Mingjun Zhang et.al.|[2610.03286](http://arxiv.org/abs/2610.03286)|
 |**2026-10-02**|**Coda: Exploiting Admission Flexibility for Coding-Agent Serving**|Youhe Jiang et.al.|[2610.03088](http://arxiv.org/abs/2610.03088)|
 |**2026-10-02**|**ServeTwin: A Benchmark-Validated Simulator for Distributed LLM Architecture Exploration**|Sungjoon Park et.al.|[2610.02732](http://arxiv.org/abs/2610.02732)|
@@ -23,11 +31,11 @@ _Updated on 2026.10.05_
 |**2026-10-01**|**The Persona Is Still There, but Who Is Speaking? Latent Identity Reversion in Persistent AI Agents**|David Fraile Navarro et.al.|[2610.01490](http://arxiv.org/abs/2610.01490)|
 |**2026-10-01**|**Selection-Based Structured Reasoning: Toward Efficient Multimodal Search Agents**|Feiyu Gavin Zhu et.al.|[2610.01892](http://arxiv.org/abs/2610.01892)|
 |**2026-10-01**|**Prompted to Discriminate: Generalizing Malicious-Input Probes in the Wild**|Elad David et.al.|[2610.02413_(NeurIPS)](http://arxiv.org/abs/2610.02413)|
+|**2026-10-01**|**ProsaBuddy: Assisting Mechanized Real-Time Schedulability Analysis with LLM-based Agents**|Junyi Liu et.al.|[2610.03796](http://arxiv.org/abs/2610.03796)|
 |**2026-09-30**|**Nalar: Workflow-Aware Management of Agentic Applications**|Saurabh Agarwal et.al.|[2601.05109](http://arxiv.org/abs/2601.05109)|
 |**2026-09-30**|**JustFit: Just-in-Time State Management for Local LLM Serving**|Yuhua Chen et.al.|[2609.17475](http://arxiv.org/abs/2609.17475)|
 |**2026-09-30**|**Persistent Context Graphs for Efficient Memory Compaction in LLM Agents**|Jingbo Yang et.al.|[2609.40118](http://arxiv.org/abs/2609.40118)|
 |**2026-09-30**|**Capture the lifecycle: KV Cache management in ReAct Agents with KVTether**|Kaihua Fu et.al.|[2609.39819](http://arxiv.org/abs/2609.39819)|
-|**2026-09-30**|**Characterizing High Bandwidth Flash for LLM Serving**|Zack Yu et.al.|[2609.39131](http://arxiv.org/abs/2609.39131)|
 |**2026-09-30**|**SparseEngine: Sparse-First Inference Engine**|Jitai Hao et.al.|[2609.39068](http://arxiv.org/abs/2609.39068)|
 |**2026-09-30**|**Resource-Efficient Semantic Communication for Heterogeneous Agentic Teams**|Farhad Rezazadeh et.al.|[2609.39477](http://arxiv.org/abs/2609.39477)|
 |**2026-09-30**|**CamAgent: An LLM-Agent Framework for Multi-Species Camera-Trap Workflows**|Yutong Deng et.al.|[2609.39112](http://arxiv.org/abs/2609.39112)|
@@ -54,7 +62,6 @@ _Updated on 2026.10.05_
 |**2026-09-27**|**ORBIT: A Framework for Multi-Agent Safety and Security Evaluations**|Ben Hagag et.al.|[2609.33102](http://arxiv.org/abs/2609.33102)|
 |**2026-09-26**|**On-Demand Attention: Language Models Know When to Recall**|Haibo Feng et.al.|[2609.20734](http://arxiv.org/abs/2609.20734)|
 |**2026-09-26**|**Tessera: Demand-Driven KV Cache Management for Retrieval-Augmented LLM Serving**|Fei Fang et.al.|[2609.32999](http://arxiv.org/abs/2609.32999)|
-|**2026-09-26**|**RR-Evict: Fine-Grained Prefix Cache Eviction beyond LRU for Agentic LLM Serving**|Zaifeng Pan et.al.|[2609.32278](http://arxiv.org/abs/2609.32278)|
 |**2026-09-26**|**AgentReplay: Token-Wise Trace Replay Is Essential for Fair Serving System Performance Benchmarking**|Zaifeng Pan et.al.|[2609.32283](http://arxiv.org/abs/2609.32283)|
 |**2026-09-26**|**LAM: Efficient Lossy Agent Memory Framework With A Retrieval-Score Error Bound**|Baixi Sun et.al.|[2609.32256](http://arxiv.org/abs/2609.32256)|
 |**2026-09-26**|**PastForward: Faster On-Device GUI Agents via Computational Experience Reuse**|Taehwan Park et.al.|[2609.32166](http://arxiv.org/abs/2609.32166)|
@@ -184,7 +191,6 @@ _Updated on 2026.10.05_
 |**2026-08-02**|**Learning What to Remember and What to Internalize in LLM Self-Evolution via Adaptive Memory-Parameter Coordination**|Tianyun Ji et.al.|[2608.01234](http://arxiv.org/abs/2608.01234)|
 |**2026-08-02**|**BRA-Audit: Budgeted Runtime Auditing for LLM Multi-Agent Systems via Cumulative-Exposure Audit-Point Placement**|Kaixiang Wang et.al.|[2608.14668](http://arxiv.org/abs/2608.14668)|
 |**2026-08-01**|**BANDMAS: Causality-Inspired Semantic Packet Scheduling for Bandwidth-Efficient Multi-Agent Collaboration**|Jiangwen Dong et.al.|[2608.00458](http://arxiv.org/abs/2608.00458)|
-|**2026-07-31**|**Mixture-of-Translators: Translating KV Caches Across Heterogeneous Large Language Models**|Jin-woo Lee et.al.|[2607.28979](http://arxiv.org/abs/2607.28979)|
 |**2026-07-31**|**CrystalMem: Elastic Memory for Self-Evolving LLM Agents via Knowledge Crystallization**|Beining Wu et.al.|[2608.00303](http://arxiv.org/abs/2608.00303)|
 |**2026-07-31**|**RecSys Factory: Bounding LLM Agent Autonomy to Decision Points in the Industrial Recommender Lifecycle**|Dongyang Ao et.al.|[2608.11241_(ATC)](http://arxiv.org/abs/2608.11241)|
 |**2026-07-30**|**A Policy-Driven Runtime Layer for Agentic LLM Serving**|Rui Zhang et.al.|[2605.27744](http://arxiv.org/abs/2605.27744)|
