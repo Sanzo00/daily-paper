@@ -6,13 +6,19 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.10.06_
+_Updated on 2026.10.07_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-10-06**|**Lachesis: Lifetime-Aware KV Cache Placement for Agent Serving across HBM and High-Bandwidth Flash**|Jaehoon Yang et.al.|[2610.08378](http://arxiv.org/abs/2610.08378)|
+|**2026-10-06**|**DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with Depth-Synchronized Batching**|Jingpo Xu et.al.|[2610.08268_(ISS)](http://arxiv.org/abs/2610.08268)|
+|**2026-10-06**|**ReFold: Training-Free Reversible Inter-Turn Context Folding for Long-Horizon Agents**|Yupeng Su et.al.|[2610.07863](http://arxiv.org/abs/2610.07863)|
+|**2026-10-06**|**Persistent Memory in Multi-Agent LLM Inference: What It Costs, What It Buys, and When You Can Tell**|Hochan Son et.al.|[2610.07782_(CHI)](http://arxiv.org/abs/2610.07782)|
+|**2026-10-06**|**TRACE: Rollout-Guided Quantization-Aware Training for FP4 Reinforcement Learning of MoE Language Models**|Xin Wang et.al.|[2610.07767](http://arxiv.org/abs/2610.07767)|
 |**2026-10-05**|**Characterizing High Bandwidth Flash for LLM Serving**|Zack Yu et.al.|[2609.39131](http://arxiv.org/abs/2609.39131)|
 |**2026-10-05**|**Can Agent Harnesses and Inference Engines Hear Each Other? The HEAR Protocol for Agentic LLM Serving**|Jiaqi Zhao et.al.|[2610.06597](http://arxiv.org/abs/2610.06597)|
 |**2026-10-05**|**Request Order Matters: Cache-History Sensitivity in Selective KV-Cache Reuse for Rolling Agents**|Tiffany Gu et.al.|[2610.05833](http://arxiv.org/abs/2610.05833)|
+|**2026-10-05**|**Refusal-Gated Decoding: Preserving Refusal Behavior Under High-Temperature Sampling**|Phillip Howard et.al.|[2607.20791](http://arxiv.org/abs/2607.20791)|
 |**2026-10-04**|**Adaptive KV Cache Reuse for Fast Long-Context LLM Serving**|Fei li et.al.|[2605.24022_(CHI)](http://arxiv.org/abs/2605.24022)|
 |**2026-10-04**|**Sliding-window beats linear attention**|Alexia Jolicoeur-Martineau et.al.|[2608.28444](http://arxiv.org/abs/2608.28444)|
 |**2026-10-03**|**KV Cache Translation across Heterogeneous Large Language Models**|Jin-woo Lee et.al.|[2607.28979](http://arxiv.org/abs/2607.28979)|

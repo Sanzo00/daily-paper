@@ -6,13 +6,22 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.10.06_
+_Updated on 2026.10.07_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-10-06**|**Strategic Evaluation of Planning Strategies for LLM Agents in Cyber-Physical Systems**|J. de Curtò et.al.|[2608.04265](http://arxiv.org/abs/2608.04265)|
+|**2026-10-06**|**KVCMAS: Efficient KV cache Correction for Shared Context in Multi-Agent Systems**|Hyesung Jeon et.al.|[2609.34060](http://arxiv.org/abs/2609.34060)|
+|**2026-10-06**|**PReCache: Efficient KV Cache Sharing for Multi-LoRA Agents via Low-Rank Precomputation and Neutral Reconstruction**|Hyesung Jeon et.al.|[2609.34054](http://arxiv.org/abs/2609.34054)|
+|**2026-10-06**|**Lachesis: Lifetime-Aware KV Cache Placement for Agent Serving across HBM and High-Bandwidth Flash**|Jaehoon Yang et.al.|[2610.08378](http://arxiv.org/abs/2610.08378)|
+|**2026-10-06**|**ReFold: Training-Free Reversible Inter-Turn Context Folding for Long-Horizon Agents**|Yupeng Su et.al.|[2610.07863](http://arxiv.org/abs/2610.07863)|
+|**2026-10-06**|**Persistent Memory in Multi-Agent LLM Inference: What It Costs, What It Buys, and When You Can Tell**|Hochan Son et.al.|[2610.07782_(CHI)](http://arxiv.org/abs/2610.07782)|
+|**2026-10-06**|**SquidAgent: Parallelize Wisely, Coordinate Efficiently**|Yexiong Lin et.al.|[2610.08647_(NeurIPS)](http://arxiv.org/abs/2610.08647)|
 |**2026-10-05**|**Characterizing High Bandwidth Flash for LLM Serving**|Zack Yu et.al.|[2609.39131](http://arxiv.org/abs/2609.39131)|
 |**2026-10-05**|**Can Agent Harnesses and Inference Engines Hear Each Other? The HEAR Protocol for Agentic LLM Serving**|Jiaqi Zhao et.al.|[2610.06597](http://arxiv.org/abs/2610.06597)|
 |**2026-10-05**|**Request Order Matters: Cache-History Sensitivity in Selective KV-Cache Reuse for Rolling Agents**|Tiffany Gu et.al.|[2610.05833](http://arxiv.org/abs/2610.05833)|
+|**2026-10-05**|**Verifying Coordination in Parallel Coding Agents: NP-Bench and a Scheduling Planner**|Sumanyu Muku et.al.|[2610.07261](http://arxiv.org/abs/2610.07261)|
+|**2026-10-05**|**See What I See, Know What I Think: Dense Latent Communication Across Heterogeneous Agents**|Siyi Chen et.al.|[2606.13594](http://arxiv.org/abs/2606.13594)|
 |**2026-10-03**|**KV Cache Translation across Heterogeneous Large Language Models**|Jin-woo Lee et.al.|[2607.28979](http://arxiv.org/abs/2607.28979)|
 |**2026-10-03**|**Asymmetric Repository Lineage Modeling and Verifier-Guided Coordination in Concurrent AI Coding Agents**|Arjun Subramanian et.al.|[2610.04779](http://arxiv.org/abs/2610.04779)|
 |**2026-10-03**|**MASBench: Benchmarking LLM-based Multi-Agent Collaboration under Partial Observability**|Qizhi Chu et.al.|[2610.04672](http://arxiv.org/abs/2610.04672)|
@@ -53,8 +62,6 @@ _Updated on 2026.10.06_
 |**2026-09-28**|**XBridge: Entity-Grounded Latent Bridge for Heterogeneous LLM Communication**|Wooseong Yang et.al.|[2608.11676_(NeurIPS)](http://arxiv.org/abs/2608.11676)|
 |**2026-09-28**|**Tool Waiting and Re-arrival in Compile-Time-Static LLM Serving: Cost Mechanisms and Configuration Selection**|Dongkyeom Jang et.al.|[2609.34663](http://arxiv.org/abs/2609.34663)|
 |**2026-09-28**|**AgentPerfBench: A Benchmarking and Evaluation Suite for Inference Performance of Agentic LLMs**|Cheuk Hang Lau et.al.|[2609.34683](http://arxiv.org/abs/2609.34683)|
-|**2026-09-28**|**KVCMAS: Efficient KV cache Correction for Shared Context in Multi-Agent Systems**|Hyesung Jeon et.al.|[2609.34060](http://arxiv.org/abs/2609.34060)|
-|**2026-09-28**|**PReCache: Efficient KV Cache Sharing for Multi-LoRA Agents via Low-Rank Precomputation and Neutral Reconstruction**|Hyesung Jeon et.al.|[2609.34054](http://arxiv.org/abs/2609.34054)|
 |**2026-09-28**|**Systematic Multi-Agent Vision-and-Language Navigation: Formulation, Benchmark, and Method**|Yunzhe Xu et.al.|[2609.35965](http://arxiv.org/abs/2609.35965)|
 |**2026-09-27**|**KVShareArena: KV-Cache Reuse Across Contexts and Model Checkpoints**|Xi Shi et.al.|[2609.10266](http://arxiv.org/abs/2609.10266)|
 |**2026-09-27**|**EfficientAgent: What Makes KV Cache Offloading Work for Concurrent Agents?**|Kunming Shao et.al.|[2609.33762](http://arxiv.org/abs/2609.33762)|
@@ -184,7 +191,6 @@ _Updated on 2026.10.06_
 |**2026-08-04**|**Heterogeneous LLM Serving with General-Purpose Processing-Near-Memory for Retrieval-Based Sparse Attention**|Hyungkyu Ham et.al.|[2608.03555](http://arxiv.org/abs/2608.03555)|
 |**2026-08-04**|**MAFIA: Query-Only Memory Attacks via Probing and Factual Injection against Audited LLM Agents**|Jiaming Chen et.al.|[2608.03844](http://arxiv.org/abs/2608.03844)|
 |**2026-08-04**|**When Does Disaggregation Pay? Simulating Prefill--Decode--Attention--FFN Specialization for Agentic LLM Inference**|Przemyslaw Forys et.al.|[2608.03741](http://arxiv.org/abs/2608.03741)|
-|**2026-08-04**|**Strategic Evaluation of Planning Strategies for LLM Agents in Cyber-Physical Systems**|J. de Curtò et.al.|[2608.04265](http://arxiv.org/abs/2608.04265)|
 |**2026-08-03**|**Bole: Efficient Tree Speculation for Hybrid-Attention Language Models**|Li Wang et.al.|[2608.01651](http://arxiv.org/abs/2608.01651)|
 |**2026-08-02**|**An Internet for the KV Cache: Rethinking Classical Infrastructure Boundaries in the LLM Inference Age**|Siddhant Ray et.al.|[2608.01526](http://arxiv.org/abs/2608.01526)|
 |**2026-08-02**|**Practical Online KV Cache Compaction for LLM Agents: An Empirical Study**|Yujian Liu et.al.|[2608.00902](http://arxiv.org/abs/2608.00902)|
