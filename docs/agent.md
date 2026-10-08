@@ -6,10 +6,15 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.10.07_
+_Updated on 2026.10.08_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-10-07**|**AKTS: Sub-Microsecond Kernel Policy Switching for Language-Model Agents**|Mohammadali Khodabandehlou et.al.|[2609.12276_(CHI)](http://arxiv.org/abs/2609.12276)|
+|**2026-10-07**|**Systematic Multi-Agent Vision-and-Language Navigation: Formulation, Benchmark, and Method**|Yunzhe Xu et.al.|[2609.35965](http://arxiv.org/abs/2609.35965)|
+|**2026-10-07**|**vLLM-Omni Technical Report: A Unified Serving Runtime for Omni-Modality Generation**|vLLM-Omni Team et.al.|[2610.09307](http://arxiv.org/abs/2610.09307)|
+|**2026-10-07**|**Agentic AI-Assisted Modeling for Production Scheduling: Assessment in Constraint Programming**|Ángel Sánchez-Fernández et.al.|[2610.10184](http://arxiv.org/abs/2610.10184)|
+|**2026-10-07**|**We Query, Therefore We Compute: On Oracle Computation beyond the Machine, with an Application to Agents**|Kefan Liu et.al.|[2610.09243](http://arxiv.org/abs/2610.09243)|
 |**2026-10-06**|**Strategic Evaluation of Planning Strategies for LLM Agents in Cyber-Physical Systems**|J. de Curtò et.al.|[2608.04265](http://arxiv.org/abs/2608.04265)|
 |**2026-10-06**|**KVCMAS: Efficient KV cache Correction for Shared Context in Multi-Agent Systems**|Hyesung Jeon et.al.|[2609.34060](http://arxiv.org/abs/2609.34060)|
 |**2026-10-06**|**PReCache: Efficient KV Cache Sharing for Multi-LoRA Agents via Low-Rank Precomputation and Neutral Reconstruction**|Hyesung Jeon et.al.|[2609.34054](http://arxiv.org/abs/2609.34054)|
@@ -22,6 +27,7 @@ _Updated on 2026.10.07_
 |**2026-10-05**|**Request Order Matters: Cache-History Sensitivity in Selective KV-Cache Reuse for Rolling Agents**|Tiffany Gu et.al.|[2610.05833](http://arxiv.org/abs/2610.05833)|
 |**2026-10-05**|**Verifying Coordination in Parallel Coding Agents: NP-Bench and a Scheduling Planner**|Sumanyu Muku et.al.|[2610.07261](http://arxiv.org/abs/2610.07261)|
 |**2026-10-05**|**See What I See, Know What I Think: Dense Latent Communication Across Heterogeneous Agents**|Siyi Chen et.al.|[2606.13594](http://arxiv.org/abs/2606.13594)|
+|**2026-10-05**|**CIRRA: Dual-Level Continual Instruction Reconciliation with Ongoing Execution for Embodied Robot Agents in Interactive Household Tasks**|Ci Zhang et.al.|[2610.08862](http://arxiv.org/abs/2610.08862)|
 |**2026-10-03**|**KV Cache Translation across Heterogeneous Large Language Models**|Jin-woo Lee et.al.|[2607.28979](http://arxiv.org/abs/2607.28979)|
 |**2026-10-03**|**Asymmetric Repository Lineage Modeling and Verifier-Guided Coordination in Concurrent AI Coding Agents**|Arjun Subramanian et.al.|[2610.04779](http://arxiv.org/abs/2610.04779)|
 |**2026-10-03**|**MASBench: Benchmarking LLM-based Multi-Agent Collaboration under Partial Observability**|Qizhi Chu et.al.|[2610.04672](http://arxiv.org/abs/2610.04672)|
@@ -62,7 +68,6 @@ _Updated on 2026.10.07_
 |**2026-09-28**|**XBridge: Entity-Grounded Latent Bridge for Heterogeneous LLM Communication**|Wooseong Yang et.al.|[2608.11676_(NeurIPS)](http://arxiv.org/abs/2608.11676)|
 |**2026-09-28**|**Tool Waiting and Re-arrival in Compile-Time-Static LLM Serving: Cost Mechanisms and Configuration Selection**|Dongkyeom Jang et.al.|[2609.34663](http://arxiv.org/abs/2609.34663)|
 |**2026-09-28**|**AgentPerfBench: A Benchmarking and Evaluation Suite for Inference Performance of Agentic LLMs**|Cheuk Hang Lau et.al.|[2609.34683](http://arxiv.org/abs/2609.34683)|
-|**2026-09-28**|**Systematic Multi-Agent Vision-and-Language Navigation: Formulation, Benchmark, and Method**|Yunzhe Xu et.al.|[2609.35965](http://arxiv.org/abs/2609.35965)|
 |**2026-09-27**|**KVShareArena: KV-Cache Reuse Across Contexts and Model Checkpoints**|Xi Shi et.al.|[2609.10266](http://arxiv.org/abs/2609.10266)|
 |**2026-09-27**|**EfficientAgent: What Makes KV Cache Offloading Work for Concurrent Agents?**|Kunming Shao et.al.|[2609.33762](http://arxiv.org/abs/2609.33762)|
 |**2026-09-27**|**PackServe: SLO-Aware Request Scheduling for Agentic LLM Serving at Scale**|Zhiyuan Tan et.al.|[2609.33224](http://arxiv.org/abs/2609.33224)|
@@ -75,6 +80,7 @@ _Updated on 2026.10.07_
 |**2026-09-25**|**DeepEdu-v1: Efficient and Scalable Agentic LLMs for Vietnamese Education**|Quang Nguyen et.al.|[2609.31568](http://arxiv.org/abs/2609.31568)|
 |**2026-09-25**|**ActKV: Efficient LLM Agents through Action-Guided KV Cache Management**|Zihan Wang et.al.|[2609.31395](http://arxiv.org/abs/2609.31395)|
 |**2026-09-24**|**GRASP: Generating, Revising, and Assessing for Strategic Planning with Agentic AI**|Arunabh Srivastava et.al.|[2609.30147_(EMNLP)](http://arxiv.org/abs/2609.30147)|
+|**2026-09-24**|**Task-Oriented Key-Layer KV Communication for Efficient Latent Multi-Agent Collaboration**|Dongsen Zhang et.al.|[2610.08820](http://arxiv.org/abs/2610.08820)|
 |**2026-09-23**|**The KV Cache Working Set: Online Capacity Planning for LLM Inference Systems**|Luchang Li et.al.|[2609.27746](http://arxiv.org/abs/2609.27746)|
 |**2026-09-23**|**KITE: KV-Invariant Transformer Expansion for Efficient Agentic LLM Scaling**|Zhiheng Hu et.al.|[2609.27294](http://arxiv.org/abs/2609.27294)|
 |**2026-09-23**|**Xtrace: High-Fidelity GPU Intra-Kernel Tracing via Binary-Level Instruction Splicing**|Zhuobin Huang et.al.|[2609.28769_(ATC)](http://arxiv.org/abs/2609.28769)|
@@ -107,7 +113,6 @@ _Updated on 2026.10.07_
 |**2026-09-10**|**Memory Compression for High-Fanout Agent Sandboxes**|Mengming Li et.al.|[2609.11294](http://arxiv.org/abs/2609.11294)|
 |**2026-09-10**|**Decoupling Readiness from Release for Tail-Aware Scheduling of Agentic LLM Workflows**|Bochao Feng et.al.|[2609.10964](http://arxiv.org/abs/2609.10964)|
 |**2026-09-10**|**SparseDitto: An Agentic Sparse Compilation Framework through Architecture-Aware Synthesis on GPUs**|Shiyang Li et.al.|[2608.05033](http://arxiv.org/abs/2608.05033)|
-|**2026-09-10**|**AKTS: Sub-Microsecond Kernel Policy Switching for Language-Model Agents**|Mohammadali Khodabandehlou et.al.|[2609.12276](http://arxiv.org/abs/2609.12276)|
 |**2026-09-10**|**Serving Agentic Workflows with a Physical-Plan Compiler and Adaptive Runtime**|Jiayi Qian et.al.|[2607.02942](http://arxiv.org/abs/2607.02942)|
 |**2026-09-09**|**LatentDx: Latent Multi-Agent Communication for Cross-Hospital Rare-Disease Diagnosis**|Ziqing Wang et.al.|[2606.13945](http://arxiv.org/abs/2606.13945)|
 |**2026-09-09**|**UNISON: A Co-Designed Near-Memory Scheduler of Session KV Residency for LLM Agents**|Fan He et.al.|[2609.09643](http://arxiv.org/abs/2609.09643)|

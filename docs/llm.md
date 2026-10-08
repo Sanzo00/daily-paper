@@ -6,15 +6,18 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.10.07_
+_Updated on 2026.10.08_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-10-07**|**Self-Indexing Attention for Compression-Compatible Sparse Long-Context LLM Inference**|Xu Yang et.al.|[2609.13205](http://arxiv.org/abs/2609.13205)|
+|**2026-10-07**|**vLLM-Omni Technical Report: A Unified Serving Runtime for Omni-Modality Generation**|vLLM-Omni Team et.al.|[2610.09307](http://arxiv.org/abs/2610.09307)|
 |**2026-10-06**|**Lachesis: Lifetime-Aware KV Cache Placement for Agent Serving across HBM and High-Bandwidth Flash**|Jaehoon Yang et.al.|[2610.08378](http://arxiv.org/abs/2610.08378)|
 |**2026-10-06**|**DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with Depth-Synchronized Batching**|Jingpo Xu et.al.|[2610.08268_(ISS)](http://arxiv.org/abs/2610.08268)|
 |**2026-10-06**|**ReFold: Training-Free Reversible Inter-Turn Context Folding for Long-Horizon Agents**|Yupeng Su et.al.|[2610.07863](http://arxiv.org/abs/2610.07863)|
 |**2026-10-06**|**Persistent Memory in Multi-Agent LLM Inference: What It Costs, What It Buys, and When You Can Tell**|Hochan Son et.al.|[2610.07782_(CHI)](http://arxiv.org/abs/2610.07782)|
 |**2026-10-06**|**TRACE: Rollout-Guided Quantization-Aware Training for FP4 Reinforcement Learning of MoE Language Models**|Xin Wang et.al.|[2610.07767](http://arxiv.org/abs/2610.07767)|
+|**2026-10-06**|**Few Bits, One Law: Toward W2A4KV2**|Kai Yi et.al.|[2610.09202](http://arxiv.org/abs/2610.09202)|
 |**2026-10-05**|**Characterizing High Bandwidth Flash for LLM Serving**|Zack Yu et.al.|[2609.39131](http://arxiv.org/abs/2609.39131)|
 |**2026-10-05**|**Can Agent Harnesses and Inference Engines Hear Each Other? The HEAR Protocol for Agentic LLM Serving**|Jiaqi Zhao et.al.|[2610.06597](http://arxiv.org/abs/2610.06597)|
 |**2026-10-05**|**Request Order Matters: Cache-History Sensitivity in Selective KV-Cache Reuse for Rolling Agents**|Tiffany Gu et.al.|[2610.05833](http://arxiv.org/abs/2610.05833)|
@@ -76,6 +79,7 @@ _Updated on 2026.10.07_
 |**2026-09-24**|**NebulaSD: Many-for-Many Speculative Decoding**|Junhao He et.al.|[2609.29364](http://arxiv.org/abs/2609.29364)|
 |**2026-09-23**|**Omni-Flow: A Unified Workflow Orchestration and Distributed KV Cache Sharing Framework for Multimodal Inference**|Bin Xiao et.al.|[2606.31093](http://arxiv.org/abs/2606.31093)|
 |**2026-09-23**|**The KV Cache Working Set: Online Capacity Planning for LLM Inference Systems**|Luchang Li et.al.|[2609.27746](http://arxiv.org/abs/2609.27746)|
+|**2026-09-23**|**KVFetch: Temporal Prefetching for the Missing Half of KV Cache Compression**|Linfeng Dong et.al.|[2610.08811_(ICLR)](http://arxiv.org/abs/2610.08811)|
 |**2026-09-22**|**Preserving Speech-to-Text LLM Capabilities in Speech-to-Speech Generation**|Yuxuan Hu et.al.|[2606.30944](http://arxiv.org/abs/2606.30944)|
 |**2026-09-22**|**StepKV: Step-Aware KV Cache Compression for LLM Agents**|Boyu Feng et.al.|[2609.22158](http://arxiv.org/abs/2609.22158)|
 |**2026-09-22**|**Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs**|Quan Nguyen-Tri et.al.|[2609.26796](http://arxiv.org/abs/2609.26796)|
@@ -173,7 +177,6 @@ _Updated on 2026.10.07_
 |**2026-08-18**|**PatchKV: Efficient KV Cache Recovery for Dynamically Edited LLM Contexts**|Guotao Yang et.al.|[2609.26219](http://arxiv.org/abs/2609.26219)|
 |**2026-08-17**|**ReMP: Low-Downtime Runtime Model-Parallelism Reconfiguration for LLM Serving**|Haipeng Yuan et.al.|[2606.18741](http://arxiv.org/abs/2606.18741)|
 |**2026-08-17**|**Pallas: A Proactive KV Cache Migration Framework for LLM Inference in AI-RAN**|Tianhang Ding et.al.|[2608.16477](http://arxiv.org/abs/2608.16477)|
-|**2026-08-16**|**Self-Indexing Attention for Compression-Compatible Sparse Long-Context LLM Inference**|Xu Yang et.al.|[2609.13205](http://arxiv.org/abs/2609.13205)|
 |**2026-08-15**|**LOCAL: Enabling Learning On-device Contiguously for Agent LLMs**|Xinxin Liu et.al.|[2608.15241](http://arxiv.org/abs/2608.15241)|
 |**2026-08-14**|**Kalypso: Relational LLM Serving**|Hojae Son et.al.|[2607.23815](http://arxiv.org/abs/2607.23815)|
 |**2026-08-14**|**Potential Applications of HBF in LLM Serving Systems**|Yihan Yin et.al.|[2608.13127](http://arxiv.org/abs/2608.13127)|
