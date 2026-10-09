@@ -6,10 +6,11 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.10.08_
+_Updated on 2026.10.09_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-10-08**|**RaReCache: Bridging the Gap in Cross-Model KV Cache Reuse via Rank disagreement-based Selective Recomputation**|Sreetama Sarkar et.al.|[2610.11358](http://arxiv.org/abs/2610.11358)|
 |**2026-10-07**|**Self-Indexing Attention for Compression-Compatible Sparse Long-Context LLM Inference**|Xu Yang et.al.|[2609.13205](http://arxiv.org/abs/2609.13205)|
 |**2026-10-07**|**vLLM-Omni Technical Report: A Unified Serving Runtime for Omni-Modality Generation**|vLLM-Omni Team et.al.|[2610.09307](http://arxiv.org/abs/2610.09307)|
 |**2026-10-06**|**Lachesis: Lifetime-Aware KV Cache Placement for Agent Serving across HBM and High-Bandwidth Flash**|Jaehoon Yang et.al.|[2610.08378](http://arxiv.org/abs/2610.08378)|

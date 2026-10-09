@@ -6,10 +6,13 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.10.08_
+_Updated on 2026.10.09_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-10-08**|**RaReCache: Bridging the Gap in Cross-Model KV Cache Reuse via Rank disagreement-based Selective Recomputation**|Sreetama Sarkar et.al.|[2610.11358](http://arxiv.org/abs/2610.11358)|
+|**2026-10-08**|**Cadence: Strategic Guidance for Coding Agents**|Minxing Wang et.al.|[2610.12269](http://arxiv.org/abs/2610.12269)|
+|**2026-10-08**|**Generative Adversarial Loops**|Kislay Aditya Oj et.al.|[2610.11458](http://arxiv.org/abs/2610.11458)|
 |**2026-10-07**|**AKTS: Sub-Microsecond Kernel Policy Switching for Language-Model Agents**|Mohammadali Khodabandehlou et.al.|[2609.12276_(CHI)](http://arxiv.org/abs/2609.12276)|
 |**2026-10-07**|**Systematic Multi-Agent Vision-and-Language Navigation: Formulation, Benchmark, and Method**|Yunzhe Xu et.al.|[2609.35965](http://arxiv.org/abs/2609.35965)|
 |**2026-10-07**|**vLLM-Omni Technical Report: A Unified Serving Runtime for Omni-Modality Generation**|vLLM-Omni Team et.al.|[2610.09307](http://arxiv.org/abs/2610.09307)|
