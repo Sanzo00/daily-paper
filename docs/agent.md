@@ -6,10 +6,12 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.10.11_
+_Updated on 2026.10.12_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-10-09**|**P-PAS: Prefill-Pressure Adaptive Scheduling for Long-Context LLM Serving**|Timo Sämann et.al.|[2608.15171](http://arxiv.org/abs/2608.15171)|
+|**2026-10-08**|**Selection-Based Structured Reasoning: Toward Efficient Multimodal Search Agents**|Feiyu Gavin Zhu et.al.|[2610.01892](http://arxiv.org/abs/2610.01892)|
 |**2026-10-08**|**RaReCache: Bridging the Gap in Cross-Model KV Cache Reuse via Rank disagreement-based Selective Recomputation**|Sreetama Sarkar et.al.|[2610.11358](http://arxiv.org/abs/2610.11358)|
 |**2026-10-08**|**Cadence: Strategic Guidance for Coding Agents**|Minxing Wang et.al.|[2610.12269](http://arxiv.org/abs/2610.12269)|
 |**2026-10-08**|**Generative Adversarial Loops**|Kislay Aditya Oj et.al.|[2610.11458](http://arxiv.org/abs/2610.11458)|
@@ -47,7 +49,6 @@ _Updated on 2026.10.11_
 |**2026-10-01**|**Mimir: Physics-Grounded LLM Agents for Long-Horizon Irrigation Control**|Yimeng Liu et.al.|[2610.02038](http://arxiv.org/abs/2610.02038)|
 |**2026-10-01**|**TRACE: Tackling Real-World Resource Assignment Problems via Agentic Heuristic Design**|Jose A. Ayala-Romero et.al.|[2610.01887](http://arxiv.org/abs/2610.01887)|
 |**2026-10-01**|**The Persona Is Still There, but Who Is Speaking? Latent Identity Reversion in Persistent AI Agents**|David Fraile Navarro et.al.|[2610.01490](http://arxiv.org/abs/2610.01490)|
-|**2026-10-01**|**Selection-Based Structured Reasoning: Toward Efficient Multimodal Search Agents**|Feiyu Gavin Zhu et.al.|[2610.01892](http://arxiv.org/abs/2610.01892)|
 |**2026-10-01**|**Prompted to Discriminate: Generalizing Malicious-Input Probes in the Wild**|Elad David et.al.|[2610.02413_(NeurIPS)](http://arxiv.org/abs/2610.02413)|
 |**2026-10-01**|**ProsaBuddy: Assisting Mechanized Real-Time Schedulability Analysis with LLM-based Agents**|Junyi Liu et.al.|[2610.03796](http://arxiv.org/abs/2610.03796)|
 |**2026-09-30**|**Nalar: Workflow-Aware Management of Agentic Applications**|Saurabh Agarwal et.al.|[2601.05109](http://arxiv.org/abs/2601.05109)|
@@ -174,7 +175,6 @@ _Updated on 2026.10.11_
 |**2026-08-16**|**Aborted but Not Forgotten: KV-Cache Retention Breaks Rollback Consistency in Language Agents**|Guijia Zhang et.al.|[2608.15939](http://arxiv.org/abs/2608.15939)|
 |**2026-08-15**|**LOCAL: Enabling Learning On-device Contiguously for Agent LLMs**|Xinxin Liu et.al.|[2608.15241](http://arxiv.org/abs/2608.15241)|
 |**2026-08-15**|**Anatomy of a Quantized Agent: VRAM Stability and Forecasting in Code-Synthesis Agentic Workloads**|Anubhab Banerjee et.al.|[2608.15117](http://arxiv.org/abs/2608.15117)|
-|**2026-08-15**|**P-PAS: Prefill-Pressure Adaptive Scheduling for Long-Context LLM Serving**|Timo Sämann et.al.|[2608.15171](http://arxiv.org/abs/2608.15171)|
 |**2026-08-15**|**When Does Distributed AI Inference Need More Wide-Area Bandwidth? A Co-Design Evaluation of Optical, Packet, and Software Levers**|Prasanna C et.al.|[2608.14967](http://arxiv.org/abs/2608.14967)|
 |**2026-08-13**|**VoiceChat-TTS: A Low-Latency Continuous Speech Synthesis Model for Interactive Agents**|Edresson Casanova et.al.|[2608.13831](http://arxiv.org/abs/2608.13831)|
 |**2026-08-11**|**A Fast Locality Simulator for GEMM Design-Space Exploration on Multi-Chiplet GPUs**|Euijun Chung et.al.|[2606.11716](http://arxiv.org/abs/2606.11716)|
