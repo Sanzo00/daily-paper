@@ -6,10 +6,24 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.10.13_
+_Updated on 2026.10.14_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-10-13**|**Parser Transitions Already Reveal Structural Responsibility: KV Persistence for Structured Generation**|Linze Wu et.al.|[2608.28276](http://arxiv.org/abs/2608.28276)|
+|**2026-10-13**|**An Optical KV Cache Network for Disaggregated LLM Serving**|Seongwon Yoon et.al.|[2610.18444](http://arxiv.org/abs/2610.18444)|
+|**2026-10-13**|**LatentRemedy: Efficient Remedy For Non-Prefix KV Cache Reuse in Multi-Agent Systems**|Zhiwei Chen et.al.|[2610.18014](http://arxiv.org/abs/2610.18014)|
+|**2026-10-12**|**Extending concurrent separation logic to the hardware level to verify the xv6 OS kernel on RISC-V with AI agents**|M. Frans Kaashoek et.al.|[2609.04043](http://arxiv.org/abs/2609.04043)|
+|**2026-10-12**|**PipeSwift: Revisiting Pipeline Parallelism for Large-Scale Completion-Oriented Agentic LLM Serving**|Shiju Wang et.al.|[2609.16491](http://arxiv.org/abs/2609.16491)|
+|**2026-10-12**|**CIRRA: Dual-Level Continual Instruction Reconciliation with Ongoing Execution for Embodied Robot Agents in Interactive Household Tasks**|Ci Zhang et.al.|[2610.08862](http://arxiv.org/abs/2610.08862)|
+|**2026-10-12**|**When Goals Leak Across Relationships: How Cached Goal Representations Shape Cross-Client Decisions**|Saloni Gupta et.al.|[2610.17365_(AVI)](http://arxiv.org/abs/2610.17365)|
+|**2026-10-12**|**Think Before You Speak: Enabling Training-Free Latent Communication Between Language Models**|Rishi Khare et.al.|[2610.16165](http://arxiv.org/abs/2610.16165)|
+|**2026-10-12**|**PID-Gated Continual Prompt Adaptation Under Noisy Feedback**|Zhentao Xu et.al.|[2610.16129](http://arxiv.org/abs/2610.16129)|
+|**2026-10-11**|**Context-Aware Precision Scheduling for Small Language Models**|Mukund Athmaram et.al.|[2610.15640](http://arxiv.org/abs/2610.15640)|
+|**2026-10-10**|**Swarm Telepathy: Prefill-Free KV-Cache Transfer Across Families**|Abdulrahman Alabdulkareem et.al.|[2610.15095](http://arxiv.org/abs/2610.15095)|
+|**2026-10-10**|**Vesta: Queueing-Aware LLM Scheduling for Real-World Workloads**|Lancheng Zou et.al.|[2610.14686](http://arxiv.org/abs/2610.14686)|
+|**2026-10-10**|**AgentWeave: Efficient Distributed Agent Serving via Flow Decomposition**|Kaibin Guo et.al.|[2610.14804](http://arxiv.org/abs/2610.14804)|
+|**2026-10-10**|**Iterate on an LLM, Serve on an SLM**|Keegan Wang et.al.|[2610.14576_(NeurIPS)](http://arxiv.org/abs/2610.14576)|
 |**2026-10-09**|**P-PAS: Prefill-Pressure Adaptive Scheduling for Long-Context LLM Serving**|Timo Sämann et.al.|[2608.15171](http://arxiv.org/abs/2608.15171)|
 |**2026-10-08**|**Selection-Based Structured Reasoning: Toward Efficient Multimodal Search Agents**|Feiyu Gavin Zhu et.al.|[2610.01892](http://arxiv.org/abs/2610.01892)|
 |**2026-10-08**|**RaReCache: Bridging the Gap in Cross-Model KV Cache Reuse via Rank disagreement-based Selective Recomputation**|Sreetama Sarkar et.al.|[2610.11358](http://arxiv.org/abs/2610.11358)|
@@ -32,7 +46,6 @@ _Updated on 2026.10.13_
 |**2026-10-05**|**Request Order Matters: Cache-History Sensitivity in Selective KV-Cache Reuse for Rolling Agents**|Tiffany Gu et.al.|[2610.05833](http://arxiv.org/abs/2610.05833)|
 |**2026-10-05**|**Verifying Coordination in Parallel Coding Agents: NP-Bench and a Scheduling Planner**|Sumanyu Muku et.al.|[2610.07261](http://arxiv.org/abs/2610.07261)|
 |**2026-10-05**|**See What I See, Know What I Think: Dense Latent Communication Across Heterogeneous Agents**|Siyi Chen et.al.|[2606.13594](http://arxiv.org/abs/2606.13594)|
-|**2026-10-05**|**CIRRA: Dual-Level Continual Instruction Reconciliation with Ongoing Execution for Embodied Robot Agents in Interactive Household Tasks**|Ci Zhang et.al.|[2610.08862](http://arxiv.org/abs/2610.08862)|
 |**2026-10-03**|**KV Cache Translation across Heterogeneous Large Language Models**|Jin-woo Lee et.al.|[2607.28979](http://arxiv.org/abs/2607.28979)|
 |**2026-10-03**|**Asymmetric Repository Lineage Modeling and Verifier-Guided Coordination in Concurrent AI Coding Agents**|Arjun Subramanian et.al.|[2610.04779](http://arxiv.org/abs/2610.04779)|
 |**2026-10-03**|**MASBench: Benchmarking LLM-based Multi-Agent Collaboration under Partial Observability**|Qizhi Chu et.al.|[2610.04672](http://arxiv.org/abs/2610.04672)|
@@ -95,9 +108,7 @@ _Updated on 2026.10.13_
 |**2026-09-21**|**Agentic AI Workload Characteristics**|Yichao Yuan et.al.|[2605.26297_(ISWC)](http://arxiv.org/abs/2605.26297)|
 |**2026-09-21**|**Just Noticeable Difference Modeling for Token Compression in Vision-Language-Action Models**|Zhuoyuan Li et.al.|[2608.21247](http://arxiv.org/abs/2608.21247)|
 |**2026-09-21**|**Luck Is Not Skill: When Do Paired Rollouts Help Group-Relative RL of LLM Agents?**|Nazmus Sakib et.al.|[2609.24144](http://arxiv.org/abs/2609.24144)|
-|**2026-09-20**|**Extending concurrent separation logic to the hardware level to verify the xv6 OS kernel on RISC-V with AI agents**|M. Frans Kaashoek et.al.|[2609.04043](http://arxiv.org/abs/2609.04043)|
 |**2026-09-20**|**RoofLang: Enabling AI-Driven Architecting of LLM Inference Systems**|Ziyue Yang et.al.|[2609.12551_(DATE)](http://arxiv.org/abs/2609.12551)|
-|**2026-09-20**|**PipeSwift: Revisiting Pipeline Parallelism for Large-Scale Completion-Oriented Agentic LLM Serving**|Shiju Wang et.al.|[2609.16491](http://arxiv.org/abs/2609.16491)|
 |**2026-09-19**|**From Inference Engine to Inference Control Plane: Connecting vLLM, llm-d, and the Evolution of Efficient Distributed LLM Serving**|Twinkll Sisodia et.al.|[2609.23130_(DIS)](http://arxiv.org/abs/2609.23130)|
 |**2026-09-19**|**DeepSeek Elastic Compute (DSec): A Sandbox Infrastructure for Effective Agentic Training at Scale**|Jialiang Huang et.al.|[2609.22978_(ATC)](http://arxiv.org/abs/2609.22978)|
 |**2026-09-18**|**Staying on the Attack Path: Structured State for Long-Horizon Automated Penetration Testing**|Weizhe Wang et.al.|[2609.07344](http://arxiv.org/abs/2609.07344)|
@@ -148,7 +159,6 @@ _Updated on 2026.10.13_
 |**2026-08-29**|**Spatial-Knowledge-Graph-Grounded LLM Agents for Neighborhood Livability Evaluation**|Haiyan Hao et.al.|[2608.25952](http://arxiv.org/abs/2608.25952)|
 |**2026-08-28**|**TokenPilot: Cache-Efficient Context Management for LLM Agents**|Buqiang Xu et.al.|[2606.17016_(EMNLP)](http://arxiv.org/abs/2606.17016)|
 |**2026-08-28**|**Set-shifting Behavioral Test for Harnessed Agents**|Ye Ziwei et.al.|[2607.13396_(AVI)](http://arxiv.org/abs/2607.13396)|
-|**2026-08-28**|**Parser States Already Know: Structure-Conditioned KV Persistence for Structured Generation**|Linze Wu et.al.|[2608.28276](http://arxiv.org/abs/2608.28276)|
 |**2026-08-28**|**Coverage, Not Credit: Failure-Credit Routing of Zeroth-Order Perturbation Budgets Does Not Improve On-Pool Sample Efficiency for LLM Agents**|Yuxu Ge et.al.|[2608.28011](http://arxiv.org/abs/2608.28011)|
 |**2026-08-27**|**When Does Latent Communication Pay? A Causal Audit of Relayed KV Caches in Multi-Agent LLMs**|Jiaming Cheng et.al.|[2608.04893](http://arxiv.org/abs/2608.04893)|
 |**2026-08-27**|**When Context Gets Root: Privilege Escalation in LLM Harnesses**|Xingbang He et.al.|[2608.27299](http://arxiv.org/abs/2608.27299)|

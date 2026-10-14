@@ -6,11 +6,30 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.10.13_
+_Updated on 2026.10.14_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-10-13**|**PatchKV: Weight-Space Compensation of KV Cache**|Chanryeol Lee et.al.|[2609.39329_(ATC)](http://arxiv.org/abs/2609.39329)|
+|**2026-10-13**|**An Optical KV Cache Network for Disaggregated LLM Serving**|Seongwon Yoon et.al.|[2610.18444](http://arxiv.org/abs/2610.18444)|
+|**2026-10-13**|**RadixFlow: Filling Execution Bubbles in Prefix-Cached Hybrid LLM Serving**|Huihao Jing et.al.|[2610.18143](http://arxiv.org/abs/2610.18143)|
+|**2026-10-13**|**Quota-Based Aging for Prediction-Guided Scheduling in LLM Serving**|Hanzhi Zhang et.al.|[2610.17795_(CCC)](http://arxiv.org/abs/2610.17795)|
+|**2026-10-12**|**MLAfication: Efficiently Enabling High-Fidelity MLA for Modern LLMs**|Zile Wang et.al.|[2610.17202](http://arxiv.org/abs/2610.17202)|
+|**2026-10-12**|**Hashrope: A Persistent Data Structure for Mechanisms of LLM Context Management**|Muntaser Syed et.al.|[2610.16144](http://arxiv.org/abs/2610.16144)|
+|**2026-10-12**|**Think Before You Speak: Enabling Training-Free Latent Communication Between Language Models**|Rishi Khare et.al.|[2610.16165](http://arxiv.org/abs/2610.16165)|
+|**2026-10-11**|**Self-Policy Distillation via Capability-Selective Subspace Projection**|Guangya Hao et.al.|[2605.22675](http://arxiv.org/abs/2605.22675)|
+|**2026-10-11**|**Native Dual Pools or Shared Paging? Memory Organization for Concurrent Hybrid LLM Serving**|Dongwook Kang et.al.|[2610.15755_(DIS)](http://arxiv.org/abs/2610.15755)|
+|**2026-10-11**|**The Price of Precision: A Calibrated Cost Model for Mixed-Precision LLM Serving**|Mukund Athmaram et.al.|[2610.15629](http://arxiv.org/abs/2610.15629)|
+|**2026-10-11**|**E8 Lattice Key Quantization for Low-Bit KV-Cache Compression**|Sasho Nedelkoski et.al.|[2610.15384](http://arxiv.org/abs/2610.15384)|
+|**2026-10-11**|**Compositional Performance Modeling of LLM Inference Clusters with Hierarchical KV Caching**|Ruiyang Ma et.al.|[2610.15366](http://arxiv.org/abs/2610.15366)|
+|**2026-10-11**|**Approximation Algorithms for Dual-Memory Request Scheduling in Disaggregated LLM Inference**|Xin Wang et.al.|[2610.15579](http://arxiv.org/abs/2610.15579)|
+|**2026-10-10**|**Requests of a Feather Must Flock Together: Batch Size vs. Prefix Homogeneity in LLM Inference**|Saksham Rathi et.al.|[2605.06046](http://arxiv.org/abs/2605.06046)|
+|**2026-10-10**|**OScaR: The Occam's Razor for Extreme KV Cache Quantization in LLMs and Beyond**|Zunhai Su et.al.|[2605.19660](http://arxiv.org/abs/2605.19660)|
+|**2026-10-10**|**GateSight: Recurrent Memory Anticipates Attention Memory for Query-Agnostic KV Eviction in Hybrid LLMs**|Junjie Li et.al.|[2610.14754](http://arxiv.org/abs/2610.14754)|
+|**2026-10-10**|**Accelerating Cross-Model LLM Inference via Attention Map Reuse**|Zhan Jin et.al.|[2610.14688](http://arxiv.org/abs/2610.14688)|
+|**2026-10-10**|**Vesta: Queueing-Aware LLM Scheduling for Real-World Workloads**|Lancheng Zou et.al.|[2610.14686](http://arxiv.org/abs/2610.14686)|
 |**2026-10-09**|**TRACE: Rollout-Guided Quantization-Aware Training for FP4 Reinforcement Learning of MoE Language Models**|Xin Wang et.al.|[2610.07767](http://arxiv.org/abs/2610.07767)|
+|**2026-10-09**|**Simulate Before You Scale: High-Fidelity LLM Inference Planning Without GPUs**|Dipanwita Guhathakurta et.al.|[2610.14255_(ICS)](http://arxiv.org/abs/2610.14255)|
 |**2026-10-08**|**RaReCache: Bridging the Gap in Cross-Model KV Cache Reuse via Rank disagreement-based Selective Recomputation**|Sreetama Sarkar et.al.|[2610.11358](http://arxiv.org/abs/2610.11358)|
 |**2026-10-07**|**Self-Indexing Attention for Compression-Compatible Sparse Long-Context LLM Inference**|Xu Yang et.al.|[2609.13205](http://arxiv.org/abs/2609.13205)|
 |**2026-10-07**|**vLLM-Omni Technical Report: A Unified Serving Runtime for Omni-Modality Generation**|vLLM-Omni Team et.al.|[2610.09307](http://arxiv.org/abs/2610.09307)|
@@ -43,7 +62,6 @@ _Updated on 2026.10.13_
 |**2026-09-30**|**KV-Kaizen: Learning Context-Adaptive Cache Compression Choices**|Joao Monteiro et.al.|[2609.37988](http://arxiv.org/abs/2609.37988)|
 |**2026-09-30**|**Capture the lifecycle: KV Cache management in ReAct Agents with KVTether**|Kaihua Fu et.al.|[2609.39819](http://arxiv.org/abs/2609.39819)|
 |**2026-09-30**|**Working Around the Compute Ceiling: Byte-Exact Memory in Galahad Makes LLM Reading a One-Time Cost LLM Reading a One-Time Cost**|Sietse Schelpe et.al.|[2609.39358](http://arxiv.org/abs/2609.39358)|
-|**2026-09-30**|**PatchKV: Weight-Space Compensation of KV Cache**|Chanryeol Lee et.al.|[2609.39329_(ATC)](http://arxiv.org/abs/2609.39329)|
 |**2026-09-30**|**SparseEngine: Sparse-First Inference Engine**|Jitai Hao et.al.|[2609.39068](http://arxiv.org/abs/2609.39068)|
 |**2026-09-30**|**Preserving Provenance in Shared KV Caches for LLM Serving**|Wei Song et.al.|[2609.38706](http://arxiv.org/abs/2609.38706)|
 |**2026-09-30**|**Vosti: Specifying, Implementing, and Verifying Deterministic LLM Inference**|Jianxing Qin et.al.|[2609.38981](http://arxiv.org/abs/2609.38981)|
@@ -375,7 +393,6 @@ _Updated on 2026.10.13_
 |**2026-05-21**|**GraphFlow: A Graph-Based Workflow Management for Efficient LLM-Agent Serving**|Ao Li et.al.|[2605.22566_(ICML)](http://arxiv.org/abs/2605.22566)|
 |**2026-05-21**|**MuKV: Multi-Grained KV Cache Compression for Long Streaming Video Question-Answering**|Junbin Xiao et.al.|[2605.22269_(CVPR)](http://arxiv.org/abs/2605.22269)|
 |**2026-05-21**|**LCGuard: Latent Communication Guard for Safe KV Sharing in Multi-Agent Systems**|Sadia Asif et.al.|[2605.22786](http://arxiv.org/abs/2605.22786)|
-|**2026-05-21**|**Self-Policy Distillation via Capability-Selective Subspace Projection**|Guangya Hao et.al.|[2605.22675](http://arxiv.org/abs/2605.22675)|
 |**2026-05-21**|**ArborKV: Structure-Aware KV Cache Management for Scaling Tree-based LLM Reasoning**|Yeqiu Chen et.al.|[2605.22106](http://arxiv.org/abs/2605.22106)|
 |**2026-05-21**|**DecodeShare: Tracing the Shared Subspace of LLM Decode-Time Decisions**|Zishan Shao et.al.|[2607.20469](http://arxiv.org/abs/2607.20469)|
 |**2026-05-21**|**KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference**|Srihari Unnikrishnan et.al.|[2608.21362](http://arxiv.org/abs/2608.21362)|
@@ -383,7 +400,6 @@ _Updated on 2026.10.13_
 |**2026-05-20**|**Evaluating Temporal Semantic Caching and Workflow Optimization in Agentic Plan-Execute Pipelines**|Alimurtaza Mustafa Merchant et.al.|[2605.20630](http://arxiv.org/abs/2605.20630)|
 |**2026-05-20**|**Runtime-Certified Bounded-Error Quantized Attention**|Dean Calver et.al.|[2605.20868](http://arxiv.org/abs/2605.20868)|
 |**2026-05-19**|**Understanding Inference Scaling for LLMs: Bottlenecks, Trade-offs, and Performance Principles**|Moiz Arif et.al.|[2605.19775_(CHI)](http://arxiv.org/abs/2605.19775)|
-|**2026-05-19**|**OScaR: The Occam's Razor for Extreme KV Cache Quantization in LLMs and Beyond**|Zunhai Su et.al.|[2605.19660](http://arxiv.org/abs/2605.19660)|
 |**2026-05-18**|**SuperInfer: SLO-Aware Rotary Scheduling and Memory Management for LLM Inference on Superchips**|Jiahuan Yu et.al.|[2601.20309](http://arxiv.org/abs/2601.20309)|
 |**2026-05-18**|**OSCAR: Offline Spectral Covariance-Aware Rotation for 2-bit KV Cache Quantization**|Zhongzhu Zhou et.al.|[2605.17757](http://arxiv.org/abs/2605.17757)|
 |**2026-05-18**|**KVDrive: A Holistic Multi-Tier KV Cache Management System for Long-Context LLM Inference**|Jian Lin et.al.|[2605.18071](http://arxiv.org/abs/2605.18071)|
@@ -423,7 +439,6 @@ _Updated on 2026.10.13_
 |**2026-05-07**|**Efficient Serving for Dynamic Agent Workflows with Prediction-based KV-Cache Management**|Haoyu Zheng et.al.|[2605.06472](http://arxiv.org/abs/2605.06472)|
 |**2026-05-07**|**Irminsul: MLA-Native Position-Independent Caching for Agentic LLM Serving**|Bole Ma et.al.|[2605.05696](http://arxiv.org/abs/2605.05696)|
 |**2026-05-07**|**TokenStack: A Heterogeneous HBM-PIM Architecture and Runtime for Efficient LLM Inference**|Zhuoran Li et.al.|[2605.05639](http://arxiv.org/abs/2605.05639)|
-|**2026-05-07**|**Requests of a Feather Must Flock Together: Batch Size vs. Prefix Homogeneity in LLM Inference**|Saksham Rathi et.al.|[2605.06046](http://arxiv.org/abs/2605.06046)|
 |**2026-05-07**|**Regulating Branch Parallelism in LLM Serving**|Swapnil Gandhi et.al.|[2605.06914](http://arxiv.org/abs/2605.06914)|
 |**2026-05-07**|**When Does Value-Aware KV Eviction Help? A Fixed-Contract Diagnostic for Non-Monotone Cache Compression**|Ruijie Zhang et.al.|[2605.08234](http://arxiv.org/abs/2605.08234)|
 |**2026-05-07**|**Towards Distributed Inference of LLMs on a P2P Network**|Shabari S Nair et.al.|[2606.17059](http://arxiv.org/abs/2606.17059)|
