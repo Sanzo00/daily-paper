@@ -10,7 +10,11 @@ _Updated on 2026.10.14_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
-|**2026-10-09**|**Verifiable Retrieval for Legal Reasoning through Structure-driven Knowledge Graph**|Ibrahim Siddig et.al.|[2610.13695_(ISWC)](http://arxiv.org/abs/2610.13695)|
+|**2026-10-13**|**PerCache: Predictive Hierarchical Cache for RAG Applications on Mobile Devices**|Kaiwei Liu et.al.|[2601.11553](http://arxiv.org/abs/2601.11553)|
+|**2026-10-13**|**Verifiable Retrieval for Legal Reasoning through Structure-driven Knowledge Graph**|Ibrahim Siddig et.al.|[2610.13695_(ISWC)](http://arxiv.org/abs/2610.13695)|
+|**2026-10-13**|**Configuring RAG Systems: What Breaks, Where Originates, and How to Fix**|Liangyu Chen et.al.|[2610.18567](http://arxiv.org/abs/2610.18567)|
+|**2026-10-12**|**EvoRAG: Making Knowledge Graph-based RAG Automatically Evolve through Feedback Backpropagation**|Zhenbo Fu et.al.|[2604.15676_(ICDE)](http://arxiv.org/abs/2604.15676)|
+|**2026-10-10**|**SEEK: Agentic Knowledge Graph Retrieval for Secure Code Generation**|Varun Gadey et.al.|[2610.14968](http://arxiv.org/abs/2610.14968)|
 |**2026-10-08**|**A Security Meta-Model for Retrieval-Augmented Generation Systems**|Steve Nouyep et.al.|[2610.11893](http://arxiv.org/abs/2610.11893)|
 |**2026-10-08**|**RIT-RAG: Navigating Document Corpora with Retrieval-Induced Trees**|Meghanadh Pulivarthi et.al.|[2610.11370](http://arxiv.org/abs/2610.11370)|
 |**2026-10-08**|**From Retrieval to Reconstruction: Constructing Evolvable Cognitive Memory for Long-Term Dialogue**|Zirui Liao et.al.|[2610.11314_(EMNLP)](http://arxiv.org/abs/2610.11314)|
@@ -236,7 +240,6 @@ _Updated on 2026.10.14_
 |**2026-04-20**|**AutoGraph-R1: End-to-End Reinforcement Learning for Knowledge Graph Construction**|Hong Ting Tsang et.al.|[2510.15339](http://arxiv.org/abs/2510.15339)|
 |**2026-04-20**|**MegaRAG: Multimodal Knowledge Graph-Based Retrieval Augmented Generation**|Chi-Hsiang Hsiao et.al.|[2512.20626_(ACL)](http://arxiv.org/abs/2512.20626)|
 |**2026-04-20**|**Structural Verification for Reliable EDA Code Generation without Tool-in-the-Loop Debugging**|Dinithi Jayasuriya et.al.|[2604.18834](http://arxiv.org/abs/2604.18834)|
-|**2026-04-17**|**EvoRAG: Making Knowledge Graph-based RAG Automatically Evolve through Feedback-driven Backpropagation**|Zhenbo Fu et.al.|[2604.15676](http://arxiv.org/abs/2604.15676)|
 |**2026-04-16**|**LLMOrbit: A Circular Taxonomy of Large Language Models -From Scaling Walls to Agentic AI Systems**|Badri N. Patro et.al.|[2601.14053](http://arxiv.org/abs/2601.14053)|
 |**2026-04-16**|**Enhancing Mental Health Counseling Support in Bangladesh using Culturally-Grounded Knowledge**|Md Arid Hasan et.al.|[2604.14576](http://arxiv.org/abs/2604.14576)|
 |**2026-04-16**|**UrbanClipAtlas: A Visual Analytics Framework for Event and Scene Retrieval in Urban Videos**|Joel Perca et.al.|[2604.15225](http://arxiv.org/abs/2604.15225)|
@@ -389,7 +392,6 @@ _Updated on 2026.10.14_
 |**2025-12-16**|**IaC Generation with LLMs: An Error Taxonomy and A Study on Configuration Knowledge Injection**|Roman Nekrasov et.al.|[2512.14792](http://arxiv.org/abs/2512.14792)|
 |**2025-12-14**|**Comparative Analysis of Neural Retriever-Reranker Pipelines for Retrieval-Augmented Generation over Knowledge Graphs in E-commerce Applications**|Teri Rumble et.al.|[2602.22219_(SC)](http://arxiv.org/abs/2602.22219)|
 |**2025-12-10**|**RouteRAG: Efficient Retrieval-Augmented Generation from Text and Graph via Reinforcement Learning**|Yucan Guo et.al.|[2512.09487](http://arxiv.org/abs/2512.09487)|
-|**2025-12-10**|**PerCache: Predictive Hierarchical Cache for RAG Applications on Mobile Devices**|Kaiwei Liu et.al.|[2601.11553](http://arxiv.org/abs/2601.11553)|
 |**2025-12-09**|**Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval**|Yingyi Zhang et.al.|[2510.08935](http://arxiv.org/abs/2510.08935)|
 |**2025-12-09**|**Knowledge-Guided Large Language Model for Automatic Pediatric Dental Record Understanding and Safe Antibiotic Recommendation**|Zihan Han et.al.|[2512.09127](http://arxiv.org/abs/2512.09127)|
 |**2025-12-09**|**RAGdb: A Zero-Dependency, Embeddable Architecture for Multimodal Retrieval-Augmented Generation on the Edge**|Ahmed Bin Khalid et.al.|[2602.22217](http://arxiv.org/abs/2602.22217)|

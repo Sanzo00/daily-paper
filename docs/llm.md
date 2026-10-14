@@ -14,6 +14,7 @@ _Updated on 2026.10.14_
 |**2026-10-13**|**An Optical KV Cache Network for Disaggregated LLM Serving**|Seongwon Yoon et.al.|[2610.18444](http://arxiv.org/abs/2610.18444)|
 |**2026-10-13**|**RadixFlow: Filling Execution Bubbles in Prefix-Cached Hybrid LLM Serving**|Huihao Jing et.al.|[2610.18143](http://arxiv.org/abs/2610.18143)|
 |**2026-10-13**|**Quota-Based Aging for Prediction-Guided Scheduling in LLM Serving**|Hanzhi Zhang et.al.|[2610.17795_(CCC)](http://arxiv.org/abs/2610.17795)|
+|**2026-10-13**|**MultiAlloc: Budget-Aware Precision Allocation for KV Cache Quantization**|Yangchengyu Zhou et.al.|[2610.18642](http://arxiv.org/abs/2610.18642)|
 |**2026-10-12**|**MLAfication: Efficiently Enabling High-Fidelity MLA for Modern LLMs**|Zile Wang et.al.|[2610.17202](http://arxiv.org/abs/2610.17202)|
 |**2026-10-12**|**Hashrope: A Persistent Data Structure for Mechanisms of LLM Context Management**|Muntaser Syed et.al.|[2610.16144](http://arxiv.org/abs/2610.16144)|
 |**2026-10-12**|**Think Before You Speak: Enabling Training-Free Latent Communication Between Language Models**|Rishi Khare et.al.|[2610.16165](http://arxiv.org/abs/2610.16165)|
