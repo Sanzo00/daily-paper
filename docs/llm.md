@@ -6,26 +6,31 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.10.14_
+_Updated on 2026.10.15_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-10-14**|**OScaR: The Occam's Razor for Extreme KV Cache Quantization in LLMs and Beyond**|Zunhai Su et.al.|[2605.19660](http://arxiv.org/abs/2605.19660)|
+|**2026-10-14**|**Native Dual Pools or Shared Paging? Memory Organization for Concurrent Hybrid LLM Serving**|Dongwook Kang et.al.|[2610.15755_(DIS)](http://arxiv.org/abs/2610.15755)|
+|**2026-10-14**|**JointServe: Serving Multi-Model Agents on Memory-Constrained GPUs**|Daijin Hu et.al.|[2610.19822](http://arxiv.org/abs/2610.19822)|
+|**2026-10-14**|**Delta Tokenizer: Reference-Identical Tokenization of Session Deltas and Segment-Parallelism for Long Prompts on Multicore CPUs**|Zhenyu Zhang et.al.|[2610.19801_(FAST)](http://arxiv.org/abs/2610.19801)|
+|**2026-10-14**|**FOLD: Position-Free Far Memory with Local Order for Long-Context Speculative Decoding**|Shuxuan Li et.al.|[2610.20392](http://arxiv.org/abs/2610.20392)|
+|**2026-10-14**|**PN-Mix: Pair-Norm Guided Mixed-Precision Key Cache Quantization for Efficient Long-Output LLM Inference**|Gil Jae Song et.al.|[2610.19605_(EMNLP)](http://arxiv.org/abs/2610.19605)|
 |**2026-10-13**|**PatchKV: Weight-Space Compensation of KV Cache**|Chanryeol Lee et.al.|[2609.39329_(ATC)](http://arxiv.org/abs/2609.39329)|
 |**2026-10-13**|**An Optical KV Cache Network for Disaggregated LLM Serving**|Seongwon Yoon et.al.|[2610.18444](http://arxiv.org/abs/2610.18444)|
 |**2026-10-13**|**RadixFlow: Filling Execution Bubbles in Prefix-Cached Hybrid LLM Serving**|Huihao Jing et.al.|[2610.18143](http://arxiv.org/abs/2610.18143)|
 |**2026-10-13**|**Quota-Based Aging for Prediction-Guided Scheduling in LLM Serving**|Hanzhi Zhang et.al.|[2610.17795_(CCC)](http://arxiv.org/abs/2610.17795)|
 |**2026-10-13**|**MultiAlloc: Budget-Aware Precision Allocation for KV Cache Quantization**|Yangchengyu Zhou et.al.|[2610.18642](http://arxiv.org/abs/2610.18642)|
+|**2026-10-13**|**Joint Subspace Sparse Attention for Efficient Long-Context Decoding**|Jiwon Song et.al.|[2610.19026](http://arxiv.org/abs/2610.19026)|
 |**2026-10-12**|**MLAfication: Efficiently Enabling High-Fidelity MLA for Modern LLMs**|Zile Wang et.al.|[2610.17202](http://arxiv.org/abs/2610.17202)|
 |**2026-10-12**|**Hashrope: A Persistent Data Structure for Mechanisms of LLM Context Management**|Muntaser Syed et.al.|[2610.16144](http://arxiv.org/abs/2610.16144)|
 |**2026-10-12**|**Think Before You Speak: Enabling Training-Free Latent Communication Between Language Models**|Rishi Khare et.al.|[2610.16165](http://arxiv.org/abs/2610.16165)|
 |**2026-10-11**|**Self-Policy Distillation via Capability-Selective Subspace Projection**|Guangya Hao et.al.|[2605.22675](http://arxiv.org/abs/2605.22675)|
-|**2026-10-11**|**Native Dual Pools or Shared Paging? Memory Organization for Concurrent Hybrid LLM Serving**|Dongwook Kang et.al.|[2610.15755_(DIS)](http://arxiv.org/abs/2610.15755)|
 |**2026-10-11**|**The Price of Precision: A Calibrated Cost Model for Mixed-Precision LLM Serving**|Mukund Athmaram et.al.|[2610.15629](http://arxiv.org/abs/2610.15629)|
 |**2026-10-11**|**E8 Lattice Key Quantization for Low-Bit KV-Cache Compression**|Sasho Nedelkoski et.al.|[2610.15384](http://arxiv.org/abs/2610.15384)|
 |**2026-10-11**|**Compositional Performance Modeling of LLM Inference Clusters with Hierarchical KV Caching**|Ruiyang Ma et.al.|[2610.15366](http://arxiv.org/abs/2610.15366)|
 |**2026-10-11**|**Approximation Algorithms for Dual-Memory Request Scheduling in Disaggregated LLM Inference**|Xin Wang et.al.|[2610.15579](http://arxiv.org/abs/2610.15579)|
 |**2026-10-10**|**Requests of a Feather Must Flock Together: Batch Size vs. Prefix Homogeneity in LLM Inference**|Saksham Rathi et.al.|[2605.06046](http://arxiv.org/abs/2605.06046)|
-|**2026-10-10**|**OScaR: The Occam's Razor for Extreme KV Cache Quantization in LLMs and Beyond**|Zunhai Su et.al.|[2605.19660](http://arxiv.org/abs/2605.19660)|
 |**2026-10-10**|**GateSight: Recurrent Memory Anticipates Attention Memory for Query-Agnostic KV Eviction in Hybrid LLMs**|Junjie Li et.al.|[2610.14754](http://arxiv.org/abs/2610.14754)|
 |**2026-10-10**|**Accelerating Cross-Model LLM Inference via Attention Map Reuse**|Zhan Jin et.al.|[2610.14688](http://arxiv.org/abs/2610.14688)|
 |**2026-10-10**|**Vesta: Queueing-Aware LLM Scheduling for Real-World Workloads**|Lancheng Zou et.al.|[2610.14686](http://arxiv.org/abs/2610.14686)|
