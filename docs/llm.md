@@ -6,16 +6,23 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.10.15_
+_Updated on 2026.10.16_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-10-15**|**When the KV Cache Is Slower Than the GPU: Scaling Remote KV Tiers for Context-Parallel Prefill**|Muhammad Ibrahim et.al.|[2610.21500](http://arxiv.org/abs/2610.21500)|
+|**2026-10-15**|**PriorityFEC: Deadline-Aware Streaming FEC for KV-Cache Handoff in Edge Multi-Agent Systems**|Han Shen et.al.|[2610.21390](http://arxiv.org/abs/2610.21390)|
+|**2026-10-15**|**Characterizing Predictability-Latency Trade-offs of KV-Cache SSD Offloading in LMCache for LLM Serving Systems**|Ying He et.al.|[2610.21249](http://arxiv.org/abs/2610.21249)|
+|**2026-10-15**|**Range: Decoupling KV-Cache Reuse Granularity from Storage Work**|Dingsen Shi et.al.|[2610.21241](http://arxiv.org/abs/2610.21241)|
+|**2026-10-15**|**From Long Context to Selective Memory:A Survey of Memory-Centric Compression for Large Language Models**|Chaogui Gou et.al.|[2610.21165](http://arxiv.org/abs/2610.21165)|
+|**2026-10-15**|**PrefixFlow: Training-Time KV Caching for Schedule-Level Prefix Reuse in LLM RL Training**|Pengbo Li et.al.|[2606.01143_(ATC)](http://arxiv.org/abs/2606.01143)|
 |**2026-10-14**|**OScaR: The Occam's Razor for Extreme KV Cache Quantization in LLMs and Beyond**|Zunhai Su et.al.|[2605.19660](http://arxiv.org/abs/2605.19660)|
 |**2026-10-14**|**Native Dual Pools or Shared Paging? Memory Organization for Concurrent Hybrid LLM Serving**|Dongwook Kang et.al.|[2610.15755_(DIS)](http://arxiv.org/abs/2610.15755)|
 |**2026-10-14**|**JointServe: Serving Multi-Model Agents on Memory-Constrained GPUs**|Daijin Hu et.al.|[2610.19822](http://arxiv.org/abs/2610.19822)|
 |**2026-10-14**|**Delta Tokenizer: Reference-Identical Tokenization of Session Deltas and Segment-Parallelism for Long Prompts on Multicore CPUs**|Zhenyu Zhang et.al.|[2610.19801_(FAST)](http://arxiv.org/abs/2610.19801)|
 |**2026-10-14**|**FOLD: Position-Free Far Memory with Local Order for Long-Context Speculative Decoding**|Shuxuan Li et.al.|[2610.20392](http://arxiv.org/abs/2610.20392)|
 |**2026-10-14**|**PN-Mix: Pair-Norm Guided Mixed-Precision Key Cache Quantization for Efficient Long-Output LLM Inference**|Gil Jae Song et.al.|[2610.19605_(EMNLP)](http://arxiv.org/abs/2610.19605)|
+|**2026-10-13**|**HAServe: Horizon-Aware Scheduling and Memory Co-Design for Efficient LLM Serving**|Xingyu Qu et.al.|[2605.08581](http://arxiv.org/abs/2605.08581)|
 |**2026-10-13**|**PatchKV: Weight-Space Compensation of KV Cache**|Chanryeol Lee et.al.|[2609.39329_(ATC)](http://arxiv.org/abs/2609.39329)|
 |**2026-10-13**|**An Optical KV Cache Network for Disaggregated LLM Serving**|Seongwon Yoon et.al.|[2610.18444](http://arxiv.org/abs/2610.18444)|
 |**2026-10-13**|**RadixFlow: Filling Execution Bubbles in Prefix-Cached Hybrid LLM Serving**|Huihao Jing et.al.|[2610.18143](http://arxiv.org/abs/2610.18143)|
@@ -433,7 +440,6 @@ _Updated on 2026.10.15_
 |**2026-05-10**|**Not All Thoughts Need HBM: Semantics-Aware Memory Hierarchy for LLM Reasoning**|Aojie Yuan et.al.|[2605.09490_(ICML)](http://arxiv.org/abs/2605.09490)|
 |**2026-05-09**|**When Hidden States Drift: Can KV Caches Rescue Long-Range Speculative Decoding?**|Tianyu Liu et.al.|[2604.26412](http://arxiv.org/abs/2604.26412)|
 |**2026-05-09**|**Memory Inception: Latent-Space KV Cache Manipulation for Steering LLMs**|Andy Zeyi Liu et.al.|[2605.06225](http://arxiv.org/abs/2605.06225)|
-|**2026-05-09**|**PRISM: Fast Online LLM Serving via Scheduling-Memory Co-design**|Xingyu Qu et.al.|[2605.08581](http://arxiv.org/abs/2605.08581)|
 |**2026-05-09**|**Relative Kinetic Utility for Reasoning-Aware Structural Pruning in Large Language Models**|Tianhao Qian et.al.|[2605.09008](http://arxiv.org/abs/2605.09008)|
 |**2026-05-08**|**RcLLM: Accelerating Generative Recommendation via Beyond-Prefix KV Caching**|Zhan Zhao et.al.|[2605.07443_(ICDCS)](http://arxiv.org/abs/2605.07443)|
 |**2026-05-08**|**WiCER: Wiki-memory Compile, Evaluate, Refine Iterative Knowledge Compilation for LLM Wiki Systems**|Juan M. Huerta et.al.|[2605.07068](http://arxiv.org/abs/2605.07068)|

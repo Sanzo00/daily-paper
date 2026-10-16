@@ -6,10 +6,15 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.10.15_
+_Updated on 2026.10.16_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-10-15**|**KV-streams for Efficient Compaction in Agentic Reinforcement Learning**|Emiliano Penaloza et.al.|[2609.35750](http://arxiv.org/abs/2609.35750)|
+|**2026-10-15**|**Close Enough is Nowhere Near: Fidelity-Consumability Decoupling in KV Caches**|Adam Deng et.al.|[2610.22016](http://arxiv.org/abs/2610.22016)|
+|**2026-10-15**|**PriorityFEC: Deadline-Aware Streaming FEC for KV-Cache Handoff in Edge Multi-Agent Systems**|Han Shen et.al.|[2610.21390](http://arxiv.org/abs/2610.21390)|
+|**2026-10-15**|**From Long Context to Selective Memory:A Survey of Memory-Centric Compression for Large Language Models**|Chaogui Gou et.al.|[2610.21165](http://arxiv.org/abs/2610.21165)|
+|**2026-10-15**|**ReFlow: Replay-Driven Decoupling for Efficient RL Post-Training**|Yukun Tian et.al.|[2610.21640](http://arxiv.org/abs/2610.21640)|
 |**2026-10-14**|**JointServe: Serving Multi-Model Agents on Memory-Constrained GPUs**|Daijin Hu et.al.|[2610.19822](http://arxiv.org/abs/2610.19822)|
 |**2026-10-14**|**Delta Tokenizer: Reference-Identical Tokenization of Session Deltas and Segment-Parallelism for Long Prompts on Multicore CPUs**|Zhenyu Zhang et.al.|[2610.19801_(FAST)](http://arxiv.org/abs/2610.19801)|
 |**2026-10-14**|**What Makes a Social Agent's Interactions Effective? Learning from Verifiable Outcomes in Paired Worlds**|Caixin Kang et.al.|[2610.20195](http://arxiv.org/abs/2610.20195)|
@@ -79,7 +84,6 @@ _Updated on 2026.10.15_
 |**2026-09-30**|**Can Agents Trust Their Skills? Uncovering Unsafe Chains of Trust in Skill-Based LLM Agents**|Yan Wang et.al.|[2609.39065](http://arxiv.org/abs/2609.39065)|
 |**2026-09-30**|**DAMP: Decay-Aware Mixed-Precision Recurrent-State Quantization**|Tao Zhang et.al.|[2608.27513](http://arxiv.org/abs/2608.27513)|
 |**2026-09-29**|**Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE**|Haozhan Tang et.al.|[2607.07740_(DATE)](http://arxiv.org/abs/2607.07740)|
-|**2026-09-29**|**KV-streams for Efficient Compaction in Agentic Reinforcement Learning**|Emiliano Penaloza et.al.|[2609.35750](http://arxiv.org/abs/2609.35750)|
 |**2026-09-29**|**Prefill-Free Cross-Family KV Cache Transfer for Heterogeneous Multi-Agent LLMs**|Vincent-Daniel Yun et.al.|[2609.32259](http://arxiv.org/abs/2609.32259)|
 |**2026-09-29**|**SPLASH: Switching Parallel Layouts of Attention with Seamless Handoff for LLM Serving**|Chuan Liu et.al.|[2609.37626](http://arxiv.org/abs/2609.37626)|
 |**2026-09-29**|**Efficient Agentic LLM Serving over SSD-based Sparse KV Storage**|Wenhao He et.al.|[2609.36938](http://arxiv.org/abs/2609.36938)|
