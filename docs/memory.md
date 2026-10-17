@@ -6,7 +6,7 @@ nav_order: 5
 
 # Memory Papers
 
-_Updated on 2026.10.16_
+_Updated on 2026.10.17_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
