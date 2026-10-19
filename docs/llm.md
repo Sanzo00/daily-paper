@@ -6,16 +6,24 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.10.18_
+_Updated on 2026.10.19_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-10-16**|**HBFSim: A Simulator for Exploring HBF in Memory Hierarchies for LLMs**|Jinheng Li et.al.|[2610.23503](http://arxiv.org/abs/2610.23503)|
+|**2026-10-16**|**BS-Spec: BFP-Based Bit-Sharing for Self-Speculative LLM Decoding with LUT-Driven Mixed-Precision Acceleration**|Jiwoo Kim et.al.|[2610.22877](http://arxiv.org/abs/2610.22877)|
+|**2026-10-16**|**Understanding KV Residency in Production-Scale Agentic LLM Workloads**|Mayank Arya et.al.|[2610.22863](http://arxiv.org/abs/2610.22863)|
+|**2026-10-16**|**Stealthy Poisoning Attacks via Reused KV Cache of Reasoning**|L. Zhu et.al.|[2610.22873](http://arxiv.org/abs/2610.22873)|
+|**2026-10-16**|**FuseRAG: Fusing Structure and Evidence into Inference for Cost-Efficient Graph-based RAG**|Tingqi Wang et.al.|[2610.22818](http://arxiv.org/abs/2610.22818)|
+|**2026-10-16**|**Prism Attention: Proposal-Refined Index Sharing Mechanism for Efficient LLMs Inference**|Zhenxu Tian et.al.|[2610.22985_(NeurIPS)](http://arxiv.org/abs/2610.22985)|
 |**2026-10-15**|**When the KV Cache Is Slower Than the GPU: Scaling Remote KV Tiers for Context-Parallel Prefill**|Muhammad Ibrahim et.al.|[2610.21500](http://arxiv.org/abs/2610.21500)|
 |**2026-10-15**|**PriorityFEC: Deadline-Aware Streaming FEC for KV-Cache Handoff in Edge Multi-Agent Systems**|Han Shen et.al.|[2610.21390](http://arxiv.org/abs/2610.21390)|
 |**2026-10-15**|**Characterizing Predictability-Latency Trade-offs of KV-Cache SSD Offloading in LMCache for LLM Serving Systems**|Ying He et.al.|[2610.21249](http://arxiv.org/abs/2610.21249)|
 |**2026-10-15**|**Range: Decoupling KV-Cache Reuse Granularity from Storage Work**|Dingsen Shi et.al.|[2610.21241](http://arxiv.org/abs/2610.21241)|
 |**2026-10-15**|**From Long Context to Selective Memory:A Survey of Memory-Centric Compression for Large Language Models**|Chaogui Gou et.al.|[2610.21165](http://arxiv.org/abs/2610.21165)|
 |**2026-10-15**|**PrefixFlow: Training-Time KV Caching for Schedule-Level Prefix Reuse in LLM RL Training**|Pengbo Li et.al.|[2606.01143_(ATC)](http://arxiv.org/abs/2606.01143)|
+|**2026-10-15**|**MemLLM: End-to-end In-Storage Acceleration of On-device Retrieval-Augmented Generation using Precomputed KV Caches**|Seungkwan Kang et.al.|[2610.22579_(MICRO)](http://arxiv.org/abs/2610.22579)|
+|**2026-10-15**|**SAFETYEDIT: Sparse Internal Targets with Prompt-Wide Control for LLM Jailbreak Backdoors**|Yutong Ke et.al.|[2610.22640](http://arxiv.org/abs/2610.22640)|
 |**2026-10-14**|**OScaR: The Occam's Razor for Extreme KV Cache Quantization in LLMs and Beyond**|Zunhai Su et.al.|[2605.19660](http://arxiv.org/abs/2605.19660)|
 |**2026-10-14**|**Native Dual Pools or Shared Paging? Memory Organization for Concurrent Hybrid LLM Serving**|Dongwook Kang et.al.|[2610.15755_(DIS)](http://arxiv.org/abs/2610.15755)|
 |**2026-10-14**|**JointServe: Serving Multi-Model Agents on Memory-Constrained GPUs**|Daijin Hu et.al.|[2610.19822](http://arxiv.org/abs/2610.19822)|

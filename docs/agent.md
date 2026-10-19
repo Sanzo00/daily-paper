@@ -6,15 +6,20 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.10.18_
+_Updated on 2026.10.19_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-10-16**|**DLite: History-free Speculative Decoding for Agentic AI**|Jiaming Xu et.al.|[2610.23787](http://arxiv.org/abs/2610.23787)|
+|**2026-10-16**|**Thought Blocks: Non-Autoregressive Latent Communication for Multi-Agent Systems via Trajectory-to-State Compilation**|Zhenhan Guan et.al.|[2610.23056](http://arxiv.org/abs/2610.23056)|
+|**2026-10-16**|**Understanding KV Residency in Production-Scale Agentic LLM Workloads**|Mayank Arya et.al.|[2610.22863](http://arxiv.org/abs/2610.22863)|
+|**2026-10-16**|**On the possibilities and limitations of LLM-based multi-agent systems for multi-criteria decision-making in healthcare operations management**|Marco Boresta et.al.|[2610.23673](http://arxiv.org/abs/2610.23673)|
 |**2026-10-15**|**KV-streams for Efficient Compaction in Agentic Reinforcement Learning**|Emiliano Penaloza et.al.|[2609.35750](http://arxiv.org/abs/2609.35750)|
 |**2026-10-15**|**Close Enough is Nowhere Near: Fidelity-Consumability Decoupling in KV Caches**|Adam Deng et.al.|[2610.22016](http://arxiv.org/abs/2610.22016)|
 |**2026-10-15**|**PriorityFEC: Deadline-Aware Streaming FEC for KV-Cache Handoff in Edge Multi-Agent Systems**|Han Shen et.al.|[2610.21390](http://arxiv.org/abs/2610.21390)|
 |**2026-10-15**|**From Long Context to Selective Memory:A Survey of Memory-Centric Compression for Large Language Models**|Chaogui Gou et.al.|[2610.21165](http://arxiv.org/abs/2610.21165)|
 |**2026-10-15**|**ReFlow: Replay-Driven Decoupling for Efficient RL Post-Training**|Yukun Tian et.al.|[2610.21640](http://arxiv.org/abs/2610.21640)|
+|**2026-10-15**|**What It Is, Not What It Says: Securing Agentic Browsing Interactions with Web Semantics**|Umar Iqbal et.al.|[2610.22697](http://arxiv.org/abs/2610.22697)|
 |**2026-10-14**|**JointServe: Serving Multi-Model Agents on Memory-Constrained GPUs**|Daijin Hu et.al.|[2610.19822](http://arxiv.org/abs/2610.19822)|
 |**2026-10-14**|**Delta Tokenizer: Reference-Identical Tokenization of Session Deltas and Segment-Parallelism for Long Prompts on Multicore CPUs**|Zhenyu Zhang et.al.|[2610.19801_(FAST)](http://arxiv.org/abs/2610.19801)|
 |**2026-10-14**|**What Makes a Social Agent's Interactions Effective? Learning from Verifiable Outcomes in Paired Worlds**|Caixin Kang et.al.|[2610.20195](http://arxiv.org/abs/2610.20195)|

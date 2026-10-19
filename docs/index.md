@@ -6,19 +6,22 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.10.18_
+_Updated on 2026.10.19_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-10-16**|**RIT-RAG: Navigating Document Corpora with Retrieval-Induced Trees**|Meghanadh Pulivarthi et.al.|[2610.11370](http://arxiv.org/abs/2610.11370)|
+|**2026-10-16**|**Stealthy Poisoning Attacks via Reused KV Cache of Reasoning**|L. Zhu et.al.|[2610.22873](http://arxiv.org/abs/2610.22873)|
+|**2026-10-16**|**FuseRAG: Fusing Structure and Evidence into Inference for Cost-Efficient Graph-based RAG**|Tingqi Wang et.al.|[2610.22818](http://arxiv.org/abs/2610.22818)|
 |**2026-10-15**|**PrefixFlow: Training-Time KV Caching for Schedule-Level Prefix Reuse in LLM RL Training**|Pengbo Li et.al.|[2606.01143_(ATC)](http://arxiv.org/abs/2606.01143)|
 |**2026-10-15**|**Cost-Efficient RAG for Entity Matching with LLMs: A Blocking-based Batch Processing Framework**|Chuangtao Ma et.al.|[2602.05708_(SIGMOD)](http://arxiv.org/abs/2602.05708)|
+|**2026-10-15**|**MemLLM: End-to-end In-Storage Acceleration of On-device Retrieval-Augmented Generation using Precomputed KV Caches**|Seungkwan Kang et.al.|[2610.22579_(MICRO)](http://arxiv.org/abs/2610.22579)|
 |**2026-10-13**|**PerCache: Predictive Hierarchical Cache for RAG Applications on Mobile Devices**|Kaiwei Liu et.al.|[2601.11553](http://arxiv.org/abs/2601.11553)|
 |**2026-10-13**|**Verifiable Retrieval for Legal Reasoning through Structure-driven Knowledge Graph**|Ibrahim Siddig et.al.|[2610.13695_(ISWC)](http://arxiv.org/abs/2610.13695)|
 |**2026-10-13**|**Configuring RAG Systems: What Breaks, Where Originates, and How to Fix**|Liangyu Chen et.al.|[2610.18567](http://arxiv.org/abs/2610.18567)|
 |**2026-10-12**|**EvoRAG: Making Knowledge Graph-based RAG Automatically Evolve through Feedback Backpropagation**|Zhenbo Fu et.al.|[2604.15676_(ICDE)](http://arxiv.org/abs/2604.15676)|
 |**2026-10-10**|**SEEK: Agentic Knowledge Graph Retrieval for Secure Code Generation**|Varun Gadey et.al.|[2610.14968](http://arxiv.org/abs/2610.14968)|
 |**2026-10-08**|**A Security Meta-Model for Retrieval-Augmented Generation Systems**|Steve Nouyep et.al.|[2610.11893](http://arxiv.org/abs/2610.11893)|
-|**2026-10-08**|**RIT-RAG: Navigating Document Corpora with Retrieval-Induced Trees**|Meghanadh Pulivarthi et.al.|[2610.11370](http://arxiv.org/abs/2610.11370)|
 |**2026-10-08**|**From Retrieval to Reconstruction: Constructing Evolvable Cognitive Memory for Long-Term Dialogue**|Zirui Liao et.al.|[2610.11314_(EMNLP)](http://arxiv.org/abs/2610.11314)|
 |**2026-10-04**|**Beyond Explicit Edges: Robust Reasoning over Noisy and Sparse Knowledge Graphs**|Hang Gao et.al.|[2603.14006_(ICML)](http://arxiv.org/abs/2603.14006)|
 |**2026-10-04**|**LEGO: Synergizing Expert GraphRAG and Expert Chain-of-Thought for Legal Reasoning**|Qingjing Chen et.al.|[2609.27009_(EMNLP)](http://arxiv.org/abs/2609.27009)|
