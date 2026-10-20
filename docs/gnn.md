@@ -6,10 +6,11 @@ nav_order: 3
 
 # GNN Papers
 
-_Updated on 2026.10.19_
+_Updated on 2026.10.20_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-10-19**|**SIGMA: A Versatile Streaming Graph Partitioner for Vertex- and Edge-Balanced Distributed GNN Training**|Barbara Hoffmann et.al.|[2606.03519](http://arxiv.org/abs/2606.03519)|
 |**2026-10-16**|**MailRail: Mitigating Incast Congestion with User-Space, Node-Based Flow Control**|Noel Gomillion et.al.|[2610.22890](http://arxiv.org/abs/2610.22890)|
 |**2026-10-14**|**Energy Efficiency Maximization for Integrated Sensing and Communication in IoT C-RAN**|Le Tung Giang et.al.|[2610.19612](http://arxiv.org/abs/2610.19612)|
 |**2026-10-05**|**Answer Set Networks: Casting Answer Set Programming into Deep Learning**|Arseny Skryagin et.al.|[2412.14814](http://arxiv.org/abs/2412.14814)|
@@ -35,7 +36,6 @@ _Updated on 2026.10.19_
 |**2026-06-24**|**Latency-Aware Service Placement using Neural Combinatorial Optimisers for Edge--Cloud Systems**|Kimia Abedpour et.al.|[2606.25553](http://arxiv.org/abs/2606.25553)|
 |**2026-06-08**|**Embedded Graph Convolutional Networks for Real-Time Event Data Processing on SoC FPGAs**|Kamil Jeziorek et.al.|[2406.07318](http://arxiv.org/abs/2406.07318)|
 |**2026-06-08**|**SoccerNet 2026 Player-Centric Ball-Action Spotting:Retraining and Post-Processing Extensions to the FOOTPASS Baselines**|Parthsarthi Rawat et.al.|[2606.09679_(CVPR)](http://arxiv.org/abs/2606.09679)|
-|**2026-06-02**|**SIGMA: A Versatile Streaming Graph Partitioner for Vertex- and Edge-Balanced Distributed GNN Training**|Barbara Hoffmann et.al.|[2606.03519](http://arxiv.org/abs/2606.03519)|
 |**2026-06-01**|**GreenGNN: Energy-Aware Windowed Communication Optimization for Distributed GNN Training**|Arefin Niam et.al.|[2606.02916](http://arxiv.org/abs/2606.02916)|
 |**2026-05-28**|**Understanding and Reducing Metadata-Driven Host Overheads in Sampling-Based GNN Training**|Yidong Gong et.al.|[2605.29346](http://arxiv.org/abs/2605.29346)|
 |**2026-05-27**|**Optimization of CF-mMIMO Systems for the Coexistence between eMBB+ and mMTC+: From Analytical to GNN-Aided Designs**|Sergi Liesegang et.al.|[2605.27930](http://arxiv.org/abs/2605.27930)|

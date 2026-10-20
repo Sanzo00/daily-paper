@@ -6,14 +6,22 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.10.19_
+_Updated on 2026.10.20_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-10-19**|**Learning Who Talks to Whom: Role-Aware Communication Topology Scheduling for Efficient LLM Multi-Agent Collaboration**|Haibin Li et.al.|[2610.25851](http://arxiv.org/abs/2610.25851)|
+|**2026-10-19**|**MemT-1.0: Towards Memory-Native Evolution**|Zhiyu Li et.al.|[2610.26825](http://arxiv.org/abs/2610.26825)|
+|**2026-10-18**|**End-to-End Context Compression at Scale**|Ang Li et.al.|[2606.09659](http://arxiv.org/abs/2606.09659)|
+|**2026-10-18**|**An Optical KV Cache Network for Disaggregated LLM Serving**|Seongwon Yoon et.al.|[2610.18444](http://arxiv.org/abs/2610.18444)|
+|**2026-10-18**|**System X: An LLM Decision Model That Replies from Its Own KV Cache**|Syed Usama Khalid Bukhari et.al.|[2610.25456](http://arxiv.org/abs/2610.25456)|
+|**2026-10-17**|**ATTUNER: Recomputation-Free Agentic Context KV Reuse**|Xinghao Chen et.al.|[2609.36722](http://arxiv.org/abs/2609.36722)|
+|**2026-10-17**|**EdgeKernelBench: Unified LLM-Driven Kernel Generation for Edge Backends**|Yuhua Zheng et.al.|[2610.24648](http://arxiv.org/abs/2610.24648)|
 |**2026-10-16**|**DLite: History-free Speculative Decoding for Agentic AI**|Jiaming Xu et.al.|[2610.23787](http://arxiv.org/abs/2610.23787)|
 |**2026-10-16**|**Thought Blocks: Non-Autoregressive Latent Communication for Multi-Agent Systems via Trajectory-to-State Compilation**|Zhenhan Guan et.al.|[2610.23056](http://arxiv.org/abs/2610.23056)|
 |**2026-10-16**|**Understanding KV Residency in Production-Scale Agentic LLM Workloads**|Mayank Arya et.al.|[2610.22863](http://arxiv.org/abs/2610.22863)|
 |**2026-10-16**|**On the possibilities and limitations of LLM-based multi-agent systems for multi-criteria decision-making in healthcare operations management**|Marco Boresta et.al.|[2610.23673](http://arxiv.org/abs/2610.23673)|
+|**2026-10-16**|**Cortex: A Fixed-Point Theory of Governed Coding Agents - Technical Report**|Marius-Constantin Dinu et.al.|[2610.24255](http://arxiv.org/abs/2610.24255)|
 |**2026-10-15**|**KV-streams for Efficient Compaction in Agentic Reinforcement Learning**|Emiliano Penaloza et.al.|[2609.35750](http://arxiv.org/abs/2609.35750)|
 |**2026-10-15**|**Close Enough is Nowhere Near: Fidelity-Consumability Decoupling in KV Caches**|Adam Deng et.al.|[2610.22016](http://arxiv.org/abs/2610.22016)|
 |**2026-10-15**|**PriorityFEC: Deadline-Aware Streaming FEC for KV-Cache Handoff in Edge Multi-Agent Systems**|Han Shen et.al.|[2610.21390](http://arxiv.org/abs/2610.21390)|
@@ -25,7 +33,6 @@ _Updated on 2026.10.19_
 |**2026-10-14**|**What Makes a Social Agent's Interactions Effective? Learning from Verifiable Outcomes in Paired Worlds**|Caixin Kang et.al.|[2610.20195](http://arxiv.org/abs/2610.20195)|
 |**2026-10-14**|**Beyond the Trial-and-Error Loop: Hybrid Projection and Automated Tuning for Distributed Training**|Anshu Raina et.al.|[2610.19423_(NeurIPS)](http://arxiv.org/abs/2610.19423)|
 |**2026-10-13**|**Parser Transitions Already Reveal Structural Responsibility: KV Persistence for Structured Generation**|Linze Wu et.al.|[2608.28276](http://arxiv.org/abs/2608.28276)|
-|**2026-10-13**|**An Optical KV Cache Network for Disaggregated LLM Serving**|Seongwon Yoon et.al.|[2610.18444](http://arxiv.org/abs/2610.18444)|
 |**2026-10-13**|**LatentRemedy: Efficient Remedy For Non-Prefix KV Cache Reuse in Multi-Agent Systems**|Zhiwei Chen et.al.|[2610.18014](http://arxiv.org/abs/2610.18014)|
 |**2026-10-13**|**REPORT-OPS: Hybrid Evidence-Guided Reporting with Human-Supervised Refinement for HPC**|Mah Kadidia Konate et.al.|[2610.19222](http://arxiv.org/abs/2610.19222)|
 |**2026-10-12**|**Extending concurrent separation logic to the hardware level to verify the xv6 OS kernel on RISC-V with AI agents**|M. Frans Kaashoek et.al.|[2609.04043](http://arxiv.org/abs/2609.04043)|
@@ -92,7 +99,6 @@ _Updated on 2026.10.19_
 |**2026-09-29**|**Prefill-Free Cross-Family KV Cache Transfer for Heterogeneous Multi-Agent LLMs**|Vincent-Daniel Yun et.al.|[2609.32259](http://arxiv.org/abs/2609.32259)|
 |**2026-09-29**|**SPLASH: Switching Parallel Layouts of Attention with Seamless Handoff for LLM Serving**|Chuan Liu et.al.|[2609.37626](http://arxiv.org/abs/2609.37626)|
 |**2026-09-29**|**Efficient Agentic LLM Serving over SSD-based Sparse KV Storage**|Wenhao He et.al.|[2609.36938](http://arxiv.org/abs/2609.36938)|
-|**2026-09-29**|**ATTUNER: Recomputation-Free KV Cache Reuse via Query-Side Adaptation**|Xinghao Chen et.al.|[2609.36722](http://arxiv.org/abs/2609.36722)|
 |**2026-09-29**|**LLM-Based Multi-Agent Systems over Wireless Networks: A Joint Agent--Network Design Perspective**|Chao Hu et.al.|[2609.37094](http://arxiv.org/abs/2609.37094)|
 |**2026-09-29**|**PANDA: A Decentralized Architecture with Flexible Orchestration for Scalable, Fault-Tolerant Multi-Agent Systems**|Matthew D. Laws et.al.|[2609.38482](http://arxiv.org/abs/2609.38482)|
 |**2026-09-28**|**TokenCake: A KV-Cache-centric Serving Framework for LLM-based Multi-Agent Applications**|Zhuohang Bian et.al.|[2510.18586_(EuroSys)](http://arxiv.org/abs/2510.18586)|
@@ -329,7 +335,6 @@ _Updated on 2026.10.19_
 |**2026-06-10**|**Goal-Autopilot: A Verifiable Anti-Fabrication Firewall for Unattended Long-Horizon Agents**|Youwang Deng et.al.|[2606.11688](http://arxiv.org/abs/2606.11688)|
 |**2026-06-09**|**Sim2Schedule: A Simulator-Guided LLM Framework for Autonomous Open-Pit Mine Scheduling**|Mustavi Ibne Masum et.al.|[2606.10286](http://arxiv.org/abs/2606.10286)|
 |**2026-06-09**|**INFRAMIND: Infrastructure-Aware Multi-Agent Orchestration**|Ahasan Kabir et.al.|[2606.11440](http://arxiv.org/abs/2606.11440)|
-|**2026-06-08**|**End-to-End Context Compression at Scale**|Ang Li et.al.|[2606.09659](http://arxiv.org/abs/2606.09659)|
 |**2026-06-08**|**Visual Para-Thinker++: A Single-Policy Multi-Agent Framework for Visual Reasoning**|Haoran Xu et.al.|[2606.09290](http://arxiv.org/abs/2606.09290)|
 |**2026-06-07**|**SparseX: Efficient Segment-Level KV Cache Sharing for Interleaved LLM Serving**|Quqing Zhang et.al.|[2606.01751](http://arxiv.org/abs/2606.01751)|
 |**2026-06-07**|**HeraSys: Collaborative Serving of Multiple LLM Workflows via Fine-Grained End-to-End Optimization**|Size Li et.al.|[2607.22578_(ICML)](http://arxiv.org/abs/2607.22578)|

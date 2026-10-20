@@ -6,16 +6,22 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.10.19_
+_Updated on 2026.10.20_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-10-18**|**An Optical KV Cache Network for Disaggregated LLM Serving**|Seongwon Yoon et.al.|[2610.18444](http://arxiv.org/abs/2610.18444)|
+|**2026-10-18**|**Certified Sparse Attention via Perturbed Retrieval**|Runguo Li et.al.|[2610.24991](http://arxiv.org/abs/2610.24991)|
+|**2026-10-18**|**System X: An LLM Decision Model That Replies from Its Own KV Cache**|Syed Usama Khalid Bukhari et.al.|[2610.25456](http://arxiv.org/abs/2610.25456)|
+|**2026-10-17**|**Koi: Evidence-Guided, Self-Calibrating Planning for Multi-Cloud, Heterogeneous LLM Inference Fleets**|Mankeerat Sidhu et.al.|[2610.24355](http://arxiv.org/abs/2610.24355)|
+|**2026-10-17**|**TideKV: Delayed KV Eviction via Layer-Wise Chunked Prefill for Memory-Efficient Long-Context LLM Inference**|Yu Wang et.al.|[2610.24499_(CHI)](http://arxiv.org/abs/2610.24499)|
 |**2026-10-16**|**HBFSim: A Simulator for Exploring HBF in Memory Hierarchies for LLMs**|Jinheng Li et.al.|[2610.23503](http://arxiv.org/abs/2610.23503)|
 |**2026-10-16**|**BS-Spec: BFP-Based Bit-Sharing for Self-Speculative LLM Decoding with LUT-Driven Mixed-Precision Acceleration**|Jiwoo Kim et.al.|[2610.22877](http://arxiv.org/abs/2610.22877)|
 |**2026-10-16**|**Understanding KV Residency in Production-Scale Agentic LLM Workloads**|Mayank Arya et.al.|[2610.22863](http://arxiv.org/abs/2610.22863)|
 |**2026-10-16**|**Stealthy Poisoning Attacks via Reused KV Cache of Reasoning**|L. Zhu et.al.|[2610.22873](http://arxiv.org/abs/2610.22873)|
 |**2026-10-16**|**FuseRAG: Fusing Structure and Evidence into Inference for Cost-Efficient Graph-based RAG**|Tingqi Wang et.al.|[2610.22818](http://arxiv.org/abs/2610.22818)|
 |**2026-10-16**|**Prism Attention: Proposal-Refined Index Sharing Mechanism for Efficient LLMs Inference**|Zhenxu Tian et.al.|[2610.22985_(NeurIPS)](http://arxiv.org/abs/2610.22985)|
+|**2026-10-16**|**KVCompass: A Discovery Plane for Internet-Scale Prefix Cache Sharing in LLM Serving**|Shiyi Ling et.al.|[2610.24179](http://arxiv.org/abs/2610.24179)|
 |**2026-10-15**|**When the KV Cache Is Slower Than the GPU: Scaling Remote KV Tiers for Context-Parallel Prefill**|Muhammad Ibrahim et.al.|[2610.21500](http://arxiv.org/abs/2610.21500)|
 |**2026-10-15**|**PriorityFEC: Deadline-Aware Streaming FEC for KV-Cache Handoff in Edge Multi-Agent Systems**|Han Shen et.al.|[2610.21390](http://arxiv.org/abs/2610.21390)|
 |**2026-10-15**|**Characterizing Predictability-Latency Trade-offs of KV-Cache SSD Offloading in LMCache for LLM Serving Systems**|Ying He et.al.|[2610.21249](http://arxiv.org/abs/2610.21249)|
@@ -32,7 +38,6 @@ _Updated on 2026.10.19_
 |**2026-10-14**|**PN-Mix: Pair-Norm Guided Mixed-Precision Key Cache Quantization for Efficient Long-Output LLM Inference**|Gil Jae Song et.al.|[2610.19605_(EMNLP)](http://arxiv.org/abs/2610.19605)|
 |**2026-10-13**|**HAServe: Horizon-Aware Scheduling and Memory Co-Design for Efficient LLM Serving**|Xingyu Qu et.al.|[2605.08581](http://arxiv.org/abs/2605.08581)|
 |**2026-10-13**|**PatchKV: Weight-Space Compensation of KV Cache**|Chanryeol Lee et.al.|[2609.39329_(ATC)](http://arxiv.org/abs/2609.39329)|
-|**2026-10-13**|**An Optical KV Cache Network for Disaggregated LLM Serving**|Seongwon Yoon et.al.|[2610.18444](http://arxiv.org/abs/2610.18444)|
 |**2026-10-13**|**RadixFlow: Filling Execution Bubbles in Prefix-Cached Hybrid LLM Serving**|Huihao Jing et.al.|[2610.18143](http://arxiv.org/abs/2610.18143)|
 |**2026-10-13**|**Quota-Based Aging for Prediction-Guided Scheduling in LLM Serving**|Hanzhi Zhang et.al.|[2610.17795_(CCC)](http://arxiv.org/abs/2610.17795)|
 |**2026-10-13**|**MultiAlloc: Budget-Aware Precision Allocation for KV Cache Quantization**|Yangchengyu Zhou et.al.|[2610.18642](http://arxiv.org/abs/2610.18642)|
@@ -52,6 +57,7 @@ _Updated on 2026.10.19_
 |**2026-10-09**|**TRACE: Rollout-Guided Quantization-Aware Training for FP4 Reinforcement Learning of MoE Language Models**|Xin Wang et.al.|[2610.07767](http://arxiv.org/abs/2610.07767)|
 |**2026-10-09**|**Simulate Before You Scale: High-Fidelity LLM Inference Planning Without GPUs**|Dipanwita Guhathakurta et.al.|[2610.14255_(ICS)](http://arxiv.org/abs/2610.14255)|
 |**2026-10-08**|**RaReCache: Bridging the Gap in Cross-Model KV Cache Reuse via Rank disagreement-based Selective Recomputation**|Sreetama Sarkar et.al.|[2610.11358](http://arxiv.org/abs/2610.11358)|
+|**2026-10-08**|**PeekKV: The First Content Token Already Knows Which Heads Matter**|Minyoung Go et.al.|[2610.23939](http://arxiv.org/abs/2610.23939)|
 |**2026-10-07**|**Self-Indexing Attention for Compression-Compatible Sparse Long-Context LLM Inference**|Xu Yang et.al.|[2609.13205](http://arxiv.org/abs/2609.13205)|
 |**2026-10-07**|**vLLM-Omni Technical Report: A Unified Serving Runtime for Omni-Modality Generation**|vLLM-Omni Team et.al.|[2610.09307](http://arxiv.org/abs/2610.09307)|
 |**2026-10-06**|**Lachesis: Lifetime-Aware KV Cache Placement for Agent Serving across HBM and High-Bandwidth Flash**|Jaehoon Yang et.al.|[2610.08378](http://arxiv.org/abs/2610.08378)|
