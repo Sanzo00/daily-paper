@@ -6,10 +6,14 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.10.20_
+_Updated on 2026.10.21_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-10-20**|**Cache Engineering for Agents**|Tianyu Fu et.al.|[2610.28577](http://arxiv.org/abs/2610.28577)|
+|**2026-10-20**|**The Token-Energy Law of LLM Decode: Active Bytes and Realized Time Account for Joules per Token**|Chenxu Niu et.al.|[2610.28576](http://arxiv.org/abs/2610.28576)|
+|**2026-10-20**|**Local Inference of LLMs on Long Contexts: A Data Systems Perspective**|Mattias Dürrmeier et.al.|[2610.28223](http://arxiv.org/abs/2610.28223)|
+|**2026-10-20**|**BitMTP: When Multi-Token Prediction Meets Low-Bit Large Language Models**|Ning Zhang et.al.|[2610.28500_(NeurIPS)](http://arxiv.org/abs/2610.28500)|
 |**2026-10-18**|**An Optical KV Cache Network for Disaggregated LLM Serving**|Seongwon Yoon et.al.|[2610.18444](http://arxiv.org/abs/2610.18444)|
 |**2026-10-18**|**Certified Sparse Attention via Perturbed Retrieval**|Runguo Li et.al.|[2610.24991](http://arxiv.org/abs/2610.24991)|
 |**2026-10-18**|**System X: An LLM Decision Model That Replies from Its Own KV Cache**|Syed Usama Khalid Bukhari et.al.|[2610.25456](http://arxiv.org/abs/2610.25456)|

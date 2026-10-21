@@ -6,12 +6,14 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.10.20_
+_Updated on 2026.10.21_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-10-20**|**MemT-1.0: Towards Memory-Native Evolution**|Zhiyu Li et.al.|[2610.26825](http://arxiv.org/abs/2610.26825)|
+|**2026-10-20**|**Cache Engineering for Agents**|Tianyu Fu et.al.|[2610.28577](http://arxiv.org/abs/2610.28577)|
+|**2026-10-20**|**After the Attacker Leaves: Benchmarking Carryover Attacks on LLM Agents**|Zhiyue Xu et.al.|[2610.28425_(EMNLP)](http://arxiv.org/abs/2610.28425)|
 |**2026-10-19**|**Learning Who Talks to Whom: Role-Aware Communication Topology Scheduling for Efficient LLM Multi-Agent Collaboration**|Haibin Li et.al.|[2610.25851](http://arxiv.org/abs/2610.25851)|
-|**2026-10-19**|**MemT-1.0: Towards Memory-Native Evolution**|Zhiyu Li et.al.|[2610.26825](http://arxiv.org/abs/2610.26825)|
 |**2026-10-18**|**End-to-End Context Compression at Scale**|Ang Li et.al.|[2606.09659](http://arxiv.org/abs/2606.09659)|
 |**2026-10-18**|**An Optical KV Cache Network for Disaggregated LLM Serving**|Seongwon Yoon et.al.|[2610.18444](http://arxiv.org/abs/2610.18444)|
 |**2026-10-18**|**System X: An LLM Decision Model That Replies from Its Own KV Cache**|Syed Usama Khalid Bukhari et.al.|[2610.25456](http://arxiv.org/abs/2610.25456)|

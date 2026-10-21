@@ -6,10 +6,11 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.10.20_
+_Updated on 2026.10.21_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-10-20**|**Temporal Evidence-Parameter Co-Alignment for LLM Reasoning over Temporal Knowledge Graphs**|Jiapu Wang et.al.|[2610.28176](http://arxiv.org/abs/2610.28176)|
 |**2026-10-19**|**StrucChunk: Structure-Aware Retrieval for Legal Document RAG**|Surya Deep Singh et.al.|[2610.26313](http://arxiv.org/abs/2610.26313)|
 |**2026-10-16**|**RIT-RAG: Navigating Document Corpora with Retrieval-Induced Trees**|Meghanadh Pulivarthi et.al.|[2610.11370](http://arxiv.org/abs/2610.11370)|
 |**2026-10-16**|**Stealthy Poisoning Attacks via Reused KV Cache of Reasoning**|L. Zhu et.al.|[2610.22873](http://arxiv.org/abs/2610.22873)|
