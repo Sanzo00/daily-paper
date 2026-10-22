@@ -6,10 +6,11 @@ nav_order: 3
 
 # GNN Papers
 
-_Updated on 2026.10.21_
+_Updated on 2026.10.22_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-10-21**|**Formula size game and model checking for modal substitution calculus**|Veeti Ahvonen et.al.|[2505.07966](http://arxiv.org/abs/2505.07966)|
 |**2026-10-19**|**SIGMA: A Versatile Streaming Graph Partitioner for Vertex- and Edge-Balanced Distributed GNN Training**|Barbara Hoffmann et.al.|[2606.03519](http://arxiv.org/abs/2606.03519)|
 |**2026-10-16**|**MailRail: Mitigating Incast Congestion with User-Space, Node-Based Flow Control**|Noel Gomillion et.al.|[2610.22890](http://arxiv.org/abs/2610.22890)|
 |**2026-10-14**|**Energy Efficiency Maximization for Integrated Sensing and Communication in IoT C-RAN**|Le Tung Giang et.al.|[2610.19612](http://arxiv.org/abs/2610.19612)|
@@ -63,7 +64,6 @@ _Updated on 2026.10.21_
 |**2026-01-09**|**CyberGFM: Graph Foundation Models for Lateral Movement Detection in Enterprise Networks**|Isaiah J. King et.al.|[2601.05988](http://arxiv.org/abs/2601.05988)|
 |**2025-12-20**|**A Distributed Hierarchical Spatio-Temporal Edge-Enhanced Graph Neural Network for City-Scale Dynamic Logistics Routing**|Zihan Han et.al.|[2512.18441](http://arxiv.org/abs/2512.18441)|
 |**2025-12-12**|**GSplit: Scaling Graph Neural Network Training on Large Graphs via Split-Parallelism**|Sandeep Polisetty et.al.|[2303.13775](http://arxiv.org/abs/2303.13775)|
-|**2025-12-11**|**Formula size game and model checking for modal substitution calculus**|Veeti Ahvonen et.al.|[2505.07966](http://arxiv.org/abs/2505.07966)|
 |**2025-12-05**|**GCoDE: Efficient Device-Edge Co-Inference for GNNs via Architecture-Mapping Co-Search**|Ao Zhou et.al.|[2512.11856](http://arxiv.org/abs/2512.11856)|
 |**2025-12-01**|**Domain-Decomposed Graph Neural Network Surrogate Modeling for Ice Sheets**|Adrienne M. Propp et.al.|[2512.01888](http://arxiv.org/abs/2512.01888)|
 |**2025-10-16**|**Spatial Computing Communications for Multi-User Virtual Reality in Distributed Mobile Edge Computing Network**|Caolu Xu et.al.|[2510.14243](http://arxiv.org/abs/2510.14243)|

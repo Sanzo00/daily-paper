@@ -6,15 +6,28 @@ nav_order: 5
 
 # Memory Papers
 
-_Updated on 2026.10.21_
+_Updated on 2026.10.22_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-10-21**|**Learning What to Remember: Resource-Efficient Self-Improvement for Lifelong Agents**|Guannan Lai et.al.|[2610.26453](http://arxiv.org/abs/2610.26453)|
+|**2026-10-21**|**5uGUE: Agentic Hardware-in-the-Loop Fuzzing for 5G Devices and beyond**|Guoqiang Hua et.al.|[2610.29155](http://arxiv.org/abs/2610.29155)|
+|**2026-10-21**|**MemoryTax: The Bitter Lesson of Agent Memory**|Zedong Peng et.al.|[2610.29823](http://arxiv.org/abs/2610.29823)|
+|**2026-10-21**|**PreCoMem: Predictive Cognitive Memory for Self-Evolving Long-Term Dialogue Agents**|Jian Zhong et.al.|[2610.29467_(NeurIPS)](http://arxiv.org/abs/2610.29467)|
+|**2026-10-21**|**Memory-Centric Continual Learning for AI Agents**|Dongfang Li et.al.|[2610.29357](http://arxiv.org/abs/2610.29357)|
+|**2026-10-21**|**Remembering Through Change: Provenance-Preserving Hypergraph Memory for Multimodal Agents**|Jielong Tang et.al.|[2610.29995](http://arxiv.org/abs/2610.29995)|
+|**2026-10-21**|**MOSAIC: An Omni-Modal Benchmark for Long-Term Memory and Cross-Modal Reasoning in Conversational Agents**|Hong Ting Tsang et.al.|[2610.29249](http://arxiv.org/abs/2610.29249)|
+|**2026-10-21**|**Uni-Mem: Learning a Long-Horizon Agentic Memory Manager with Unified Online Policy Optimization**|Zhiqian Xia et.al.|[2610.29671](http://arxiv.org/abs/2610.29671)|
+|**2026-10-21**|**UlaCache: Unified Logical Addressing for Sparse LLM Serving**|Isaac Zhu et.al.|[2610.29820](http://arxiv.org/abs/2610.29820)|
+|**2026-10-21**|**HAWK: Heterogeneity-Aware KV Cache Transfer for Efficient GPU-NPU Phase-Disaggregated LLM Inference**|Junhyeok Park et.al.|[2610.29873](http://arxiv.org/abs/2610.29873)|
+|**2026-10-21**|**Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use**|Yanzhe Chen et.al.|[2610.30108](http://arxiv.org/abs/2610.30108)|
+|**2026-10-21**|**TARSphere: A Robot-Oriented Full-Stack Framework for Long-Horizon Embodied Agents in Evolving Physical and Social Environments**|Yicheng Xu et.al.|[2610.30043](http://arxiv.org/abs/2610.30043)|
 |**2026-10-20**|**ECHO: An Auditable Dual-Path Memory System for Long-Horizon Agents**|Yu Qian et.al.|[2608.21755_(CHI)](http://arxiv.org/abs/2608.21755)|
 |**2026-10-20**|**Memorizing Who, Knowing How: Benchmarking Personal and Procedural Memory for Persistent Assistants**|Maosheng Qin et.al.|[2610.20022](http://arxiv.org/abs/2610.20022)|
 |**2026-10-20**|**SAFE-Mem: Secure Agentic Memory with Fine-Grained Authority and Governance-Aware Retrieval**|Haoming Li et.al.|[2610.22959](http://arxiv.org/abs/2610.22959)|
 |**2026-10-20**|**HexaShell: A Thin Harness for Exploring the Limits of VLM Agents as Robot Coding Agents**|Hongcheng Gao et.al.|[2610.23479](http://arxiv.org/abs/2610.23479)|
 |**2026-10-20**|**InteractAgent: Agentic Human Motion Interaction with Memory-Augmented Reflection**|Senhe Zhang et.al.|[2610.25649](http://arxiv.org/abs/2610.25649)|
+|**2026-10-20**|**DiaLong: Benchmarking Reminiscence in Long-Context Dialogues**|Owen Bianchi et.al.|[2610.25463](http://arxiv.org/abs/2610.25463)|
 |**2026-10-20**|**HABIT-Bench: Evaluating Habit Induction from Longitudinal Weak Evidence in Agent Memory**|Junming Zhang et.al.|[2610.24520](http://arxiv.org/abs/2610.24520)|
 |**2026-10-20**|**MemT-1.0: Towards Memory-Native Evolution**|Zhiyu Li et.al.|[2610.26825](http://arxiv.org/abs/2610.26825)|
 |**2026-10-20**|**GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery**|Yazhuo Liu et.al.|[2610.28629](http://arxiv.org/abs/2610.28629)|
@@ -41,6 +54,12 @@ _Updated on 2026.10.21_
 |**2026-10-20**|**DuplexLedger: Benchmarking Transactional Memory in Full-Duplex Speech Agents**|Yuxuan Li et.al.|[2610.27581](http://arxiv.org/abs/2610.27581)|
 |**2026-10-20**|**MemDev-Bench: Does Memory Help Code Agents?Benchmarking Memory Systems over Real Repository Histories**|Guorui Chen et.al.|[2610.27524](http://arxiv.org/abs/2610.27524)|
 |**2026-10-20**|**SAGE-HAP: Sustainability-Certified Agentic Communication and Computing at a Solar-Powered High-Altitude Platform**|Haoxiang Luo et.al.|[2610.27513](http://arxiv.org/abs/2610.27513)|
+|**2026-10-20**|**PerMIT: Securing Persistent Memory for LLM Agents via Machine-Checked Integrity Theorems and Scalable Community Trust**|Tanqiu Jiang et.al.|[2610.28987](http://arxiv.org/abs/2610.28987)|
+|**2026-10-20**|**Self-Improving Agents with World Model Predictive Paths**|Haori Lu et.al.|[2610.28945](http://arxiv.org/abs/2610.28945)|
+|**2026-10-20**|**Combining Long-Term Memory and LLMs Comes at a High Cost: From Prompt Injection to Persistent Compromise**|Pedro H. Barcha Correia et.al.|[2610.28810](http://arxiv.org/abs/2610.28810)|
+|**2026-10-20**|**Multi-agent LLMs on the Cloud-Edge-IoT Continuum: A Systematic Mapping Study on Architectures, Deployment, and Evaluation**|Mahyar Tourchi Moghaddam et.al.|[2610.28702](http://arxiv.org/abs/2610.28702)|
+|**2026-10-20**|**FlashNext-RL: A System Optimization Study for Long-Horizon Agentic RL of Qwen3.8-Flash-Next**|Zhewei Yao et.al.|[2610.28998](http://arxiv.org/abs/2610.28998)|
+|**2026-10-20**|**The Butterfly Effect in LLM Social Simulations: From Architecture Sensitivity to Robustness Audits**|Jinyi Ye et.al.|[2610.28981](http://arxiv.org/abs/2610.28981)|
 |**2026-10-19**|**When Entropy Is Not Enough: Reclaiming Lost Semantics in LLM Output Length Prediction**|Feiyang Ren et.al.|[2608.15592](http://arxiv.org/abs/2608.15592)|
 |**2026-10-19**|**LSTMem: Hierarchical Long Short-Term Online Memory for Large Language Models**|Xianglong Shi et.al.|[2609.33268](http://arxiv.org/abs/2609.33268)|
 |**2026-10-19**|**ActiveMem: Dynamic Latent Memory Trees for Long-Horizon Agents**|Song-Li Wu et.al.|[2609.33244](http://arxiv.org/abs/2609.33244)|
@@ -61,7 +80,6 @@ _Updated on 2026.10.21_
 |**2026-10-19**|**Tandem: Serving Hybrid Linear-Attention GUI Agents on Mobile NPUs**|Zhuomin Chen et.al.|[2610.26660](http://arxiv.org/abs/2610.26660)|
 |**2026-10-19**|**BetaMem: Learning to Remember a Changing World for Embodied Agents**|Mai Liu et.al.|[2610.26554](http://arxiv.org/abs/2610.26554)|
 |**2026-10-19**|**ScopeMem: Latent Memory That Learns Where to Revise Frozen GUI Agents**|Zhicheng Zheng et.al.|[2610.26503](http://arxiv.org/abs/2610.26503)|
-|**2026-10-19**|**Remembering Has a Price: Learning Memory Worth under Resource Constraints**|Guannan Lai et.al.|[2610.26453](http://arxiv.org/abs/2610.26453)|
 |**2026-10-19**|**VISAGENT: An Agent-Based End-to-End Voice Interaction System**|Xiang Wang et.al.|[2610.26168](http://arxiv.org/abs/2610.26168)|
 |**2026-10-19**|**Procedural Memory for Language Agents: A Neurosymbolic Perspective on Explicit Goal Structure**|Jonathan Leung et.al.|[2610.25996](http://arxiv.org/abs/2610.25996)|
 |**2026-10-19**|**GLOBE: Geometry-Led Online Behavioral Early Exit via Unit-Sphere Trajectories**|Xinyue Peng et.al.|[2610.25970](http://arxiv.org/abs/2610.25970)|
@@ -83,7 +101,6 @@ _Updated on 2026.10.21_
 |**2026-10-19**|**LVMem: Image-Augmented Memory for Long-Horizon Question Answering**|Victoria Khoruzhaya et.al.|[2610.27104](http://arxiv.org/abs/2610.27104)|
 |**2026-10-18**|**PAGE404: Breaking GPU Isolation Through Hardware-assisted Page Migration**|Ravan Nazaraliyev et.al.|[2610.20962](http://arxiv.org/abs/2610.20962)|
 |**2026-10-18**|**Let Them Sleep: Recursive Self-Pruning Memory for Long-Horizon LLM Agents**|Kargi Chauhan et.al.|[2610.25561](http://arxiv.org/abs/2610.25561)|
-|**2026-10-18**|**DiaLong: Benchmarking Reminiscence in Long-Context Dialogues**|Owen Bianchi et.al.|[2610.25463](http://arxiv.org/abs/2610.25463)|
 |**2026-10-18**|**MOSAIC: Multi-Objective Search for Allocating Inference Cache Across LLM Decoder Layers**|Sravanth Kodavanti et.al.|[2610.25431](http://arxiv.org/abs/2610.25431)|
 |**2026-10-18**|**AgentLens: Framework-Aware Characterization and Resource Control for Heterogeneous LLM Agents**|Wentao Hong et.al.|[2610.25231](http://arxiv.org/abs/2610.25231)|
 |**2026-10-18**|**gKSM: GPU Memory Deduplication at Driver Layer for Serverless LLM Inference**|Shuheng Gao et.al.|[2610.25219_(ATC)](http://arxiv.org/abs/2610.25219)|
@@ -122,6 +139,7 @@ _Updated on 2026.10.21_
 |**2026-10-17**|**Can Agents Keep Secrets They Were Never Told? Benchmarking Latent Privacy Risks Across Sessions with MemJoin**|Qishun Yang et.al.|[2610.24359](http://arxiv.org/abs/2610.24359)|
 |**2026-10-17**|**Do We Need the Largest LLMs for Every Clinical Decision?**|Ali H. Lazem et.al.|[2610.26937](http://arxiv.org/abs/2610.26937)|
 |**2026-10-17**|**How Intervention History Changes AI Agent Sabotage on Subsequent Tasks**|Daniel Saeedi et.al.|[2610.26935](http://arxiv.org/abs/2610.26935)|
+|**2026-10-17**|**Accelerating CPU Speculative Decoding via Unified Graph Execution and Transactional KV Isolation**|Zhangdie Yuan et.al.|[2610.28671](http://arxiv.org/abs/2610.28671)|
 |**2026-10-16**|**Frozen Models, Evolving Expertise: Model-Agnostic Learning from Deployment Experience for Multimodal Medical AI**|Yexiao He et.al.|[2610.09146](http://arxiv.org/abs/2610.09146)|
 |**2026-10-16**|**Agentic-MatriBO: Capability-Compiled Agentic Bayesian Optimization for Materials and Chemical Design**|Yu Zeng et.al.|[2610.17832](http://arxiv.org/abs/2610.17832)|
 |**2026-10-16**|**LoongSage: A Production-Grade, High-Efficiency Agentic RL Framework for Frontier LLMs with Validated Recipes**| LoongSage Team et.al.|[2610.16352](http://arxiv.org/abs/2610.16352)|

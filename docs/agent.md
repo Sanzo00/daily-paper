@@ -6,10 +6,11 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.10.21_
+_Updated on 2026.10.22_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-10-21**|**SatCraft: Agentic Optimization of Scheduling Policies for Satellite-Cellular Edge Services**|Pengcheng Luo et.al.|[2610.29588](http://arxiv.org/abs/2610.29588)|
 |**2026-10-20**|**MemT-1.0: Towards Memory-Native Evolution**|Zhiyu Li et.al.|[2610.26825](http://arxiv.org/abs/2610.26825)|
 |**2026-10-20**|**Cache Engineering for Agents**|Tianyu Fu et.al.|[2610.28577](http://arxiv.org/abs/2610.28577)|
 |**2026-10-20**|**After the Attacker Leaves: Benchmarking Carryover Attacks on LLM Agents**|Zhiyue Xu et.al.|[2610.28425_(EMNLP)](http://arxiv.org/abs/2610.28425)|
