@@ -10,6 +10,8 @@ _Updated on 2026.10.22_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-10-21**|**UlaCache: Unified Logical Addressing for Sparse LLM Serving**|Isaac Zhu et.al.|[2610.29820](http://arxiv.org/abs/2610.29820)|
+|**2026-10-21**|**Cache Locally, Recompute Selectively for Streaming Video Understanding**|Junhyeok Lee et.al.|[2610.29229](http://arxiv.org/abs/2610.29229)|
 |**2026-10-20**|**Cache Engineering for Agents**|Tianyu Fu et.al.|[2610.28577](http://arxiv.org/abs/2610.28577)|
 |**2026-10-20**|**The Token-Energy Law of LLM Decode: Active Bytes and Realized Time Account for Joules per Token**|Chenxu Niu et.al.|[2610.28576](http://arxiv.org/abs/2610.28576)|
 |**2026-10-20**|**Local Inference of LLMs on Long Contexts: A Data Systems Perspective**|Mattias Dürrmeier et.al.|[2610.28223](http://arxiv.org/abs/2610.28223)|
@@ -236,6 +238,7 @@ _Updated on 2026.10.22_
 |**2026-08-11**|**Scheduling Mixed RL Rollouts Beyond Prefix Locality**|Zetao Hong et.al.|[2608.11152](http://arxiv.org/abs/2608.11152)|
 |**2026-08-11**|**ImpactHO: Importance-Aware KV Cache Transfer for Multi-User Edge LLM Handover**|Minwoo Kim et.al.|[2608.10545](http://arxiv.org/abs/2608.10545)|
 |**2026-08-10**|**Governing the KV Cache: Preventing Timing Side-Channel Leakage in Multi-Tenant LLM Inference**|Tejasvi C. Addagada et.al.|[2608.09225_(SC)](http://arxiv.org/abs/2608.09225)|
+|**2026-08-10**|**To Keep or Not to Keep: Learning KV Cache Retention in Disaggregated LLM Serving Systems**|Dong Liu et.al.|[2610.28637](http://arxiv.org/abs/2610.28637)|
 |**2026-08-09**|**Mesh-Attention: A New Communication-Efficient Distributed Attention with Improved Data Locality**|Sirui Chen et.al.|[2512.20968](http://arxiv.org/abs/2512.20968)|
 |**2026-08-09**|**DistillCache: KL-Guided Adaptive KV-Cache Eviction for Memory-Efficient LLM Inference**|Asaad Althoubi et.al.|[2608.08878](http://arxiv.org/abs/2608.08878)|
 |**2026-08-08**|**Alignment Collapse Under KV Cache Quantization: Diagnosis and Mitigation**|Bruce Changlong Xu et.al.|[2606.09864](http://arxiv.org/abs/2606.09864)|
