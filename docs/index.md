@@ -6,10 +6,11 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.10.22_
+_Updated on 2026.10.23_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-10-22**|**Automated Enrichment Analysis with GraphRAG: Efficient Multi-Database ORA Extraction and Biological Interpretation**|Guangcan Li et.al.|[2610.30710_(BIBM)](http://arxiv.org/abs/2610.30710)|
 |**2026-10-21**|**Graph Topology Meets Energy-Driven Pathfinding: Preserving Contextual Consistency in Retrieval-Augmented Generation**|Yufeng Li et.al.|[2610.29933_(EMNLP)](http://arxiv.org/abs/2610.29933)|
 |**2026-10-20**|**Temporal Evidence-Parameter Co-Alignment for LLM Reasoning over Temporal Knowledge Graphs**|Jiapu Wang et.al.|[2610.28176](http://arxiv.org/abs/2610.28176)|
 |**2026-10-19**|**StrucChunk: Structure-Aware Retrieval for Legal Document RAG**|Surya Deep Singh et.al.|[2610.26313](http://arxiv.org/abs/2610.26313)|
