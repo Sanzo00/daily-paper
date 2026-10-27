@@ -10,6 +10,7 @@ _Updated on 2026.10.27_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-10-26**|**Think Parallax: Solving Multi-Hop Problems via Multi-View Knowledge-Graph-Based Retrieval-Augmented Generation**|Jinliang Liu et.al.|[2510.15552](http://arxiv.org/abs/2510.15552)|
 |**2026-10-26**|**Geometric Gain Graph: Zero-Token Graph Construction for Multi-Hop RAG**|Zeliang Li et.al.|[2609.19622](http://arxiv.org/abs/2609.19622)|
 |**2026-10-26**|**Read the Route: Attention-Steered Hypergraph Retrieval for Multi-hop RAG**|Jiate Liu et.al.|[2610.35412](http://arxiv.org/abs/2610.35412)|
 |**2026-10-26**|**UniGFM-RAG: Unify Graph Foundation Models and Large Language Models for End-to-End Retrieval and Reasoning**|Zicheng Zhao et.al.|[2610.34866](http://arxiv.org/abs/2610.34866)|
@@ -259,7 +260,6 @@ _Updated on 2026.10.27_
 |**2026-04-16**|**Ragged Paged Attention: A High-Performance and Flexible LLM Inference Kernel for TPU**|Jevin Jiang et.al.|[2604.15464](http://arxiv.org/abs/2604.15464)|
 |**2026-04-16**|**HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge Graphs**|Pranav Yadav et.al.|[2607.14095](http://arxiv.org/abs/2607.14095)|
 |**2026-04-15**|**Agentic GraphRAG: Navigating Unstructured Financial Data with Collaborative AI**|Arthur Capozzi et.al.|[2605.18770](http://arxiv.org/abs/2605.18770)|
-|**2026-04-14**|**Think Parallax: Solving Multi-Hop Problems via Multi-View Knowledge-Graph-Based Retrieval-Augmented Generation**|Jinliang Liu et.al.|[2510.15552](http://arxiv.org/abs/2510.15552)|
 |**2026-04-14**|**RAG or Learning? Understanding the Limits of LLM Adaptation under Continuous Knowledge Drift in the Real World**|Hanbing Liu et.al.|[2604.05096](http://arxiv.org/abs/2604.05096)|
 |**2026-04-13**|**AtlasKV: Augmenting LLMs with Billion-Scale Knowledge Graphs in 20GB VRAM**|Haoyu Huang et.al.|[2510.17934_(ICLR)](http://arxiv.org/abs/2510.17934)|
 |**2026-04-13**|**MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens**|Yu Chen et.al.|[2603.23516](http://arxiv.org/abs/2603.23516)|
