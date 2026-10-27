@@ -6,11 +6,19 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.10.26_
+_Updated on 2026.10.27_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
-|**2026-10-23**|**Separating Thinking from Spelling for Efficient Generative Recommendation**|Danil Gusak et.al.|[2610.32980](http://arxiv.org/abs/2610.32980)|
+|**2026-10-26**|**Separating Thinking from Spelling for Efficient Generative Recommendation**|Danil Gusak et.al.|[2610.32980](http://arxiv.org/abs/2610.32980)|
+|**2026-10-26**|**Context Is Not Free: Carbon-Aware LLM Routing for Multi-Turn LLM Web Services across Geo-Distributed Data Centers**|Xiaoyang Zhang et.al.|[2610.35230](http://arxiv.org/abs/2610.35230)|
+|**2026-10-26**|**BellowsKV: One Latent for Many Layers, Expanded on Demand**|Jiamu Zhang et.al.|[2610.35023](http://arxiv.org/abs/2610.35023)|
+|**2026-10-26**|**MCF: A Memory- and Communication-Aware Co-Designed Framework for Long-Context LLM Inference**|Huaizhi Zhang et.al.|[2610.34731](http://arxiv.org/abs/2610.34731)|
+|**2026-10-25**|**OasisKV: Scaling In-Decode KV Cache Beyond HBM with Lookahead Sparse Prefetching**|Can Xiao et.al.|[2608.08097](http://arxiv.org/abs/2608.08097)|
+|**2026-10-25**|**Prefix Sharing Is a Sorting Problem**|Rong He et.al.|[2609.13692_(AVI)](http://arxiv.org/abs/2609.13692)|
+|**2026-10-24**|**ZipFusion: Fusing Lossless KV Decompression with Attention for Efficient LLM Decoding**|Yuetao Chen et.al.|[2610.33719](http://arxiv.org/abs/2610.33719)|
+|**2026-10-24**|**DualPace: Decoupled Scheduling and Cooperative GPU--CPU Decoding for LLM Serving**|YuXuan Lin et.al.|[2610.33501](http://arxiv.org/abs/2610.33501)|
+|**2026-10-24**|**LLMs in Cloud: A Discussion on Architecture, Orchestration, and Inference**|Jannatun Noor et.al.|[2610.33475](http://arxiv.org/abs/2610.33475)|
 |**2026-10-22**|**Evaluating the Applicability of LLM Inference Optimizations on Apple Silicon**|Kyrylo Yemets et.al.|[2610.31479_(FG)](http://arxiv.org/abs/2610.31479)|
 |**2026-10-22**|**Gandalf: Flash Shall Not Die! Increasing Flash Storage Lifetime for KV Cache Offloading in LLM Serving**|Maharani A. P. Irawan et.al.|[2610.30791](http://arxiv.org/abs/2610.30791)|
 |**2026-10-22**|**Drift Says When, Budget Says How Much: Rate-Controlled KV Re-selection for Long-Form Multimodal Generation**|Bin Hu et.al.|[2610.31433](http://arxiv.org/abs/2610.31433)|
@@ -174,7 +182,6 @@ _Updated on 2026.10.26_
 |**2026-09-13**|**SMetric: Rethink LLM Scheduling for Serving Agents with Balanced Session-centric Scheduling**|Jiahao Wang et.al.|[2607.08565](http://arxiv.org/abs/2607.08565)|
 |**2026-09-13**|**Self-Orchestrating Language Models: Leveraging Semantic Dependence for Efficient Inference**|Tian Jin et.al.|[2609.14850](http://arxiv.org/abs/2609.14850)|
 |**2026-09-12**|**PEEK: Predictive Queue-Informed KV Cache Management for LLM Serving**|Bing Xie et.al.|[2607.02525](http://arxiv.org/abs/2607.02525)|
-|**2026-09-12**|**Prefix Sharing Is a Sorting Problem**|Rong He et.al.|[2609.13692](http://arxiv.org/abs/2609.13692)|
 |**2026-09-11**|**Rethinking Heterogeneous System Disaggregation for Subquadratic Attention**|Arya Tschand et.al.|[2609.13134](http://arxiv.org/abs/2609.13134)|
 |**2026-09-11**|**Attention Quantization for Tabular Foundation Models**|Jonas M. Kübler et.al.|[2609.13031](http://arxiv.org/abs/2609.13031)|
 |**2026-09-11**|**BOOST: Concurrent Access to Host Memory and HBM to Accelerate LLM Inference**|Anish Saxena et.al.|[2609.13592](http://arxiv.org/abs/2609.13592)|
@@ -248,7 +255,6 @@ _Updated on 2026.10.26_
 |**2026-08-09**|**Mesh-Attention: A New Communication-Efficient Distributed Attention with Improved Data Locality**|Sirui Chen et.al.|[2512.20968](http://arxiv.org/abs/2512.20968)|
 |**2026-08-09**|**DistillCache: KL-Guided Adaptive KV-Cache Eviction for Memory-Efficient LLM Inference**|Asaad Althoubi et.al.|[2608.08878](http://arxiv.org/abs/2608.08878)|
 |**2026-08-08**|**Alignment Collapse Under KV Cache Quantization: Diagnosis and Mitigation**|Bruce Changlong Xu et.al.|[2606.09864](http://arxiv.org/abs/2606.09864)|
-|**2026-08-08**|**OasisKV: Scaling In-Decode KV Cache Beyond HBM with Lookahead Sparse Prefetching**|Can Xiao et.al.|[2608.08097](http://arxiv.org/abs/2608.08097)|
 |**2026-08-07**|**Dropping the Anchor: Statistical Context Summarization for Distributed Systems via Pulsar Attention**|Aryan Sood et.al.|[2607.20457](http://arxiv.org/abs/2607.20457)|
 |**2026-08-07**|**LiveMem: Maintaining Memory State Continuity in Long-Running LLM Inference**|Zhichen Liu et.al.|[2608.02515](http://arxiv.org/abs/2608.02515)|
 |**2026-08-07**|**HiSparse: Scaling Sparse-Attention Decoding with Hierarchical KV Cache Management**|Zhiqiang Xie et.al.|[2608.07009](http://arxiv.org/abs/2608.07009)|

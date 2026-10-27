@@ -6,10 +6,16 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.10.26_
+_Updated on 2026.10.27_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-10-26**|**Geometric Gain Graph: Zero-Token Graph Construction for Multi-Hop RAG**|Zeliang Li et.al.|[2609.19622](http://arxiv.org/abs/2609.19622)|
+|**2026-10-26**|**Read the Route: Attention-Steered Hypergraph Retrieval for Multi-hop RAG**|Jiate Liu et.al.|[2610.35412](http://arxiv.org/abs/2610.35412)|
+|**2026-10-26**|**UniGFM-RAG: Unify Graph Foundation Models and Large Language Models for End-to-End Retrieval and Reasoning**|Zicheng Zhao et.al.|[2610.34866](http://arxiv.org/abs/2610.34866)|
+|**2026-10-25**|**Prefix Sharing Is a Sorting Problem**|Rong He et.al.|[2609.13692_(AVI)](http://arxiv.org/abs/2609.13692)|
+|**2026-10-24**|**DRILS: Dependency-based Requirement Change Impact Analysis Using LLMs**|Romina Etezadi et.al.|[2610.33920](http://arxiv.org/abs/2610.33920)|
+|**2026-10-23**|**GEMS-RAG: Graph-grounded Engineering Multimodal Standards Retrieval-Augmented Generation**|Abdul Hannan Azad et.al.|[2610.33277](http://arxiv.org/abs/2610.33277)|
 |**2026-10-22**|**Automated Enrichment Analysis with GraphRAG: Efficient Multi-Database ORA Extraction and Biological Interpretation**|Guangcan Li et.al.|[2610.30710_(BIBM)](http://arxiv.org/abs/2610.30710)|
 |**2026-10-21**|**Graph Topology Meets Energy-Driven Pathfinding: Preserving Contextual Consistency in Retrieval-Augmented Generation**|Yufeng Li et.al.|[2610.29933_(EMNLP)](http://arxiv.org/abs/2610.29933)|
 |**2026-10-20**|**Temporal Evidence-Parameter Co-Alignment for LLM Reasoning over Temporal Knowledge Graphs**|Jiapu Wang et.al.|[2610.28176](http://arxiv.org/abs/2610.28176)|
@@ -44,11 +50,9 @@ _Updated on 2026.10.26_
 |**2026-09-25**|**EngramRAG: Dynamic Usage-Weighted Topology and Synaptic Consolidation for Multi-Hop Agentic Memory**|Bhavyateja Potineni et.al.|[2609.32049](http://arxiv.org/abs/2609.32049)|
 |**2026-09-23**|**From Document Silos to Process Intelligence: A Multi-Layer Knowledge Graph for CMC Process Development**|Reza Amirmoshiri et.al.|[2609.11493](http://arxiv.org/abs/2609.11493)|
 |**2026-09-18**|**Knowledge-Graph Based Augmentation versus Retrieval Augmented Generation for Cultural-Related Question Answering**|Pablo Poulenard et.al.|[2609.18317_(ACL)](http://arxiv.org/abs/2609.18317)|
-|**2026-09-17**|**Beyond Similarity through Zero-Token Geometric Graphs for Multi-Hop RAG**|Zeliang Li et.al.|[2609.19622](http://arxiv.org/abs/2609.19622)|
 |**2026-09-16**|**When Is Graph Structure Worth Its Cost? The Case for Structure Pricing in Retrieval-Augmented Generation**|Yuzhong Zhang et.al.|[2609.18099](http://arxiv.org/abs/2609.18099)|
 |**2026-09-14**|**Where to Look and What to Use: Retrieve-Localize-Generate for Long-Term Conversational Memory Question Answering**|Yifan Wang et.al.|[2609.07093_(EMNLP)](http://arxiv.org/abs/2609.07093)|
 |**2026-09-13**|**AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education -- A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory**|Sushan Adhikari et.al.|[2609.14572](http://arxiv.org/abs/2609.14572)|
-|**2026-09-12**|**Prefix Sharing Is a Sorting Problem**|Rong He et.al.|[2609.13692](http://arxiv.org/abs/2609.13692)|
 |**2026-09-11**|**A Graph-Based Approach for Mapping Kernel-Level Telemetry to MITRE ATT&CK**|Matteo Lupinacci et.al.|[2609.12841](http://arxiv.org/abs/2609.12841)|
 |**2026-09-11**|**Cognition on Graph: Navigating Massive Knowledge Space via Cognitive Cycles and Bidirectional Graph-Text Synergy**|Gengxian Zhou et.al.|[2609.12791_(EMNLP)](http://arxiv.org/abs/2609.12791)|
 |**2026-09-11**|**Beyond Vector Similarity: Hierarchical Context-Aware Graph RAG vs Standard RAG in Enterprise Code Migration**|Nilesh Jaiswal et.al.|[2609.12464](http://arxiv.org/abs/2609.12464)|

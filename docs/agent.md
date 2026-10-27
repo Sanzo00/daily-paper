@@ -6,12 +6,17 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.10.26_
+_Updated on 2026.10.27_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-10-26**|**BellowsKV: One Latent for Many Layers, Expanded on Demand**|Jiamu Zhang et.al.|[2610.35023](http://arxiv.org/abs/2610.35023)|
+|**2026-10-26**|**GUIFlow: Temporal Redundancy-Aware Incremental Inference for GUI Agents**|Ye Li et.al.|[2610.34959](http://arxiv.org/abs/2610.34959)|
+|**2026-10-25**|**Can LLMs Trust Appropriately? Evaluating Calibrated Reliance on Imperfect Partners**|Mengdi Chu et.al.|[2610.34107](http://arxiv.org/abs/2610.34107)|
+|**2026-10-24**|**LLMs in Cloud: A Discussion on Architecture, Orchestration, and Inference**|Jannatun Noor et.al.|[2610.33475](http://arxiv.org/abs/2610.33475)|
 |**2026-10-23**|**Do "True" and "False" Add Up to One? Complement Consistency in LLM-Agent Opinion Simulations**|Anouar Imel et.al.|[2610.32874](http://arxiv.org/abs/2610.32874)|
 |**2026-10-23**|**Tool-Calling LLM Agents Under Realistic MCP Faults: Scale Does Not Purchase Fault Tolerance**|Antonio Ken Iannillo et.al.|[2610.32555_(CHI)](http://arxiv.org/abs/2610.32555)|
+|**2026-10-23**|**A Deterministic Security Runtime for LLM Agents on MPI and Batch-Scheduled HPC Systems: Consensus-Governed, Hardware-Rooted Supervision of Every Rank**|Alfredo Metere et.al.|[2610.33318](http://arxiv.org/abs/2610.33318)|
 |**2026-10-22**|**SARIA: Persistence-Aware KV Caching with Coordinated DRAM--SSD Reload for LLM Agents**|Hui Li et.al.|[2610.31169](http://arxiv.org/abs/2610.31169)|
 |**2026-10-22**|**Gandalf: Flash Shall Not Die! Increasing Flash Storage Lifetime for KV Cache Offloading in LLM Serving**|Maharani A. P. Irawan et.al.|[2610.30791](http://arxiv.org/abs/2610.30791)|
 |**2026-10-22**|**KVStream: Adaptive Parallel Storage Management for KV Caching in Large-Scale LLM Serving**|Avinash Maurya et.al.|[2610.31827](http://arxiv.org/abs/2610.31827)|
