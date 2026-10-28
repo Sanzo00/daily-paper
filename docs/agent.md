@@ -6,12 +6,15 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.10.27_
+_Updated on 2026.10.28_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-10-27**|**TAO: Tool-Aware Joint Scheduling for LLM-Based Agentic Serving**|Shuhuai Li et.al.|[2610.37230](http://arxiv.org/abs/2610.37230)|
+|**2026-10-27**|**Blindfold: Keeping the Audit Coin Secret from LLM Agents**|Wei Zhu et.al.|[2610.37055](http://arxiv.org/abs/2610.37055)|
 |**2026-10-26**|**BellowsKV: One Latent for Many Layers, Expanded on Demand**|Jiamu Zhang et.al.|[2610.35023](http://arxiv.org/abs/2610.35023)|
 |**2026-10-26**|**GUIFlow: Temporal Redundancy-Aware Incremental Inference for GUI Agents**|Ye Li et.al.|[2610.34959](http://arxiv.org/abs/2610.34959)|
+|**2026-10-26**|**WAKMan: Workload Aware KVCache Manager**|Suhas Kumar Morisetty et.al.|[2610.36355](http://arxiv.org/abs/2610.36355)|
 |**2026-10-25**|**Can LLMs Trust Appropriately? Evaluating Calibrated Reliance on Imperfect Partners**|Mengdi Chu et.al.|[2610.34107](http://arxiv.org/abs/2610.34107)|
 |**2026-10-24**|**LLMs in Cloud: A Discussion on Architecture, Orchestration, and Inference**|Jannatun Noor et.al.|[2610.33475](http://arxiv.org/abs/2610.33475)|
 |**2026-10-23**|**Do "True" and "False" Add Up to One? Complement Consistency in LLM-Agent Opinion Simulations**|Anouar Imel et.al.|[2610.32874](http://arxiv.org/abs/2610.32874)|

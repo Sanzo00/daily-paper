@@ -6,10 +6,11 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.10.27_
+_Updated on 2026.10.28_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-10-27**|**SpectRAG: Weighted Chunk Graphs for Token-Budgeted Context Selection in Multi-Hop Retrieval-Augmented Generation**|Zafer Sahinoglu et.al.|[2610.36991_(ISS)](http://arxiv.org/abs/2610.36991)|
 |**2026-10-26**|**Think Parallax: Solving Multi-Hop Problems via Multi-View Knowledge-Graph-Based Retrieval-Augmented Generation**|Jinliang Liu et.al.|[2510.15552](http://arxiv.org/abs/2510.15552)|
 |**2026-10-26**|**Geometric Gain Graph: Zero-Token Graph Construction for Multi-Hop RAG**|Zeliang Li et.al.|[2609.19622](http://arxiv.org/abs/2609.19622)|
 |**2026-10-26**|**Read the Route: Attention-Steered Hypergraph Retrieval for Multi-hop RAG**|Jiate Liu et.al.|[2610.35412](http://arxiv.org/abs/2610.35412)|

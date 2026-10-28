@@ -6,7 +6,7 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.10.27_
+_Updated on 2026.10.28_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
@@ -14,6 +14,7 @@ _Updated on 2026.10.27_
 |**2026-10-26**|**Context Is Not Free: Carbon-Aware LLM Routing for Multi-Turn LLM Web Services across Geo-Distributed Data Centers**|Xiaoyang Zhang et.al.|[2610.35230](http://arxiv.org/abs/2610.35230)|
 |**2026-10-26**|**BellowsKV: One Latent for Many Layers, Expanded on Demand**|Jiamu Zhang et.al.|[2610.35023](http://arxiv.org/abs/2610.35023)|
 |**2026-10-26**|**MCF: A Memory- and Communication-Aware Co-Designed Framework for Long-Context LLM Inference**|Huaizhi Zhang et.al.|[2610.34731](http://arxiv.org/abs/2610.34731)|
+|**2026-10-26**|**WAKMan: Workload Aware KVCache Manager**|Suhas Kumar Morisetty et.al.|[2610.36355](http://arxiv.org/abs/2610.36355)|
 |**2026-10-25**|**OasisKV: Scaling In-Decode KV Cache Beyond HBM with Lookahead Sparse Prefetching**|Can Xiao et.al.|[2608.08097](http://arxiv.org/abs/2608.08097)|
 |**2026-10-25**|**Prefix Sharing Is a Sorting Problem**|Rong He et.al.|[2609.13692_(AVI)](http://arxiv.org/abs/2609.13692)|
 |**2026-10-24**|**ZipFusion: Fusing Lossless KV Decompression with Attention for Efficient LLM Decoding**|Yuetao Chen et.al.|[2610.33719](http://arxiv.org/abs/2610.33719)|
