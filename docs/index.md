@@ -6,14 +6,16 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.11.01_
+_Updated on 2026.11.02_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-10-30**|**From Association to Causation: Improving Retrieval Precision of Retrieval-Augmented Generation via Causal Relations and an Attention Mechanism**|Jing Liu et.al.|[2608.21702](http://arxiv.org/abs/2608.21702)|
+|**2026-10-30**|**SpectRAG: Weighted Chunk Graphs for Token-Budgeted Context Selection in Multi-Hop Retrieval-Augmented Generation**|Zafer Sahinoglu et.al.|[2610.36991_(ISS)](http://arxiv.org/abs/2610.36991)|
+|**2026-10-30**|**DeFT-RAG: Decomposing Multi-Hop Questions into Self-Contained Sub-Questions with Reusable Answers**|Dingyi Kang et.al.|[2610.37826](http://arxiv.org/abs/2610.37826)|
+|**2026-10-30**|**Ctrl-G: Controlling Structural and Interaction Exposure in Knowledge Graph Augmented LLM Reasoning**|Xingyu Tan et.al.|[2601.08739](http://arxiv.org/abs/2601.08739)|
 |**2026-10-28**|**Temporal Evidence-Parameter Co-Alignment for LLM Reasoning over Temporal Knowledge Graphs**|Jiapu Wang et.al.|[2610.28176](http://arxiv.org/abs/2610.28176)|
-|**2026-10-28**|**SpectRAG: Weighted Chunk Graphs for Token-Budgeted Context Selection in Multi-Hop Retrieval-Augmented Generation**|Zafer Sahinoglu et.al.|[2610.36991_(ISS)](http://arxiv.org/abs/2610.36991)|
 |**2026-10-28**|**TCC-RAG: Temporal Causal Chain-Guided RAG for Temporal Knowledge Graph Question Answering**|Xinxun Zhang et.al.|[2610.38366_(ICDE)](http://arxiv.org/abs/2610.38366)|
-|**2026-10-27**|**DeFT-RAG: Incrementally Decomposing Multi-Hop Questions into Self-Contained Sub-Questions with Reusable Answers**|Dingyi Kang et.al.|[2610.37826](http://arxiv.org/abs/2610.37826)|
 |**2026-10-27**|**Beyond Similarity Search: Knowledge Graph Metadata Enrichment for Enterprise Retrieval-Augmented Generation**|Fakabbir Amin et.al.|[2610.37728](http://arxiv.org/abs/2610.37728)|
 |**2026-10-26**|**Think Parallax: Solving Multi-Hop Problems via Multi-View Knowledge-Graph-Based Retrieval-Augmented Generation**|Jinliang Liu et.al.|[2510.15552](http://arxiv.org/abs/2510.15552)|
 |**2026-10-26**|**Geometric Gain Graph: Zero-Token Graph Construction for Multi-Hop RAG**|Zeliang Li et.al.|[2609.19622](http://arxiv.org/abs/2609.19622)|
@@ -93,7 +95,6 @@ _Updated on 2026.11.01_
 |**2026-08-24**|**SAG: SQL-Retrieval Augmented Generation with Query-Time Dynamic Hyperedges**|Yuchao Wu et.al.|[2608.12129_(DATE)](http://arxiv.org/abs/2608.12129)|
 |**2026-08-24**|**FashionKG-RAG: Knowledge Graph-Enhanced Retrieval-Augmented Generation for Fashion Question Answering**|Yujuan Ding et.al.|[2608.22688](http://arxiv.org/abs/2608.22688)|
 |**2026-08-23**|**GeoRisk-RAG: A Hierarchy-Aware Risk Framework for Improving RAG Reliability through Selective Answering**|Meenu Ravi et.al.|[2608.22634_(CIKM)](http://arxiv.org/abs/2608.22634)|
-|**2026-08-22**|**From Association to Causation: Improving Retrieval Precision of Retrieval-Augmented Generation via Causal Relations and an Attention Mechanism**|Jing Liu et.al.|[2608.21702](http://arxiv.org/abs/2608.21702)|
 |**2026-08-21**|**MedRAGChecker: Claim-Level Verification for Biomedical Retrieval-Augmented Generation**|Yuelyu Ji et.al.|[2601.06519](http://arxiv.org/abs/2601.06519)|
 |**2026-08-21**|**Do Large Language Models Play Six Degrees of Separation? Measuring Topological Compression in Long-Context Manifolds**|Md. Faiyaz Abdullah Sayeedi et.al.|[2608.17950](http://arxiv.org/abs/2608.17950)|
 |**2026-08-20**|**Agentic Governance and Adversarial Verification for Policy-Constrained LLM Healthcare Appeal Generation**|Harshil Lodhiya et.al.|[2609.27844_(SC)](http://arxiv.org/abs/2609.27844)|

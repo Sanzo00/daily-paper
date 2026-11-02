@@ -6,10 +6,14 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.11.01_
+_Updated on 2026.11.02_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-10-30**|**PriorityFEC: Deadline-Aware Streaming FEC for KV-Cache Handoff in Edge Multi-Agent Systems**|Han Shen et.al.|[2610.21390](http://arxiv.org/abs/2610.21390)|
+|**2026-10-30**|**Subquadratic Attention with a Hierarchical Tree-Structured Indexer**|Leon Lufkin et.al.|[2610.42112](http://arxiv.org/abs/2610.42112)|
+|**2026-10-30**|**HiState: Hierarchical Prefix Cache Management for Hybrid LLM Serving in Agentic Workloads**|Zaifeng Pan et.al.|[2610.41508](http://arxiv.org/abs/2610.41508)|
+|**2026-10-30**|**In-Model Context Compression with Agentic Soft Tokens for Long-Horizon LLM Agents**|Xuning He et.al.|[2610.41291](http://arxiv.org/abs/2610.41291)|
 |**2026-10-29**|**NORmal: Architecting 3D Ferroelectric NOR Flash as Main Memory -- From Co-Fabricated BEOL Arrays to 200B-Class Multi-Agent LLMs in a Smartphone**|Zhuoran Li et.al.|[2610.40000](http://arxiv.org/abs/2610.40000)|
 |**2026-10-28**|**Context Compaction for World Models**|Hayder Tirmazi et.al.|[2610.38980](http://arxiv.org/abs/2610.38980)|
 |**2026-10-28**|**FlatCake: A Flat KVCache Storage Architecture for LLM Serving**|Xin Huang et.al.|[2610.38355](http://arxiv.org/abs/2610.38355)|
@@ -44,7 +48,6 @@ _Updated on 2026.11.01_
 |**2026-10-16**|**Cortex: A Fixed-Point Theory of Governed Coding Agents - Technical Report**|Marius-Constantin Dinu et.al.|[2610.24255](http://arxiv.org/abs/2610.24255)|
 |**2026-10-15**|**KV-streams for Efficient Compaction in Agentic Reinforcement Learning**|Emiliano Penaloza et.al.|[2609.35750](http://arxiv.org/abs/2609.35750)|
 |**2026-10-15**|**Close Enough is Nowhere Near: Fidelity-Consumability Decoupling in KV Caches**|Adam Deng et.al.|[2610.22016](http://arxiv.org/abs/2610.22016)|
-|**2026-10-15**|**PriorityFEC: Deadline-Aware Streaming FEC for KV-Cache Handoff in Edge Multi-Agent Systems**|Han Shen et.al.|[2610.21390](http://arxiv.org/abs/2610.21390)|
 |**2026-10-15**|**From Long Context to Selective Memory:A Survey of Memory-Centric Compression for Large Language Models**|Chaogui Gou et.al.|[2610.21165](http://arxiv.org/abs/2610.21165)|
 |**2026-10-15**|**ReFlow: Replay-Driven Decoupling for Efficient RL Post-Training**|Yukun Tian et.al.|[2610.21640](http://arxiv.org/abs/2610.21640)|
 |**2026-10-15**|**What It Is, Not What It Says: Securing Agentic Browsing Interactions with Web Semantics**|Umar Iqbal et.al.|[2610.22697](http://arxiv.org/abs/2610.22697)|
