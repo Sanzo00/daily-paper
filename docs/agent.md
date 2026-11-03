@@ -10,11 +10,18 @@ _Updated on 2026.11.03_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-11-02**|**NORmal: Architecting 3D Ferroelectric NOR Flash as Main Memory -- From Co-Fabricated BEOL Arrays to 200B-Class Multi-Agent LLMs in a Smartphone**|Zhuoran Li et.al.|[2610.40000](http://arxiv.org/abs/2610.40000)|
+|**2026-11-02**|**Subquadratic Attention with a Hierarchical Tree-Structured Indexer**|Leon Lufkin et.al.|[2610.42112](http://arxiv.org/abs/2610.42112)|
+|**2026-11-02**|**The SIMPLE Law for Energy Cost of LLM Inference**|Hiari Pizzini Cavagna et.al.|[2611.03330](http://arxiv.org/abs/2611.03330)|
+|**2026-11-02**|**Multi-Modal Multi-Agent System for Bridge Operation and Maintenance based on Large Language Model**|Xiangyun Luo et.al.|[2611.02738](http://arxiv.org/abs/2611.02738)|
+|**2026-11-01**|**Fairway: Load-Aware KV Cache Reuse for LLM Prefill Scheduling**|Hamidreza Alikhani et.al.|[2611.02082](http://arxiv.org/abs/2611.02082)|
+|**2026-11-01**|**AgenticMobility: An Open-Source Platform for Multi-AI-Agent Mobility Dynamics**|Jiaheng Xiao et.al.|[2611.01918](http://arxiv.org/abs/2611.01918)|
+|**2026-11-01**|**Serving Agentic Robot Fleets: Workload Characterization, KV-Cache Thrashing, and Admission Control**|Sida He et.al.|[2611.01404](http://arxiv.org/abs/2611.01404)|
+|**2026-10-31**|**Jet-QSparse: Accelerating Agentic LLM Inference with 4-Bit Sparse Attention**|Haozhan Tang et.al.|[2611.01022](http://arxiv.org/abs/2611.01022)|
 |**2026-10-30**|**PriorityFEC: Deadline-Aware Streaming FEC for KV-Cache Handoff in Edge Multi-Agent Systems**|Han Shen et.al.|[2610.21390](http://arxiv.org/abs/2610.21390)|
-|**2026-10-30**|**Subquadratic Attention with a Hierarchical Tree-Structured Indexer**|Leon Lufkin et.al.|[2610.42112](http://arxiv.org/abs/2610.42112)|
 |**2026-10-30**|**HiState: Hierarchical Prefix Cache Management for Hybrid LLM Serving in Agentic Workloads**|Zaifeng Pan et.al.|[2610.41508](http://arxiv.org/abs/2610.41508)|
 |**2026-10-30**|**In-Model Context Compression with Agentic Soft Tokens for Long-Horizon LLM Agents**|Xuning He et.al.|[2610.41291](http://arxiv.org/abs/2610.41291)|
-|**2026-10-29**|**NORmal: Architecting 3D Ferroelectric NOR Flash as Main Memory -- From Co-Fabricated BEOL Arrays to 200B-Class Multi-Agent LLMs in a Smartphone**|Zhuoran Li et.al.|[2610.40000](http://arxiv.org/abs/2610.40000)|
+|**2026-10-30**|**Rethinking KV Cache Eviction for Agentic LLM Serving**|Jiakun Fan et.al.|[2611.00391](http://arxiv.org/abs/2611.00391)|
 |**2026-10-28**|**Context Compaction for World Models**|Hayder Tirmazi et.al.|[2610.38980](http://arxiv.org/abs/2610.38980)|
 |**2026-10-28**|**FlatCake: A Flat KVCache Storage Architecture for LLM Serving**|Xin Huang et.al.|[2610.38355](http://arxiv.org/abs/2610.38355)|
 |**2026-10-27**|**TAO: Tool-Aware Joint Scheduling for LLM-Based Agentic Serving**|Shuhuai Li et.al.|[2610.37230](http://arxiv.org/abs/2610.37230)|
@@ -65,6 +72,7 @@ _Updated on 2026.11.03_
 |**2026-10-12**|**Think Before You Speak: Enabling Training-Free Latent Communication Between Language Models**|Rishi Khare et.al.|[2610.16165](http://arxiv.org/abs/2610.16165)|
 |**2026-10-12**|**PID-Gated Continual Prompt Adaptation Under Noisy Feedback**|Zhentao Xu et.al.|[2610.16129](http://arxiv.org/abs/2610.16129)|
 |**2026-10-11**|**Context-Aware Precision Scheduling for Small Language Models**|Mukund Athmaram et.al.|[2610.15640](http://arxiv.org/abs/2610.15640)|
+|**2026-10-11**|**TenonAgent: Virtualizing Execution Residency for Memory-Oversubscribed LLM Agents**|Yifan Zhang et.al.|[2611.00051](http://arxiv.org/abs/2611.00051)|
 |**2026-10-10**|**Swarm Telepathy: Prefill-Free KV-Cache Transfer Across Families**|Abdulrahman Alabdulkareem et.al.|[2610.15095](http://arxiv.org/abs/2610.15095)|
 |**2026-10-10**|**Vesta: Queueing-Aware LLM Scheduling for Real-World Workloads**|Lancheng Zou et.al.|[2610.14686](http://arxiv.org/abs/2610.14686)|
 |**2026-10-10**|**AgentWeave: Efficient Distributed Agent Serving via Flow Decomposition**|Kaibin Guo et.al.|[2610.14804](http://arxiv.org/abs/2610.14804)|

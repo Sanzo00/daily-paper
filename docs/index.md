@@ -10,6 +10,9 @@ _Updated on 2026.11.03_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-11-01**|**Fairway: Load-Aware KV Cache Reuse for LLM Prefill Scheduling**|Hamidreza Alikhani et.al.|[2611.02082](http://arxiv.org/abs/2611.02082)|
+|**2026-11-01**|**EAGR: Evidence-Guided Adaptive Graph Retrieval**|Sonam Gupta et.al.|[2611.01910](http://arxiv.org/abs/2611.01910)|
+|**2026-10-31**|**Reading Between the Chapters: A Graph-Free RAG Rebuilt With AI and Human Feedback**|Dipto Sumit et.al.|[2611.00752](http://arxiv.org/abs/2611.00752)|
 |**2026-10-30**|**From Association to Causation: Improving Retrieval Precision of Retrieval-Augmented Generation via Causal Relations and an Attention Mechanism**|Jing Liu et.al.|[2608.21702](http://arxiv.org/abs/2608.21702)|
 |**2026-10-30**|**SpectRAG: Weighted Chunk Graphs for Token-Budgeted Context Selection in Multi-Hop Retrieval-Augmented Generation**|Zafer Sahinoglu et.al.|[2610.36991_(ISS)](http://arxiv.org/abs/2610.36991)|
 |**2026-10-30**|**DeFT-RAG: Decomposing Multi-Hop Questions into Self-Contained Sub-Questions with Reusable Answers**|Dingyi Kang et.al.|[2610.37826](http://arxiv.org/abs/2610.37826)|
