@@ -6,14 +6,21 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.11.03_
+_Updated on 2026.11.04_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
-|**2026-11-02**|**NORmal: Architecting 3D Ferroelectric NOR Flash as Main Memory -- From Co-Fabricated BEOL Arrays to 200B-Class Multi-Agent LLMs in a Smartphone**|Zhuoran Li et.al.|[2610.40000](http://arxiv.org/abs/2610.40000)|
+|**2026-11-03**|**NORmal: Architecting 3D Ferroelectric NOR Flash as Main Memory -- From Co-Fabricated BEOL Arrays to 200B-Class Multi-Agent LLMs in a Smartphone**|Zhuoran Li et.al.|[2610.40000](http://arxiv.org/abs/2610.40000)|
+|**2026-11-03**|**Asymptotic Optimality of $cμ$-Rule for LLM Inference Scheduling under Memory Constraint**|Zhenghao Li et.al.|[2611.04807](http://arxiv.org/abs/2611.04807)|
+|**2026-11-03**|**HyPAIC: Personal AI Computer with High Bandwidth Flash for High Performance Trillion-Parameter LLM Inference**|Minho Ha et.al.|[2611.04144](http://arxiv.org/abs/2611.04144)|
+|**2026-11-03**|**CacheBridge: Efficient Cross-Model KV Transfer for Multi-Model LLM Serving**|Xingyu Qu et.al.|[2609.00891](http://arxiv.org/abs/2609.00891)|
+|**2026-11-03**|**ToolSched: Resource-Efficient Tool Scheduling for Shared-Host LLM Agents**|Shucheng Zou et.al.|[2611.05269](http://arxiv.org/abs/2611.05269)|
+|**2026-11-03**|**ModelBlaster: Closing the Performance Gap through Learning-Augmented Agents Across Models, Kernels and Hardware Backends**|Shengjun Kris Dong et.al.|[2611.04104](http://arxiv.org/abs/2611.04104)|
 |**2026-11-02**|**Subquadratic Attention with a Hierarchical Tree-Structured Indexer**|Leon Lufkin et.al.|[2610.42112](http://arxiv.org/abs/2610.42112)|
 |**2026-11-02**|**The SIMPLE Law for Energy Cost of LLM Inference**|Hiari Pizzini Cavagna et.al.|[2611.03330](http://arxiv.org/abs/2611.03330)|
 |**2026-11-02**|**Multi-Modal Multi-Agent System for Bridge Operation and Maintenance based on Large Language Model**|Xiangyun Luo et.al.|[2611.02738](http://arxiv.org/abs/2611.02738)|
+|**2026-11-02**|**ROCm InferaSim: Cut LLM Serving Trial Costs and Deploy the Best Configuration**|Anshu Raina et.al.|[2611.04032](http://arxiv.org/abs/2611.04032)|
+|**2026-11-02**|**Dory1.0-4B: A Looped Normalized-GPT**|Maxim Fishman et.al.|[2611.03998](http://arxiv.org/abs/2611.03998)|
 |**2026-11-01**|**Fairway: Load-Aware KV Cache Reuse for LLM Prefill Scheduling**|Hamidreza Alikhani et.al.|[2611.02082](http://arxiv.org/abs/2611.02082)|
 |**2026-11-01**|**AgenticMobility: An Open-Source Platform for Multi-AI-Agent Mobility Dynamics**|Jiaheng Xiao et.al.|[2611.01918](http://arxiv.org/abs/2611.01918)|
 |**2026-11-01**|**Serving Agentic Robot Fleets: Workload Characterization, KV-Cache Thrashing, and Admission Control**|Sida He et.al.|[2611.01404](http://arxiv.org/abs/2611.01404)|

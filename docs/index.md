@@ -6,10 +6,12 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.11.03_
+_Updated on 2026.11.04_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-11-03**|**CacheBridge: Efficient Cross-Model KV Transfer for Multi-Model LLM Serving**|Xingyu Qu et.al.|[2609.00891](http://arxiv.org/abs/2609.00891)|
+|**2026-11-03**|**QueryFlow: Multi-Hop Graph Retrieval with Adaptive Query Evolution**|Manzong Huang et.al.|[2611.04625](http://arxiv.org/abs/2611.04625)|
 |**2026-11-01**|**Fairway: Load-Aware KV Cache Reuse for LLM Prefill Scheduling**|Hamidreza Alikhani et.al.|[2611.02082](http://arxiv.org/abs/2611.02082)|
 |**2026-11-01**|**EAGR: Evidence-Guided Adaptive Graph Retrieval**|Sonam Gupta et.al.|[2611.01910](http://arxiv.org/abs/2611.01910)|
 |**2026-10-31**|**Reading Between the Chapters: A Graph-Free RAG Rebuilt With AI and Human Feedback**|Dipto Sumit et.al.|[2611.00752](http://arxiv.org/abs/2611.00752)|

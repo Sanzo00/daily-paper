@@ -6,15 +6,23 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.11.03_
+_Updated on 2026.11.04_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
-|**2026-11-02**|**NORmal: Architecting 3D Ferroelectric NOR Flash as Main Memory -- From Co-Fabricated BEOL Arrays to 200B-Class Multi-Agent LLMs in a Smartphone**|Zhuoran Li et.al.|[2610.40000](http://arxiv.org/abs/2610.40000)|
+|**2026-11-03**|**TabPFN-3: Technical Report**|Léo Grinsztajn et.al.|[2605.13986](http://arxiv.org/abs/2605.13986)|
+|**2026-11-03**|**CacheBridge: Efficient Cross-Model KV Transfer for Multi-Model LLM Serving**|Xingyu Qu et.al.|[2609.00891](http://arxiv.org/abs/2609.00891)|
+|**2026-11-03**|**NORmal: Architecting 3D Ferroelectric NOR Flash as Main Memory -- From Co-Fabricated BEOL Arrays to 200B-Class Multi-Agent LLMs in a Smartphone**|Zhuoran Li et.al.|[2610.40000](http://arxiv.org/abs/2610.40000)|
+|**2026-11-03**|**LoopVQ: Sub 1-bit KV Cache Quantization for Looped Transformers**|Minsoo Cheong et.al.|[2611.05304](http://arxiv.org/abs/2611.05304)|
+|**2026-11-03**|**Asymptotic Optimality of $cμ$-Rule for LLM Inference Scheduling under Memory Constraint**|Zhenghao Li et.al.|[2611.04807](http://arxiv.org/abs/2611.04807)|
+|**2026-11-03**|**LeanSparse: Memory-Efficient Serving for Native Sparse-Attention LLMs**|Zaifeng Pan et.al.|[2611.04671](http://arxiv.org/abs/2611.04671)|
+|**2026-11-03**|**LiquidCP: Decoupling Attention Tasks from Communication and Kernel Boundaries in Context Parallelism**|Hongyu Chen et.al.|[2611.04401](http://arxiv.org/abs/2611.04401)|
+|**2026-11-03**|**Beyond Compression Ratio: High-Throughput KV Compression for Disaggregated LLM Serving**|Junhong Wu et.al.|[2611.04382](http://arxiv.org/abs/2611.04382)|
 |**2026-11-02**|**Subquadratic Attention with a Hierarchical Tree-Structured Indexer**|Leon Lufkin et.al.|[2610.42112](http://arxiv.org/abs/2610.42112)|
 |**2026-11-02**|**The SIMPLE Law for Energy Cost of LLM Inference**|Hiari Pizzini Cavagna et.al.|[2611.03330](http://arxiv.org/abs/2611.03330)|
 |**2026-11-02**|**CISA: Retrofitting Dense Attention Models with Chunk-Indexed Sparse Attention**|Mohammed Dabbah et.al.|[2611.03200](http://arxiv.org/abs/2611.03200)|
 |**2026-11-02**|**BasisKV: Value Latents for Communication and Key Routing**|Lixun Zhang et.al.|[2611.02583](http://arxiv.org/abs/2611.02583)|
+|**2026-11-02**|**ROCm InferaSim: Cut LLM Serving Trial Costs and Deploy the Best Configuration**|Anshu Raina et.al.|[2611.04032](http://arxiv.org/abs/2611.04032)|
 |**2026-11-01**|**OmniCast: Interaction-Aware Serving for Real-Time Omni-Modal LLMs**|Xiangyu Zhi et.al.|[2606.22983](http://arxiv.org/abs/2606.22983)|
 |**2026-11-01**|**HERALD: High-Throughput Block Diffusion LLM Inference via CPU-GPU Cooperative KV Cache Retrieval**|Omin Kwon et.al.|[2606.21633](http://arxiv.org/abs/2606.21633)|
 |**2026-11-01**|**Fairway: Load-Aware KV Cache Reuse for LLM Prefill Scheduling**|Hamidreza Alikhani et.al.|[2611.02082](http://arxiv.org/abs/2611.02082)|
@@ -232,7 +240,6 @@ _Updated on 2026.11.03_
 |**2026-09-01**|**From Language to Behavior: Scaling Sequence Transformers for Industrial Recommendation Ranking with Rec-Native Designs**|Jie Chen et.al.|[2609.01240](http://arxiv.org/abs/2609.01240)|
 |**2026-09-01**|**Automatic Model-Hardware Co-Adaptation for Heterogeneous AI Accelerators**|Tian Chen et.al.|[2607.12875](http://arxiv.org/abs/2607.12875)|
 |**2026-09-01**|**Hardware Acceleration of Block-Diffusion LLM for Edge Devices**|Wei-Hsing Huang et.al.|[2609.01084](http://arxiv.org/abs/2609.01084)|
-|**2026-09-01**|**CacheBridge: Efficient Cross-Model KV Cache Transfer**|Xingyu Qu et.al.|[2609.00891](http://arxiv.org/abs/2609.00891)|
 |**2026-09-01**|**Architecting Conversational Data Systems for Stateless LLM APIs: The Hydration Proxy Pattern**|Joseph Axisa et.al.|[2609.01834](http://arxiv.org/abs/2609.01834)|
 |**2026-08-31**|**SALT: Salience-Aware Lexical Trie for Long-Context Compression**|Oteo Mamo et.al.|[2607.17486](http://arxiv.org/abs/2607.17486)|
 |**2026-08-31**|**A Universal Context-Reuse Layer for Cross-Model KV Sharing**|Yi Li et.al.|[2608.30963](http://arxiv.org/abs/2608.30963)|
@@ -435,7 +442,6 @@ _Updated on 2026.11.03_
 |**2026-05-28**|**Esoteric Language Models: A Family of Any-Order Diffusion LLMs**|Subham Sekhar Sahoo et.al.|[2506.01928_(ICML)](http://arxiv.org/abs/2506.01928)|
 |**2026-05-28**|**Cognitive Loop of Thought: Reversible Hierarchical Markov Chain for Efficient Mathematical Reasoning**|Jia-Chen Zhang et.al.|[2604.06805](http://arxiv.org/abs/2604.06805)|
 |**2026-05-28**|**MemoSight: Unifying Context Compression and Multi Token Prediction for Reasoning Acceleration**|Xinyu Liu et.al.|[2604.14889](http://arxiv.org/abs/2604.14889)|
-|**2026-05-28**|**TabPFN-3: Technical Report**|Léo Grinsztajn et.al.|[2605.13986](http://arxiv.org/abs/2605.13986)|
 |**2026-05-28**|**Memory-Bound but Not Bandwidth-Limited: The Physical AI Inference Gap in Batch-1 LLM Decode**|Josef Chen et.al.|[2605.30571](http://arxiv.org/abs/2605.30571)|
 |**2026-05-28**|**RTP-LLM: High-Performance Alibaba LLM Inference Engine**|Boyu Tan et.al.|[2605.29639](http://arxiv.org/abs/2605.29639)|
 |**2026-05-28**|**Moment-KV: Momentum-Based Decode-Time KV Cache Compression for Long Generation**|Soumyadeep Jana et.al.|[2605.29873](http://arxiv.org/abs/2605.29873)|
