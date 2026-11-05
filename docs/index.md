@@ -6,10 +6,11 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.11.04_
+_Updated on 2026.11.05_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-11-04**|**HYPIC: Position-Independent Caching for Hybrid-Attention LLM Serving**|Yifei Liu et.al.|[2607.01299](http://arxiv.org/abs/2607.01299)|
 |**2026-11-03**|**CacheBridge: Efficient Cross-Model KV Transfer for Multi-Model LLM Serving**|Xingyu Qu et.al.|[2609.00891](http://arxiv.org/abs/2609.00891)|
 |**2026-11-03**|**QueryFlow: Multi-Hop Graph Retrieval with Adaptive Query Evolution**|Manzong Huang et.al.|[2611.04625](http://arxiv.org/abs/2611.04625)|
 |**2026-11-01**|**Fairway: Load-Aware KV Cache Reuse for LLM Prefill Scheduling**|Hamidreza Alikhani et.al.|[2611.02082](http://arxiv.org/abs/2611.02082)|
@@ -157,7 +158,6 @@ _Updated on 2026.11.04_
 |**2026-07-02**|**When RAG Meets Query Planning: Logical Query Trees for Resolving Exploratory Reasoning Problems**|Ganlin Xu et.al.|[2607.00508_(SIGMOD)](http://arxiv.org/abs/2607.00508)|
 |**2026-07-02**|**Optimizing Hypergraph-Based RAG: Toward Better Fact Extraction and Chunk Retrieval**|Houda Khrouf et.al.|[2607.20506](http://arxiv.org/abs/2607.20506)|
 |**2026-07-01**|**ClinRAG-GRAPH: Clinical-prior Retrieval-Augmented Graph Model with Domain Adversarial Learning for Breast pCR Prediction**|Yaofei Duan et.al.|[2607.00798](http://arxiv.org/abs/2607.00798)|
-|**2026-07-01**|**HYPIC: Accelerating Hybrid-Attention LLM Serving with Position-Independent Caching**|Yifei Liu et.al.|[2607.01299](http://arxiv.org/abs/2607.01299)|
 |**2026-07-01**|**R$^{2}$Adapter: A Routing and Rewriting Adapter for Efficient Hybrid RAG**|Yucan Guo et.al.|[2609.02894](http://arxiv.org/abs/2609.02894)|
 |**2026-06-30**|**AGE: Adaptive-masking for Graph Embedding in Graph Retrieval-Augmented Generation**|Bao Long Nguyen Huu et.al.|[2607.00052](http://arxiv.org/abs/2607.00052)|
 |**2026-06-30**|**Multi-Agent Retrieval-Augmented Generation for Efficient Cloud Knowledge Base Search in Telecom SNOC Environment**|Harish Saragadam et.al.|[2609.01618](http://arxiv.org/abs/2609.01618)|

@@ -6,10 +6,12 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.11.04_
+_Updated on 2026.11.05_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-11-04**|**MASBench: Benchmarking LLM-based Multi-Agent Collaboration under Partial Observability**|Qizhi Chu et.al.|[2610.04672](http://arxiv.org/abs/2610.04672)|
+|**2026-11-04**|**Can LLM Agents Learn to Test? Maintaining Scoped Experience as Testing Evidence for Mobile GUI Testing**|Zimu Liu et.al.|[2611.05873](http://arxiv.org/abs/2611.05873)|
 |**2026-11-03**|**NORmal: Architecting 3D Ferroelectric NOR Flash as Main Memory -- From Co-Fabricated BEOL Arrays to 200B-Class Multi-Agent LLMs in a Smartphone**|Zhuoran Li et.al.|[2610.40000](http://arxiv.org/abs/2610.40000)|
 |**2026-11-03**|**Asymptotic Optimality of $cμ$-Rule for LLM Inference Scheduling under Memory Constraint**|Zhenghao Li et.al.|[2611.04807](http://arxiv.org/abs/2611.04807)|
 |**2026-11-03**|**HyPAIC: Personal AI Computer with High Bandwidth Flash for High Performance Trillion-Parameter LLM Inference**|Minho Ha et.al.|[2611.04144](http://arxiv.org/abs/2611.04144)|
@@ -108,7 +110,6 @@ _Updated on 2026.11.04_
 |**2026-10-05**|**See What I See, Know What I Think: Dense Latent Communication Across Heterogeneous Agents**|Siyi Chen et.al.|[2606.13594](http://arxiv.org/abs/2606.13594)|
 |**2026-10-03**|**KV Cache Translation across Heterogeneous Large Language Models**|Jin-woo Lee et.al.|[2607.28979](http://arxiv.org/abs/2607.28979)|
 |**2026-10-03**|**Asymmetric Repository Lineage Modeling and Verifier-Guided Coordination in Concurrent AI Coding Agents**|Arjun Subramanian et.al.|[2610.04779](http://arxiv.org/abs/2610.04779)|
-|**2026-10-03**|**MASBench: Benchmarking LLM-based Multi-Agent Collaboration under Partial Observability**|Qizhi Chu et.al.|[2610.04672](http://arxiv.org/abs/2610.04672)|
 |**2026-10-03**|**Asynchronous Is Nearly Free for Evolution Strategies on Long-Horizon Agentic Tasks**|William Hoy et.al.|[2610.04196](http://arxiv.org/abs/2610.04196)|
 |**2026-10-02**|**RR-Evict: Fine-Grained Prefix Cache Eviction beyond LRU for Agentic LLM Serving**|Zaifeng Pan et.al.|[2609.32278](http://arxiv.org/abs/2609.32278)|
 |**2026-10-02**|**VenusRL: A Fully Disaggregated Agentic RL System with Priority Scheduling and Scalable Interaction**|Mingjun Zhang et.al.|[2610.03286](http://arxiv.org/abs/2610.03286)|
@@ -179,6 +180,7 @@ _Updated on 2026.11.04_
 |**2026-09-15**|**Explainable Post-Disaster Grid Observability Recovery Using Human-Oversight Agentic LLMs**|Biswas Rudra Jyoti Arka et.al.|[2609.16774](http://arxiv.org/abs/2609.16774)|
 |**2026-09-14**|**A Voice-Interactive Multi-Agent System for Smart Operating Rooms: Architecture Design and Key Technologies**|Tianxiang Zhou et.al.|[2609.11231_(SC)](http://arxiv.org/abs/2609.11231)|
 |**2026-09-14**|**AgentKV: Phase-Aware KV Eviction for Agentic LLMs**|Taowen Tony Liu et.al.|[2609.14872](http://arxiv.org/abs/2609.14872)|
+|**2026-09-14**|**Uncertainty-Aware Resource Orchestration for Agentic AI Systems**|Masoud Shokrnezhad et.al.|[2611.05392](http://arxiv.org/abs/2611.05392)|
 |**2026-09-13**|**SMetric: Rethink LLM Scheduling for Serving Agents with Balanced Session-centric Scheduling**|Jiahao Wang et.al.|[2607.08565](http://arxiv.org/abs/2607.08565)|
 |**2026-09-12**|**LLM-Enhanced Multi-Agent Reinforcement Learning for Unified Electric Vehicles-Charging Station-Grid Optimization in Public Charging Systems**|Yang Zhang et.al.|[2609.13805](http://arxiv.org/abs/2609.13805)|
 |**2026-09-12**|**SiliconBench: Speed, Memory, and Fidelity for LLM Serving on Unified-Memory Desktops**|Ranran Haoran Zhang et.al.|[2609.19169_(CHI)](http://arxiv.org/abs/2609.19169)|

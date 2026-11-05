@@ -6,10 +6,16 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.11.04_
+_Updated on 2026.11.05_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-11-04**|**HYPIC: Position-Independent Caching for Hybrid-Attention LLM Serving**|Yifei Liu et.al.|[2607.01299](http://arxiv.org/abs/2607.01299)|
+|**2026-11-04**|**PatchKV: Weight-Space Compensation of KV Cache**|Chanryeol Lee et.al.|[2609.39329_(ATC)](http://arxiv.org/abs/2609.39329)|
+|**2026-11-04**|**Beyond Compression Ratio: High-Throughput KV Compression for Disaggregated LLM Serving**|Junhong Wu et.al.|[2611.04382](http://arxiv.org/abs/2611.04382)|
+|**2026-11-04**|**KVGuard: A KV Cache Safety Checker for LLM Serving Systems**|Jonguk Cheong et.al.|[2611.06138](http://arxiv.org/abs/2611.06138)|
+|**2026-11-04**|**CRESiST: Self-Enhancing Explorative Policy Learning for Simultaneous Speech Translation**|Chenyang Le et.al.|[2611.06501_(NeurIPS)](http://arxiv.org/abs/2611.06501)|
+|**2026-11-04**|**Reference-Compatible Parallel Execution for Quantized LLM Inference**|Chengzhan Li et.al.|[2610.03228_(ATC)](http://arxiv.org/abs/2610.03228)|
 |**2026-11-03**|**TabPFN-3: Technical Report**|Léo Grinsztajn et.al.|[2605.13986](http://arxiv.org/abs/2605.13986)|
 |**2026-11-03**|**CacheBridge: Efficient Cross-Model KV Transfer for Multi-Model LLM Serving**|Xingyu Qu et.al.|[2609.00891](http://arxiv.org/abs/2609.00891)|
 |**2026-11-03**|**NORmal: Architecting 3D Ferroelectric NOR Flash as Main Memory -- From Co-Fabricated BEOL Arrays to 200B-Class Multi-Agent LLMs in a Smartphone**|Zhuoran Li et.al.|[2610.40000](http://arxiv.org/abs/2610.40000)|
@@ -17,7 +23,6 @@ _Updated on 2026.11.04_
 |**2026-11-03**|**Asymptotic Optimality of $cμ$-Rule for LLM Inference Scheduling under Memory Constraint**|Zhenghao Li et.al.|[2611.04807](http://arxiv.org/abs/2611.04807)|
 |**2026-11-03**|**LeanSparse: Memory-Efficient Serving for Native Sparse-Attention LLMs**|Zaifeng Pan et.al.|[2611.04671](http://arxiv.org/abs/2611.04671)|
 |**2026-11-03**|**LiquidCP: Decoupling Attention Tasks from Communication and Kernel Boundaries in Context Parallelism**|Hongyu Chen et.al.|[2611.04401](http://arxiv.org/abs/2611.04401)|
-|**2026-11-03**|**Beyond Compression Ratio: High-Throughput KV Compression for Disaggregated LLM Serving**|Junhong Wu et.al.|[2611.04382](http://arxiv.org/abs/2611.04382)|
 |**2026-11-02**|**Subquadratic Attention with a Hierarchical Tree-Structured Indexer**|Leon Lufkin et.al.|[2610.42112](http://arxiv.org/abs/2610.42112)|
 |**2026-11-02**|**The SIMPLE Law for Energy Cost of LLM Inference**|Hiari Pizzini Cavagna et.al.|[2611.03330](http://arxiv.org/abs/2611.03330)|
 |**2026-11-02**|**CISA: Retrofitting Dense Attention Models with Chunk-Indexed Sparse Attention**|Mohammed Dabbah et.al.|[2611.03200](http://arxiv.org/abs/2611.03200)|
@@ -86,7 +91,6 @@ _Updated on 2026.11.04_
 |**2026-10-14**|**FOLD: Position-Free Far Memory with Local Order for Long-Context Speculative Decoding**|Shuxuan Li et.al.|[2610.20392](http://arxiv.org/abs/2610.20392)|
 |**2026-10-14**|**PN-Mix: Pair-Norm Guided Mixed-Precision Key Cache Quantization for Efficient Long-Output LLM Inference**|Gil Jae Song et.al.|[2610.19605_(EMNLP)](http://arxiv.org/abs/2610.19605)|
 |**2026-10-13**|**HAServe: Horizon-Aware Scheduling and Memory Co-Design for Efficient LLM Serving**|Xingyu Qu et.al.|[2605.08581](http://arxiv.org/abs/2605.08581)|
-|**2026-10-13**|**PatchKV: Weight-Space Compensation of KV Cache**|Chanryeol Lee et.al.|[2609.39329_(ATC)](http://arxiv.org/abs/2609.39329)|
 |**2026-10-13**|**RadixFlow: Filling Execution Bubbles in Prefix-Cached Hybrid LLM Serving**|Huihao Jing et.al.|[2610.18143](http://arxiv.org/abs/2610.18143)|
 |**2026-10-13**|**Quota-Based Aging for Prediction-Guided Scheduling in LLM Serving**|Hanzhi Zhang et.al.|[2610.17795_(CCC)](http://arxiv.org/abs/2610.17795)|
 |**2026-10-13**|**MultiAlloc: Budget-Aware Precision Allocation for KV Cache Quantization**|Yangchengyu Zhou et.al.|[2610.18642](http://arxiv.org/abs/2610.18642)|
@@ -328,7 +332,6 @@ _Updated on 2026.11.04_
 |**2026-07-13**|**[AAFLOW+] Stateful Operator Abstraction with Zero-Copy Distributed KV Cache Orchestration for Multi-Agent Workflows**|Arup Kumar Sarker et.al.|[2607.10987](http://arxiv.org/abs/2607.10987)|
 |**2026-07-13**|**FastTPS: An Optimized Method for LLM Token Phase for AI accelerators**|Wenzong Yang et.al.|[2607.11211](http://arxiv.org/abs/2607.11211)|
 |**2026-07-12**|**KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing**|Mufei Li et.al.|[2606.17034_(ICML)](http://arxiv.org/abs/2606.17034)|
-|**2026-07-12**|**HYPIC: Accelerating Hybrid-Attention LLM Serving with Position-Independent Caching**|Yifei Liu et.al.|[2607.01299](http://arxiv.org/abs/2607.01299)|
 |**2026-07-12**|**MemDecay: Region-Aware KV Cache Eviction for Efficient LLM Agent Inference**|Venkatesha Matam et.al.|[2607.10582](http://arxiv.org/abs/2607.10582)|
 |**2026-07-10**|**COBS: Cumulant Order Block Sparse Attention**|Alexander Tian et.al.|[2607.09052](http://arxiv.org/abs/2607.09052)|
 |**2026-07-10**|**General Non-Clairvoyant KV-Cache Scheduling via Regime-Aware Routing**|Yiding Feng et.al.|[2607.09248](http://arxiv.org/abs/2607.09248)|
