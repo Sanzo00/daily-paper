@@ -6,10 +6,13 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.11.05_
+_Updated on 2026.11.06_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-11-05**|**SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization**|Qile Jiang et.al.|[2611.08483](http://arxiv.org/abs/2611.08483)|
+|**2026-11-05**|**SCALE: Real-Time Latent Communication for Cyber-Physical Agents**|Shanghao Shi et.al.|[2611.08390](http://arxiv.org/abs/2611.08390)|
+|**2026-11-05**|**CacheGraft: Enhancing Retrieval-Augmented Generation via Latent-Space Document Enrichment**|Vihan Lakshman et.al.|[2611.07393_(CIKM)](http://arxiv.org/abs/2611.07393)|
 |**2026-11-04**|**MASBench: Benchmarking LLM-based Multi-Agent Collaboration under Partial Observability**|Qizhi Chu et.al.|[2610.04672](http://arxiv.org/abs/2610.04672)|
 |**2026-11-04**|**Can LLM Agents Learn to Test? Maintaining Scoped Experience as Testing Evidence for Mobile GUI Testing**|Zimu Liu et.al.|[2611.05873](http://arxiv.org/abs/2611.05873)|
 |**2026-11-03**|**NORmal: Architecting 3D Ferroelectric NOR Flash as Main Memory -- From Co-Fabricated BEOL Arrays to 200B-Class Multi-Agent LLMs in a Smartphone**|Zhuoran Li et.al.|[2610.40000](http://arxiv.org/abs/2610.40000)|
@@ -18,6 +21,8 @@ _Updated on 2026.11.05_
 |**2026-11-03**|**CacheBridge: Efficient Cross-Model KV Transfer for Multi-Model LLM Serving**|Xingyu Qu et.al.|[2609.00891](http://arxiv.org/abs/2609.00891)|
 |**2026-11-03**|**ToolSched: Resource-Efficient Tool Scheduling for Shared-Host LLM Agents**|Shucheng Zou et.al.|[2611.05269](http://arxiv.org/abs/2611.05269)|
 |**2026-11-03**|**ModelBlaster: Closing the Performance Gap through Learning-Augmented Agents Across Models, Kernels and Hardware Backends**|Shengjun Kris Dong et.al.|[2611.04104](http://arxiv.org/abs/2611.04104)|
+|**2026-11-03**|**Octopus: One Brain, Many Branches for Latent-KV Multi-Agent Reinforcement Learning**|Tianming Sha et.al.|[2611.06956](http://arxiv.org/abs/2611.06956)|
+|**2026-11-03**|**A Sharp Additive Bound for the Threshold Rule in Repeated Rent-or-Buy**|Vasco Schiavo et.al.|[2611.06955](http://arxiv.org/abs/2611.06955)|
 |**2026-11-02**|**Subquadratic Attention with a Hierarchical Tree-Structured Indexer**|Leon Lufkin et.al.|[2610.42112](http://arxiv.org/abs/2610.42112)|
 |**2026-11-02**|**The SIMPLE Law for Energy Cost of LLM Inference**|Hiari Pizzini Cavagna et.al.|[2611.03330](http://arxiv.org/abs/2611.03330)|
 |**2026-11-02**|**Multi-Modal Multi-Agent System for Bridge Operation and Maintenance based on Large Language Model**|Xiangyun Luo et.al.|[2611.02738](http://arxiv.org/abs/2611.02738)|

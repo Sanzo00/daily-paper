@@ -6,12 +6,17 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.11.05_
+_Updated on 2026.11.06_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-11-05**|**Should You Split Decode? Disaggregation Across Future Models and Accelerators**|Ramyad Hadidi et.al.|[2611.08299](http://arxiv.org/abs/2611.08299)|
+|**2026-11-05**|**FlashOffloading: Low-Latency KV Cache Offloading for Long-Context LLM Serving**|Xuan Wang et.al.|[2611.07542](http://arxiv.org/abs/2611.07542)|
+|**2026-11-05**|**SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization**|Qile Jiang et.al.|[2611.08483](http://arxiv.org/abs/2611.08483)|
+|**2026-11-04**|**SeKV: Resolution-Adaptive KV Cache with Hierarchical Semantic Memory for Long-Context LLM Inference**|Amirhossein Abaskohi et.al.|[2606.31145](http://arxiv.org/abs/2606.31145)|
 |**2026-11-04**|**HYPIC: Position-Independent Caching for Hybrid-Attention LLM Serving**|Yifei Liu et.al.|[2607.01299](http://arxiv.org/abs/2607.01299)|
 |**2026-11-04**|**PatchKV: Weight-Space Compensation of KV Cache**|Chanryeol Lee et.al.|[2609.39329_(ATC)](http://arxiv.org/abs/2609.39329)|
+|**2026-11-04**|**GAAC: Lossless KV Compression for Bandwidth-Efficient LLM Inference on Personal Devices**|Yipin Guo et.al.|[2610.38210](http://arxiv.org/abs/2610.38210)|
 |**2026-11-04**|**Beyond Compression Ratio: High-Throughput KV Compression for Disaggregated LLM Serving**|Junhong Wu et.al.|[2611.04382](http://arxiv.org/abs/2611.04382)|
 |**2026-11-04**|**KVGuard: A KV Cache Safety Checker for LLM Serving Systems**|Jonguk Cheong et.al.|[2611.06138](http://arxiv.org/abs/2611.06138)|
 |**2026-11-04**|**CRESiST: Self-Enhancing Explorative Policy Learning for Simultaneous Speech Translation**|Chenyang Le et.al.|[2611.06501_(NeurIPS)](http://arxiv.org/abs/2611.06501)|
@@ -23,6 +28,7 @@ _Updated on 2026.11.05_
 |**2026-11-03**|**Asymptotic Optimality of $cμ$-Rule for LLM Inference Scheduling under Memory Constraint**|Zhenghao Li et.al.|[2611.04807](http://arxiv.org/abs/2611.04807)|
 |**2026-11-03**|**LeanSparse: Memory-Efficient Serving for Native Sparse-Attention LLMs**|Zaifeng Pan et.al.|[2611.04671](http://arxiv.org/abs/2611.04671)|
 |**2026-11-03**|**LiquidCP: Decoupling Attention Tasks from Communication and Kernel Boundaries in Context Parallelism**|Hongyu Chen et.al.|[2611.04401](http://arxiv.org/abs/2611.04401)|
+|**2026-11-03**|**Octopus: One Brain, Many Branches for Latent-KV Multi-Agent Reinforcement Learning**|Tianming Sha et.al.|[2611.06956](http://arxiv.org/abs/2611.06956)|
 |**2026-11-02**|**Subquadratic Attention with a Hierarchical Tree-Structured Indexer**|Leon Lufkin et.al.|[2610.42112](http://arxiv.org/abs/2610.42112)|
 |**2026-11-02**|**The SIMPLE Law for Energy Cost of LLM Inference**|Hiari Pizzini Cavagna et.al.|[2611.03330](http://arxiv.org/abs/2611.03330)|
 |**2026-11-02**|**CISA: Retrofitting Dense Attention Models with Chunk-Indexed Sparse Attention**|Mohammed Dabbah et.al.|[2611.03200](http://arxiv.org/abs/2611.03200)|
@@ -43,7 +49,6 @@ _Updated on 2026.11.05_
 |**2026-10-29**|**Shared Context, Separate Engines: Stateful Streaming Inference for Multimodal LLMs on Edge SoCs**|Yilong Li et.al.|[2610.35309](http://arxiv.org/abs/2610.35309)|
 |**2026-10-28**|**Budget-Aware Compression Pipeline for Single-GPU LLM Inference: Methods, Trade-offs, and Coupling Effects**|Hongyu Yu et.al.|[2608.30076_(EMNLP)](http://arxiv.org/abs/2608.30076)|
 |**2026-10-28**|**FlatCake: A Flat KVCache Storage Architecture for LLM Serving**|Xin Huang et.al.|[2610.38355](http://arxiv.org/abs/2610.38355)|
-|**2026-10-28**|**GAAC: Lossless KV Compression for Bandwidth-Efficient LLM Inference on Personal Devices**|Yipin Guo et.al.|[2610.38210](http://arxiv.org/abs/2610.38210)|
 |**2026-10-28**|**Context Compaction for World Models**|Hayder Tirmazi et.al.|[2610.38980](http://arxiv.org/abs/2610.38980)|
 |**2026-10-26**|**Separating Thinking from Spelling for Efficient Generative Recommendation**|Danil Gusak et.al.|[2610.32980](http://arxiv.org/abs/2610.32980)|
 |**2026-10-26**|**Context Is Not Free: Carbon-Aware LLM Routing for Multi-Turn LLM Web Services across Geo-Distributed Data Centers**|Xiaoyang Zhang et.al.|[2610.35230](http://arxiv.org/abs/2610.35230)|
@@ -366,7 +371,6 @@ _Updated on 2026.11.05_
 |**2026-06-30**|**TraceLab: Characterizing Coding Agent Workloads for LLM Serving**|Kan Zhu et.al.|[2606.30560](http://arxiv.org/abs/2606.30560)|
 |**2026-06-30**|**Demystifying the Design Space and Best Practices for Heterogeneous LLM Inference and Serving**|Zhixin Wang et.al.|[2606.29708](http://arxiv.org/abs/2606.29708)|
 |**2026-06-30**|**RaBitQCache: Rotated Binary Quantization for KVCache in Long Context LLM Inference**|Wenhao Li et.al.|[2606.31519_(ICML)](http://arxiv.org/abs/2606.31519)|
-|**2026-06-30**|**SeKV: Resolution-Adaptive KV Cache with Hierarchical Semantic Memory for Long-Context LLM Inference**|Amirhossein Abaskohi et.al.|[2606.31145](http://arxiv.org/abs/2606.31145)|
 |**2026-06-30**|**SmoothAgent: Efficient Long-Horizon LLM-Based Agent Serving with Lookahead Context Engineering**|Zaifeng Pan et.al.|[2607.00151](http://arxiv.org/abs/2607.00151)|
 |**2026-06-30**|**From Tensor Buffer to Distributed Memory Hierarchy: A Survey of KV Cache Management for LLM Serving**|Jie Li et.al.|[2607.02574](http://arxiv.org/abs/2607.02574)|
 |**2026-06-29**|**HBM Is Not All You Need: Efficient Disaggregated LLM Serving across Memory-heterogeneous Accelerators**|Zhixiang Wei et.al.|[2606.29986](http://arxiv.org/abs/2606.29986)|

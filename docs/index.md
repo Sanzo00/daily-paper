@@ -6,10 +6,11 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.11.05_
+_Updated on 2026.11.06_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-11-05**|**Multimodal Graph RAG for Long-range Visually Rich Document Understanding**|Yi-Cheng Wang et.al.|[2606.28780](http://arxiv.org/abs/2606.28780)|
 |**2026-11-04**|**HYPIC: Position-Independent Caching for Hybrid-Attention LLM Serving**|Yifei Liu et.al.|[2607.01299](http://arxiv.org/abs/2607.01299)|
 |**2026-11-03**|**CacheBridge: Efficient Cross-Model KV Transfer for Multi-Model LLM Serving**|Xingyu Qu et.al.|[2609.00891](http://arxiv.org/abs/2609.00891)|
 |**2026-11-03**|**QueryFlow: Multi-Hop Graph Retrieval with Adaptive Query Evolution**|Manzong Huang et.al.|[2611.04625](http://arxiv.org/abs/2611.04625)|
@@ -165,7 +166,6 @@ _Updated on 2026.11.05_
 |**2026-06-29**|**Efficient Retrieval-Augmented Generation via Token Co-occurrence Graphs**|Gianluca Bonifazi et.al.|[2606.30093](http://arxiv.org/abs/2606.30093)|
 |**2026-06-29**|**Mandol: An Agglomerative Agent Memory System for Long-Term Conversations**|Yuhan Zhang et.al.|[2606.29778](http://arxiv.org/abs/2606.29778)|
 |**2026-06-27**|**Evidence Graph Consistency in Retrieval-Augmented Generation: A Model-Dependent Analysis of Hallucination Detection**|Jianru Shen et.al.|[2606.06748_(CHI)](http://arxiv.org/abs/2606.06748)|
-|**2026-06-27**|**Multimodal Graph RAG for Long-range Visually Rich Document Understanding**|Yi-Cheng Wang et.al.|[2606.28780](http://arxiv.org/abs/2606.28780)|
 |**2026-06-26**|**PYPILINE: Malicious PyPI Package Detection via Suspicious API Knowledge and Agent Workflow**|Siyuan Pang et.al.|[2606.19063](http://arxiv.org/abs/2606.19063)|
 |**2026-06-26**|**From Detection to Action: Using LLM Agents for Fault-Tolerant Control**|Javal Vyas et.al.|[2606.28011](http://arxiv.org/abs/2606.28011)|
 |**2026-06-26**|**KG2Code: Bridging Knowledge Graphs and Large Language Models via Executable Code for Question Answering**|Yike Wu et.al.|[2607.22652](http://arxiv.org/abs/2607.22652)|
