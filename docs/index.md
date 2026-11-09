@@ -6,10 +6,12 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.11.08_
+_Updated on 2026.11.09_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-11-06**|**Nebula: Distributed Position-Independent Caching for LLM Serving**|Yifei Liu et.al.|[2611.09474](http://arxiv.org/abs/2611.09474)|
+|**2026-11-06**|**DARIC: A Position-Independent KV Cache Reuse System with Distribution-Aware Recomputation**|Weikang Wang et.al.|[2611.09109_(SIGMOD)](http://arxiv.org/abs/2611.09109)|
 |**2026-11-05**|**Multimodal Graph RAG for Long-range Visually Rich Document Understanding**|Yi-Cheng Wang et.al.|[2606.28780](http://arxiv.org/abs/2606.28780)|
 |**2026-11-04**|**HYPIC: Position-Independent Caching for Hybrid-Attention LLM Serving**|Yifei Liu et.al.|[2607.01299](http://arxiv.org/abs/2607.01299)|
 |**2026-11-03**|**CacheBridge: Efficient Cross-Model KV Transfer for Multi-Model LLM Serving**|Xingyu Qu et.al.|[2609.00891](http://arxiv.org/abs/2609.00891)|

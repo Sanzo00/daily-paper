@@ -6,13 +6,20 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.11.08_
+_Updated on 2026.11.09_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-11-06**|**PriorityFEC: Deadline-Aware Streaming FEC for KV-Cache Handoff in Edge Multi-Agent Systems**|Han Shen et.al.|[2610.21390](http://arxiv.org/abs/2610.21390)|
+|**2026-11-06**|**CacheGraft: Enhancing Retrieval-Augmented Generation via Latent-Space Document Enrichment**|Vihan Lakshman et.al.|[2611.07393_(CIKM)](http://arxiv.org/abs/2611.07393)|
+|**2026-11-06**|**Nebula: Distributed Position-Independent Caching for LLM Serving**|Yifei Liu et.al.|[2611.09474](http://arxiv.org/abs/2611.09474)|
+|**2026-11-06**|**TwinHash: Two-Sided Object Identity Management for Time- and Energy-Efficient Agentic Workflows**|Sangbu Yun et.al.|[2611.09254_(HPCA)](http://arxiv.org/abs/2611.09254)|
+|**2026-11-06**|**DARIC: A Position-Independent KV Cache Reuse System with Distribution-Aware Recomputation**|Weikang Wang et.al.|[2611.09109_(SIGMOD)](http://arxiv.org/abs/2611.09109)|
+|**2026-11-06**|**Inside the Trap: A Renewal Law for Prefix-Cache Collapse in LLM Agent Serving**|Akshat Valse et.al.|[2611.08902](http://arxiv.org/abs/2611.08902)|
+|**2026-11-06**|**ISER-MoE: Dynamic In-Switch Replication of Hot Experts for Load Balancing in Expert-Parallel**|Jintao Peng et.al.|[2611.09008](http://arxiv.org/abs/2611.09008)|
 |**2026-11-05**|**SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization**|Qile Jiang et.al.|[2611.08483](http://arxiv.org/abs/2611.08483)|
 |**2026-11-05**|**SCALE: Real-Time Latent Communication for Cyber-Physical Agents**|Shanghao Shi et.al.|[2611.08390](http://arxiv.org/abs/2611.08390)|
-|**2026-11-05**|**CacheGraft: Enhancing Retrieval-Augmented Generation via Latent-Space Document Enrichment**|Vihan Lakshman et.al.|[2611.07393_(CIKM)](http://arxiv.org/abs/2611.07393)|
+|**2026-11-05**|**MORTIS: Compiler-Guided KV-Cache Management for LLM Agent Programs**|Xiaoyu Ma et.al.|[2611.08638](http://arxiv.org/abs/2611.08638)|
 |**2026-11-04**|**MASBench: Benchmarking LLM-based Multi-Agent Collaboration under Partial Observability**|Qizhi Chu et.al.|[2610.04672](http://arxiv.org/abs/2610.04672)|
 |**2026-11-04**|**Can LLM Agents Learn to Test? Maintaining Scoped Experience as Testing Evidence for Mobile GUI Testing**|Zimu Liu et.al.|[2611.05873](http://arxiv.org/abs/2611.05873)|
 |**2026-11-03**|**NORmal: Architecting 3D Ferroelectric NOR Flash as Main Memory -- From Co-Fabricated BEOL Arrays to 200B-Class Multi-Agent LLMs in a Smartphone**|Zhuoran Li et.al.|[2610.40000](http://arxiv.org/abs/2610.40000)|
@@ -32,7 +39,6 @@ _Updated on 2026.11.08_
 |**2026-11-01**|**AgenticMobility: An Open-Source Platform for Multi-AI-Agent Mobility Dynamics**|Jiaheng Xiao et.al.|[2611.01918](http://arxiv.org/abs/2611.01918)|
 |**2026-11-01**|**Serving Agentic Robot Fleets: Workload Characterization, KV-Cache Thrashing, and Admission Control**|Sida He et.al.|[2611.01404](http://arxiv.org/abs/2611.01404)|
 |**2026-10-31**|**Jet-QSparse: Accelerating Agentic LLM Inference with 4-Bit Sparse Attention**|Haozhan Tang et.al.|[2611.01022](http://arxiv.org/abs/2611.01022)|
-|**2026-10-30**|**PriorityFEC: Deadline-Aware Streaming FEC for KV-Cache Handoff in Edge Multi-Agent Systems**|Han Shen et.al.|[2610.21390](http://arxiv.org/abs/2610.21390)|
 |**2026-10-30**|**HiState: Hierarchical Prefix Cache Management for Hybrid LLM Serving in Agentic Workloads**|Zaifeng Pan et.al.|[2610.41508](http://arxiv.org/abs/2610.41508)|
 |**2026-10-30**|**In-Model Context Compression with Agentic Soft Tokens for Long-Horizon LLM Agents**|Xuning He et.al.|[2610.41291](http://arxiv.org/abs/2610.41291)|
 |**2026-10-30**|**Rethinking KV Cache Eviction for Agentic LLM Serving**|Jiakun Fan et.al.|[2611.00391](http://arxiv.org/abs/2611.00391)|

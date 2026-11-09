@@ -6,13 +6,21 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.11.08_
+_Updated on 2026.11.09_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-11-06**|**PriorityFEC: Deadline-Aware Streaming FEC for KV-Cache Handoff in Edge Multi-Agent Systems**|Han Shen et.al.|[2610.21390](http://arxiv.org/abs/2610.21390)|
+|**2026-11-06**|**BitDecoding-FP4: Native FP4 KV Cache Decoding via Algorithm-System Co-Design**|Dayou Du et.al.|[2611.09825](http://arxiv.org/abs/2611.09825)|
+|**2026-11-06**|**FOSCAR: Accelerating Decode Attention over 2- and 4-Bit KV Caches through Affine Folding**|Donglin Zhuang et.al.|[2611.09722](http://arxiv.org/abs/2611.09722)|
+|**2026-11-06**|**Nebula: Distributed Position-Independent Caching for LLM Serving**|Yifei Liu et.al.|[2611.09474](http://arxiv.org/abs/2611.09474)|
+|**2026-11-06**|**TwinHash: Two-Sided Object Identity Management for Time- and Energy-Efficient Agentic Workflows**|Sangbu Yun et.al.|[2611.09254_(HPCA)](http://arxiv.org/abs/2611.09254)|
+|**2026-11-06**|**Inside the Trap: A Renewal Law for Prefix-Cache Collapse in LLM Agent Serving**|Akshat Valse et.al.|[2611.08902](http://arxiv.org/abs/2611.08902)|
+|**2026-11-06**|**DARIC: A Position-Independent KV Cache Reuse System with Distribution-Aware Recomputation**|Weikang Wang et.al.|[2611.09109_(SIGMOD)](http://arxiv.org/abs/2611.09109)|
 |**2026-11-05**|**Should You Split Decode? Disaggregation Across Future Models and Accelerators**|Ramyad Hadidi et.al.|[2611.08299](http://arxiv.org/abs/2611.08299)|
 |**2026-11-05**|**FlashOffloading: Low-Latency KV Cache Offloading for Long-Context LLM Serving**|Xuan Wang et.al.|[2611.07542](http://arxiv.org/abs/2611.07542)|
 |**2026-11-05**|**SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization**|Qile Jiang et.al.|[2611.08483](http://arxiv.org/abs/2611.08483)|
+|**2026-11-05**|**MORTIS: Compiler-Guided KV-Cache Management for LLM Agent Programs**|Xiaoyu Ma et.al.|[2611.08638](http://arxiv.org/abs/2611.08638)|
 |**2026-11-04**|**SeKV: Resolution-Adaptive KV Cache with Hierarchical Semantic Memory for Long-Context LLM Inference**|Amirhossein Abaskohi et.al.|[2606.31145](http://arxiv.org/abs/2606.31145)|
 |**2026-11-04**|**HYPIC: Position-Independent Caching for Hybrid-Attention LLM Serving**|Yifei Liu et.al.|[2607.01299](http://arxiv.org/abs/2607.01299)|
 |**2026-11-04**|**PatchKV: Weight-Space Compensation of KV Cache**|Chanryeol Lee et.al.|[2609.39329_(ATC)](http://arxiv.org/abs/2609.39329)|
@@ -43,7 +51,6 @@ _Updated on 2026.11.08_
 |**2026-10-31**|**TRIAGE: Reliability- and Load-Conditioned Escalation for Two-Tier LLM Serving with a Semantic Evidence Judge**|Basavaraj R M et.al.|[2611.01174](http://arxiv.org/abs/2611.01174)|
 |**2026-10-31**|**Elastic Precision: Software-Hardware Co-Design of a Mixed-Precision Architecture for Long-Context LLM Inference**|Boyang Chen et.al.|[2611.00915](http://arxiv.org/abs/2611.00915)|
 |**2026-10-31**|**Jet-QSparse: Accelerating Agentic LLM Inference with 4-Bit Sparse Attention**|Haozhan Tang et.al.|[2611.01022](http://arxiv.org/abs/2611.01022)|
-|**2026-10-30**|**PriorityFEC: Deadline-Aware Streaming FEC for KV-Cache Handoff in Edge Multi-Agent Systems**|Han Shen et.al.|[2610.21390](http://arxiv.org/abs/2610.21390)|
 |**2026-10-30**|**HiState: Hierarchical Prefix Cache Management for Hybrid LLM Serving in Agentic Workloads**|Zaifeng Pan et.al.|[2610.41508](http://arxiv.org/abs/2610.41508)|
 |**2026-10-30**|**Rethinking KV Cache Eviction for Agentic LLM Serving**|Jiakun Fan et.al.|[2611.00391](http://arxiv.org/abs/2611.00391)|
 |**2026-10-29**|**Shared Context, Separate Engines: Stateful Streaming Inference for Multimodal LLMs on Edge SoCs**|Yilong Li et.al.|[2610.35309](http://arxiv.org/abs/2610.35309)|
