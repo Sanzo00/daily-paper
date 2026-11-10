@@ -10,8 +10,10 @@ _Updated on 2026.11.10_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-11-08**|**A Graph-Based Approach for Mapping Kernel-Level Telemetry to MITRE ATT&CK**|Matteo Lupinacci et.al.|[2609.12841](http://arxiv.org/abs/2609.12841)|
 |**2026-11-06**|**Nebula: Distributed Position-Independent Caching for LLM Serving**|Yifei Liu et.al.|[2611.09474](http://arxiv.org/abs/2611.09474)|
 |**2026-11-06**|**DARIC: A Position-Independent KV Cache Reuse System with Distribution-Aware Recomputation**|Weikang Wang et.al.|[2611.09109_(SIGMOD)](http://arxiv.org/abs/2611.09109)|
+|**2026-11-06**|**The Storage View Of KV Cache: Characterizing Cache Behavior Across LLM Workloads**|Talia Q. Chen et.al.|[2611.10178](http://arxiv.org/abs/2611.10178)|
 |**2026-11-05**|**Multimodal Graph RAG for Long-range Visually Rich Document Understanding**|Yi-Cheng Wang et.al.|[2606.28780](http://arxiv.org/abs/2606.28780)|
 |**2026-11-04**|**HYPIC: Position-Independent Caching for Hybrid-Attention LLM Serving**|Yifei Liu et.al.|[2607.01299](http://arxiv.org/abs/2607.01299)|
 |**2026-11-03**|**CacheBridge: Efficient Cross-Model KV Transfer for Multi-Model LLM Serving**|Xingyu Qu et.al.|[2609.00891](http://arxiv.org/abs/2609.00891)|
@@ -69,7 +71,6 @@ _Updated on 2026.11.10_
 |**2026-09-16**|**When Is Graph Structure Worth Its Cost? The Case for Structure Pricing in Retrieval-Augmented Generation**|Yuzhong Zhang et.al.|[2609.18099](http://arxiv.org/abs/2609.18099)|
 |**2026-09-14**|**Where to Look and What to Use: Retrieve-Localize-Generate for Long-Term Conversational Memory Question Answering**|Yifan Wang et.al.|[2609.07093_(EMNLP)](http://arxiv.org/abs/2609.07093)|
 |**2026-09-13**|**AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education -- A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory**|Sushan Adhikari et.al.|[2609.14572](http://arxiv.org/abs/2609.14572)|
-|**2026-09-11**|**A Graph-Based Approach for Mapping Kernel-Level Telemetry to MITRE ATT&CK**|Matteo Lupinacci et.al.|[2609.12841](http://arxiv.org/abs/2609.12841)|
 |**2026-09-11**|**Cognition on Graph: Navigating Massive Knowledge Space via Cognitive Cycles and Bidirectional Graph-Text Synergy**|Gengxian Zhou et.al.|[2609.12791_(EMNLP)](http://arxiv.org/abs/2609.12791)|
 |**2026-09-11**|**Beyond Vector Similarity: Hierarchical Context-Aware Graph RAG vs Standard RAG in Enterprise Code Migration**|Nilesh Jaiswal et.al.|[2609.12464](http://arxiv.org/abs/2609.12464)|
 |**2026-09-10**|**AI Economist Agent: An Agentic Framework for Evidence-Based Economic and Financial Analysis with RAG, Knowledge Graphs, and Large Language Models**|Masahiro Kato et.al.|[2606.20041](http://arxiv.org/abs/2606.20041)|

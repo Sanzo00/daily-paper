@@ -10,6 +10,16 @@ _Updated on 2026.11.10_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-11-09**|**Evolving Infra: Agent-Adaptive LLM Serving at Scale**|Hao Kang et.al.|[2611.12304](http://arxiv.org/abs/2611.12304)|
+|**2026-11-09**|**Say Shibboleth: Fingerprinting the LLMs and Harnesses Behind Agentic Attacks**|Dario Pasquini et.al.|[2611.12386](http://arxiv.org/abs/2611.12386)|
+|**2026-11-09**|**Late but Valuable: Why Deadlines Change the Measured Value of LLM Reasoning**|Sina Barazandeh et.al.|[2611.11910](http://arxiv.org/abs/2611.11910)|
+|**2026-11-09**|**Competing Influence in LLM Populations: Budget Timing and Baseline Drift**|Mehwish Nasim et.al.|[2611.11867](http://arxiv.org/abs/2611.11867)|
+|**2026-11-09**|**SparseCraft: Agentic Hardware-Software Co-Optimization for Sparse Computing**|M P Samartha et.al.|[2610.05037_(CHES)](http://arxiv.org/abs/2610.05037)|
+|**2026-11-08**|**Verify Before You Fetch: Reliable KV Cache Compression for LLM Inference**|Devanshu Jha et.al.|[2611.11319](http://arxiv.org/abs/2611.11319)|
+|**2026-11-08**|**InfraRSI: Harnessing Recursive Self-Improvement for Training Infrastructure**| InfraRSI Team et.al.|[2611.11558](http://arxiv.org/abs/2611.11558)|
+|**2026-11-08**|**On the Relative Security of Prompt Injection: Mechanised Definitions, Defences and Verdicts for LLM Agents**|Brijesh Dongol et.al.|[2611.11506](http://arxiv.org/abs/2611.11506)|
+|**2026-11-07**|**In Search of Lost Time: Temporal Competence in Large Language Models**|Ryan Liu et.al.|[2611.10536](http://arxiv.org/abs/2611.10536)|
+|**2026-11-07**|**Crustify: Repository-Level Generation of Safe Rust Bindings with LLM Agents and Coverage-Guided Testing**|Marius Momeu et.al.|[2611.10394](http://arxiv.org/abs/2611.10394)|
 |**2026-11-06**|**PriorityFEC: Deadline-Aware Streaming FEC for KV-Cache Handoff in Edge Multi-Agent Systems**|Han Shen et.al.|[2610.21390](http://arxiv.org/abs/2610.21390)|
 |**2026-11-06**|**CacheGraft: Enhancing Retrieval-Augmented Generation via Latent-Space Document Enrichment**|Vihan Lakshman et.al.|[2611.07393_(CIKM)](http://arxiv.org/abs/2611.07393)|
 |**2026-11-06**|**Nebula: Distributed Position-Independent Caching for LLM Serving**|Yifei Liu et.al.|[2611.09474](http://arxiv.org/abs/2611.09474)|
@@ -17,6 +27,10 @@ _Updated on 2026.11.10_
 |**2026-11-06**|**DARIC: A Position-Independent KV Cache Reuse System with Distribution-Aware Recomputation**|Weikang Wang et.al.|[2611.09109_(SIGMOD)](http://arxiv.org/abs/2611.09109)|
 |**2026-11-06**|**Inside the Trap: A Renewal Law for Prefix-Cache Collapse in LLM Agent Serving**|Akshat Valse et.al.|[2611.08902](http://arxiv.org/abs/2611.08902)|
 |**2026-11-06**|**ISER-MoE: Dynamic In-Switch Replication of Hot Experts for Load Balancing in Expert-Parallel**|Jintao Peng et.al.|[2611.09008](http://arxiv.org/abs/2611.09008)|
+|**2026-11-06**|**PACE: Keeping the Right Tokens in the KV Cache Is Not Enough for Long-Horizon LLM Agents**|Suman Chatterjee et.al.|[2611.10240](http://arxiv.org/abs/2611.10240)|
+|**2026-11-06**|**The Storage View Of KV Cache: Characterizing Cache Behavior Across LLM Workloads**|Talia Q. Chen et.al.|[2611.10178](http://arxiv.org/abs/2611.10178)|
+|**2026-11-06**|**AutoEMatic: Runtime-Adaptive Mixed-Precision LLM Inference via Automatic Exponent-Mantissa Refinement**|Akshat Ramachandran et.al.|[2611.10165](http://arxiv.org/abs/2611.10165)|
+|**2026-11-06**|**Coordinated Mixed-Precision KV Cache Quantization for Efficient LLM-based Multi-agent Systems**|Weizhong Huang et.al.|[2611.10096](http://arxiv.org/abs/2611.10096)|
 |**2026-11-05**|**SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization**|Qile Jiang et.al.|[2611.08483](http://arxiv.org/abs/2611.08483)|
 |**2026-11-05**|**SCALE: Real-Time Latent Communication for Cyber-Physical Agents**|Shanghao Shi et.al.|[2611.08390](http://arxiv.org/abs/2611.08390)|
 |**2026-11-05**|**MORTIS: Compiler-Guided KV-Cache Management for LLM Agent Programs**|Xiaoyu Ma et.al.|[2611.08638](http://arxiv.org/abs/2611.08638)|

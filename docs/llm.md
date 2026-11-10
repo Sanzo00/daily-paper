@@ -10,6 +10,11 @@ _Updated on 2026.11.10_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-11-09**|**Evolving Infra: Agent-Adaptive LLM Serving at Scale**|Hao Kang et.al.|[2611.12304](http://arxiv.org/abs/2611.12304)|
+|**2026-11-09**|**BridgeKV: Large-Model Prefill and Small-Model Decoding for LLM Inference via KV Cache Translation**|Payman Behnam et.al.|[2611.11761](http://arxiv.org/abs/2611.11761)|
+|**2026-11-08**|**Verify Before You Fetch: Reliable KV Cache Compression for LLM Inference**|Devanshu Jha et.al.|[2611.11319](http://arxiv.org/abs/2611.11319)|
+|**2026-11-07**|**Mirage: Provable Defense Against LLM KV Cache Timing Side Channels with Topology-Aware Isolation**|Xiaobei Yan et.al.|[2611.10756](http://arxiv.org/abs/2611.10756)|
+|**2026-11-07**|**Coverage-Verified Sparse Attention: Closed-Loop Quality Control for Long-Context LLM Decoding**|Yan-Cheng Li et.al.|[2611.10634_(NeurIPS)](http://arxiv.org/abs/2611.10634)|
 |**2026-11-06**|**PriorityFEC: Deadline-Aware Streaming FEC for KV-Cache Handoff in Edge Multi-Agent Systems**|Han Shen et.al.|[2610.21390](http://arxiv.org/abs/2610.21390)|
 |**2026-11-06**|**BitDecoding-FP4: Native FP4 KV Cache Decoding via Algorithm-System Co-Design**|Dayou Du et.al.|[2611.09825](http://arxiv.org/abs/2611.09825)|
 |**2026-11-06**|**FOSCAR: Accelerating Decode Attention over 2- and 4-Bit KV Caches through Affine Folding**|Donglin Zhuang et.al.|[2611.09722](http://arxiv.org/abs/2611.09722)|
@@ -17,6 +22,10 @@ _Updated on 2026.11.10_
 |**2026-11-06**|**TwinHash: Two-Sided Object Identity Management for Time- and Energy-Efficient Agentic Workflows**|Sangbu Yun et.al.|[2611.09254_(HPCA)](http://arxiv.org/abs/2611.09254)|
 |**2026-11-06**|**Inside the Trap: A Renewal Law for Prefix-Cache Collapse in LLM Agent Serving**|Akshat Valse et.al.|[2611.08902](http://arxiv.org/abs/2611.08902)|
 |**2026-11-06**|**DARIC: A Position-Independent KV Cache Reuse System with Distribution-Aware Recomputation**|Weikang Wang et.al.|[2611.09109_(SIGMOD)](http://arxiv.org/abs/2611.09109)|
+|**2026-11-06**|**PACE: Keeping the Right Tokens in the KV Cache Is Not Enough for Long-Horizon LLM Agents**|Suman Chatterjee et.al.|[2611.10240](http://arxiv.org/abs/2611.10240)|
+|**2026-11-06**|**The Storage View Of KV Cache: Characterizing Cache Behavior Across LLM Workloads**|Talia Q. Chen et.al.|[2611.10178](http://arxiv.org/abs/2611.10178)|
+|**2026-11-06**|**AutoEMatic: Runtime-Adaptive Mixed-Precision LLM Inference via Automatic Exponent-Mantissa Refinement**|Akshat Ramachandran et.al.|[2611.10165](http://arxiv.org/abs/2611.10165)|
+|**2026-11-06**|**Coordinated Mixed-Precision KV Cache Quantization for Efficient LLM-based Multi-agent Systems**|Weizhong Huang et.al.|[2611.10096](http://arxiv.org/abs/2611.10096)|
 |**2026-11-05**|**Should You Split Decode? Disaggregation Across Future Models and Accelerators**|Ramyad Hadidi et.al.|[2611.08299](http://arxiv.org/abs/2611.08299)|
 |**2026-11-05**|**FlashOffloading: Low-Latency KV Cache Offloading for Long-Context LLM Serving**|Xuan Wang et.al.|[2611.07542](http://arxiv.org/abs/2611.07542)|
 |**2026-11-05**|**SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization**|Qile Jiang et.al.|[2611.08483](http://arxiv.org/abs/2611.08483)|
