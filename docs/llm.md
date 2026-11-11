@@ -6,12 +6,16 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.11.10_
+_Updated on 2026.11.11_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-11-10**|**Placing LLM Lookup Tables by Per-Layer Prefetch Deadlines**|Wen Huang et.al.|[2611.13413](http://arxiv.org/abs/2611.13413)|
+|**2026-11-10**|**Bursts That Outlast Themselves: Persistent Degradation in Prefix-Cached Agent Serving**|Wen Huang et.al.|[2611.13412](http://arxiv.org/abs/2611.13412)|
 |**2026-11-09**|**Evolving Infra: Agent-Adaptive LLM Serving at Scale**|Hao Kang et.al.|[2611.12304](http://arxiv.org/abs/2611.12304)|
 |**2026-11-09**|**BridgeKV: Large-Model Prefill and Small-Model Decoding for LLM Inference via KV Cache Translation**|Payman Behnam et.al.|[2611.11761](http://arxiv.org/abs/2611.11761)|
+|**2026-11-09**|**Decode Token Parallelism: Memory-Efficient Distributed Attention Parallelism for Scalable LLM Decoding**|Susav Shrestha et.al.|[2611.13293](http://arxiv.org/abs/2611.13293)|
+|**2026-11-09**|**SHADOWPREFILL: Keeping Your Next Model Warm for Per-Step Model Routing in Agentic LLM Serving**|Haoran Qiu et.al.|[2611.13176](http://arxiv.org/abs/2611.13176)|
 |**2026-11-08**|**Verify Before You Fetch: Reliable KV Cache Compression for LLM Inference**|Devanshu Jha et.al.|[2611.11319](http://arxiv.org/abs/2611.11319)|
 |**2026-11-07**|**Mirage: Provable Defense Against LLM KV Cache Timing Side Channels with Topology-Aware Isolation**|Xiaobei Yan et.al.|[2611.10756](http://arxiv.org/abs/2611.10756)|
 |**2026-11-07**|**Coverage-Verified Sparse Attention: Closed-Loop Quality Control for Long-Context LLM Decoding**|Yan-Cheng Li et.al.|[2611.10634_(NeurIPS)](http://arxiv.org/abs/2611.10634)|

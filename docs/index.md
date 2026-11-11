@@ -6,10 +6,12 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.11.10_
+_Updated on 2026.11.11_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-11-10**|**SpectRAG: Weighted Chunk Graphs for Token-Budgeted Context Selection in Multi-Hop Retrieval-Augmented Generation**|Zafer Sahinoglu et.al.|[2610.36991_(ISS)](http://arxiv.org/abs/2610.36991)|
+|**2026-11-10**|**Chain of Physics: Supporting Fault Diagnosis with Engineering-Inspired Large Language Model Reasoning**|Wenqi Zhou et.al.|[2611.14263](http://arxiv.org/abs/2611.14263)|
 |**2026-11-08**|**A Graph-Based Approach for Mapping Kernel-Level Telemetry to MITRE ATT&CK**|Matteo Lupinacci et.al.|[2609.12841](http://arxiv.org/abs/2609.12841)|
 |**2026-11-06**|**Nebula: Distributed Position-Independent Caching for LLM Serving**|Yifei Liu et.al.|[2611.09474](http://arxiv.org/abs/2611.09474)|
 |**2026-11-06**|**DARIC: A Position-Independent KV Cache Reuse System with Distribution-Aware Recomputation**|Weikang Wang et.al.|[2611.09109_(SIGMOD)](http://arxiv.org/abs/2611.09109)|
@@ -22,7 +24,6 @@ _Updated on 2026.11.10_
 |**2026-11-01**|**EAGR: Evidence-Guided Adaptive Graph Retrieval**|Sonam Gupta et.al.|[2611.01910](http://arxiv.org/abs/2611.01910)|
 |**2026-10-31**|**Reading Between the Chapters: A Graph-Free RAG Rebuilt With AI and Human Feedback**|Dipto Sumit et.al.|[2611.00752](http://arxiv.org/abs/2611.00752)|
 |**2026-10-30**|**From Association to Causation: Improving Retrieval Precision of Retrieval-Augmented Generation via Causal Relations and an Attention Mechanism**|Jing Liu et.al.|[2608.21702](http://arxiv.org/abs/2608.21702)|
-|**2026-10-30**|**SpectRAG: Weighted Chunk Graphs for Token-Budgeted Context Selection in Multi-Hop Retrieval-Augmented Generation**|Zafer Sahinoglu et.al.|[2610.36991_(ISS)](http://arxiv.org/abs/2610.36991)|
 |**2026-10-30**|**DeFT-RAG: Decomposing Multi-Hop Questions into Self-Contained Sub-Questions with Reusable Answers**|Dingyi Kang et.al.|[2610.37826](http://arxiv.org/abs/2610.37826)|
 |**2026-10-30**|**Ctrl-G: Controlling Structural and Interaction Exposure in Knowledge Graph Augmented LLM Reasoning**|Xingyu Tan et.al.|[2601.08739](http://arxiv.org/abs/2601.08739)|
 |**2026-10-28**|**Temporal Evidence-Parameter Co-Alignment for LLM Reasoning over Temporal Knowledge Graphs**|Jiapu Wang et.al.|[2610.28176](http://arxiv.org/abs/2610.28176)|

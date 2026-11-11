@@ -6,15 +6,22 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.11.10_
+_Updated on 2026.11.11_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-11-10**|**AgentWeave: Efficient Distributed Agent Serving via Flow Decomposition**|Kaibin Guo et.al.|[2610.14804](http://arxiv.org/abs/2610.14804)|
+|**2026-11-10**|**Placing LLM Lookup Tables by Per-Layer Prefetch Deadlines**|Wen Huang et.al.|[2611.13413](http://arxiv.org/abs/2611.13413)|
+|**2026-11-10**|**Bursts That Outlast Themselves: Persistent Degradation in Prefix-Cached Agent Serving**|Wen Huang et.al.|[2611.13412](http://arxiv.org/abs/2611.13412)|
+|**2026-11-10**|**Scaling Shapley Energy Attribution to Large LLM Batches**|Qi Luo et.al.|[2611.13802](http://arxiv.org/abs/2611.13802)|
+|**2026-11-10**|**Multi-Objective Scheduling of LLM-Based Multi-Agent Workflows in Cloud Computing**|Goshgar Can Ismayilov et.al.|[2611.13740](http://arxiv.org/abs/2611.13740)|
 |**2026-11-09**|**Evolving Infra: Agent-Adaptive LLM Serving at Scale**|Hao Kang et.al.|[2611.12304](http://arxiv.org/abs/2611.12304)|
 |**2026-11-09**|**Say Shibboleth: Fingerprinting the LLMs and Harnesses Behind Agentic Attacks**|Dario Pasquini et.al.|[2611.12386](http://arxiv.org/abs/2611.12386)|
 |**2026-11-09**|**Late but Valuable: Why Deadlines Change the Measured Value of LLM Reasoning**|Sina Barazandeh et.al.|[2611.11910](http://arxiv.org/abs/2611.11910)|
 |**2026-11-09**|**Competing Influence in LLM Populations: Budget Timing and Baseline Drift**|Mehwish Nasim et.al.|[2611.11867](http://arxiv.org/abs/2611.11867)|
 |**2026-11-09**|**SparseCraft: Agentic Hardware-Software Co-Optimization for Sparse Computing**|M P Samartha et.al.|[2610.05037_(CHES)](http://arxiv.org/abs/2610.05037)|
+|**2026-11-09**|**SHADOWPREFILL: Keeping Your Next Model Warm for Per-Step Model Routing in Agentic LLM Serving**|Haoran Qiu et.al.|[2611.13176](http://arxiv.org/abs/2611.13176)|
+|**2026-11-09**|**From Questions to Decisions: Benchmarking How LLM Agents Acquire Decision-Relevant Information from Human Beings**|Yuhan Tang et.al.|[2611.13015](http://arxiv.org/abs/2611.13015)|
 |**2026-11-08**|**Verify Before You Fetch: Reliable KV Cache Compression for LLM Inference**|Devanshu Jha et.al.|[2611.11319](http://arxiv.org/abs/2611.11319)|
 |**2026-11-08**|**InfraRSI: Harnessing Recursive Self-Improvement for Training Infrastructure**| InfraRSI Team et.al.|[2611.11558](http://arxiv.org/abs/2611.11558)|
 |**2026-11-08**|**On the Relative Security of Prompt Injection: Mechanised Definitions, Defences and Verdicts for LLM Agents**|Brijesh Dongol et.al.|[2611.11506](http://arxiv.org/abs/2611.11506)|
@@ -109,7 +116,6 @@ _Updated on 2026.11.10_
 |**2026-10-11**|**TenonAgent: Virtualizing Execution Residency for Memory-Oversubscribed LLM Agents**|Yifan Zhang et.al.|[2611.00051](http://arxiv.org/abs/2611.00051)|
 |**2026-10-10**|**Swarm Telepathy: Prefill-Free KV-Cache Transfer Across Families**|Abdulrahman Alabdulkareem et.al.|[2610.15095](http://arxiv.org/abs/2610.15095)|
 |**2026-10-10**|**Vesta: Queueing-Aware LLM Scheduling for Real-World Workloads**|Lancheng Zou et.al.|[2610.14686](http://arxiv.org/abs/2610.14686)|
-|**2026-10-10**|**AgentWeave: Efficient Distributed Agent Serving via Flow Decomposition**|Kaibin Guo et.al.|[2610.14804](http://arxiv.org/abs/2610.14804)|
 |**2026-10-10**|**Iterate on an LLM, Serve on an SLM**|Keegan Wang et.al.|[2610.14576_(NeurIPS)](http://arxiv.org/abs/2610.14576)|
 |**2026-10-09**|**P-PAS: Prefill-Pressure Adaptive Scheduling for Long-Context LLM Serving**|Timo Sämann et.al.|[2608.15171](http://arxiv.org/abs/2608.15171)|
 |**2026-10-08**|**Selection-Based Structured Reasoning: Toward Efficient Multimodal Search Agents**|Feiyu Gavin Zhu et.al.|[2610.01892](http://arxiv.org/abs/2610.01892)|
