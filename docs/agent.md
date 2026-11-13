@@ -6,16 +6,25 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.11.12_
+_Updated on 2026.11.13_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-11-12**|**Beyond the Trial-and-Error Loop: Hybrid Projection and Automated Tuning for Distributed Training**|Anshu Raina et.al.|[2610.19423_(NeurIPS)](http://arxiv.org/abs/2610.19423)|
+|**2026-11-12**|**Evolving Infra: Agent-Adaptive LLM Serving at Scale**|Hao Kang et.al.|[2611.12304](http://arxiv.org/abs/2611.12304)|
+|**2026-11-12**|**Reducing Batch Makespan for LLM Agent Workloads through Inference-Environment Coordination**|Wei Feng et.al.|[2611.16661](http://arxiv.org/abs/2611.16661)|
+|**2026-11-12**|**A Joint LLM and Optimization Agent Solution for Drone Scheduling in Victim Search Missions**|Yinghao Zhang et.al.|[2611.16524](http://arxiv.org/abs/2611.16524)|
+|**2026-11-12**|**HeMeR: Heterogeneous Memory Reconciliation for Embodied Agents via Structured KV Reuse**|Saehun Chun et.al.|[2611.16487_(NeurIPS)](http://arxiv.org/abs/2611.16487)|
+|**2026-11-11**|**Idleness is Relative: Exploiting Tool-Call Idle Windows for Offloading in Agentic Systems with MORI**|Tian Xia et.al.|[2606.00866](http://arxiv.org/abs/2606.00866)|
+|**2026-11-11**|**Auriga: Harness-Governed LLM Agents for Effective Throughput Optimization in Execute-Order-Validate Permissioned Blockchains**|Xiao Zhang et.al.|[2611.14945](http://arxiv.org/abs/2611.14945)|
+|**2026-11-11**|**Recompute or Restore? Host-Tier KV for Multi-Model Agent Workflows on a Static-Graph NPU Serving Stack**|Sungwon Woo et.al.|[2611.15126](http://arxiv.org/abs/2611.15126)|
+|**2026-11-10**|**MARS: Towards High Goodput and Low KV Thrashing in Agent Serving under GPU Memory Constraints**|Yifei Wang et.al.|[2604.26963_(DATE)](http://arxiv.org/abs/2604.26963)|
 |**2026-11-10**|**AgentWeave: Efficient Distributed Agent Serving via Flow Decomposition**|Kaibin Guo et.al.|[2610.14804](http://arxiv.org/abs/2610.14804)|
 |**2026-11-10**|**Placing LLM Lookup Tables by Per-Layer Prefetch Deadlines**|Wen Huang et.al.|[2611.13413](http://arxiv.org/abs/2611.13413)|
 |**2026-11-10**|**Bursts That Outlast Themselves: Persistent Degradation in Prefix-Cached Agent Serving**|Wen Huang et.al.|[2611.13412](http://arxiv.org/abs/2611.13412)|
 |**2026-11-10**|**Scaling Shapley Energy Attribution to Large LLM Batches**|Qi Luo et.al.|[2611.13802](http://arxiv.org/abs/2611.13802)|
 |**2026-11-10**|**Multi-Objective Scheduling of LLM-Based Multi-Agent Workflows in Cloud Computing**|Goshgar Can Ismayilov et.al.|[2611.13740](http://arxiv.org/abs/2611.13740)|
-|**2026-11-09**|**Evolving Infra: Agent-Adaptive LLM Serving at Scale**|Hao Kang et.al.|[2611.12304](http://arxiv.org/abs/2611.12304)|
+|**2026-11-10**|**SynthCorp: A Platform for Creating Benchmarks for Data Agents**|Jiani Zhang et.al.|[2611.14765](http://arxiv.org/abs/2611.14765)|
 |**2026-11-09**|**Say Shibboleth: Fingerprinting the LLMs and Harnesses Behind Agentic Attacks**|Dario Pasquini et.al.|[2611.12386](http://arxiv.org/abs/2611.12386)|
 |**2026-11-09**|**Late but Valuable: Why Deadlines Change the Measured Value of LLM Reasoning**|Sina Barazandeh et.al.|[2611.11910](http://arxiv.org/abs/2611.11910)|
 |**2026-11-09**|**Competing Influence in LLM Populations: Budget Timing and Baseline Drift**|Mehwish Nasim et.al.|[2611.11867](http://arxiv.org/abs/2611.11867)|
@@ -102,7 +111,6 @@ _Updated on 2026.11.12_
 |**2026-10-14**|**JointServe: Serving Multi-Model Agents on Memory-Constrained GPUs**|Daijin Hu et.al.|[2610.19822](http://arxiv.org/abs/2610.19822)|
 |**2026-10-14**|**Delta Tokenizer: Reference-Identical Tokenization of Session Deltas and Segment-Parallelism for Long Prompts on Multicore CPUs**|Zhenyu Zhang et.al.|[2610.19801_(FAST)](http://arxiv.org/abs/2610.19801)|
 |**2026-10-14**|**What Makes a Social Agent's Interactions Effective? Learning from Verifiable Outcomes in Paired Worlds**|Caixin Kang et.al.|[2610.20195](http://arxiv.org/abs/2610.20195)|
-|**2026-10-14**|**Beyond the Trial-and-Error Loop: Hybrid Projection and Automated Tuning for Distributed Training**|Anshu Raina et.al.|[2610.19423_(NeurIPS)](http://arxiv.org/abs/2610.19423)|
 |**2026-10-13**|**Parser Transitions Already Reveal Structural Responsibility: KV Persistence for Structured Generation**|Linze Wu et.al.|[2608.28276](http://arxiv.org/abs/2608.28276)|
 |**2026-10-13**|**LatentRemedy: Efficient Remedy For Non-Prefix KV Cache Reuse in Multi-Agent Systems**|Zhiwei Chen et.al.|[2610.18014](http://arxiv.org/abs/2610.18014)|
 |**2026-10-13**|**REPORT-OPS: Hybrid Evidence-Guided Reporting with Human-Supervised Refinement for HPC**|Mah Kadidia Konate et.al.|[2610.19222](http://arxiv.org/abs/2610.19222)|
@@ -383,7 +391,6 @@ _Updated on 2026.11.12_
 |**2026-06-16**|**ITME: Inference Tiered Memory Expansion with Disaggregated CXL-Hybrid Memories**|Hakbeom Jang et.al.|[2606.12556](http://arxiv.org/abs/2606.12556)|
 |**2026-06-16**|**Generated, Parallel, Scalable? A Study of Agentic AI-Generated Julia Code on Supercomputers**|Linus Bantel et.al.|[2606.16534](http://arxiv.org/abs/2606.16534)|
 |**2026-06-16**|**SpecGen: Accelerating Agentic Kernel Optimization with Speculative Generation**|Jihu Guo et.al.|[2606.17518](http://arxiv.org/abs/2606.17518)|
-|**2026-06-15**|**MARS: Efficient, Adaptive Co-Scheduling for Heterogeneous Agentic Systems**|Yifei Wang et.al.|[2604.26963](http://arxiv.org/abs/2604.26963)|
 |**2026-06-15**|**SwiftCache: Efficient LLM Serving for Multi-turn Conversations with Heterogeneous KV Cache Sharing**|Jianmin Hu et.al.|[2606.16135](http://arxiv.org/abs/2606.16135)|
 |**2026-06-15**|**Consensus-based Agentic Large Language Model Framework for Harmonized Tariff Schedule Code Classification**|Truong Thanh Hung Nguyen et.al.|[2606.16987](http://arxiv.org/abs/2606.16987)|
 |**2026-06-15**|**CacheWise: Understanding Workloads and Optimizing KVCache Management for Efficiently Serving LLM Coding Agents**|Shubham Tiwari et.al.|[2606.16824](http://arxiv.org/abs/2606.16824)|
@@ -433,7 +440,6 @@ _Updated on 2026.11.12_
 |**2026-05-31**|**Leyline: KV Cache Directives for Agentic Inference**|Bole Ma et.al.|[2606.01065](http://arxiv.org/abs/2606.01065)|
 |**2026-05-31**|**Dive into Ambiguity: A*-Inspired Multi-Agents Commonsense Obfuscation Attack on LLM Prompts**|Boxuan Wang et.al.|[2606.01441](http://arxiv.org/abs/2606.01441)|
 |**2026-05-31**|**When Parallelism Pays Off: Cohesion-Aware Task Partitioning for Multi-Agent Coding**|Xu Yang et.al.|[2606.00953](http://arxiv.org/abs/2606.00953)|
-|**2026-05-30**|**Idleness is Relative: Exploiting Tool-Call Idle Windows for Offloading in Agentic Systems with MORI**|Tian Xia et.al.|[2606.00866](http://arxiv.org/abs/2606.00866)|
 |**2026-05-29**|**MLIPilot: LLM-Driven Auto-Research for Machine-Learned Interatomic Potentials**|Etinosa Osaro et.al.|[2605.30889](http://arxiv.org/abs/2605.30889)|
 |**2026-05-29**|**Agent JIT Compilation for Latency-Optimizing Web Agent Planning and Scheduling**|Caleb Winston et.al.|[2605.21470_(ICML)](http://arxiv.org/abs/2605.21470)|
 |**2026-05-29**|**Mellum2 Technical Report**|Marko Kojic et.al.|[2605.31268](http://arxiv.org/abs/2605.31268)|

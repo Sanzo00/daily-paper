@@ -6,13 +6,18 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.11.12_
+_Updated on 2026.11.13_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-11-12**|**Evolving Infra: Agent-Adaptive LLM Serving at Scale**|Hao Kang et.al.|[2611.12304](http://arxiv.org/abs/2611.12304)|
+|**2026-11-12**|**Reducing Batch Makespan for LLM Agent Workloads through Inference-Environment Coordination**|Wei Feng et.al.|[2611.16661](http://arxiv.org/abs/2611.16661)|
+|**2026-11-11**|**Idleness is Relative: Exploiting Tool-Call Idle Windows for Offloading in Agentic Systems with MORI**|Tian Xia et.al.|[2606.00866](http://arxiv.org/abs/2606.00866)|
+|**2026-11-11**|**LLMRunner: Closed Workload Model Performance Testing Framework for LLM Servings**|Arush Upadhyaya et.al.|[2611.15372_(Performance)](http://arxiv.org/abs/2611.15372)|
+|**2026-11-11**|**Read Once, Answer Many: Parallel Prompting for Shared-Context LLM Inference**|Zekun Zhao et.al.|[2611.15130](http://arxiv.org/abs/2611.15130)|
+|**2026-11-10**|**OSCAR: Offline Spectral Covariance-Aware Rotation for 2-bit KV Cache Quantization**|Zhongzhu Zhou et.al.|[2605.17757_(ATC)](http://arxiv.org/abs/2605.17757)|
 |**2026-11-10**|**Placing LLM Lookup Tables by Per-Layer Prefetch Deadlines**|Wen Huang et.al.|[2611.13413](http://arxiv.org/abs/2611.13413)|
 |**2026-11-10**|**Bursts That Outlast Themselves: Persistent Degradation in Prefix-Cached Agent Serving**|Wen Huang et.al.|[2611.13412](http://arxiv.org/abs/2611.13412)|
-|**2026-11-09**|**Evolving Infra: Agent-Adaptive LLM Serving at Scale**|Hao Kang et.al.|[2611.12304](http://arxiv.org/abs/2611.12304)|
 |**2026-11-09**|**BridgeKV: Large-Model Prefill and Small-Model Decoding for LLM Inference via KV Cache Translation**|Payman Behnam et.al.|[2611.11761](http://arxiv.org/abs/2611.11761)|
 |**2026-11-09**|**Decode Token Parallelism: Memory-Efficient Distributed Attention Parallelism for Scalable LLM Decoding**|Susav Shrestha et.al.|[2611.13293](http://arxiv.org/abs/2611.13293)|
 |**2026-11-09**|**SHADOWPREFILL: Keeping Your Next Model Warm for Per-Step Model Routing in Agentic LLM Serving**|Haoran Qiu et.al.|[2611.13176](http://arxiv.org/abs/2611.13176)|
@@ -463,7 +468,6 @@ _Updated on 2026.11.12_
 |**2026-05-31**|**Fail-Closed Lowering of Resident KV Claims onto LLM Serving Runtimes**|Lukas Stepanek et.al.|[2606.01387](http://arxiv.org/abs/2606.01387)|
 |**2026-05-31**|**Leyline: KV Cache Directives for Agentic Inference**|Bole Ma et.al.|[2606.01065](http://arxiv.org/abs/2606.01065)|
 |**2026-05-31**|**Lodestar: An Online-Learning LLM Inference Router**|Gangmuk Lim et.al.|[2606.00946](http://arxiv.org/abs/2606.00946)|
-|**2026-05-30**|**Idleness is Relative: Exploiting Tool-Call Idle Windows for Offloading in Agentic Systems with MORI**|Tian Xia et.al.|[2606.00866](http://arxiv.org/abs/2606.00866)|
 |**2026-05-29**|**Efficient Diffusion LLMs via Temporal-Spatial Parallel Decoding and Confidence Extrapolation**|Zekai Li et.al.|[2605.30753](http://arxiv.org/abs/2605.30753)|
 |**2026-05-28**|**ParisKV: Fast and Drift-Robust KV-Cache Retrieval for Long-Context LLMs**|Yanlin Qi et.al.|[2602.07721_(CHI)](http://arxiv.org/abs/2602.07721)|
 |**2026-05-28**|**Esoteric Language Models: A Family of Any-Order Diffusion LLMs**|Subham Sekhar Sahoo et.al.|[2506.01928_(ICML)](http://arxiv.org/abs/2506.01928)|
@@ -497,7 +501,6 @@ _Updated on 2026.11.12_
 |**2026-05-20**|**Runtime-Certified Bounded-Error Quantized Attention**|Dean Calver et.al.|[2605.20868](http://arxiv.org/abs/2605.20868)|
 |**2026-05-19**|**Understanding Inference Scaling for LLMs: Bottlenecks, Trade-offs, and Performance Principles**|Moiz Arif et.al.|[2605.19775_(CHI)](http://arxiv.org/abs/2605.19775)|
 |**2026-05-18**|**SuperInfer: SLO-Aware Rotary Scheduling and Memory Management for LLM Inference on Superchips**|Jiahuan Yu et.al.|[2601.20309](http://arxiv.org/abs/2601.20309)|
-|**2026-05-18**|**OSCAR: Offline Spectral Covariance-Aware Rotation for 2-bit KV Cache Quantization**|Zhongzhu Zhou et.al.|[2605.17757](http://arxiv.org/abs/2605.17757)|
 |**2026-05-18**|**KVDrive: A Holistic Multi-Tier KV Cache Management System for Long-Context LLM Inference**|Jian Lin et.al.|[2605.18071](http://arxiv.org/abs/2605.18071)|
 |**2026-05-17**|**VeriCache: Turning Lossy KV Cache into Lossless LLM Inference**|Jiayi Yao et.al.|[2605.17613](http://arxiv.org/abs/2605.17613)|
 |**2026-05-16**|**TriAxialKV: Toward Extreme Low-Precision KV-Cache Quantization for Agentic Inference Tasks**|Hanzhang Shen et.al.|[2605.17170](http://arxiv.org/abs/2605.17170)|

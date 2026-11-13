@@ -6,10 +6,11 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.11.12_
+_Updated on 2026.11.13_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-11-11**|**DISCERN: Preserve at Write, Resolve at Read for Persistent LLM-Agent Memory**|Chirag Ahuja et.al.|[2611.15729](http://arxiv.org/abs/2611.15729)|
 |**2026-11-10**|**SpectRAG: Weighted Chunk Graphs for Token-Budgeted Context Selection in Multi-Hop Retrieval-Augmented Generation**|Zafer Sahinoglu et.al.|[2610.36991_(ISS)](http://arxiv.org/abs/2610.36991)|
 |**2026-11-10**|**Chain of Physics: Supporting Fault Diagnosis with Engineering-Inspired Large Language Model Reasoning**|Wenqi Zhou et.al.|[2611.14263](http://arxiv.org/abs/2611.14263)|
 |**2026-11-08**|**A Graph-Based Approach for Mapping Kernel-Level Telemetry to MITRE ATT&CK**|Matteo Lupinacci et.al.|[2609.12841](http://arxiv.org/abs/2609.12841)|
