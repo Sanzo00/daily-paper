@@ -10,8 +10,11 @@ _Updated on 2026.11.13_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-11-12**|**PatchKV: Weight-Space Compensation of KV Cache**|Chanryeol Lee et.al.|[2609.39329_(ATC)](http://arxiv.org/abs/2609.39329)|
 |**2026-11-12**|**HarnessNet: Feedback-driven Hierarchical Joint Harness Evolution for Multi-agent Systems**|Zhaoyuan Qiu et.al.|[2610.15221](http://arxiv.org/abs/2610.15221)|
 |**2026-11-12**|**Beyond the Trial-and-Error Loop: Hybrid Projection and Automated Tuning for Distributed Training**|Anshu Raina et.al.|[2610.19423_(NeurIPS)](http://arxiv.org/abs/2610.19423)|
+|**2026-11-12**|**CauProphet: Teaching Agents to Develop Causal Cognition like Humans**|Kaiwen Wu et.al.|[2610.32477](http://arxiv.org/abs/2610.32477)|
+|**2026-11-12**|**TinyAstral: Transferring Self-Evolving Harnesses to Tiny Generalist Manipulation Agents**|Kehong Gong et.al.|[2610.41216](http://arxiv.org/abs/2610.41216)|
 |**2026-11-12**|**Learning to Live: A Step Toward Lifelong Embodied Intelligence**|Lirong Che et.al.|[2611.00180](http://arxiv.org/abs/2611.00180)|
 |**2026-11-12**|**Coding Agent Memory Post-Training II: Unlocking the Memory Potential of Pre-trained File Operations for Long-Horizon Tasks via On-Policy Distillation**|Lirui Luo et.al.|[2611.14009](http://arxiv.org/abs/2611.14009)|
 |**2026-11-12**|**Reducing Batch Makespan for LLM Agent Workloads through Inference-Environment Coordination**|Wei Feng et.al.|[2611.16661](http://arxiv.org/abs/2611.16661)|
@@ -26,6 +29,12 @@ _Updated on 2026.11.13_
 |**2026-11-12**|**Evidence-Governed Adoption of Self-Generated Updates in Autonomous AI Agents**|Subodh Lonkar et.al.|[2611.16378](http://arxiv.org/abs/2611.16378)|
 |**2026-11-12**|**We Are What We Remember: Mental-State-Driven Memory for Long-Term Character Dialogue**|Zhicheng Jia et.al.|[2611.16223](http://arxiv.org/abs/2611.16223)|
 |**2026-11-12**|**HyperPage: Learned Page Layouts for Disk-Resident Graph Vector Indexes**|Xinyu Zhang et.al.|[2611.16149](http://arxiv.org/abs/2611.16149)|
+|**2026-11-12**|**LazyWeights: Decode-on-Demand Edge LLMs**|Arnab Sanyal et.al.|[2611.17108](http://arxiv.org/abs/2611.17108)|
+|**2026-11-12**|**Broadcast, Don't Replicate: Eliminating Weight HBM in Datacenter LLM Serving**|Hannah Atmer et.al.|[2611.17097](http://arxiv.org/abs/2611.17097)|
+|**2026-11-12**|**Discovering Effective Agent Memory Designs through Program Evolution**|Xinheng Ding et.al.|[2611.17068](http://arxiv.org/abs/2611.17068)|
+|**2026-11-12**|**Factored One-sided Adam-Moment for Practical and Scalable SOAP**|Jaemyung Yu et.al.|[2611.16905_(NeurIPS)](http://arxiv.org/abs/2611.16905)|
+|**2026-11-12**|**CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation**|Peiwen Li et.al.|[2611.17316](http://arxiv.org/abs/2611.17316)|
+|**2026-11-12**|**Interactions from memory footprints: Cage-hopping, mnemotaxis & nonreciprocity**|Jyoti Prasad Banerjee et.al.|[2611.17257](http://arxiv.org/abs/2611.17257)|
 |**2026-11-11**|**Correct First, Fast Second: What a Local 7B Code Model Can and Cannot Do for GPU Kernel Optimization**|Jui-Chien Tsou et.al.|[2611.12079](http://arxiv.org/abs/2611.12079)|
 |**2026-11-11**|**From Token Bills to Benchmark Weeks: Making Auto-Research for Data Systems Verifiable and Affordable**|Kaiwen Zheng et.al.|[2611.12063](http://arxiv.org/abs/2611.12063)|
 |**2026-11-11**|**BunshinRL: Whole-Workspace Forking for Agentic Reinforcement Learning Rollouts**|Yutong Huang et.al.|[2611.10453](http://arxiv.org/abs/2611.10453)|
@@ -198,7 +207,6 @@ _Updated on 2026.11.13_
 |**2026-11-05**|**Decision Context: Persistent Behavioral Learning for AI Agents**|Nima Vahdat et.al.|[2611.08644_(NeurIPS)](http://arxiv.org/abs/2611.08644)|
 |**2026-11-05**|**Aligning, Fast and Slow: A Control-Theoretic Oversight Framework for Long-Horizon Trajectories and Maintained Deployments**|Stephen Peng et.al.|[2611.08781](http://arxiv.org/abs/2611.08781)|
 |**2026-11-04**|**Harness the Memory: A Holistic Evaluation of Memory Substrates in Memory Agents**|Wei-Chieh Huang et.al.|[2608.15008_(NeurIPS)](http://arxiv.org/abs/2608.15008)|
-|**2026-11-04**|**PatchKV: Weight-Space Compensation of KV Cache**|Chanryeol Lee et.al.|[2609.39329_(ATC)](http://arxiv.org/abs/2609.39329)|
 |**2026-11-04**|**MASBench: Benchmarking LLM-based Multi-Agent Collaboration under Partial Observability**|Qizhi Chu et.al.|[2610.04672](http://arxiv.org/abs/2610.04672)|
 |**2026-11-04**|**AutoEnergyDesign: An LLM-Driven Agent for Automatic Energy System Design Optimization**|Amedeo Buonanno et.al.|[2610.35160](http://arxiv.org/abs/2610.35160)|
 |**2026-11-04**|**SPARTA: A Sparse Ternary LLM Accelerator with Adaptive Attention and Unified Datapath for Long-Context Edge Inference**|Yanzhen Zhou et.al.|[2610.34824](http://arxiv.org/abs/2610.34824)|
@@ -359,7 +367,6 @@ _Updated on 2026.11.13_
 |**2026-10-30**|**When History Overrides Intent: Relational Schema Lock-In in Human-LLM Interaction**|Wei Yang et.al.|[2610.41367](http://arxiv.org/abs/2610.41367)|
 |**2026-10-30**|**Migrating a Legacy Scientific Application with an AI Coding Agent: NICAM from Fortran to Kokkos**|Xuanzhengbo Ren et.al.|[2610.41313](http://arxiv.org/abs/2610.41313)|
 |**2026-10-30**|**MEMIG: Self-evolving Memory Construction for Antibody Optimization**|Yunhui Jang et.al.|[2610.41245](http://arxiv.org/abs/2610.41245)|
-|**2026-10-30**|**TinyAstral: Transferring Self-Evolving Harnesses to Tiny Generalist Manipulation Agents**|Kehong Gong et.al.|[2610.41216](http://arxiv.org/abs/2610.41216)|
 |**2026-10-30**|**Context as Infrastructure: Knowledge Compilation for Retrieval in Agentic Systems with Harnesses**|Zhichang Yu et.al.|[2610.41172](http://arxiv.org/abs/2610.41172)|
 |**2026-10-30**|**ImplicitHop: Evaluating knowledge integration across context and memory**|Alexander Detkov et.al.|[2610.41169](http://arxiv.org/abs/2610.41169)|
 |**2026-10-30**|**Lineage Is Memory: Parent Inheritance and Feedback Disclosure in Short-Budget LLM-Guided Optimization**|Shanglin Yang et.al.|[2610.41157](http://arxiv.org/abs/2610.41157)|
@@ -379,7 +386,6 @@ _Updated on 2026.11.13_
 |**2026-10-29**|**Inadvertent Context Leakage in Language Models**|Jaiden Fairoze et.al.|[2608.19857_(NeurIPS)](http://arxiv.org/abs/2608.19857)|
 |**2026-10-29**|**When Context Changes: Understanding Update Failures in LLMs**|Junyu Guo et.al.|[2609.38866](http://arxiv.org/abs/2609.38866)|
 |**2026-10-29**|**Hippo: Training-Free Agent Self-Evolution via Hippocampal Replay**|Yutong Song et.al.|[2610.24453](http://arxiv.org/abs/2610.24453)|
-|**2026-10-29**|**CauProphet: Teaching Agents to Develop Causal Cognition like Humans**|Kaiwen Wu et.al.|[2610.32477](http://arxiv.org/abs/2610.32477)|
 |**2026-10-29**|**Beyond Compilation Feedback: Refining Vulnerability Checkers with Program-Analysis Evidence**|Chengzhi Yi et.al.|[2610.34928_(DATE)](http://arxiv.org/abs/2610.34928)|
 |**2026-10-29**|**AI Cosmos: An Agentic Infra for Situated Learning**| AI Cosmos Team et.al.|[2610.40031](http://arxiv.org/abs/2610.40031)|
 |**2026-10-29**|**HEMO: Harness Self-Evolution for Multi-Objective Combinatorial Optimization**|Jianghan Zhu et.al.|[2610.40023](http://arxiv.org/abs/2610.40023)|

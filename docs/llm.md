@@ -10,6 +10,7 @@ _Updated on 2026.11.13_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-11-12**|**PatchKV: Weight-Space Compensation of KV Cache**|Chanryeol Lee et.al.|[2609.39329_(ATC)](http://arxiv.org/abs/2609.39329)|
 |**2026-11-12**|**Evolving Infra: Agent-Adaptive LLM Serving at Scale**|Hao Kang et.al.|[2611.12304](http://arxiv.org/abs/2611.12304)|
 |**2026-11-12**|**Reducing Batch Makespan for LLM Agent Workloads through Inference-Environment Coordination**|Wei Feng et.al.|[2611.16661](http://arxiv.org/abs/2611.16661)|
 |**2026-11-11**|**Idleness is Relative: Exploiting Tool-Call Idle Windows for Offloading in Agentic Systems with MORI**|Tian Xia et.al.|[2606.00866](http://arxiv.org/abs/2606.00866)|
@@ -41,7 +42,6 @@ _Updated on 2026.11.13_
 |**2026-11-05**|**MORTIS: Compiler-Guided KV-Cache Management for LLM Agent Programs**|Xiaoyu Ma et.al.|[2611.08638](http://arxiv.org/abs/2611.08638)|
 |**2026-11-04**|**SeKV: Resolution-Adaptive KV Cache with Hierarchical Semantic Memory for Long-Context LLM Inference**|Amirhossein Abaskohi et.al.|[2606.31145](http://arxiv.org/abs/2606.31145)|
 |**2026-11-04**|**HYPIC: Position-Independent Caching for Hybrid-Attention LLM Serving**|Yifei Liu et.al.|[2607.01299](http://arxiv.org/abs/2607.01299)|
-|**2026-11-04**|**PatchKV: Weight-Space Compensation of KV Cache**|Chanryeol Lee et.al.|[2609.39329_(ATC)](http://arxiv.org/abs/2609.39329)|
 |**2026-11-04**|**GAAC: Lossless KV Compression for Bandwidth-Efficient LLM Inference on Personal Devices**|Yipin Guo et.al.|[2610.38210](http://arxiv.org/abs/2610.38210)|
 |**2026-11-04**|**Beyond Compression Ratio: High-Throughput KV Compression for Disaggregated LLM Serving**|Junhong Wu et.al.|[2611.04382](http://arxiv.org/abs/2611.04382)|
 |**2026-11-04**|**KVGuard: A KV Cache Safety Checker for LLM Serving Systems**|Jonguk Cheong et.al.|[2611.06138](http://arxiv.org/abs/2611.06138)|
