@@ -6,10 +6,13 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.11.15_
+_Updated on 2026.11.16_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-11-13**|**TradeGauntlet: Evaluating Compliance Controls for Autonomous Trading Agents**|Sandip Nandi et.al.|[2611.18493](http://arxiv.org/abs/2611.18493)|
+|**2026-11-13**|**Superfluid: Local AI Server for Distributed LLM Inference**|Prabod Rathnayaka et.al.|[2611.17753](http://arxiv.org/abs/2611.17753)|
+|**2026-11-13**|**Callo: Serving Cache-Miss Requests with Speculative Decoding on Invalidated KV under Prefill-Decode Disaggregation**|Jianjun Ou et.al.|[2611.18459](http://arxiv.org/abs/2611.18459)|
 |**2026-11-12**|**Beyond the Trial-and-Error Loop: Hybrid Projection and Automated Tuning for Distributed Training**|Anshu Raina et.al.|[2610.19423_(NeurIPS)](http://arxiv.org/abs/2610.19423)|
 |**2026-11-12**|**Evolving Infra: Agent-Adaptive LLM Serving at Scale**|Hao Kang et.al.|[2611.12304](http://arxiv.org/abs/2611.12304)|
 |**2026-11-12**|**Reducing Batch Makespan for LLM Agent Workloads through Inference-Environment Coordination**|Wei Feng et.al.|[2611.16661](http://arxiv.org/abs/2611.16661)|
