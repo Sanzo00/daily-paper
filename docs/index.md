@@ -10,6 +10,8 @@ _Updated on 2026.11.17_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-11-14**|**KaleidoKV: Rearranging Evidence for Efficient KV Cache Reuse in Offline RAG Inference**|Peiting Xie et.al.|[2611.19253](http://arxiv.org/abs/2611.19253)|
+|**2026-11-14**|**B2G-Agent: An LLM-Based Multi-Agent Tool for End-to-End Building-Grid Interactions**|Xueyuan Cui et.al.|[2611.19036](http://arxiv.org/abs/2611.19036)|
 |**2026-11-11**|**DISCERN: Preserve at Write, Resolve at Read for Persistent LLM-Agent Memory**|Chirag Ahuja et.al.|[2611.15729](http://arxiv.org/abs/2611.15729)|
 |**2026-11-10**|**SpectRAG: Weighted Chunk Graphs for Token-Budgeted Context Selection in Multi-Hop Retrieval-Augmented Generation**|Zafer Sahinoglu et.al.|[2610.36991_(ISS)](http://arxiv.org/abs/2610.36991)|
 |**2026-11-10**|**Chain of Physics: Supporting Fault Diagnosis with Engineering-Inspired Large Language Model Reasoning**|Wenqi Zhou et.al.|[2611.14263](http://arxiv.org/abs/2611.14263)|

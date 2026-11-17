@@ -10,6 +10,15 @@ _Updated on 2026.11.17_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-11-16**|**PriorityFEC: Deadline-Aware Streaming FEC for KV-Cache Handoff in Edge Multi-Agent Systems**|Han Shen et.al.|[2610.21390](http://arxiv.org/abs/2610.21390)|
+|**2026-11-16**|**The SIMPLE Law for Energy Cost of LLM Inference**|Hiari Pizzini Cavagna et.al.|[2611.03330](http://arxiv.org/abs/2611.03330)|
+|**2026-11-16**|**SURMA: Efficient Fine-Grained Communication Offload for SuperPOD**|Haoran Shang et.al.|[2611.21274](http://arxiv.org/abs/2611.21274)|
+|**2026-11-16**|**MiSTiQ: MicroScaling Trellis Quantization for Extreme KV Cache Compression**|Ofir Gordon et.al.|[2611.21216](http://arxiv.org/abs/2611.21216)|
+|**2026-11-16**|**Disaggregated LLM Inference in Space: A Communication Feasibility Study**|Arno Troch et.al.|[2611.20893](http://arxiv.org/abs/2611.20893)|
+|**2026-11-15**|**Making Preemption Productive in Long-Output LLM Serving**|Ziji Shi et.al.|[2611.20106](http://arxiv.org/abs/2611.20106)|
+|**2026-11-15**|**EfficientSkill: Learning Skills for Token-Efficient Multi-Turn Agents**|Deep Shah et.al.|[2611.19823](http://arxiv.org/abs/2611.19823)|
+|**2026-11-15**|**Weights & Caches: LLMs Can Program Tabular Foundation Models**|Shi Bin Hoo et.al.|[2611.20174](http://arxiv.org/abs/2611.20174)|
+|**2026-11-14**|**KaleidoKV: Rearranging Evidence for Efficient KV Cache Reuse in Offline RAG Inference**|Peiting Xie et.al.|[2611.19253](http://arxiv.org/abs/2611.19253)|
 |**2026-11-12**|**PatchKV: Weight-Space Compensation of KV Cache**|Chanryeol Lee et.al.|[2609.39329_(ATC)](http://arxiv.org/abs/2609.39329)|
 |**2026-11-12**|**Evolving Infra: Agent-Adaptive LLM Serving at Scale**|Hao Kang et.al.|[2611.12304](http://arxiv.org/abs/2611.12304)|
 |**2026-11-12**|**Reducing Batch Makespan for LLM Agent Workloads through Inference-Environment Coordination**|Wei Feng et.al.|[2611.16661](http://arxiv.org/abs/2611.16661)|
@@ -25,7 +34,6 @@ _Updated on 2026.11.17_
 |**2026-11-08**|**Verify Before You Fetch: Reliable KV Cache Compression for LLM Inference**|Devanshu Jha et.al.|[2611.11319](http://arxiv.org/abs/2611.11319)|
 |**2026-11-07**|**Mirage: Provable Defense Against LLM KV Cache Timing Side Channels with Topology-Aware Isolation**|Xiaobei Yan et.al.|[2611.10756](http://arxiv.org/abs/2611.10756)|
 |**2026-11-07**|**Coverage-Verified Sparse Attention: Closed-Loop Quality Control for Long-Context LLM Decoding**|Yan-Cheng Li et.al.|[2611.10634_(NeurIPS)](http://arxiv.org/abs/2611.10634)|
-|**2026-11-06**|**PriorityFEC: Deadline-Aware Streaming FEC for KV-Cache Handoff in Edge Multi-Agent Systems**|Han Shen et.al.|[2610.21390](http://arxiv.org/abs/2610.21390)|
 |**2026-11-06**|**BitDecoding-FP4: Native FP4 KV Cache Decoding via Algorithm-System Co-Design**|Dayou Du et.al.|[2611.09825](http://arxiv.org/abs/2611.09825)|
 |**2026-11-06**|**FOSCAR: Accelerating Decode Attention over 2- and 4-Bit KV Caches through Affine Folding**|Donglin Zhuang et.al.|[2611.09722](http://arxiv.org/abs/2611.09722)|
 |**2026-11-06**|**Nebula: Distributed Position-Independent Caching for LLM Serving**|Yifei Liu et.al.|[2611.09474](http://arxiv.org/abs/2611.09474)|
@@ -56,7 +64,6 @@ _Updated on 2026.11.17_
 |**2026-11-03**|**LiquidCP: Decoupling Attention Tasks from Communication and Kernel Boundaries in Context Parallelism**|Hongyu Chen et.al.|[2611.04401](http://arxiv.org/abs/2611.04401)|
 |**2026-11-03**|**Octopus: One Brain, Many Branches for Latent-KV Multi-Agent Reinforcement Learning**|Tianming Sha et.al.|[2611.06956](http://arxiv.org/abs/2611.06956)|
 |**2026-11-02**|**Subquadratic Attention with a Hierarchical Tree-Structured Indexer**|Leon Lufkin et.al.|[2610.42112](http://arxiv.org/abs/2610.42112)|
-|**2026-11-02**|**The SIMPLE Law for Energy Cost of LLM Inference**|Hiari Pizzini Cavagna et.al.|[2611.03330](http://arxiv.org/abs/2611.03330)|
 |**2026-11-02**|**CISA: Retrofitting Dense Attention Models with Chunk-Indexed Sparse Attention**|Mohammed Dabbah et.al.|[2611.03200](http://arxiv.org/abs/2611.03200)|
 |**2026-11-02**|**BasisKV: Value Latents for Communication and Key Routing**|Lixun Zhang et.al.|[2611.02583](http://arxiv.org/abs/2611.02583)|
 |**2026-11-02**|**ROCm InferaSim: Cut LLM Serving Trial Costs and Deploy the Best Configuration**|Anshu Raina et.al.|[2611.04032](http://arxiv.org/abs/2611.04032)|
@@ -107,6 +114,7 @@ _Updated on 2026.11.17_
 |**2026-10-16**|**FuseRAG: Fusing Structure and Evidence into Inference for Cost-Efficient Graph-based RAG**|Tingqi Wang et.al.|[2610.22818](http://arxiv.org/abs/2610.22818)|
 |**2026-10-16**|**Prism Attention: Proposal-Refined Index Sharing Mechanism for Efficient LLMs Inference**|Zhenxu Tian et.al.|[2610.22985_(NeurIPS)](http://arxiv.org/abs/2610.22985)|
 |**2026-10-16**|**KVCompass: A Discovery Plane for Internet-Scale Prefix Cache Sharing in LLM Serving**|Shiyi Ling et.al.|[2610.24179](http://arxiv.org/abs/2610.24179)|
+|**2026-10-16**|**MeltKV: Memory-Aligned KV Cache Compression via Variable-Bit Packed Vector Quantization for Long-Context LLMs**|Jiyun Han et.al.|[2611.18652_(ICC)](http://arxiv.org/abs/2611.18652)|
 |**2026-10-15**|**When the KV Cache Is Slower Than the GPU: Scaling Remote KV Tiers for Context-Parallel Prefill**|Muhammad Ibrahim et.al.|[2610.21500](http://arxiv.org/abs/2610.21500)|
 |**2026-10-15**|**Characterizing Predictability-Latency Trade-offs of KV-Cache SSD Offloading in LMCache for LLM Serving Systems**|Ying He et.al.|[2610.21249](http://arxiv.org/abs/2610.21249)|
 |**2026-10-15**|**Range: Decoupling KV-Cache Reuse Granularity from Storage Work**|Dingsen Shi et.al.|[2610.21241](http://arxiv.org/abs/2610.21241)|

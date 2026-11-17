@@ -10,9 +10,24 @@ _Updated on 2026.11.17_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-11-16**|**PriorityFEC: Deadline-Aware Streaming FEC for KV-Cache Handoff in Edge Multi-Agent Systems**|Han Shen et.al.|[2610.21390](http://arxiv.org/abs/2610.21390)|
+|**2026-11-16**|**The SIMPLE Law for Energy Cost of LLM Inference**|Hiari Pizzini Cavagna et.al.|[2611.03330](http://arxiv.org/abs/2611.03330)|
+|**2026-11-16**|**Agent-Native by Design: A Programming Language for Agentic Applications**|Jayanaka Dantanarayana et.al.|[2611.21298](http://arxiv.org/abs/2611.21298)|
+|**2026-11-16**|**GRACE: Parallel Best-of-N Multi-Agent Analysis of Closed-Form Questions over Dataframes with Guardrail Selection and Adaptive Retry**|Fabio Picariello et.al.|[2611.20983_(SC)](http://arxiv.org/abs/2611.20983)|
+|**2026-11-16**|**Multi-LLM Agentic AI at the Edge: Joint Agent Scheduling and Resource Allocation**|Yuanyan Song et.al.|[2611.20915](http://arxiv.org/abs/2611.20915)|
+|**2026-11-16**|**MASTA: A Feedback-Scheduled Multi-Agent System for End-to-End Tamarin Modeling and Analysis**|Yongkang Xiao et.al.|[2611.20671_(NeurIPS)](http://arxiv.org/abs/2611.20671)|
+|**2026-11-16**|**Agent-Guided Configuration Tuning for SMT Solvers**|Cong Wang et.al.|[2611.20484](http://arxiv.org/abs/2611.20484)|
+|**2026-11-16**|**KVMARK: Fragile Watermarking for KV-Cache Integrity in Latent Multi-Agent Systems**|Marjan Beheshti et.al.|[2611.20454](http://arxiv.org/abs/2611.20454)|
+|**2026-11-15**|**In-Model Context Compression with Agentic Soft Tokens for Long-Horizon LLM Agents**|Xuning He et.al.|[2610.41291](http://arxiv.org/abs/2610.41291)|
+|**2026-11-15**|**From Questions to Decisions: Benchmarking How LLM Agents Acquire Decision-Relevant Information from Human Beings**|Yuhan Tang et.al.|[2611.13015](http://arxiv.org/abs/2611.13015)|
+|**2026-11-15**|**EfficientSkill: Learning Skills for Token-Efficient Multi-Turn Agents**|Deep Shah et.al.|[2611.19823](http://arxiv.org/abs/2611.19823)|
+|**2026-11-14**|**Staged Semantic Distillation: Preserving Free-Form Semantics in a Low-Compute Non-LLM Surrogate of a Staged LLM Agent**|Zhiyang Niu et.al.|[2611.19299](http://arxiv.org/abs/2611.19299)|
+|**2026-11-14**|**Auditable Authorization for LLM Agents: Empirical Evidence Across Model, Harness, and Workflow Layers**|Bangjie Deng et.al.|[2611.19237](http://arxiv.org/abs/2611.19237)|
+|**2026-11-14**|**B2G-Agent: An LLM-Based Multi-Agent Tool for End-to-End Building-Grid Interactions**|Xueyuan Cui et.al.|[2611.19036](http://arxiv.org/abs/2611.19036)|
 |**2026-11-13**|**TradeGauntlet: Evaluating Compliance Controls for Autonomous Trading Agents**|Sandip Nandi et.al.|[2611.18493](http://arxiv.org/abs/2611.18493)|
 |**2026-11-13**|**Superfluid: Local AI Server for Distributed LLM Inference**|Prabod Rathnayaka et.al.|[2611.17753](http://arxiv.org/abs/2611.17753)|
 |**2026-11-13**|**Callo: Serving Cache-Miss Requests with Speculative Decoding on Invalidated KV under Prefill-Decode Disaggregation**|Jianjun Ou et.al.|[2611.18459](http://arxiv.org/abs/2611.18459)|
+|**2026-11-13**|**What to Practice Next? Latent Profile-Guided Task Selection for Skill-Evolving LLM Agents**|Qijin Zhang et.al.|[2611.18818](http://arxiv.org/abs/2611.18818)|
 |**2026-11-12**|**Beyond the Trial-and-Error Loop: Hybrid Projection and Automated Tuning for Distributed Training**|Anshu Raina et.al.|[2610.19423_(NeurIPS)](http://arxiv.org/abs/2610.19423)|
 |**2026-11-12**|**Evolving Infra: Agent-Adaptive LLM Serving at Scale**|Hao Kang et.al.|[2611.12304](http://arxiv.org/abs/2611.12304)|
 |**2026-11-12**|**Reducing Batch Makespan for LLM Agent Workloads through Inference-Environment Coordination**|Wei Feng et.al.|[2611.16661](http://arxiv.org/abs/2611.16661)|
@@ -33,13 +48,11 @@ _Updated on 2026.11.17_
 |**2026-11-09**|**Competing Influence in LLM Populations: Budget Timing and Baseline Drift**|Mehwish Nasim et.al.|[2611.11867](http://arxiv.org/abs/2611.11867)|
 |**2026-11-09**|**SparseCraft: Agentic Hardware-Software Co-Optimization for Sparse Computing**|M P Samartha et.al.|[2610.05037_(CHES)](http://arxiv.org/abs/2610.05037)|
 |**2026-11-09**|**SHADOWPREFILL: Keeping Your Next Model Warm for Per-Step Model Routing in Agentic LLM Serving**|Haoran Qiu et.al.|[2611.13176](http://arxiv.org/abs/2611.13176)|
-|**2026-11-09**|**From Questions to Decisions: Benchmarking How LLM Agents Acquire Decision-Relevant Information from Human Beings**|Yuhan Tang et.al.|[2611.13015](http://arxiv.org/abs/2611.13015)|
 |**2026-11-08**|**Verify Before You Fetch: Reliable KV Cache Compression for LLM Inference**|Devanshu Jha et.al.|[2611.11319](http://arxiv.org/abs/2611.11319)|
 |**2026-11-08**|**InfraRSI: Harnessing Recursive Self-Improvement for Training Infrastructure**| InfraRSI Team et.al.|[2611.11558](http://arxiv.org/abs/2611.11558)|
 |**2026-11-08**|**On the Relative Security of Prompt Injection: Mechanised Definitions, Defences and Verdicts for LLM Agents**|Brijesh Dongol et.al.|[2611.11506](http://arxiv.org/abs/2611.11506)|
 |**2026-11-07**|**In Search of Lost Time: Temporal Competence in Large Language Models**|Ryan Liu et.al.|[2611.10536](http://arxiv.org/abs/2611.10536)|
 |**2026-11-07**|**Crustify: Repository-Level Generation of Safe Rust Bindings with LLM Agents and Coverage-Guided Testing**|Marius Momeu et.al.|[2611.10394](http://arxiv.org/abs/2611.10394)|
-|**2026-11-06**|**PriorityFEC: Deadline-Aware Streaming FEC for KV-Cache Handoff in Edge Multi-Agent Systems**|Han Shen et.al.|[2610.21390](http://arxiv.org/abs/2610.21390)|
 |**2026-11-06**|**CacheGraft: Enhancing Retrieval-Augmented Generation via Latent-Space Document Enrichment**|Vihan Lakshman et.al.|[2611.07393_(CIKM)](http://arxiv.org/abs/2611.07393)|
 |**2026-11-06**|**Nebula: Distributed Position-Independent Caching for LLM Serving**|Yifei Liu et.al.|[2611.09474](http://arxiv.org/abs/2611.09474)|
 |**2026-11-06**|**TwinHash: Two-Sided Object Identity Management for Time- and Energy-Efficient Agentic Workflows**|Sangbu Yun et.al.|[2611.09254_(HPCA)](http://arxiv.org/abs/2611.09254)|
@@ -64,7 +77,6 @@ _Updated on 2026.11.17_
 |**2026-11-03**|**Octopus: One Brain, Many Branches for Latent-KV Multi-Agent Reinforcement Learning**|Tianming Sha et.al.|[2611.06956](http://arxiv.org/abs/2611.06956)|
 |**2026-11-03**|**A Sharp Additive Bound for the Threshold Rule in Repeated Rent-or-Buy**|Vasco Schiavo et.al.|[2611.06955](http://arxiv.org/abs/2611.06955)|
 |**2026-11-02**|**Subquadratic Attention with a Hierarchical Tree-Structured Indexer**|Leon Lufkin et.al.|[2610.42112](http://arxiv.org/abs/2610.42112)|
-|**2026-11-02**|**The SIMPLE Law for Energy Cost of LLM Inference**|Hiari Pizzini Cavagna et.al.|[2611.03330](http://arxiv.org/abs/2611.03330)|
 |**2026-11-02**|**Multi-Modal Multi-Agent System for Bridge Operation and Maintenance based on Large Language Model**|Xiangyun Luo et.al.|[2611.02738](http://arxiv.org/abs/2611.02738)|
 |**2026-11-02**|**ROCm InferaSim: Cut LLM Serving Trial Costs and Deploy the Best Configuration**|Anshu Raina et.al.|[2611.04032](http://arxiv.org/abs/2611.04032)|
 |**2026-11-02**|**Dory1.0-4B: A Looped Normalized-GPT**|Maxim Fishman et.al.|[2611.03998](http://arxiv.org/abs/2611.03998)|
@@ -73,7 +85,6 @@ _Updated on 2026.11.17_
 |**2026-11-01**|**Serving Agentic Robot Fleets: Workload Characterization, KV-Cache Thrashing, and Admission Control**|Sida He et.al.|[2611.01404](http://arxiv.org/abs/2611.01404)|
 |**2026-10-31**|**Jet-QSparse: Accelerating Agentic LLM Inference with 4-Bit Sparse Attention**|Haozhan Tang et.al.|[2611.01022](http://arxiv.org/abs/2611.01022)|
 |**2026-10-30**|**HiState: Hierarchical Prefix Cache Management for Hybrid LLM Serving in Agentic Workloads**|Zaifeng Pan et.al.|[2610.41508](http://arxiv.org/abs/2610.41508)|
-|**2026-10-30**|**In-Model Context Compression with Agentic Soft Tokens for Long-Horizon LLM Agents**|Xuning He et.al.|[2610.41291](http://arxiv.org/abs/2610.41291)|
 |**2026-10-30**|**Rethinking KV Cache Eviction for Agentic LLM Serving**|Jiakun Fan et.al.|[2611.00391](http://arxiv.org/abs/2611.00391)|
 |**2026-10-28**|**Context Compaction for World Models**|Hayder Tirmazi et.al.|[2610.38980](http://arxiv.org/abs/2610.38980)|
 |**2026-10-28**|**FlatCake: A Flat KVCache Storage Architecture for LLM Serving**|Xin Huang et.al.|[2610.38355](http://arxiv.org/abs/2610.38355)|
