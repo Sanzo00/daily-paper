@@ -10,6 +10,8 @@ _Updated on 2026.11.18_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-11-17**|**Multi-Granularity Context-Enhanced RAG over Multimodal Knowledge Graphs**|Zongyu Wu et.al.|[2608.25986](http://arxiv.org/abs/2608.25986)|
+|**2026-11-17**|**RAG in a Trenchcoat: When Minimal Memory Is Enough for Agentic Systems, and When It Isn't**|Jingyu Liu et.al.|[2611.22179_(NeurIPS)](http://arxiv.org/abs/2611.22179)|
 |**2026-11-14**|**KaleidoKV: Rearranging Evidence for Efficient KV Cache Reuse in Offline RAG Inference**|Peiting Xie et.al.|[2611.19253](http://arxiv.org/abs/2611.19253)|
 |**2026-11-14**|**B2G-Agent: An LLM-Based Multi-Agent Tool for End-to-End Building-Grid Interactions**|Xueyuan Cui et.al.|[2611.19036](http://arxiv.org/abs/2611.19036)|
 |**2026-11-11**|**DISCERN: Preserve at Write, Resolve at Read for Persistent LLM-Agent Memory**|Chirag Ahuja et.al.|[2611.15729](http://arxiv.org/abs/2611.15729)|
@@ -102,7 +104,6 @@ _Updated on 2026.11.18_
 |**2026-08-29**|**Spatial-Knowledge-Graph-Grounded LLM Agents for Neighborhood Livability Evaluation**|Haiyan Hao et.al.|[2608.25952](http://arxiv.org/abs/2608.25952)|
 |**2026-08-28**|**Gen-TAS: A Generative AI-Aided Hardware-Software Task Allocation Framework for FPGA-GPP Heterogeneous Systems**|Mary Kong et.al.|[2608.28160](http://arxiv.org/abs/2608.28160)|
 |**2026-08-27**|**SymbolLKG: Towards Verifiable Logical Reasoning via Logical Knowledge Graph and Symbolic Solvers**|Haizhao Fan et.al.|[2608.26836](http://arxiv.org/abs/2608.26836)|
-|**2026-08-26**|**Multi-Granularity Context-Enhanced RAG over Multimodal Knowledge Graphs**|Zongyu Wu et.al.|[2608.25986](http://arxiv.org/abs/2608.25986)|
 |**2026-08-26**|**LivingRAG: Augmenting Graph RAG with Experience**|Yuzhuo Cui et.al.|[2608.25960](http://arxiv.org/abs/2608.25960)|
 |**2026-08-25**|**SAG: SQL-Retrieval Augmented Generation with Query-Time Dynamic Hyperedges**|Yuchao Wu et.al.|[2606.15971_(ISS)](http://arxiv.org/abs/2606.15971)|
 |**2026-08-25**|**BiGraph-Diffuse: A Bidirectional Diffusion Language Model with Graph-Structured Retrieval For Mental Health Counseling**|Yuxiang Cheng et.al.|[2609.29519](http://arxiv.org/abs/2609.29519)|

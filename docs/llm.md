@@ -10,11 +10,18 @@ _Updated on 2026.11.18_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-11-17**|**SPLASH: A Virtualized HBM-HBF Hierarchy with Flash-Aware Sparse Attention for Long-Context Inference**|Aditya Anirudh Jonnalagadda et.al.|[2609.23816](http://arxiv.org/abs/2609.23816)|
+|**2026-11-17**|**XM-Sparse: High-Throughput Sparse-Attention LLM Serving over Scale-up Memory Pools**|Yijun Sun et.al.|[2611.22280](http://arxiv.org/abs/2611.22280)|
+|**2026-11-17**|**From Token Changes to Task Failures: Bit Flips in a Shared KV-Cache Block**|Yuji Yamamoto et.al.|[2611.22243_(CRYPTO)](http://arxiv.org/abs/2611.22243)|
+|**2026-11-17**|**HyCoInfer: Cloud-Edge Collaborative Inference for Large Language Models on Heterogeneous GPU-FPGA Architectures**|Zewen Huang et.al.|[2611.22086](http://arxiv.org/abs/2611.22086)|
+|**2026-11-17**|**TAILROLL: Tail-Aware Rollout Acceleration for RL-Based LLM Post-Training**|Niloofar Gholipour et.al.|[2611.22206](http://arxiv.org/abs/2611.22206)|
+|**2026-11-17**|**Cross-Modal StateKV Injection for Communication in Multi-LLM Systems across Temporal Segments**|Xiaoqian Zhang et.al.|[2611.22304](http://arxiv.org/abs/2611.22304)|
 |**2026-11-16**|**PriorityFEC: Deadline-Aware Streaming FEC for KV-Cache Handoff in Edge Multi-Agent Systems**|Han Shen et.al.|[2610.21390](http://arxiv.org/abs/2610.21390)|
 |**2026-11-16**|**The SIMPLE Law for Energy Cost of LLM Inference**|Hiari Pizzini Cavagna et.al.|[2611.03330](http://arxiv.org/abs/2611.03330)|
 |**2026-11-16**|**SURMA: Efficient Fine-Grained Communication Offload for SuperPOD**|Haoran Shang et.al.|[2611.21274](http://arxiv.org/abs/2611.21274)|
 |**2026-11-16**|**MiSTiQ: MicroScaling Trellis Quantization for Extreme KV Cache Compression**|Ofir Gordon et.al.|[2611.21216](http://arxiv.org/abs/2611.21216)|
 |**2026-11-16**|**Disaggregated LLM Inference in Space: A Communication Feasibility Study**|Arno Troch et.al.|[2611.20893](http://arxiv.org/abs/2611.20893)|
+|**2026-11-16**|**KVUse: Reusable-KV User Memory for Efficient LLM Recommenders**|Xin Guo et.al.|[2611.21920](http://arxiv.org/abs/2611.21920)|
 |**2026-11-15**|**Making Preemption Productive in Long-Output LLM Serving**|Ziji Shi et.al.|[2611.20106](http://arxiv.org/abs/2611.20106)|
 |**2026-11-15**|**EfficientSkill: Learning Skills for Token-Efficient Multi-Turn Agents**|Deep Shah et.al.|[2611.19823](http://arxiv.org/abs/2611.19823)|
 |**2026-11-15**|**Weights & Caches: LLMs Can Program Tabular Foundation Models**|Shi Bin Hoo et.al.|[2611.20174](http://arxiv.org/abs/2611.20174)|
@@ -227,7 +234,6 @@ _Updated on 2026.11.18_
 |**2026-09-21**|**Agentic AI Workload Characteristics**|Yichao Yuan et.al.|[2605.26297_(ISWC)](http://arxiv.org/abs/2605.26297)|
 |**2026-09-21**|**ARM: Attention with Routed-Memory for Learnable Sparse Control**|Qiuhao Zeng et.al.|[2609.24417_(CHI)](http://arxiv.org/abs/2609.24417)|
 |**2026-09-21**|**Who Pays for the KV Cache? Attributing Shared AI Inference Spend Across Kubernetes and LLM Provider Bills**|Timothy Urista et.al.|[2609.24991_(DIS)](http://arxiv.org/abs/2609.24991)|
-|**2026-09-20**|**SPLASH: Co-Designing Sparse Attention with High-Bandwidth Flash for Efficient Long-Context Inference**|Aditya Anirudh Jonnalagadda et.al.|[2609.23816](http://arxiv.org/abs/2609.23816)|
 |**2026-09-20**|**Bridging LLM Serving and CXL-SSDs with Chunk-Aware KV Cache Management**|Hyunsun Chung et.al.|[2609.26828](http://arxiv.org/abs/2609.26828)|
 |**2026-09-19**|**Stage-Aware Communication Scheduling for Disaggregated LLM Serving**|Yijun Sun et.al.|[2603.17456](http://arxiv.org/abs/2603.17456)|
 |**2026-09-19**|**From Inference Engine to Inference Control Plane: Connecting vLLM, llm-d, and the Evolution of Efficient Distributed LLM Serving**|Twinkll Sisodia et.al.|[2609.23130_(DIS)](http://arxiv.org/abs/2609.23130)|
