@@ -10,9 +10,17 @@ _Updated on 2026.11.19_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-11-18**|**CommitKV: Commit-Aligned KV Cache Compression for Multimodal Agents**|Weizhong Huang et.al.|[2608.07855](http://arxiv.org/abs/2608.07855)|
+|**2026-11-18**|**A Flat KV Cache Storage Architecture for LLM Serving**|Xin Huang et.al.|[2610.38355](http://arxiv.org/abs/2610.38355)|
+|**2026-11-18**|**GateWatch: Low-Overhead LLM Monitoring with Boolean Circuits**|Firas Spanioli et.al.|[2611.24619](http://arxiv.org/abs/2611.24619)|
+|**2026-11-18**|**Polymorph: Operating System Kernel Optimization Through Artificial Intelligence**|Dean Sysman et.al.|[2611.23644](http://arxiv.org/abs/2611.23644)|
 |**2026-11-17**|**MemT-1.0: Towards Memory-Native Evolution**|Zhiyu Li et.al.|[2610.26825](http://arxiv.org/abs/2610.26825)|
 |**2026-11-17**|**LaFlash: Capacity-Driven Acceleration for Coding Agent Workflows via QLC-HBF**|Yuseon Choi et.al.|[2611.22746](http://arxiv.org/abs/2611.22746)|
 |**2026-11-17**|**The Between-Round Decision in Autonomous Research: An LLM Controller That Reads the Whole Trajectory**|Caoxin Wang et.al.|[2611.22661](http://arxiv.org/abs/2611.22661)|
+|**2026-11-17**|**Safe to Omit, Worth Omitting? Keeping the Answer and Cutting Latency When an LLM Agent Skips Another's Message**|Xinyang Li et.al.|[2611.23570_(ICLR)](http://arxiv.org/abs/2611.23570)|
+|**2026-11-17**|**Securing and Auditing Long-Horizon LLM Agents: State-Transfer Auditing and Controls in the Agent Harness**|Deep Shah et.al.|[2611.23346](http://arxiv.org/abs/2611.23346)|
+|**2026-11-17**|**Towards Fair Resource Sharing in Agentic LLM Serving**|Sehyeon Lee et.al.|[2611.23558](http://arxiv.org/abs/2611.23558)|
+|**2026-11-17**|**Arbor: How Search Policy Shapes Agent Behavior in System Optimization**|Neha Prakriya et.al.|[2606.12563](http://arxiv.org/abs/2606.12563)|
 |**2026-11-16**|**PriorityFEC: Deadline-Aware Streaming FEC for KV-Cache Handoff in Edge Multi-Agent Systems**|Han Shen et.al.|[2610.21390](http://arxiv.org/abs/2610.21390)|
 |**2026-11-16**|**The SIMPLE Law for Energy Cost of LLM Inference**|Hiari Pizzini Cavagna et.al.|[2611.03330](http://arxiv.org/abs/2611.03330)|
 |**2026-11-16**|**Agent-Native by Design: A Programming Language for Agentic Applications**|Jayanaka Dantanarayana et.al.|[2611.21298](http://arxiv.org/abs/2611.21298)|
@@ -90,7 +98,6 @@ _Updated on 2026.11.19_
 |**2026-10-30**|**HiState: Hierarchical Prefix Cache Management for Hybrid LLM Serving in Agentic Workloads**|Zaifeng Pan et.al.|[2610.41508](http://arxiv.org/abs/2610.41508)|
 |**2026-10-30**|**Rethinking KV Cache Eviction for Agentic LLM Serving**|Jiakun Fan et.al.|[2611.00391](http://arxiv.org/abs/2611.00391)|
 |**2026-10-28**|**Context Compaction for World Models**|Hayder Tirmazi et.al.|[2610.38980](http://arxiv.org/abs/2610.38980)|
-|**2026-10-28**|**FlatCake: A Flat KVCache Storage Architecture for LLM Serving**|Xin Huang et.al.|[2610.38355](http://arxiv.org/abs/2610.38355)|
 |**2026-10-27**|**TAO: Tool-Aware Joint Scheduling for LLM-Based Agentic Serving**|Shuhuai Li et.al.|[2610.37230](http://arxiv.org/abs/2610.37230)|
 |**2026-10-27**|**Blindfold: Keeping the Audit Coin Secret from LLM Agents**|Wei Zhu et.al.|[2610.37055](http://arxiv.org/abs/2610.37055)|
 |**2026-10-26**|**BellowsKV: One Latent for Many Layers, Expanded on Demand**|Jiamu Zhang et.al.|[2610.35023](http://arxiv.org/abs/2610.35023)|
@@ -310,7 +317,6 @@ _Updated on 2026.11.19_
 |**2026-08-10**|**Graphing the Everyday: A Neurosymbolic Approach to Eliciting Routines for Just-In-Time Adaptive Interventions**|Shakyani Jayasiriwardene et.al.|[2608.09294_(CHI)](http://arxiv.org/abs/2608.09294)|
 |**2026-08-08**|**SPECTRA: Pushing the KV Cache Beyond the 2-Bit Cliff via Spectral Transform Coding**|Jiamu Zhang et.al.|[2608.07915](http://arxiv.org/abs/2608.07915)|
 |**2026-08-08**|**OpRAG: A Resource-Deterministic Runtime for GPU-Backed Multi-Stage RAG Workflows**|Arup Kumar Sarker et.al.|[2608.08340](http://arxiv.org/abs/2608.08340)|
-|**2026-08-08**|**CommitKV: Lifecycle-Aware KV Cache Compression via Commit Transitions for Multi-Turn Agents**|Weizhong Huang et.al.|[2608.07855](http://arxiv.org/abs/2608.07855)|
 |**2026-08-07**|**Predictive Multi-Tier Memory Management for KV Cache in Large-Scale GPU Inference**|Sanjeev Rao Ganjihal et.al.|[2604.26968_(ATC)](http://arxiv.org/abs/2604.26968)|
 |**2026-08-07**|**LiveMem: Maintaining Memory State Continuity in Long-Running LLM Inference**|Zhichen Liu et.al.|[2608.02515](http://arxiv.org/abs/2608.02515)|
 |**2026-08-07**|**From Single Chatbots to Governed Agent Ecosystems: An Agentic AI Pattern Catalogue and Orchestration Framework for Mission-Critical Hospital Information Management Systems**|Manideep Dhar et.al.|[2608.07627](http://arxiv.org/abs/2608.07627)|

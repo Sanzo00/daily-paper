@@ -10,12 +10,16 @@ _Updated on 2026.11.19_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
-|**2026-11-17**|**SPLASH: A Virtualized HBM-HBF Hierarchy with Flash-Aware Sparse Attention for Long-Context Inference**|Aditya Anirudh Jonnalagadda et.al.|[2609.23816](http://arxiv.org/abs/2609.23816)|
+|**2026-11-18**|**SPLASH: Co-Designing Flash-Aware Sparse Attention with a Virtualized HBM-HBF Hierarchy**|Aditya Anirudh Jonnalagadda et.al.|[2609.23816](http://arxiv.org/abs/2609.23816)|
+|**2026-11-18**|**A Flat KV Cache Storage Architecture for LLM Serving**|Xin Huang et.al.|[2610.38355](http://arxiv.org/abs/2610.38355)|
+|**2026-11-18**|**When Shuffling Fails: Token Recovery from Obfuscated KV Caches**|Chengzhi Yi et.al.|[2611.24276](http://arxiv.org/abs/2611.24276)|
 |**2026-11-17**|**XM-Sparse: High-Throughput Sparse-Attention LLM Serving over Scale-up Memory Pools**|Yijun Sun et.al.|[2611.22280](http://arxiv.org/abs/2611.22280)|
 |**2026-11-17**|**From Token Changes to Task Failures: Bit Flips in a Shared KV-Cache Block**|Yuji Yamamoto et.al.|[2611.22243_(CRYPTO)](http://arxiv.org/abs/2611.22243)|
 |**2026-11-17**|**HyCoInfer: Cloud-Edge Collaborative Inference for Large Language Models on Heterogeneous GPU-FPGA Architectures**|Zewen Huang et.al.|[2611.22086](http://arxiv.org/abs/2611.22086)|
 |**2026-11-17**|**TAILROLL: Tail-Aware Rollout Acceleration for RL-Based LLM Post-Training**|Niloofar Gholipour et.al.|[2611.22206](http://arxiv.org/abs/2611.22206)|
 |**2026-11-17**|**Cross-Modal StateKV Injection for Communication in Multi-LLM Systems across Temporal Segments**|Xiaoqian Zhang et.al.|[2611.22304](http://arxiv.org/abs/2611.22304)|
+|**2026-11-17**|**Optimize the Cob, Then the Kernel: Optimizing Beam Search for Generative Recommendation Inference**|Shing Wai Pun et.al.|[2611.23339](http://arxiv.org/abs/2611.23339)|
+|**2026-11-17**|**Arbor: How Search Policy Shapes Agent Behavior in System Optimization**|Neha Prakriya et.al.|[2606.12563](http://arxiv.org/abs/2606.12563)|
 |**2026-11-16**|**PriorityFEC: Deadline-Aware Streaming FEC for KV-Cache Handoff in Edge Multi-Agent Systems**|Han Shen et.al.|[2610.21390](http://arxiv.org/abs/2610.21390)|
 |**2026-11-16**|**The SIMPLE Law for Energy Cost of LLM Inference**|Hiari Pizzini Cavagna et.al.|[2611.03330](http://arxiv.org/abs/2611.03330)|
 |**2026-11-16**|**SURMA: Efficient Fine-Grained Communication Offload for SuperPOD**|Haoran Shang et.al.|[2611.21274](http://arxiv.org/abs/2611.21274)|
@@ -87,7 +91,6 @@ _Updated on 2026.11.19_
 |**2026-10-30**|**Rethinking KV Cache Eviction for Agentic LLM Serving**|Jiakun Fan et.al.|[2611.00391](http://arxiv.org/abs/2611.00391)|
 |**2026-10-29**|**Shared Context, Separate Engines: Stateful Streaming Inference for Multimodal LLMs on Edge SoCs**|Yilong Li et.al.|[2610.35309](http://arxiv.org/abs/2610.35309)|
 |**2026-10-28**|**Budget-Aware Compression Pipeline for Single-GPU LLM Inference: Methods, Trade-offs, and Coupling Effects**|Hongyu Yu et.al.|[2608.30076_(EMNLP)](http://arxiv.org/abs/2608.30076)|
-|**2026-10-28**|**FlatCake: A Flat KVCache Storage Architecture for LLM Serving**|Xin Huang et.al.|[2610.38355](http://arxiv.org/abs/2610.38355)|
 |**2026-10-28**|**Context Compaction for World Models**|Hayder Tirmazi et.al.|[2610.38980](http://arxiv.org/abs/2610.38980)|
 |**2026-10-26**|**Separating Thinking from Spelling for Efficient Generative Recommendation**|Danil Gusak et.al.|[2610.32980](http://arxiv.org/abs/2610.32980)|
 |**2026-10-26**|**Context Is Not Free: Carbon-Aware LLM Routing for Multi-Turn LLM Web Services across Geo-Distributed Data Centers**|Xiaoyang Zhang et.al.|[2610.35230](http://arxiv.org/abs/2610.35230)|
