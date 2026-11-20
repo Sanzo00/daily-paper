@@ -10,6 +10,7 @@ _Updated on 2026.11.20_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-11-19**|**Phantom of the Masquerade: Graph Neural Network-Based Detection of Masquerade Attacks in Controller Area Networks**|Nehal Ameen et.al.|[2611.26094](http://arxiv.org/abs/2611.26094)|
 |**2026-11-08**|**GARDEN: Efficient GPU-Accelerated Billion-Scale GNN Training via Caching-Sampling-Batching Co-Design**|Qingrui Zhu et.al.|[2611.11043](http://arxiv.org/abs/2611.11043)|
 |**2026-11-02**|**Resilient Cell-Free MIMO ISAC Under Uncertainties: An Impairment-Aware Graph Neural Network Framework**|Oways Alsoloh et.al.|[2611.03054_(ICC)](http://arxiv.org/abs/2611.03054)|
 |**2026-10-21**|**Formula size game and model checking for modal substitution calculus**|Veeti Ahvonen et.al.|[2505.07966](http://arxiv.org/abs/2505.07966)|

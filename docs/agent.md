@@ -10,10 +10,19 @@ _Updated on 2026.11.20_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-11-19**|**DeepEdu-F: A Framework for Efficient and Scalable Agentic LLMs in Vietnamese Education**|Quang Nguyen et.al.|[2609.31568](http://arxiv.org/abs/2609.31568)|
+|**2026-11-19**|**Characterizing High Bandwidth Flash for LLM Serving**|Zack Yu et.al.|[2609.39131_(DATE)](http://arxiv.org/abs/2609.39131)|
+|**2026-11-19**|**TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming**|Jinbin Luo et.al.|[2611.26619](http://arxiv.org/abs/2611.26619)|
+|**2026-11-19**|**Aggron: Aggressive Compression of Agentic KV Caches during Head-of-Line Stalls in the Request Queue**|Rishabh Ravi et.al.|[2611.26435](http://arxiv.org/abs/2611.26435)|
+|**2026-11-19**|**The FrontierOR Challenge: Agentic Algorithm Design for Operations Research**|Hai Wang et.al.|[2611.26171](http://arxiv.org/abs/2611.26171)|
+|**2026-11-19**|**LM-based Personalized Travel Planner**|Amandi Nimasha et.al.|[2611.25531](http://arxiv.org/abs/2611.25531)|
+|**2026-11-19**|**FrontierReplay: Split-Free Exact Prefix Caching for Hybrid Language Models**|Zekun Wang et.al.|[2611.26020](http://arxiv.org/abs/2611.26020)|
 |**2026-11-18**|**CommitKV: Commit-Aligned KV Cache Compression for Multimodal Agents**|Weizhong Huang et.al.|[2608.07855](http://arxiv.org/abs/2608.07855)|
 |**2026-11-18**|**A Flat KV Cache Storage Architecture for LLM Serving**|Xin Huang et.al.|[2610.38355](http://arxiv.org/abs/2610.38355)|
+|**2026-11-18**|**Say Shibboleth: Fingerprinting the LLMs and Harnesses Behind Agentic Attacks**|Dario Pasquini et.al.|[2611.12386](http://arxiv.org/abs/2611.12386)|
 |**2026-11-18**|**GateWatch: Low-Overhead LLM Monitoring with Boolean Circuits**|Firas Spanioli et.al.|[2611.24619](http://arxiv.org/abs/2611.24619)|
 |**2026-11-18**|**Polymorph: Operating System Kernel Optimization Through Artificial Intelligence**|Dean Sysman et.al.|[2611.23644](http://arxiv.org/abs/2611.23644)|
+|**2026-11-18**|**TripleKV: Predict, Prefetch, Protect -- KV Cache Management for AI Agents**|Shashwat Jaiswal et.al.|[2611.25112](http://arxiv.org/abs/2611.25112)|
 |**2026-11-17**|**MemT-1.0: Towards Memory-Native Evolution**|Zhiyu Li et.al.|[2610.26825](http://arxiv.org/abs/2610.26825)|
 |**2026-11-17**|**LaFlash: Capacity-Driven Acceleration for Coding Agent Workflows via QLC-HBF**|Yuseon Choi et.al.|[2611.22746](http://arxiv.org/abs/2611.22746)|
 |**2026-11-17**|**The Between-Round Decision in Autonomous Research: An LLM Controller That Reads the Whole Trajectory**|Caoxin Wang et.al.|[2611.22661](http://arxiv.org/abs/2611.22661)|
@@ -54,7 +63,6 @@ _Updated on 2026.11.20_
 |**2026-11-10**|**Scaling Shapley Energy Attribution to Large LLM Batches**|Qi Luo et.al.|[2611.13802](http://arxiv.org/abs/2611.13802)|
 |**2026-11-10**|**Multi-Objective Scheduling of LLM-Based Multi-Agent Workflows in Cloud Computing**|Goshgar Can Ismayilov et.al.|[2611.13740](http://arxiv.org/abs/2611.13740)|
 |**2026-11-10**|**SynthCorp: A Platform for Creating Benchmarks for Data Agents**|Jiani Zhang et.al.|[2611.14765](http://arxiv.org/abs/2611.14765)|
-|**2026-11-09**|**Say Shibboleth: Fingerprinting the LLMs and Harnesses Behind Agentic Attacks**|Dario Pasquini et.al.|[2611.12386](http://arxiv.org/abs/2611.12386)|
 |**2026-11-09**|**Late but Valuable: Why Deadlines Change the Measured Value of LLM Reasoning**|Sina Barazandeh et.al.|[2611.11910](http://arxiv.org/abs/2611.11910)|
 |**2026-11-09**|**Competing Influence in LLM Populations: Budget Timing and Baseline Drift**|Mehwish Nasim et.al.|[2611.11867](http://arxiv.org/abs/2611.11867)|
 |**2026-11-09**|**SparseCraft: Agentic Hardware-Software Co-Optimization for Sparse Computing**|M P Samartha et.al.|[2610.05037_(CHES)](http://arxiv.org/abs/2610.05037)|
@@ -165,7 +173,6 @@ _Updated on 2026.11.20_
 |**2026-10-06**|**ReFold: Training-Free Reversible Inter-Turn Context Folding for Long-Horizon Agents**|Yupeng Su et.al.|[2610.07863](http://arxiv.org/abs/2610.07863)|
 |**2026-10-06**|**Persistent Memory in Multi-Agent LLM Inference: What It Costs, What It Buys, and When You Can Tell**|Hochan Son et.al.|[2610.07782_(CHI)](http://arxiv.org/abs/2610.07782)|
 |**2026-10-06**|**SquidAgent: Parallelize Wisely, Coordinate Efficiently**|Yexiong Lin et.al.|[2610.08647_(NeurIPS)](http://arxiv.org/abs/2610.08647)|
-|**2026-10-05**|**Characterizing High Bandwidth Flash for LLM Serving**|Zack Yu et.al.|[2609.39131](http://arxiv.org/abs/2609.39131)|
 |**2026-10-05**|**Can Agent Harnesses and Inference Engines Hear Each Other? The HEAR Protocol for Agentic LLM Serving**|Jiaqi Zhao et.al.|[2610.06597](http://arxiv.org/abs/2610.06597)|
 |**2026-10-05**|**Request Order Matters: Cache-History Sensitivity in Selective KV-Cache Reuse for Rolling Agents**|Tiffany Gu et.al.|[2610.05833](http://arxiv.org/abs/2610.05833)|
 |**2026-10-05**|**Verifying Coordination in Parallel Coding Agents: NP-Bench and a Scheduling Planner**|Sumanyu Muku et.al.|[2610.07261](http://arxiv.org/abs/2610.07261)|
@@ -215,7 +222,6 @@ _Updated on 2026.11.20_
 |**2026-09-26**|**AgentReplay: Token-Wise Trace Replay Is Essential for Fair Serving System Performance Benchmarking**|Zaifeng Pan et.al.|[2609.32283](http://arxiv.org/abs/2609.32283)|
 |**2026-09-26**|**LAM: Efficient Lossy Agent Memory Framework With A Retrieval-Score Error Bound**|Baixi Sun et.al.|[2609.32256](http://arxiv.org/abs/2609.32256)|
 |**2026-09-26**|**PastForward: Faster On-Device GUI Agents via Computational Experience Reuse**|Taehwan Park et.al.|[2609.32166](http://arxiv.org/abs/2609.32166)|
-|**2026-09-25**|**DeepEdu-v1: Efficient and Scalable Agentic LLMs for Vietnamese Education**|Quang Nguyen et.al.|[2609.31568](http://arxiv.org/abs/2609.31568)|
 |**2026-09-25**|**ActKV: Efficient LLM Agents through Action-Guided KV Cache Management**|Zihan Wang et.al.|[2609.31395](http://arxiv.org/abs/2609.31395)|
 |**2026-09-24**|**GRASP: Generating, Revising, and Assessing for Strategic Planning with Agentic AI**|Arunabh Srivastava et.al.|[2609.30147_(EMNLP)](http://arxiv.org/abs/2609.30147)|
 |**2026-09-24**|**Task-Oriented Key-Layer KV Communication for Efficient Latent Multi-Agent Collaboration**|Dongsen Zhang et.al.|[2610.08820](http://arxiv.org/abs/2610.08820)|

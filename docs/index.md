@@ -12,6 +12,7 @@ _Updated on 2026.11.20_
 |:-------------|:------|:--------|:----|
 |**2026-11-18**|**TCC-RAG: Temporal Causal Chain-Guided RAG for Temporal Knowledge Graph Question Answering**|Xinxun Zhang et.al.|[2610.38366_(ICDE)](http://arxiv.org/abs/2610.38366)|
 |**2026-11-18**|**KnowledgeClaw: Towards Agentic Knowledge Engineering via Omnimodal Hypergraphs**|Haoran Luo et.al.|[2611.24294](http://arxiv.org/abs/2611.24294)|
+|**2026-11-18**|**LSP-RAG: Latent Scoring Perspectives for Knowledge Graph Retrieval-Augmented Generation**|Haochen Liu et.al.|[2611.25229](http://arxiv.org/abs/2611.25229)|
 |**2026-11-17**|**Multi-Granularity Context-Enhanced RAG over Multimodal Knowledge Graphs**|Zongyu Wu et.al.|[2608.25986](http://arxiv.org/abs/2608.25986)|
 |**2026-11-17**|**RAG in a Trenchcoat: When Minimal Memory Is Enough for Agentic Systems, and When It Isn't**|Jingyu Liu et.al.|[2611.22179_(NeurIPS)](http://arxiv.org/abs/2611.22179)|
 |**2026-11-14**|**KaleidoKV: Rearranging Evidence for Efficient KV Cache Reuse in Offline RAG Inference**|Peiting Xie et.al.|[2611.19253](http://arxiv.org/abs/2611.19253)|
