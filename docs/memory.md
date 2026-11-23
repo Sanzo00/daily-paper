@@ -360,7 +360,7 @@ _Updated on 2026.11.23_
 |**2026-11-07**|**MMGraph-Agent: Agentic Multimodal RAG via Cache-Inspired Multimodal Knowledge HyperGraphs**|Haoran Luo et.al.|[2611.10657_(NeurIPS)](http://arxiv.org/abs/2611.10657)|
 |**2026-11-07**|**PatternBloom: Empowering Agentic RAG with Externalized RL-Distilled Graph Patterns**|Yi Ge et.al.|[2611.10477_(NeurIPS)](http://arxiv.org/abs/2611.10477)|
 |**2026-11-07**|**Hibana: Fast Agentic Inference on Unified-Memory Devices**|Yahya Emara et.al.|[2611.10469](http://arxiv.org/abs/2611.10469)|
-|**2026-11-07**|**Embodied Science Agents: Making Embodied Experimental Design Learnable**|Yihang Che et.al.|[2611.12958](http://arxiv.org/abs/2611.12958)|
+|**2026-11-07**|**Embodied Science Agents: Making Embodied Experimental Design Learnable**|Yihang Chen et.al.|[2611.12958](http://arxiv.org/abs/2611.12958)|
 |**2026-11-06**|**Introducing Cluster Efficiency to LLM Serving: Pooling Economical Accelerators over Fast Interconnects**|Youhe Jiang et.al.|[2611.02975](http://arxiv.org/abs/2611.02975)|
 |**2026-11-06**|**MXCode: Vector Quantization for MX-Native Inference at Scale**|Gaurav Kolhe et.al.|[2611.00403](http://arxiv.org/abs/2611.00403)|
 |**2026-11-06**|**Octopus: One Brain, Many Branches for Latent-KV Multi-Agent Reinforcement Learning**|Tianming Sha et.al.|[2611.06956](http://arxiv.org/abs/2611.06956)|
