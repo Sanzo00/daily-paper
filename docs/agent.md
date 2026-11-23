@@ -6,10 +6,13 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.11.22_
+_Updated on 2026.11.23_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-11-20**|**Agentic Coding in the Wild: Characterizing GitHub Copilot Traces at Production Scale**|Banruo Liu et.al.|[2608.00101](http://arxiv.org/abs/2608.00101)|
+|**2026-11-20**|**MemT-1.0: Towards Memory-Native Evolution**|Zhiyu Li et.al.|[2610.26825](http://arxiv.org/abs/2610.26825)|
+|**2026-11-20**|**Contexture: Runtime Context Eviction for High-Throughput Agent Serving**|Colin Hong et.al.|[2611.26980](http://arxiv.org/abs/2611.26980)|
 |**2026-11-19**|**DeepEdu-F: A Framework for Efficient and Scalable Agentic LLMs in Vietnamese Education**|Quang Nguyen et.al.|[2609.31568](http://arxiv.org/abs/2609.31568)|
 |**2026-11-19**|**Characterizing High Bandwidth Flash for LLM Serving**|Zack Yu et.al.|[2609.39131_(DATE)](http://arxiv.org/abs/2609.39131)|
 |**2026-11-19**|**TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming**|Jinbin Luo et.al.|[2611.26619](http://arxiv.org/abs/2611.26619)|
@@ -23,7 +26,6 @@ _Updated on 2026.11.22_
 |**2026-11-18**|**GateWatch: Low-Overhead LLM Monitoring with Boolean Circuits**|Firas Spanioli et.al.|[2611.24619](http://arxiv.org/abs/2611.24619)|
 |**2026-11-18**|**Polymorph: Operating System Kernel Optimization Through Artificial Intelligence**|Dean Sysman et.al.|[2611.23644](http://arxiv.org/abs/2611.23644)|
 |**2026-11-18**|**TripleKV: Predict, Prefetch, Protect -- KV Cache Management for AI Agents**|Shashwat Jaiswal et.al.|[2611.25112](http://arxiv.org/abs/2611.25112)|
-|**2026-11-17**|**MemT-1.0: Towards Memory-Native Evolution**|Zhiyu Li et.al.|[2610.26825](http://arxiv.org/abs/2610.26825)|
 |**2026-11-17**|**LaFlash: Capacity-Driven Acceleration for Coding Agent Workflows via QLC-HBF**|Yuseon Choi et.al.|[2611.22746](http://arxiv.org/abs/2611.22746)|
 |**2026-11-17**|**The Between-Round Decision in Autonomous Research: An LLM Controller That Reads the Whole Trajectory**|Caoxin Wang et.al.|[2611.22661](http://arxiv.org/abs/2611.22661)|
 |**2026-11-17**|**Safe to Omit, Worth Omitting? Keeping the Answer and Cutting Latency When an LLM Agent Skips Another's Message**|Xinyang Li et.al.|[2611.23570_(ICLR)](http://arxiv.org/abs/2611.23570)|
@@ -347,7 +349,6 @@ _Updated on 2026.11.22_
 |**2026-07-30**|**A Policy-Driven Runtime Layer for Agentic LLM Serving**|Rui Zhang et.al.|[2605.27744](http://arxiv.org/abs/2605.27744)|
 |**2026-07-30**|**VISA: A Structured Description Protocol for Agent-Based Simulation Models Towards Machine Reproducibility**|Zhou He et.al.|[2607.28027](http://arxiv.org/abs/2607.28027)|
 |**2026-07-30**|**RELIC: Revealed Principles for Learning Interpretable Composable Skills in Multi-Agent Planning**|Nguyen Viet Tuan Kiet et.al.|[2607.16745_(CHI)](http://arxiv.org/abs/2607.16745)|
-|**2026-07-30**|**Agentic Coding in the Wild: Characterizing GitHub Copilot Traces at Production Scale**|Banruo Liu et.al.|[2608.00101](http://arxiv.org/abs/2608.00101)|
 |**2026-07-29**|**DualDecoder: Accelerate Long Context LLM Inference by Predictive Prefetch**|Zuning Liang et.al.|[2607.26475](http://arxiv.org/abs/2607.26475)|
 |**2026-07-29**|**PowerAtlas: Towards Electricity-Computing Co-Scheduling for Power Systems**|Kaiwen Jiang et.al.|[2607.26710](http://arxiv.org/abs/2607.26710)|
 |**2026-07-29**|**NELSSA: A GPU-PNM Heterogeneous System for Mixed-Length LLM Serving via Length-based Request Placement**|Sookyung Choi et.al.|[2607.26633_(CHI)](http://arxiv.org/abs/2607.26633)|

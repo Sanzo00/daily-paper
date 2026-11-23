@@ -6,10 +6,15 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.11.22_
+_Updated on 2026.11.23_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-11-20**|**FOREST: Coordinating Tree-based HBF, RRAM, and HBM for Efficient Speculative LLM Inference**|Hao Ding et.al.|[2611.27701](http://arxiv.org/abs/2611.27701)|
+|**2026-11-20**|**Contexture: Runtime Context Eviction for High-Throughput Agent Serving**|Colin Hong et.al.|[2611.26980](http://arxiv.org/abs/2611.26980)|
+|**2026-11-20**|**MemOnce: A Scalable Memory Architecture for Large Language Models**|Chang Nie et.al.|[2611.27973](http://arxiv.org/abs/2611.27973)|
+|**2026-11-20**|**QuantStream3D: Geometry-Aligned Low-Bit KV Cache Quantization for Streaming Visual Geometry Transformers**|Zunhai Su et.al.|[2611.27901](http://arxiv.org/abs/2611.27901)|
+|**2026-11-20**|**Do Language Models Know Which Words Steer Their Reasoning?**|Yanbei Jiang et.al.|[2611.27317](http://arxiv.org/abs/2611.27317)|
 |**2026-11-19**|**TriAxialKV: Toward Extreme Low-Precision KV-Cache Quantization for Agentic Inference Tasks**|Hanzhang Shen et.al.|[2605.17170_(NeurIPS)](http://arxiv.org/abs/2605.17170)|
 |**2026-11-19**|**DeepEdu-F: A Framework for Efficient and Scalable Agentic LLMs in Vietnamese Education**|Quang Nguyen et.al.|[2609.31568](http://arxiv.org/abs/2609.31568)|
 |**2026-11-19**|**Characterizing High Bandwidth Flash for LLM Serving**|Zack Yu et.al.|[2609.39131_(DATE)](http://arxiv.org/abs/2609.39131)|
@@ -19,6 +24,7 @@ _Updated on 2026.11.22_
 |**2026-11-19**|**BlockJack: Cross-Tenant Redirection Fault Attacks on Paged KV Cache Address Translation in LLM Serving**|Qifan Wang et.al.|[2611.25945](http://arxiv.org/abs/2611.25945)|
 |**2026-11-19**|**RoCoKV: Accelerating LLM Inference Serving through Uncertainty and Redundancy Aware KV Cache Compression**|Payman Behnam et.al.|[2611.25433](http://arxiv.org/abs/2611.25433)|
 |**2026-11-19**|**Ask in the Crowd: Differentially Private LLM Inference via Dummy-Augmented Shuffling**|Zhihao Liu et.al.|[2611.25669](http://arxiv.org/abs/2611.25669)|
+|**2026-11-19**|**CarrierKV: An Edge LLM Accelerator with Positional Carrier Decomposition for Low-Bit KV Cache**|Junyi Luo et.al.|[2611.26857](http://arxiv.org/abs/2611.26857)|
 |**2026-11-18**|**SPLASH: Co-Designing Flash-Aware Sparse Attention with a Virtualized HBM-HBF Hierarchy**|Aditya Anirudh Jonnalagadda et.al.|[2609.23816](http://arxiv.org/abs/2609.23816)|
 |**2026-11-18**|**A Flat KV Cache Storage Architecture for LLM Serving**|Xin Huang et.al.|[2610.38355](http://arxiv.org/abs/2610.38355)|
 |**2026-11-18**|**When Shuffling Fails: Token Recovery from Obfuscated KV Caches**|Chengzhi Yi et.al.|[2611.24276](http://arxiv.org/abs/2611.24276)|
