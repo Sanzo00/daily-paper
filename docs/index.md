@@ -10,7 +10,7 @@ _Updated on 2026.11.24_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
-|**2026-11-23**|**SuSi-RAG: A Hybrid Graph RAG for Equipment Maintenance**|Hansi Zhang+ et.al.|[2611.30588_(SC)](http://arxiv.org/abs/2611.30588)|
+|**2026-11-23**|**SuSi-RAG: A Hybrid Graph RAG for Equipment Maintenance**|Hansi Zhang et.al.|[2611.30588_(SC)](http://arxiv.org/abs/2611.30588)|
 |**2026-11-20**|**GERF: A Token-Efficient Multimodal Retrieval Framework for Schema-Guided Scientific Information Extraction**|Yiyu Qian et.al.|[2611.28295](http://arxiv.org/abs/2611.28295)|
 |**2026-11-18**|**TCC-RAG: Temporal Causal Chain-Guided RAG for Temporal Knowledge Graph Question Answering**|Xinxun Zhang et.al.|[2610.38366_(ICDE)](http://arxiv.org/abs/2610.38366)|
 |**2026-11-18**|**KnowledgeClaw: Towards Agentic Knowledge Engineering via Omnimodal Hypergraphs**|Haoran Luo et.al.|[2611.24294](http://arxiv.org/abs/2611.24294)|
