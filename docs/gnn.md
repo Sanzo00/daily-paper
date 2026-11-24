@@ -6,10 +6,11 @@ nav_order: 3
 
 # GNN Papers
 
-_Updated on 2026.11.23_
+_Updated on 2026.11.24_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-11-22**|**Graph Neural Networks for Accurate Quasiparticle Energy Levels in Large Supercells of Transition Metal Dichalcogenides**|Rafael R. Del Grande et.al.|[2611.29349](http://arxiv.org/abs/2611.29349)|
 |**2026-11-19**|**Phantom of the Masquerade: Graph Neural Network-Based Detection of Masquerade Attacks in Controller Area Networks**|Nehal Ameen et.al.|[2611.26094](http://arxiv.org/abs/2611.26094)|
 |**2026-11-08**|**GARDEN: Efficient GPU-Accelerated Billion-Scale GNN Training via Caching-Sampling-Batching Co-Design**|Qingrui Zhu et.al.|[2611.11043](http://arxiv.org/abs/2611.11043)|
 |**2026-11-02**|**Resilient Cell-Free MIMO ISAC Under Uncertainties: An Impairment-Aware Graph Neural Network Framework**|Oways Alsoloh et.al.|[2611.03054_(ICC)](http://arxiv.org/abs/2611.03054)|

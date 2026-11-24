@@ -6,13 +6,21 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.11.23_
+_Updated on 2026.11.24_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-11-23**|**Cascade: Exploiting SLO-Aware latency budget for fair and high goodput LLM inference serving**|Muhammad Adnan et.al.|[2608.06557](http://arxiv.org/abs/2608.06557)|
+|**2026-11-23**|**MemT-1.0: Towards Memory-Native Evolution**|Zhiyu Li et.al.|[2610.26825](http://arxiv.org/abs/2610.26825)|
+|**2026-11-23**|**LiveLoRA: Exact KV Cache Migration Across LoRA Updates for LLM Agents**|Tianyi Huang et.al.|[2611.31105_(NeurIPS)](http://arxiv.org/abs/2611.31105)|
+|**2026-11-23**|**TideSand: Performance-Accurate Sandbox Multiplexing for LLM Agents**|Shulu Li et.al.|[2611.31118](http://arxiv.org/abs/2611.31118)|
+|**2026-11-23**|**AutoSECO: Automated Skill Evolution for Cross-Problem Combinatorial Optimization with General-Purpose LLM Agents**|Zirui Zhu et.al.|[2611.30139](http://arxiv.org/abs/2611.30139)|
+|**2026-11-21**|**TripleKV: Predict, Prefetch, Protect - KV Cache Management for AI Agents**|Shashwat Jaiswal et.al.|[2611.25112](http://arxiv.org/abs/2611.25112)|
+|**2026-11-21**|**Consumer-Time Validity in Stateful AI Runtimes: Verifying Recovered State and Deferred Authority**|Guijia Zhang et.al.|[2611.29004](http://arxiv.org/abs/2611.29004)|
+|**2026-11-21**|**The Evaluation Substrate Matters: Benchmarking Multi-Agent Serving Substrates**|Haoyuan Zheng et.al.|[2611.28671](http://arxiv.org/abs/2611.28671)|
 |**2026-11-20**|**Agentic Coding in the Wild: Characterizing GitHub Copilot Traces at Production Scale**|Banruo Liu et.al.|[2608.00101](http://arxiv.org/abs/2608.00101)|
-|**2026-11-20**|**MemT-1.0: Towards Memory-Native Evolution**|Zhiyu Li et.al.|[2610.26825](http://arxiv.org/abs/2610.26825)|
 |**2026-11-20**|**Contexture: Runtime Context Eviction for High-Throughput Agent Serving**|Colin Hong et.al.|[2611.26980](http://arxiv.org/abs/2611.26980)|
+|**2026-11-20**|**Schedule, Rank, Profile: Continuous Evaluation of LLM Agents in Games**|Martyna Plomecka et.al.|[2611.28368](http://arxiv.org/abs/2611.28368)|
 |**2026-11-19**|**DeepEdu-F: A Framework for Efficient and Scalable Agentic LLMs in Vietnamese Education**|Quang Nguyen et.al.|[2609.31568](http://arxiv.org/abs/2609.31568)|
 |**2026-11-19**|**Characterizing High Bandwidth Flash for LLM Serving**|Zack Yu et.al.|[2609.39131_(DATE)](http://arxiv.org/abs/2609.39131)|
 |**2026-11-19**|**TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming**|Jinbin Luo et.al.|[2611.26619](http://arxiv.org/abs/2611.26619)|
@@ -25,7 +33,6 @@ _Updated on 2026.11.23_
 |**2026-11-18**|**Say Shibboleth: Fingerprinting the LLMs and Harnesses Behind Agentic Attacks**|Dario Pasquini et.al.|[2611.12386](http://arxiv.org/abs/2611.12386)|
 |**2026-11-18**|**GateWatch: Low-Overhead LLM Monitoring with Boolean Circuits**|Firas Spanioli et.al.|[2611.24619](http://arxiv.org/abs/2611.24619)|
 |**2026-11-18**|**Polymorph: Operating System Kernel Optimization Through Artificial Intelligence**|Dean Sysman et.al.|[2611.23644](http://arxiv.org/abs/2611.23644)|
-|**2026-11-18**|**TripleKV: Predict, Prefetch, Protect -- KV Cache Management for AI Agents**|Shashwat Jaiswal et.al.|[2611.25112](http://arxiv.org/abs/2611.25112)|
 |**2026-11-17**|**LaFlash: Capacity-Driven Acceleration for Coding Agent Workflows via QLC-HBF**|Yuseon Choi et.al.|[2611.22746](http://arxiv.org/abs/2611.22746)|
 |**2026-11-17**|**The Between-Round Decision in Autonomous Research: An LLM Controller That Reads the Whole Trajectory**|Caoxin Wang et.al.|[2611.22661](http://arxiv.org/abs/2611.22661)|
 |**2026-11-17**|**Safe to Omit, Worth Omitting? Keeping the Answer and Cutting Latency When an LLM Agent Skips Another's Message**|Xinyang Li et.al.|[2611.23570_(ICLR)](http://arxiv.org/abs/2611.23570)|
@@ -330,7 +337,6 @@ _Updated on 2026.11.23_
 |**2026-08-07**|**From Single Chatbots to Governed Agent Ecosystems: An Agentic AI Pattern Catalogue and Orchestration Framework for Mission-Critical Hospital Information Management Systems**|Manideep Dhar et.al.|[2608.07627](http://arxiv.org/abs/2608.07627)|
 |**2026-08-06**|**TokTier: Exact Stateful CPU+GPU Tokenization for Agentic LLM Serving**|Zhenyu Zhang et.al.|[2607.29678](http://arxiv.org/abs/2607.29678)|
 |**2026-08-06**|**TensorCast: The Missing Tensor Management Layer in Large Language Model Infrastructure**|Yuhan Zhou et.al.|[2608.06007](http://arxiv.org/abs/2608.06007)|
-|**2026-08-06**|**Cascade: Exploiting SLO-Aware latency budget for fair and high goodput LLM inference serving**|Muhammad Adnan et.al.|[2608.06557](http://arxiv.org/abs/2608.06557)|
 |**2026-08-05**|**A CXL Memory Rack for Multi-Turn LLM Serving**|Hakbeom Jang et.al.|[2607.18141](http://arxiv.org/abs/2607.18141)|
 |**2026-08-05**|**SpecBox: Speculative Sandbox Scheduling for Efficient LLM Agent Serving**|Yihui Zhang et.al.|[2607.23933](http://arxiv.org/abs/2607.23933)|
 |**2026-08-05**|**Architectural Implications of Agentic AI Workflows**|Jirong Yang et.al.|[2608.04458](http://arxiv.org/abs/2608.04458)|
