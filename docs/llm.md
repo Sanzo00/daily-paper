@@ -6,10 +6,14 @@ nav_order: 2
 
 # LLM Papers
 
-_Updated on 2026.11.24_
+_Updated on 2026.11.25_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-11-24**|**LoomKV: Lossless KV Cache Compression from GPU Memory to SSD for LLM Serving**|Wentao Zhu et.al.|[2611.32954](http://arxiv.org/abs/2611.32954)|
+|**2026-11-24**|**ModelLess: A Serverless System for Multi-Tier LLM Inference on Shared GPUs**|Ding Shi et.al.|[2611.32634](http://arxiv.org/abs/2611.32634)|
+|**2026-11-24**|**Mayfly: Lifecycle-Aware High-Bandwidth Flash for Recursive Self-Improvement**|Chunlin Tian et.al.|[2611.32264](http://arxiv.org/abs/2611.32264)|
+|**2026-11-24**|**Safe to Omit, Worth Omitting? Keeping the Answer and Cutting Latency When an LLM Agent Skips Another's Message**|Xinyang Li et.al.|[2611.23570_(ATC)](http://arxiv.org/abs/2611.23570)|
 |**2026-11-23**|**Cascade: Exploiting SLO-Aware latency budget for fair and high goodput LLM inference serving**|Muhammad Adnan et.al.|[2608.06557](http://arxiv.org/abs/2608.06557)|
 |**2026-11-23**|**FOLD: Position-Free Far Memory with Local Order for Long-Context Speculative Decoding**|Shuxuan Li et.al.|[2610.20392](http://arxiv.org/abs/2610.20392)|
 |**2026-11-23**|**LiveLoRA: Exact KV Cache Migration Across LoRA Updates for LLM Agents**|Tianyi Huang et.al.|[2611.31105_(NeurIPS)](http://arxiv.org/abs/2611.31105)|
@@ -136,6 +140,7 @@ _Updated on 2026.11.24_
 |**2026-10-22**|**SARIA: Persistence-Aware KV Caching with Coordinated DRAM--SSD Reload for LLM Agents**|Hui Li et.al.|[2610.31169](http://arxiv.org/abs/2610.31169)|
 |**2026-10-22**|**KVStream: Adaptive Parallel Storage Management for KV Caching in Large-Scale LLM Serving**|Avinash Maurya et.al.|[2610.31827](http://arxiv.org/abs/2610.31827)|
 |**2026-10-21**|**Cache Locally, Recompute Selectively for Streaming Video Understanding**|Junhyeok Lee et.al.|[2610.29229](http://arxiv.org/abs/2610.29229)|
+|**2026-10-21**|**SD-Cache: Learnable Memory Consolidation with State-Guided Dynamic Caching**|Yuanhong Chen et.al.|[2611.31265](http://arxiv.org/abs/2611.31265)|
 |**2026-10-20**|**Cache Engineering for Agents**|Tianyu Fu et.al.|[2610.28577](http://arxiv.org/abs/2610.28577)|
 |**2026-10-20**|**The Token-Energy Law of LLM Decode: Active Bytes and Realized Time Account for Joules per Token**|Chenxu Niu et.al.|[2610.28576](http://arxiv.org/abs/2610.28576)|
 |**2026-10-20**|**Local Inference of LLMs on Long Contexts: A Data Systems Perspective**|Mattias Dürrmeier et.al.|[2610.28223](http://arxiv.org/abs/2610.28223)|

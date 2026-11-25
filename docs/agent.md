@@ -6,10 +6,17 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.11.24_
+_Updated on 2026.11.25_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-11-24**|**CommitKV: Commit-Aligned KV Cache Compression for Multimodal Agents**|Weizhong Huang et.al.|[2608.07855](http://arxiv.org/abs/2608.07855)|
+|**2026-11-24**|**Safe to Omit, Worth Omitting? Keeping the Answer and Cutting Latency When an LLM Agent Skips Another's Message**|Xinyang Li et.al.|[2611.23570_(ATC)](http://arxiv.org/abs/2611.23570)|
+|**2026-11-24**|**LLM-based Personalized Travel Planner**|Amandi Nimasha et.al.|[2611.25531](http://arxiv.org/abs/2611.25531)|
+|**2026-11-24**|**LoomKV: Lossless KV Cache Compression from GPU Memory to SSD for LLM Serving**|Wentao Zhu et.al.|[2611.32954](http://arxiv.org/abs/2611.32954)|
+|**2026-11-24**|**ModelLess: A Serverless System for Multi-Tier LLM Inference on Shared GPUs**|Ding Shi et.al.|[2611.32634](http://arxiv.org/abs/2611.32634)|
+|**2026-11-24**|**Mayfly: Lifecycle-Aware High-Bandwidth Flash for Recursive Self-Improvement**|Chunlin Tian et.al.|[2611.32264](http://arxiv.org/abs/2611.32264)|
+|**2026-11-24**|**RePrism: Joint Request and Representation Scheduling for LLM Agent Serving**|Xijiang Shen et.al.|[2611.32545](http://arxiv.org/abs/2611.32545)|
 |**2026-11-23**|**Cascade: Exploiting SLO-Aware latency budget for fair and high goodput LLM inference serving**|Muhammad Adnan et.al.|[2608.06557](http://arxiv.org/abs/2608.06557)|
 |**2026-11-23**|**MemT-1.0: Towards Memory-Native Evolution**|Zhiyu Li et.al.|[2610.26825](http://arxiv.org/abs/2610.26825)|
 |**2026-11-23**|**LiveLoRA: Exact KV Cache Migration Across LoRA Updates for LLM Agents**|Tianyi Huang et.al.|[2611.31105_(NeurIPS)](http://arxiv.org/abs/2611.31105)|
@@ -26,16 +33,13 @@ _Updated on 2026.11.24_
 |**2026-11-19**|**TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming**|Jinbin Luo et.al.|[2611.26619](http://arxiv.org/abs/2611.26619)|
 |**2026-11-19**|**Aggron: Aggressive Compression of Agentic KV Caches during Head-of-Line Stalls in the Request Queue**|Rishabh Ravi et.al.|[2611.26435](http://arxiv.org/abs/2611.26435)|
 |**2026-11-19**|**The FrontierOR Challenge: Agentic Algorithm Design for Operations Research**|Hai Wang et.al.|[2611.26171](http://arxiv.org/abs/2611.26171)|
-|**2026-11-19**|**LM-based Personalized Travel Planner**|Amandi Nimasha et.al.|[2611.25531](http://arxiv.org/abs/2611.25531)|
 |**2026-11-19**|**FrontierReplay: Split-Free Exact Prefix Caching for Hybrid Language Models**|Zekun Wang et.al.|[2611.26020](http://arxiv.org/abs/2611.26020)|
-|**2026-11-18**|**CommitKV: Commit-Aligned KV Cache Compression for Multimodal Agents**|Weizhong Huang et.al.|[2608.07855](http://arxiv.org/abs/2608.07855)|
 |**2026-11-18**|**A Flat KV Cache Storage Architecture for LLM Serving**|Xin Huang et.al.|[2610.38355](http://arxiv.org/abs/2610.38355)|
 |**2026-11-18**|**Say Shibboleth: Fingerprinting the LLMs and Harnesses Behind Agentic Attacks**|Dario Pasquini et.al.|[2611.12386](http://arxiv.org/abs/2611.12386)|
 |**2026-11-18**|**GateWatch: Low-Overhead LLM Monitoring with Boolean Circuits**|Firas Spanioli et.al.|[2611.24619](http://arxiv.org/abs/2611.24619)|
 |**2026-11-18**|**Polymorph: Operating System Kernel Optimization Through Artificial Intelligence**|Dean Sysman et.al.|[2611.23644](http://arxiv.org/abs/2611.23644)|
 |**2026-11-17**|**LaFlash: Capacity-Driven Acceleration for Coding Agent Workflows via QLC-HBF**|Yuseon Choi et.al.|[2611.22746](http://arxiv.org/abs/2611.22746)|
 |**2026-11-17**|**The Between-Round Decision in Autonomous Research: An LLM Controller That Reads the Whole Trajectory**|Caoxin Wang et.al.|[2611.22661](http://arxiv.org/abs/2611.22661)|
-|**2026-11-17**|**Safe to Omit, Worth Omitting? Keeping the Answer and Cutting Latency When an LLM Agent Skips Another's Message**|Xinyang Li et.al.|[2611.23570_(ICLR)](http://arxiv.org/abs/2611.23570)|
 |**2026-11-17**|**Securing and Auditing Long-Horizon LLM Agents: State-Transfer Auditing and Controls in the Agent Harness**|Deep Shah et.al.|[2611.23346](http://arxiv.org/abs/2611.23346)|
 |**2026-11-17**|**Towards Fair Resource Sharing in Agentic LLM Serving**|Sehyeon Lee et.al.|[2611.23558](http://arxiv.org/abs/2611.23558)|
 |**2026-11-17**|**Arbor: How Search Policy Shapes Agent Behavior in System Optimization**|Neha Prakriya et.al.|[2606.12563](http://arxiv.org/abs/2606.12563)|

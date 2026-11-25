@@ -6,10 +6,11 @@ nav_order: 1
 
 # RAG Papers
 
-_Updated on 2026.11.24_
+_Updated on 2026.11.25_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-11-24**|**SPARQL-Planned Single-Hop Traversal over a Live Knowledge Graph for Multi-Hop Question Answering**|Priyesh Vakharia et.al.|[2611.31771_(ACL)](http://arxiv.org/abs/2611.31771)|
 |**2026-11-23**|**SuSi-RAG: A Hybrid Graph RAG for Equipment Maintenance**|Hansi Zhang et.al.|[2611.30588_(SC)](http://arxiv.org/abs/2611.30588)|
 |**2026-11-20**|**GERF: A Token-Efficient Multimodal Retrieval Framework for Schema-Guided Scientific Information Extraction**|Yiyu Qian et.al.|[2611.28295](http://arxiv.org/abs/2611.28295)|
 |**2026-11-18**|**TCC-RAG: Temporal Causal Chain-Guided RAG for Temporal Knowledge Graph Question Answering**|Xinxun Zhang et.al.|[2610.38366_(ICDE)](http://arxiv.org/abs/2610.38366)|
@@ -47,6 +48,7 @@ _Updated on 2026.11.24_
 |**2026-10-23**|**GEMS-RAG: Graph-grounded Engineering Multimodal Standards Retrieval-Augmented Generation**|Abdul Hannan Azad et.al.|[2610.33277](http://arxiv.org/abs/2610.33277)|
 |**2026-10-22**|**Automated Enrichment Analysis with GraphRAG: Efficient Multi-Database ORA Extraction and Biological Interpretation**|Guangcan Li et.al.|[2610.30710_(BIBM)](http://arxiv.org/abs/2610.30710)|
 |**2026-10-21**|**Graph Topology Meets Energy-Driven Pathfinding: Preserving Contextual Consistency in Retrieval-Augmented Generation**|Yufeng Li et.al.|[2610.29933_(EMNLP)](http://arxiv.org/abs/2610.29933)|
+|**2026-10-21**|**SD-Cache: Learnable Memory Consolidation with State-Guided Dynamic Caching**|Yuanhong Chen et.al.|[2611.31265](http://arxiv.org/abs/2611.31265)|
 |**2026-10-19**|**StrucChunk: Structure-Aware Retrieval for Legal Document RAG**|Surya Deep Singh et.al.|[2610.26313](http://arxiv.org/abs/2610.26313)|
 |**2026-10-16**|**RIT-RAG: Navigating Document Corpora with Retrieval-Induced Trees**|Meghanadh Pulivarthi et.al.|[2610.11370](http://arxiv.org/abs/2610.11370)|
 |**2026-10-16**|**Stealthy Poisoning Attacks via Reused KV Cache of Reasoning**|L. Zhu et.al.|[2610.22873](http://arxiv.org/abs/2610.22873)|
