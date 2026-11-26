@@ -11,6 +11,8 @@ _Updated on 2026.11.26_
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
 |**2026-11-25**|**RSI-PDEbench: A Benchmark for Self-Improving Agents in PDE Solving**|Binghang Lu et.al.|[2611.14949](http://arxiv.org/abs/2611.14949)|
+|**2026-11-25**|**Quantization for Action, Execution for Deployment: Joint Precision and Execution Selection for World Action Models**|Tianqi Li et.al.|[2611.30195](http://arxiv.org/abs/2611.30195)|
+|**2026-11-25**|**GUI-Q: Task-Sensitive Granularity and Relation-Preserving Quantization for GUI Agents**|Tianqi Li et.al.|[2611.30170](http://arxiv.org/abs/2611.30170)|
 |**2026-11-25**|**Intelligence as a Founding Principle: The O-RAN Architecture for Artificial Intelligence and Its Reference Implementations**|Chih-Lin I et.al.|[2611.28282_(DATE)](http://arxiv.org/abs/2611.28282)|
 |**2026-11-25**|**LEGOSpec: A Composable and Efficient Framework for Speculative Draft Design and Training**|Hanzhen Wang et.al.|[2611.33004](http://arxiv.org/abs/2611.33004)|
 |**2026-11-25**|**Agentic LongLive: Asynchronous Agentic Memory for Long Video Generation**|Shaoteng Liu et.al.|[2611.34907](http://arxiv.org/abs/2611.34907)|
@@ -28,6 +30,14 @@ _Updated on 2026.11.26_
 |**2026-11-25**|**MMotion: Collaborative Cross-Scale Memory for Text-to-Motion Generation**|Zhaoxin Fan et.al.|[2611.33819](http://arxiv.org/abs/2611.33819)|
 |**2026-11-25**|**Read Before You Use: Improving Visual Memory Utilization in Vision-Language Models**|Junseok Kim et.al.|[2611.33687](http://arxiv.org/abs/2611.33687)|
 |**2026-11-25**|**Failure Broadens, Success Sharpens: Continual Adaptation of Tool-Use Agents Across Diverse Tasks with Dual-Polarity Memory**|Tianmai M. Zhang et.al.|[2611.33612_(NeurIPS)](http://arxiv.org/abs/2611.33612)|
+|**2026-11-25**|**Toward Agentic Robotics: A Large-Scale Study of Harness Design for Robot-Use Agents**|Yuxiang Lai et.al.|[2611.34778](http://arxiv.org/abs/2611.34778)|
+|**2026-11-25**|**DFly2: Turbocharging Long-Context Speculative Decoding by Sharing the Target's Sparsity**|Hong Liu et.al.|[2611.34776](http://arxiv.org/abs/2611.34776)|
+|**2026-11-25**|**RoboEvo$^2$: Recursive Robot Self-Improvement via Harness-Policy Co-Evolution**|Chenzhi Liu et.al.|[2611.34675](http://arxiv.org/abs/2611.34675)|
+|**2026-11-25**|**Compact Vision-Language Navigation in Continuous Environmentsvia On-Policy Training and Route-Bearing Output**|Reshad Ul Karim et.al.|[2611.34561](http://arxiv.org/abs/2611.34561)|
+|**2026-11-25**|**DéjàVu: Plurality Consensus by First Repetition**|Niccolò D'Archivio et.al.|[2611.34534](http://arxiv.org/abs/2611.34534)|
+|**2026-11-25**|**StateWeaver: Multi-Agent Coordination of Story-State Transitions for Long-Horizon Video Generation**|Modi Jin et.al.|[2611.34290](http://arxiv.org/abs/2611.34290)|
+|**2026-11-25**|**Navigent: A Geometry-Grounded Agentic Framework for Vision Language Navigation**|Xinyu Zhou et.al.|[2611.34249](http://arxiv.org/abs/2611.34249)|
+|**2026-11-25**|**MetaDecomp: Adaptive Task Decomposition via Meta-Learned Procedural Memory**|Ziyi Wang et.al.|[2611.33822](http://arxiv.org/abs/2611.33822)|
 |**2026-11-24**|**Selection Integrity for LLM Graph Memory: An Accumulability Criterion for Information-Flow-Blind Retrieval**|Zeming Fei et.al.|[2606.12290](http://arxiv.org/abs/2606.12290)|
 |**2026-11-24**|**From Reflection to Co-Evolution: Self-Evolving Agents with Locally Verified Memory**|Xinxiang Yin et.al.|[2611.10382](http://arxiv.org/abs/2611.10382)|
 |**2026-11-24**|**RegimeCouncil: Paired-Evidence Routing For Memory Conflict Governance In LLM Agents**|Qingcan Kang et.al.|[2611.22113](http://arxiv.org/abs/2611.22113)|
@@ -72,6 +82,8 @@ _Updated on 2026.11.26_
 |**2026-11-24**|**Searching Ultra-Long Videos with Decision Models**|Ce Zhang et.al.|[2611.33368](http://arxiv.org/abs/2611.33368)|
 |**2026-11-24**|**NEVA: Natural-Language Co-Evolution and Validation of Microarchitectures**|Khoi Le et.al.|[2611.33346](http://arxiv.org/abs/2611.33346)|
 |**2026-11-24**|**Who Attributes a Mind to Whom? Mutual Theory of Mind in Simulated User-Assistant Conversation**|Mingxi Yan et.al.|[2611.33327](http://arxiv.org/abs/2611.33327)|
+|**2026-11-24**|**LogToPersona: New Benchmark and Efficient Persona Prediction through Semantic Log Filtering**|Ahmed Alajrami et.al.|[2611.33510](http://arxiv.org/abs/2611.33510)|
+|**2026-11-24**|**Soft Decentralized Expected SARSA: Equilibrium Selection via Gradual Adaptation**|Giuseppe Martucci et.al.|[2611.33228](http://arxiv.org/abs/2611.33228)|
 |**2026-11-23**|**SkillCome: Group Contrast Skill Optimization with Dual Memory**|Haolin Li et.al.|[2609.37128](http://arxiv.org/abs/2609.37128)|
 |**2026-11-23**|**FOLD: Position-Free Far Memory with Local Order for Long-Context Speculative Decoding**|Shuxuan Li et.al.|[2610.20392](http://arxiv.org/abs/2610.20392)|
 |**2026-11-23**|**TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks**|Xingchen AGI Lab et.al.|[2611.22115](http://arxiv.org/abs/2611.22115)|
@@ -97,9 +109,7 @@ _Updated on 2026.11.26_
 |**2026-11-23**|**MMMem: Self-Improving Agents with Task-Aware Multimodal Experience Consolidation**|Yuxuan Chen et.al.|[2611.30287](http://arxiv.org/abs/2611.30287)|
 |**2026-11-23**|**Innata-0: A Native Embodied World System with Model-Agent Co-Design**| Innata Team et.al.|[2611.30254](http://arxiv.org/abs/2611.30254)|
 |**2026-11-23**|**Composing Independently Distilled Memory and Retrieval Policies for Long-Term Agents**|Grigorii Davydenko et.al.|[2611.30230](http://arxiv.org/abs/2611.30230)|
-|**2026-11-23**|**Quantization for Action, Execution for Deployment: Joint Precision and Execution Selection for World Action Models**|Tianqi Li et.al.|[2611.30195](http://arxiv.org/abs/2611.30195)|
 |**2026-11-23**|**Retrieval-Augmented Generation in the Agentic Era: Tradition, Present, and Prospect**|Chenming Tang et.al.|[2611.30181](http://arxiv.org/abs/2611.30181)|
-|**2026-11-23**|**GUI-Q: Task-Sensitive Granularity and Relation-Preserving Quantization for GUI Agents**|Tianqi Li et.al.|[2611.30170](http://arxiv.org/abs/2611.30170)|
 |**2026-11-23**|**RoboLiveMem: Is Robot Memory Solved When the World Does Not Wait?**|Yunbei Zhang et.al.|[2611.30047](http://arxiv.org/abs/2611.30047)|
 |**2026-11-23**|**Synapse: An HBM-Coordinated HBF Near-Memory Computing Architecture for Pipelined Agentic AI Execution**|Juhyeong Jin et.al.|[2611.29901](http://arxiv.org/abs/2611.29901)|
 |**2026-11-23**|**Motion Mamba 2.0: Autoregressive Diffusion Mamba for Long-Horizon Humanoid Control**|Yue Huang et.al.|[2611.29897_(GROUP)](http://arxiv.org/abs/2611.29897)|
@@ -757,6 +767,7 @@ _Updated on 2026.11.26_
 |**2026-10-28**|**HEDGE: Gated Hypergraph Memory for Scalable Multi-Agent Debate**|Amirhossein Abaskohi et.al.|[2610.38902](http://arxiv.org/abs/2610.38902)|
 |**2026-10-28**|**CALM: Conflict-Aware Lifecycle Memory Governance for Long-Horizon Language Agents**|Chang Li et.al.|[2610.38573](http://arxiv.org/abs/2610.38573)|
 |**2026-10-28**|**Security Impact of Coding Agent's Memory Files**|Thiago Santos de Moura et.al.|[2610.38521](http://arxiv.org/abs/2610.38521)|
+|**2026-10-28**|**Semantic Density Does Not Predict Agent-Memory Collapse**|Saksham Gupta et.al.|[2611.33184](http://arxiv.org/abs/2611.33184)|
 |**2026-10-27**|**QuantForge: Discovering Residual Decompositions for MXFP4 Post-Training Quantization**|Qiulin Shang et.al.|[2609.34680](http://arxiv.org/abs/2609.34680)|
 |**2026-10-27**|**CertEx: Exact Visual Retrieval at Scale by Certified Exclusion**|Dongfang Zhao et.al.|[2610.21325](http://arxiv.org/abs/2610.21325)|
 |**2026-10-27**|**5uGUE: Agentic Hardware-in-the-Loop Fuzzing for 5G Devices and beyond**|Guoqiang Hua et.al.|[2610.29155](http://arxiv.org/abs/2610.29155)|
@@ -926,6 +937,7 @@ _Updated on 2026.11.26_
 |**2026-10-21**|**Externalise the Memory: A Pre-Registered Study of Where an Embodied Agent's Experience Should Live**|Cheng-Yin Tu et.al.|[2610.30478_(CHI)](http://arxiv.org/abs/2610.30478)|
 |**2026-10-21**|**Secure Agentic AI and Multimodal Intelligence in 6G Communication Systems**|Satyam Gaba et.al.|[2610.30436](http://arxiv.org/abs/2610.30436)|
 |**2026-10-21**|**SD-Cache: Learnable Memory Consolidation with State-Guided Dynamic Caching**|Yuanhong Chen et.al.|[2611.31265](http://arxiv.org/abs/2611.31265)|
+|**2026-10-21**|**MGMem: An Efficient, Deterministic, and Provenance-Preserving Framework for Long-Horizon Agent Memory**|Junhong Huang et.al.|[2611.33174](http://arxiv.org/abs/2611.33174)|
 |**2026-10-20**|**ECHO: An Auditable Dual-Path Memory System for Long-Horizon Agents**|Yu Qian et.al.|[2608.21755_(CHI)](http://arxiv.org/abs/2608.21755)|
 |**2026-10-20**|**Memorizing Who, Knowing How: Benchmarking Personal and Procedural Memory for Persistent Assistants**|Maosheng Qin et.al.|[2610.20022](http://arxiv.org/abs/2610.20022)|
 |**2026-10-20**|**SAFE-Mem: Secure Agentic Memory with Fine-Grained Authority and Governance-Aware Retrieval**|Haoming Li et.al.|[2610.22959](http://arxiv.org/abs/2610.22959)|
