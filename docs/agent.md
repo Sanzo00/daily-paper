@@ -6,10 +6,12 @@ nav_order: 4
 
 # Agent Papers
 
-_Updated on 2026.11.25_
+_Updated on 2026.11.26_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-11-25**|**Routing and Cache Retention for Multi-Turn LLM Inference: Theory and Implementation**|Sentao Miao et.al.|[2611.34584](http://arxiv.org/abs/2611.34584)|
+|**2026-11-25**|**Letting Models Manage Their Own Context: Where We Stand**|Alessio Devoto et.al.|[2611.34147](http://arxiv.org/abs/2611.34147)|
 |**2026-11-24**|**CommitKV: Commit-Aligned KV Cache Compression for Multimodal Agents**|Weizhong Huang et.al.|[2608.07855](http://arxiv.org/abs/2608.07855)|
 |**2026-11-24**|**Safe to Omit, Worth Omitting? Keeping the Answer and Cutting Latency When an LLM Agent Skips Another's Message**|Xinyang Li et.al.|[2611.23570_(ATC)](http://arxiv.org/abs/2611.23570)|
 |**2026-11-24**|**LLM-based Personalized Travel Planner**|Amandi Nimasha et.al.|[2611.25531](http://arxiv.org/abs/2611.25531)|

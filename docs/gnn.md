@@ -6,10 +6,11 @@ nav_order: 3
 
 # GNN Papers
 
-_Updated on 2026.11.25_
+_Updated on 2026.11.26_
 
 | Publish Date | Title | Authors | PDF |
 |:-------------|:------|:--------|:----|
+|**2026-11-25**|**Scalable Heterogeneous Graph Foundation Models for Data-Driven Optimal Power Flow in Smart Grids**|Massimiliano Lupo Pasini et.al.|[2605.23194](http://arxiv.org/abs/2605.23194)|
 |**2026-11-22**|**Graph Neural Networks for Accurate Quasiparticle Energy Levels in Large Supercells of Transition Metal Dichalcogenides**|Rafael R. Del Grande et.al.|[2611.29349](http://arxiv.org/abs/2611.29349)|
 |**2026-11-19**|**Phantom of the Masquerade: Graph Neural Network-Based Detection of Masquerade Attacks in Controller Area Networks**|Nehal Ameen et.al.|[2611.26094](http://arxiv.org/abs/2611.26094)|
 |**2026-11-08**|**GARDEN: Efficient GPU-Accelerated Billion-Scale GNN Training via Caching-Sampling-Batching Co-Design**|Qingrui Zhu et.al.|[2611.11043](http://arxiv.org/abs/2611.11043)|
@@ -21,7 +22,6 @@ _Updated on 2026.11.25_
 |**2026-10-05**|**Answer Set Networks: Casting Answer Set Programming into Deep Learning**|Arseny Skryagin et.al.|[2412.14814](http://arxiv.org/abs/2412.14814)|
 |**2026-09-30**|**Efficient Graph Neural Networks for Multicarrier Wideband Hybrid Beamforming Optimization**|Beier Li et.al.|[2609.09708](http://arxiv.org/abs/2609.09708)|
 |**2026-09-29**|**BandPC: Learning Residual-Band Preconditioner Combinations for Flexible Conjugate Gradient Solvers**|D. M. Li et.al.|[2609.37140](http://arxiv.org/abs/2609.37140)|
-|**2026-09-28**|**Scalable Heterogeneous Graph Foundation Models for Data-Driven Optimal Power Flow in Smart Grids**|Massimiliano Lupo Pasini et.al.|[2605.23194](http://arxiv.org/abs/2605.23194)|
 |**2026-09-23**|**A Scalable Multi-Robot Framework for Decentralized and Asynchronous Perception-Action-Communication Loops**|Saurav Agarwal et.al.|[2309.10164](http://arxiv.org/abs/2309.10164)|
 |**2026-09-21**|**Reforge: Low-Latency Distributed GNN Serving with Selective Embedding Recomputation**|Geon-Woo Kim et.al.|[2501.08547_(IPDPS)](http://arxiv.org/abs/2501.08547)|
 |**2026-09-19**|**Sharing a Fabric with Collective Communication: Two Storage Penalties in Deep Learning Training**|Chen Wang et.al.|[2609.06506](http://arxiv.org/abs/2609.06506)|
